@@ -5,16 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <meta name="theme-color" content="#0a0a0a"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
-  <meta name="apple-mobile-web-app-title" content="Timão"/>
+  <meta name="apple-mobile-web-app-title" content="Timao"/>
   <title>Wanderson - Corinthians</title>
+  <style>body{margin:0;background:#0a0a0a;color:#f0f0f0}</style>
 </head>
-<body style="margin:0;background:#0a0a0a">
-  <div id="root"></div>
-  <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
-  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
-  <script src="https://unpkg.com/@babel/standalone@7.23.5/babel.min.js"></script>
-  <script type="text/babel" data-presets="react">
-    const { useState, useEffect, useRef, useCallback } = React;
+<body>
+  <div id="root"><div style="display:flex;align-items:center;justify-content:center;height:100vh;color:#c8a84b;font-family:sans-serif;font-size:1.2rem">Carregando...</div></div>
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
+  <script type="text/babel">
 
 // ── CONFIG ───────────────────────────────────────────────
 const APP_NAME = "Wanderson - Corinthians";
@@ -215,49 +215,49 @@ const RESULTS = [
 
 const SQUAD = {
   Goleiros: [
-    { num:1,  name:"Hugo Souza",        pos:"GL",     age:24, nat:"🇧🇷", apps:8,  goals:0, assists:0 },
-    { num:32, name:"Matheus Donelli",   pos:"GL",     age:21, nat:"🇧🇷", apps:0,  goals:0, assists:0 },
-    { num:40, name:"Felipe Longo",      pos:"GL",     age:18, nat:"🇧🇷", apps:1,  goals:0, assists:0 },
-    { num:51, name:"Kauê Camargo",      pos:"GL",     age:20, nat:"🇧🇷", apps:0,  goals:0, assists:0 },
+    { num:1,  name:"Hugo Souza",        pos:"GL",     age:24, nat:"BR", apps:8,  goals:0, assists:0 },
+    { num:32, name:"Matheus Donelli",   pos:"GL",     age:21, nat:"BR", apps:0,  goals:0, assists:0 },
+    { num:40, name:"Felipe Longo",      pos:"GL",     age:18, nat:"BR", apps:1,  goals:0, assists:0 },
+    { num:51, name:"Kauê Camargo",      pos:"GL",     age:20, nat:"BR", apps:0,  goals:0, assists:0 },
   ],
   Zagueiros: [
-    { num:3,  name:"Gabriel Paulista",  pos:"ZAG",    age:35, nat:"🇧🇷", apps:9,  goals:2, assists:0 },
-    { num:5,  name:"André Ramalho",     pos:"ZAG",    age:31, nat:"🇧🇷", apps:6,  goals:1, assists:0 },
-    { num:13, name:"Gustavo Henrique",  pos:"ZAG",    age:30, nat:"🇧🇷", apps:9,  goals:1, assists:0 },
-    { num:25, name:"Cacá",              pos:"ZAG",    age:24, nat:"🇧🇷", apps:1,  goals:0, assists:0 },
-    { num:47, name:"João Pedro",        pos:"ZAG",    age:22, nat:"🇧🇷", apps:0,  goals:0, assists:0 },
-    { num:59, name:"Jacaré",            pos:"ZAG",    age:19, nat:"🇧🇷", apps:0,  goals:0, assists:0 },
+    { num:3,  name:"Gabriel Paulista",  pos:"ZAG",    age:35, nat:"BR", apps:9,  goals:2, assists:0 },
+    { num:5,  name:"André Ramalho",     pos:"ZAG",    age:31, nat:"BR", apps:6,  goals:1, assists:0 },
+    { num:13, name:"Gustavo Henrique",  pos:"ZAG",    age:30, nat:"BR", apps:9,  goals:1, assists:0 },
+    { num:25, name:"Cacá",              pos:"ZAG",    age:24, nat:"BR", apps:1,  goals:0, assists:0 },
+    { num:47, name:"João Pedro",        pos:"ZAG",    age:22, nat:"BR", apps:0,  goals:0, assists:0 },
+    { num:59, name:"Jacaré",            pos:"ZAG",    age:19, nat:"BR", apps:0,  goals:0, assists:0 },
   ],
   Laterais: [
-    { num:2,  name:"Matheuzinho",       pos:"LD",     age:23, nat:"🇧🇷", apps:9,  goals:0, assists:0 },
-    { num:20, name:"Pedro Milans",      pos:"LD",     age:23, nat:"🇺🇾", apps:2,  goals:0, assists:0 },
-    { num:21, name:"Matheus Bidu",      pos:"LE",     age:24, nat:"🇧🇷", apps:9,  goals:1, assists:0 },
-    { num:26, name:"Angileri",          pos:"LE",     age:31, nat:"🇦🇷", apps:1,  goals:0, assists:0 },
-    { num:46, name:"Hugo",              pos:"LE",     age:26, nat:"🇧🇷", apps:3,  goals:0, assists:0 },
+    { num:2,  name:"Matheuzinho",       pos:"LD",     age:23, nat:"BR", apps:9,  goals:0, assists:0 },
+    { num:20, name:"Pedro Milans",      pos:"LD",     age:23, nat:"URU", apps:2,  goals:0, assists:0 },
+    { num:21, name:"Matheus Bidu",      pos:"LE",     age:24, nat:"BR", apps:9,  goals:1, assists:0 },
+    { num:26, name:"Angileri",          pos:"LE",     age:31, nat:"ARG", apps:1,  goals:0, assists:0 },
+    { num:46, name:"Hugo",              pos:"LE",     age:26, nat:"BR", apps:3,  goals:0, assists:0 },
   ],
   "Meio-campo": [
-    { num:7,  name:"Breno Bidon",       pos:"VOL",    age:20, nat:"🇧🇷", apps:8,  goals:2, assists:0 },
-    { num:8,  name:"Rodrigo Garro",     pos:"MEI",    age:28, nat:"🇦🇷", apps:7,  goals:0, assists:2 },
-    { num:14, name:"Raniele",           pos:"VOL",    age:29, nat:"🇧🇷", apps:8,  goals:0, assists:0 },
-    { num:19, name:"André Carrillo",    pos:"MEI",    age:34, nat:"🇵🇪", apps:12, goals:0, assists:0 },
-    { num:23, name:"Matheus Pereira",   pos:"MEI",    age:27, nat:"🇧🇷", apps:7,  goals:0, assists:0 },
-    { num:29, name:"Allan",             pos:"VOL",    age:28, nat:"🇧🇷", apps:2,  goals:0, assists:0 },
-    { num:35, name:"Charles",           pos:"VOL",    age:29, nat:"🇧🇷", apps:6,  goals:0, assists:0 },
-    { num:48, name:"Guilherme Amorim",  pos:"MEI",    age:18, nat:"🇧🇷", apps:0,  goals:0, assists:0 },
-    { num:49, name:"André",             pos:"VOL",    age:19, nat:"🇧🇷", apps:8,  goals:2, assists:0 },
-    { num:52, name:"Labyad",            pos:"MEI/AT", age:32, nat:"🇲🇦", apps:3,  goals:0, assists:0 },
-    { num:54, name:"Luiz Gustavo",      pos:"VOL",    age:20, nat:"🇧🇷", apps:1,  goals:0, assists:0 },
-    { num:61, name:"Dieguinho",         pos:"PE",     age:18, nat:"🇧🇷", apps:5,  goals:1, assists:1 },
-    { num:70, name:"José Martínez",     pos:"VOL",    age:31, nat:"🇻🇪", apps:12, goals:0, assists:1 },
-    { num:77, name:"Jesse Lingard",     pos:"MEI/AT", age:33, nat:"🏴󠁧󠁢󠁥󠁮󠁧󠁿", apps:2,  goals:0, assists:0 },
+    { num:7,  name:"Breno Bidon",       pos:"VOL",    age:20, nat:"BR", apps:8,  goals:2, assists:0 },
+    { num:8,  name:"Rodrigo Garro",     pos:"MEI",    age:28, nat:"ARG", apps:7,  goals:0, assists:2 },
+    { num:14, name:"Raniele",           pos:"VOL",    age:29, nat:"BR", apps:8,  goals:0, assists:0 },
+    { num:19, name:"André Carrillo",    pos:"MEI",    age:34, nat:"PER", apps:12, goals:0, assists:0 },
+    { num:23, name:"Matheus Pereira",   pos:"MEI",    age:27, nat:"BR", apps:7,  goals:0, assists:0 },
+    { num:29, name:"Allan",             pos:"VOL",    age:28, nat:"BR", apps:2,  goals:0, assists:0 },
+    { num:35, name:"Charles",           pos:"VOL",    age:29, nat:"BR", apps:6,  goals:0, assists:0 },
+    { num:48, name:"Guilherme Amorim",  pos:"MEI",    age:18, nat:"BR", apps:0,  goals:0, assists:0 },
+    { num:49, name:"André",             pos:"VOL",    age:19, nat:"BR", apps:8,  goals:2, assists:0 },
+    { num:52, name:"Labyad",            pos:"MEI/AT", age:32, nat:"MAR", apps:3,  goals:0, assists:0 },
+    { num:54, name:"Luiz Gustavo",      pos:"VOL",    age:20, nat:"BR", apps:1,  goals:0, assists:0 },
+    { num:61, name:"Dieguinho",         pos:"PE",     age:18, nat:"BR", apps:5,  goals:1, assists:1 },
+    { num:70, name:"José Martínez",     pos:"VOL",    age:31, nat:"VEN", apps:12, goals:0, assists:1 },
+    { num:77, name:"Jesse Lingard",     pos:"MEI/AT", age:33, nat:"ING", apps:2,  goals:0, assists:0 },
   ],
   Atacantes: [
-    { num:9,  name:"Yuri Alberto",      pos:"CA",     age:25, nat:"🇧🇷", apps:9,  goals:3, assists:0 },
-    { num:10, name:"Memphis Depay",     pos:"CA",     age:31, nat:"🇳🇱", apps:6,  goals:1, assists:1 },
-    { num:11, name:"Vitinho",           pos:"PE",     age:32, nat:"🇧🇷", apps:9,  goals:1, assists:0 },
-    { num:18, name:"Pedro Raul",        pos:"CA",     age:29, nat:"🇧🇷", apps:8,  goals:0, assists:1 },
-    { num:31, name:"Kayke",             pos:"PE",     age:21, nat:"🇧🇷", apps:5,  goals:1, assists:1 },
-    { num:56, name:"Gui Negão",         pos:"CA",     age:18, nat:"🇧🇷", apps:6,  goals:1, assists:0 },
+    { num:9,  name:"Yuri Alberto",      pos:"CA",     age:25, nat:"BR", apps:9,  goals:3, assists:0 },
+    { num:10, name:"Memphis Depay",     pos:"CA",     age:31, nat:"HOL", apps:6,  goals:1, assists:1 },
+    { num:11, name:"Vitinho",           pos:"PE",     age:32, nat:"BR", apps:9,  goals:1, assists:0 },
+    { num:18, name:"Pedro Raul",        pos:"CA",     age:29, nat:"BR", apps:8,  goals:0, assists:1 },
+    { num:31, name:"Kayke",             pos:"PE",     age:21, nat:"BR", apps:5,  goals:1, assists:1 },
+    { num:56, name:"Gui Negão",         pos:"CA",     age:18, nat:"BR", apps:6,  goals:1, assists:0 },
   ],
 };
 
@@ -721,8 +721,9 @@ export default function App() {
   );
 }
 
-    const root = ReactDOM.createRoot(document.getElementById('root'));
-    root.render(React.createElement(App));
+    const container = document.getElementById('root');
+    const root = ReactDOM.createRoot(container);
+    root.render(<App />);
   </script>
 </body>
 </html>
