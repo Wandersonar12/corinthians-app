@@ -4,6 +4,7 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <meta name="theme-color" content="#0a0a0a"/>
+  <meta name="mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-title" content="Timao"/>
   <title>Wanderson - Corinthians</title>
@@ -14,7 +15,7 @@
   <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
   <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
   <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
-  <script type="text/babel">
+  <script type="text/babel" data-type="module">
 
 // ── CONFIG ───────────────────────────────────────────────
 const APP_NAME = "Wanderson - Corinthians";
@@ -557,7 +558,7 @@ function GameCard({g}) {
 }
 
 
-export default function App() {
+function App() {
   const [tab, setTab] = useState("noticias");
   const [gFilter, setGFilter] = useState("results");
   const [standComp] = useState("Brasileirão 2026");
