@@ -1,14 +1,78 @@
-// Gerado automaticamente em 19/03/2026, 19:56:40
+// Gerado automaticamente em 19/03/2026, 23:01:23
 const LIVE_DATA = {
-  "updatedAt": "2026-03-19T19:56:40.283Z",
+  "updatedAt": "2026-03-19T23:01:23.060Z",
   "news": [
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta a Chapecoense em busca da sexta vitória seguida no duelo; veja o retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529312/corinthians-enfrenta-a-chapecoense-em-busca-da-sexta-vitoria-seguida-no-duelo-veja-o-retrospecto",
+      "time": "19/03 · 22:30",
+      "pubDate": "Thu, 19 Mar 2026 19:30:00 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Corinthians organiza evento para torcedores antes de duelo no domingo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529337/corinthians-organiza-evento-para-torcedores-antes-de-duelo-no-domingo",
+      "time": "19/03 · 22:23",
+      "pubDate": "Thu, 19 Mar 2026 19:23:07 -0300"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "color": "#1a237e",
+      "title": "Jo�o Fonseca vence duelo de quase 2 h e encara Alcaraz na segunda rodada do Miami Open",
+      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/joao-fonseca-vence-duelo-de-quase-2h-e-encara-alcaraz-na-segunda-rodada-do-miami-open.shtml",
+      "time": "19/03 · 21:58",
+      "pubDate": "19 Mar 2026 18:58:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians oferece Angileri e Dieguinho por João Paulo, mas Santos recusa proposta; conversam seguem",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-oferece-angileri-e-dieguinho-por-joao-paulo-mas-santos-recusa-proposta-conversam-seguem]]>",
-      "time": "19/03 · 19:49",
-      "pubDate": "Thu, 19 Mar 2026 16:49:53 -0300"
+      "time": "19/03 · 21:50",
+      "pubDate": "Thu, 19 Mar 2026 18:50:14 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Em busca de reação e apostando em 'lei do ex': como vem a Chapecoense para enfrentar Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529318/em-busca-de-reacao-e-apostando-em-lei-do-ex-como-vem-a-chapecoense-para-enfrentar-corinthians",
+      "time": "19/03 · 21:31",
+      "pubDate": "Thu, 19 Mar 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece adversários e formato da décima edição do Paulistão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529331/corinthians-conhece-adversarios-e-formato-da-decima-edicao-do-paulistao-feminino-sub-17",
+      "time": "19/03 · 21:29",
+      "pubDate": "Thu, 19 Mar 2026 18:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Eduardo Doma pede apoio da torcida da Chapecoense para enfrentar o Corinthians: “Vai fazer a diferença”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/eduardo-doma-pede-apoio-da-torcida-da-chapecoense-para-enfrentar-o-corinthians-vai-fazer-a-diferenca]]>",
+      "time": "19/03 · 21:12",
+      "pubDate": "Thu, 19 Mar 2026 18:12:11 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians deve retornar ao time titular contra a Chapecoense após três jogos no banco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529308/zagueiro-do-corinthians-deve-retornar-ao-time-titular-contra-a-chapecoense-apos-tres-jogos-no-banco",
+      "time": "19/03 · 20:31",
+      "pubDate": "Thu, 19 Mar 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Corinthians domina Red Bull Bragantino e vence a terceira seguida no Brasileirão Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529323/corinthians-domina-red-bull-bragantino-e-vence-a-terceira-seguida-no-brasileirao-feminino-sub-20",
+      "time": "19/03 · 20:10",
+      "pubDate": "Thu, 19 Mar 2026 17:10:00 -0300"
     },
     {
       "source": "Meu Timão",
@@ -51,14 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 19 Mar 2026 15:36:20 -0300"
     },
     {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Movimento por expulsão de ex-presidentes do Corinthians ultrapassa a marca de 40 mil assinaturas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529313/movimento-por-expulsao-de-ex-presidentes-do-corinthians-ultrapassa-a-marca-de-40-mil-assinaturas",
-      "time": "19/03 · 18:31",
-      "pubDate": "Thu, 19 Mar 2026 15:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay é aprovado no Corinthians e comparação com Ronaldo Fenômeno repercute: “Ajudou a mudar”",
@@ -75,60 +131,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 19 Mar 2026 14:54:29 -0300"
     },
     {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem sete desfalques e seis pendurados para duelo com a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529303/corinthians-tem-sete-desfalques-e-seis-pendurados-para-duelo-com-a-chapecoense",
-      "time": "19/03 · 17:31",
-      "pubDate": "Thu, 19 Mar 2026 14:31:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Sorteio da Libertadores pode fazer Corinthians reencontrar 'carrascos' e 'fregueses' no torneio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529274/sorteio-da-libertadores-pode-fazer-corinthians-reencontrar-carrascos-e-fregueses-no-torneio",
-      "time": "19/03 · 16:30",
-      "pubDate": "Thu, 19 Mar 2026 13:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians desiste da contratação do goleiro Bruno Bertinato, da Portuguesa, por falha contra o Paysandu",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-desiste-da-contratacao-do-goleiro-bruno-bertinato-da-portuguesa-por-falha-contra-o-paysandu]]>",
       "time": "19/03 · 15:48",
       "pubDate": "Thu, 19 Mar 2026 12:48:08 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode ganhar três posições na tabela do Brasileirão caso vença a Chapecoense; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529302/corinthians-pode-ganhar-tres-posicoes-na-tabela-do-brasileirao-caso-venca-a-chapecoense-confira",
-      "time": "19/03 · 15:30",
-      "pubDate": "Thu, 19 Mar 2026 12:30:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para o clássico contra o Sesi Franca pelo NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529309/corinthians-inicia-venda-de-ingressos-para-o-classico-contra-o-sesi-franca-pelo-nbb",
-      "time": "19/03 · 15:23",
-      "pubDate": "Thu, 19 Mar 2026 12:23:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Corinthians reencontra árbitro da final da Copa do Brasil no duelo contra a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529300/corinthians-reencontra-arbitro-da-final-da-copa-do-brasil-no-duelo-contra-a-chapecoense",
-      "time": "19/03 · 14:30",
-      "pubDate": "Thu, 19 Mar 2026 11:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians monitora João Paulo e outros nomes para ser reserva de Hugo Souza no gol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-joao-paulo-e-outros-nomes-para-ser-reserva-de-hugo-souza-no-gol]]>",
-      "time": "19/03 · 14:29",
-      "pubDate": "Thu, 19 Mar 2026 11:29:44 -0300"
     },
     {
       "source": "Bolavip",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/blogs/e-logo-ali/2026/03/programa-gratuito-promove-trilhas-por-parques-de-sao-paulo.shtml",
       "time": "19/03 · 02:00",
       "pubDate": "18 Mar 2026 23:00:00 -0300"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "color": "#1a237e",
-      "title": "Messi alcan�a marca de 900 gols na carreira",
-      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/messi-alcanca-marca-de-900-gols-na-carreira.shtml",
-      "time": "19/03 · 00:54",
-      "pubDate": "18 Mar 2026 21:54:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
