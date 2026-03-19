@@ -540,7 +540,33 @@ export default function App() {
   const [chatInput, setChatInput] = useState("");
   const [chatLoading, setChatLoading] = useState(false);
 
-  const displayGames = gFilter==="upcoming" ? UPCOMING : gFilter==="results" ? RESULTS : [...RESULTS,...UPCOMING];
+  const [upcoming, setUpcoming] = useState(UPCOMING);
+  const [results, setResults] = useState(RESULTS);
+  const [apiNews, setApiNews] = useState(NEWS);
+  const liveRef = useRef(null);
+
+  const fetchLive = useCallback(async () => {
+    try {
+      const r = await fetch('/api/fixtures?type=live');
+      if (r.ok) { const d = await r.json(); console.log('live:', d); }
+    } catch(e) {}
+  }, []);
+
+  useEffect(() => {
+    fetch('/api/fixtures?type=upcoming').then(r => r.ok ? r.json() : null).then(d => {
+      if (d?.length) setUpcoming(d.map(f => ({ id:f.fixture.id, date:f.fixture.date, status:f.fixture.status?.short||"NS", home:f.teams.home.name, homeId:f.teams.home.id, away:f.teams.away.name, awayId:f.teams.away.id, comp:f.league.name, round:f.league.round, venue:f.fixture.venue?.name||"" })));
+    }).catch(()=>{});
+    fetch('/api/fixtures?type=results').then(r => r.ok ? r.json() : null).then(d => {
+      if (d?.length) setResults(d.map(f => ({ id:f.fixture.id, date:f.fixture.date, status:"FT", home:f.teams.home.name, homeId:f.teams.home.id, away:f.teams.away.name, awayId:f.teams.away.id, homeScore:f.goals.home, awayScore:f.goals.away, comp:f.league.name, round:f.league.round, venue:f.fixture.venue?.name||"" })));
+    }).catch(()=>{});
+    fetch('/api/news').then(r => r.ok ? r.json() : null).then(d => { if (d?.length) setApiNews(d); }).catch(()=>{});
+    fetchLive();
+    liveRef.current = setInterval(fetchLive, 30000);
+    return () => clearInterval(liveRef.current);
+  }, [fetchLive]);
+
+  const displayNews = apiNews;
+  const displayGames = gFilter==="results" ? results : gFilter==="upcoming" ? upcoming : [...results,...upcoming];
 
   const sendChat = useCallback(async (msg) => {
     if(!msg.trim()) return;
