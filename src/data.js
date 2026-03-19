@@ -1,7 +1,103 @@
-// Gerado automaticamente em 19/03/2026, 15:39:21
+// Gerado automaticamente em 19/03/2026, 19:56:40
 const LIVE_DATA = {
-  "updatedAt": "2026-03-19T15:39:21.327Z",
+  "updatedAt": "2026-03-19T19:56:40.283Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians oferece Angileri e Dieguinho por João Paulo, mas Santos recusa proposta; conversam seguem",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-oferece-angileri-e-dieguinho-por-joao-paulo-mas-santos-recusa-proposta-conversam-seguem]]>",
+      "time": "19/03 · 19:49",
+      "pubDate": "Thu, 19 Mar 2026 16:49:53 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Atacantes reservas do Corinthians tentam retomar protagonismo contra a Chapecoense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529307/atacantes-reservas-do-corinthians-tentam-retomar-protagonismo-contra-a-chapecoense",
+      "time": "19/03 · 19:31",
+      "pubDate": "Thu, 19 Mar 2026 16:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Chapecoense x Corinthians: inteligência artificial projeta empate na Arena Condá pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/chapecoense-x-corinthians-inteligencia-artificial-projeta-empate-na-arena-conda-pelo-brasileirao]]>",
+      "time": "19/03 · 19:28",
+      "pubDate": "Thu, 19 Mar 2026 16:28:40 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Corinthians atinge marca histórica de jogos no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529320/corinthians-atinge-marca-historica-de-jogos-no-brasileirao-feminino",
+      "time": "19/03 · 19:16",
+      "pubDate": "Thu, 19 Mar 2026 16:16:00 -0300"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "color": "#1a237e",
+      "title": "Bola de cristal",
+      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/03/bola-de-cristal.shtml",
+      "time": "19/03 · 19:16",
+      "pubDate": "19 Mar 2026 16:16:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kaio César é desfalque no Corinthians com problema na coxa e vira preocupação nos bastidores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-desfalque-corinthians-chape]]>",
+      "time": "19/03 · 18:36",
+      "pubDate": "Thu, 19 Mar 2026 15:36:20 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Movimento por expulsão de ex-presidentes do Corinthians ultrapassa a marca de 40 mil assinaturas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529313/movimento-por-expulsao-de-ex-presidentes-do-corinthians-ultrapassa-a-marca-de-40-mil-assinaturas",
+      "time": "19/03 · 18:31",
+      "pubDate": "Thu, 19 Mar 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay é aprovado no Corinthians e comparação com Ronaldo Fenômeno repercute: “Ajudou a mudar”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-e-aprovado-no-corinthians-e-comparacao-com-ronaldo-fenomeno-repercute-ajudou-a-mudar]]>",
+      "time": "19/03 · 18:29",
+      "pubDate": "Thu, 19 Mar 2026 15:29:53 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aceita contratação de Arthur Cabral com divisão de salários e se Pedro Raul for negociado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-contratacao-de-arthur-cabral-saida-pedro-raul]]>",
+      "time": "19/03 · 17:54",
+      "pubDate": "Thu, 19 Mar 2026 14:54:29 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem sete desfalques e seis pendurados para duelo com a Chapecoense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529303/corinthians-tem-sete-desfalques-e-seis-pendurados-para-duelo-com-a-chapecoense",
+      "time": "19/03 · 17:31",
+      "pubDate": "Thu, 19 Mar 2026 14:31:00 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Sorteio da Libertadores pode fazer Corinthians reencontrar 'carrascos' e 'fregueses' no torneio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529274/sorteio-da-libertadores-pode-fazer-corinthians-reencontrar-carrascos-e-fregueses-no-torneio",
+      "time": "19/03 · 16:30",
+      "pubDate": "Thu, 19 Mar 2026 13:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians desiste da contratação do goleiro Bruno Bertinato, da Portuguesa, por falha contra o Paysandu",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-desiste-da-contratacao-do-goleiro-bruno-bertinato-da-portuguesa-por-falha-contra-o-paysandu]]>",
+      "time": "19/03 · 15:48",
+      "pubDate": "Thu, 19 Mar 2026 12:48:08 -0300"
+    },
     {
       "source": "Meu Timão",
       "color": "#1a7a3a",
@@ -17,14 +113,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529309/corinthians-inicia-venda-de-ingressos-para-o-classico-contra-o-sesi-franca-pelo-nbb",
       "time": "19/03 · 15:23",
       "pubDate": "Thu, 19 Mar 2026 12:23:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians desiste da contratação do goleiro Bruno Bertinato, da Portuguesa, por falha contra o Paysandu",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-desiste-da-contratacao-do-goleiro-bruno-bertinato-da-portuguesa-por-falha-contra-o-paysandu]]>",
-      "time": "19/03 · 15:10",
-      "pubDate": "Thu, 19 Mar 2026 12:10:01 -0300"
     },
     {
       "source": "Meu Timão",
@@ -51,36 +139,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 19 Mar 2026 11:04:44 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Manolo Gabbiadini no Corinthians como novo centroavante não tem chance de acontecer após rumores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/manolo-gabbiadini-no-corinthians-como-novo-centroavante-nao-tem-chance-de-acontecer-apos-rumores]]>",
-      "time": "19/03 · 13:48",
-      "pubDate": "Thu, 19 Mar 2026 10:48:40 -0300"
-    },
-    {
       "source": "Folha de S.Paulo",
       "color": "#1a237e",
       "title": "Coreia do Norte e Filipinas se classificam para Copa do Mundo feminina no Brasil",
       "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/coreia-do-norte-e-filipinas-se-classificam-para-copa-do-mundo-feminina-no-brasil.shtml",
       "time": "19/03 · 13:41",
       "pubDate": "19 Mar 2026 10:41:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Bragantino em disputa pela liderança do Brasileiro Feminino Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529275/corinthians-recebe-o-bragantino-em-disputa-pela-lideranca-do-brasileiro-feminino-sub-20-saiba-tudo",
-      "time": "19/03 · 13:33",
-      "pubDate": "Thu, 19 Mar 2026 10:33:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Presidente e vice do CD apontam irregularidades na convocação de reunião do órgão por Stabile",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529304/presidente-e-vice-do-cd-apontam-irregularidades-na-convocacao-de-reuniao-do-orgao-por-stabile",
-      "time": "19/03 · 13:27",
-      "pubDate": "Thu, 19 Mar 2026 10:27:07 -0300"
     },
     {
       "source": "Folha de S.Paulo",
@@ -107,62 +171,6 @@ const LIVE_DATA = {
       "pubDate": "19 Mar 2026 10:00:00 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians enfrenta a Chapecoense, pelo Brasileirão, com seis jogadores pendurados e gera preocupação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-a-chapecoense-pelo-brasileirao-com-seis-jogadores-pendurados-e-gera-preocupacao]]>",
-      "time": "19/03 · 12:44",
-      "pubDate": "Thu, 19 Mar 2026 09:44:03 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians convoca CD para votar afastamento de Romeu Tuma Júnior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529301/presidente-do-corinthians-convoca-cd-para-votar-afastamento-de-romeu-tuma-junior",
-      "time": "19/03 · 12:35",
-      "pubDate": "Thu, 19 Mar 2026 09:35:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz descarta pressão sobre Dorival e garante permanência do técnico no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-descarta-pressao-sobre-dorival-e-garante-permanencia-do-tecnico-no-corinthians]]>",
-      "time": "19/03 · 12:33",
-      "pubDate": "Thu, 19 Mar 2026 09:33:20 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece grupo da Libertadores 2026 nesta quinta-feira; saiba tudo sobre o sorteio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529263/corinthians-conhece-grupo-da-libertadores-2026-nesta-quinta-feira-saiba-tudo-sobre-o-sorteio",
-      "time": "19/03 · 12:32",
-      "pubDate": "Thu, 19 Mar 2026 09:32:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians terá Yuri Alberto contra Chapecoense após atacante adiar retorno para ganhar mais confiança",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-yuri-alberto-contra-chapecoense-apos-atacante-adiar-retorno-para-ganhar-mais-confianca]]>",
-      "time": "19/03 · 12:07",
-      "pubDate": "Thu, 19 Mar 2026 09:07:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Maceió é colocado na mesa do Corinthians e contratação é recusada pela diretoria nos bastidores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/maceio-e-colocado-na-mesa-do-corinthians-e-contratacao-e-recusada-pela-diretoria-nos-bastidores]]>",
-      "time": "19/03 · 11:33",
-      "pubDate": "Thu, 19 Mar 2026 08:33:51 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Saiba a única opção para assistir ao confronto entre Corinthians e Chapecoense pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529273/saiba-a-unica-opcao-para-assistir-ao-confronto-entre-corinthians-e-chapecoense-pelo-brasileirao",
-      "time": "19/03 · 11:30",
-      "pubDate": "Thu, 19 Mar 2026 08:30:00 -0300"
-    },
-    {
       "source": "Folha de S.Paulo",
       "color": "#1a237e",
       "title": "Santos demite Vojvoda e anuncia contrata��o de Cuca",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/messi-alcanca-marca-de-900-gols-na-carreira.shtml",
       "time": "19/03 · 00:54",
       "pubDate": "18 Mar 2026 21:54:00 -0300"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "color": "#1a237e",
-      "title": "&apos;Po, Ancelotti, e eu?&apos;, reage Neymar durante a convoca��o",
-      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/po-ancelotti-e-eu-reage-neymar-durante-a-convocacao.shtml",
-      "time": "18/03 · 23:44",
-      "pubDate": "18 Mar 2026 20:44:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
