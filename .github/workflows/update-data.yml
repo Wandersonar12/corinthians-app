@@ -1,0 +1,40 @@
+bash
+
+cat /home/claude/corinthians-app/.github/workflows/update-data.yml
+Saída
+
+name: Atualizar Dados Corinthians
+
+on:
+  schedule:
+    - cron: '0 8,12,18,22 * * *'  # Roda 4x por dia: 8h, 12h, 18h, 22h
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Instalar dependências
+        run: npm install node-fetch xml2js --prefix /tmp/deps
+
+      - name: Buscar e atualizar dados
+        run: node scripts/update-data.js
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+
+      - name: Commit e push se houver mudanças
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/data.js
+          git diff --staged --quiet || git commit -m "Dados atualizados automaticamente $(date '+%d/%m/%Y %H:%M')"
+          git push
