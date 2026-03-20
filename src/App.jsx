@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef, useCallback } from "react";
-import LIVE_DATA from "./data";
 
 // ── CONFIG ───────────────────────────────────────────────
 const APP_NAME = "Wanderson - Corinthians";
@@ -67,6 +66,20 @@ const UPCOMING = [
 ];
 
 const RESULTS = [
+  { id:20, date:"2026-03-19T21:30:00", status:"FT", home:"Chapecoense", homeId:182, away:"Corinthians", awayId:131, homeScore:0, awayScore:0,
+    comp:"Brasileirão 2026", round:"Rodada 7", venue:"Arena Condá, Chapecó-SC",
+    stats:{
+      homePoss:36, awayPoss:64, homeShots:14, awayShots:13, homeShotsOn:3, awayShotsOn:4,
+      homeFouls:14, awayFouls:12, homeCorners:6, awayCorners:4, homeYellow:2, awayYellow:4,
+      homeRed:0, awayRed:0,
+      events:[
+        {min:28, type:"card", team:"away", player:"Angileri",        assist:"", detail:"Cartão Amarelo"},
+        {min:44, type:"card", team:"away", player:"André Ramalho",   assist:"", detail:"Cartão Amarelo"},
+        {min:52, type:"card", team:"away", player:"Yuri Alberto",    assist:"", detail:"Cartão Amarelo"},
+        {min:77, type:"card", team:"away", player:"João Pedro Tchoca",assist:"",detail:"Cartão Amarelo"},
+      ],
+    }
+  },
   { id:10, date:"2026-03-15T16:00:00", status:"FT", home:"Santos", homeId:118, away:"Corinthians", awayId:131, homeScore:1, awayScore:1,
     comp:"Brasileirão 2026", round:"Rodada 6", venue:"Vila Belmiro, Santos-SP",
     stats:{
@@ -546,16 +559,37 @@ export default function App() {
   const [tab, setTab] = useState("noticias");
   const [gFilter, setGFilter] = useState("results");
   const [standComp] = useState("Brasileirão 2026");
-  const [chat, setChat] = useState([{role:"assistant",content:`Olá, Wanderson! 🖤⚽\n\nSou seu assistente do Corinthians. Próximo jogo: Chapecoense x Timão amanhã (19/03) às 21h30 na Arena Condá!\n\nPergunte qualquer coisa sobre o Timão.`}]);
+  const [chat, setChat] = useState([{role:"assistant",content:`Olá, Wanderson! 🖤⚽\n\nSou seu assistente do Corinthians. Próximo jogo: Corinthians x Flamengo domingo (22/03) às 20h30 na Neo Química Arena!\n\nPergunte qualquer coisa sobre o Timão.`}]);
   const [chatInput, setChatInput] = useState("");
   const [chatLoading, setChatLoading] = useState(false);
 
   // Use live data if available, fallback to static
-  const liveNews = LIVE_DATA?.news?.length ? LIVE_DATA.news : NEWS;
-  const liveUpcoming = LIVE_DATA?.upcoming?.length ? LIVE_DATA.upcoming.map(g => ({...g, status: g.status || 'NS'})) : UPCOMING;
-  const liveResults = LIVE_DATA?.results?.length ? LIVE_DATA.results : RESULTS;
-  const liveStandings = LIVE_DATA?.standings?.length ? LIVE_DATA.standings : null;
-  const lastUpdated = LIVE_DATA?.updatedAt ? new Date(LIVE_DATA.updatedAt).toLocaleString('pt-BR', {day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}) : null;
+  const [liveNews, setLiveNews] = useState(NEWS);
+  const [liveUpcoming, setLiveUpcoming] = useState(UPCOMING);
+  const [liveResults, setLiveResults] = useState(RESULTS);
+  const [liveStandings, setLiveStandings] = useState(null);
+  const [liveHighlights, setLiveHighlights] = useState(HIGHLIGHTS);
+  const [lastUpdated, setLastUpdated] = useState(null);
+
+  useEffect(() => {
+    // Buscar data.js diretamente do GitHub (sempre atualizado pelo Actions)
+    fetch('https://raw.githubusercontent.com/Wandersonar12/corinthians-app/main/src/data.js')
+      .then(r => r.text())
+      .then(text => {
+        // Parse o JS como JSON extraindo o objeto
+        const match = text.match(/const LIVE_DATA = ({[\s\S]*?});/);
+        if (match) {
+          const data = JSON.parse(match[1]);
+          if (data.news?.length) setLiveNews(data.news);
+          if (data.upcoming?.length) setLiveUpcoming(data.upcoming.map(g => ({...g, status: g.status || 'NS'})));
+          if (data.results?.length) setLiveResults(data.results);
+          if (data.standings?.length) setLiveStandings(data.standings);
+          if (data.highlights?.length) setLiveHighlights(data.highlights);
+          if (data.updatedAt) setLastUpdated(new Date(data.updatedAt).toLocaleString('pt-BR', {day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}));
+        }
+      })
+      .catch(() => {});
+  }, []);
 
   const displayGames = gFilter==="results" ? liveResults : gFilter==="upcoming" ? liveUpcoming : [...liveResults,...liveUpcoming];
 
@@ -672,7 +706,7 @@ export default function App() {
         <div className="page">
           <div className="ph"><div className="pt">Melhores<br/>Momentos</div><div className="ps">Gols e lances · Temporada 2026</div></div>
           <div className="hl-grid">
-            {HIGHLIGHTS.map((h,i)=>(
+            {liveHighlights.map((h,i)=>(
               <a key={i} className="hlc" href={h.url} target="_blank" rel="noopener noreferrer">
                 <div className="hl-thumb">
                   <div className="hl-score">⚽</div>
