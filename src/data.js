@@ -1,7 +1,95 @@
-// Gerado automaticamente em 20/03/2026, 19:51:06
+// Gerado automaticamente em 20/03/2026, 23:00:28
 const LIVE_DATA = {
-  "updatedAt": "2026-03-20T19:51:06.403Z",
+  "updatedAt": "2026-03-20T23:00:28.137Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança por Arthur Cabral e formaliza proposta ao Botafogo por empréstimo até dezembro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-por-arthur-cabral-e-formaliza-proposta-ao-botafogo-por-emprestimo-ate-dezembro]]>",
+      "time": "20/03 · 22:46",
+      "pubDate": "Fri, 20 Mar 2026 19:46:07 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lingard não aparece no BID e aguarda estreia pelo Corinthians após a Data Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529453/lingard-nao-aparece-no-bid-e-aguarda-estreia-pelo-corinthians-apos-a-data-fifa",
+      "time": "20/03 · 22:38",
+      "pubDate": "Fri, 20 Mar 2026 19:38:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Marcelo Paz avalia grupo do Corinthians na Copa Libertadores 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529437/marcelo-paz-avalia-grupo-do-corinthians-na-copa-libertadores-2026",
+      "time": "20/03 · 22:31",
+      "pubDate": "Fri, 20 Mar 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece mudança em critério de desempate na Libertadores; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529449/corinthians-conhece-mudanca-em-criterio-de-desempate-na-libertadores-entenda",
+      "time": "20/03 · 22:05",
+      "pubDate": "Fri, 20 Mar 2026 19:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece calendário da fase de grupos da Copa Libertadores 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529436/corinthians-conhece-calendario-da-fase-de-grupos-da-copa-libertadores-2026",
+      "time": "20/03 · 22:05",
+      "pubDate": "Fri, 20 Mar 2026 19:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André Ramalho projeta Corinthians x Flamengo e confia em vitória: “Podemos vencer”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-ramalho-projeta-corinthians-x-flamengo-e-confia-em-vitoria-podemos-vencer]]>",
+      "time": "20/03 · 21:53",
+      "pubDate": "Fri, 20 Mar 2026 18:53:31 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians admite insatisfação com sequência sem vitória e aprova rodízio no elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529417/volante-do-corinthians-admite-insatisfacao-com-sequencia-sem-vitoria-e-aprova-rodizio-no-elenco",
+      "time": "20/03 · 21:31",
+      "pubDate": "Fri, 20 Mar 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior revela problema no joelho de Memphis Depay após empate do Corinthians: “Todo cuidado”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-revela-problema-no-joelho-de-memphis-depay-apos-empate-do-corinthians-todo-cuidado]]>",
+      "time": "20/03 · 21:15",
+      "pubDate": "Fri, 20 Mar 2026 18:15:55 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra feito inédito na Arena Condá após empate com a Chapecoense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529446/corinthians-registra-feito-inedito-na-arena-conda-apos-empate-com-a-chapecoense",
+      "time": "20/03 · 21:01",
+      "pubDate": "Fri, 20 Mar 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians quer tirar regalias em renovação com Memphis Depay e propõe contrato de dois anos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-regalias-bonificacoes-depay]]>",
+      "time": "20/03 · 20:38",
+      "pubDate": "Fri, 20 Mar 2026 17:38:36 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians defende que atletas sejam poupados para evitar desgaste físico e lesões",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529400/tecnico-do-corinthians-defende-que-atletas-sejam-poupados-para-evitar-desgaste-fisico-e-lesoes",
+      "time": "20/03 · 20:31",
+      "pubDate": "Fri, 20 Mar 2026 17:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,76 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 20 Mar 2026 16:37:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians terá a chance de revanche, confronto inédito e reencontro de uma década na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529404/corinthians-tera-a-chance-de-revanche-confronto-inedito-e-reencontro-de-uma-decada-na-libertadores",
-      "time": "20/03 · 19:31",
-      "pubDate": "Fri, 20 Mar 2026 16:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança por Arthur Cabral e formaliza proposta ao Botafogo por empréstimo até dezembro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-por-arthur-cabral-e-formaliza-proposta-ao-botafogo-por-emprestimo-ate-dezembro]]>",
-      "time": "20/03 · 19:28",
-      "pubDate": "Fri, 20 Mar 2026 16:28:40 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "MP recebe denúncia de associados do Corinthians sobre convocação de Stabile contra Tuma",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529438/mp-recebe-denuncia-de-associados-do-corinthians-sobre-convocacao-de-stabile-contra-tuma",
-      "time": "20/03 · 18:47",
-      "pubDate": "Fri, 20 Mar 2026 15:47:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém invencibilidade e alcança melhor início no Brasileiro Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529338/corinthians-mantem-invencibilidade-e-alcanca-melhor-inicio-no-brasileiro-feminino-sub-20",
-      "time": "20/03 · 18:33",
-      "pubDate": "Fri, 20 Mar 2026 15:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Hugo Souza, do Corinthians, é convocado por Ancelotti para substituir lesionado Alisson nesta Data FIFA",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-do-corinthians-e-convocado-por-ancelotti-para-substituir-lesionado-alisson-nesta-data-fifa]]>",
       "time": "20/03 · 17:44",
       "pubDate": "Fri, 20 Mar 2026 14:44:06 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém baixo aproveitamento em gramados sintéticos após empate com a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529395/corinthians-mantem-baixo-aproveitamento-em-gramados-sinteticos-apos-empate-com-a-chapecoense",
-      "time": "20/03 · 17:34",
-      "pubDate": "Fri, 20 Mar 2026 14:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "André Ramalho reconhece insatisfação da torcida e projeta busca por reação do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529419/andre-ramalho-reconhece-insatisfacao-da-torcida-e-projeta-busca-por-reacao-do-corinthians",
-      "time": "20/03 · 16:33",
-      "pubDate": "Fri, 20 Mar 2026 13:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Hugo Souza é convocado pela Seleção Brasileira e pode desfalcar o Corinthians no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529426/hugo-souza-e-convocado-pela-selecao-brasileira-e-pode-desfalcar-o-corinthians-no-brasileirao",
-      "time": "20/03 · 15:47",
-      "pubDate": "Fri, 20 Mar 2026 12:47:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival celebra retorno de Yuri Alberto e destaca importância do atacante para o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529401/dorival-celebra-retorno-de-yuri-alberto-e-destaca-importancia-do-atacante-para-o-corinthians",
-      "time": "20/03 · 15:31",
-      "pubDate": "Fri, 20 Mar 2026 12:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians e Chapecoense empatam sem gols pela 7ª rodada do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-chapecoense-empatam-sem-gols-pela-7a-rodada-do-brasileirao]]>",
-      "time": "20/03 · 12:42",
-      "pubDate": "Fri, 20 Mar 2026 09:42:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians amplia jejum, iguala sequência de 2024 e pressiona Dorival antes de duelo com o Flamengo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amplia-jejum-iguala-sequencia-de-2024-e-pressiona-dorival-antes-de-duelo-com-o-flamengo]]>",
       "time": "20/03 · 12:38",
       "pubDate": "Fri, 20 Mar 2026 09:38:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians encara Flamengo embalado, e Jardim avisa: “temos muito respeito” antes do duelo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encara-flamengo-embalado-e-jardim-avisa-temos-muito-respeito-antes-do-duelo]]>",
-      "time": "20/03 · 11:05",
-      "pubDate": "Fri, 20 Mar 2026 08:05:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Eduardo Doma pede apoio da torcida da Chapecoense para enfrentar o Corinthians: “Vai fazer a diferença”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/eduardo-doma-pede-apoio-da-torcida-da-chapecoense-para-enfrentar-o-corinthians-vai-fazer-a-diferenca]]>",
-      "time": "19/03 · 21:12",
-      "pubDate": "Thu, 19 Mar 2026 18:12:11 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -228,24 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126777/possibilidade-de-demissao-retorno-de-yuri-alberto-e-mais-coletiva-de-dorival-jr-no-corinthians",
       "pubDate": "Fri, 20 Mar 2026 00:31:00 -0300",
       "date": "20/03 · 03:31"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos Chapecoense 0x0 Corinthians | 7ª rodada | Campeonato brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126775/melhores-momentos-chapecoense-0x0-corinthians-7-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Thu, 19 Mar 2026 23:51:05 -0300",
-      "date": "20/03 · 02:51"
-    },
-    {
-      "title": "Corinthians se distancia do pelotão de cima após empate sem gols no Brasileirão; veja tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529368/corinthians-se-distancia-do-pelotao-de-cima-apos-empate-sem-gols-no-brasileirao-veja-tabela",
-      "pubDate": "Thu, 19 Mar 2026 23:47:00 -0300",
-      "date": "20/03 · 02:47"
-    },
-    {
-      "title": "Corinthians é pouco criativo e fica no empate sem gols com a Chapecoense pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529347/corinthians-e-pouco-criativo-e-fica-no-empate-sem-gols-com-a-chapecoense-pelo-brasileirao",
-      "pubDate": "Thu, 19 Mar 2026 23:30:00 -0300",
-      "date": "20/03 · 02:30"
     }
   ]
 };
