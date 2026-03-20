@@ -1,14 +1,110 @@
-// Gerado automaticamente em 20/03/2026, 10:01:45
+// Gerado automaticamente em 20/03/2026, 14:30:39
 const LIVE_DATA = {
-  "updatedAt": "2026-03-20T10:01:45.477Z",
+  "updatedAt": "2026-03-20T14:30:39.792Z",
   "news": [
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians oferece Angileri e Dieguinho por João Paulo, mas Santos recusa proposta; conversam seguem",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-oferece-angileri-e-dieguinho-por-joao-paulo-mas-santos-recusa-proposta-conversam-seguem]]>",
-      "time": "20/03 · 08:35",
-      "pubDate": "Fri, 20 Mar 2026 05:35:22 -0300"
+      "title": "Corinthians define futuro de Dorival Júnior após sequência negativa e treinador foi mantido no cargo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-futuro-de-dorival-junior-apos-sequencia-negativa-e-treinador-foi-mantido-no-cargo]]>",
+      "time": "20/03 · 13:57",
+      "pubDate": "Fri, 20 Mar 2026 10:57:54 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Dorival coloca eventual demissão nas mãos da diretoria e confia na reação do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529398/dorival-coloca-eventual-demissao-nas-maos-da-diretoria-e-confia-na-reacao-do-corinthians",
+      "time": "20/03 · 13:31",
+      "pubDate": "Fri, 20 Mar 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "color": "#1a237e",
+      "title": "Sele��o iraniana de futebol feminino � homenageada em Teer�",
+      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/selecao-iraniana-de-futebol-feminino-e-homenageada-em-teera.shtml",
+      "time": "20/03 · 13:05",
+      "pubDate": "20 Mar 2026 10:05:00 -0300"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "color": "#1a237e",
+      "title": "Adolescentes da Groenl�ndia se agarram � vida em um ringue de boxe",
+      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/adolescentes-da-groenlandia-se-agarram-a-vida-em-um-ringue-de-boxe.shtml",
+      "time": "20/03 · 13:00",
+      "pubDate": "20 Mar 2026 10:00:00 -0300"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "color": "#1a237e",
+      "title": "LeBron James iguala recorde de jogos disputados na NBA",
+      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/lebron-james-iguala-recorde-de-jogos-disputados-na-nba.shtml",
+      "time": "20/03 · 12:49",
+      "pubDate": "20 Mar 2026 09:49:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians e Chapecoense empatam sem gols pela 7ª rodada do Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-chapecoense-empatam-sem-gols-pela-7a-rodada-do-brasileirao]]>",
+      "time": "20/03 · 12:42",
+      "pubDate": "Fri, 20 Mar 2026 09:42:17 -0300"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "color": "#1a237e",
+      "title": "Fifa aprova regra para aumentar n�mero de treinadoras no futebol feminino",
+      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/fifa-aprova-regra-para-aumentar-numero-de-treinadoras-no-futebol-feminino.shtml",
+      "time": "20/03 · 12:40",
+      "pubDate": "20 Mar 2026 09:40:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians amplia jejum, iguala sequência de 2024 e pressiona Dorival antes de duelo com o Flamengo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amplia-jejum-iguala-sequencia-de-2024-e-pressiona-dorival-antes-de-duelo-com-o-flamengo]]>",
+      "time": "20/03 · 12:38",
+      "pubDate": "Fri, 20 Mar 2026 09:38:50 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians se destaca após empate fora de casa no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529380/zagueiro-do-corinthians-se-destaca-apos-empate-fora-de-casa-no-brasileirao",
+      "time": "20/03 · 12:33",
+      "pubDate": "Fri, 20 Mar 2026 09:33:00 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Memphis é convocado pela Holanda e pode desfalcar o Corinthians no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529414/memphis-e-convocado-pela-holanda-e-pode-desfalcar-o-corinthians-no-brasileirao",
+      "time": "20/03 · 11:31",
+      "pubDate": "Fri, 20 Mar 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Brasília para manter sequência histórica no NBB; veja detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529327/corinthians-visita-o-brasilia-para-manter-sequencia-historica-no-nbb-veja-detalhes",
+      "time": "20/03 · 11:30",
+      "pubDate": "Fri, 20 Mar 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians encara Flamengo embalado, e Jardim avisa: “temos muito respeito” antes do duelo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encara-flamengo-embalado-e-jardim-avisa-temos-muito-respeito-antes-do-duelo]]>",
+      "time": "20/03 · 11:05",
+      "pubDate": "Fri, 20 Mar 2026 08:05:52 -0300"
+    },
+    {
+      "source": "Meu Timão",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: empate no Brasileirão, sorteio da Libertadores e votação do Conselho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529402/ultimas-do-corinthians-empate-no-brasileirao-sorteio-da-libertadores-e-votacao-do-conselho",
+      "time": "20/03 · 10:30",
+      "pubDate": "Fri, 20 Mar 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timão",
@@ -16,7 +112,7 @@ const LIVE_DATA = {
       "title": "VÍDEO: Hugo Souza comenta sobre a sua ausência na última convocação da Seleção Brasileira",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126783/hugo-souza-comenta-sobre-a-sua-ausencia-na-ultima-convocacao-da-selecao-brasileira",
       "time": "20/03 · 04:26",
-      "pubDate": "Fri, 20 Mar 2026 01:26:51 -0300"
+      "pubDate": "Fri, 20 Mar 2026 01:26:00 -0300"
     },
     {
       "source": "Meu Timão",
@@ -33,54 +129,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126780/andre-ramalho-projeta-partida-entre-corinthians-e-flamengo-pelo-brasileirao-2026",
       "time": "20/03 · 04:15",
       "pubDate": "Fri, 20 Mar 2026 01:15:18 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Goleiro e atacante são poupados em noite de notas baixas da Fiel após empate contra a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529397/goleiro-e-atacante-sao-poupados-em-noite-de-notas-baixas-da-fiel-apos-empate-contra-a-chapecoense",
-      "time": "20/03 · 03:56",
-      "pubDate": "Fri, 20 Mar 2026 00:56:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Dorival lamenta novos desfalques no Corinthians e revela dificuldade física de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529396/dorival-lamenta-novos-desfalques-no-corinthians-e-revela-dificuldade-fisica-de-memphis",
-      "time": "20/03 · 03:53",
-      "pubDate": "Fri, 20 Mar 2026 00:53:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians avalia jogo intenso e aponta ineficácia ofensiva em empate com a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529388/tecnico-do-corinthians-avalia-jogo-intenso-e-aponta-ineficacia-ofensiva-em-empate-com-a-chapecoense",
-      "time": "20/03 · 03:46",
-      "pubDate": "Fri, 20 Mar 2026 00:46:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Possibilidade de demissão, retorno de Yuri Alberto e mais: coletiva de Dorival Jr. no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126777/possibilidade-de-demissao-retorno-de-yuri-alberto-e-mais-coletiva-de-dorival-jr-no-corinthians",
-      "time": "20/03 · 03:31",
-      "pubDate": "Fri, 20 Mar 2026 00:31:00 -0300"
-    },
-    {
-      "source": "Meu Timão",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians volta a atuar depois de um mês lesionado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529367/atacante-do-corinthians-volta-a-atuar-depois-de-um-mes-lesionado",
-      "time": "20/03 · 03:18",
-      "pubDate": "Fri, 20 Mar 2026 00:18:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians e Chapecoense empatam sem gols pela 7ª rodada do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-chapecoense-empatam-sem-gols-pela-7a-rodada-do-brasileirao]]>",
-      "time": "20/03 · 02:45",
-      "pubDate": "Thu, 19 Mar 2026 23:45:11 -0300"
     },
     {
       "source": "Folha de S.Paulo",
@@ -145,54 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-e-aprovado-no-corinthians-e-comparacao-com-ronaldo-fenomeno-repercute-ajudou-a-mudar]]>",
       "time": "19/03 · 18:29",
       "pubDate": "Thu, 19 Mar 2026 15:29:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aceita contratação de Arthur Cabral com divisão de salários e se Pedro Raul for negociado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-contratacao-de-arthur-cabral-saida-pedro-raul]]>",
-      "time": "19/03 · 17:54",
-      "pubDate": "Thu, 19 Mar 2026 14:54:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians desiste da contratação do goleiro Bruno Bertinato, da Portuguesa, por falha contra o Paysandu",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-desiste-da-contratacao-do-goleiro-bruno-bertinato-da-portuguesa-por-falha-contra-o-paysandu]]>",
-      "time": "19/03 · 15:48",
-      "pubDate": "Thu, 19 Mar 2026 12:48:08 -0300"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "color": "#1a237e",
-      "title": "Coreia do Norte e Filipinas se classificam para Copa do Mundo feminina no Brasil",
-      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/coreia-do-norte-e-filipinas-se-classificam-para-copa-do-mundo-feminina-no-brasil.shtml",
-      "time": "19/03 · 13:41",
-      "pubDate": "19 Mar 2026 10:41:00 -0300"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "color": "#1a237e",
-      "title": "Ir� vai boicotar os EUA, n�o a Copa, diz presidente da federa��o iraniana",
-      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/ira-vai-boicotar-os-eua-nao-a-copa-diz-presidente-da-federacao-iraniana.shtml",
-      "time": "19/03 · 13:20",
-      "pubDate": "19 Mar 2026 10:20:00 -0300"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "color": "#1a237e",
-      "title": "Sob Roman Abramovich, Chelsea violou regras por anos, diz Premier League",
-      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/sob-roman-abramovich-chelsea-violou-regras-por-anos-diz-premier-league.shtml",
-      "time": "19/03 · 13:00",
-      "pubDate": "19 Mar 2026 10:00:00 -0300"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "color": "#1a237e",
-      "title": "Rayane Fogal detalha prepara��o que a levou ao t�tulo do Arnold Classic Ohio",
-      "url": "https://redir.folha.com.br/redir/online/esporte/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/03/rayane-fogal-detalha-preparacao-que-a-levou-ao-titulo-do-arnold-classic-ohio.shtml",
-      "time": "19/03 · 13:00",
-      "pubDate": "19 Mar 2026 10:00:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
