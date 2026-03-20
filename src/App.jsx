@@ -542,7 +542,7 @@ function GameCard({g}) {
 }
 
 
-function App() {
+export default function App() {
   const [tab, setTab] = useState("noticias");
   const [gFilter, setGFilter] = useState("results");
   const [standComp] = useState("Brasileirão 2026");
