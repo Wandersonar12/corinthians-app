@@ -1,7 +1,87 @@
-// Gerado automaticamente em 21/03/2026, 13:55:03
+// Gerado automaticamente em 21/03/2026, 19:03:51
 const LIVE_DATA = {
-  "updatedAt": "2026-03-21T13:55:03.431Z",
+  "updatedAt": "2026-03-21T19:03:51.321Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto celebra retorno após lesão e agradece apoio no Corinthians: “Trabalhamos muito bem”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-celebra-retorno-apos-lesao-e-agradece-apoio-no-corinthians-trabalhamos-muito-bem]]>",
+      "time": "21/03 · 18:56",
+      "pubDate": "Sat, 21 Mar 2026 15:56:43 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians lança copo especial para jogo contra o Flamengo; veja foto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529482/corinthians-lanca-copo-especial-para-jogo-contra-o-flamengo-veja-foto",
+      "time": "21/03 · 18:32",
+      "pubDate": "Sat, 21 Mar 2026 15:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians pode pagar R$ 2 milhões por Allan, e decisão agita jogo contra Flamengo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-pagar-r-2-milhoes-por-allan-e-decisao-agita-jogo-contra-flamengo]]>",
+      "time": "21/03 · 18:29",
+      "pubDate": "Sat, 21 Mar 2026 15:29:11 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Flamengo: Cicinho não pipoca e crava goleada rubro-negra na Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-flamengo-cicinho-nao-pipoca-e-crava-goleada-rubro-negra-na-neo-quimica-arena]]>",
+      "time": "21/03 · 17:49",
+      "pubDate": "Sat, 21 Mar 2026 14:49:04 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz penúltimo treino antes de enfrentar o América Mineiro pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529485/corinthians-faz-penultimo-treino-antes-de-enfrentar-o-america-mineiro-pelo-brasileirao-feminino",
+      "time": "21/03 · 17:47",
+      "pubDate": "Sat, 21 Mar 2026 14:47:59 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta evitar sequência sem vitórias na Neo Química Arena após quatro meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529450/corinthians-tenta-evitar-sequencia-sem-vitorias-na-neo-quimica-arena-apos-quatro-meses",
+      "time": "21/03 · 17:31",
+      "pubDate": "Sat, 21 Mar 2026 14:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "CJ do Corinthians aponta vício e ilegalidade em reunião convocada por Stabile para afastar Tuma",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529483/cj-do-corinthians-aponta-vicio-e-ilegalidade-em-reuniao-convocada-por-stabile-para-afastar-tuma",
+      "time": "21/03 · 16:41",
+      "pubDate": "Sat, 21 Mar 2026 13:41:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians lidera ranking defensivo entre clubes da Série A na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529477/corinthians-lidera-ranking-defensivo-entre-clubes-da-serie-a-na-temporada",
+      "time": "21/03 · 16:30",
+      "pubDate": "Sat, 21 Mar 2026 13:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians usará tipografia especial no uniforme em jogo contra o Flamengo; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529480/corinthians-usara-numeracao-especial-contra-o-flamengo-entenda",
+      "time": "21/03 · 15:31",
+      "pubDate": "Sat, 21 Mar 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Artilheiro do Corinthians na temporada busca primeiro gol na Neo Química Arena em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529471/artilheiro-do-corinthians-na-temporada-busca-primeiro-gol-na-neo-quimica-arena-em-2026",
+      "time": "21/03 · 14:31",
+      "pubDate": "Sat, 21 Mar 2026 11:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,54 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recusa-modelo-do-botafogo-por-arthur-cabral-e-negociacao-trava-apos-reuniao-decisiva]]>",
       "time": "21/03 · 13:09",
       "pubDate": "Sat, 21 Mar 2026 10:09:23 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians comenta sorteio da Libertadores e projeta duelo contra o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529418/volante-do-corinthians-comenta-sorteio-da-libertadores-e-projeta-duelo-contra-o-flamengo",
-      "time": "21/03 · 12:30",
-      "pubDate": "Sat, 21 Mar 2026 09:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Hugo Souza aponta evolução do Corinthians e acredita em resposta da equipe diante do Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529420/hugo-souza-aponta-evolucao-do-corinthians-e-acredita-em-resposta-da-equipe-diante-do-flamengo",
-      "time": "21/03 · 11:30",
-      "pubDate": "Sat, 21 Mar 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: Hugo Souza convocado, eventual demissão e calendário da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529467/ultimas-do-corinthians-hugo-souza-convocado-eventual-demissao-e-calendario-da-libertadores",
-      "time": "21/03 · 10:30",
-      "pubDate": "Sat, 21 Mar 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians completa um mês sem vencer e acumula terceiro maior jejum da Série A",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529381/corinthians-completa-um-mes-sem-vencer-e-acumula-terceiro-maior-jejum-da-serie-a",
-      "time": "21/03 · 01:30",
-      "pubDate": "Fri, 20 Mar 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é superado pelo Brasília com oscilações coletivas e encerra sequência histórica no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529407/corinthians-e-superado-pelo-brasilia-com-oscilacoes-coletivas-e-encerra-sequencia-historica-no-nbb",
-      "time": "21/03 · 01:25",
-      "pubDate": "Fri, 20 Mar 2026 22:25:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians irá representar o Brasil em campanha sobre a Síndrome de Down",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529435/corinthians-ira-representar-o-brasil-em-campanha-sobre-a-sindrome-de-down",
-      "time": "21/03 · 00:32",
-      "pubDate": "Fri, 20 Mar 2026 21:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -83,22 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 20 Mar 2026 20:12:03 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "CBF divulga datas e horários da nona e décima rodada do Corinthians no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529459/cbf-divulga-datas-e-horarios-da-nona-e-decima-rodada-do-corinthians-no-brasileirao",
-      "time": "20/03 · 23:12",
-      "pubDate": "Fri, 20 Mar 2026 20:12:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança por Arthur Cabral e formaliza proposta ao Botafogo por empréstimo até dezembro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-por-arthur-cabral-e-formaliza-proposta-ao-botafogo-por-emprestimo-ate-dezembro]]>",
-      "time": "20/03 · 22:46",
-      "pubDate": "Fri, 20 Mar 2026 19:46:07 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "André Ramalho projeta Corinthians x Flamengo e confia em vitória: “Podemos vencer”",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-revela-problema-no-joelho-de-memphis-depay-apos-empate-do-corinthians-todo-cuidado]]>",
       "time": "20/03 · 21:15",
       "pubDate": "Fri, 20 Mar 2026 18:15:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians quer tirar regalias em renovação com Memphis Depay e propõe contrato de dois anos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-regalias-bonificacoes-depay]]>",
-      "time": "20/03 · 20:38",
-      "pubDate": "Fri, 20 Mar 2026 17:38:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza, do Corinthians, é convocado por Ancelotti para substituir lesionado Alisson nesta Data FIFA",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-do-corinthians-e-convocado-por-ancelotti-para-substituir-lesionado-alisson-nesta-data-fifa]]>",
-      "time": "20/03 · 17:44",
-      "pubDate": "Fri, 20 Mar 2026 14:44:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Artilheiro do Corinthians na temporada busca primeiro gol na Neo Química Arena em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529471/artilheiro-do-corinthians-na-temporada-busca-primeiro-gol-na-neo-quimica-arena-em-2026",
+      "pubDate": "Sat, 21 Mar 2026 11:31:00 -0300",
+      "date": "21/03 · 14:31"
+    },
     {
       "title": "Corinthians volta a empatar sem gols pela primeira vez em três meses",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529445/corinthians-volta-a-empatar-sem-gols-pela-primeira-vez-em-tres-meses",
