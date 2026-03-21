@@ -1,7 +1,95 @@
-// Gerado automaticamente em 21/03/2026, 19:03:51
+// Gerado automaticamente em 21/03/2026, 22:54:48
 const LIVE_DATA = {
-  "updatedAt": "2026-03-21T19:03:51.321Z",
+  "updatedAt": "2026-03-21T22:54:48.604Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kaio César segue como desfalque do Corinthians contra o Flamengo e situação se torna preocupante",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-segue-como-desfalque-do-corinthians-contra-o-flamengo-e-situacao-se-torna-preocupante]]>",
+      "time": "21/03 · 22:39",
+      "pubDate": "Sat, 21 Mar 2026 19:39:39 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz publicação em apoio ao Dia Internacional contra a Discriminação Racial; veja",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529475/corinthians-faz-publicacao-em-apoio-ao-dia-internacional-contra-a-discriminacao-racial-veja",
+      "time": "21/03 · 22:31",
+      "pubDate": "Sat, 21 Mar 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians pode completar o mês de março sem entrar em campo; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529490/volante-do-corinthians-pode-completar-o-mes-de-marco-sem-entrar-em-campo-entenda",
+      "time": "21/03 · 22:03",
+      "pubDate": "Sat, 21 Mar 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Hugo entra em seleta lista de goleiros do Corinthians com cinco convocações seguidas na Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529454/hugo-entra-em-seleta-lista-de-goleiros-do-corinthians-com-cinco-convocacoes-seguidas-na-selecao",
+      "time": "21/03 · 21:45",
+      "pubDate": "Sat, 21 Mar 2026 18:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians celebra convocação e projeta partida contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529493/goleiro-do-corinthians-celebra-convocacao-e-projeta-partida-contra-o-flamengo",
+      "time": "21/03 · 21:31",
+      "pubDate": "Sat, 21 Mar 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra preparação para enfrentar o Flamengo pelo Brasileiro; veja a provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529474/corinthians-encerra-preparacao-para-enfrentar-o-flamengo-pelo-brasileiro-veja-a-provavel-escalacao",
+      "time": "21/03 · 21:18",
+      "pubDate": "Sat, 21 Mar 2026 18:18:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta quebrar retrospecto negativo contra o Flamengo na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529470/corinthians-tenta-quebrar-retrospecto-negativo-contra-o-flamengo-na-neo-quimica-arena",
+      "time": "21/03 · 20:32",
+      "pubDate": "Sat, 21 Mar 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians segue em negociações por Arthur Cabral e valor do empréstimo será sem custos ao Timão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-segue-em-negociacoes-por-arthur-cabral-e-valor-do-emprestimo-sera-sem-custos-ao-timao]]>",
+      "time": "21/03 · 20:30",
+      "pubDate": "Sat, 21 Mar 2026 17:30:49 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante segue como desfalque do Corinthians para enfrentar o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529492/atacante-segue-como-desfalque-do-corinthians-para-enfrentar-o-flamengo",
+      "time": "21/03 · 20:12",
+      "pubDate": "Sat, 21 Mar 2026 17:12:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians pode pagar R$ 2 milhões por Allan, e decisão agita jogo contra Flamengo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-pagar-r-2-milhoes-por-allan-e-decisao-agita-jogo-contra-flamengo]]>",
+      "time": "21/03 · 19:43",
+      "pubDate": "Sat, 21 Mar 2026 16:43:52 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde maior sequência de invencibilidade da história com derrota para o Brasília",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529465/corinthians-perde-maior-sequencia-de-invencibilidade-da-historia-com-derrota-para-o-brasilia",
+      "time": "21/03 · 19:30",
+      "pubDate": "Sat, 21 Mar 2026 16:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -11,84 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 21 Mar 2026 15:56:43 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians lança copo especial para jogo contra o Flamengo; veja foto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529482/corinthians-lanca-copo-especial-para-jogo-contra-o-flamengo-veja-foto",
-      "time": "21/03 · 18:32",
-      "pubDate": "Sat, 21 Mar 2026 15:32:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pode pagar R$ 2 milhões por Allan, e decisão agita jogo contra Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-pagar-r-2-milhoes-por-allan-e-decisao-agita-jogo-contra-flamengo]]>",
-      "time": "21/03 · 18:29",
-      "pubDate": "Sat, 21 Mar 2026 15:29:11 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians x Flamengo: Cicinho não pipoca e crava goleada rubro-negra na Neo Química Arena",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-flamengo-cicinho-nao-pipoca-e-crava-goleada-rubro-negra-na-neo-quimica-arena]]>",
       "time": "21/03 · 17:49",
       "pubDate": "Sat, 21 Mar 2026 14:49:04 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz penúltimo treino antes de enfrentar o América Mineiro pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529485/corinthians-faz-penultimo-treino-antes-de-enfrentar-o-america-mineiro-pelo-brasileirao-feminino",
-      "time": "21/03 · 17:47",
-      "pubDate": "Sat, 21 Mar 2026 14:47:59 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta evitar sequência sem vitórias na Neo Química Arena após quatro meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529450/corinthians-tenta-evitar-sequencia-sem-vitorias-na-neo-quimica-arena-apos-quatro-meses",
-      "time": "21/03 · 17:31",
-      "pubDate": "Sat, 21 Mar 2026 14:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "CJ do Corinthians aponta vício e ilegalidade em reunião convocada por Stabile para afastar Tuma",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529483/cj-do-corinthians-aponta-vicio-e-ilegalidade-em-reuniao-convocada-por-stabile-para-afastar-tuma",
-      "time": "21/03 · 16:41",
-      "pubDate": "Sat, 21 Mar 2026 13:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians lidera ranking defensivo entre clubes da Série A na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529477/corinthians-lidera-ranking-defensivo-entre-clubes-da-serie-a-na-temporada",
-      "time": "21/03 · 16:30",
-      "pubDate": "Sat, 21 Mar 2026 13:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians usará tipografia especial no uniforme em jogo contra o Flamengo; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529480/corinthians-usara-numeracao-especial-contra-o-flamengo-entenda",
-      "time": "21/03 · 15:31",
-      "pubDate": "Sat, 21 Mar 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilheiro do Corinthians na temporada busca primeiro gol na Neo Química Arena em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529471/artilheiro-do-corinthians-na-temporada-busca-primeiro-gol-na-neo-quimica-arena-em-2026",
-      "time": "21/03 · 14:31",
-      "pubDate": "Sat, 21 Mar 2026 11:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a empatar sem gols pela primeira vez em três meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529445/corinthians-volta-a-empatar-sem-gols-pela-primeira-vez-em-tres-meses",
-      "time": "21/03 · 13:30",
-      "pubDate": "Sat, 21 Mar 2026 10:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/sem-espaco-no-corinthians-pedro-raul-entra-na-mira-da-chapecoense-mas-forma-de-emprestimo-nao-muda]]>",
       "time": "20/03 · 23:12",
       "pubDate": "Fri, 20 Mar 2026 20:12:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "André Ramalho projeta Corinthians x Flamengo e confia em vitória: “Podemos vencer”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-ramalho-projeta-corinthians-x-flamengo-e-confia-em-vitoria-podemos-vencer]]>",
-      "time": "20/03 · 21:53",
-      "pubDate": "Fri, 20 Mar 2026 18:53:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior revela problema no joelho de Memphis Depay após empate do Corinthians: “Todo cuidado”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-revela-problema-no-joelho-de-memphis-depay-apos-empate-do-corinthians-todo-cuidado]]>",
-      "time": "20/03 · 21:15",
-      "pubDate": "Fri, 20 Mar 2026 18:15:55 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Hugo entra em seleta lista de goleiros do Corinthians com cinco convocações seguidas na Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529454/hugo-entra-em-seleta-lista-de-goleiros-do-corinthians-com-cinco-convocacoes-seguidas-na-selecao",
+      "pubDate": "Sat, 21 Mar 2026 18:45:00 -0300",
+      "date": "21/03 · 21:45"
+    },
+    {
+      "title": "Goleiro do Corinthians celebra convocação e projeta partida contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529493/goleiro-do-corinthians-celebra-convocacao-e-projeta-partida-contra-o-flamengo",
+      "pubDate": "Sat, 21 Mar 2026 18:31:00 -0300",
+      "date": "21/03 · 21:31"
+    },
     {
       "title": "Artilheiro do Corinthians na temporada busca primeiro gol na Neo Química Arena em 2026",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529471/artilheiro-do-corinthians-na-temporada-busca-primeiro-gol-na-neo-quimica-arena-em-2026",
