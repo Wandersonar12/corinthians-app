@@ -1,7 +1,47 @@
-// Gerado automaticamente em 21/03/2026, 09:02:15
+// Gerado automaticamente em 21/03/2026, 13:55:03
 const LIVE_DATA = {
-  "updatedAt": "2026-03-21T09:02:15.856Z",
+  "updatedAt": "2026-03-21T13:55:03.431Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a empatar sem gols pela primeira vez em três meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529445/corinthians-volta-a-empatar-sem-gols-pela-primeira-vez-em-tres-meses",
+      "time": "21/03 · 13:30",
+      "pubDate": "Sat, 21 Mar 2026 10:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recusa modelo do Botafogo por Arthur Cabral e negociação trava após reunião decisiva",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recusa-modelo-do-botafogo-por-arthur-cabral-e-negociacao-trava-apos-reuniao-decisiva]]>",
+      "time": "21/03 · 13:09",
+      "pubDate": "Sat, 21 Mar 2026 10:09:23 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians comenta sorteio da Libertadores e projeta duelo contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529418/volante-do-corinthians-comenta-sorteio-da-libertadores-e-projeta-duelo-contra-o-flamengo",
+      "time": "21/03 · 12:30",
+      "pubDate": "Sat, 21 Mar 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Hugo Souza aponta evolução do Corinthians e acredita em resposta da equipe diante do Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529420/hugo-souza-aponta-evolucao-do-corinthians-e-acredita-em-resposta-da-equipe-diante-do-flamengo",
+      "time": "21/03 · 11:30",
+      "pubDate": "Sat, 21 Mar 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: Hugo Souza convocado, eventual demissão e calendário da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529467/ultimas-do-corinthians-hugo-souza-convocado-eventual-demissao-e-calendario-da-libertadores",
+      "time": "21/03 · 10:30",
+      "pubDate": "Sat, 21 Mar 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -59,38 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 20 Mar 2026 19:46:07 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lingard não aparece no BID e aguarda estreia pelo Corinthians após a Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529453/lingard-nao-aparece-no-bid-e-aguarda-estreia-pelo-corinthians-apos-a-data-fifa",
-      "time": "20/03 · 22:38",
-      "pubDate": "Fri, 20 Mar 2026 19:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Marcelo Paz avalia grupo do Corinthians na Copa Libertadores 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529437/marcelo-paz-avalia-grupo-do-corinthians-na-copa-libertadores-2026",
-      "time": "20/03 · 22:31",
-      "pubDate": "Fri, 20 Mar 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece mudança em critério de desempate na Libertadores; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529449/corinthians-conhece-mudanca-em-criterio-de-desempate-na-libertadores-entenda",
-      "time": "20/03 · 22:05",
-      "pubDate": "Fri, 20 Mar 2026 19:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece calendário da fase de grupos da Copa Libertadores 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529436/corinthians-conhece-calendario-da-fase-de-grupos-da-copa-libertadores-2026",
-      "time": "20/03 · 22:05",
-      "pubDate": "Fri, 20 Mar 2026 19:05:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "André Ramalho projeta Corinthians x Flamengo e confia em vitória: “Podemos vencer”",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-do-corinthians-e-convocado-por-ancelotti-para-substituir-lesionado-alisson-nesta-data-fifa]]>",
       "time": "20/03 · 17:44",
       "pubDate": "Fri, 20 Mar 2026 14:44:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians é colocado no mesmo nível de Flamengo e Palmeiras por Marcelo Paz: “De igual para igual”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-colocado-no-mesmo-nivel-de-flamengo-e-palmeiras-por-marcelo-paz-de-igual-para-igual]]>",
-      "time": "20/03 · 14:54",
-      "pubDate": "Fri, 20 Mar 2026 11:54:30 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,22 +200,10 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "VÍDEO: Hugo Souza comenta sobre a sua ausência na última convocação da Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126783/hugo-souza-comenta-sobre-a-sua-ausencia-na-ultima-convocacao-da-selecao-brasileira",
-      "pubDate": "Fri, 20 Mar 2026 01:26:00 -0300",
-      "date": "20/03 · 04:26"
-    },
-    {
-      "title": "VÍDEO: Zona Mista Matheus Pereira: Empate com a Chapecoense e necessidade de resultados pressionam o elenco",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126781/zona-mista-matheus-pereira-empate-com-a-chapecoense-e-necessidade-de-resultados-pressionam-o-elenco",
-      "pubDate": "Fri, 20 Mar 2026 01:20:00 -0300",
-      "date": "20/03 · 04:20"
-    },
-    {
-      "title": "VÍDEO: André Ramalho projeta partida entre Corinthians e Flamengo pelo Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126780/andre-ramalho-projeta-partida-entre-corinthians-e-flamengo-pelo-brasileirao-2026",
-      "pubDate": "Fri, 20 Mar 2026 01:15:18 -0300",
-      "date": "20/03 · 04:15"
+      "title": "Corinthians volta a empatar sem gols pela primeira vez em três meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529445/corinthians-volta-a-empatar-sem-gols-pela-primeira-vez-em-tres-meses",
+      "pubDate": "Sat, 21 Mar 2026 10:30:00 -0300",
+      "date": "21/03 · 13:30"
     }
   ]
 };
