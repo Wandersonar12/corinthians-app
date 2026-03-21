@@ -1,7 +1,55 @@
-// Gerado automaticamente em 20/03/2026, 23:00:28
+// Gerado automaticamente em 21/03/2026, 09:02:15
 const LIVE_DATA = {
-  "updatedAt": "2026-03-20T23:00:28.137Z",
+  "updatedAt": "2026-03-21T09:02:15.856Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians completa um mês sem vencer e acumula terceiro maior jejum da Série A",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529381/corinthians-completa-um-mes-sem-vencer-e-acumula-terceiro-maior-jejum-da-serie-a",
+      "time": "21/03 · 01:30",
+      "pubDate": "Fri, 20 Mar 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é superado pelo Brasília com oscilações coletivas e encerra sequência histórica no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529407/corinthians-e-superado-pelo-brasilia-com-oscilacoes-coletivas-e-encerra-sequencia-historica-no-nbb",
+      "time": "21/03 · 01:25",
+      "pubDate": "Fri, 20 Mar 2026 22:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians irá representar o Brasil em campanha sobre a Síndrome de Down",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529435/corinthians-ira-representar-o-brasil-em-campanha-sobre-a-sindrome-de-down",
+      "time": "21/03 · 00:32",
+      "pubDate": "Fri, 20 Mar 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Cuca cita passagem pelo Corinthians e volta a comentar sobre caso de crime sexual",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cuca-cita-o-corinthians-e-volta-a-comentar-sobre-caso-de-crime-sexual]]>",
+      "time": "21/03 · 00:31",
+      "pubDate": "Fri, 20 Mar 2026 21:31:40 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Sem espaço no Corinthians, Pedro Raul entra na mira da Chapecoense, mas forma de empréstimo não muda",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/sem-espaco-no-corinthians-pedro-raul-entra-na-mira-da-chapecoense-mas-forma-de-emprestimo-nao-muda]]>",
+      "time": "20/03 · 23:12",
+      "pubDate": "Fri, 20 Mar 2026 20:12:03 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "CBF divulga datas e horários da nona e décima rodada do Corinthians no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529459/cbf-divulga-datas-e-horarios-da-nona-e-decima-rodada-do-corinthians-no-brasileirao",
+      "time": "20/03 · 23:12",
+      "pubDate": "Fri, 20 Mar 2026 20:12:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -51,14 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 20 Mar 2026 18:53:31 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians admite insatisfação com sequência sem vitória e aprova rodízio no elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529417/volante-do-corinthians-admite-insatisfacao-com-sequencia-sem-vitoria-e-aprova-rodizio-no-elenco",
-      "time": "20/03 · 21:31",
-      "pubDate": "Fri, 20 Mar 2026 18:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Dorival Júnior revela problema no joelho de Memphis Depay após empate do Corinthians: “Todo cuidado”",
@@ -67,36 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 20 Mar 2026 18:15:55 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra feito inédito na Arena Condá após empate com a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529446/corinthians-registra-feito-inedito-na-arena-conda-apos-empate-com-a-chapecoense",
-      "time": "20/03 · 21:01",
-      "pubDate": "Fri, 20 Mar 2026 18:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians quer tirar regalias em renovação com Memphis Depay e propõe contrato de dois anos",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-regalias-bonificacoes-depay]]>",
       "time": "20/03 · 20:38",
       "pubDate": "Fri, 20 Mar 2026 17:38:36 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians defende que atletas sejam poupados para evitar desgaste físico e lesões",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529400/tecnico-do-corinthians-defende-que-atletas-sejam-poupados-para-evitar-desgaste-fisico-e-lesoes",
-      "time": "20/03 · 20:31",
-      "pubDate": "Fri, 20 Mar 2026 17:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pantaleão alega ameaças no Corinthians e se nega a participar de votação sobre afastamento de Tuma",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529444/pantaleao-alega-ameacas-no-corinthians-e-se-nega-a-participar-de-votacao-sobre-afastamento-de-tuma",
-      "time": "20/03 · 19:37",
-      "pubDate": "Fri, 20 Mar 2026 16:37:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-colocado-no-mesmo-nivel-de-flamengo-e-palmeiras-por-marcelo-paz-de-igual-para-igual]]>",
       "time": "20/03 · 14:54",
       "pubDate": "Fri, 20 Mar 2026 11:54:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define futuro de Dorival Júnior após sequência negativa e treinador foi mantido no cargo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-futuro-de-dorival-junior-apos-sequencia-negativa-e-treinador-foi-mantido-no-cargo]]>",
-      "time": "20/03 · 13:57",
-      "pubDate": "Fri, 20 Mar 2026 10:57:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians amplia jejum, iguala sequência de 2024 e pressiona Dorival antes de duelo com o Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amplia-jejum-iguala-sequencia-de-2024-e-pressiona-dorival-antes-de-duelo-com-o-flamengo]]>",
-      "time": "20/03 · 12:38",
-      "pubDate": "Fri, 20 Mar 2026 09:38:50 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,18 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126780/andre-ramalho-projeta-partida-entre-corinthians-e-flamengo-pelo-brasileirao-2026",
       "pubDate": "Fri, 20 Mar 2026 01:15:18 -0300",
       "date": "20/03 · 04:15"
-    },
-    {
-      "title": "Goleiro e atacante são poupados em noite de notas baixas da Fiel após empate contra a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529397/goleiro-e-atacante-sao-poupados-em-noite-de-notas-baixas-da-fiel-apos-empate-contra-a-chapecoense",
-      "pubDate": "Fri, 20 Mar 2026 00:56:00 -0300",
-      "date": "20/03 · 03:56"
-    },
-    {
-      "title": "VÍDEO: Possibilidade de demissão, retorno de Yuri Alberto e mais: coletiva de Dorival Jr. no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126777/possibilidade-de-demissao-retorno-de-yuri-alberto-e-mais-coletiva-de-dorival-jr-no-corinthians",
-      "pubDate": "Fri, 20 Mar 2026 00:31:00 -0300",
-      "date": "20/03 · 03:31"
     }
   ]
 };
