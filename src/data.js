@@ -1,7 +1,55 @@
-// Gerado automaticamente em 22/03/2026, 09:03:45
+// Gerado automaticamente em 22/03/2026, 13:56:04
 const LIVE_DATA = {
-  "updatedAt": "2026-03-22T09:03:45.016Z",
+  "updatedAt": "2026-03-22T13:56:04.276Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra árbitro de polêmicas recentes em jogo contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529500/corinthians-reencontra-arbitro-de-polemicas-recentes-em-jogo-contra-o-flamengo",
+      "time": "22/03 · 13:31",
+      "pubDate": "Sun, 22 Mar 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não terá Allan, Kaio César e mais três desfalques contra o Flamengo em Itaquera",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tera-allan-kaio-cesar-e-mais-tres-desfalques-contra-o-flamengo-em-itaquera]]>",
+      "time": "22/03 · 13:09",
+      "pubDate": "Sun, 22 Mar 2026 10:09:02 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima comenta sobre dia a dia no Corinthians e período de adaptação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529440/emily-lima-comenta-sobre-dia-a-dia-no-corinthians-e-periodo-de-adaptacao",
+      "time": "22/03 · 12:30",
+      "pubDate": "Sun, 22 Mar 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Adaptação ao elenco, torcida do Corinthians e base: Emily Lima bate-papo exclusivo com o Meu Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126803/adaptacao-ao-elenco-torcida-do-corinthians-e-base-emily-lima-bate-papo-exclusivo-com-o-meu-timao",
+      "time": "22/03 · 12:01",
+      "pubDate": "Sun, 22 Mar 2026 09:01:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao jogo entre Corinthians e Flamengo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529487/saiba-onde-assistir-ao-jogo-entre-corinthians-e-flamengo-pelo-brasileirao",
+      "time": "22/03 · 11:30",
+      "pubDate": "Sun, 22 Mar 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: provável escalação, desfalque de atacante e tipografia inédita",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529496/ultimas-do-corinthians-provavel-escalacao-desfalque-de-atacante-e-tipografia-inedita",
+      "time": "22/03 · 10:30",
+      "pubDate": "Sun, 22 Mar 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -33,46 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-segue-como-desfalque-do-corinthians-contra-o-flamengo-e-situacao-se-torna-preocupante]]>",
       "time": "21/03 · 23:44",
       "pubDate": "Sat, 21 Mar 2026 20:44:37 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca evitar nova sequência negativa recorde no Brasileirão contra o Flamengo; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529447/corinthians-busca-evitar-nova-sequencia-negativa-recorde-no-brasileirao-contra-o-flamengo-entenda",
-      "time": "21/03 · 23:34",
-      "pubDate": "Sat, 21 Mar 2026 20:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-centroavante da base do Corinthians é anunciado por clube mineiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529494/ex-centroavante-da-base-do-corinthians-e-anunciado-por-clube-mineiro",
-      "time": "21/03 · 23:04",
-      "pubDate": "Sat, 21 Mar 2026 20:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz publicação em apoio ao Dia Internacional contra a Discriminação Racial; veja",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529475/corinthians-faz-publicacao-em-apoio-ao-dia-internacional-contra-a-discriminacao-racial-veja",
-      "time": "21/03 · 22:31",
-      "pubDate": "Sat, 21 Mar 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians pode completar o mês de março sem entrar em campo; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529490/volante-do-corinthians-pode-completar-o-mes-de-marco-sem-entrar-em-campo-entenda",
-      "time": "21/03 · 22:03",
-      "pubDate": "Sat, 21 Mar 2026 19:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Hugo entra em seleta lista de goleiros do Corinthians com cinco convocações seguidas na Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529454/hugo-entra-em-seleta-lista-de-goleiros-do-corinthians-com-cinco-convocacoes-seguidas-na-selecao",
-      "time": "21/03 · 21:45",
-      "pubDate": "Sat, 21 Mar 2026 18:45:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/cuca-cita-o-corinthians-e-volta-a-comentar-sobre-caso-de-crime-sexual]]>",
       "time": "21/03 · 00:31",
       "pubDate": "Fri, 20 Mar 2026 21:31:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Sem espaço no Corinthians, Pedro Raul entra na mira da Chapecoense, mas forma de empréstimo não muda",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/sem-espaco-no-corinthians-pedro-raul-entra-na-mira-da-chapecoense-mas-forma-de-emprestimo-nao-muda]]>",
-      "time": "20/03 · 23:12",
-      "pubDate": "Fri, 20 Mar 2026 20:12:03 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Adaptação ao elenco, torcida do Corinthians e base: Emily Lima bate-papo exclusivo com o Meu Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126803/adaptacao-ao-elenco-torcida-do-corinthians-e-base-emily-lima-bate-papo-exclusivo-com-o-meu-timao",
+      "pubDate": "Sun, 22 Mar 2026 09:01:47 -0300",
+      "date": "22/03 · 12:01"
+    },
+    {
+      "title": "Saiba onde assistir ao jogo entre Corinthians e Flamengo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529487/saiba-onde-assistir-ao-jogo-entre-corinthians-e-flamengo-pelo-brasileirao",
+      "pubDate": "Sun, 22 Mar 2026 08:30:00 -0300",
+      "date": "22/03 · 11:30"
+    },
     {
       "title": "Hugo entra em seleta lista de goleiros do Corinthians com cinco convocações seguidas na Seleção",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529454/hugo-entra-em-seleta-lista-de-goleiros-do-corinthians-com-cinco-convocacoes-seguidas-na-selecao",
