@@ -1,7 +1,47 @@
-// Gerado automaticamente em 22/03/2026, 19:06:20
+// Gerado automaticamente em 22/03/2026, 22:56:56
 const LIVE_DATA = {
-  "updatedAt": "2026-03-22T19:06:20.598Z",
+  "updatedAt": "2026-03-22T22:56:56.549Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado com força máxima para enfrentar o Flamengo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529515/corinthians-esta-escalado-com-forca-maxima-para-enfrentar-o-flamengo-pelo-brasileirao",
+      "time": "22/03 · 22:31",
+      "pubDate": "Sun, 22 Mar 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians encara o Flamengo no Brasileirão sob arbitragem polêmica de Rodrigo José Pereira de Lima no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encara-o-flamengo-no-brasileirao-sob-arbitragem-polemica-de-rodrigo-jose-pereira-de-lima-no-brasileirao]]>",
+      "time": "22/03 · 22:28",
+      "pubDate": "Sun, 22 Mar 2026 19:28:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Flamengo em busca de melhorar o retrospecto no histórico do confronto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529513/corinthians-recebe-o-flamengo-em-busca-de-melhorar-o-retrospecto-no-historico-do-confronto",
+      "time": "22/03 · 21:31",
+      "pubDate": "Sun, 22 Mar 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Começo de temporada ruim e embalo no Brasileirão: veja como chega o Flamengo contra o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529514/comeco-de-temporada-ruim-e-embalo-no-brasileirao-veja-como-chega-o-flamengo-contra-o-corinthians",
+      "time": "22/03 · 20:30",
+      "pubDate": "Sun, 22 Mar 2026 17:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians busca primeira vitória em quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529488/tecnica-do-corinthians-busca-primeira-vitoria-em-quase-um-ano",
+      "time": "22/03 · 19:34",
+      "pubDate": "Sun, 22 Mar 2026 16:34:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,22 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 22 Mar 2026 14:01:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode subir duas posições na tabela do Brasileirão caso vença o Flamengo; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529511/corinthians-pode-subir-duas-posicoes-na-tabela-do-brasileirao-caso-venca-o-flamengo-confira",
-      "time": "22/03 · 16:30",
-      "pubDate": "Sun, 22 Mar 2026 13:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conta com cinco desfalques e oito pendurados para o duelo contra o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529509/corinthians-conta-com-cinco-desfalques-e-oito-pendurados-para-o-duelo-contra-o-flamengo",
-      "time": "22/03 · 15:31",
-      "pubDate": "Sun, 22 Mar 2026 12:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay saindo do Corinthians para jogar no Flamengo é descartado por Jorge Nicola",
@@ -73,22 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reencontra-arbitro-de-polemicas-recentes-em-jogo-decisivo-contra-o-flamengo]]>",
       "time": "22/03 · 14:43",
       "pubDate": "Sun, 22 Mar 2026 11:43:31 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians promove encontro entre jogadores e família de torcedores na Arena Condá",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529503/corinthians-promove-encontro-entre-jogadores-e-familia-de-torcedores-na-arena-conda",
-      "time": "22/03 · 14:30",
-      "pubDate": "Sun, 22 Mar 2026 11:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians reencontra árbitro de polêmicas recentes em jogo contra o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529500/corinthians-reencontra-arbitro-de-polemicas-recentes-em-jogo-contra-o-flamengo",
-      "time": "22/03 · 13:31",
-      "pubDate": "Sun, 22 Mar 2026 10:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-segue-em-negociacoes-por-arthur-cabral-e-valor-do-emprestimo-sera-sem-custos-ao-timao]]>",
       "time": "21/03 · 20:30",
       "pubDate": "Sat, 21 Mar 2026 17:30:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pode pagar R$ 2 milhões por Allan, e decisão agita jogo contra Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-pagar-r-2-milhoes-por-allan-e-decisao-agita-jogo-contra-flamengo]]>",
-      "time": "21/03 · 19:43",
-      "pubDate": "Sat, 21 Mar 2026 16:43:52 -0300"
     },
     {
       "source": "Bolavip",
