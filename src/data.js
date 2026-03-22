@@ -1,14 +1,54 @@
-// Gerado automaticamente em 21/03/2026, 22:54:48
+// Gerado automaticamente em 22/03/2026, 09:03:45
 const LIVE_DATA = {
-  "updatedAt": "2026-03-21T22:54:48.604Z",
+  "updatedAt": "2026-03-22T09:03:45.016Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Flamengo em busca de voltar a vencer no Brasileirão; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529486/corinthians-recebe-o-flamengo-em-busca-de-voltar-a-vencer-no-brasileirao-saiba-tudo",
+      "time": "22/03 · 03:01",
+      "pubDate": "Sun, 22 Mar 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz ação especial na Neo Química Arena em homenagem ao Dia da Síndrome de Down",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529481/corinthians-faz-acao-especial-na-neo-quimica-arena-em-homenagem-ao-dia-da-sindrome-de-down",
+      "time": "22/03 · 01:30",
+      "pubDate": "Sat, 21 Mar 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca sequenciar vitórias contra o Flamengo depois de mais de dez anos; relembre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529484/corinthians-busca-sequenciar-vitorias-contra-o-flamengo-depois-de-mais-de-dez-anos-relembre",
+      "time": "22/03 · 00:32",
+      "pubDate": "Sat, 21 Mar 2026 21:32:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Kaio César segue como desfalque do Corinthians contra o Flamengo e situação se torna preocupante",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-segue-como-desfalque-do-corinthians-contra-o-flamengo-e-situacao-se-torna-preocupante]]>",
-      "time": "21/03 · 22:39",
-      "pubDate": "Sat, 21 Mar 2026 19:39:39 -0300"
+      "time": "21/03 · 23:44",
+      "pubDate": "Sat, 21 Mar 2026 20:44:37 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca evitar nova sequência negativa recorde no Brasileirão contra o Flamengo; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529447/corinthians-busca-evitar-nova-sequencia-negativa-recorde-no-brasileirao-contra-o-flamengo-entenda",
+      "time": "21/03 · 23:34",
+      "pubDate": "Sat, 21 Mar 2026 20:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-centroavante da base do Corinthians é anunciado por clube mineiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529494/ex-centroavante-da-base-do-corinthians-e-anunciado-por-clube-mineiro",
+      "time": "21/03 · 23:04",
+      "pubDate": "Sat, 21 Mar 2026 20:04:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,30 +75,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 21 Mar 2026 18:45:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians celebra convocação e projeta partida contra o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529493/goleiro-do-corinthians-celebra-convocacao-e-projeta-partida-contra-o-flamengo",
-      "time": "21/03 · 21:31",
-      "pubDate": "Sat, 21 Mar 2026 18:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para enfrentar o Flamengo pelo Brasileiro; veja a provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529474/corinthians-encerra-preparacao-para-enfrentar-o-flamengo-pelo-brasileiro-veja-a-provavel-escalacao",
-      "time": "21/03 · 21:18",
-      "pubDate": "Sat, 21 Mar 2026 18:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta quebrar retrospecto negativo contra o Flamengo na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529470/corinthians-tenta-quebrar-retrospecto-negativo-contra-o-flamengo-na-neo-quimica-arena",
-      "time": "21/03 · 20:32",
-      "pubDate": "Sat, 21 Mar 2026 17:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians segue em negociações por Arthur Cabral e valor do empréstimo será sem custos ao Timão",
@@ -67,28 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 21 Mar 2026 17:30:49 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante segue como desfalque do Corinthians para enfrentar o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529492/atacante-segue-como-desfalque-do-corinthians-para-enfrentar-o-flamengo",
-      "time": "21/03 · 20:12",
-      "pubDate": "Sat, 21 Mar 2026 17:12:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians pode pagar R$ 2 milhões por Allan, e decisão agita jogo contra Flamengo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-pagar-r-2-milhoes-por-allan-e-decisao-agita-jogo-contra-flamengo]]>",
       "time": "21/03 · 19:43",
       "pubDate": "Sat, 21 Mar 2026 16:43:52 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde maior sequência de invencibilidade da história com derrota para o Brasília",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529465/corinthians-perde-maior-sequencia-de-invencibilidade-da-historia-com-derrota-para-o-brasilia",
-      "time": "21/03 · 19:30",
-      "pubDate": "Sat, 21 Mar 2026 16:30:00 -0300"
     },
     {
       "source": "Bolavip",
