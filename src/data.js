@@ -1,22 +1,94 @@
-// Gerado automaticamente em 23/03/2026, 15:40:18
+// Gerado automaticamente em 23/03/2026, 20:01:03
 const LIVE_DATA = {
-  "updatedAt": "2026-03-23T15:40:18.402Z",
+  "updatedAt": "2026-03-23T20:01:03.417Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém retrospecto negativo contra o Flamengo na Neo Química Arena; relembre os jogos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529531/corinthians-mantem-retrospecto-negativo-contra-o-flamengo-na-neo-quimica-arena-relembre-os-jogos",
+      "time": "23/03 · 19:29",
+      "pubDate": "Mon, 23 Mar 2026 16:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Romeu Tuma Júnior entra na Justiça contra presidente do Corinthians após acusações",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529652/romeu-tuma-junior-entra-na-justica-contra-presidente-do-corinthians-apos-acusacoes",
+      "time": "23/03 · 19:11",
+      "pubDate": "Mon, 23 Mar 2026 16:11:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Yuri Alberto celebra marcas históricas pelo Corinthians e critica arbitragem diante do Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529604/yuri-alberto-celebra-marcas-historicas-pelo-corinthians-e-critica-arbitragem-diante-do-flamengo",
+      "time": "23/03 · 19:00",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ronald Koeman não descarta ausência Memphis Depay na Holanda após lesão no Corinthians: “Não parece bom”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ronald-koeman-nao-descarta-ausencia-memphis-depay-na-holanda-apos-lesao-no-corinthians-nao-parece-bom]]>",
+      "time": "23/03 · 18:35",
+      "pubDate": "Mon, 23 Mar 2026 15:35:19 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dorival Júnior aprova atuação do Corinthians e critica arbitragem contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529597/dorival-junior-aprova-atuacao-do-corinthians-e-critica-arbitragem-contra-o-flamengo",
+      "time": "23/03 · 18:30",
+      "pubDate": "Mon, 23 Mar 2026 15:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Carlos Simon aponta pênalti em André e contesta expulsão de Evertton Araújo em Corinthians x Flamengo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/carlos-simon-aponta-penalti-em-andre-e-contesta-expulsao-de-evertton-araujo-em-corinthians-x-flamengo]]>",
+      "time": "23/03 · 18:14",
+      "pubDate": "Mon, 23 Mar 2026 15:14:36 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece adversário de estreia na Copa do Brasil 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529613/corinthians-conhece-adversario-de-estreia-na-copa-do-brasil-2026",
+      "time": "23/03 · 17:24",
+      "pubDate": "Mon, 23 Mar 2026 14:24:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico da Holanda atualiza situação de Memphis Depay após substituição em jogo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529635/tecnico-da-holanda-atualiza-situacao-de-memphis-depay-apos-substituicao-em-jogo-do-corinthians",
+      "time": "23/03 · 17:01",
+      "pubDate": "Mon, 23 Mar 2026 14:01:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Dorival não foi demitido por causa da multa e Vojvoda é um nome bem avaliado no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-multa-vojvoda-bem-avaliado-corinthians]]>",
-      "time": "23/03 · 15:31",
-      "pubDate": "Mon, 23 Mar 2026 12:31:58 -0300"
+      "time": "23/03 · 16:37",
+      "pubDate": "Mon, 23 Mar 2026 13:37:07 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Marcelo Paz garante permanência de Dorival no Corinthians após empate com o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529570/marcelo-paz-garante-permanencia-de-dorival-no-corinthians-apos-empate-com-o-flamengo",
-      "time": "23/03 · 14:31",
-      "pubDate": "Mon, 23 Mar 2026 11:31:00 -0300"
+      "title": "Yuri Alberto iguala ídolo na artilharia histórica do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529545/atacante-empata-com-idolo-do-timao-em-ranking-da-artilharia-historica-do-corinthians",
+      "time": "23/03 · 16:33",
+      "pubDate": "Mon, 23 Mar 2026 13:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians se destaca com números ofensivos e defensivos em empate com o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529578/lateral-do-corinthians-se-destaca-com-numeros-ofensivos-e-defensivos-em-empate-com-o-flamengo",
+      "time": "23/03 · 16:06",
+      "pubDate": "Mon, 23 Mar 2026 13:06:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,22 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 23 Mar 2026 10:54:45 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem semana de Data Fifa preenchida por compromissos do time feminino; veja a agenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529615/corinthians-tem-semana-de-data-fifa-preenchida-por-compromissos-do-time-feminino-veja-a-agenda",
-      "time": "23/03 · 13:30",
-      "pubDate": "Mon, 23 Mar 2026 10:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece adversário da Copa do Brasil na tarde desta segunda-feira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529533/corinthians-conhece-adversario-da-copa-do-brasil-na-tarde-desta-segunda-feira",
-      "time": "23/03 · 13:00",
-      "pubDate": "Mon, 23 Mar 2026 10:00:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Danilo sai do clubismo e faz elogios ao Corinthians após empate: “Garotos com muito futuro”",
@@ -67,68 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 23 Mar 2026 09:31:38 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "CBF divulga áudio do VAR em lance de expulsão de jogador do Flamengo contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529602/cbf-divulga-audio-do-var-em-lance-de-expulsao-de-jogador-do-flamengo-contra-o-corinthians",
-      "time": "23/03 · 12:20",
-      "pubDate": "Mon, 23 Mar 2026 09:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Árbitro registra supostas ofensas de funcionários do Corinthians após empate com o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529603/arbitro-registra-supostas-ofensas-de-funcionarios-do-corinthians-apos-empate-com-o-flamengo",
-      "time": "23/03 · 12:00",
-      "pubDate": "Mon, 23 Mar 2026 09:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba como assistir ao duelo entre Corinthians e América-MG pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529527/saiba-como-assistir-ao-duelo-entre-corinthians-e-america-mg-pelo-brasileirao-feminino",
-      "time": "23/03 · 11:00",
-      "pubDate": "Mon, 23 Mar 2026 08:00:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Árbitro revela que precisou de ajuda policial após ser abordado por funcionários do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/arbitro-revela-que-precisou-de-ajuda-policial-apos-ser-abordado-por-funcionarios-do-corinthians]]>",
       "time": "23/03 · 10:47",
       "pubDate": "Mon, 23 Mar 2026 07:47:42 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: empate com um a mais, preocupação com Memphis e distância na tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529589/ultimas-do-corinthians-empate-com-um-a-mais-preocupacao-com-memphis-e-distancia-na-tabela",
-      "time": "23/03 · 10:30",
-      "pubDate": "Mon, 23 Mar 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Notas e desempenhos: Como cada jogador se saiu em Corinthians x Flamengo pelo Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/notas-e-desempenhos-como-cada-jogador-se-saiu-em-corinthians-x-flamengo-pelo-campeonato-brasileiro]]>",
-      "time": "23/03 · 10:04",
-      "pubDate": "Mon, 23 Mar 2026 07:04:55 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Arbitragem, análise do jogo e mais: coletiva de Dorival Jr. no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126819/arbitragem-analise-do-jogo-e-mais-coletiva-de-dorival-jr-no-corinthians",
-      "time": "23/03 · 04:01",
-      "pubDate": "Mon, 23 Mar 2026 01:01:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians reclama de pênalti ignorado em André por árbitro Rodrigo Pereira de Lima contra o Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reclama-de-penalti-ignorado-em-andre-por-arbitro-rodrigo-pereira-de-lima-contra-o-flamengo]]>",
-      "time": "23/03 · 02:48",
-      "pubDate": "Sun, 22 Mar 2026 23:48:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -234,12 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126809/melhores-momentos-corinthians-1x1-flamengo-8-rodada-campeonato-brasileiro-2026",
       "pubDate": "Sun, 22 Mar 2026 22:46:54 -0300",
       "date": "23/03 · 01:46"
-    },
-    {
-      "title": "Memphis sente incômodo na coxa e deixa campo após participar de gol do Corinthians contra o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529550/memphis-sente-incomodo-na-coxa-e-deixa-campo-apos-participar-de-gol-do-corinthians-contra-o-flamengo",
-      "pubDate": "Sun, 22 Mar 2026 21:34:00 -0300",
-      "date": "23/03 · 00:34"
     }
   ]
 };
