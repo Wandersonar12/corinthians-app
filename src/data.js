@@ -1,38 +1,102 @@
-// Gerado automaticamente em 24/03/2026, 15:46:46
+// Gerado automaticamente em 24/03/2026, 20:01:06
 const LIVE_DATA = {
-  "updatedAt": "2026-03-24T15:46:46.971Z",
+  "updatedAt": "2026-03-24T20:01:06.333Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogadores convocados serão desfalques do Corinthians no próximo jogo do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529719/jogadores-convocados-serao-desfalques-do-corinthians-no-proximo-jogo-do-brasileirao",
-      "time": "24/03 · 15:29",
-      "pubDate": "Tue, 24 Mar 2026 12:29:00 -0300"
+      "title": "Corinthians busca quebrar tabu em meio a péssimo retrospecto contra o Sesi Franca",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529662/corinthians-busca-quebrar-tabu-em-meio-a-pessimo-retrospecto-contra-o-sesi-franca",
+      "time": "24/03 · 20:00",
+      "pubDate": "Tue, 24 Mar 2026 17:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marquinhos crava desejo de voltar ao Corinthians em retorno ao Brasil: “Vai ser uma prioridade”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marquinhos-crava-desejo-de-voltar-ao-corinthians-em-retorno-ao-brasil-vai-ser-uma-prioridade]]>",
+      "time": "24/03 · 19:53",
+      "pubDate": "Tue, 24 Mar 2026 16:53:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Associados e conselheiro do Corinthians enviam pedidos de intervenção judicial à Justiça e ao MP",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529734/associados-e-conselheiro-do-corinthians-enviam-pedidos-de-intervencao-judicial-a-justica-e-ao-mp",
+      "time": "24/03 · 19:46",
+      "pubDate": "Tue, 24 Mar 2026 16:46:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Botafogo ainda não recebeu nenhuma proposta oficial do Corinthians por Arthur Cabral, revela dirigente",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/botafogo-ainda-nao-recebeu-nenhuma-proposta-oficial-do-corinthians-por-arthur-cabral-revela-dirigente]]>",
+      "time": "24/03 · 18:35",
+      "pubDate": "Tue, 24 Mar 2026 15:35:39 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadora do Corinthians faz desabafo e cobra respeito nas redes após sair aos prantos de campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529703/jogadora-do-corinthians-faz-desabafo-e-cobra-respeito-nas-redes-apos-sair-aos-prantos-de-campo",
+      "time": "24/03 · 18:33",
+      "pubDate": "Tue, 24 Mar 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians aparece em lista de maiores devedores de tributos de São Paulo; veja o valor",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529725/corinthians-aparece-em-lista-de-maiores-devedores-de-tributos-de-sao-paulo-veja-o-valor",
+      "time": "24/03 · 18:28",
+      "pubDate": "Tue, 24 Mar 2026 15:28:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay é comparado a Tévez por PVC, justificando o foco na Copa ao invés do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-e-comparado-a-tevez-por-pvc-justificando-o-foco-na-copa-ao-inves-do-corinthians]]>",
+      "time": "24/03 · 17:39",
+      "pubDate": "Tue, 24 Mar 2026 14:39:16 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Yuri Alberto iguala número de gols de todos os atacantes do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529640/yuri-alberto-iguala-numero-de-gols-de-todos-os-atacantes-do-corinthians-em-2026",
+      "time": "24/03 · 17:31",
+      "pubDate": "Tue, 24 Mar 2026 14:31:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Osmar Stabile está insatisfeito com Memphis Depay e veta renovação no Corinthians antes da Copa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-depay-corinthians-renovacao]]>",
-      "time": "24/03 · 15:27",
-      "pubDate": "Tue, 24 Mar 2026 12:27:52 -0300"
+      "time": "24/03 · 17:12",
+      "pubDate": "Tue, 24 Mar 2026 14:12:49 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "MP-SP pede auditoria da EY e ata de reunião que aprovou afastamento de Romeu Tuma Jr. ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529718/mp-sp-pede-auditoria-da-ey-e-ata-de-reuniao-que-aprovou-afastamento-de-romeu-tuma-jr-no-corinthians",
-      "time": "24/03 · 14:59",
-      "pubDate": "Tue, 24 Mar 2026 11:59:00 -0300"
+      "title": "Corinthians ganha duas novas artilheiras e vê Gabi Zanotti disparar no ranking de 2026; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529690/corinthians-ganha-duas-novas-artilheiras-e-ve-gabi-zanotti-disparar-no-ranking-de-2026-confira",
+      "time": "24/03 · 17:00",
+      "pubDate": "Tue, 24 Mar 2026 14:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleada faz Corinthians subir quatro posições na tabela de classificação do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529691/goleada-faz-corinthians-subir-quatro-posicoes-na-tabela-de-classificacao-do-brasileirao-feminino",
-      "time": "24/03 · 14:30",
-      "pubDate": "Tue, 24 Mar 2026 11:30:00 -0300"
+      "title": "Treinadora do Corinthians elogia comissão da base e influência de jogadoras experientes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529443/treinadora-do-corinthians-elogia-comissao-da-base-e-influencia-de-jogadoras-experientes",
+      "time": "24/03 · 16:34",
+      "pubDate": "Tue, 24 Mar 2026 13:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla convocada será desfalque do Corinthians no próximo jogo do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529719/dupla-convocada-sera-desfalque-do-corinthians-no-proximo-jogo-do-brasileirao",
+      "time": "24/03 · 15:29",
+      "pubDate": "Tue, 24 Mar 2026 12:29:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -51,46 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 24 Mar 2026 10:55:06 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "[Daniel Keppler] Intervenção no Corinthians deixou de ser desejo da torcida e virou questão de tempo",
-      "url": "https://www.meutimao.com.br/coluna/daniel_keppler/4201/intervencao-no-corinthians-deixou-de-ser-desejo-da-torcida-e-virou-questao-de-tempo/",
-      "time": "24/03 · 13:42",
-      "pubDate": "Tue, 24 Mar 2026 10:42:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians revela incômodo com jejum de vitórias e pondera sobre pressão por reação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529611/zagueiro-do-corinthians-revela-incomodo-com-jejum-de-vitorias-e-pondera-sobre-pressao-por-reacao",
-      "time": "24/03 · 13:32",
-      "pubDate": "Tue, 24 Mar 2026 10:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians assina autorização para início da montagem de contêineres no novo CT do time feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529695/corinthians-assina-autorizacao-para-inicio-da-montagem-de-conteineres-no-novo-ct-do-time-feminino",
-      "time": "24/03 · 12:30",
-      "pubDate": "Tue, 24 Mar 2026 09:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay é cortado da seleção holandesa após lesão confirmada pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529713/memphis-depay-e-cortado-da-selecao-holandesa-apos-lesao-confirmada-pelo-corinthians",
-      "time": "24/03 · 12:06",
-      "pubDate": "Tue, 24 Mar 2026 09:06:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Sesi Franca para voltar a vencer no Novo Basquete Brasil; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529654/corinthians-recebe-o-sesi-franca-para-voltar-a-vencer-no-nbb-saiba-tudo",
-      "time": "24/03 · 11:30",
-      "pubDate": "Tue, 24 Mar 2026 08:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Investigação sobre uso de cartão na gestão de Augusto Melo no Corinthians é arquivada pelo Ministério Público",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Mesmo sem vitória, Corinthians vê Yuri Alberto transformar o Flamengo em sua segunda maior vítima",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/mesmo-sem-vitoria-corinthians-ve-yuri-alberto-transformar-o-flamengo-em-sua-segunda-maior-vitima]]>",
-      "time": "24/03 · 01:09",
-      "pubDate": "Mon, 23 Mar 2026 22:09:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Pressionado sobre chance de demissão, Dorival Júnior recebe voto de confiança do Corinthians na Data FIFA",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pressionado-sobre-chance-de-demissao-dorival-junior-recebe-voto-de-confianca-do-corinthians-na-data-fifa]]>",
       "time": "24/03 · 00:20",
       "pubDate": "Mon, 23 Mar 2026 21:20:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay sofre lesão de grau 2 e deve ser ausência no Corinthians por 4 semanas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sofre-lesao-de-grau-2-e-deve-ser-ausencia-no-corinthians-por-4-semanas]]>",
-      "time": "23/03 · 23:11",
-      "pubDate": "Mon, 23 Mar 2026 20:11:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto chega a 80 gols pelo Corinthians e iguala Neto em ranking de artilheiros do Alvinegro Paulista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-chega-a-80-gols-pelo-corinthians-e-iguala-neto-em-ranking-de-artilheiros-do-alvinegro-paulista]]>",
-      "time": "23/03 · 21:22",
-      "pubDate": "Mon, 23 Mar 2026 18:22:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Yuri Alberto iguala número de gols de todos os atacantes do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529640/yuri-alberto-iguala-numero-de-gols-de-todos-os-atacantes-do-corinthians-em-2026",
+      "pubDate": "Tue, 24 Mar 2026 14:31:00 -0300",
+      "date": "24/03 · 17:31"
+    },
+    {
       "title": "Goleada faz Corinthians subir quatro posições na tabela de classificação do Brasileirão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529691/goleada-faz-corinthians-subir-quatro-posicoes-na-tabela-de-classificacao-do-brasileirao-feminino",
       "pubDate": "Tue, 24 Mar 2026 11:30:00 -0300",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126833/conselheiros-comentam-afastamento-provisorio-de-romeu-tuma-jr-no-corinthians",
       "pubDate": "Mon, 23 Mar 2026 22:53:28 -0300",
       "date": "24/03 · 01:53"
-    },
-    {
-      "title": "Gol em empate coloca Flamengo como segunda maior vítima da carreira de atacante do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529551/gol-em-empate-coloca-flamengo-como-segunda-maior-vitima-da-carreira-de-atacante-do-corinthians",
-      "pubDate": "Mon, 23 Mar 2026 18:30:00 -0300",
-      "date": "23/03 · 21:30"
     }
   ]
 };
