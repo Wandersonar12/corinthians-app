@@ -1,14 +1,94 @@
-// Gerado automaticamente em 24/03/2026, 10:37:35
+// Gerado automaticamente em 24/03/2026, 15:46:46
 const LIVE_DATA = {
-  "updatedAt": "2026-03-24T10:37:35.889Z",
+  "updatedAt": "2026-03-24T15:46:46.971Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: adversário da Copa do Brasil, lesão de Memphis e afastamento de Tuma",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529689/ultimas-do-corinthians-adversario-da-copa-do-brasil-lesao-de-memphis-e-afastamento-de-tuma",
-      "time": "24/03 · 10:30",
-      "pubDate": "Tue, 24 Mar 2026 07:30:00 -0300"
+      "title": "Jogadores convocados serão desfalques do Corinthians no próximo jogo do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529719/jogadores-convocados-serao-desfalques-do-corinthians-no-proximo-jogo-do-brasileirao",
+      "time": "24/03 · 15:29",
+      "pubDate": "Tue, 24 Mar 2026 12:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile está insatisfeito com Memphis Depay e veta renovação no Corinthians antes da Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-depay-corinthians-renovacao]]>",
+      "time": "24/03 · 15:27",
+      "pubDate": "Tue, 24 Mar 2026 12:27:52 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MP-SP pede auditoria da EY e ata de reunião que aprovou afastamento de Romeu Tuma Jr. ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529718/mp-sp-pede-auditoria-da-ey-e-ata-de-reuniao-que-aprovou-afastamento-de-romeu-tuma-jr-no-corinthians",
+      "time": "24/03 · 14:59",
+      "pubDate": "Tue, 24 Mar 2026 11:59:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleada faz Corinthians subir quatro posições na tabela de classificação do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529691/goleada-faz-corinthians-subir-quatro-posicoes-na-tabela-de-classificacao-do-brasileirao-feminino",
+      "time": "24/03 · 14:30",
+      "pubDate": "Tue, 24 Mar 2026 11:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Jr define prioridades no Corinthians durante pausa para Data Fifa e busca ajustes no elenco",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-jr-define-prioridades-no-corinthians-durante-pausa-para-data-fifa-e-busca-ajustes-no-elenco]]>",
+      "time": "24/03 · 14:23",
+      "pubDate": "Tue, 24 Mar 2026 11:23:02 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians decide fazer duas contratações para Dorival Júnior e nenhuma delas será Philippe Coutinho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-fazer-duas-contratacoes-para-dorival-junior-e-nenhuma-delas-sera-philippe-coutinho]]>",
+      "time": "24/03 · 13:55",
+      "pubDate": "Tue, 24 Mar 2026 10:55:06 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "[Daniel Keppler] Intervenção no Corinthians deixou de ser desejo da torcida e virou questão de tempo",
+      "url": "https://www.meutimao.com.br/coluna/daniel_keppler/4201/intervencao-no-corinthians-deixou-de-ser-desejo-da-torcida-e-virou-questao-de-tempo/",
+      "time": "24/03 · 13:42",
+      "pubDate": "Tue, 24 Mar 2026 10:42:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians revela incômodo com jejum de vitórias e pondera sobre pressão por reação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529611/zagueiro-do-corinthians-revela-incomodo-com-jejum-de-vitorias-e-pondera-sobre-pressao-por-reacao",
+      "time": "24/03 · 13:32",
+      "pubDate": "Tue, 24 Mar 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians assina autorização para início da montagem de contêineres no novo CT do time feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529695/corinthians-assina-autorizacao-para-inicio-da-montagem-de-conteineres-no-novo-ct-do-time-feminino",
+      "time": "24/03 · 12:30",
+      "pubDate": "Tue, 24 Mar 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis Depay é cortado da seleção holandesa após lesão confirmada pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529713/memphis-depay-e-cortado-da-selecao-holandesa-apos-lesao-confirmada-pelo-corinthians",
+      "time": "24/03 · 12:06",
+      "pubDate": "Tue, 24 Mar 2026 09:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Sesi Franca para voltar a vencer no Novo Basquete Brasil; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529654/corinthians-recebe-o-sesi-franca-para-voltar-a-vencer-no-nbb-saiba-tudo",
+      "time": "24/03 · 11:30",
+      "pubDate": "Tue, 24 Mar 2026 08:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -19,38 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 24 Mar 2026 06:45:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians domina América Mineiro e vence a primeira em casa nesse Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529669/corinthians-domina-america-mineiro-e-vence-a-primeira-em-casa-nesse-brasileirao-feminino",
-      "time": "24/03 · 02:02",
-      "pubDate": "Mon, 23 Mar 2026 23:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pantaleão questiona legalidade em afastamento cautelar de Romeu Tuma Júnior no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529688/pantaleao-questiona-legalidade-em-afastamento-cautelar-de-romeu-tuma-junior-no-corinthians",
-      "time": "24/03 · 01:55",
-      "pubDate": "Mon, 23 Mar 2026 22:55:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Conselheiros comentam afastamento provisório de Romeu Tuma Jr. no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126833/conselheiros-comentam-afastamento-provisorio-de-romeu-tuma-jr-no-corinthians",
-      "time": "24/03 · 01:53",
-      "pubDate": "Mon, 23 Mar 2026 22:53:28 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde chance de sequenciar vitórias contra o Flamengo depois de mais de dez anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529528/corinthians-perde-chance-de-sequenciar-vitorias-contra-o-flamengo-depois-de-mais-de-dez-anos",
-      "time": "24/03 · 01:30",
-      "pubDate": "Mon, 23 Mar 2026 22:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Mesmo sem vitória, Corinthians vê Yuri Alberto transformar o Flamengo em sua segunda maior vítima",
@@ -59,36 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 23 Mar 2026 22:09:04 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians detalha conversa com árbitro após empate com o Flamengo e lamenta sequência",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529608/zagueiro-do-corinthians-detalha-conversa-com-arbitro-apos-empate-com-o-flamengo-e-lamenta-sequencia",
-      "time": "24/03 · 00:27",
-      "pubDate": "Mon, 23 Mar 2026 21:27:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Pressionado sobre chance de demissão, Dorival Júnior recebe voto de confiança do Corinthians na Data FIFA",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pressionado-sobre-chance-de-demissao-dorival-junior-recebe-voto-de-confianca-do-corinthians-na-data-fifa]]>",
       "time": "24/03 · 00:20",
       "pubDate": "Mon, 23 Mar 2026 21:20:12 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselheiros do Corinthians aprovam afastamento provisório de Romeu Tuma Júnior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529676/conselheiros-do-corinthians-aprovam-afastamento-provisorio-de-romeu-tuma-junior",
-      "time": "24/03 · 00:11",
-      "pubDate": "Mon, 23 Mar 2026 21:11:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Executivo do Corinthians coloca 'panos quentes' em polêmica de Memphis e elogia dia a dia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529661/executivo-do-corinthians-coloca-panos-quentes-em-polemica-de-memphis-e-elogia-dia-a-dia",
-      "time": "24/03 · 00:03",
-      "pubDate": "Mon, 23 Mar 2026 21:03:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians articula troca com Botafogo e Pedro Raul pode destravar chegada de Arthur Cabral",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-articula-troca-com-botafogo-e-pedro-raul-pode-destravar-chegada-de-arthur-cabral]]>",
-      "time": "23/03 · 21:50",
-      "pubDate": "Mon, 23 Mar 2026 18:50:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Yuri Alberto chega a 80 gols pelo Corinthians e iguala Neto em ranking de artilheiros do Alvinegro Paulista",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-chega-a-80-gols-pelo-corinthians-e-iguala-neto-em-ranking-de-artilheiros-do-alvinegro-paulista]]>",
       "time": "23/03 · 21:22",
       "pubDate": "Mon, 23 Mar 2026 18:22:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz confirma negociações por Arthur Cabral, mas acordo entre Corinthians e Botafogo segue sem avanço",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-confirma-negociacoes-por-arthur-cabral-mas-acordo-entre-corinthians-e-botafogo-segue-sem-avanco]]>",
-      "time": "23/03 · 20:29",
-      "pubDate": "Mon, 23 Mar 2026 17:29:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ronald Koeman não descarta ausência Memphis Depay na Holanda após lesão no Corinthians: “Não parece bom”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ronald-koeman-nao-descarta-ausencia-memphis-depay-na-holanda-apos-lesao-no-corinthians-nao-parece-bom]]>",
-      "time": "23/03 · 18:35",
-      "pubDate": "Mon, 23 Mar 2026 15:35:19 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleada faz Corinthians subir quatro posições na tabela de classificação do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529691/goleada-faz-corinthians-subir-quatro-posicoes-na-tabela-de-classificacao-do-brasileirao-feminino",
+      "pubDate": "Tue, 24 Mar 2026 11:30:00 -0300",
+      "date": "24/03 · 14:30"
+    },
     {
       "title": "VÍDEO: Conselheiros comentam afastamento provisório de Romeu Tuma Jr. no Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126833/conselheiros-comentam-afastamento-provisorio-de-romeu-tuma-jr-no-corinthians",
