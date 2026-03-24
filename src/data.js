@@ -1,54 +1,102 @@
-// Gerado automaticamente em 23/03/2026, 23:05:13
+// Gerado automaticamente em 24/03/2026, 10:37:35
 const LIVE_DATA = {
-  "updatedAt": "2026-03-23T23:05:13.554Z",
+  "updatedAt": "2026-03-24T10:37:35.889Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: adversário da Copa do Brasil, lesão de Memphis e afastamento de Tuma",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529689/ultimas-do-corinthians-adversario-da-copa-do-brasil-lesao-de-memphis-e-afastamento-de-tuma",
+      "time": "24/03 · 10:30",
+      "pubDate": "Tue, 24 Mar 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Investigação sobre uso de cartão na gestão de Augusto Melo no Corinthians é arquivada pelo Ministério Público",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/investigacao-sobre-uso-de-cartao-na-gestao-de-augusto-melo-no-corinthians-e-arquivada-pelo-ministerio-publico]]>",
+      "time": "24/03 · 09:45",
+      "pubDate": "Tue, 24 Mar 2026 06:45:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians domina América Mineiro e vence a primeira em casa nesse Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529669/corinthians-domina-america-mineiro-e-vence-a-primeira-em-casa-nesse-brasileirao-feminino",
+      "time": "24/03 · 02:02",
+      "pubDate": "Mon, 23 Mar 2026 23:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pantaleão questiona legalidade em afastamento cautelar de Romeu Tuma Júnior no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529688/pantaleao-questiona-legalidade-em-afastamento-cautelar-de-romeu-tuma-junior-no-corinthians",
+      "time": "24/03 · 01:55",
+      "pubDate": "Mon, 23 Mar 2026 22:55:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Conselheiros comentam afastamento provisório de Romeu Tuma Jr. no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126833/conselheiros-comentam-afastamento-provisorio-de-romeu-tuma-jr-no-corinthians",
+      "time": "24/03 · 01:53",
+      "pubDate": "Mon, 23 Mar 2026 22:53:28 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde chance de sequenciar vitórias contra o Flamengo depois de mais de dez anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529528/corinthians-perde-chance-de-sequenciar-vitorias-contra-o-flamengo-depois-de-mais-de-dez-anos",
+      "time": "24/03 · 01:30",
+      "pubDate": "Mon, 23 Mar 2026 22:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Mesmo sem vitória, Corinthians vê Yuri Alberto transformar o Flamengo em sua segunda maior vítima",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/mesmo-sem-vitoria-corinthians-ve-yuri-alberto-transformar-o-flamengo-em-sua-segunda-maior-vitima]]>",
-      "time": "23/03 · 23:01",
-      "pubDate": "Mon, 23 Mar 2026 20:01:03 -0300"
+      "time": "24/03 · 01:09",
+      "pubDate": "Mon, 23 Mar 2026 22:09:04 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ministério Público pede arquivamento de denúncia contra Augusto Melo por cartões do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529675/ministerio-publico-pede-arquivamento-de-denuncia-contra-augusto-melo-por-cartoes-do-corinthians",
-      "time": "23/03 · 22:59",
-      "pubDate": "Mon, 23 Mar 2026 19:59:43 -0300"
+      "title": "Zagueiro do Corinthians detalha conversa com árbitro após empate com o Flamengo e lamenta sequência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529608/zagueiro-do-corinthians-detalha-conversa-com-arbitro-apos-empate-com-o-flamengo-e-lamenta-sequencia",
+      "time": "24/03 · 00:27",
+      "pubDate": "Mon, 23 Mar 2026 21:27:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pressionado sobre chance de demissão, Dorival Júnior recebe voto de confiança do Corinthians na Data FIFA",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pressionado-sobre-chance-de-demissao-dorival-junior-recebe-voto-de-confianca-do-corinthians-na-data-fifa]]>",
+      "time": "24/03 · 00:20",
+      "pubDate": "Mon, 23 Mar 2026 21:20:12 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselheiros do Corinthians aprovam afastamento provisório de Romeu Tuma Júnior",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529676/conselheiros-do-corinthians-aprovam-afastamento-provisorio-de-romeu-tuma-junior",
+      "time": "24/03 · 00:11",
+      "pubDate": "Mon, 23 Mar 2026 21:11:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Executivo do Corinthians coloca 'panos quentes' em polêmica de Memphis e elogia dia a dia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529661/executivo-do-corinthians-coloca-panos-quentes-em-polemica-de-memphis-e-elogia-dia-a-dia",
+      "time": "24/03 · 00:03",
+      "pubDate": "Mon, 23 Mar 2026 21:03:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay sofre lesão de grau 2 e deve ser ausência no Corinthians por 4 semanas",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sofre-lesao-de-grau-2-e-deve-ser-ausencia-no-corinthians-por-4-semanas]]>",
-      "time": "23/03 · 22:30",
-      "pubDate": "Mon, 23 Mar 2026 19:30:20 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians solicita abertura de inquérito contra irmão de Duilio Monteiro Alves por estelionato",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529664/corinthians-solicita-abertura-de-inquerito-contra-irmao-de-duilio-monteiro-alves-por-estelionato",
-      "time": "23/03 · 22:29",
-      "pubDate": "Mon, 23 Mar 2026 19:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival Júnior lamenta novo problema de Memphis Depay após cuidados do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529601/dorival-junior-lamenta-novo-problema-de-memphis-depay-apos-cuidados-do-corinthians",
-      "time": "23/03 · 22:27",
-      "pubDate": "Mon, 23 Mar 2026 19:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Executivo do Corinthians projeta estreia na Copa do Brasil com duelo inédito",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529660/executivo-do-corinthians-projeta-estreia-na-copa-do-brasil-com-duelo-inedito",
-      "time": "23/03 · 22:02",
-      "pubDate": "Mon, 23 Mar 2026 19:02:00 -0300"
+      "time": "23/03 · 23:11",
+      "pubDate": "Mon, 23 Mar 2026 20:11:25 -0300"
     },
     {
       "source": "Bolavip",
@@ -59,44 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 23 Mar 2026 18:50:14 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay tem lesão constatada e vira desfalque no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529665/memphis-depay-tem-lesao-constatada-e-vira-desfalque-no-corinthians",
-      "time": "23/03 · 21:37",
-      "pubDate": "Mon, 23 Mar 2026 18:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gol em empate coloca Flamengo como segunda maior vítima da carreira de atacante do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529551/gol-em-empate-coloca-flamengo-como-segunda-maior-vitima-da-carreira-de-atacante-do-corinthians",
-      "time": "23/03 · 21:30",
-      "pubDate": "Mon, 23 Mar 2026 18:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Yuri Alberto chega a 80 gols pelo Corinthians e iguala Neto em ranking de artilheiros do Alvinegro Paulista",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-chega-a-80-gols-pelo-corinthians-e-iguala-neto-em-ranking-de-artilheiros-do-alvinegro-paulista]]>",
       "time": "23/03 · 21:22",
       "pubDate": "Mon, 23 Mar 2026 18:22:06 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians terá confronto inédito em sua história pela quinta fase da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529643/corinthians-tera-confronto-inedito-em-sua-historia-pela-quinta-fase-da-copa-do-brasil",
-      "time": "23/03 · 21:02",
-      "pubDate": "Mon, 23 Mar 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians exalta apoio da Fiel ao feminino e defende Fazendinha como casa fixa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529441/tecnica-do-corinthians-exalta-apoio-da-fiel-ao-feminino-e-defende-fazendinha-como-casa-fixa",
-      "time": "23/03 · 20:31",
-      "pubDate": "Mon, 23 Mar 2026 17:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/ronald-koeman-nao-descarta-ausencia-memphis-depay-na-holanda-apos-lesao-no-corinthians-nao-parece-bom]]>",
       "time": "23/03 · 18:35",
       "pubDate": "Mon, 23 Mar 2026 15:35:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Carlos Simon aponta pênalti em André e contesta expulsão de Evertton Araújo em Corinthians x Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/carlos-simon-aponta-penalti-em-andre-e-contesta-expulsao-de-evertton-araujo-em-corinthians-x-flamengo]]>",
-      "time": "23/03 · 18:14",
-      "pubDate": "Mon, 23 Mar 2026 15:14:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival não foi demitido por causa da multa e Vojvoda é um nome bem avaliado no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-multa-vojvoda-bem-avaliado-corinthians]]>",
-      "time": "23/03 · 16:37",
-      "pubDate": "Mon, 23 Mar 2026 13:37:07 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,34 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Conselheiros comentam afastamento provisório de Romeu Tuma Jr. no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126833/conselheiros-comentam-afastamento-provisorio-de-romeu-tuma-jr-no-corinthians",
+      "pubDate": "Mon, 23 Mar 2026 22:53:28 -0300",
+      "date": "24/03 · 01:53"
+    },
+    {
       "title": "Gol em empate coloca Flamengo como segunda maior vítima da carreira de atacante do Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529551/gol-em-empate-coloca-flamengo-como-segunda-maior-vitima-da-carreira-de-atacante-do-corinthians",
       "pubDate": "Mon, 23 Mar 2026 18:30:00 -0300",
       "date": "23/03 · 21:30"
-    },
-    {
-      "title": "Saiba como assistir ao duelo entre Corinthians e América-MG pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529527/saiba-como-assistir-ao-duelo-entre-corinthians-e-america-mg-pelo-brasileirao-feminino",
-      "pubDate": "Mon, 23 Mar 2026 08:00:00 -0300",
-      "date": "23/03 · 11:00"
-    },
-    {
-      "title": "VÍDEO: Arbitragem, análise do jogo e mais: coletiva de Dorival Jr. no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126819/arbitragem-analise-do-jogo-e-mais-coletiva-de-dorival-jr-no-corinthians",
-      "pubDate": "Mon, 23 Mar 2026 01:01:36 -0300",
-      "date": "23/03 · 04:01"
-    },
-    {
-      "title": "VÍDEO: Marcelo Paz se pronuncia sobre a arbitragem de Corinthians x Flamengo e revela pedido à CBF",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126818/marcelo-paz-se-pronuncia-sobre-a-arbitragem-de-corinthians-x-flamengo-e-revela-pedido-a-cbf",
-      "pubDate": "Mon, 23 Mar 2026 00:26:16 -0300",
-      "date": "23/03 · 03:26"
-    },
-    {
-      "title": "VÍDEO: Gabriel Paulista comenta sobre pressão da torcida diante de sequênciasem vitórias do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126817/gabriel-paulista-comenta-sobre-pressao-da-torcida-diante-de-sequenciasem-vitorias-do-corinthians",
-      "pubDate": "Mon, 23 Mar 2026 00:23:41 -0300",
-      "date": "23/03 · 03:23"
     }
   ]
 };
