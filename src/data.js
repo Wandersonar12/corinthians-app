@@ -1,14 +1,110 @@
-// Gerado automaticamente em 24/03/2026, 20:01:06
+// Gerado automaticamente em 24/03/2026, 23:04:04
 const LIVE_DATA = {
-  "updatedAt": "2026-03-24T20:01:06.333Z",
+  "updatedAt": "2026-03-24T23:04:04.387Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto chama responsabilidade no ataque e iguala desempenho ofensivo coletivo do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-chama-responsabilidade-no-ataque-e-iguala-desempenho-ofensivo-coletivo-do-corinthians]]>",
+      "time": "24/03 · 23:02",
+      "pubDate": "Tue, 24 Mar 2026 20:02:35 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca quebrar tabu em meio a péssimo retrospecto contra o Sesi Franca",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529662/corinthians-busca-quebrar-tabu-em-meio-a-pessimo-retrospecto-contra-o-sesi-franca",
-      "time": "24/03 · 20:00",
-      "pubDate": "Tue, 24 Mar 2026 17:00:00 -0300"
+      "title": "Gabi Zanotti valoriza três pontos em casa e faz críticas à arbitragem após goleada do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529705/gabi-zanotti-valoriza-tres-pontos-em-casa-e-faz-criticas-a-arbitragem-apos-goleada-do-corinthians",
+      "time": "24/03 · 22:38",
+      "pubDate": "Tue, 24 Mar 2026 19:38:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ex-Corinthians, Sylvinho tenta pela Albânia ser o único treinador brasileiro na Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ex-corinthians-sylvinho-tenta-pela-albania-ser-o-unico-treinador-brasileiro-na-copa-do-mundo]]>",
+      "time": "24/03 · 22:31",
+      "pubDate": "Tue, 24 Mar 2026 19:31:05 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians define plano B para contratar um centroavante caso não feche com Arthur Cabral",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-plano-b-para-contratar-um-centroavante-caso-nao-feche-com-arthur-cabral]]>",
+      "time": "24/03 · 22:29",
+      "pubDate": "Tue, 24 Mar 2026 19:29:25 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Marquinhos revela prioridade ao Corinthians em possível retorno ao futebol brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529742/marquinhos-revela-prioridade-ao-corinthians-em-possivel-retorno-ao-futebol-brasileiro",
+      "time": "24/03 · 22:00",
+      "pubDate": "Tue, 24 Mar 2026 19:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra goleiro ex-Ferroviária e chega a quatro reforços no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529748/corinthians-registra-goleiro-ex-ferroviaria-e-chega-a-quatro-reforcos-no-sub-17",
+      "time": "24/03 · 21:54",
+      "pubDate": "Tue, 24 Mar 2026 18:54:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aparece entre maiores devedores de tributos municipais de São Paulo com dívida milionária",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-esta-entre-maiores-devedores-municipais-de-sao-paulo]]>",
+      "time": "24/03 · 21:52",
+      "pubDate": "Tue, 24 Mar 2026 18:52:02 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Após Bidon, Flamengo tenta contratação de Matheus Bidu; Corinthians novamente fecha a porta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/apos-bidon-flamengo-tenta-contratacao-de-matheus-bidu-corinthians-novamente-fecha-a-porta]]>",
+      "time": "24/03 · 21:50",
+      "pubDate": "Tue, 24 Mar 2026 18:50:25 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogo entre Corinthians e Flamengo garante recorde de audiência para emissora no Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529716/jogo-entre-corinthians-e-flamengo-garante-recorde-de-audiencia-para-emissora-no-brasileirao-2026",
+      "time": "24/03 · 21:37",
+      "pubDate": "Tue, 24 Mar 2026 18:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians comenta expectativa de convocação da Seleção Brasileira para Fifa Series",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529708/atacante-do-corinthians-comenta-expectativa-de-convocacao-da-selecao-brasileira-para-fifa-series",
+      "time": "24/03 · 21:04",
+      "pubDate": "Tue, 24 Mar 2026 18:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Conselho do Corinthians nega validade jurídica em afastamento provisório",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529743/presidente-do-conselho-do-corinthians-nega-validade-juridica-em-afastamento-provisorio",
+      "time": "24/03 · 20:44",
+      "pubDate": "Tue, 24 Mar 2026 17:44:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima celebra estreia na Neo Química Arena com vitória e aponta ajustes no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529702/emily-lima-celebra-estreia-na-neo-quimica-arena-com-vitoria-e-aponta-ajustes-no-corinthians",
+      "time": "24/03 · 20:31",
+      "pubDate": "Tue, 24 Mar 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece tabela detalhada do Campeonato Paulista Sub-17; confira datas e horários",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529740/corinthians-conhece-tabela-detalhada-do-campeonato-paulista-sub-17-confira-datas-e-horarios",
+      "time": "24/03 · 20:22",
+      "pubDate": "Tue, 24 Mar 2026 17:22:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -19,14 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 24 Mar 2026 16:53:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Associados e conselheiro do Corinthians enviam pedidos de intervenção judicial à Justiça e ao MP",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529734/associados-e-conselheiro-do-corinthians-enviam-pedidos-de-intervencao-judicial-a-justica-e-ao-mp",
-      "time": "24/03 · 19:46",
-      "pubDate": "Tue, 24 Mar 2026 16:46:42 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Botafogo ainda não recebeu nenhuma proposta oficial do Corinthians por Arthur Cabral, revela dirigente",
@@ -35,100 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 24 Mar 2026 15:35:39 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadora do Corinthians faz desabafo e cobra respeito nas redes após sair aos prantos de campo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529703/jogadora-do-corinthians-faz-desabafo-e-cobra-respeito-nas-redes-apos-sair-aos-prantos-de-campo",
-      "time": "24/03 · 18:33",
-      "pubDate": "Tue, 24 Mar 2026 15:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aparece em lista de maiores devedores de tributos de São Paulo; veja o valor",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529725/corinthians-aparece-em-lista-de-maiores-devedores-de-tributos-de-sao-paulo-veja-o-valor",
-      "time": "24/03 · 18:28",
-      "pubDate": "Tue, 24 Mar 2026 15:28:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay é comparado a Tévez por PVC, justificando o foco na Copa ao invés do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-e-comparado-a-tevez-por-pvc-justificando-o-foco-na-copa-ao-inves-do-corinthians]]>",
       "time": "24/03 · 17:39",
       "pubDate": "Tue, 24 Mar 2026 14:39:16 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto iguala número de gols de todos os atacantes do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529640/yuri-alberto-iguala-numero-de-gols-de-todos-os-atacantes-do-corinthians-em-2026",
-      "time": "24/03 · 17:31",
-      "pubDate": "Tue, 24 Mar 2026 14:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile está insatisfeito com Memphis Depay e veta renovação no Corinthians antes da Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-depay-corinthians-renovacao]]>",
-      "time": "24/03 · 17:12",
-      "pubDate": "Tue, 24 Mar 2026 14:12:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians ganha duas novas artilheiras e vê Gabi Zanotti disparar no ranking de 2026; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529690/corinthians-ganha-duas-novas-artilheiras-e-ve-gabi-zanotti-disparar-no-ranking-de-2026-confira",
-      "time": "24/03 · 17:00",
-      "pubDate": "Tue, 24 Mar 2026 14:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinadora do Corinthians elogia comissão da base e influência de jogadoras experientes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529443/treinadora-do-corinthians-elogia-comissao-da-base-e-influencia-de-jogadoras-experientes",
-      "time": "24/03 · 16:34",
-      "pubDate": "Tue, 24 Mar 2026 13:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla convocada será desfalque do Corinthians no próximo jogo do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529719/dupla-convocada-sera-desfalque-do-corinthians-no-proximo-jogo-do-brasileirao",
-      "time": "24/03 · 15:29",
-      "pubDate": "Tue, 24 Mar 2026 12:29:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Jr define prioridades no Corinthians durante pausa para Data Fifa e busca ajustes no elenco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-jr-define-prioridades-no-corinthians-durante-pausa-para-data-fifa-e-busca-ajustes-no-elenco]]>",
-      "time": "24/03 · 14:23",
-      "pubDate": "Tue, 24 Mar 2026 11:23:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians decide fazer duas contratações para Dorival Júnior e nenhuma delas será Philippe Coutinho",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-fazer-duas-contratacoes-para-dorival-junior-e-nenhuma-delas-sera-philippe-coutinho]]>",
-      "time": "24/03 · 13:55",
-      "pubDate": "Tue, 24 Mar 2026 10:55:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Investigação sobre uso de cartão na gestão de Augusto Melo no Corinthians é arquivada pelo Ministério Público",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/investigacao-sobre-uso-de-cartao-na-gestao-de-augusto-melo-no-corinthians-e-arquivada-pelo-ministerio-publico]]>",
-      "time": "24/03 · 09:45",
-      "pubDate": "Tue, 24 Mar 2026 06:45:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Pressionado sobre chance de demissão, Dorival Júnior recebe voto de confiança do Corinthians na Data FIFA",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/pressionado-sobre-chance-de-demissao-dorival-junior-recebe-voto-de-confianca-do-corinthians-na-data-fifa]]>",
-      "time": "24/03 · 00:20",
-      "pubDate": "Mon, 23 Mar 2026 21:20:12 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Gabi Zanotti valoriza três pontos em casa e faz críticas à arbitragem após goleada do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529705/gabi-zanotti-valoriza-tres-pontos-em-casa-e-faz-criticas-a-arbitragem-apos-goleada-do-corinthians",
+      "pubDate": "Tue, 24 Mar 2026 19:38:00 -0300",
+      "date": "24/03 · 22:38"
+    },
+    {
+      "title": "Corinthians registra goleiro ex-Ferroviária e chega a quatro reforços no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529748/corinthians-registra-goleiro-ex-ferroviaria-e-chega-a-quatro-reforcos-no-sub-17",
+      "pubDate": "Tue, 24 Mar 2026 18:54:42 -0300",
+      "date": "24/03 · 21:54"
+    },
     {
       "title": "Yuri Alberto iguala número de gols de todos os atacantes do Corinthians em 2026",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529640/yuri-alberto-iguala-numero-de-gols-de-todos-os-atacantes-do-corinthians-em-2026",
