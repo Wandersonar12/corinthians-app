@@ -1,7 +1,111 @@
-// Gerado automaticamente em 25/03/2026, 15:50:30
+// Gerado automaticamente em 25/03/2026, 19:58:23
 const LIVE_DATA = {
-  "updatedAt": "2026-03-25T15:50:30.352Z",
+  "updatedAt": "2026-03-25T19:58:23.141Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard deve aparecer no BID até sexta-feira e pode estrear no Corinthians contra o Fluminense",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-corinthians-fluminense-maracana]]>",
+      "time": "25/03 · 19:50",
+      "pubDate": "Wed, 25 Mar 2026 16:50:27 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Atlético de Madrid inicia contato com Corinthians pela contratação de André; Timão pede € 35 milhões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/atletico-de-madrid-inicia-contato-com-corinthians-pela-contratacao-de-andre-timao-pede-eur-35-milhoes]]>",
+      "time": "25/03 · 19:43",
+      "pubDate": "Wed, 25 Mar 2026 16:43:52 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Andressa Alves volta a marcar após jejum de 20 jogos pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529679/andressa-alves-volta-a-marcar-apos-jejum-de-20-jogos-pelo-corinthians",
+      "time": "25/03 · 19:36",
+      "pubDate": "Wed, 25 Mar 2026 16:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra meia-atacante com passagem por rival para o Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529792/corinthians-registra-meia-atacante-com-passagem-por-rival-para-o-sub-17",
+      "time": "25/03 · 19:13",
+      "pubDate": "Wed, 25 Mar 2026 16:13:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians pode negociar Matheus Bidu com o Flamengo em caso de “proposta irrecusável”, diz site",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-negociar-matheus-bidu-com-o-flamengo-em-caso-de-proposta-irrecusavel-diz-site]]>",
+      "time": "25/03 · 19:08",
+      "pubDate": "Wed, 25 Mar 2026 16:08:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians entra na mira de Atlético de Madrid e Benfica, diz jornalista italiano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529791/volante-do-corinthians-entra-na-mira-de-atletico-de-madrid-e-benfica-diz-jornalista-italiano",
+      "time": "25/03 · 19:00",
+      "pubDate": "Wed, 25 Mar 2026 16:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Matheus Bidu iguala atacante como segundo maior assistente do Corinthians em 2026; veja a lista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529659/matheus-bidu-iguala-atacante-como-segundo-maior-assistente-do-corinthians-em-2026-veja-a-lista",
+      "time": "25/03 · 18:29",
+      "pubDate": "Wed, 25 Mar 2026 15:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Convocações geram desfalques no Corinthians para a disputa da Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529775/convocacoes-geram-desfalques-no-corinthians-para-a-disputa-da-teal-rising-cup",
+      "time": "25/03 · 18:02",
+      "pubDate": "Wed, 25 Mar 2026 15:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Evento com personalidades do Corinthians lança projeto para escrever 'Constituição' para o clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529786/evento-com-personalidades-do-corinthians-lanca-projeto-para-escrever-constituicao-para-o-clube",
+      "time": "25/03 · 17:42",
+      "pubDate": "Wed, 25 Mar 2026 14:42:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Entrevista coletiva com Casagrande em evento sobre a redemocratização do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126855/entrevista-coletiva-com-casagrande-em-evento-sobre-a-redemocratizacao-do-corinthians",
+      "time": "25/03 · 17:32",
+      "pubDate": "Wed, 25 Mar 2026 14:32:54 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Entrevista com Juca Kfouri e Sócrates Jr. em evento sobre a redemocratização do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126854/entrevista-com-juca-kfouri-e-socrates-jr-em-evento-sobre-a-redemocratizacao-do-corinthians",
+      "time": "25/03 · 17:32",
+      "pubDate": "Wed, 25 Mar 2026 14:32:03 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Jr. tem ‘dor de cabeça’ no Corinthians e pode ter 7 desfalques contra o Fluminense",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-jr-tem-dor-de-cabeca-no-corinthians-e-pode-ter-7-desfalques-contra-o-fluminense]]>",
+      "time": "25/03 · 17:15",
+      "pubDate": "Wed, 25 Mar 2026 14:15:46 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay culpa o Corinthians pela lesão e só volta a jogar se estiver 100% recuperado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-culpa-corinthians-lesao]]>",
+      "time": "25/03 · 17:12",
+      "pubDate": "Wed, 25 Mar 2026 14:12:45 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -9,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-prepara-saida-no-corinthians-por-emprestimo-apos-negociacoes-avancadas-para-jogar-no-vitoria]]>",
       "time": "25/03 · 15:43",
       "pubDate": "Wed, 25 Mar 2026 12:43:44 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém negociações com o Botafogo por Arthur Cabral e pode incluir Pedro Raul",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529778/corinthians-mantem-negociacoes-por-arthur-cabral-com-botafogo-e-pode-incluir-pedro-raul",
-      "time": "25/03 · 15:28",
-      "pubDate": "Wed, 25 Mar 2026 12:28:58 -0300"
     },
     {
       "source": "Bolavip",
@@ -29,106 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians não perde tempo e define plano B além de Arthur Cabral; Renê Sousa e Robson são especulados",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-perde-tempo-e-define-plano-b-alem-de-arthur-cabral-rene-sousa-e-robson-sao-especulados]]>",
-      "time": "25/03 · 14:36",
-      "pubDate": "Wed, 25 Mar 2026 11:36:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Gabriel Paulista cresce no Corinthians e apresenta bons números defensivos no Campeonato Brasileiro",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-paulista-cresce-no-corinthians-e-apresenta-bons-numeros-defensivos-no-campeonato-brasileiro]]>",
       "time": "25/03 · 14:09",
       "pubDate": "Wed, 25 Mar 2026 11:09:23 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jesse Lingard tem visto publicado e fica perto de ser regularizado pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529773/jesse-lingard-tem-visto-publicado-e-fica-perto-de-ser-regularizado-pelo-corinthians",
-      "time": "25/03 · 14:06",
-      "pubDate": "Wed, 25 Mar 2026 11:06:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay faz acordo com Corinthians e fará o tratamento de lesão na Holanda",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-acordo-com-corinthians-e-fara-o-tratamento-de-lesao-na-holanda]]>",
-      "time": "25/03 · 13:50",
-      "pubDate": "Wed, 25 Mar 2026 10:50:15 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians critica possível regra da Fifa e comenta importância de Copa no Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529442/tecnica-do-corinthians-critica-possivel-regra-da-fifa-e-comenta-importancia-de-copa-no-brasil",
-      "time": "25/03 · 13:45",
-      "pubDate": "Wed, 25 Mar 2026 10:45:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem cinco jogadoras convocadas para representar a Seleção Brasileira na Fifa Series",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529763/corinthians-tem-cinco-jogadoras-convocadas-para-representar-a-selecao-brasileira-na-fifa-series",
-      "time": "25/03 · 13:21",
-      "pubDate": "Wed, 25 Mar 2026 10:21:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians repete desempenho irregular no Brasileirão desde 2023 e expõe irregularidade na competição",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-repete-desempenho-irregular-no-brasileirao-desde-2023-e-expoe-irregularidade-na-competicao]]>",
-      "time": "25/03 · 12:43",
-      "pubDate": "Wed, 25 Mar 2026 09:43:15 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay tem sétima intercorrência médica desde que chegou ao Corinthians; relembre todas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529710/memphis-depay-tem-setima-intercorrencia-medica-desde-que-chegou-ao-corinthians-relembre-todas",
-      "time": "25/03 · 12:31",
-      "pubDate": "Wed, 25 Mar 2026 09:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians corre contra o tempo e arma plano ousado para segurar Memphis antes da Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-e-arma-plano-ousado-para-segurar-memphis-antes-da-copa]]>",
-      "time": "25/03 · 12:07",
-      "pubDate": "Wed, 25 Mar 2026 09:07:36 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Red Bull Bragantino em busca da classificação no Brasileiro Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529746/corinthians-recebe-o-red-bull-bragantino-em-busca-da-classificacao-no-brasileiro-feminino-sub-20",
-      "time": "25/03 · 11:30",
-      "pubDate": "Wed, 25 Mar 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta última cartada por Arthur Cabral, e divisão de salário com Botafogo emperra negociação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-ultima-cartada-por-arthur-cabral-e-divisao-de-salario-com-botafogo-emperra-negociacao]]>",
-      "time": "25/03 · 11:08",
-      "pubDate": "Wed, 25 Mar 2026 08:08:29 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: corte de Memphis, CT do feminino e desfalques certos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529757/ultimas-do-corinthians-corte-de-memphis-ct-do-feminino-e-desfalques-certos",
-      "time": "25/03 · 10:30",
-      "pubDate": "Wed, 25 Mar 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians apresenta retrospecto inconstante no Brasileirão desde 2023",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529647/corinthians-apresenta-retrospecto-inconstante-no-brasileirao-desde-2023",
-      "time": "25/03 · 01:30",
-      "pubDate": "Tue, 24 Mar 2026 22:30:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Entrevista coletiva com Casagrande em evento sobre a redemocratização do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126855/entrevista-coletiva-com-casagrande-em-evento-sobre-a-redemocratizacao-do-corinthians",
+      "pubDate": "Wed, 25 Mar 2026 14:32:54 -0300",
+      "date": "25/03 · 17:32"
+    },
+    {
+      "title": "VÍDEO: Entrevista com Juca Kfouri e Sócrates Jr. em evento sobre a redemocratização do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126854/entrevista-com-juca-kfouri-e-socrates-jr-em-evento-sobre-a-redemocratizacao-do-corinthians",
+      "pubDate": "Wed, 25 Mar 2026 14:32:03 -0300",
+      "date": "25/03 · 17:32"
+    },
+    {
+      "title": "Corinthians ainda busca goleiro experiente antes do fim da janela de transferências",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529781/corinthians-ainda-busca-goleiro-experiente-antes-do-fim-da-janela-de-transferencias",
+      "pubDate": "Wed, 25 Mar 2026 13:15:00 -0300",
+      "date": "25/03 · 16:15"
+    },
+    {
       "title": "Corinthians volta a marcar quatro gols em um jogo após mais de cinco meses",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529684/corinthians-volta-a-marcar-quatro-gols-em-um-jogo-apos-mais-de-cinco-meses",
       "pubDate": "Tue, 24 Mar 2026 22:01:00 -0300",
@@ -216,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529705/gabi-zanotti-valoriza-tres-pontos-em-casa-e-faz-criticas-a-arbitragem-apos-goleada-do-corinthians",
       "pubDate": "Tue, 24 Mar 2026 19:38:00 -0300",
       "date": "24/03 · 22:38"
-    },
-    {
-      "title": "Corinthians registra goleiro ex-Ferroviária e chega a quatro reforços no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529748/corinthians-registra-goleiro-ex-ferroviaria-e-chega-a-quatro-reforcos-no-sub-17",
-      "pubDate": "Tue, 24 Mar 2026 18:54:00 -0300",
-      "date": "24/03 · 21:54"
-    },
-    {
-      "title": "Yuri Alberto iguala número de gols de todos os atacantes do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529640/yuri-alberto-iguala-numero-de-gols-de-todos-os-atacantes-do-corinthians-em-2026",
-      "pubDate": "Tue, 24 Mar 2026 14:31:00 -0300",
-      "date": "24/03 · 17:31"
     }
   ]
 };
