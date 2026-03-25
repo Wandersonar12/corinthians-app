@@ -1,7 +1,119 @@
-// Gerado automaticamente em 25/03/2026, 10:35:00
+// Gerado automaticamente em 25/03/2026, 15:50:30
 const LIVE_DATA = {
-  "updatedAt": "2026-03-25T10:35:00.867Z",
+  "updatedAt": "2026-03-25T15:50:30.352Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pedro Raul prepara saída no Corinthians por empréstimo após negociações avançadas para jogar no Vitória",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-prepara-saida-no-corinthians-por-emprestimo-apos-negociacoes-avancadas-para-jogar-no-vitoria]]>",
+      "time": "25/03 · 15:43",
+      "pubDate": "Wed, 25 Mar 2026 12:43:44 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém negociações com o Botafogo por Arthur Cabral e pode incluir Pedro Raul",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529778/corinthians-mantem-negociacoes-por-arthur-cabral-com-botafogo-e-pode-incluir-pedro-raul",
+      "time": "25/03 · 15:28",
+      "pubDate": "Wed, 25 Mar 2026 12:28:58 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis mostra tratamento de lesão e promete retorno em breve ao Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-mostra-tratamento-de-lesao-e-promete-retorno-em-breve-ao-corinthians]]>",
+      "time": "25/03 · 15:14",
+      "pubDate": "Wed, 25 Mar 2026 12:14:05 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não perde tempo e define plano B além de Arthur Cabral; Renê Sousa e Robson são especulados",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-perde-tempo-e-define-plano-b-alem-de-arthur-cabral-rene-sousa-e-robson-sao-especulados]]>",
+      "time": "25/03 · 14:36",
+      "pubDate": "Wed, 25 Mar 2026 11:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gabriel Paulista cresce no Corinthians e apresenta bons números defensivos no Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-paulista-cresce-no-corinthians-e-apresenta-bons-numeros-defensivos-no-campeonato-brasileiro]]>",
+      "time": "25/03 · 14:09",
+      "pubDate": "Wed, 25 Mar 2026 11:09:23 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jesse Lingard tem visto publicado e fica perto de ser regularizado pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529773/jesse-lingard-tem-visto-publicado-e-fica-perto-de-ser-regularizado-pelo-corinthians",
+      "time": "25/03 · 14:06",
+      "pubDate": "Wed, 25 Mar 2026 11:06:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay faz acordo com Corinthians e fará o tratamento de lesão na Holanda",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-acordo-com-corinthians-e-fara-o-tratamento-de-lesao-na-holanda]]>",
+      "time": "25/03 · 13:50",
+      "pubDate": "Wed, 25 Mar 2026 10:50:15 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians critica possível regra da Fifa e comenta importância de Copa no Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529442/tecnica-do-corinthians-critica-possivel-regra-da-fifa-e-comenta-importancia-de-copa-no-brasil",
+      "time": "25/03 · 13:45",
+      "pubDate": "Wed, 25 Mar 2026 10:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem cinco jogadoras convocadas para representar a Seleção Brasileira na Fifa Series",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529763/corinthians-tem-cinco-jogadoras-convocadas-para-representar-a-selecao-brasileira-na-fifa-series",
+      "time": "25/03 · 13:21",
+      "pubDate": "Wed, 25 Mar 2026 10:21:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians repete desempenho irregular no Brasileirão desde 2023 e expõe irregularidade na competição",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-repete-desempenho-irregular-no-brasileirao-desde-2023-e-expoe-irregularidade-na-competicao]]>",
+      "time": "25/03 · 12:43",
+      "pubDate": "Wed, 25 Mar 2026 09:43:15 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis Depay tem sétima intercorrência médica desde que chegou ao Corinthians; relembre todas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529710/memphis-depay-tem-setima-intercorrencia-medica-desde-que-chegou-ao-corinthians-relembre-todas",
+      "time": "25/03 · 12:31",
+      "pubDate": "Wed, 25 Mar 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians corre contra o tempo e arma plano ousado para segurar Memphis antes da Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-e-arma-plano-ousado-para-segurar-memphis-antes-da-copa]]>",
+      "time": "25/03 · 12:07",
+      "pubDate": "Wed, 25 Mar 2026 09:07:36 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Red Bull Bragantino em busca da classificação no Brasileiro Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529746/corinthians-recebe-o-red-bull-bragantino-em-busca-da-classificacao-no-brasileiro-feminino-sub-20",
+      "time": "25/03 · 11:30",
+      "pubDate": "Wed, 25 Mar 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tenta última cartada por Arthur Cabral, e divisão de salário com Botafogo emperra negociação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-ultima-cartada-por-arthur-cabral-e-divisao-de-salario-com-botafogo-emperra-negociacao]]>",
+      "time": "25/03 · 11:08",
+      "pubDate": "Wed, 25 Mar 2026 08:08:29 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,124 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 25 Mar 2026 07:30:00 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay faz acordo com Corinthians e fará o tratamento de lesão na Holanda",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-acordo-com-corinthians-e-fara-o-tratamento-de-lesao-na-holanda]]>",
-      "time": "25/03 · 09:53",
-      "pubDate": "Wed, 25 Mar 2026 06:53:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Romeu Tuma Jr. é afastado após votação dos conselheiros do Corinthians, mas não reconhece votação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/romeu-tuma-jr-e-afastado-apos-votacao-dos-conselheiros-do-corinthians-mas-nao-reconhece-votacao]]>",
-      "time": "25/03 · 02:38",
-      "pubDate": "Tue, 24 Mar 2026 23:38:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aguarda liberação de Lingard e define prazo para meia poder estrear pelo clube",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-liberacao-de-lingard-e-define-prazo-para-meia-poder-estrear-pelo-clube]]>",
-      "time": "25/03 · 01:38",
-      "pubDate": "Tue, 24 Mar 2026 22:38:17 -0300"
-    },
-    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians apresenta retrospecto inconstante no Brasileirão desde 2023",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529647/corinthians-apresenta-retrospecto-inconstante-no-brasileirao-desde-2023",
       "time": "25/03 · 01:30",
       "pubDate": "Tue, 24 Mar 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Troca de Pedro Raul por Arthur Cabral no Corinthians é vetada pelo Botafogo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/troca-de-pedro-raul-por-arthur-cabral-no-corinthians-e-vetada-pelo-botafogo]]>",
-      "time": "25/03 · 01:25",
-      "pubDate": "Tue, 24 Mar 2026 22:25:26 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a marcar quatro gols em um jogo após mais de cinco meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529684/corinthians-volta-a-marcar-quatro-gols-em-um-jogo-apos-mais-de-cinco-meses",
-      "time": "25/03 · 01:01",
-      "pubDate": "Tue, 24 Mar 2026 22:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians inicia primeiro trabalho como treinador profissional em clube inglês",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529754/ex-atacante-do-corinthians-inicia-primeiro-trabalho-como-treinador-profissional-em-clube-ingles",
-      "time": "25/03 · 00:58",
-      "pubDate": "Tue, 24 Mar 2026 21:58:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians luta até o fim, mas perde para os 'astros' do Sesi Franca no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529744/corinthians-luta-ate-o-fim-mas-perde-para-os-astros-do-sesi-franca-no-nbb",
-      "time": "25/03 · 00:52",
-      "pubDate": "Tue, 24 Mar 2026 21:52:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Sem atuar durante março, Charles vê concorrência crescer e espaço diminuir no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/sem-atuar-durante-marco-charles-ve-concorrencia-crescer-e-espaco-diminuir-no-corinthians]]>",
-      "time": "25/03 · 00:45",
-      "pubDate": "Tue, 24 Mar 2026 21:45:53 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica planejamento para a Data Fifa e atualiza quadro físico de atacante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529598/tecnico-do-corinthians-explica-planejamento-para-a-data-fifa-e-atualiza-quadro-fisico-de-atacante",
-      "time": "25/03 · 00:32",
-      "pubDate": "Tue, 24 Mar 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay vive ‘drama’ no Corinthians e não deverá estar disponível na estreia da Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-vive-drama-no-corinthians-e-nao-devera-estar-disponivel-na-estreia-da-libertadores]]>",
-      "time": "25/03 · 00:26",
-      "pubDate": "Tue, 24 Mar 2026 21:26:12 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém retrospecto perfeito e chega à quarta vitória sobre o América-MG",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529685/corinthians-mantem-retrospecto-perfeito-e-chega-a-quarta-vitoria-sobre-o-america-mg",
-      "time": "25/03 · 00:05",
-      "pubDate": "Tue, 24 Mar 2026 21:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Clima leve e cobrança de técnica marcam bastidores da goleada do Corinthians no Brasileiro Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529750/clima-leve-e-cobranca-de-tecnica-marcam-bastidores-da-goleada-do-corinthians-no-brasileiro-feminino",
-      "time": "24/03 · 23:38",
-      "pubDate": "Tue, 24 Mar 2026 20:38:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define plano B para contratar um centroavante caso não feche com Arthur Cabral",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-plano-b-para-contratar-um-centroavante-caso-nao-feche-com-arthur-cabral]]>",
-      "time": "24/03 · 23:10",
-      "pubDate": "Tue, 24 Mar 2026 20:10:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto chama responsabilidade no ataque e iguala desempenho ofensivo coletivo do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-chama-responsabilidade-no-ataque-e-iguala-desempenho-ofensivo-coletivo-do-corinthians]]>",
-      "time": "24/03 · 23:02",
-      "pubDate": "Tue, 24 Mar 2026 20:02:35 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -228,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529640/yuri-alberto-iguala-numero-de-gols-de-todos-os-atacantes-do-corinthians-em-2026",
       "pubDate": "Tue, 24 Mar 2026 14:31:00 -0300",
       "date": "24/03 · 17:31"
-    },
-    {
-      "title": "Goleada faz Corinthians subir quatro posições na tabela de classificação do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529691/goleada-faz-corinthians-subir-quatro-posicoes-na-tabela-de-classificacao-do-brasileirao-feminino",
-      "pubDate": "Tue, 24 Mar 2026 11:30:00 -0300",
-      "date": "24/03 · 14:30"
     }
   ]
 };
