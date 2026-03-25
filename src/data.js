@@ -1,7 +1,111 @@
-// Gerado automaticamente em 25/03/2026, 19:58:23
+// Gerado automaticamente em 25/03/2026, 23:52:38
 const LIVE_DATA = {
-  "updatedAt": "2026-03-25T19:58:23.141Z",
+  "updatedAt": "2026-03-25T23:52:38.214Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians se destaca em quesitos defensivos entre os jogadores do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529727/zagueiro-do-corinthians-se-destaca-em-quesitos-defensivos-entre-os-jogadores-do-brasileirao",
+      "time": "25/03 · 23:30",
+      "pubDate": "Wed, 25 Mar 2026 20:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians ainda não tem definição sobre saída de Pedro Raúl ao Vitória por 3 motivos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ainda-nao-tem-definicao-sobre-saida-de-pedro-raul-ao-vitoria-por-3-motivos]]>",
+      "time": "25/03 · 23:08",
+      "pubDate": "Wed, 25 Mar 2026 20:08:39 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay manda mensagem para a torcida do Corinthians após iniciar tratamento da lesão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-manda-mensagem-para-a-torcida-do-corinthians-apos-iniciar-tratamento-da-lesao]]>",
+      "time": "25/03 · 23:06",
+      "pubDate": "Wed, 25 Mar 2026 20:06:39 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians faz treinamento junto do Sub-20 do futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529797/idolo-do-corinthians-faz-treinamento-junto-do-sub-20-do-futsal",
+      "time": "25/03 · 23:03",
+      "pubDate": "Wed, 25 Mar 2026 20:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians dispensa atacante do Sub-17 após menos de um ano no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529803/corinthians-dispensa-atacante-do-sub-17-apos-menos-de-um-ano-no-clube",
+      "time": "25/03 · 22:47",
+      "pubDate": "Wed, 25 Mar 2026 19:47:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Armador do Corinthians substitui lesionado e disputará Jogo das Estrelas do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529794/armador-do-corinthians-substitui-lesionado-e-disputara-jogo-das-estrelas-do-nbb",
+      "time": "25/03 · 22:32",
+      "pubDate": "Wed, 25 Mar 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians se reapresenta e intensifica preparação para duelo diante do Fluminense pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-reapresenta-e-intensifica-preparacao-para-duelo-diante-do-fluminense-pelo-brasileirao]]>",
+      "time": "25/03 · 22:27",
+      "pubDate": "Wed, 25 Mar 2026 19:27:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians valoriza pausa para Data Fifa antes de 'maratona' em abril",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529801/zagueiro-do-corinthians-valoriza-pausa-para-data-fifa-antes-de-maratona-em-abril",
+      "time": "25/03 · 22:12",
+      "pubDate": "Wed, 25 Mar 2026 19:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se reapresenta após folga na Data Fifa com atualizações do departamento médico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529800/corinthians-se-reapresenta-apos-folga-na-data-fifa-com-atualizacoes-do-departamento-medico",
+      "time": "25/03 · 21:58",
+      "pubDate": "Wed, 25 Mar 2026 18:58:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Atlético de Madrid inicia contato com Corinthians pela contratação de André; Timão pede € 35 milhões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/atletico-de-madrid-inicia-contato-com-corinthians-pela-contratacao-de-andre-timao-pede-eur-35-milhoes]]>",
+      "time": "25/03 · 21:46",
+      "pubDate": "Wed, 25 Mar 2026 18:46:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians ultrapassa mil pontos no Novo Basquete Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529755/ala-do-corinthians-ultrapassa-mil-pontos-no-nbb",
+      "time": "25/03 · 21:30",
+      "pubDate": "Wed, 25 Mar 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians entrega parte de documentos solicitados pelo MP; EY e ata de reunião seguem pendentes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529798/corinthians-entrega-parte-de-documentos-solicitados-pelo-mp-ey-e-ata-de-reuniao-seguem-pendentes",
+      "time": "25/03 · 21:16",
+      "pubDate": "Wed, 25 Mar 2026 18:16:48 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay ganha força para deixar o Corinthians após a Copa; renovação fica difícil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-ganha-forca-para-deixar-o-corinthians-apos-a-copa-renovacao-fica-dificil]]>",
+      "time": "25/03 · 21:04",
+      "pubDate": "Wed, 25 Mar 2026 18:04:43 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -13,82 +117,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Atlético de Madrid inicia contato com Corinthians pela contratação de André; Timão pede € 35 milhões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/atletico-de-madrid-inicia-contato-com-corinthians-pela-contratacao-de-andre-timao-pede-eur-35-milhoes]]>",
-      "time": "25/03 · 19:43",
-      "pubDate": "Wed, 25 Mar 2026 16:43:52 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Andressa Alves volta a marcar após jejum de 20 jogos pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529679/andressa-alves-volta-a-marcar-apos-jejum-de-20-jogos-pelo-corinthians",
-      "time": "25/03 · 19:36",
-      "pubDate": "Wed, 25 Mar 2026 16:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra meia-atacante com passagem por rival para o Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529792/corinthians-registra-meia-atacante-com-passagem-por-rival-para-o-sub-17",
-      "time": "25/03 · 19:13",
-      "pubDate": "Wed, 25 Mar 2026 16:13:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians pode negociar Matheus Bidu com o Flamengo em caso de “proposta irrecusável”, diz site",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-negociar-matheus-bidu-com-o-flamengo-em-caso-de-proposta-irrecusavel-diz-site]]>",
       "time": "25/03 · 19:08",
       "pubDate": "Wed, 25 Mar 2026 16:08:47 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians entra na mira de Atlético de Madrid e Benfica, diz jornalista italiano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529791/volante-do-corinthians-entra-na-mira-de-atletico-de-madrid-e-benfica-diz-jornalista-italiano",
-      "time": "25/03 · 19:00",
-      "pubDate": "Wed, 25 Mar 2026 16:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Matheus Bidu iguala atacante como segundo maior assistente do Corinthians em 2026; veja a lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529659/matheus-bidu-iguala-atacante-como-segundo-maior-assistente-do-corinthians-em-2026-veja-a-lista",
-      "time": "25/03 · 18:29",
-      "pubDate": "Wed, 25 Mar 2026 15:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Convocações geram desfalques no Corinthians para a disputa da Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529775/convocacoes-geram-desfalques-no-corinthians-para-a-disputa-da-teal-rising-cup",
-      "time": "25/03 · 18:02",
-      "pubDate": "Wed, 25 Mar 2026 15:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Evento com personalidades do Corinthians lança projeto para escrever 'Constituição' para o clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529786/evento-com-personalidades-do-corinthians-lanca-projeto-para-escrever-constituicao-para-o-clube",
-      "time": "25/03 · 17:42",
-      "pubDate": "Wed, 25 Mar 2026 14:42:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Entrevista coletiva com Casagrande em evento sobre a redemocratização do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126855/entrevista-coletiva-com-casagrande-em-evento-sobre-a-redemocratizacao-do-corinthians",
-      "time": "25/03 · 17:32",
-      "pubDate": "Wed, 25 Mar 2026 14:32:54 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Entrevista com Juca Kfouri e Sócrates Jr. em evento sobre a redemocratização do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126854/entrevista-com-juca-kfouri-e-socrates-jr-em-evento-sobre-a-redemocratizacao-do-corinthians",
-      "time": "25/03 · 17:32",
-      "pubDate": "Wed, 25 Mar 2026 14:32:03 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-jr-tem-dor-de-cabeca-no-corinthians-e-pode-ter-7-desfalques-contra-o-fluminense]]>",
       "time": "25/03 · 17:15",
       "pubDate": "Wed, 25 Mar 2026 14:15:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay culpa o Corinthians pela lesão e só volta a jogar se estiver 100% recuperado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-culpa-corinthians-lesao]]>",
-      "time": "25/03 · 17:12",
-      "pubDate": "Wed, 25 Mar 2026 14:12:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Pedro Raul prepara saída no Corinthians por empréstimo após negociações avançadas para jogar no Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-prepara-saida-no-corinthians-por-emprestimo-apos-negociacoes-avancadas-para-jogar-no-vitoria]]>",
-      "time": "25/03 · 15:43",
-      "pubDate": "Wed, 25 Mar 2026 12:43:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis mostra tratamento de lesão e promete retorno em breve ao Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-mostra-tratamento-de-lesao-e-promete-retorno-em-breve-ao-corinthians]]>",
-      "time": "25/03 · 15:14",
-      "pubDate": "Wed, 25 Mar 2026 12:14:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gabriel Paulista cresce no Corinthians e apresenta bons números defensivos no Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-paulista-cresce-no-corinthians-e-apresenta-bons-numeros-defensivos-no-campeonato-brasileiro]]>",
-      "time": "25/03 · 14:09",
-      "pubDate": "Wed, 25 Mar 2026 11:09:23 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,24 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529781/corinthians-ainda-busca-goleiro-experiente-antes-do-fim-da-janela-de-transferencias",
       "pubDate": "Wed, 25 Mar 2026 13:15:00 -0300",
       "date": "25/03 · 16:15"
-    },
-    {
-      "title": "Corinthians volta a marcar quatro gols em um jogo após mais de cinco meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529684/corinthians-volta-a-marcar-quatro-gols-em-um-jogo-apos-mais-de-cinco-meses",
-      "pubDate": "Tue, 24 Mar 2026 22:01:00 -0300",
-      "date": "25/03 · 01:01"
-    },
-    {
-      "title": "Clima leve e cobrança de técnica marcam bastidores da goleada do Corinthians no Brasileiro Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529750/clima-leve-e-cobranca-de-tecnica-marcam-bastidores-da-goleada-do-corinthians-no-brasileiro-feminino",
-      "pubDate": "Tue, 24 Mar 2026 20:38:00 -0300",
-      "date": "24/03 · 23:38"
-    },
-    {
-      "title": "Gabi Zanotti valoriza três pontos em casa e faz críticas à arbitragem após goleada do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529705/gabi-zanotti-valoriza-tres-pontos-em-casa-e-faz-criticas-a-arbitragem-apos-goleada-do-corinthians",
-      "pubDate": "Tue, 24 Mar 2026 19:38:00 -0300",
-      "date": "24/03 · 22:38"
     }
   ]
 };
