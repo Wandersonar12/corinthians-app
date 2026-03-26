@@ -1,22 +1,118 @@
-// Gerado automaticamente em 26/03/2026, 10:39:59
+// Gerado automaticamente em 26/03/2026, 15:58:49
 const LIVE_DATA = {
-  "updatedAt": "2026-03-26T10:39:59.224Z",
+  "updatedAt": "2026-03-26T15:58:49.953Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians completa sete jogos seguidos sem vencer na temporada e iguala série negativa de 2024",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-completa-sete-jogos-seguidos-sem-vencer-na-temporada-e-iguala-serie-negativa-de-2024]]>",
+      "time": "26/03 · 15:41",
+      "pubDate": "Thu, 26 Mar 2026 12:41:21 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: troca por Arthur Cabral, visto de Lingard e volante cobiçado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529808/ultimas-do-corinthians-troca-por-arthur-cabral-visto-de-lingard-e-volante-cobicado",
-      "time": "26/03 · 10:30",
-      "pubDate": "Thu, 26 Mar 2026 07:30:00 -0300"
+      "title": "Dorival analisa dificuldades do Corinthians no setor ofensivo e em desempenho como mandante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529599/dorival-analisa-dificuldades-do-corinthians-no-setor-ofensivo-e-em-desempenho-como-mandante",
+      "time": "26/03 · 15:27",
+      "pubDate": "Thu, 26 Mar 2026 12:27:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gilmar Dal Pozzo cobra agilidade na Chapecoense após conversar com Pedro Raul, do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gilmar-dal-pozzo-cobra-agilidade-na-chapecoense-apos-conversar-com-pedro-raul-do-corinthians]]>",
+      "time": "26/03 · 14:56",
+      "pubDate": "Thu, 26 Mar 2026 11:56:38 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians afirma ter esclarecido divergência apontada pela administradora no processo do RCE",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529822/corinthians-afirma-ter-esclarecido-divergencia-apontada-pela-administradora-no-processo-do-rce",
+      "time": "26/03 · 14:56",
+      "pubDate": "Thu, 26 Mar 2026 11:56:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Treinadora do Corinthians volta a comandar vitória depois de quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529731/treinadora-do-corinthians-volta-a-comandar-vitoria-depois-de-quase-um-ano",
+      "time": "26/03 · 14:30",
+      "pubDate": "Thu, 26 Mar 2026 11:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe visita de técnico do Nagoya Oceans no Wlamir Marques",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529813/corinthians-recebe-visita-de-tecnico-do-nagoya-oceans-no-wlamir-marques",
+      "time": "26/03 · 14:01",
+      "pubDate": "Thu, 26 Mar 2026 11:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians quer passar por cima do Vitória e avançar na contratação do atacante Renê, da Portuguesa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-passar-por-cima-do-vitoria-e-avancar-na-contratacao-do-atacante-rene-da-portuguesa]]>",
+      "time": "26/03 · 13:43",
+      "pubDate": "Thu, 26 Mar 2026 10:43:09 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians se isola na segunda posição entre artilheiros do Brasileirão na década",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529683/atacante-do-corinthians-se-isola-na-segunda-posicao-entre-artilheiros-do-brasileirao-na-decada",
+      "time": "26/03 · 13:29",
+      "pubDate": "Thu, 26 Mar 2026 10:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians acende alerta com lesões e já atinge quase metade do total de 2025 em três meses",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acende-alerta-com-lesoes-e-ja-atinge-quase-metade-do-total-de-2025-em-tres-meses]]>",
+      "time": "26/03 · 13:15",
+      "pubDate": "Thu, 26 Mar 2026 10:15:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians fixa multa e barra atacante do Botafogo em confronto válido pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529770/corinthians-fixa-multa-e-barra-atacante-do-botafogo-em-confronto-valido-pelo-brasileirao-feminino",
+      "time": "26/03 · 13:01",
+      "pubDate": "Thu, 26 Mar 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Justiça faz alerta e pede que o Corinthians explique divergência em cálculo de receitas no RCE",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529816/justica-faz-alerta-e-pede-que-o-corinthians-explique-divergencia-em-calculo-de-receitas-no-rce",
+      "time": "26/03 · 12:34",
+      "pubDate": "Thu, 26 Mar 2026 09:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Hugo Souza representa o Corinthians em amistoso do Brasil contra a França; veja onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529789/hugo-souza-representa-o-corinthians-em-amistoso-do-brasil-contra-a-franca-veja-onde-assistir",
+      "time": "26/03 · 11:30",
+      "pubDate": "Thu, 26 Mar 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians acelera estreia de Lingard, resolve burocracia e projeta inglês contra o Fluminense",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acelera-estreia-de-lingard-resolve-burocracia-e-projeta-ingles-contra-o-fluminense]]>",
+      "time": "26/03 · 11:03",
+      "pubDate": "Thu, 26 Mar 2026 08:03:58 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians acelera busca por um goleiro para fazer ‘sombra’ a Hugo Souza no decorrer da temporada",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acelera-busca-por-um-goleiro-para-fazer-sombra-a-hugo-souza-no-decorrer-da-temporada]]>",
-      "time": "26/03 · 09:14",
-      "pubDate": "Thu, 26 Mar 2026 06:14:05 -0300"
+      "time": "26/03 · 10:43",
+      "pubDate": "Thu, 26 Mar 2026 07:43:25 -0300"
     },
     {
       "source": "Bolavip",
@@ -33,102 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-confirma-que-arthur-cabral-foi-oferecido-ao-corinthians-e-prega-cautela]]>",
       "time": "26/03 · 02:55",
       "pubDate": "Wed, 25 Mar 2026 23:55:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ex-Corinthians, Kazim vira técnico e tenta salvar Crawley Town de queda na League Two",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ex-corinthians-kazim-vira-tecnico-e-tenta-salvar-crawley-town-de-queda-na-league-two]]>",
-      "time": "26/03 · 01:47",
-      "pubDate": "Wed, 25 Mar 2026 22:47:18 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians confirma conversas por Arthur Cabral e projeta renovação com Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529807/presidente-do-corinthians-confirma-conversas-por-arthur-cabral-e-projeta-renovacao-com-memphis",
-      "time": "26/03 · 01:32",
-      "pubDate": "Wed, 25 Mar 2026 22:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival Júnior fala sobre pressão no Corinthians e diz que 'coisas boas' estão acontecendo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529600/dorival-junior-fala-sobre-pressao-no-corinthians-e-diz-que-coisas-boas-estao-acontecendo",
-      "time": "26/03 · 01:30",
-      "pubDate": "Wed, 25 Mar 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians adota otimismo e projeta acordo com Talleres por dívida de Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529806/presidente-do-corinthians-adota-otimismo-e-projeta-acordo-com-talleres-por-divida-de-garro",
-      "time": "26/03 · 01:12",
-      "pubDate": "Wed, 25 Mar 2026 22:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti se torna a segunda jogadora com mais partidas na história do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529680/gabi-zanotti-se-torna-a-segunda-jogadora-com-mais-partidas-na-historia-do-corinthians",
-      "time": "26/03 · 01:00",
-      "pubDate": "Wed, 25 Mar 2026 22:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Patrocinadora máster do Corinthians promove jantar para as Brabas no gramado da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529805/patrocinadora-master-do-corinthians-promove-jantar-para-as-brabas-no-gramado-da-neo-quimica-arena",
-      "time": "26/03 · 00:44",
-      "pubDate": "Wed, 25 Mar 2026 21:44:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante completa um mês sem entrar em campo pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529544/volante-completa-um-mes-sem-entrar-em-campo-pelo-corinthians",
-      "time": "26/03 · 00:30",
-      "pubDate": "Wed, 25 Mar 2026 21:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vê Zanotti manter liderança e meia entrar na lista de assistentes em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529732/corinthians-ve-zanotti-manter-lideranca-e-meia-entrar-na-lista-de-assistentes-em-2026",
-      "time": "26/03 · 00:02",
-      "pubDate": "Wed, 25 Mar 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians ainda não tem definição sobre saída de Pedro Raúl ao Vitória por 3 motivos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ainda-nao-tem-definicao-sobre-saida-de-pedro-raul-ao-vitoria-por-3-motivos]]>",
-      "time": "25/03 · 23:08",
-      "pubDate": "Wed, 25 Mar 2026 20:08:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay manda mensagem para a torcida do Corinthians após iniciar tratamento da lesão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-manda-mensagem-para-a-torcida-do-corinthians-apos-iniciar-tratamento-da-lesao]]>",
-      "time": "25/03 · 23:06",
-      "pubDate": "Wed, 25 Mar 2026 20:06:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians se reapresenta e intensifica preparação para duelo diante do Fluminense pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-reapresenta-e-intensifica-preparacao-para-duelo-diante-do-fluminense-pelo-brasileirao]]>",
-      "time": "25/03 · 22:27",
-      "pubDate": "Wed, 25 Mar 2026 19:27:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay ganha força para deixar o Corinthians após a Copa; renovação fica difícil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-ganha-forca-para-deixar-o-corinthians-apos-a-copa-renovacao-fica-dificil]]>",
-      "time": "25/03 · 21:04",
-      "pubDate": "Wed, 25 Mar 2026 18:04:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,10 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "VÍDEO: Entrevista coletiva com Casagrande em evento sobre a redemocratização do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126855/entrevista-coletiva-com-casagrande-em-evento-sobre-a-redemocratizacao-do-corinthians",
-      "pubDate": "Wed, 25 Mar 2026 14:32:54 -0300",
-      "date": "25/03 · 17:32"
-    },
-    {
-      "title": "VÍDEO: Entrevista com Juca Kfouri e Sócrates Jr. em evento sobre a redemocratização do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126854/entrevista-com-juca-kfouri-e-socrates-jr-em-evento-sobre-a-redemocratizacao-do-corinthians",
-      "pubDate": "Wed, 25 Mar 2026 14:32:03 -0300",
-      "date": "25/03 · 17:32"
+      "title": "Hugo Souza representa o Corinthians em amistoso do Brasil contra a França; veja onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529789/hugo-souza-representa-o-corinthians-em-amistoso-do-brasil-contra-a-franca-veja-onde-assistir",
+      "pubDate": "Thu, 26 Mar 2026 08:30:00 -0300",
+      "date": "26/03 · 11:30"
     }
   ]
 };
