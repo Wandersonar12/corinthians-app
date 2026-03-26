@@ -1,7 +1,71 @@
-// Gerado automaticamente em 26/03/2026, 20:00:37
+// Gerado automaticamente em 26/03/2026, 23:00:27
 const LIVE_DATA = {
-  "updatedAt": "2026-03-26T20:00:37.772Z",
+  "updatedAt": "2026-03-26T23:00:27.889Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians protocola pedido de alvará para reforma e ampliação da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529855/corinthians-protocola-pedido-de-alvara-para-reforma-e-ampliacao-da-neo-quimica-arena",
+      "time": "26/03 · 22:53",
+      "pubDate": "Thu, 26 Mar 2026 19:53:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lingard aparece no BID e está liberado para estrear pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/528707/lingard-aparece-no-bid-e-esta-liberado-para-estrear-pelo-corinthians",
+      "time": "26/03 · 21:36",
+      "pubDate": "Thu, 26 Mar 2026 18:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Estádio do Corinthians recebe evento sobre preparação física e performance esportiva",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529836/estadio-do-corinthians-recebe-evento-sobre-preparacao-fisica-e-performance-esportiva",
+      "time": "26/03 · 21:32",
+      "pubDate": "Thu, 26 Mar 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians lidera ranking negativo de empates e busca reação após sequência sem vitórias no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-lidera-ranking-negativo-de-empates-e-busca-reacao-apos-sequencia-sem-vitorias-no-brasileirao]]>",
+      "time": "26/03 · 21:23",
+      "pubDate": "Thu, 26 Mar 2026 18:23:38 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz proposta por atacante da Portuguesa e corre contra o tempo pela janela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529830/corinthians-faz-proposta-por-atacante-da-portuguesa-e-corre-contra-o-tempo-pela-janela",
+      "time": "26/03 · 20:54",
+      "pubDate": "Thu, 26 Mar 2026 17:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians continua troca de refletores e aguarda conclusão de obra para liberação da Fazendinha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529840/corinthians-continua-troca-de-refletores-e-aguarda-conclusao-de-obra-para-liberacao-da-fazendinha",
+      "time": "26/03 · 20:30",
+      "pubDate": "Thu, 26 Mar 2026 17:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians entra no top-5 dos clubes com mais atletas convocados na atual Data Fifa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-entra-no-top-5-dos-clubes-com-mais-atletas-convocados-na-atual-data-fifa]]>",
+      "time": "26/03 · 20:03",
+      "pubDate": "Thu, 26 Mar 2026 17:03:06 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Andrés Sanchez desiste de depor à Comissão de Ética do Corinthians em caso do cartão corporativo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529842/andres-sanchez-desiste-de-depor-a-comissao-de-etica-do-corinthians-em-caso-do-cartao-corporativo",
+      "time": "26/03 · 20:00",
+      "pubDate": "Thu, 26 Mar 2026 17:00:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -13,26 +77,10 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é o time brasileiro que mais empatou no século XXI; veja n��meros",
+      "title": "Corinthians é o time brasileiro com mais empates no século XXI; veja os números",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529821/corinthians-e-o-time-brasileiro-que-mais-empatou-no-seculo-xxi-veja-numeros",
       "time": "26/03 · 19:02",
       "pubDate": "Thu, 26 Mar 2026 16:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily defende 'improvisações' na lateral direita e reforça rotação para elenco do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529704/emily-defende-improvisacoes-na-lateral-direita-e-reforca-rotacao-para-elenco-do-corinthians",
-      "time": "26/03 · 18:32",
-      "pubDate": "Thu, 26 Mar 2026 15:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "STJD denuncia Memphis por uso de celular no banco de reservas durante jogo do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529834/stjd-denuncia-memphis-por-uso-de-celular-no-banco-de-reservas-durante-jogo-do-corinthians",
-      "time": "26/03 · 18:02",
-      "pubDate": "Thu, 26 Mar 2026 15:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,22 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Mar 2026 14:51:08 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians elogia Dorival Júnior e diz desacreditar de novos títulos para 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529764/ex-atacante-do-corinthians-elogia-dorival-junior-e-diz-desacreditar-de-novos-titulos-para-2026",
-      "time": "26/03 · 17:37",
-      "pubDate": "Thu, 26 Mar 2026 14:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza segundo treino na Data Fifa e conta com retorno de goleiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529833/corinthians-realiza-segundo-treino-na-data-fifa-e-conta-com-retorno-de-goleiro",
-      "time": "26/03 · 17:30",
-      "pubDate": "Thu, 26 Mar 2026 14:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Depay é denunciado no STJD por uso de celular em Corinthians x Flamengo",
@@ -67,28 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Mar 2026 13:34:10 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está entre os clubes que mais cederam jogadores às seleções nesta Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529820/corinthians-esta-entre-os-clubes-que-mais-cederam-jogadores-as-selecoes-nesta-data-fifa",
-      "time": "26/03 · 16:01",
-      "pubDate": "Thu, 26 Mar 2026 13:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians completa sete jogos seguidos sem vencer na temporada e iguala série negativa de 2024",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-completa-sete-jogos-seguidos-sem-vencer-na-temporada-e-iguala-serie-negativa-de-2024]]>",
       "time": "26/03 · 15:41",
       "pubDate": "Thu, 26 Mar 2026 12:41:21 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival analisa dificuldades do Corinthians no setor ofensivo e em desempenho como mandante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529599/dorival-analisa-dificuldades-do-corinthians-no-setor-ofensivo-e-em-desempenho-como-mandante",
-      "time": "26/03 · 15:27",
-      "pubDate": "Thu, 26 Mar 2026 12:27:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acende-alerta-com-lesoes-e-ja-atinge-quase-metade-do-total-de-2025-em-tres-meses]]>",
       "time": "26/03 · 13:15",
       "pubDate": "Thu, 26 Mar 2026 10:15:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians acelera estreia de Lingard, resolve burocracia e projeta inglês contra o Fluminense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acelera-estreia-de-lingard-resolve-burocracia-e-projeta-ingles-contra-o-fluminense]]>",
-      "time": "26/03 · 11:03",
-      "pubDate": "Thu, 26 Mar 2026 08:03:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians acelera busca por um goleiro para fazer ‘sombra’ a Hugo Souza no decorrer da temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acelera-busca-por-um-goleiro-para-fazer-sombra-a-hugo-souza-no-decorrer-da-temporada]]>",
-      "time": "26/03 · 10:43",
-      "pubDate": "Thu, 26 Mar 2026 07:43:25 -0300"
     },
     {
       "source": "Gazeta Esportiva",
