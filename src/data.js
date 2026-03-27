@@ -1,30 +1,118 @@
-// Gerado automaticamente em 27/03/2026, 14:44:56
+// Gerado automaticamente em 27/03/2026, 19:54:15
 const LIVE_DATA = {
-  "updatedAt": "2026-03-27T14:44:56.418Z",
+  "updatedAt": "2026-03-27T19:54:15.292Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gabi Zanotti assume artilharia histórica do Corinthians Feminino na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529681/gabi-zanotti-assume-artilharia-historica-do-corinthians-feminino-na-neo-quimica-arena",
-      "time": "27/03 · 14:31",
-      "pubDate": "Fri, 27 Mar 2026 11:31:00 -0300"
+      "title": "Dorival Júnior ganha nova dor de cabeça para montar o ataque do Corinthians após a Data Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529884/dorival-junior-ganha-nova-dor-de-cabeca-para-montar-o-ataque-do-corinthians-apos-a-data-fifa",
+      "time": "27/03 · 19:32",
+      "pubDate": "Fri, 27 Mar 2026 16:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para clássico contra o Magnus pela LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529877/corinthians-inicia-venda-de-ingressos-para-classico-contra-o-magnus-pela-lnf",
-      "time": "27/03 · 14:01",
-      "pubDate": "Fri, 27 Mar 2026 11:01:00 -0300"
+      "title": "Breno Bidon valoriza preparação do Corinthians na Data Fifa e projeta evolução do time na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529894/breno-bidon-valoriza-preparacao-do-corinthians-na-data-fifa-e-projeta-evolucao-do-time-na-temporada",
+      "time": "27/03 · 19:01",
+      "pubDate": "Fri, 27 Mar 2026 16:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Entenda a resposta do Corinthians sobre divergência no RCE e por que a Justiça ainda não analisou",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529876/entenda-a-resposta-do-corinthians-sobre-divergencia-no-rce-e-por-que-a-justica-ainda-nao-analisou",
-      "time": "27/03 · 13:36",
-      "pubDate": "Fri, 27 Mar 2026 10:36:00 -0300"
+      "title": "Corinthians defende retrospecto perfeito contra o Botafogo nesta sexta-feira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529811/corinthians-defende-retrospecto-perfeito-contra-o-botafogo-nesta-sexta-feira",
+      "time": "27/03 · 18:29",
+      "pubDate": "Fri, 27 Mar 2026 15:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians é condenado pela CAS por dívida de Maycon e pode sofrer novo transfer ban da FIFA",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-condenado-pela-cas-por-divida-de-maycon-e-pode-sofrer-novo-transfer-ban-da-fifa]]>",
+      "time": "27/03 · 18:19",
+      "pubDate": "Fri, 27 Mar 2026 15:19:13 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gui Negão sofre lesão, é cortado da Seleção Brasileira Sub-20 e preocupa o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-sofre-lesao-e-cortado-da-selecao-brasileira-sub-20-e-preocupa-o-corinthians]]>",
+      "time": "27/03 · 17:47",
+      "pubDate": "Fri, 27 Mar 2026 14:47:52 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz terceiro treino na Data Fifa com foco na criação ofensiva",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529892/corinthians-faz-terceiro-treino-na-data-fifa-com-foco-na-criacao-ofensiva",
+      "time": "27/03 · 17:46",
+      "pubDate": "Fri, 27 Mar 2026 14:46:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians decide não contratar nenhum centroavante após cancelar negociações por Arthur Cabral e Renê",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-nao-contratar-nenhum-centroavante-apos-cancelar-negociacoes-por-arthur-cabral-e-rene]]>",
+      "time": "27/03 · 17:41",
+      "pubDate": "Fri, 27 Mar 2026 14:41:02 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém Pedro Raul no elenco após procura de clubes da Série A",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529890/corinthians-mantem-pedro-raul-no-elenco-apos-procura-de-clubes-da-serie-a",
+      "time": "27/03 · 17:18",
+      "pubDate": "Fri, 27 Mar 2026 14:18:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians faz oferta por Renê, mas Portuguesa recusa empréstimo e pede venda pelo atacante",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-emprestimo-rene-portuguesa-venda]]>",
+      "time": "27/03 · 17:15",
+      "pubDate": "Fri, 27 Mar 2026 14:15:49 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recua após proposta e desiste da contratação de artilheiro da Portuguesa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529887/corinthians-recua-apos-proposta-e-desiste-da-contratacao-de-artilheiro-da-portuguesa",
+      "time": "27/03 · 17:04",
+      "pubDate": "Fri, 27 Mar 2026 14:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Tribunal condena Corinthians por dívida junto ao Shakhtar Donetsk em empréstimo de Maycon",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529888/tribunal-condena-corinthians-por-divida-junto-ao-shakhtar-donetsk-em-emprestimo-de-maycon",
+      "time": "27/03 · 17:03",
+      "pubDate": "Fri, 27 Mar 2026 14:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "WSL presenteia jogadores do Corinthians com lycras personalizadas após visita a clube de surfe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529879/wsl-presenteia-jogadores-do-corinthians-com-lycras-personalizadas-apos-visita-a-clube-de-surfe",
+      "time": "27/03 · 17:01",
+      "pubDate": "Fri, 27 Mar 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança para quitar dívida milionária com Talleres e surpreende com acordo após pressão da FIFA",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-para-quitar-divida-milionaria-com-talleres-e-surpreende-com-acordo-apos-pressao-da-fifa]]>",
+      "time": "27/03 · 16:10",
+      "pubDate": "Fri, 27 Mar 2026 13:10:14 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu, do Corinthians, lidera ranking entre laterais no Brasileirão com números impressionantes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-do-corinthians-lidera-ranking-entre-laterais-no-brasileirao-com-numeros-impressionantes]]>",
+      "time": "27/03 · 15:09",
+      "pubDate": "Fri, 27 Mar 2026 12:09:12 -0300"
     },
     {
       "source": "Bolavip",
@@ -35,100 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 27 Mar 2026 09:58:43 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Janela extra de estaduais chega ao fim nesta sexta-feira; Corinthians corre contra o tempo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529872/janela-extra-de-estaduais-chega-ao-fim-nesta-sexta-feira-corinthians-corre-contra-o-tempo",
-      "time": "27/03 · 12:29",
-      "pubDate": "Fri, 27 Mar 2026 09:29:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival entrega necessidade de dois atacantes e Corinthians tenta agilizar negociação de última hora",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-entrega-necessidade-de-dois-atacantes-e-o-corinthians-tenta-agilizar-negociacao-de-ultima-hora]]>",
-      "time": "27/03 · 12:27",
-      "pubDate": "Fri, 27 Mar 2026 09:27:58 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Lingard tem nome publicado no BID, pode estrear pelo Corinthians e Fiel Torcida critica demora: “Sempre essa…”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-tem-nome-publicado-no-bid-pode-estrear-pelo-corinthians-e-fiel-torcida-critica-demora-sempre-essa]]>",
       "time": "27/03 · 12:14",
       "pubDate": "Fri, 27 Mar 2026 09:14:16 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba como assistir ao jogo entre Corinthians e Botafogo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529838/saiba-como-assistir-ao-jogo-entre-corinthians-e-botafogo-pelo-brasileirao-feminino",
-      "time": "27/03 · 11:31",
-      "pubDate": "Fri, 27 Mar 2026 08:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: investida por atacante, denúncia contra Memphis e ampliação da Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529863/ultimas-do-corinthians-investida-por-atacante-denuncia-contra-memphis-e-ampliacao-da-arena",
-      "time": "27/03 · 10:30",
-      "pubDate": "Fri, 27 Mar 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encara o Botafogo buscando emendar sequência de vitórias no Brasileirão; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529839/corinthians-encara-o-botafogo-buscando-emendar-sequencia-de-vitorias-no-brasileirao-saiba-tudo",
-      "time": "27/03 · 03:01",
-      "pubDate": "Fri, 27 Mar 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é o terceiro pior mandante da temporada; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529799/corinthians-e-o-terceiro-pior-mandante-da-temporada-veja-o-ranking",
-      "time": "27/03 · 01:30",
-      "pubDate": "Thu, 26 Mar 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians lidera ranking negativo de empates e busca reação após sequência sem vitórias no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-lidera-ranking-negativo-de-empates-e-busca-reacao-apos-sequencia-sem-vitorias-no-brasileirao]]>",
-      "time": "26/03 · 21:23",
-      "pubDate": "Thu, 26 Mar 2026 18:23:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians entra no top-5 dos clubes com mais atletas convocados na atual Data Fifa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-entra-no-top-5-dos-clubes-com-mais-atletas-convocados-na-atual-data-fifa]]>",
-      "time": "26/03 · 20:03",
-      "pubDate": "Thu, 26 Mar 2026 17:03:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians descarta João Paulo após Bahia barrar negociação e esfria contratação de goleiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-joao-paulo-bahia-negociacao]]>",
-      "time": "26/03 · 17:51",
-      "pubDate": "Thu, 26 Mar 2026 14:51:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Depay é denunciado no STJD por uso de celular em Corinthians x Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-e-denunciado-no-stjd-por-uso-de-celular-em-corinthians-x-flamengo]]>",
-      "time": "26/03 · 16:34",
-      "pubDate": "Thu, 26 Mar 2026 13:34:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians completa sete jogos seguidos sem vencer na temporada e iguala série negativa de 2024",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-completa-sete-jogos-seguidos-sem-vencer-na-temporada-e-iguala-serie-negativa-de-2024]]>",
-      "time": "26/03 · 15:41",
-      "pubDate": "Thu, 26 Mar 2026 12:41:21 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529838/saiba-como-assistir-ao-jogo-entre-corinthians-e-botafogo-pelo-brasileirao-feminino",
       "pubDate": "Fri, 27 Mar 2026 08:31:00 -0300",
       "date": "27/03 · 11:31"
-    },
-    {
-      "title": "Corinthians realiza segundo treino na Data Fifa e conta com retorno de goleiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529833/corinthians-realiza-segundo-treino-na-data-fifa-e-conta-com-retorno-de-goleiro",
-      "pubDate": "Thu, 26 Mar 2026 14:30:00 -0300",
-      "date": "26/03 · 17:30"
     }
   ]
 };
