@@ -1,30 +1,70 @@
-// Gerado automaticamente em 26/03/2026, 23:00:27
+// Gerado automaticamente em 27/03/2026, 10:34:51
 const LIVE_DATA = {
-  "updatedAt": "2026-03-26T23:00:27.889Z",
+  "updatedAt": "2026-03-27T10:34:51.789Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians protocola pedido de alvará para reforma e ampliação da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529855/corinthians-protocola-pedido-de-alvara-para-reforma-e-ampliacao-da-neo-quimica-arena",
-      "time": "26/03 · 22:53",
-      "pubDate": "Thu, 26 Mar 2026 19:53:00 -0300"
+      "title": "Últimas do Corinthians: investida por atacante, denúncia contra Memphis e ampliação da Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529863/ultimas-do-corinthians-investida-por-atacante-denuncia-contra-memphis-e-ampliacao-da-arena",
+      "time": "27/03 · 10:30",
+      "pubDate": "Fri, 27 Mar 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lingard aparece no BID e está liberado para estrear pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/528707/lingard-aparece-no-bid-e-esta-liberado-para-estrear-pelo-corinthians",
-      "time": "26/03 · 21:36",
-      "pubDate": "Thu, 26 Mar 2026 18:36:00 -0300"
+      "title": "Corinthians encara o Botafogo buscando emendar sequência de vitórias no Brasileirão; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529839/corinthians-encara-o-botafogo-buscando-emendar-sequencia-de-vitorias-no-brasileirao-saiba-tudo",
+      "time": "27/03 · 03:01",
+      "pubDate": "Fri, 27 Mar 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Estádio do Corinthians recebe evento sobre preparação física e performance esportiva",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529836/estadio-do-corinthians-recebe-evento-sobre-preparacao-fisica-e-performance-esportiva",
-      "time": "26/03 · 21:32",
-      "pubDate": "Thu, 26 Mar 2026 18:32:00 -0300"
+      "title": "Corinthians é o terceiro pior mandante da temporada; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529799/corinthians-e-o-terceiro-pior-mandante-da-temporada-veja-o-ranking",
+      "time": "27/03 · 01:30",
+      "pubDate": "Thu, 26 Mar 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Estádio do Corinthians recebe festival de música e cultura urbana neste sábado; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529851/estadio-do-corinthians-recebe-festival-de-musica-e-cultura-urbana-neste-sabado-saiba-mais",
+      "time": "27/03 · 01:02",
+      "pubDate": "Thu, 26 Mar 2026 22:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians finaliza preparação para enfrentar o Botafogo pelo Brasileiro; veja a provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529862/corinthians-finaliza-preparacao-para-enfrentar-o-botafogo-pelo-brasileiro-veja-a-provavel-escalacao",
+      "time": "27/03 · 00:51",
+      "pubDate": "Thu, 26 Mar 2026 21:51:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti avalia impacto positivo e vê elenco do Corinthians mais competitivo com Emily Lima",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529706/gabi-zanotti-avalia-impacto-positivo-e-ve-elenco-do-corinthians-mais-competitivo-com-emily-lima",
+      "time": "27/03 · 00:35",
+      "pubDate": "Thu, 26 Mar 2026 21:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians celebra o Dia Internacional da Síndrome de Down com ações especiais na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529861/corinthians-celebra-o-dia-internacional-da-sindrome-de-down-com-acoes-especiais-na-neo-quimica-arena",
+      "time": "27/03 · 00:17",
+      "pubDate": "Thu, 26 Mar 2026 21:17:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala/pivô do Corinthians é convocado para o Jogo das Estrelas do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529850/alapivo-do-corinthians-e-convocado-para-o-jogo-das-estrelas-do-nbb",
+      "time": "27/03 · 00:02",
+      "pubDate": "Thu, 26 Mar 2026 21:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -35,52 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Mar 2026 18:23:38 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz proposta por atacante da Portuguesa e corre contra o tempo pela janela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529830/corinthians-faz-proposta-por-atacante-da-portuguesa-e-corre-contra-o-tempo-pela-janela",
-      "time": "26/03 · 20:54",
-      "pubDate": "Thu, 26 Mar 2026 17:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians continua troca de refletores e aguarda conclusão de obra para liberação da Fazendinha",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529840/corinthians-continua-troca-de-refletores-e-aguarda-conclusao-de-obra-para-liberacao-da-fazendinha",
-      "time": "26/03 · 20:30",
-      "pubDate": "Thu, 26 Mar 2026 17:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians entra no top-5 dos clubes com mais atletas convocados na atual Data Fifa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-entra-no-top-5-dos-clubes-com-mais-atletas-convocados-na-atual-data-fifa]]>",
       "time": "26/03 · 20:03",
       "pubDate": "Thu, 26 Mar 2026 17:03:06 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Andrés Sanchez desiste de depor à Comissão de Ética do Corinthians em caso do cartão corporativo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529842/andres-sanchez-desiste-de-depor-a-comissao-de-etica-do-corinthians-em-caso-do-cartao-corporativo",
-      "time": "26/03 · 20:00",
-      "pubDate": "Thu, 26 Mar 2026 17:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians lidera interceptações e ações com a bola na Série A",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529793/lateral-do-corinthians-lidera-interceptacoes-e-acoes-com-a-bola-na-serie-a",
-      "time": "26/03 · 19:31",
-      "pubDate": "Thu, 26 Mar 2026 16:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é o time brasileiro com mais empates no século XXI; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529821/corinthians-e-o-time-brasileiro-que-mais-empatou-no-seculo-xxi-veja-numeros",
-      "time": "26/03 · 19:02",
-      "pubDate": "Thu, 26 Mar 2026 16:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529733/gabi-zanotti-reencontra-protagonismo-ofensivo-e-participa-de-tres-gols-em-um-jogo-apos-cinco-meses",
       "pubDate": "Thu, 26 Mar 2026 13:33:00 -0300",
       "date": "26/03 · 16:33"
-    },
-    {
-      "title": "Hugo Souza representa o Corinthians em amistoso do Brasil contra a França; veja onde assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529789/hugo-souza-representa-o-corinthians-em-amistoso-do-brasil-contra-a-franca-veja-onde-assistir",
-      "pubDate": "Thu, 26 Mar 2026 08:30:00 -0300",
-      "date": "26/03 · 11:30"
     }
   ]
 };
