@@ -1,7 +1,71 @@
-// Gerado automaticamente em 27/03/2026, 10:34:51
+// Gerado automaticamente em 27/03/2026, 14:44:56
 const LIVE_DATA = {
-  "updatedAt": "2026-03-27T10:34:51.789Z",
+  "updatedAt": "2026-03-27T14:44:56.418Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti assume artilharia histórica do Corinthians Feminino na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529681/gabi-zanotti-assume-artilharia-historica-do-corinthians-feminino-na-neo-quimica-arena",
+      "time": "27/03 · 14:31",
+      "pubDate": "Fri, 27 Mar 2026 11:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para clássico contra o Magnus pela LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529877/corinthians-inicia-venda-de-ingressos-para-classico-contra-o-magnus-pela-lnf",
+      "time": "27/03 · 14:01",
+      "pubDate": "Fri, 27 Mar 2026 11:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Entenda a resposta do Corinthians sobre divergência no RCE e por que a Justiça ainda não analisou",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529876/entenda-a-resposta-do-corinthians-sobre-divergencia-no-rce-e-por-que-a-justica-ainda-nao-analisou",
+      "time": "27/03 · 13:36",
+      "pubDate": "Fri, 27 Mar 2026 10:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians perde força em casa e vê rendimento despencar como mandante em 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-perde-forca-em-casa-e-ve-rendimento-despencar-como-mandante-em-2026]]>",
+      "time": "27/03 · 12:58",
+      "pubDate": "Fri, 27 Mar 2026 09:58:43 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Janela extra de estaduais chega ao fim nesta sexta-feira; Corinthians corre contra o tempo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529872/janela-extra-de-estaduais-chega-ao-fim-nesta-sexta-feira-corinthians-corre-contra-o-tempo",
+      "time": "27/03 · 12:29",
+      "pubDate": "Fri, 27 Mar 2026 09:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival entrega necessidade de dois atacantes e Corinthians tenta agilizar negociação de última hora",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-entrega-necessidade-de-dois-atacantes-e-o-corinthians-tenta-agilizar-negociacao-de-ultima-hora]]>",
+      "time": "27/03 · 12:27",
+      "pubDate": "Fri, 27 Mar 2026 09:27:58 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard tem nome publicado no BID, pode estrear pelo Corinthians e Fiel Torcida critica demora: “Sempre essa…”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-tem-nome-publicado-no-bid-pode-estrear-pelo-corinthians-e-fiel-torcida-critica-demora-sempre-essa]]>",
+      "time": "27/03 · 12:14",
+      "pubDate": "Fri, 27 Mar 2026 09:14:16 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba como assistir ao jogo entre Corinthians e Botafogo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529838/saiba-como-assistir-ao-jogo-entre-corinthians-e-botafogo-pelo-brasileirao-feminino",
+      "time": "27/03 · 11:31",
+      "pubDate": "Fri, 27 Mar 2026 08:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -25,46 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529799/corinthians-e-o-terceiro-pior-mandante-da-temporada-veja-o-ranking",
       "time": "27/03 · 01:30",
       "pubDate": "Thu, 26 Mar 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Estádio do Corinthians recebe festival de música e cultura urbana neste sábado; saiba mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529851/estadio-do-corinthians-recebe-festival-de-musica-e-cultura-urbana-neste-sabado-saiba-mais",
-      "time": "27/03 · 01:02",
-      "pubDate": "Thu, 26 Mar 2026 22:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians finaliza preparação para enfrentar o Botafogo pelo Brasileiro; veja a provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529862/corinthians-finaliza-preparacao-para-enfrentar-o-botafogo-pelo-brasileiro-veja-a-provavel-escalacao",
-      "time": "27/03 · 00:51",
-      "pubDate": "Thu, 26 Mar 2026 21:51:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti avalia impacto positivo e vê elenco do Corinthians mais competitivo com Emily Lima",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529706/gabi-zanotti-avalia-impacto-positivo-e-ve-elenco-do-corinthians-mais-competitivo-com-emily-lima",
-      "time": "27/03 · 00:35",
-      "pubDate": "Thu, 26 Mar 2026 21:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians celebra o Dia Internacional da Síndrome de Down com ações especiais na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529861/corinthians-celebra-o-dia-internacional-da-sindrome-de-down-com-acoes-especiais-na-neo-quimica-arena",
-      "time": "27/03 · 00:17",
-      "pubDate": "Thu, 26 Mar 2026 21:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala/pivô do Corinthians é convocado para o Jogo das Estrelas do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529850/alapivo-do-corinthians-e-convocado-para-o-jogo-das-estrelas-do-nbb",
-      "time": "27/03 · 00:02",
-      "pubDate": "Thu, 26 Mar 2026 21:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-completa-sete-jogos-seguidos-sem-vencer-na-temporada-e-iguala-serie-negativa-de-2024]]>",
       "time": "26/03 · 15:41",
       "pubDate": "Thu, 26 Mar 2026 12:41:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gilmar Dal Pozzo cobra agilidade na Chapecoense após conversar com Pedro Raul, do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gilmar-dal-pozzo-cobra-agilidade-na-chapecoense-apos-conversar-com-pedro-raul-do-corinthians]]>",
-      "time": "26/03 · 14:56",
-      "pubDate": "Thu, 26 Mar 2026 11:56:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians quer passar por cima do Vitória e avançar na contratação do atacante Renê, da Portuguesa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-passar-por-cima-do-vitoria-e-avancar-na-contratacao-do-atacante-rene-da-portuguesa]]>",
-      "time": "26/03 · 13:43",
-      "pubDate": "Thu, 26 Mar 2026 10:43:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians acende alerta com lesões e já atinge quase metade do total de 2025 em três meses",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acende-alerta-com-lesoes-e-ja-atinge-quase-metade-do-total-de-2025-em-tres-meses]]>",
-      "time": "26/03 · 13:15",
-      "pubDate": "Thu, 26 Mar 2026 10:15:45 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Saiba como assistir ao jogo entre Corinthians e Botafogo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529838/saiba-como-assistir-ao-jogo-entre-corinthians-e-botafogo-pelo-brasileirao-feminino",
+      "pubDate": "Fri, 27 Mar 2026 08:31:00 -0300",
+      "date": "27/03 · 11:31"
+    },
+    {
       "title": "Corinthians realiza segundo treino na Data Fifa e conta com retorno de goleiro",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529833/corinthians-realiza-segundo-treino-na-data-fifa-e-conta-com-retorno-de-goleiro",
       "pubDate": "Thu, 26 Mar 2026 14:30:00 -0300",
       "date": "26/03 · 17:30"
-    },
-    {
-      "title": "Gabi Zanotti reencontra protagonismo ofensivo e participa de três gols em um jogo após cinco meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529733/gabi-zanotti-reencontra-protagonismo-ofensivo-e-participa-de-tres-gols-em-um-jogo-apos-cinco-meses",
-      "pubDate": "Thu, 26 Mar 2026 13:33:00 -0300",
-      "date": "26/03 · 16:33"
     }
   ]
 };
