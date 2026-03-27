@@ -1,30 +1,94 @@
-// Gerado automaticamente em 27/03/2026, 19:54:15
+// Gerado automaticamente em 27/03/2026, 23:06:16
 const LIVE_DATA = {
-  "updatedAt": "2026-03-27T19:54:15.292Z",
+  "updatedAt": "2026-03-27T23:06:16.394Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival Júnior ganha nova dor de cabeça para montar o ataque do Corinthians após a Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529884/dorival-junior-ganha-nova-dor-de-cabeca-para-montar-o-ataque-do-corinthians-apos-a-data-fifa",
-      "time": "27/03 · 19:32",
-      "pubDate": "Fri, 27 Mar 2026 16:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians ‘corre contra o tempo’ para acertar dívidas de Rodrigo Garro e Maycon após condenação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-acertar-dividas-de-rodrigo-garro-e-maycon-apos-condenacao]]>",
+      "time": "27/03 · 22:47",
+      "pubDate": "Fri, 27 Mar 2026 19:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Breno Bidon valoriza preparação do Corinthians na Data Fifa e projeta evolução do time na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529894/breno-bidon-valoriza-preparacao-do-corinthians-na-data-fifa-e-projeta-evolucao-do-time-na-temporada",
-      "time": "27/03 · 19:01",
-      "pubDate": "Fri, 27 Mar 2026 16:01:00 -0300"
+      "title": "Presidente do Conselho do Corinthians protocola pedido de investigação ao MP contra Osmar Stabile",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529914/presidente-do-conselho-do-corinthians-protocola-pedido-de-investigacao-ao-mp-contra-osmar-stabile",
+      "time": "27/03 · 22:40",
+      "pubDate": "Fri, 27 Mar 2026 19:40:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians defende retrospecto perfeito contra o Botafogo nesta sexta-feira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529811/corinthians-defende-retrospecto-perfeito-contra-o-botafogo-nesta-sexta-feira",
-      "time": "27/03 · 18:29",
-      "pubDate": "Fri, 27 Mar 2026 15:29:00 -0300"
+      "title": "Guia do Meu Timão: saiba tudo sobre a disputa do Corinthians na Liga Nacional de Futsal de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529874/guia-do-meu-timao-saiba-tudo-sobre-a-disputa-do-corinthians-na-liga-nacional-de-futsal-de-2026",
+      "time": "27/03 · 22:32",
+      "pubDate": "Fri, 27 Mar 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MP marca depoimentos de ex-presidentes e dirigentes do Corinthians em investigação de dinheiro vivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529913/mp-marca-depoimentos-de-ex-presidentes-e-dirigentes-do-corinthians-em-investigacao-de-dinheiro-vivo",
+      "time": "27/03 · 22:15",
+      "pubDate": "Fri, 27 Mar 2026 19:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Artilheiro do Sub-20 treina com elenco e pode reforçar o Corinthians no retorno do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529912/artilheiro-do-sub-20-treina-com-elenco-e-pode-reforcar-o-corinthians-no-retorno-do-brasileirao",
+      "time": "27/03 · 21:58",
+      "pubDate": "Fri, 27 Mar 2026 18:58:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Paulinho explica drama vivido por Tite em negociação com o Corinthians: “Tem que tomar cuidado”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/paulinho-explica-drama-de-tite-em-negociacao-com-o-corinthians]]>",
+      "time": "27/03 · 21:38",
+      "pubDate": "Fri, 27 Mar 2026 18:38:10 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Levantamento mostra semelhanças no desempenho do Corinthians com Dorival e Vítor Pereira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529783/levantamento-mostra-semelhancas-no-desempenho-do-corinthians-com-dorival-e-vitor-pereira",
+      "time": "27/03 · 21:31",
+      "pubDate": "Fri, 27 Mar 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians marca presença em amistoso da Holanda durante recuperação de lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529907/atacante-do-corinthians-marca-presenca-em-amistoso-da-holanda-durante-recuperacao-de-lesao",
+      "time": "27/03 · 21:18",
+      "pubDate": "Fri, 27 Mar 2026 18:18:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ganha mais dois desfalques para partida contra o Botafogo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529906/corinthians-ganha-mais-dois-desfalques-para-partida-contra-o-botafogo-pelo-brasileirao-feminino",
+      "time": "27/03 · 21:17",
+      "pubDate": "Fri, 27 Mar 2026 18:17:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado para enfrentar o Botafogo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529873/corinthians-esta-escalado-para-enfrentar-o-botafogo-pelo-brasileirao-feminino",
+      "time": "27/03 · 21:06",
+      "pubDate": "Fri, 27 Mar 2026 18:06:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida do Corinthians critica ausência de Murillo na convocação da Seleção Brasileira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-critica-ausencia-de-murillo-na-convocacao-da-selecao-brasileira]]>",
+      "time": "27/03 · 20:39",
+      "pubDate": "Fri, 27 Mar 2026 17:39:43 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,28 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 27 Mar 2026 14:47:52 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz terceiro treino na Data Fifa com foco na criação ofensiva",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529892/corinthians-faz-terceiro-treino-na-data-fifa-com-foco-na-criacao-ofensiva",
-      "time": "27/03 · 17:46",
-      "pubDate": "Fri, 27 Mar 2026 14:46:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians decide não contratar nenhum centroavante após cancelar negociações por Arthur Cabral e Renê",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-nao-contratar-nenhum-centroavante-apos-cancelar-negociacoes-por-arthur-cabral-e-rene]]>",
       "time": "27/03 · 17:41",
       "pubDate": "Fri, 27 Mar 2026 14:41:02 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém Pedro Raul no elenco após procura de clubes da Série A",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529890/corinthians-mantem-pedro-raul-no-elenco-apos-procura-de-clubes-da-serie-a",
-      "time": "27/03 · 17:18",
-      "pubDate": "Fri, 27 Mar 2026 14:18:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -75,60 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 27 Mar 2026 14:15:49 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recua após proposta e desiste da contratação de artilheiro da Portuguesa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529887/corinthians-recua-apos-proposta-e-desiste-da-contratacao-de-artilheiro-da-portuguesa",
-      "time": "27/03 · 17:04",
-      "pubDate": "Fri, 27 Mar 2026 14:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Tribunal condena Corinthians por dívida junto ao Shakhtar Donetsk em empréstimo de Maycon",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529888/tribunal-condena-corinthians-por-divida-junto-ao-shakhtar-donetsk-em-emprestimo-de-maycon",
-      "time": "27/03 · 17:03",
-      "pubDate": "Fri, 27 Mar 2026 14:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "WSL presenteia jogadores do Corinthians com lycras personalizadas após visita a clube de surfe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529879/wsl-presenteia-jogadores-do-corinthians-com-lycras-personalizadas-apos-visita-a-clube-de-surfe",
-      "time": "27/03 · 17:01",
-      "pubDate": "Fri, 27 Mar 2026 14:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians avança para quitar dívida milionária com Talleres e surpreende com acordo após pressão da FIFA",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-para-quitar-divida-milionaria-com-talleres-e-surpreende-com-acordo-apos-pressao-da-fifa]]>",
       "time": "27/03 · 16:10",
       "pubDate": "Fri, 27 Mar 2026 13:10:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Bidu, do Corinthians, lidera ranking entre laterais no Brasileirão com números impressionantes",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-do-corinthians-lidera-ranking-entre-laterais-no-brasileirao-com-numeros-impressionantes]]>",
-      "time": "27/03 · 15:09",
-      "pubDate": "Fri, 27 Mar 2026 12:09:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians perde força em casa e vê rendimento despencar como mandante em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-perde-forca-em-casa-e-ve-rendimento-despencar-como-mandante-em-2026]]>",
-      "time": "27/03 · 12:58",
-      "pubDate": "Fri, 27 Mar 2026 09:58:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard tem nome publicado no BID, pode estrear pelo Corinthians e Fiel Torcida critica demora: “Sempre essa…”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-tem-nome-publicado-no-bid-pode-estrear-pelo-corinthians-e-fiel-torcida-critica-demora-sempre-essa]]>",
-      "time": "27/03 · 12:14",
-      "pubDate": "Fri, 27 Mar 2026 09:14:16 -0300"
     },
     {
       "source": "Gazeta Esportiva",
