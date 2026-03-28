@@ -1,7 +1,55 @@
-// Gerado automaticamente em 27/03/2026, 23:06:16
+// Gerado automaticamente em 28/03/2026, 09:54:51
 const LIVE_DATA = {
-  "updatedAt": "2026-03-27T23:06:16.394Z",
+  "updatedAt": "2026-03-28T09:54:51.999Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Breno Bidon sonha com título da Libertadores pelo Corinthians: “Expectativa é muito boa”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-sonha-com-titulo-da-libertadores-pelo-corinthians]]>",
+      "time": "28/03 · 01:37",
+      "pubDate": "Fri, 27 Mar 2026 22:37:54 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ocupa metade de baixo da tabela de desempenho entre clubes da Série A; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529796/corinthians-ocupa-metade-de-baixo-da-tabela-de-desempenho-entre-clubes-da-serie-a-veja-o-ranking",
+      "time": "28/03 · 01:30",
+      "pubDate": "Fri, 27 Mar 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Rodrigo Garro lidera número de passes decisivos na temporada do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529845/rodrigo-garro-lidera-numero-de-passes-decisivos-na-temporada-do-corinthians",
+      "time": "28/03 · 00:34",
+      "pubDate": "Fri, 27 Mar 2026 21:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti se iguala à lenda como jogadora com mais jogos pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529901/gabi-zanotti-se-iguala-a-lenda-como-jogadora-com-mais-jogos-pelo-corinthians",
+      "time": "28/03 · 00:09",
+      "pubDate": "Fri, 27 Mar 2026 21:09:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians domina o Botafogo e chega ao quarto lugar do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529904/corinthians-domina-o-botafogo-e-chega-ao-quarto-lugar-do-brasileirao-feminino",
+      "time": "28/03 · 00:00",
+      "pubDate": "Fri, 27 Mar 2026 21:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti celebra avanço das obras na Fazendinha e projeta retorno do Corinthians ao local",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529707/gabi-zanotti-celebra-avanco-das-obras-na-fazendinha-e-projeta-retorno-do-corinthians-ao-local",
+      "time": "27/03 · 23:31",
+      "pubDate": "Fri, 27 Mar 2026 20:31:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -35,52 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 27 Mar 2026 19:15:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilheiro do Sub-20 treina com elenco e pode reforçar o Corinthians no retorno do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529912/artilheiro-do-sub-20-treina-com-elenco-e-pode-reforcar-o-corinthians-no-retorno-do-brasileirao",
-      "time": "27/03 · 21:58",
-      "pubDate": "Fri, 27 Mar 2026 18:58:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Paulinho explica drama vivido por Tite em negociação com o Corinthians: “Tem que tomar cuidado”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/paulinho-explica-drama-de-tite-em-negociacao-com-o-corinthians]]>",
       "time": "27/03 · 21:38",
       "pubDate": "Fri, 27 Mar 2026 18:38:10 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Levantamento mostra semelhanças no desempenho do Corinthians com Dorival e Vítor Pereira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529783/levantamento-mostra-semelhancas-no-desempenho-do-corinthians-com-dorival-e-vitor-pereira",
-      "time": "27/03 · 21:31",
-      "pubDate": "Fri, 27 Mar 2026 18:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians marca presença em amistoso da Holanda durante recuperação de lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529907/atacante-do-corinthians-marca-presenca-em-amistoso-da-holanda-durante-recuperacao-de-lesao",
-      "time": "27/03 · 21:18",
-      "pubDate": "Fri, 27 Mar 2026 18:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians ganha mais dois desfalques para partida contra o Botafogo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529906/corinthians-ganha-mais-dois-desfalques-para-partida-contra-o-botafogo-pelo-brasileirao-feminino",
-      "time": "27/03 · 21:17",
-      "pubDate": "Fri, 27 Mar 2026 18:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Botafogo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529873/corinthians-esta-escalado-para-enfrentar-o-botafogo-pelo-brasileirao-feminino",
-      "time": "27/03 · 21:06",
-      "pubDate": "Fri, 27 Mar 2026 18:06:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-nao-contratar-nenhum-centroavante-apos-cancelar-negociacoes-por-arthur-cabral-e-rene]]>",
       "time": "27/03 · 17:41",
       "pubDate": "Fri, 27 Mar 2026 14:41:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians faz oferta por Renê, mas Portuguesa recusa empréstimo e pede venda pelo atacante",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-emprestimo-rene-portuguesa-venda]]>",
-      "time": "27/03 · 17:15",
-      "pubDate": "Fri, 27 Mar 2026 14:15:49 -0300"
     },
     {
       "source": "Bolavip",
