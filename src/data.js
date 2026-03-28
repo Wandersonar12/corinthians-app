@@ -1,7 +1,55 @@
-// Gerado automaticamente em 28/03/2026, 09:54:51
+// Gerado automaticamente em 28/03/2026, 14:03:35
 const LIVE_DATA = {
-  "updatedAt": "2026-03-28T09:54:51.999Z",
+  "updatedAt": "2026-03-28T14:03:35.400Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Tuma denuncia Stabile e diretor do Corinthians no MP por falso testemunho e coação de associado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529934/tuma-denuncia-stabile-e-diretor-do-corinthians-no-mp-por-falso-testemunho-e-coacao-de-associado",
+      "time": "28/03 · 13:31",
+      "pubDate": "Sat, 28 Mar 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Custo-benefício e saídas em peso: Marcelo Paz faz balanço da janela de transferências do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529927/custo-beneficio-e-saidas-em-peso-marcelo-paz-faz-balanco-da-janela-de-transferencias-do-corinthians",
+      "time": "28/03 · 12:30",
+      "pubDate": "Sat, 28 Mar 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard fica à disposição do Corinthians e Dorival Júnior toma decisão sobre onde escalar o inglês",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-fica-a-disposicao-do-corinthians-e-dorival-junior-toma-decisao-sobre-onde-escalar-o-ingles]]>",
+      "time": "28/03 · 12:23",
+      "pubDate": "Sat, 28 Mar 2026 09:23:38 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Carrillo entra em campo pelo Peru contra Senegal na estreia de ex-Corinthians; saiba onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529899/carrillo-entra-em-campo-pelo-peru-contra-senegal-na-estreia-de-ex-corinthians-saiba-onde-assistir",
+      "time": "28/03 · 12:00",
+      "pubDate": "Sat, 28 Mar 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians estreia na LNF diante do Joinville neste sábado; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529898/corinthians-estreia-na-lnf-diante-do-joinville-neste-sabado-saiba-tudo",
+      "time": "28/03 · 11:30",
+      "pubDate": "Sat, 28 Mar 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: atacante lesionado, recuo em negociação e condenação por dívida",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529923/ultimas-do-corinthians-atacante-lesionado-recuo-em-negociacao-e-condenacao-por-divida",
+      "time": "28/03 · 10:30",
+      "pubDate": "Sat, 28 Mar 2026 07:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -35,52 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 27 Mar 2026 21:09:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians domina o Botafogo e chega ao quarto lugar do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529904/corinthians-domina-o-botafogo-e-chega-ao-quarto-lugar-do-brasileirao-feminino",
-      "time": "28/03 · 00:00",
-      "pubDate": "Fri, 27 Mar 2026 21:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti celebra avanço das obras na Fazendinha e projeta retorno do Corinthians ao local",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529707/gabi-zanotti-celebra-avanco-das-obras-na-fazendinha-e-projeta-retorno-do-corinthians-ao-local",
-      "time": "27/03 · 23:31",
-      "pubDate": "Fri, 27 Mar 2026 20:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians ‘corre contra o tempo’ para acertar dívidas de Rodrigo Garro e Maycon após condenação",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-acertar-dividas-de-rodrigo-garro-e-maycon-apos-condenacao]]>",
       "time": "27/03 · 22:47",
       "pubDate": "Fri, 27 Mar 2026 19:47:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Conselho do Corinthians protocola pedido de investigação ao MP contra Osmar Stabile",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529914/presidente-do-conselho-do-corinthians-protocola-pedido-de-investigacao-ao-mp-contra-osmar-stabile",
-      "time": "27/03 · 22:40",
-      "pubDate": "Fri, 27 Mar 2026 19:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: saiba tudo sobre a disputa do Corinthians na Liga Nacional de Futsal de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529874/guia-do-meu-timao-saiba-tudo-sobre-a-disputa-do-corinthians-na-liga-nacional-de-futsal-de-2026",
-      "time": "27/03 · 22:32",
-      "pubDate": "Fri, 27 Mar 2026 19:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "MP marca depoimentos de ex-presidentes e dirigentes do Corinthians em investigação de dinheiro vivo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529913/mp-marca-depoimentos-de-ex-presidentes-e-dirigentes-do-corinthians-em-investigacao-de-dinheiro-vivo",
-      "time": "27/03 · 22:15",
-      "pubDate": "Fri, 27 Mar 2026 19:15:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-nao-contratar-nenhum-centroavante-apos-cancelar-negociacoes-por-arthur-cabral-e-rene]]>",
       "time": "27/03 · 17:41",
       "pubDate": "Fri, 27 Mar 2026 14:41:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança para quitar dívida milionária com Talleres e surpreende com acordo após pressão da FIFA",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-para-quitar-divida-milionaria-com-talleres-e-surpreende-com-acordo-apos-pressao-da-fifa]]>",
-      "time": "27/03 · 16:10",
-      "pubDate": "Fri, 27 Mar 2026 13:10:14 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,10 +200,10 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Saiba como assistir ao jogo entre Corinthians e Botafogo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529838/saiba-como-assistir-ao-jogo-entre-corinthians-e-botafogo-pelo-brasileirao-feminino",
-      "pubDate": "Fri, 27 Mar 2026 08:31:00 -0300",
-      "date": "27/03 · 11:31"
+      "title": "Carrillo entra em campo pelo Peru contra Senegal na estreia de ex-Corinthians; saiba onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529899/carrillo-entra-em-campo-pelo-peru-contra-senegal-na-estreia-de-ex-corinthians-saiba-onde-assistir",
+      "pubDate": "Sat, 28 Mar 2026 09:00:00 -0300",
+      "date": "28/03 · 12:00"
     }
   ]
 };
