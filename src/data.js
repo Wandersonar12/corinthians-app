@@ -1,7 +1,63 @@
-// Gerado automaticamente em 28/03/2026, 14:03:35
+// Gerado automaticamente em 28/03/2026, 19:27:32
 const LIVE_DATA = {
-  "updatedAt": "2026-03-28T14:03:35.400Z",
+  "updatedAt": "2026-03-28T19:27:32.723Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca repetir feito que não acontece há três anos na LNF; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529903/corinthians-busca-repetir-feito-que-nao-acontece-ha-tres-anos-na-lnf-saiba-qual",
+      "time": "28/03 · 19:25",
+      "pubDate": "Sat, 28 Mar 2026 16:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante campeão pelo Corinthians oficializa aposentadoria aos 41 anos neste sábado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529942/atacante-campeao-pelo-corinthians-oficializa-aposentadoria-aos-41-anos-neste-sabado",
+      "time": "28/03 · 18:19",
+      "pubDate": "Sat, 28 Mar 2026 15:19:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians participa de derrota do Peru para Senegal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529941/meio-campista-do-corinthians-participa-de-derrota-do-peru-para-senegal",
+      "time": "28/03 · 17:54",
+      "pubDate": "Sat, 28 Mar 2026 14:54:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-auxiliar do Corinthians relembra conquista do Paulistão e reforça desejo de voltar ao clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529870/ex-auxiliar-do-corinthians-relembra-conquista-do-paulistao-e-reforca-desejo-de-voltar-ao-clube",
+      "time": "28/03 · 17:32",
+      "pubDate": "Sat, 28 Mar 2026 14:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians se destaca na artilharia da temporada; camisa 10 segue na liderança",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529919/trio-do-corinthians-se-destaca-na-artilharia-da-temporada-camisa-10-segue-na-lideranca",
+      "time": "28/03 · 16:31",
+      "pubDate": "Sat, 28 Mar 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians projeta prazo para quitar dívida junto ao Shakhtar por Maycon",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529938/corinthians-projeta-prazo-para-quitar-divida-junto-ao-shakhtar-por-maycon",
+      "time": "28/03 · 15:28",
+      "pubDate": "Sat, 28 Mar 2026 12:28:27 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta encerrar tabu de quase quatro anos contra o Joinville na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529812/corinthians-tenta-encerrar-tabu-de-quase-quatro-anos-contra-o-joinville-na-lnf",
+      "time": "28/03 · 14:30",
+      "pubDate": "Sat, 28 Mar 2026 11:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,14 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529934/tuma-denuncia-stabile-e-diretor-do-corinthians-no-mp-por-falso-testemunho-e-coacao-de-associado",
       "time": "28/03 · 13:31",
       "pubDate": "Sat, 28 Mar 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Custo-benefício e saídas em peso: Marcelo Paz faz balanço da janela de transferências do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529927/custo-beneficio-e-saidas-em-peso-marcelo-paz-faz-balanco-da-janela-de-transferencias-do-corinthians",
-      "time": "28/03 · 12:30",
-      "pubDate": "Sat, 28 Mar 2026 09:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -27,60 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 28 Mar 2026 09:23:38 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Carrillo entra em campo pelo Peru contra Senegal na estreia de ex-Corinthians; saiba onde assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529899/carrillo-entra-em-campo-pelo-peru-contra-senegal-na-estreia-de-ex-corinthians-saiba-onde-assistir",
-      "time": "28/03 · 12:00",
-      "pubDate": "Sat, 28 Mar 2026 09:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians estreia na LNF diante do Joinville neste sábado; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529898/corinthians-estreia-na-lnf-diante-do-joinville-neste-sabado-saiba-tudo",
-      "time": "28/03 · 11:30",
-      "pubDate": "Sat, 28 Mar 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: atacante lesionado, recuo em negociação e condenação por dívida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529923/ultimas-do-corinthians-atacante-lesionado-recuo-em-negociacao-e-condenacao-por-divida",
-      "time": "28/03 · 10:30",
-      "pubDate": "Sat, 28 Mar 2026 07:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Breno Bidon sonha com título da Libertadores pelo Corinthians: “Expectativa é muito boa”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-sonha-com-titulo-da-libertadores-pelo-corinthians]]>",
       "time": "28/03 · 01:37",
       "pubDate": "Fri, 27 Mar 2026 22:37:54 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians ocupa metade de baixo da tabela de desempenho entre clubes da Série A; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529796/corinthians-ocupa-metade-de-baixo-da-tabela-de-desempenho-entre-clubes-da-serie-a-veja-o-ranking",
-      "time": "28/03 · 01:30",
-      "pubDate": "Fri, 27 Mar 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Rodrigo Garro lidera número de passes decisivos na temporada do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529845/rodrigo-garro-lidera-numero-de-passes-decisivos-na-temporada-do-corinthians",
-      "time": "28/03 · 00:34",
-      "pubDate": "Fri, 27 Mar 2026 21:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti se iguala à lenda como jogadora com mais jogos pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529901/gabi-zanotti-se-iguala-a-lenda-como-jogadora-com-mais-jogos-pelo-corinthians",
-      "time": "28/03 · 00:09",
-      "pubDate": "Fri, 27 Mar 2026 21:09:00 -0300"
     },
     {
       "source": "Bolavip",
