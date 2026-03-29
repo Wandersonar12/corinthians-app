@@ -1,7 +1,55 @@
-// Gerado automaticamente em 29/03/2026, 09:56:24
+// Gerado automaticamente em 29/03/2026, 14:03:59
 const LIVE_DATA = {
-  "updatedAt": "2026-03-29T09:56:24.751Z",
+  "updatedAt": "2026-03-29T14:03:59.771Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Cantor exibe peça inédita do Corinthians em parceria com Sabotage em festival na Arena; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529961/cantor-exibe-peca-inedita-do-corinthians-em-parceria-com-sabotage-em-festival-na-arena-confira",
+      "time": "29/03 · 13:30",
+      "pubDate": "Sun, 29 Mar 2026 10:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard evolui no Corinthians, empolga nos bastidores e ganha força por vaga no time",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-evolui-no-corinthians-empolga-nos-bastidores-e-ganha-forca-por-vaga-no-time]]>",
+      "time": "29/03 · 13:08",
+      "pubDate": "Sun, 29 Mar 2026 10:08:19 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Andressa Alves se isola entre principais assistentes do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529928/andressa-alves-se-isola-entre-principais-assistentes-do-corinthians-em-2026",
+      "time": "29/03 · 12:30",
+      "pubDate": "Sun, 29 Mar 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior se irrita com falta de atacantes no elenco do Corinthians após declaração de Marcelo Paz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-se-irrita-com-falta-de-atacantes-no-elenco-do-corinthians-apos-declaracao-de-marcelo-paz]]>",
+      "time": "29/03 · 11:51",
+      "pubDate": "Sun, 29 Mar 2026 08:51:04 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians repete 2025 e se prepara para maior 'maratona' de jogos em abril no século",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529935/corinthians-repete-2025-e-se-prepara-para-maior-maratona-de-jogos-em-abril-no-seculo",
+      "time": "29/03 · 11:30",
+      "pubDate": "Sun, 29 Mar 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: janela 'excelente', aposentadoria do Love e acerto de contas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529952/ultimas-do-corinthians-janela-excelente-aposentadoria-do-love-e-acerto-de-contas",
+      "time": "29/03 · 10:30",
+      "pubDate": "Sun, 29 Mar 2026 07:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -51,36 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 28 Mar 2026 20:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é dominado pelo Joinville e perde na estreia da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529944/corinthians-e-dominado-pelo-joinville-e-perde-na-estreia-da-lnf",
-      "time": "28/03 · 23:17",
-      "pubDate": "Sat, 28 Mar 2026 20:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zanotti comenta sobre feito histórico com a camisa do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529932/zanotti-comenta-sobre-feito-historico-com-a-camisa-do-corinthians",
-      "time": "28/03 · 22:35",
-      "pubDate": "Sat, 28 Mar 2026 19:35:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians e Grêmio entram na disputa por Helitão e zagueiro vira alvo no mercado europeu",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-gremio-entram-na-disputa-por-helitao-e-zagueiro-vira-alvo-no-mercado-europeu]]>",
       "time": "28/03 · 21:50",
       "pubDate": "Sat, 28 Mar 2026 18:50:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-líbero do Corinthians relembra quando tentou se autossabotar em peneira em clube rival",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529868/ex-libero-do-corinthians-relembra-quando-tentou-se-autossabotar-em-peneira-em-clube-rival",
-      "time": "28/03 · 21:29",
-      "pubDate": "Sat, 28 Mar 2026 18:29:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -99,36 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 28 Mar 2026 18:11:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians supera a marca de 1300 gols marcados; veja histórico completo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529924/corinthians-supera-a-marca-de-1300-gols-marcados-veja-historico-completo",
-      "time": "28/03 · 20:31",
-      "pubDate": "Sat, 28 Mar 2026 17:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Lingard fica à disposição do Corinthians e Dorival Júnior toma decisão sobre onde escalar o inglês",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-fica-a-disposicao-do-corinthians-e-dorival-junior-toma-decisao-sobre-onde-escalar-o-ingles]]>",
       "time": "28/03 · 12:23",
       "pubDate": "Sat, 28 Mar 2026 09:23:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Breno Bidon sonha com título da Libertadores pelo Corinthians: “Expectativa é muito boa”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-sonha-com-titulo-da-libertadores-pelo-corinthians]]>",
-      "time": "28/03 · 01:37",
-      "pubDate": "Fri, 27 Mar 2026 22:37:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians ‘corre contra o tempo’ para acertar dívidas de Rodrigo Garro e Maycon após condenação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-acertar-dividas-de-rodrigo-garro-e-maycon-apos-condenacao]]>",
-      "time": "27/03 · 22:47",
-      "pubDate": "Fri, 27 Mar 2026 19:47:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
