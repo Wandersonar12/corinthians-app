@@ -1,7 +1,87 @@
-// Gerado automaticamente em 29/03/2026, 14:03:59
+// Gerado automaticamente em 29/03/2026, 19:48:14
 const LIVE_DATA = {
-  "updatedAt": "2026-03-29T14:03:59.771Z",
+  "updatedAt": "2026-03-29T19:48:14.084Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima destaca pontos positivos de vitória e comenta sobre o elenco do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529943/emily-lima-destaca-pontos-positivos-de-vitoria-e-comenta-sobre-o-elenco-do-corinthians",
+      "time": "29/03 · 19:35",
+      "pubDate": "Sun, 29 Mar 2026 16:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece data e horário de dois clássicos e outras cinco rodadas do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529973/corinthians-conhece-data-e-horario-de-dois-classicos-e-outras-cinco-rodadas-do-brasileirao",
+      "time": "29/03 · 18:27",
+      "pubDate": "Sun, 29 Mar 2026 15:27:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians Steamrollers é superado pelo Guarulhos Rhynos e perde a segunda na SPFL",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529971/corinthians-steamrollers-e-superado-pelo-guarulhos-rhynos-e-perde-a-segunda-na-spfl",
+      "time": "29/03 · 17:28",
+      "pubDate": "Sun, 29 Mar 2026 14:28:16 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é destaque em levantamento sobre uso de atletas jovens no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529929/corinthians-e-destaque-em-levantamento-sobre-uso-de-atletas-jovens-no-brasileirao",
+      "time": "29/03 · 16:32",
+      "pubDate": "Sun, 29 Mar 2026 13:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard evolui no Corinthians, empolga nos bastidores e ganha força por vaga no time",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-evolui-no-corinthians-empolga-nos-bastidores-e-ganha-forca-por-vaga-no-time]]>",
+      "time": "29/03 · 16:29",
+      "pubDate": "Sun, 29 Mar 2026 13:29:18 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians retoma os treinamentos em reta final da Data Fifa de olho no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529966/corinthians-retoma-os-treinamentos-em-reta-final-da-data-fifa-de-olho-no-brasileirao",
+      "time": "29/03 · 16:23",
+      "pubDate": "Sun, 29 Mar 2026 13:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Botafogo e sobe uma posição na tabela do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529962/corinthians-vence-o-botafogo-e-sobe-uma-posicao-na-tabela-do-brasileirao-feminino",
+      "time": "29/03 · 16:01",
+      "pubDate": "Sun, 29 Mar 2026 13:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dorival registra pior aproveitamento entre técnicos mais longevos do Corinthians nesta década",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529857/dorival-registra-pior-aproveitamento-entre-tecnicos-mais-longevos-do-corinthians-nesta-decada",
+      "time": "29/03 · 15:30",
+      "pubDate": "Sun, 29 Mar 2026 12:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Flamengo tira Memphis Depay do Corinthians? Verdade vem à tona e esfria torcida flamenguista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/flamengo-tira-memphis-depay-do-corinthians-verdade-vem-a-tona-e-esfria-torcida-flamenguista]]>",
+      "time": "29/03 · 15:24",
+      "pubDate": "Sun, 29 Mar 2026 12:24:04 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem dificuldades no setor ofensivo por problemas físicos e Dorival busca soluções urgentes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-dificuldades-no-setor-ofensivo-por-problemas-fisicos-e-dorival-busca-solucoes-urgentes]]>",
+      "time": "29/03 · 14:27",
+      "pubDate": "Sun, 29 Mar 2026 11:27:19 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -13,42 +93,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Lingard evolui no Corinthians, empolga nos bastidores e ganha força por vaga no time",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-evolui-no-corinthians-empolga-nos-bastidores-e-ganha-forca-por-vaga-no-time]]>",
-      "time": "29/03 · 13:08",
-      "pubDate": "Sun, 29 Mar 2026 10:08:19 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Andressa Alves se isola entre principais assistentes do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529928/andressa-alves-se-isola-entre-principais-assistentes-do-corinthians-em-2026",
-      "time": "29/03 · 12:30",
-      "pubDate": "Sun, 29 Mar 2026 09:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Dorival Júnior se irrita com falta de atacantes no elenco do Corinthians após declaração de Marcelo Paz",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-se-irrita-com-falta-de-atacantes-no-elenco-do-corinthians-apos-declaracao-de-marcelo-paz]]>",
       "time": "29/03 · 11:51",
       "pubDate": "Sun, 29 Mar 2026 08:51:04 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians repete 2025 e se prepara para maior 'maratona' de jogos em abril no século",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529935/corinthians-repete-2025-e-se-prepara-para-maior-maratona-de-jogos-em-abril-no-seculo",
-      "time": "29/03 · 11:30",
-      "pubDate": "Sun, 29 Mar 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: janela 'excelente', aposentadoria do Love e acerto de contas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529952/ultimas-do-corinthians-janela-excelente-aposentadoria-do-love-e-acerto-de-contas",
-      "time": "29/03 · 10:30",
-      "pubDate": "Sun, 29 Mar 2026 07:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -59,44 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 29 Mar 2026 00:17:40 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vic Albuquerque se isola no pódio entre jogadoras com mais aparições pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529920/vic-albuquerque-se-isola-no-podio-entre-jogadoras-com-mais-aparicoes-pelo-corinthians",
-      "time": "29/03 · 01:30",
-      "pubDate": "Sat, 28 Mar 2026 22:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay causa incômodo com jogadores do Corinthians ao usar celular durante jogo contra o Flamengo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-causa-incomodo-com-jogadores-do-corinthians-ao-usar-celular-durante-jogo-contra-o-flamengo]]>",
       "time": "29/03 · 01:09",
       "pubDate": "Sat, 28 Mar 2026 22:09:33 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quinteto do Corinthians participa de Jogo das Estrelas da NBB de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529930/quinteto-do-corinthians-participa-de-jogo-das-estrelas-da-nbb-de-2026",
-      "time": "29/03 · 00:50",
-      "pubDate": "Sat, 28 Mar 2026 21:50:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém retrospecto perfeito contra equipe carioca no Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529921/corinthians-mantem-retrospecto-perfeito-contra-equipe-carioca-no-brasileirao-feminino",
-      "time": "29/03 · 00:31",
-      "pubDate": "Sat, 28 Mar 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinador da Seleção Brasileira Sub-20 comenta possível oportunidade para joia do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529940/treinador-da-selecao-brasileira-sub-20-comenta-possivel-oportunidade-para-joia-do-corinthians",
-      "time": "28/03 · 23:30",
-      "pubDate": "Sat, 28 Mar 2026 20:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -109,26 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Zakaria Labyad ainda não convence no Corinthians e precisa melhorar aspectos para jogar com Dorival Jr",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-ainda-nao-convence-no-corinthians-e-precisa-melhorar-aspectos-para-jogar-com-dorival-jr]]>",
-      "time": "28/03 · 21:14",
-      "pubDate": "Sat, 28 Mar 2026 18:14:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Campeão brasileiro pelo Corinthians, Vagner Love anuncia aposentadoria do futebol aos 41 anos",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/campeao-brasileiro-pelo-corinthians-vagner-love-anuncia-aposentadoria]]>",
       "time": "28/03 · 21:11",
       "pubDate": "Sat, 28 Mar 2026 18:11:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard fica à disposição do Corinthians e Dorival Júnior toma decisão sobre onde escalar o inglês",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-fica-a-disposicao-do-corinthians-e-dorival-junior-toma-decisao-sobre-onde-escalar-o-ingles]]>",
-      "time": "28/03 · 12:23",
-      "pubDate": "Sat, 28 Mar 2026 09:23:38 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529924/corinthians-supera-a-marca-de-1300-gols-marcados-veja-historico-completo",
       "pubDate": "Sat, 28 Mar 2026 17:31:00 -0300",
       "date": "28/03 · 20:31"
-    },
-    {
-      "title": "Carrillo entra em campo pelo Peru contra Senegal na estreia de ex-Corinthians; saiba onde assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529899/carrillo-entra-em-campo-pelo-peru-contra-senegal-na-estreia-de-ex-corinthians-saiba-onde-assistir",
-      "pubDate": "Sat, 28 Mar 2026 09:00:00 -0300",
-      "date": "28/03 · 12:00"
     }
   ]
 };
