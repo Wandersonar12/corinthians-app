@@ -1,7 +1,63 @@
-// Gerado automaticamente em 28/03/2026, 23:02:02
+// Gerado automaticamente em 29/03/2026, 09:56:24
 const LIVE_DATA = {
-  "updatedAt": "2026-03-28T23:02:02.144Z",
+  "updatedAt": "2026-03-29T09:56:24.751Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André Carrillo, do Corinthians, é criticado por torcedores peruanos na derrota para Senegal",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-carrillo-do-corinthians-e-criticado-por-torcedores-peruanos-na-derrota-para-senegal]]>",
+      "time": "29/03 · 03:17",
+      "pubDate": "Sun, 29 Mar 2026 00:17:40 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vic Albuquerque se isola no pódio entre jogadoras com mais aparições pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529920/vic-albuquerque-se-isola-no-podio-entre-jogadoras-com-mais-aparicoes-pelo-corinthians",
+      "time": "29/03 · 01:30",
+      "pubDate": "Sat, 28 Mar 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay causa incômodo com jogadores do Corinthians ao usar celular durante jogo contra o Flamengo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-causa-incomodo-com-jogadores-do-corinthians-ao-usar-celular-durante-jogo-contra-o-flamengo]]>",
+      "time": "29/03 · 01:09",
+      "pubDate": "Sat, 28 Mar 2026 22:09:33 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quinteto do Corinthians participa de Jogo das Estrelas da NBB de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529930/quinteto-do-corinthians-participa-de-jogo-das-estrelas-da-nbb-de-2026",
+      "time": "29/03 · 00:50",
+      "pubDate": "Sat, 28 Mar 2026 21:50:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém retrospecto perfeito contra equipe carioca no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529921/corinthians-mantem-retrospecto-perfeito-contra-equipe-carioca-no-brasileirao-feminino",
+      "time": "29/03 · 00:31",
+      "pubDate": "Sat, 28 Mar 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Treinador da Seleção Brasileira Sub-20 comenta possível oportunidade para joia do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529940/treinador-da-selecao-brasileira-sub-20-comenta-possivel-oportunidade-para-joia-do-corinthians",
+      "time": "28/03 · 23:30",
+      "pubDate": "Sat, 28 Mar 2026 20:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é dominado pelo Joinville e perde na estreia da LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529944/corinthians-e-dominado-pelo-joinville-e-perde-na-estreia-da-lnf",
+      "time": "28/03 · 23:17",
+      "pubDate": "Sat, 28 Mar 2026 20:17:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -51,46 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 28 Mar 2026 17:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca repetir feito que não acontece há três anos na LNF; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529903/corinthians-busca-repetir-feito-que-nao-acontece-ha-tres-anos-na-lnf-saiba-qual",
-      "time": "28/03 · 19:25",
-      "pubDate": "Sat, 28 Mar 2026 16:25:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante campeão pelo Corinthians oficializa aposentadoria aos 41 anos neste sábado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529942/atacante-campeao-pelo-corinthians-oficializa-aposentadoria-aos-41-anos-neste-sabado",
-      "time": "28/03 · 18:19",
-      "pubDate": "Sat, 28 Mar 2026 15:19:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians participa de derrota do Peru para Senegal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529941/meio-campista-do-corinthians-participa-de-derrota-do-peru-para-senegal",
-      "time": "28/03 · 17:54",
-      "pubDate": "Sat, 28 Mar 2026 14:54:45 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-auxiliar do Corinthians relembra conquista do Paulistão e reforça desejo de voltar ao clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529870/ex-auxiliar-do-corinthians-relembra-conquista-do-paulistao-e-reforca-desejo-de-voltar-ao-clube",
-      "time": "28/03 · 17:32",
-      "pubDate": "Sat, 28 Mar 2026 14:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Trio do Corinthians se destaca na artilharia da temporada; camisa 10 segue na liderança",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529919/trio-do-corinthians-se-destaca-na-artilharia-da-temporada-camisa-10-segue-na-lideranca",
-      "time": "28/03 · 16:31",
-      "pubDate": "Sat, 28 Mar 2026 13:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Lingard fica à disposição do Corinthians e Dorival Júnior toma decisão sobre onde escalar o inglês",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-acertar-dividas-de-rodrigo-garro-e-maycon-apos-condenacao]]>",
       "time": "27/03 · 22:47",
       "pubDate": "Fri, 27 Mar 2026 19:47:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Paulinho explica drama vivido por Tite em negociação com o Corinthians: “Tem que tomar cuidado”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/paulinho-explica-drama-de-tite-em-negociacao-com-o-corinthians]]>",
-      "time": "27/03 · 21:38",
-      "pubDate": "Fri, 27 Mar 2026 18:38:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Torcida do Corinthians critica ausência de Murillo na convocação da Seleção Brasileira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-critica-ausencia-de-murillo-na-convocacao-da-selecao-brasileira]]>",
-      "time": "27/03 · 20:39",
-      "pubDate": "Fri, 27 Mar 2026 17:39:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
