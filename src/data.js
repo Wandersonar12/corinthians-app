@@ -1,7 +1,55 @@
-// Gerado automaticamente em 29/03/2026, 19:48:14
+// Gerado automaticamente em 29/03/2026, 23:04:23
 const LIVE_DATA = {
-  "updatedAt": "2026-03-29T19:48:14.084Z",
+  "updatedAt": "2026-03-29T23:04:23.154Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians sequencia vitórias pela primeira vez na temporada após vitória sobre o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529918/corinthians-sequencia-vitorias-pela-primeira-vez-na-temporada-apos-vitoria-sobre-o-botafogo",
+      "time": "29/03 · 22:31",
+      "pubDate": "Sun, 29 Mar 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians busca investidores para pagar dívida de Rodrigo Garro junto ao Talleres, da Argentina",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-investidores-para-pagar-divida-de-rodrigo-garro-junto-ao-talleres-da-argentina]]>",
+      "time": "29/03 · 22:29",
+      "pubDate": "Sun, 29 Mar 2026 19:29:32 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Armador do Corinthians celebra prêmio duplo após título no Desafio de Habilidades da NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529972/armador-do-corinthians-celebra-premio-duplo-apos-titulo-no-desafio-de-habilidades-da-nbb",
+      "time": "29/03 · 22:00",
+      "pubDate": "Sun, 29 Mar 2026 19:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Emiliano Díaz revela desejo de voltar ao Corinthians e relembra título do Paulistão diante do Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/emiliano-diaz-revela-o-sonho-de-retornar-ao-corinthians-no-futuro]]>",
+      "time": "29/03 · 21:50",
+      "pubDate": "Sun, 29 Mar 2026 18:50:24 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians não consegue engatar feito registrado pela última vez há três anos na LNF; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529957/corinthians-nao-consegue-engatar-feito-registrado-pela-ultima-vez-ha-tres-anos-na-lnf-saiba-qual",
+      "time": "29/03 · 21:33",
+      "pubDate": "Sun, 29 Mar 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-Corinthians é apontado como um dos três melhores jovens zagueiros brasileiros na Europa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529949/ex-corinthians-e-apontado-como-um-dos-tres-melhores-jovens-zagueiros-brasileiros-na-europa",
+      "time": "29/03 · 20:31",
+      "pubDate": "Sun, 29 Mar 2026 17:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -24,7 +72,7 @@ const LIVE_DATA = {
       "title": "Corinthians Steamrollers é superado pelo Guarulhos Rhynos e perde a segunda na SPFL",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529971/corinthians-steamrollers-e-superado-pelo-guarulhos-rhynos-e-perde-a-segunda-na-spfl",
       "time": "29/03 · 17:28",
-      "pubDate": "Sun, 29 Mar 2026 14:28:16 -0300"
+      "pubDate": "Sun, 29 Mar 2026 14:28:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,30 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 29 Mar 2026 13:29:18 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians retoma os treinamentos em reta final da Data Fifa de olho no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529966/corinthians-retoma-os-treinamentos-em-reta-final-da-data-fifa-de-olho-no-brasileirao",
-      "time": "29/03 · 16:23",
-      "pubDate": "Sun, 29 Mar 2026 13:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o Botafogo e sobe uma posição na tabela do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529962/corinthians-vence-o-botafogo-e-sobe-uma-posicao-na-tabela-do-brasileirao-feminino",
-      "time": "29/03 · 16:01",
-      "pubDate": "Sun, 29 Mar 2026 13:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival registra pior aproveitamento entre técnicos mais longevos do Corinthians nesta década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529857/dorival-registra-pior-aproveitamento-entre-tecnicos-mais-longevos-do-corinthians-nesta-decada",
-      "time": "29/03 · 15:30",
-      "pubDate": "Sun, 29 Mar 2026 12:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Flamengo tira Memphis Depay do Corinthians? Verdade vem à tona e esfria torcida flamenguista",
@@ -81,14 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-dificuldades-no-setor-ofensivo-por-problemas-fisicos-e-dorival-busca-solucoes-urgentes]]>",
       "time": "29/03 · 14:27",
       "pubDate": "Sun, 29 Mar 2026 11:27:19 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Cantor exibe peça inédita do Corinthians em parceria com Sabotage em festival na Arena; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529961/cantor-exibe-peca-inedita-do-corinthians-em-parceria-com-sabotage-em-festival-na-arena-confira",
-      "time": "29/03 · 13:30",
-      "pubDate": "Sun, 29 Mar 2026 10:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-causa-incomodo-com-jogadores-do-corinthians-ao-usar-celular-durante-jogo-contra-o-flamengo]]>",
       "time": "29/03 · 01:09",
       "pubDate": "Sat, 28 Mar 2026 22:09:33 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians e Grêmio entram na disputa por Helitão e zagueiro vira alvo no mercado europeu",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-gremio-entram-na-disputa-por-helitao-e-zagueiro-vira-alvo-no-mercado-europeu]]>",
-      "time": "28/03 · 21:50",
-      "pubDate": "Sat, 28 Mar 2026 18:50:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Campeão brasileiro pelo Corinthians, Vagner Love anuncia aposentadoria do futebol aos 41 anos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/campeao-brasileiro-pelo-corinthians-vagner-love-anuncia-aposentadoria]]>",
-      "time": "28/03 · 21:11",
-      "pubDate": "Sat, 28 Mar 2026 18:11:20 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Ex-Corinthians é apontado como um dos três melhores jovens zagueiros brasileiros na Europa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529949/ex-corinthians-e-apontado-como-um-dos-tres-melhores-jovens-zagueiros-brasileiros-na-europa",
+      "pubDate": "Sun, 29 Mar 2026 17:31:00 -0300",
+      "date": "29/03 · 20:31"
+    },
     {
       "title": "Corinthians supera a marca de 1300 gols marcados; veja histórico completo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529924/corinthians-supera-a-marca-de-1300-gols-marcados-veja-historico-completo",
