@@ -1,7 +1,55 @@
-// Gerado automaticamente em 30/03/2026, 15:56:57
+// Gerado automaticamente em 30/03/2026, 20:05:28
 const LIVE_DATA = {
-  "updatedAt": "2026-03-30T15:56:57.439Z",
+  "updatedAt": "2026-03-30T20:05:28.566Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior tem pior aproveitamento do Corinthians na década entre técnicos com mais de 60 jogos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-tem-pior-aproveitamento-no-corinthians-na-decada-com-60-jogos]]>",
+      "time": "30/03 · 19:07",
+      "pubDate": "Mon, 30 Mar 2026 16:07:25 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Estádio do Corinthians avança em obras e prevê data para inauguração de estátua de São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529996/estadio-do-corinthians-avanca-em-obras-e-preve-data-para-inauguracao-de-estatua-de-sao-jorge",
+      "time": "30/03 · 19:00",
+      "pubDate": "Mon, 30 Mar 2026 16:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga informações de ingressos para duelo contra o Fluminense no Maracanã",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529994/corinthians-divulga-informacoes-de-ingressos-para-duelo-contra-o-fluminense-no-maracana",
+      "time": "30/03 · 18:01",
+      "pubDate": "Mon, 30 Mar 2026 15:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz ajustes táticos e encerra penúltimo treino antes de enfrentar o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529998/corinthians-faz-ajustes-taticos-e-encerra-penultimo-treino-antes-de-enfrentar-o-fluminense",
+      "time": "30/03 · 17:45",
+      "pubDate": "Mon, 30 Mar 2026 14:45:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay se incomoda com departamento médico do Corinthians e quer tratar lesão na Holanda",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-mira-copa-corinthians-lesao-holanda]]>",
+      "time": "30/03 · 17:10",
+      "pubDate": "Mon, 30 Mar 2026 14:10:54 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro pode voltar a ser utilizado pelo Corinthians após 11 jogos e recuperação de lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529969/goleiro-pode-voltar-a-ser-utilizado-pelo-corinthians-apos-11-jogos-e-recuperacao-de-lesao",
+      "time": "30/03 · 16:30",
+      "pubDate": "Mon, 30 Mar 2026 13:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -75,60 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 30 Mar 2026 08:16:27 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: novas datas do Brasileirão, camisa inédita e preparação para próximo jogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529978/ultimas-do-corinthians-novas-datas-do-brasileirao-camisa-inedita-e-preparacao-para-proximo-jogo",
-      "time": "30/03 · 10:30",
-      "pubDate": "Mon, 30 Mar 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem um dos piores desempenhos em clássicos entre clubes da Série A",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529902/corinthians-tem-um-dos-piores-desempenhos-em-classicos-entre-clubes-da-serie-a",
-      "time": "30/03 · 01:30",
-      "pubDate": "Sun, 29 Mar 2026 22:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Presidente do Peñarol pede para torcedores não virem ao Brasil em duelo contra o Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-penarol-pede-para-torcedores-nao-virem-ao-brasil-em-duelo-contra-o-corinthians]]>",
       "time": "30/03 · 01:17",
       "pubDate": "Sun, 29 Mar 2026 22:17:39 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians volta a vencer duas partidas seguidas depois de mais de um ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529960/tecnica-do-corinthians-volta-a-vencer-duas-partidas-seguidas-depois-de-mais-de-um-ano",
-      "time": "30/03 · 00:36",
-      "pubDate": "Sun, 29 Mar 2026 21:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretor oficializa saída do Corinthians após divergências com presidente",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529977/diretor-oficializa-saida-do-corinthians-apos-divergencias-com-presidente",
-      "time": "30/03 · 00:30",
-      "pubDate": "Sun, 29 Mar 2026 21:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians busca investidores para pagar dívida de Rodrigo Garro junto ao Talleres, da Argentina",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-investidores-para-pagar-divida-de-rodrigo-garro-junto-ao-talleres-da-argentina]]>",
-      "time": "29/03 · 22:29",
-      "pubDate": "Sun, 29 Mar 2026 19:29:32 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Emiliano Díaz revela desejo de voltar ao Corinthians e relembra título do Paulistão diante do Palmeiras",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/emiliano-diaz-revela-o-sonho-de-retornar-ao-corinthians-no-futuro]]>",
-      "time": "29/03 · 21:50",
-      "pubDate": "Sun, 29 Mar 2026 18:50:24 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro pode voltar a ser utilizado pelo Corinthians após 11 jogos e recuperação de lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529969/goleiro-pode-voltar-a-ser-utilizado-pelo-corinthians-apos-11-jogos-e-recuperacao-de-lesao",
+      "pubDate": "Mon, 30 Mar 2026 13:30:00 -0300",
+      "date": "30/03 · 16:30"
+    },
     {
       "title": "Ex-Corinthians é apontado como um dos três melhores jovens zagueiros brasileiros na Europa",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529949/ex-corinthians-e-apontado-como-um-dos-tres-melhores-jovens-zagueiros-brasileiros-na-europa",
