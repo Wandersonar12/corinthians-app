@@ -1,7 +1,71 @@
-// Gerado automaticamente em 29/03/2026, 23:04:23
+// Gerado automaticamente em 30/03/2026, 11:37:50
 const LIVE_DATA = {
-  "updatedAt": "2026-03-29T23:04:23.154Z",
+  "updatedAt": "2026-03-30T11:37:50.340Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile pode disputar reeleição no Corinthians? bastidores fervem e estatuto divide opiniões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-pode-disputar-reeleicao-no-corinthians-bastidores-fervem-e-estatuto-divide-opinioes]]>",
+      "time": "30/03 · 11:16",
+      "pubDate": "Mon, 30 Mar 2026 08:16:27 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians corre contra o tempo para pagar dívida por Maycon ao Shakhtar Donetsk e evitar punição",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-pagar-divida-por-maycon-ao-shakhtar-donetsk-e-evitar-punicao]]>",
+      "time": "30/03 · 11:02",
+      "pubDate": "Mon, 30 Mar 2026 08:02:42 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novas datas do Brasileirão, camisa inédita e preparação para próximo jogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529978/ultimas-do-corinthians-novas-datas-do-brasileirao-camisa-inedita-e-preparacao-para-proximo-jogo",
+      "time": "30/03 · 10:30",
+      "pubDate": "Mon, 30 Mar 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem um dos piores desempenhos em clássicos entre clubes da Série A",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529902/corinthians-tem-um-dos-piores-desempenhos-em-classicos-entre-clubes-da-serie-a",
+      "time": "30/03 · 01:30",
+      "pubDate": "Sun, 29 Mar 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Presidente do Peñarol pede para torcedores não virem ao Brasil em duelo contra o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-penarol-pede-para-torcedores-nao-virem-ao-brasil-em-duelo-contra-o-corinthians]]>",
+      "time": "30/03 · 01:17",
+      "pubDate": "Sun, 29 Mar 2026 22:17:39 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians volta a vencer duas partidas seguidas depois de mais de um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529960/tecnica-do-corinthians-volta-a-vencer-duas-partidas-seguidas-depois-de-mais-de-um-ano",
+      "time": "30/03 · 00:36",
+      "pubDate": "Sun, 29 Mar 2026 21:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diretor oficializa saída do Corinthians após divergências com presidente",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529977/diretor-oficializa-saida-do-corinthians-apos-divergencias-com-presidente",
+      "time": "30/03 · 00:30",
+      "pubDate": "Sun, 29 Mar 2026 21:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala assume liderança na artilharia do time de futsal do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529956/ala-assume-lideranca-na-artilharia-do-time-de-futsal-do-corinthians",
+      "time": "29/03 · 23:33",
+      "pubDate": "Sun, 29 Mar 2026 20:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,46 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 29 Mar 2026 18:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-Corinthians é apontado como um dos três melhores jovens zagueiros brasileiros na Europa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529949/ex-corinthians-e-apontado-como-um-dos-tres-melhores-jovens-zagueiros-brasileiros-na-europa",
-      "time": "29/03 · 20:31",
-      "pubDate": "Sun, 29 Mar 2026 17:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily Lima destaca pontos positivos de vitória e comenta sobre o elenco do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529943/emily-lima-destaca-pontos-positivos-de-vitoria-e-comenta-sobre-o-elenco-do-corinthians",
-      "time": "29/03 · 19:35",
-      "pubDate": "Sun, 29 Mar 2026 16:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece data e horário de dois clássicos e outras cinco rodadas do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529973/corinthians-conhece-data-e-horario-de-dois-classicos-e-outras-cinco-rodadas-do-brasileirao",
-      "time": "29/03 · 18:27",
-      "pubDate": "Sun, 29 Mar 2026 15:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians Steamrollers é superado pelo Guarulhos Rhynos e perde a segunda na SPFL",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529971/corinthians-steamrollers-e-superado-pelo-guarulhos-rhynos-e-perde-a-segunda-na-spfl",
-      "time": "29/03 · 17:28",
-      "pubDate": "Sun, 29 Mar 2026 14:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é destaque em levantamento sobre uso de atletas jovens no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529929/corinthians-e-destaque-em-levantamento-sobre-uso-de-atletas-jovens-no-brasileirao",
-      "time": "29/03 · 16:32",
-      "pubDate": "Sun, 29 Mar 2026 13:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Lingard evolui no Corinthians, empolga nos bastidores e ganha força por vaga no time",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-dificuldades-no-setor-ofensivo-por-problemas-fisicos-e-dorival-busca-solucoes-urgentes]]>",
       "time": "29/03 · 14:27",
       "pubDate": "Sun, 29 Mar 2026 11:27:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior se irrita com falta de atacantes no elenco do Corinthians após declaração de Marcelo Paz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-se-irrita-com-falta-de-atacantes-no-elenco-do-corinthians-apos-declaracao-de-marcelo-paz]]>",
-      "time": "29/03 · 11:51",
-      "pubDate": "Sun, 29 Mar 2026 08:51:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "André Carrillo, do Corinthians, é criticado por torcedores peruanos na derrota para Senegal",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-carrillo-do-corinthians-e-criticado-por-torcedores-peruanos-na-derrota-para-senegal]]>",
-      "time": "29/03 · 03:17",
-      "pubDate": "Sun, 29 Mar 2026 00:17:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay causa incômodo com jogadores do Corinthians ao usar celular durante jogo contra o Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-causa-incomodo-com-jogadores-do-corinthians-ao-usar-celular-durante-jogo-contra-o-flamengo]]>",
-      "time": "29/03 · 01:09",
-      "pubDate": "Sat, 28 Mar 2026 22:09:33 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -206,7 +206,7 @@ const LIVE_DATA = {
       "date": "29/03 · 20:31"
     },
     {
-      "title": "Corinthians supera a marca de 1300 gols marcados; veja histórico completo",
+      "title": "Corinthians supera a marca de 1300 gols marcados no futebol feminino; veja o histórico completo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529924/corinthians-supera-a-marca-de-1300-gols-marcados-veja-historico-completo",
       "pubDate": "Sat, 28 Mar 2026 17:31:00 -0300",
       "date": "28/03 · 20:31"
