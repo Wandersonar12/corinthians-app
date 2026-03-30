@@ -1,7 +1,95 @@
-// Gerado automaticamente em 30/03/2026, 20:05:28
+// Gerado automaticamente em 30/03/2026, 23:53:02
 const LIVE_DATA = {
-  "updatedAt": "2026-03-30T20:05:28.566Z",
+  "updatedAt": "2026-03-30T23:53:02.947Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avalia demissão de Dorival Júnior após sequência instável e diretoria não banca o treinador",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-demissao-de-dorival-junior-apos-sequencia-instavel-e-diretoria-nao-banca-o-treinador]]>",
+      "time": "30/03 · 23:49",
+      "pubDate": "Mon, 30 Mar 2026 20:49:18 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pedro Raul ganha nova chance no Corinthians e tenta encerrar jejum após a Data Fifa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-ganha-nova-chance-no-corinthians-e-tenta-encerrar-jejum-na-estreia-do-brasileirao]]>",
+      "time": "30/03 · 23:47",
+      "pubDate": "Mon, 30 Mar 2026 20:47:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Peñarol recomenda que torcida não viaje para duelo contra o Corinthians em Itaquera",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530010/presidente-do-penarol-recomenda-que-torcida-nao-viaje-para-duelo-contra-o-corinthians-em-itaquera",
+      "time": "30/03 · 23:11",
+      "pubDate": "Mon, 30 Mar 2026 20:11:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians evita pior início no Brasileirão Feminino com vitória sobre o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529959/corinthians-evita-pior-inicio-no-brasileirao-feminino-com-vitoria-sobre-o-botafogo",
+      "time": "30/03 · 23:05",
+      "pubDate": "Mon, 30 Mar 2026 20:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Real Madrid entra na briga por André e Breno Bidon e Corinthians pode receber ofertas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-bidon-corinthians-real-madrid]]>",
+      "time": "30/03 · 22:31",
+      "pubDate": "Mon, 30 Mar 2026 19:31:04 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pedro Raul tenta aproveitar ausências no ataque para desencantar no retorno ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529987/pedro-raul-tenta-aproveitar-ausencias-no-ataque-para-desencantar-no-retorno-ao-corinthians",
+      "time": "30/03 · 22:02",
+      "pubDate": "Mon, 30 Mar 2026 19:02:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marco Polo deixa diretoria do Corinthians após conflito interno e assume cargo na Arena Pacaembu",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marco-polo-deixa-diretoria-do-corinthians-apos-conflito-interno-e-assume-cargo-na-arena-pacaembu]]>",
+      "time": "30/03 · 21:51",
+      "pubDate": "Mon, 30 Mar 2026 18:51:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia inglês é testado como titular e pode ser novidade para o Corinthians contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530008/meia-ingles-e-testado-como-titular-e-pode-ser-novidade-para-o-corinthians-contra-o-fluminense",
+      "time": "30/03 · 21:15",
+      "pubDate": "Mon, 30 Mar 2026 18:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians TV mantém crescimento e atinge 50 milhões de visualizações em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529982/corinthians-tv-mantem-crescimento-e-atinge-50-milhoes-de-visualizacoes-em-2026",
+      "time": "30/03 · 21:03",
+      "pubDate": "Mon, 30 Mar 2026 18:03:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Felipe Longo pode voltar ao gol do Corinthians após período afastado por lesão no cotovelo direito",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/felipe-longo-pode-voltar-ao-gol-do-corinthians-contra-o-fluminense]]>",
+      "time": "30/03 · 20:53",
+      "pubDate": "Mon, 30 Mar 2026 17:53:29 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança na preparação, Dorival ajusta time e projeta confronto decisivo contra o Fluminense",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-na-preparacao-dorival-ajusta-time-e-projeta-confronto-decisivo-contra-o-fluminense]]>",
+      "time": "30/03 · 20:10",
+      "pubDate": "Mon, 30 Mar 2026 17:10:31 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -41,94 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-mira-copa-corinthians-lesao-holanda]]>",
       "time": "30/03 · 17:10",
       "pubDate": "Mon, 30 Mar 2026 14:10:54 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro pode voltar a ser utilizado pelo Corinthians após 11 jogos e recuperação de lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529969/goleiro-pode-voltar-a-ser-utilizado-pelo-corinthians-apos-11-jogos-e-recuperacao-de-lesao",
-      "time": "30/03 · 16:30",
-      "pubDate": "Mon, 30 Mar 2026 13:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lingard deve ser titular do Corinthians contra o Fluminense? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529970/lingard-deve-ser-titular-do-corinthians-contra-o-fluminense-vote-na-enquete-do-meu-timao",
-      "time": "30/03 · 15:31",
-      "pubDate": "Mon, 30 Mar 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gabriel Jesus, ex-Palmeiras, abre o jogo e afirma que nunca jogaria no Corinthians: “Respeito a instituição”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-jesus-ex-palmeiras-abre-o-jogo-e-afirma-que-nunca-jogaria-no-corinthians-respeito-a-instituicao]]>",
-      "time": "30/03 · 14:28",
-      "pubDate": "Mon, 30 Mar 2026 11:28:33 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians retoma calendário após Data Fifa e soma nove compromissos na semana",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529983/corinthians-retoma-calendario-apos-data-fifa-e-soma-nove-compromissos-na-semana",
-      "time": "30/03 · 13:37",
-      "pubDate": "Mon, 30 Mar 2026 10:37:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem a melhor defesa do Brasileirão como visitante, mas ataque preocupa na temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-a-melhor-defesa-do-brasileirao-como-visitante-mas-ataque-preocupa-na-temporada]]>",
-      "time": "30/03 · 13:07",
-      "pubDate": "Mon, 30 Mar 2026 10:07:47 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe nova proposta do Milan por promessa do meio-campo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529988/corinthians-recebe-nova-proposta-do-milan-por-promessa-do-meio-campo",
-      "time": "30/03 · 12:36",
-      "pubDate": "Mon, 30 Mar 2026 09:36:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Milan aumenta proposta, quer pagar R$ 133 milhões por André e Corinthians faz jogo duro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/milan-aumenta-proposta-quer-pagar-r-133-milhoes-por-andre-e-corinthians-faz-jogo-duro]]>",
-      "time": "30/03 · 11:50",
-      "pubDate": "Mon, 30 Mar 2026 08:50:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians corre contra o tempo para pagar dívida por Maycon ao Shakhtar Donetsk e evitar punição",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-pagar-divida-por-maycon-ao-shakhtar-donetsk-e-evitar-punicao]]>",
-      "time": "30/03 · 11:40",
-      "pubDate": "Mon, 30 Mar 2026 08:40:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mira repetir desempenho de 2025 no retorno da primeira Data Fifa do ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529968/corinthians-mira-repetir-desempenho-de-2025-no-retorno-da-primeira-data-fifa-do-ano",
-      "time": "30/03 · 11:30",
-      "pubDate": "Mon, 30 Mar 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile pode disputar reeleição no Corinthians? bastidores fervem e estatuto divide opiniões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-pode-disputar-reeleicao-no-corinthians-bastidores-fervem-e-estatuto-divide-opinioes]]>",
-      "time": "30/03 · 11:16",
-      "pubDate": "Mon, 30 Mar 2026 08:16:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Presidente do Peñarol pede para torcedores não virem ao Brasil em duelo contra o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-penarol-pede-para-torcedores-nao-virem-ao-brasil-em-duelo-contra-o-corinthians]]>",
-      "time": "30/03 · 01:17",
-      "pubDate": "Sun, 29 Mar 2026 22:17:39 -0300"
     },
     {
       "source": "Gazeta Esportiva",
