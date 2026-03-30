@@ -1,7 +1,71 @@
-// Gerado automaticamente em 30/03/2026, 11:37:50
+// Gerado automaticamente em 30/03/2026, 15:56:57
 const LIVE_DATA = {
-  "updatedAt": "2026-03-30T11:37:50.340Z",
+  "updatedAt": "2026-03-30T15:56:57.439Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lingard deve ser titular do Corinthians contra o Fluminense? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529970/lingard-deve-ser-titular-do-corinthians-contra-o-fluminense-vote-na-enquete-do-meu-timao",
+      "time": "30/03 · 15:31",
+      "pubDate": "Mon, 30 Mar 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gabriel Jesus, ex-Palmeiras, abre o jogo e afirma que nunca jogaria no Corinthians: “Respeito a instituição”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-jesus-ex-palmeiras-abre-o-jogo-e-afirma-que-nunca-jogaria-no-corinthians-respeito-a-instituicao]]>",
+      "time": "30/03 · 14:28",
+      "pubDate": "Mon, 30 Mar 2026 11:28:33 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians retoma calendário após Data Fifa e soma nove compromissos na semana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529983/corinthians-retoma-calendario-apos-data-fifa-e-soma-nove-compromissos-na-semana",
+      "time": "30/03 · 13:37",
+      "pubDate": "Mon, 30 Mar 2026 10:37:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem a melhor defesa do Brasileirão como visitante, mas ataque preocupa na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-a-melhor-defesa-do-brasileirao-como-visitante-mas-ataque-preocupa-na-temporada]]>",
+      "time": "30/03 · 13:07",
+      "pubDate": "Mon, 30 Mar 2026 10:07:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe nova proposta do Milan por promessa do meio-campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529988/corinthians-recebe-nova-proposta-do-milan-por-promessa-do-meio-campo",
+      "time": "30/03 · 12:36",
+      "pubDate": "Mon, 30 Mar 2026 09:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Milan aumenta proposta, quer pagar R$ 133 milhões por André e Corinthians faz jogo duro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/milan-aumenta-proposta-quer-pagar-r-133-milhoes-por-andre-e-corinthians-faz-jogo-duro]]>",
+      "time": "30/03 · 11:50",
+      "pubDate": "Mon, 30 Mar 2026 08:50:19 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians corre contra o tempo para pagar dívida por Maycon ao Shakhtar Donetsk e evitar punição",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-pagar-divida-por-maycon-ao-shakhtar-donetsk-e-evitar-punicao]]>",
+      "time": "30/03 · 11:40",
+      "pubDate": "Mon, 30 Mar 2026 08:40:48 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mira repetir desempenho de 2025 no retorno da primeira Data Fifa do ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529968/corinthians-mira-repetir-desempenho-de-2025-no-retorno-da-primeira-data-fifa-do-ano",
+      "time": "30/03 · 11:30",
+      "pubDate": "Mon, 30 Mar 2026 08:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -9,14 +73,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-pode-disputar-reeleicao-no-corinthians-bastidores-fervem-e-estatuto-divide-opinioes]]>",
       "time": "30/03 · 11:16",
       "pubDate": "Mon, 30 Mar 2026 08:16:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians corre contra o tempo para pagar dívida por Maycon ao Shakhtar Donetsk e evitar punição",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-contra-o-tempo-para-pagar-divida-por-maycon-ao-shakhtar-donetsk-e-evitar-punicao]]>",
-      "time": "30/03 · 11:02",
-      "pubDate": "Mon, 30 Mar 2026 08:02:42 -0300"
     },
     {
       "source": "Meu Timao",
@@ -59,22 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 29 Mar 2026 21:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala assume liderança na artilharia do time de futsal do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529956/ala-assume-lideranca-na-artilharia-do-time-de-futsal-do-corinthians",
-      "time": "29/03 · 23:33",
-      "pubDate": "Sun, 29 Mar 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sequencia vitórias pela primeira vez na temporada após vitória sobre o Botafogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529918/corinthians-sequencia-vitorias-pela-primeira-vez-na-temporada-apos-vitoria-sobre-o-botafogo",
-      "time": "29/03 · 22:31",
-      "pubDate": "Sun, 29 Mar 2026 19:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians busca investidores para pagar dívida de Rodrigo Garro junto ao Talleres, da Argentina",
@@ -83,52 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 29 Mar 2026 19:29:32 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Armador do Corinthians celebra prêmio duplo após título no Desafio de Habilidades da NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529972/armador-do-corinthians-celebra-premio-duplo-apos-titulo-no-desafio-de-habilidades-da-nbb",
-      "time": "29/03 · 22:00",
-      "pubDate": "Sun, 29 Mar 2026 19:00:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Emiliano Díaz revela desejo de voltar ao Corinthians e relembra título do Paulistão diante do Palmeiras",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/emiliano-diaz-revela-o-sonho-de-retornar-ao-corinthians-no-futuro]]>",
       "time": "29/03 · 21:50",
       "pubDate": "Sun, 29 Mar 2026 18:50:24 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians não consegue engatar feito registrado pela última vez há três anos na LNF; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529957/corinthians-nao-consegue-engatar-feito-registrado-pela-ultima-vez-ha-tres-anos-na-lnf-saiba-qual",
-      "time": "29/03 · 21:33",
-      "pubDate": "Sun, 29 Mar 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard evolui no Corinthians, empolga nos bastidores e ganha força por vaga no time",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-evolui-no-corinthians-empolga-nos-bastidores-e-ganha-forca-por-vaga-no-time]]>",
-      "time": "29/03 · 16:29",
-      "pubDate": "Sun, 29 Mar 2026 13:29:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Flamengo tira Memphis Depay do Corinthians? Verdade vem à tona e esfria torcida flamenguista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/flamengo-tira-memphis-depay-do-corinthians-verdade-vem-a-tona-e-esfria-torcida-flamenguista]]>",
-      "time": "29/03 · 15:24",
-      "pubDate": "Sun, 29 Mar 2026 12:24:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem dificuldades no setor ofensivo por problemas físicos e Dorival busca soluções urgentes",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-dificuldades-no-setor-ofensivo-por-problemas-fisicos-e-dorival-busca-solucoes-urgentes]]>",
-      "time": "29/03 · 14:27",
-      "pubDate": "Sun, 29 Mar 2026 11:27:19 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529949/ex-corinthians-e-apontado-como-um-dos-tres-melhores-jovens-zagueiros-brasileiros-na-europa",
       "pubDate": "Sun, 29 Mar 2026 17:31:00 -0300",
       "date": "29/03 · 20:31"
-    },
-    {
-      "title": "Corinthians supera a marca de 1300 gols marcados no futebol feminino; veja o histórico completo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529924/corinthians-supera-a-marca-de-1300-gols-marcados-veja-historico-completo",
-      "pubDate": "Sat, 28 Mar 2026 17:31:00 -0300",
-      "date": "28/03 · 20:31"
     }
   ]
 };
