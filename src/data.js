@@ -1,7 +1,71 @@
-// Gerado automaticamente em 31/03/2026, 11:13:11
+// Gerado automaticamente em 31/03/2026, 15:54:13
 const LIVE_DATA = {
-  "updatedAt": "2026-03-31T11:13:11.533Z",
+  "updatedAt": "2026-03-31T15:54:13.389Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians tira cidadania italiana e amplia portas no mercado europeu",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530027/volante-do-corinthians-tira-cidadania-italiana-e-amplia-portas-no-mercado-europeu",
+      "time": "31/03 · 14:36",
+      "pubDate": "Tue, 31 Mar 2026 11:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para duelo contra o líder Pinheiros pelo NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530003/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-lider-pinheiros-pelo-nbb",
+      "time": "31/03 · 14:00",
+      "pubDate": "Tue, 31 Mar 2026 11:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians descarta ter recebido nova proposta oficial do Milan por André, diz Samir Carvalho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-descarta-ter-recebido-nova-proposta-oficial-do-milan-por-andre-diz-samir-carvalho]]>",
+      "time": "31/03 · 13:48",
+      "pubDate": "Tue, 31 Mar 2026 10:48:47 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians estuda investida por Anderson Talisca em julho após renovação emperrada com Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-investida-por-anderson-talisca-em-julho-apos-renovacao-emperrada-com-memphis-depay]]>",
+      "time": "31/03 · 13:47",
+      "pubDate": "Tue, 31 Mar 2026 10:47:56 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Portais italianos apontam desistência do Milan por volante do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530030/portais-italianos-apontam-desistencia-do-milan-por-volante-do-corinthians",
+      "time": "31/03 · 13:30",
+      "pubDate": "Tue, 31 Mar 2026 10:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard encanta bastidores do Corinthians, pode ser titular e já se prepara para clássico contra o Fluminense",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-encanta-bastidores-do-corinthians-pode-ser-titular-e-ja-se-prepara-para-classico-contra-o-fluminense]]>",
+      "time": "31/03 · 12:28",
+      "pubDate": "Tue, 31 Mar 2026 09:28:34 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quarteto do Corinthians é convocado para preparação antes do Sul-Americano Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530024/quarteto-do-corinthians-e-convocado-para-preparacao-antes-do-sul-americano-feminino-sub-17",
+      "time": "31/03 · 12:20",
+      "pubDate": "Tue, 31 Mar 2026 09:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians participa de último jogo da Data Fifa nesta terça-feira; saiba onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529993/dupla-do-corinthians-participa-de-ultimo-jogo-da-data-fifa-nesta-terca-feira-saiba-onde-assistir",
+      "time": "31/03 · 11:30",
+      "pubDate": "Tue, 31 Mar 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,14 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530016/ultimas-do-corinthians-nova-oferta-por-joia-alerta-para-memphis-e-estreia-proxima",
       "time": "31/03 · 10:30",
       "pubDate": "Tue, 31 Mar 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians descarta ter recebido nova proposta oficial do Milan por André, diz Samir Carvalho",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-descarta-ter-recebido-nova-proposta-oficial-do-milan-por-andre-diz-samir-carvalho]]>",
-      "time": "31/03 · 08:52",
-      "pubDate": "Tue, 31 Mar 2026 05:52:59 -0300"
     },
     {
       "source": "Bolavip",
@@ -67,68 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 30 Mar 2026 21:04:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Peñarol recomenda que torcida não viaje para duelo contra o Corinthians em Itaquera",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530010/presidente-do-penarol-recomenda-que-torcida-nao-viaje-para-duelo-contra-o-corinthians-em-itaquera",
-      "time": "30/03 · 23:11",
-      "pubDate": "Mon, 30 Mar 2026 20:11:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians evita pior início no Brasileirão Feminino com vitória sobre o Botafogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529959/corinthians-evita-pior-inicio-no-brasileirao-feminino-com-vitoria-sobre-o-botafogo",
-      "time": "30/03 · 23:05",
-      "pubDate": "Mon, 30 Mar 2026 20:05:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Real Madrid entra na briga por André e Breno Bidon e Corinthians pode receber ofertas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-bidon-corinthians-real-madrid]]>",
-      "time": "30/03 · 22:31",
-      "pubDate": "Mon, 30 Mar 2026 19:31:04 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pedro Raul tenta aproveitar ausências no ataque para desencantar no retorno ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529987/pedro-raul-tenta-aproveitar-ausencias-no-ataque-para-desencantar-no-retorno-ao-corinthians",
-      "time": "30/03 · 22:02",
-      "pubDate": "Mon, 30 Mar 2026 19:02:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Marco Polo deixa diretoria do Corinthians após conflito interno e assume cargo na Arena Pacaembu",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/marco-polo-deixa-diretoria-do-corinthians-apos-conflito-interno-e-assume-cargo-na-arena-pacaembu]]>",
       "time": "30/03 · 21:51",
       "pubDate": "Mon, 30 Mar 2026 18:51:13 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia inglês é testado como titular e pode ser novidade para o Corinthians contra o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530008/meia-ingles-e-testado-como-titular-e-pode-ser-novidade-para-o-corinthians-contra-o-fluminense",
-      "time": "30/03 · 21:15",
-      "pubDate": "Mon, 30 Mar 2026 18:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians TV mantém crescimento e atinge 50 milhões de visualizações em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529982/corinthians-tv-mantem-crescimento-e-atinge-50-milhoes-de-visualizacoes-em-2026",
-      "time": "30/03 · 21:03",
-      "pubDate": "Mon, 30 Mar 2026 18:03:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Felipe Longo pode voltar ao gol do Corinthians após período afastado por lesão no cotovelo direito",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/felipe-longo-pode-voltar-ao-gol-do-corinthians-contra-o-fluminense]]>",
-      "time": "30/03 · 20:53",
-      "pubDate": "Mon, 30 Mar 2026 17:53:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Dupla do Corinthians participa de último jogo da Data Fifa nesta terça-feira; saiba onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529993/dupla-do-corinthians-participa-de-ultimo-jogo-da-data-fifa-nesta-terca-feira-saiba-onde-assistir",
+      "pubDate": "Tue, 31 Mar 2026 08:30:00 -0300",
+      "date": "31/03 · 11:30"
+    },
+    {
       "title": "Goleiro pode voltar a ser utilizado pelo Corinthians após 11 jogos e recuperação de lesão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529969/goleiro-pode-voltar-a-ser-utilizado-pelo-corinthians-apos-11-jogos-e-recuperacao-de-lesao",
       "pubDate": "Mon, 30 Mar 2026 13:30:00 -0300",
       "date": "30/03 · 16:30"
-    },
-    {
-      "title": "Ex-Corinthians é apontado como um dos três melhores jovens zagueiros brasileiros na Europa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529949/ex-corinthians-e-apontado-como-um-dos-tres-melhores-jovens-zagueiros-brasileiros-na-europa",
-      "pubDate": "Sun, 29 Mar 2026 17:31:00 -0300",
-      "date": "29/03 · 20:31"
     }
   ]
 };
