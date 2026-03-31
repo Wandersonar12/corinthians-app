@@ -1,22 +1,70 @@
-// Gerado automaticamente em 30/03/2026, 23:53:02
+// Gerado automaticamente em 31/03/2026, 11:13:11
 const LIVE_DATA = {
-  "updatedAt": "2026-03-30T23:53:02.947Z",
+  "updatedAt": "2026-03-31T11:13:11.533Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: nova oferta por joia, alerta para Memphis e estreia próxima",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530016/ultimas-do-corinthians-nova-oferta-por-joia-alerta-para-memphis-e-estreia-proxima",
+      "time": "31/03 · 10:30",
+      "pubDate": "Tue, 31 Mar 2026 07:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians avalia demissão de Dorival Júnior após sequência instável e diretoria não banca o treinador",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-demissao-de-dorival-junior-apos-sequencia-instavel-e-diretoria-nao-banca-o-treinador]]>",
-      "time": "30/03 · 23:49",
-      "pubDate": "Mon, 30 Mar 2026 20:49:18 -0300"
+      "title": "Corinthians descarta ter recebido nova proposta oficial do Milan por André, diz Samir Carvalho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-descarta-ter-recebido-nova-proposta-oficial-do-milan-por-andre-diz-samir-carvalho]]>",
+      "time": "31/03 · 08:52",
+      "pubDate": "Tue, 31 Mar 2026 05:52:59 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Pedro Raul ganha nova chance no Corinthians e tenta encerrar jejum após a Data Fifa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-ganha-nova-chance-no-corinthians-e-tenta-encerrar-jejum-na-estreia-do-brasileirao]]>",
-      "time": "30/03 · 23:47",
-      "pubDate": "Mon, 30 Mar 2026 20:47:45 -0300"
+      "time": "31/03 · 08:51",
+      "pubDate": "Tue, 31 Mar 2026 05:51:53 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Previsão da Inteligência Artificial crava resultado de Fluminense x Corinthians pelo Brasileirão: “2 a 1”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/previsao-da-inteligencia-artificial-crava-resultado-de-fluminense-x-corinthians-pelo-brasileirao-2-a-1]]>",
+      "time": "31/03 · 02:09",
+      "pubDate": "Mon, 30 Mar 2026 23:09:57 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aguarda o retorno de Memphis Depay, mas holandês pode continuar no Velho Continente",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-o-retorno-de-memphis-depay-mas-holandes-pode-continuar-no-velho-continente]]>",
+      "time": "31/03 · 01:31",
+      "pubDate": "Mon, 30 Mar 2026 22:31:26 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta à Fazendinha em duelo contra o Red Bull Bragantino pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530014/corinthians-volta-a-fazendinha-em-duelo-contra-o-red-bull-bragantino-pelo-brasileirao-feminino",
+      "time": "31/03 · 00:40",
+      "pubDate": "Mon, 30 Mar 2026 21:40:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avalia demissão de Dorival Júnior após sequência instável e diretoria não banca o treinador",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-demissao-de-dorival-junior-apos-sequencia-instavel-e-diretoria-nao-banca-o-treinador]]>",
+      "time": "31/03 · 00:27",
+      "pubDate": "Mon, 30 Mar 2026 21:27:19 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Comissão técnica do Corinthians explica trabalho físico com jogadores do Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530002/comissao-tecnica-do-corinthians-explica-trabalho-fisico-com-jogadores-do-sub-20",
+      "time": "31/03 · 00:04",
+      "pubDate": "Mon, 30 Mar 2026 21:04:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -81,54 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/felipe-longo-pode-voltar-ao-gol-do-corinthians-contra-o-fluminense]]>",
       "time": "30/03 · 20:53",
       "pubDate": "Mon, 30 Mar 2026 17:53:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança na preparação, Dorival ajusta time e projeta confronto decisivo contra o Fluminense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-na-preparacao-dorival-ajusta-time-e-projeta-confronto-decisivo-contra-o-fluminense]]>",
-      "time": "30/03 · 20:10",
-      "pubDate": "Mon, 30 Mar 2026 17:10:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior tem pior aproveitamento do Corinthians na década entre técnicos com mais de 60 jogos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-tem-pior-aproveitamento-no-corinthians-na-decada-com-60-jogos]]>",
-      "time": "30/03 · 19:07",
-      "pubDate": "Mon, 30 Mar 2026 16:07:25 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Estádio do Corinthians avança em obras e prevê data para inauguração de estátua de São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529996/estadio-do-corinthians-avanca-em-obras-e-preve-data-para-inauguracao-de-estatua-de-sao-jorge",
-      "time": "30/03 · 19:00",
-      "pubDate": "Mon, 30 Mar 2026 16:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga informações de ingressos para duelo contra o Fluminense no Maracanã",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529994/corinthians-divulga-informacoes-de-ingressos-para-duelo-contra-o-fluminense-no-maracana",
-      "time": "30/03 · 18:01",
-      "pubDate": "Mon, 30 Mar 2026 15:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz ajustes táticos e encerra penúltimo treino antes de enfrentar o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529998/corinthians-faz-ajustes-taticos-e-encerra-penultimo-treino-antes-de-enfrentar-o-fluminense",
-      "time": "30/03 · 17:45",
-      "pubDate": "Mon, 30 Mar 2026 14:45:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay se incomoda com departamento médico do Corinthians e quer tratar lesão na Holanda",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-mira-copa-corinthians-lesao-holanda]]>",
-      "time": "30/03 · 17:10",
-      "pubDate": "Mon, 30 Mar 2026 14:10:54 -0300"
     },
     {
       "source": "Gazeta Esportiva",
