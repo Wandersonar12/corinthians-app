@@ -1,54 +1,78 @@
-// Gerado automaticamente em 31/03/2026, 20:04:36
+// Gerado automaticamente em 31/03/2026, 23:05:41
 const LIVE_DATA = {
-  "updatedAt": "2026-03-31T20:04:36.481Z",
+  "updatedAt": "2026-03-31T23:05:41.452Z",
   "news": [
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Detalhes da oferta do Milan por André pode deixar o Corinthians com bônus em partidas disputadas no clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/detalhes-da-oferta-do-milan-por-andre-pode-deixar-o-corinthians-com-bonus-em-partidas-disputadas-no-clube]]>",
+      "time": "31/03 · 22:45",
+      "pubDate": "Tue, 31 Mar 2026 19:45:34 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians realiza treino tático mirando duelo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530046/corinthians-realiza-treino-tatico-mirando-duelo-pelo-brasileirao-feminino",
+      "title": "Meio-campista do Corinthians atua todo o segundo tempo no empate do Peru com Honduras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530052/meio-campista-do-corinthians-atua-todo-o-segundo-tempo-no-empate-do-peru-com-honduras",
+      "time": "31/03 · 22:17",
+      "pubDate": "Tue, 31 Mar 2026 19:17:24 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Football Association emite pedido de desculpa a time inglês feminino que também chamava Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530019/football-association-emite-pedido-de-desculpa-a-time-ingles-feminino-que-tambem-chamava-corinthians",
+      "time": "31/03 · 22:05",
+      "pubDate": "Tue, 31 Mar 2026 19:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Centroavante comemora marca artilheira com o Corinthians e projeta retorno ao Maracanã",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530051/centroavante-comemora-marca-artilheira-com-o-corinthians-e-projeta-retorno-ao-maracana",
+      "time": "31/03 · 22:03",
+      "pubDate": "Tue, 31 Mar 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra preparação para enfrentar o Fluminense pelo Brasileirão; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530029/corinthians-encerra-preparacao-para-enfrentar-o-fluminense-pelo-brasileirao-veja-o-provavel-time",
+      "time": "31/03 · 21:51",
+      "pubDate": "Tue, 31 Mar 2026 18:51:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta melhorar baixo aproveitamento contra o Fluminense no Maracanã; veja o retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529965/corinthians-tenta-melhorar-baixo-aproveitamento-contra-o-fluminense-no-maracana-veja-o-retrospecto",
+      "time": "31/03 · 21:06",
+      "pubDate": "Tue, 31 Mar 2026 18:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Artilheiro do Sub-20 do Corinthians celebra retorno aos gramados após lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530049/artilheiro-do-sub-20-do-corinthians-celebra-retorno-aos-gramados-apos-lesao",
+      "time": "31/03 · 20:29",
+      "pubDate": "Tue, 31 Mar 2026 17:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Novo comando e meses instáveis: Corinthians retorna ao Maracanã após tetra da Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530012/novo-comando-e-meses-instaveis-corinthians-retorna-ao-maracana-apos-tetra-da-copa-do-brasil",
+      "time": "31/03 · 20:02",
+      "pubDate": "Tue, 31 Mar 2026 17:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians realiza treino tático de olho em duelo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530046/corinthians-realiza-treino-tatico-de-olho-em-duelo-pelo-brasileirao-feminino",
       "time": "31/03 · 19:37",
-      "pubDate": "Tue, 31 Mar 2026 16:37:39 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians marca em empate da Seleção Sub-16 na estreia de torneio internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530045/meio-campista-do-corinthians-marca-em-empate-da-selecao-sub-16-na-estreia-de-torneio-internacional",
-      "time": "31/03 · 19:12",
-      "pubDate": "Tue, 31 Mar 2026 16:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcida do Corinthians aprova Jesse Lingard como titular contra o Fluminense; veja a enquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530026/torcida-do-corinthians-aprova-jesse-lingard-como-titular-contra-o-fluminense-veja-a-enquete",
-      "time": "31/03 · 19:02",
-      "pubDate": "Tue, 31 Mar 2026 16:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians exalta a democracia em data que marca início da Ditadura Militar no Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530040/corinthians-exalta-a-democracia-em-data-que-marca-inicio-da-ditadura-militar-no-brasil",
-      "time": "31/03 · 18:34",
-      "pubDate": "Tue, 31 Mar 2026 15:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Possível venda de zagueiro ao Liverpool pode render mais de R$ 40 milhões ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530028/possivel-venda-de-zagueiro-ao-liverpool-pode-render-mais-de-r-40-milhoes-ao-corinthians",
-      "time": "31/03 · 18:05",
-      "pubDate": "Tue, 31 Mar 2026 15:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante é convocada pela Venezuela e vira novo desfalque do Corinthians na Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530037/volante-e-convocada-pela-venezuela-e-vira-novo-desfalque-do-corinthians-na-teal-rising-cup",
-      "time": "31/03 · 17:00",
-      "pubDate": "Tue, 31 Mar 2026 14:00:00 -0300"
+      "pubDate": "Tue, 31 Mar 2026 16:37:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,22 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-prepara-para-maratona-de-nove-jogos-por-tres-competicoes-em-abril]]>",
       "time": "31/03 · 16:55",
       "pubDate": "Tue, 31 Mar 2026 13:55:12 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Nike divulga campanha de novas camisas do Corinthians em outdoor no Rio de Janeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530038/nike-divulga-campanha-de-novas-camisas-do-corinthians-em-outdoor-no-rio-de-janeiro",
-      "time": "31/03 · 16:36",
-      "pubDate": "Tue, 31 Mar 2026 13:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre venda de ingressos para partida contra o Internacional pelo Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530017/corinthians-abre-venda-de-ingressos-para-partida-contra-o-internacional-pelo-brasileiro",
-      "time": "31/03 · 16:00",
-      "pubDate": "Tue, 31 Mar 2026 13:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-o-retorno-de-memphis-depay-mas-holandes-pode-continuar-no-velho-continente]]>",
       "time": "31/03 · 01:31",
       "pubDate": "Mon, 30 Mar 2026 22:31:26 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avalia demissão de Dorival Júnior após sequência instável e diretoria não banca o treinador",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-demissao-de-dorival-junior-apos-sequencia-instavel-e-diretoria-nao-banca-o-treinador]]>",
-      "time": "31/03 · 00:27",
-      "pubDate": "Mon, 30 Mar 2026 21:27:19 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529993/dupla-do-corinthians-participa-de-ultimo-jogo-da-data-fifa-nesta-terca-feira-saiba-onde-assistir",
       "pubDate": "Tue, 31 Mar 2026 08:30:00 -0300",
       "date": "31/03 · 11:30"
-    },
-    {
-      "title": "Goleiro pode voltar a ser utilizado pelo Corinthians após 11 jogos e recuperação de lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529969/goleiro-pode-voltar-a-ser-utilizado-pelo-corinthians-apos-11-jogos-e-recuperacao-de-lesao",
-      "pubDate": "Mon, 30 Mar 2026 13:30:00 -0300",
-      "date": "30/03 · 16:30"
     }
   ]
 };
