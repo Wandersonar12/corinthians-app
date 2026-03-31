@@ -1,22 +1,78 @@
-// Gerado automaticamente em 31/03/2026, 15:54:13
+// Gerado automaticamente em 31/03/2026, 20:04:36
 const LIVE_DATA = {
-  "updatedAt": "2026-03-31T15:54:13.389Z",
+  "updatedAt": "2026-03-31T20:04:36.481Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians tira cidadania italiana e amplia portas no mercado europeu",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530027/volante-do-corinthians-tira-cidadania-italiana-e-amplia-portas-no-mercado-europeu",
-      "time": "31/03 · 14:36",
-      "pubDate": "Tue, 31 Mar 2026 11:36:00 -0300"
+      "title": "Corinthians realiza treino tático mirando duelo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530046/corinthians-realiza-treino-tatico-mirando-duelo-pelo-brasileirao-feminino",
+      "time": "31/03 · 19:37",
+      "pubDate": "Tue, 31 Mar 2026 16:37:39 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo contra o líder Pinheiros pelo NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530003/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-lider-pinheiros-pelo-nbb",
-      "time": "31/03 · 14:00",
-      "pubDate": "Tue, 31 Mar 2026 11:00:00 -0300"
+      "title": "Meio-campista do Corinthians marca em empate da Seleção Sub-16 na estreia de torneio internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530045/meio-campista-do-corinthians-marca-em-empate-da-selecao-sub-16-na-estreia-de-torneio-internacional",
+      "time": "31/03 · 19:12",
+      "pubDate": "Tue, 31 Mar 2026 16:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcida do Corinthians aprova Jesse Lingard como titular contra o Fluminense; veja a enquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530026/torcida-do-corinthians-aprova-jesse-lingard-como-titular-contra-o-fluminense-veja-a-enquete",
+      "time": "31/03 · 19:02",
+      "pubDate": "Tue, 31 Mar 2026 16:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians exalta a democracia em data que marca início da Ditadura Militar no Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530040/corinthians-exalta-a-democracia-em-data-que-marca-inicio-da-ditadura-militar-no-brasil",
+      "time": "31/03 · 18:34",
+      "pubDate": "Tue, 31 Mar 2026 15:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Possível venda de zagueiro ao Liverpool pode render mais de R$ 40 milhões ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530028/possivel-venda-de-zagueiro-ao-liverpool-pode-render-mais-de-r-40-milhoes-ao-corinthians",
+      "time": "31/03 · 18:05",
+      "pubDate": "Tue, 31 Mar 2026 15:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante é convocada pela Venezuela e vira novo desfalque do Corinthians na Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530037/volante-e-convocada-pela-venezuela-e-vira-novo-desfalque-do-corinthians-na-teal-rising-cup",
+      "time": "31/03 · 17:00",
+      "pubDate": "Tue, 31 Mar 2026 14:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians se prepara para maratona de nove jogos por três competições em abril",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-prepara-para-maratona-de-nove-jogos-por-tres-competicoes-em-abril]]>",
+      "time": "31/03 · 16:55",
+      "pubDate": "Tue, 31 Mar 2026 13:55:12 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Nike divulga campanha de novas camisas do Corinthians em outdoor no Rio de Janeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530038/nike-divulga-campanha-de-novas-camisas-do-corinthians-em-outdoor-no-rio-de-janeiro",
+      "time": "31/03 · 16:36",
+      "pubDate": "Tue, 31 Mar 2026 13:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians abre venda de ingressos para partida contra o Internacional pelo Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530017/corinthians-abre-venda-de-ingressos-para-partida-contra-o-internacional-pelo-brasileiro",
+      "time": "31/03 · 16:00",
+      "pubDate": "Tue, 31 Mar 2026 13:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -35,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 31 Mar 2026 10:47:56 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Portais italianos apontam desistência do Milan por volante do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530030/portais-italianos-apontam-desistencia-do-milan-por-volante-do-corinthians",
-      "time": "31/03 · 13:30",
-      "pubDate": "Tue, 31 Mar 2026 10:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Lingard encanta bastidores do Corinthians, pode ser titular e já se prepara para clássico contra o Fluminense",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-encanta-bastidores-do-corinthians-pode-ser-titular-e-ja-se-prepara-para-classico-contra-o-fluminense]]>",
       "time": "31/03 · 12:28",
       "pubDate": "Tue, 31 Mar 2026 09:28:34 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quarteto do Corinthians é convocado para preparação antes do Sul-Americano Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530024/quarteto-do-corinthians-e-convocado-para-preparacao-antes-do-sul-americano-feminino-sub-17",
-      "time": "31/03 · 12:20",
-      "pubDate": "Tue, 31 Mar 2026 09:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians participa de último jogo da Data Fifa nesta terça-feira; saiba onde assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529993/dupla-do-corinthians-participa-de-ultimo-jogo-da-data-fifa-nesta-terca-feira-saiba-onde-assistir",
-      "time": "31/03 · 11:30",
-      "pubDate": "Tue, 31 Mar 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: nova oferta por joia, alerta para Memphis e estreia próxima",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530016/ultimas-do-corinthians-nova-oferta-por-joia-alerta-para-memphis-e-estreia-proxima",
-      "time": "31/03 · 10:30",
-      "pubDate": "Tue, 31 Mar 2026 07:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -99,36 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 30 Mar 2026 22:31:26 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta à Fazendinha em duelo contra o Red Bull Bragantino pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530014/corinthians-volta-a-fazendinha-em-duelo-contra-o-red-bull-bragantino-pelo-brasileirao-feminino",
-      "time": "31/03 · 00:40",
-      "pubDate": "Mon, 30 Mar 2026 21:40:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians avalia demissão de Dorival Júnior após sequência instável e diretoria não banca o treinador",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-demissao-de-dorival-junior-apos-sequencia-instavel-e-diretoria-nao-banca-o-treinador]]>",
       "time": "31/03 · 00:27",
       "pubDate": "Mon, 30 Mar 2026 21:27:19 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Comissão técnica do Corinthians explica trabalho físico com jogadores do Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530002/comissao-tecnica-do-corinthians-explica-trabalho-fisico-com-jogadores-do-sub-20",
-      "time": "31/03 · 00:04",
-      "pubDate": "Mon, 30 Mar 2026 21:04:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marco Polo deixa diretoria do Corinthians após conflito interno e assume cargo na Arena Pacaembu",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marco-polo-deixa-diretoria-do-corinthians-apos-conflito-interno-e-assume-cargo-na-arena-pacaembu]]>",
-      "time": "30/03 · 21:51",
-      "pubDate": "Mon, 30 Mar 2026 18:51:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
