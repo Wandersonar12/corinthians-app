@@ -1,7 +1,87 @@
-// Gerado automaticamente em 01/04/2026, 20:07:26
+// Gerado automaticamente em 01/04/2026, 23:51:44
 const LIVE_DATA = {
-  "updatedAt": "2026-04-01T20:07:26.697Z",
+  "updatedAt": "2026-04-01T23:51:44.434Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians define escalação para enfrentar o Fluminense no Maracanã",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530096/corinthians-define-escalacao-para-enfrentar-o-fluminense-no-maracana",
+      "time": "01/04 · 23:31",
+      "pubDate": "Wed, 01 Apr 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians e Fluminense entram em campo com itens personalizados fazendo alusão ao Dia do Autismo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530105/corinthians-e-fluminense-entram-em-campo-com-itens-personalizados-fazendo-alusao-ao-dia-do-autismo",
+      "time": "01/04 · 23:01",
+      "pubDate": "Wed, 01 Apr 2026 20:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians sustenta leve vantagem em duelo historicamente equilibrado contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530080/corinthians-sustenta-leve-vantagem-em-duelo-historicamente-equilibrado-contra-o-fluminense",
+      "time": "01/04 · 22:32",
+      "pubDate": "Wed, 01 Apr 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival indica e Corinthians coloca Cebolinha como prioridade para 2027; Negócio em julho é difícil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-indica-e-corinthians-coloca-cebolinha-como-prioridade-para-2027]]>",
+      "time": "01/04 · 21:50",
+      "pubDate": "Wed, 01 Apr 2026 18:50:20 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Davi Lacerda volta a apitar jogo do Corinthians com invencibilidade e histórico recente de polêmicas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/davi-lacerda-volta-a-apitar-jogo-do-corinthians-com-invencibilidade-e-historico-recente-de-polemicas]]>",
+      "time": "01/04 · 21:49",
+      "pubDate": "Wed, 01 Apr 2026 18:49:58 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Jesse Lingard é criticado por ex-companheiro Louis Saha pela decisão de jogar no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-e-criticado-por-ex-companheiro-louis-saha-pela-decisao-de-jogar-no-corinthians]]>",
+      "time": "01/04 · 21:34",
+      "pubDate": "Wed, 01 Apr 2026 18:34:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vice-campeão estadual e G4 do Brasileirão: veja como chega o Fluminense contra o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530089/vice-campeao-estadual-e-g4-do-brasileirao-veja-como-chega-o-fluminense-contra-o-corinthians",
+      "time": "01/04 · 21:31",
+      "pubDate": "Wed, 01 Apr 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece data e horário para duelos contra o Barra pela Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530099/corinthians-conhece-data-e-horario-para-duelos-contra-o-barra-pela-copa-do-brasil",
+      "time": "01/04 · 21:29",
+      "pubDate": "Wed, 01 Apr 2026 18:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Empresário de atacante do Grêmio revela bastidores da ida de Jesse Lingard para o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530071/empresario-de-atacante-do-gremio-revela-bastidores-da-ida-de-jesse-lingard-para-o-corinthians",
+      "time": "01/04 · 20:32",
+      "pubDate": "Wed, 01 Apr 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gui Amorim deixa o campo com dores no joelho e pode desfalcar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530094/gui-amorim-deixa-o-campo-com-dores-no-joelho-e-pode-desfalcar-o-corinthians",
+      "time": "01/04 · 20:24",
+      "pubDate": "Wed, 01 Apr 2026 17:24:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,14 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-tem-bom-retrospecto-contra-cariocas-no-corinthians]]>",
       "time": "01/04 · 19:57",
       "pubDate": "Wed, 01 Apr 2026 16:57:26 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode terminar rodada próximo do Z4 em caso de derrota contra o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530074/corinthians-pode-terminar-rodada-proximo-do-z4-em-caso-de-derrota-contra-o-fluminense",
-      "time": "01/04 · 19:30",
-      "pubDate": "Wed, 01 Apr 2026 16:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,54 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 01 Apr 2026 16:08:53 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians detalha venda de ingressos para jogo contra o Red Bull Bragantino no Brasileiro Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530092/corinthians-detalha-venda-de-ingressos-para-jogo-contra-o-red-bull-bragantino-no-brasileiro-feminino",
-      "time": "01/04 · 19:04",
-      "pubDate": "Wed, 01 Apr 2026 16:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz penúltimo treino antes de enfrentar o Red Bull Bragantino pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530091/corinthians-faz-penultimo-treino-antes-de-enfrentar-o-red-bull-bragantino-pelo-brasileirao-feminino",
-      "time": "01/04 · 18:54",
-      "pubDate": "Wed, 01 Apr 2026 15:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto é eleito o melhor jogador do Corinthians em março",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530062/yuri-alberto-e-eleito-o-melhor-jogador-do-corinthians-em-marco",
-      "time": "01/04 · 18:28",
-      "pubDate": "Wed, 01 Apr 2026 15:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-jogador francês critica transferência de Lingard ao Corinthians e sugere retorno à Premier League",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530087/ex-jogador-frances-critica-transferencia-de-lingard-ao-corinthians-e-sugere-retorno-a-premier-league",
-      "time": "01/04 · 18:04",
-      "pubDate": "Wed, 01 Apr 2026 15:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "IA projeta resultado do confronto entre Corinthians e Fluminense no Maracanã",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530085/ia-projeta-resultado-do-confronto-entre-corinthians-e-fluminense-no-maracana",
-      "time": "01/04 · 17:35",
-      "pubDate": "Wed, 01 Apr 2026 14:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca sequenciar vitórias no Brasileiro Sub-20 após mais de um ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530047/corinthians-busca-sequenciar-vitorias-no-brasileiro-sub-20-apos-mais-de-um-ano",
-      "time": "01/04 · 16:34",
-      "pubDate": "Wed, 01 Apr 2026 13:34:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis estica tratamento na Europa e Corinthians marca data limite para o retorno",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-redobra-atencao-antes-de-fluminense-x-corinthians-com-forca-ofensiva-do-adversario]]>",
       "time": "01/04 · 15:26",
       "pubDate": "Wed, 01 Apr 2026 12:26:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians recusa oferta por Hugo Souza, estafe aposta em Copa e valorização no mercado europeu",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recusa-oferta-por-hugo-souza-estafe-aposta-em-copa-e-valorizacao-no-mercado-europeu]]>",
-      "time": "01/04 · 15:09",
-      "pubDate": "Wed, 01 Apr 2026 12:09:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians teve ‘ajuda’ de Carlos Vinicius, do Grêmio, para fechar com Lingard",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-teve-ajuda-de-carlos-vinicius-do-gremio-para-fechar-com-lingard]]>",
-      "time": "01/04 · 13:16",
-      "pubDate": "Wed, 01 Apr 2026 10:16:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians volta a apostar em Felipe Longo no gol e define titular contra o Fluminense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-volta-a-apostar-em-felipe-longo-no-gol-e-define-titular-contra-o-fluminense]]>",
-      "time": "01/04 · 12:45",
-      "pubDate": "Wed, 01 Apr 2026 09:45:57 -0300"
     },
     {
       "source": "Gazeta Esportiva",
