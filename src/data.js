@@ -1,78 +1,94 @@
-// Gerado automaticamente em 31/03/2026, 23:05:41
+// Gerado automaticamente em 01/04/2026, 11:17:13
 const LIVE_DATA = {
-  "updatedAt": "2026-03-31T23:05:41.452Z",
+  "updatedAt": "2026-04-01T11:17:13.746Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: possível estreia, recuo italiano e spoiler de uniforme",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530060/ultimas-do-corinthians-possivel-estreia-recuo-italiano-e-spoiler-de-uniforme",
+      "time": "01/04 · 10:30",
+      "pubDate": "Wed, 01 Apr 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Fluminense buscando bom retorno da Data Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530044/corinthians-visita-o-fluminense-buscando-bom-retorno-da-data-fifa",
+      "time": "01/04 · 03:01",
+      "pubDate": "Wed, 01 Apr 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Desembarque do Corinthians no Rio de Janeiro para enfrentar o Fluminense pelo Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126925/desembarque-do-corinthians-no-rio-de-janeiro-para-enfrentar-o-fluminense-pelo-brasileirao-2026",
+      "time": "01/04 · 02:19",
+      "pubDate": "Tue, 31 Mar 2026 23:19:58 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians desembarca no Rio de Janeiro com 24 jogadores para jogo com o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530039/corinthians-desembarca-no-rio-de-janeiro-com-24-jogadores-para-jogo-com-o-fluminense",
+      "time": "01/04 · 02:09",
+      "pubDate": "Tue, 31 Mar 2026 23:09:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians evita transfer ban e paga R$ 5,4 milhões ao Shakhtar Donetsk pela dívida por Maycon",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-evita-transfer-ban-e-paga-r-54-milhoes-ao-shakhtar-donetsk-pela-divida-por-maycon]]>",
+      "time": "01/04 · 01:46",
+      "pubDate": "Tue, 31 Mar 2026 22:46:52 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista vive jejum de quase cinco meses sem entrar em campo pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530035/meio-campista-vive-jejum-de-quase-cinco-meses-sem-entrar-em-campo-pelo-corinthians",
+      "time": "01/04 · 01:07",
+      "pubDate": "Tue, 31 Mar 2026 22:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca repetir feito raro no Maracanã que não acontece há quase 60 anos; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530005/corinthians-busca-repetir-feito-raro-no-maracana-que-nao-acontece-ha-quase-60-anos-saiba-qual",
+      "time": "01/04 · 00:07",
+      "pubDate": "Tue, 31 Mar 2026 21:07:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Detalhes da oferta do Milan por André pode deixar o Corinthians com bônus em partidas disputadas no clube",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/detalhes-da-oferta-do-milan-por-andre-pode-deixar-o-corinthians-com-bonus-em-partidas-disputadas-no-clube]]>",
-      "time": "31/03 · 22:45",
-      "pubDate": "Tue, 31 Mar 2026 19:45:34 -0300"
+      "time": "31/03 · 23:51",
+      "pubDate": "Tue, 31 Mar 2026 20:51:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Carrillo atua pelo Peru contra Honduras, soma bons números e vira baixa no Corinthians no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/carrillo-atua-pelo-peru-contra-honduras-soma-bons-numeros-e-vira-baixa-no-corinthians-no-brasileirao]]>",
+      "time": "31/03 · 23:08",
+      "pubDate": "Tue, 31 Mar 2026 20:08:02 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians atua todo o segundo tempo no empate do Peru com Honduras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530052/meio-campista-do-corinthians-atua-todo-o-segundo-tempo-no-empate-do-peru-com-honduras",
-      "time": "31/03 · 22:17",
-      "pubDate": "Tue, 31 Mar 2026 19:17:24 -0300"
+      "title": "Yuri Alberto busca marcar em jogos consecutivos pelo Corinthians após dois meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530000/yuri-alberto-busca-marcar-em-jogos-consecutivos-pelo-corinthians-apos-dois-meses",
+      "time": "31/03 · 23:02",
+      "pubDate": "Tue, 31 Mar 2026 20:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Football Association emite pedido de desculpa a time inglês feminino que também chamava Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530019/football-association-emite-pedido-de-desculpa-a-time-ingles-feminino-que-tambem-chamava-corinthians",
-      "time": "31/03 · 22:05",
-      "pubDate": "Tue, 31 Mar 2026 19:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Centroavante comemora marca artilheira com o Corinthians e projeta retorno ao Maracanã",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530051/centroavante-comemora-marca-artilheira-com-o-corinthians-e-projeta-retorno-ao-maracana",
-      "time": "31/03 · 22:03",
-      "pubDate": "Tue, 31 Mar 2026 19:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para enfrentar o Fluminense pelo Brasileirão; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530029/corinthians-encerra-preparacao-para-enfrentar-o-fluminense-pelo-brasileirao-veja-o-provavel-time",
-      "time": "31/03 · 21:51",
-      "pubDate": "Tue, 31 Mar 2026 18:51:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta melhorar baixo aproveitamento contra o Fluminense no Maracanã; veja o retrospecto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/529965/corinthians-tenta-melhorar-baixo-aproveitamento-contra-o-fluminense-no-maracana-veja-o-retrospecto",
-      "time": "31/03 · 21:06",
-      "pubDate": "Tue, 31 Mar 2026 18:06:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilheiro do Sub-20 do Corinthians celebra retorno aos gramados após lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530049/artilheiro-do-sub-20-do-corinthians-celebra-retorno-aos-gramados-apos-lesao",
-      "time": "31/03 · 20:29",
-      "pubDate": "Tue, 31 Mar 2026 17:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Novo comando e meses instáveis: Corinthians retorna ao Maracanã após tetra da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530012/novo-comando-e-meses-instaveis-corinthians-retorna-ao-maracana-apos-tetra-da-copa-do-brasil",
-      "time": "31/03 · 20:02",
-      "pubDate": "Tue, 31 Mar 2026 17:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza treino tático de olho em duelo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530046/corinthians-realiza-treino-tatico-de-olho-em-duelo-pelo-brasileirao-feminino",
-      "time": "31/03 · 19:37",
-      "pubDate": "Tue, 31 Mar 2026 16:37:00 -0300"
+      "title": "Corinthians quita dívida junto ao Shakhtar por Maycon e evita novo transfer ban; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530055/corinthians-quita-divida-junto-ao-shakhtar-por-maycon-e-evita-novo-transfer-ban-saiba-mais",
+      "time": "31/03 · 23:00",
+      "pubDate": "Tue, 31 Mar 2026 20:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -109,26 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Pedro Raul ganha nova chance no Corinthians e tenta encerrar jejum após a Data Fifa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-ganha-nova-chance-no-corinthians-e-tenta-encerrar-jejum-na-estreia-do-brasileirao]]>",
-      "time": "31/03 · 08:51",
-      "pubDate": "Tue, 31 Mar 2026 05:51:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Previsão da Inteligência Artificial crava resultado de Fluminense x Corinthians pelo Brasileirão: “2 a 1”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/previsao-da-inteligencia-artificial-crava-resultado-de-fluminense-x-corinthians-pelo-brasileirao-2-a-1]]>",
       "time": "31/03 · 02:09",
       "pubDate": "Mon, 30 Mar 2026 23:09:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aguarda o retorno de Memphis Depay, mas holandês pode continuar no Velho Continente",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-o-retorno-de-memphis-depay-mas-holandes-pode-continuar-no-velho-continente]]>",
-      "time": "31/03 · 01:31",
-      "pubDate": "Mon, 30 Mar 2026 22:31:26 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Desembarque do Corinthians no Rio de Janeiro para enfrentar o Fluminense pelo Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126925/desembarque-do-corinthians-no-rio-de-janeiro-para-enfrentar-o-fluminense-pelo-brasileirao-2026",
+      "pubDate": "Tue, 31 Mar 2026 23:19:58 -0300",
+      "date": "01/04 · 02:19"
+    },
     {
       "title": "Dupla do Corinthians participa de último jogo da Data Fifa nesta terça-feira; saiba onde assistir",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/529993/dupla-do-corinthians-participa-de-ultimo-jogo-da-data-fifa-nesta-terca-feira-saiba-onde-assistir",
