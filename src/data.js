@@ -1,7 +1,111 @@
-// Gerado automaticamente em 02/04/2026, 10:39:41
+// Gerado automaticamente em 02/04/2026, 15:38:38
 const LIVE_DATA = {
-  "updatedAt": "2026-04-02T10:39:41.567Z",
+  "updatedAt": "2026-04-02T15:38:38.085Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians detona jogadores e culpa até Memphis pela derrota contra Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530175/idolo-do-corinthians-detona-jogadores-e-culpa-ate-memphis-pela-derrota-contra-fluminense",
+      "time": "02/04 · 15:30",
+      "pubDate": "Thu, 02 Apr 2026 12:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians segura Hugo Souza até a Copa e recusa proposta de R$ 60 milhões do Besiktas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-segura-hugo-souza-ate-a-copa-e-recusa-proposta-de-r-60-milhoes-do-besiktas]]>",
+      "time": "02/04 · 15:09",
+      "pubDate": "Thu, 02 Apr 2026 12:09:42 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians assume erro e se desculpa por expulsão contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530194/volante-do-corinthians-assume-erro-e-se-desculpa-por-expulsao-contra-o-fluminense",
+      "time": "02/04 · 14:37",
+      "pubDate": "Thu, 02 Apr 2026 11:37:07 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Árbitro classifica como 'desrespeitoso' ato que culminou em expulsão de volante do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530189/arbitro-classifica-como-desrespeitoso-ato-que-culminou-em-expulsao-de-volante-do-corinthians",
+      "time": "02/04 · 14:30",
+      "pubDate": "Thu, 02 Apr 2026 11:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Jesse Lingard estreia pelo Corinthians com atuação discreta em derrota para o Fluminense no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-estreia-pelo-corinthians-com-atuacao-discreta-em-derrota-para-o-fluminense-no-brasileirao]]>",
+      "time": "02/04 · 13:59",
+      "pubDate": "Thu, 02 Apr 2026 10:59:30 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Expulsão infantil de Allan revolta Corinthians e punição é debatida nos bastidores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/expulsao-infantil-de-allan-revolta-corinthians-e-punicao-e-debatida-nos-bastidores]]>",
+      "time": "02/04 · 13:42",
+      "pubDate": "Thu, 02 Apr 2026 10:42:10 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior será demitido por Osmar Stabile no Corinthians com novo empate ou derrota no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-sera-demitido-por-osmar-stabile-no-corinthians-com-novo-empate-ou-derrota-no-brasileirao]]>",
+      "time": "02/04 · 13:41",
+      "pubDate": "Thu, 02 Apr 2026 10:41:07 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Rio Claro para quebrar sequência de tropeços no NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530097/corinthians-visita-o-rio-claro-para-quebrar-sequencia-de-tropecos-no-nbb-saiba-tudo",
+      "time": "02/04 · 13:32",
+      "pubDate": "Thu, 02 Apr 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians iguala sequência sem vitórias de 2023 e vê momento atual repetir padrão complicado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-iguala-sequencia-sem-vitorias-de-2023-e-ve-momento-atual-repetir-padrao-complicado]]>",
+      "time": "02/04 · 13:01",
+      "pubDate": "Thu, 02 Apr 2026 10:01:15 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Taubaté pela penúltima rodada do Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530098/corinthians-visita-o-taubate-pela-penultima-rodada-do-brasileirao-sub-20",
+      "time": "02/04 · 12:30",
+      "pubDate": "Thu, 02 Apr 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gaviões da Fiel vai ao CT do Corinthians para cobrar elenco e comissão técnica após derrota",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530179/gavioes-da-fiel-vai-ao-ct-do-corinthians-para-cobrar-elenco-e-comissao-tecnica-apos-derrota",
+      "time": "02/04 · 12:02",
+      "pubDate": "Thu, 02 Apr 2026 09:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MP recebe novo pedido de intervenção judicial no Corinthians; confira detalhes da petição",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530101/mp-recebe-novo-pedido-de-intervencao-judicial-no-corinthians-confira-detalhes-da-peticao",
+      "time": "02/04 · 11:30",
+      "pubDate": "Thu, 02 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vive momento conturbado no Brasileirão e conquistou apenas quatro dos últimos 18 pontos disputados",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vive-momento-conturbado-no-brasileirao-e-conquistou-apenas-quatro-dos-ultimos-18-pontos-disputados]]>",
+      "time": "02/04 · 11:28",
+      "pubDate": "Thu, 02 Apr 2026 08:28:54 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -13,74 +117,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Expulsão infantil de Allan revolta Corinthians e punição é debatida nos bastidores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/expulsao-infantil-de-allan-revolta-corinthians-e-punicao-e-debatida-nos-bastidores]]>",
-      "time": "02/04 · 10:18",
-      "pubDate": "Thu, 02 Apr 2026 07:18:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Decisões de Dorival Júnior em derrota do Corinthians para o Fluminense abalam respaldo do treinador",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/decisoes-de-dorival-junior-em-derrota-do-corinthians-para-o-fluminense-abalam-respaldo-do-treinador]]>",
       "time": "02/04 · 09:53",
       "pubDate": "Thu, 02 Apr 2026 06:53:23 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Jejum de vitórias, expulsão de Allan e mais: coletiva de Dorival Jr. no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126955/jejum-de-vitorias-expulsao-de-allan-e-mais-coletiva-de-dorival-jr-no-corinthians",
-      "time": "02/04 · 04:07",
-      "pubDate": "Thu, 02 Apr 2026 01:07:05 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians admite falhas na execução e assume responsabilidade por derrota no Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530157/tecnico-do-corinthians-admite-falhas-na-execucao-e-assume-responsabilidade-por-derrota-no-brasileiro",
-      "time": "02/04 · 03:53",
-      "pubDate": "Thu, 02 Apr 2026 00:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians critica conduta de Allan e fala sobre possível punição por expulsão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530158/tecnico-do-corinthians-critica-conduta-de-allan-e-fala-sobre-possivel-punicao-por-expulsao",
-      "time": "02/04 · 03:46",
-      "pubDate": "Thu, 02 Apr 2026 00:46:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro e gringos se salvam diante de avaliações baixas da Fiel em nova derrota do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530159/goleiro-e-gringos-se-salvam-diante-de-avaliacoes-baixas-da-fiel-em-nova-derrota-do-corinthians",
-      "time": "02/04 · 03:44",
-      "pubDate": "Thu, 02 Apr 2026 00:44:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro estreia na temporada pelo Corinthians em derrota para o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530120/goleiro-estreia-na-temporada-pelo-corinthians-em-derrota-para-o-fluminense",
-      "time": "02/04 · 03:19",
-      "pubDate": "Thu, 02 Apr 2026 00:19:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega a oito jogos sem vencer e repete feito negativo depois de quase três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530129/corinthians-chega-a-oito-jogos-sem-vencer-e-repete-feito-negativo-depois-de-quase-tres-anos",
-      "time": "02/04 · 03:15",
-      "pubDate": "Thu, 02 Apr 2026 00:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lingard estreia pelo Corinthians em derrota para o Fluminense; veja números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530124/lingard-estreia-pelo-corinthians-em-derrota-para-o-fluminense-veja-numeros",
-      "time": "02/04 · 03:00",
-      "pubDate": "Thu, 02 Apr 2026 00:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,46 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/allan-do-corinthians-e-expulso-por-atitude-inusitada-contra-o-fluminense]]>",
       "time": "02/04 · 02:54",
       "pubDate": "Wed, 01 Apr 2026 23:54:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians é dominado pelo Fluminense, perde mais uma e pode cair na tabela do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-dominado-pelo-fluminense-perde-mais-uma-e-pode-cair-na-tabela-do-brasileirao]]>",
-      "time": "02/04 · 02:37",
-      "pubDate": "Wed, 01 Apr 2026 23:37:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior busca respostas no banco, mas Corinthians sofre diante do Fluminense no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-busca-respostas-no-banco-mas-corinthians-sofre-diante-do-fluminense-no-brasileirao]]>",
-      "time": "02/04 · 02:33",
-      "pubDate": "Wed, 01 Apr 2026 23:33:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gabriel Paulista falha e torcida do Corinthians critica zagueiro: “Gastou todo futebol?”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-paulista-falha-e-torcida-do-corinthians-critica-zagueiro]]>",
-      "time": "02/04 · 01:47",
-      "pubDate": "Wed, 01 Apr 2026 22:47:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival indica e Corinthians coloca Cebolinha como prioridade para 2027; Negócio em julho é difícil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-indica-e-corinthians-coloca-cebolinha-como-prioridade-para-2027]]>",
-      "time": "01/04 · 21:50",
-      "pubDate": "Wed, 01 Apr 2026 18:50:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Davi Lacerda volta a apitar jogo do Corinthians com invencibilidade e histórico recente de polêmicas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/davi-lacerda-volta-a-apitar-jogo-do-corinthians-com-invencibilidade-e-historico-recente-de-polemicas]]>",
-      "time": "01/04 · 21:49",
-      "pubDate": "Wed, 01 Apr 2026 18:49:58 -0300"
     },
     {
       "source": "Gazeta Esportiva",
