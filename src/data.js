@@ -1,14 +1,78 @@
-// Gerado automaticamente em 02/04/2026, 20:01:49
+// Gerado automaticamente em 02/04/2026, 23:04:50
 const LIVE_DATA = {
-  "updatedAt": "2026-04-02T20:01:49.068Z",
+  "updatedAt": "2026-04-02T23:04:50.845Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians iguala pior marca defensiva de 2026 em novo tropeço pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530155/corinthians-iguala-pior-marca-defensiva-de-2026-em-novo-tropeco-pelo-brasileirao",
+      "time": "02/04 · 22:30",
+      "pubDate": "Thu, 02 Apr 2026 19:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ministério Público aciona Receita e pede investigação fiscal contra o Corinthians; saiba detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530220/ministerio-publico-aciona-receita-e-pede-investigacao-fiscal-contra-o-corinthians-saiba-detalhes",
+      "time": "02/04 · 22:11",
+      "pubDate": "Thu, 02 Apr 2026 19:11:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians explica pouca utilização de reforço após a derrota contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530161/tecnico-do-corinthians-explica-pouca-utilizacao-de-reforco-apos-a-derrota-contra-o-fluminense",
+      "time": "02/04 · 21:35",
+      "pubDate": "Thu, 02 Apr 2026 18:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile barra Vojvoda no Corinthians e diretoria vê o técnico sem cancha para suportar a pressão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-barra-vojvoda-corinthians-perde-forca]]>",
+      "time": "02/04 · 21:29",
+      "pubDate": "Thu, 02 Apr 2026 18:29:59 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians admite problemas no ataque e destaca ausências no setor",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530162/tecnico-do-corinthians-admite-problemas-no-ataque-e-destaca-ausencias-no-setor",
+      "time": "02/04 · 21:03",
+      "pubDate": "Thu, 02 Apr 2026 18:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde invencibilidade como visitante no Brasileirão após série de empates",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530131/corinthians-perde-invencibilidade-como-visitante-no-brasileirao-apos-serie-de-empates",
+      "time": "02/04 · 20:30",
+      "pubDate": "Thu, 02 Apr 2026 17:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior balança no Corinthians e Rizek critica postura do time: “Foi um atropelo”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-balanca-no-corinthians-e-rizek-critica-postura]]>",
+      "time": "02/04 · 20:23",
+      "pubDate": "Thu, 02 Apr 2026 17:23:50 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Derrota faz Corinthians perder vantagem em confronto direto contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530133/derrota-faz-corinthians-perder-vantagem-em-confronto-direto-contra-o-fluminense",
+      "time": "02/04 · 20:01",
+      "pubDate": "Thu, 02 Apr 2026 17:01:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians vence o Taubaté e encaminha classificação no Brasileirão Feminino Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530102/corinthians-vence-o-taubate-e-encaminha-classificacao-no-brasileirao-feminino-sub-20",
       "time": "02/04 · 19:57",
-      "pubDate": "Thu, 02 Apr 2026 16:57:57 -0300"
+      "pubDate": "Thu, 02 Apr 2026 16:57:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -27,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 02 Apr 2026 16:31:44 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta encerrar sequência negativa e evitar pior jejum em um ano no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530103/corinthians-tenta-encerrar-sequencia-negativa-e-evitar-pior-jejum-em-um-ano-no-nbb",
-      "time": "02/04 · 19:31",
-      "pubDate": "Thu, 02 Apr 2026 16:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Exame detecta trauma ligamentar em joelho de promessa do Sub-20 do Corinthians; saiba detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530202/exame-detecta-trauma-ligamentar-em-joelho-de-promessa-do-sub-20-do-corinthians-saiba-detalhes",
-      "time": "02/04 · 18:55",
-      "pubDate": "Thu, 02 Apr 2026 15:55:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para enfrentar o Bragantino no retorno da Fazendinha",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530209/corinthians-encerra-preparacao-para-enfrentar-o-bragantino-no-retorno-da-fazendinha",
-      "time": "02/04 · 18:38",
-      "pubDate": "Thu, 02 Apr 2026 15:38:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Dorival Júnior está por um fio e técnico Plano A do Corinthians como substituto imediato não será Tite",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-esta-por-um-fio-e-tecnico-plano-a-do-corinthians-como-substituto-imediato-nao-sera-tite]]>",
       "time": "02/04 · 18:35",
       "pubDate": "Thu, 02 Apr 2026 15:35:46 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Derrota para o Fluminense amplia retrospecto negativo do Corinthians dentro do Maracanã",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530153/derrota-para-o-fluminense-amplia-retrospecto-negativo-do-corinthians-dentro-do-maracana",
-      "time": "02/04 · 18:32",
-      "pubDate": "Thu, 02 Apr 2026 15:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-ganha-respaldo-do-elenco-esta-tranquilo-em-caso-de-demissao-e-ve-pressao-politica-crescer-no-corinthians]]>",
       "time": "02/04 · 17:45",
       "pubDate": "Thu, 02 Apr 2026 14:45:37 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia preparação para enfrentar o Internacional com cobranças no CT",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530207/corinthians-inicia-preparacao-para-enfrentar-o-internacional-com-cobrancas-no-ct",
-      "time": "02/04 · 17:39",
-      "pubDate": "Thu, 02 Apr 2026 14:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians iguala número de derrotas de 2025 em retorno da primeira Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530123/corinthians-iguala-numero-de-derrotas-de-2025-em-retorno-da-primeira-data-fifa",
-      "time": "02/04 · 17:30",
-      "pubDate": "Thu, 02 Apr 2026 14:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians segura Hugo Souza até a Copa e recusa proposta de R$ 60 milhões do Besiktas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-segura-hugo-souza-ate-a-copa-e-recusa-proposta-de-r-60-milhoes-do-besiktas]]>",
-      "time": "02/04 · 15:09",
-      "pubDate": "Thu, 02 Apr 2026 12:09:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Jesse Lingard estreia pelo Corinthians com atuação discreta em derrota para o Fluminense no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-estreia-pelo-corinthians-com-atuacao-discreta-em-derrota-para-o-fluminense-no-brasileirao]]>",
-      "time": "02/04 · 13:59",
-      "pubDate": "Thu, 02 Apr 2026 10:59:30 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -222,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530159/goleiro-e-gringos-se-salvam-diante-de-avaliacoes-baixas-da-fiel-em-nova-derrota-do-corinthians",
       "pubDate": "Thu, 02 Apr 2026 00:44:00 -0300",
       "date": "02/04 · 03:44"
-    },
-    {
-      "title": "Goleiro estreia na temporada pelo Corinthians em derrota para o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530120/goleiro-estreia-na-temporada-pelo-corinthians-em-derrota-para-o-fluminense",
-      "pubDate": "Thu, 02 Apr 2026 00:19:00 -0300",
-      "date": "02/04 · 03:19"
     }
   ]
 };
