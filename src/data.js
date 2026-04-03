@@ -1,30 +1,70 @@
-// Gerado automaticamente em 02/04/2026, 23:04:50
+// Gerado automaticamente em 03/04/2026, 10:08:34
 const LIVE_DATA = {
-  "updatedAt": "2026-04-02T23:04:50.845Z",
+  "updatedAt": "2026-04-03T10:08:34.411Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians iguala pior marca defensiva de 2026 em novo tropeço pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530155/corinthians-iguala-pior-marca-defensiva-de-2026-em-novo-tropeco-pelo-brasileirao",
-      "time": "02/04 · 22:30",
-      "pubDate": "Thu, 02 Apr 2026 19:30:00 -0300"
+      "title": "Corinthians recebe o Bragantino em retorno à Fazendinha pelo Brasileirão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530212/corinthians-recebe-o-bragantino-em-retorno-a-fazendinha-pelo-brasileirao-feminino-saiba-tudo",
+      "time": "03/04 · 03:01",
+      "pubDate": "Fri, 03 Apr 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ministério Público aciona Receita e pede investigação fiscal contra o Corinthians; saiba detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530220/ministerio-publico-aciona-receita-e-pede-investigacao-fiscal-contra-o-corinthians-saiba-detalhes",
-      "time": "02/04 · 22:11",
-      "pubDate": "Thu, 02 Apr 2026 19:11:00 -0300"
+      "title": "Corinthians termina rodada mais próximo da zona de rebaixamento do Brasileirão; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530224/corinthians-termina-rodada-mais-proximo-da-zona-de-rebaixamento-do-brasileirao-veja-a-tabela",
+      "time": "03/04 · 02:24",
+      "pubDate": "Thu, 02 Apr 2026 23:24:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica pouca utilização de reforço após a derrota contra o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530161/tecnico-do-corinthians-explica-pouca-utilizacao-de-reforco-apos-a-derrota-contra-o-fluminense",
-      "time": "02/04 · 21:35",
-      "pubDate": "Thu, 02 Apr 2026 18:35:00 -0300"
+      "title": "Corinthians conhece quarta derrota e vê retrospecto piorar contra times da Série A em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530152/corinthians-conhece-quarta-derrota-e-ve-retrospecto-piorar-contra-times-da-serie-a-em-2026",
+      "time": "03/04 · 01:30",
+      "pubDate": "Thu, 02 Apr 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians analisa a primeira derrota no Campeonato Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530184/tecnico-do-corinthians-analisa-a-primeira-derrota-no-campeonato-brasileiro-sub-20",
+      "time": "03/04 · 00:30",
+      "pubDate": "Thu, 02 Apr 2026 21:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians supera o Rio Claro em jogo equilibrado e volta a vencer no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530172/corinthians-supera-o-rio-claro-em-jogo-equilibrado-e-volta-a-vencer-no-nbb",
+      "time": "03/04 · 00:18",
+      "pubDate": "Thu, 02 Apr 2026 21:18:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians tem lesão constatada e passará por cirurgia no braço",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530226/meio-campista-do-corinthians-tem-lesao-constatada-e-passara-por-cirurgia-no-braco",
+      "time": "03/04 · 00:15",
+      "pubDate": "Thu, 02 Apr 2026 21:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians Sub-20 elogia Dieguinho e destaca evolução de dupla",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530186/tecnico-do-corinthians-sub-20-elogia-dieguinho-e-destaca-evolucao-de-dupla",
+      "time": "03/04 · 00:06",
+      "pubDate": "Thu, 02 Apr 2026 21:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians analisa a derrota para o Fluminense e fala sobre críticas da torcida",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530178/meio-campista-do-corinthians-analisa-a-derrota-para-o-fluminense-e-fala-sobre-criticas-da-torcida",
+      "time": "02/04 · 23:31",
+      "pubDate": "Thu, 02 Apr 2026 20:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -35,52 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 02 Apr 2026 18:29:59 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians admite problemas no ataque e destaca ausências no setor",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530162/tecnico-do-corinthians-admite-problemas-no-ataque-e-destaca-ausencias-no-setor",
-      "time": "02/04 · 21:03",
-      "pubDate": "Thu, 02 Apr 2026 18:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde invencibilidade como visitante no Brasileirão após série de empates",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530131/corinthians-perde-invencibilidade-como-visitante-no-brasileirao-apos-serie-de-empates",
-      "time": "02/04 · 20:30",
-      "pubDate": "Thu, 02 Apr 2026 17:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Dorival Júnior balança no Corinthians e Rizek critica postura do time: “Foi um atropelo”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-balanca-no-corinthians-e-rizek-critica-postura]]>",
       "time": "02/04 · 20:23",
       "pubDate": "Thu, 02 Apr 2026 17:23:50 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Derrota faz Corinthians perder vantagem em confronto direto contra o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530133/derrota-faz-corinthians-perder-vantagem-em-confronto-direto-contra-o-fluminense",
-      "time": "02/04 · 20:01",
-      "pubDate": "Thu, 02 Apr 2026 17:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o Taubaté e encaminha classificação no Brasileirão Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530102/corinthians-vence-o-taubate-e-encaminha-classificacao-no-brasileirao-feminino-sub-20",
-      "time": "02/04 · 19:57",
-      "pubDate": "Thu, 02 Apr 2026 16:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece tabela detalhada do Paulistão Feminino Sub-17; confira datas e horários",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530215/corinthians-conhece-tabela-detalhada-do-paulistao-feminino-sub-17-confira-datas-e-horarios",
-      "time": "02/04 · 19:41",
-      "pubDate": "Thu, 02 Apr 2026 16:41:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -204,24 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126964/gavioes-da-fiel-se-pronuncia-apos-reuniao-com-jogadores-e-comissao-tecnica-do-corinthians",
       "pubDate": "Thu, 02 Apr 2026 12:59:28 -0300",
       "date": "02/04 · 15:59"
-    },
-    {
-      "title": "VÍDEO: Jejum de vitórias, expulsão de Allan e mais: coletiva de Dorival Jr. no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126955/jejum-de-vitorias-expulsao-de-allan-e-mais-coletiva-de-dorival-jr-no-corinthians",
-      "pubDate": "Thu, 02 Apr 2026 01:07:05 -0300",
-      "date": "02/04 · 04:07"
-    },
-    {
-      "title": "VÍDEO: Zona mista Rodrigo Garro: frustração da derrota, responsabilização da equipe e projeção",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126954/zona-mista-rodrigo-garro-frustracao-da-derrota-responsabilizacao-da-equipe-e-projecao",
-      "pubDate": "Thu, 02 Apr 2026 01:02:00 -0300",
-      "date": "02/04 · 04:02"
-    },
-    {
-      "title": "Goleiro e gringos se salvam diante de avaliações baixas da Fiel em nova derrota do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530159/goleiro-e-gringos-se-salvam-diante-de-avaliacoes-baixas-da-fiel-em-nova-derrota-do-corinthians",
-      "pubDate": "Thu, 02 Apr 2026 00:44:00 -0300",
-      "date": "02/04 · 03:44"
     }
   ]
 };
