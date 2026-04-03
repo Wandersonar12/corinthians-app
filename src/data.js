@@ -1,12 +1,76 @@
-// Gerado automaticamente em 03/04/2026, 10:08:34
+// Gerado automaticamente em 03/04/2026, 14:27:32
 const LIVE_DATA = {
-  "updatedAt": "2026-04-03T10:08:34.411Z",
+  "updatedAt": "2026-04-03T14:27:32.067Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Volta de Sylvinho como substituto imediato de Dorival Júnior é aprovado pela torcida do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-sylvinho-como-substituto-imediato-de-dorival-junior-e-aprovado-pela-torcida-do-corinthians]]>",
+      "time": "03/04 · 13:52",
+      "pubDate": "Fri, 03 Apr 2026 10:52:28 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Bragantino em retorno à Fazendinha pelo Brasileirão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530212/corinthians-recebe-o-bragantino-em-retorno-a-fazendinha-pelo-brasileirao-feminino-saiba-tudo",
+      "title": "E o DM? Atacante do Corinthians tem lesão no reto femoral e zagueira segue em fortalecimento físico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530248/e-o-dm-atacante-do-corinthians-tem-lesao-no-reto-femoral-e-zagueira-segue-em-fortalecimento-fisico",
+      "time": "03/04 · 13:31",
+      "pubDate": "Fri, 03 Apr 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Magnus no Parque São Jorge pelo primeiro clássico na temporada; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530213/corinthians-recebe-o-magnus-pelo-primeiro-classico-na-temporada-saiba-tudo",
+      "time": "03/04 · 12:36",
+      "pubDate": "Fri, 03 Apr 2026 09:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians amplia sequência negativa e vê desempenho cair contra rivais da Série A",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-cai-contra-serie-a-e-amplia-sequencia-negativa-na-temporada]]>",
+      "time": "03/04 · 11:42",
+      "pubDate": "Fri, 03 Apr 2026 08:42:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Podemos confiar no Corinthians de Dorival Jr. na Libertadores da América?",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126974/podemos-confiar-no-corinthians-de-dorival-jr-na-libertadores-da-america",
+      "time": "03/04 · 11:42",
+      "pubDate": "Fri, 03 Apr 2026 08:42:17 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Red Bull Bragantino pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530217/saiba-onde-assistir-a-partida-entre-corinthians-e-red-bull-bragantino-pelo-brasileirao-feminino",
+      "time": "03/04 · 11:30",
+      "pubDate": "Fri, 03 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians estuda punição a Allan por expulsão e afastamento está nas mãos de Dorival Júnior",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-punicao-a-allan-por-expulsao-e-afastamento-esta-nas-maos-de-dorival-junior]]>",
+      "time": "03/04 · 11:09",
+      "pubDate": "Fri, 03 Apr 2026 08:09:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: cobrança no CT, pressão em Dorival e novo pedido de intervenção no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530230/ultimas-do-corinthians-cobranca-no-ct-pressao-em-dorival-e-novo-pedido-de-intervencao-no-clube",
+      "time": "03/04 · 10:30",
+      "pubDate": "Fri, 03 Apr 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o RB Bragantino em retorno à Fazendinha pelo Brasileirão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530212/corinthians-recebe-o-rb-bragantino-em-retorno-a-fazendinha-pelo-brasileirao-feminino-saiba-tudo",
       "time": "03/04 · 03:01",
       "pubDate": "Fri, 03 Apr 2026 00:01:00 -0300"
     },
@@ -25,46 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530152/corinthians-conhece-quarta-derrota-e-ve-retrospecto-piorar-contra-times-da-serie-a-em-2026",
       "time": "03/04 · 01:30",
       "pubDate": "Thu, 02 Apr 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians analisa a primeira derrota no Campeonato Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530184/tecnico-do-corinthians-analisa-a-primeira-derrota-no-campeonato-brasileiro-sub-20",
-      "time": "03/04 · 00:30",
-      "pubDate": "Thu, 02 Apr 2026 21:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians supera o Rio Claro em jogo equilibrado e volta a vencer no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530172/corinthians-supera-o-rio-claro-em-jogo-equilibrado-e-volta-a-vencer-no-nbb",
-      "time": "03/04 · 00:18",
-      "pubDate": "Thu, 02 Apr 2026 21:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians tem lesão constatada e passará por cirurgia no braço",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530226/meio-campista-do-corinthians-tem-lesao-constatada-e-passara-por-cirurgia-no-braco",
-      "time": "03/04 · 00:15",
-      "pubDate": "Thu, 02 Apr 2026 21:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians Sub-20 elogia Dieguinho e destaca evolução de dupla",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530186/tecnico-do-corinthians-sub-20-elogia-dieguinho-e-destaca-evolucao-de-dupla",
-      "time": "03/04 · 00:06",
-      "pubDate": "Thu, 02 Apr 2026 21:06:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians analisa a derrota para o Fluminense e fala sobre críticas da torcida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530178/meio-campista-do-corinthians-analisa-a-derrota-para-o-fluminense-e-fala-sobre-criticas-da-torcida",
-      "time": "02/04 · 23:31",
-      "pubDate": "Thu, 02 Apr 2026 20:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -93,14 +117,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Dorival Júnior está por um fio e técnico Plano A do Corinthians como substituto imediato não será Tite",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-esta-por-um-fio-e-tecnico-plano-a-do-corinthians-como-substituto-imediato-nao-sera-tite]]>",
-      "time": "02/04 · 18:35",
-      "pubDate": "Thu, 02 Apr 2026 15:35:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Neto culpa Memphis Depay pela falta de vontade do elenco do Corinthians: “o grande responsável disso”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-culpa-memphis-depay-pela-falta-de-vontade-do-elenco-do-corinthians-o-grande-responsavel-disso]]>",
       "time": "02/04 · 18:18",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-impressiona-nos-bastidores-do-corinthians-e-ganha-moral-com-comissao]]>",
       "time": "02/04 · 18:16",
       "pubDate": "Thu, 02 Apr 2026 15:16:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pode buscar até cinco reforços na janela de julho se Memphis Depay não renovar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-buscar-ate-cinco-reforcos-se-depay-nao-renovar]]>",
-      "time": "02/04 · 18:13",
-      "pubDate": "Thu, 02 Apr 2026 15:13:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival ganha respaldo do elenco, está tranquilo em caso de demissão e vê pressão política crescer no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-ganha-respaldo-do-elenco-esta-tranquilo-em-caso-de-demissao-e-ve-pressao-politica-crescer-no-corinthians]]>",
-      "time": "02/04 · 17:45",
-      "pubDate": "Thu, 02 Apr 2026 14:45:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Podemos confiar no Corinthians de Dorival Jr. na Libertadores da América?",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126974/podemos-confiar-no-corinthians-de-dorival-jr-na-libertadores-da-america",
+      "pubDate": "Fri, 03 Apr 2026 08:42:17 -0300",
+      "date": "03/04 · 11:42"
+    },
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Red Bull Bragantino pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530217/saiba-onde-assistir-a-partida-entre-corinthians-e-red-bull-bragantino-pelo-brasileirao-feminino",
+      "pubDate": "Fri, 03 Apr 2026 08:30:00 -0300",
+      "date": "03/04 · 11:30"
+    },
     {
       "title": "VÍDEO: Gaviões da Fiel se pronuncia após reunião com jogadores e comissão técnica do Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/126964/gavioes-da-fiel-se-pronuncia-apos-reuniao-com-jogadores-e-comissao-tecnica-do-corinthians",
