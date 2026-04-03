@@ -1,54 +1,118 @@
-// Gerado automaticamente em 03/04/2026, 14:27:32
+// Gerado automaticamente em 03/04/2026, 19:55:34
 const LIVE_DATA = {
-  "updatedAt": "2026-04-03T14:27:32.067Z",
+  "updatedAt": "2026-04-03T19:55:34.881Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians receberá homenagens antes de duelo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530268/dupla-do-corinthians-recebera-homenagens-antes-de-duelo-pelo-brasileirao-feminino",
+      "time": "03/04 · 19:50",
+      "pubDate": "Fri, 03 Apr 2026 16:50:37 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca repetir feito que não acontece desde reta final de 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530214/corinthians-busca-repetir-feito-que-nao-acontece-desde-reta-final-de-2025",
+      "time": "03/04 · 19:36",
+      "pubDate": "Fri, 03 Apr 2026 16:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz treino focado em trabalhos técnicos em preparação para enfrentar o Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530265/corinthians-faz-treino-focado-em-trabalhos-tecnicos-em-preparacao-para-enfrentar-o-internacional",
+      "time": "03/04 · 19:12",
+      "pubDate": "Fri, 03 Apr 2026 16:12:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Volta de Sylvinho como substituto imediato de Dorival Júnior é aprovado pela torcida do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-sylvinho-como-substituto-imediato-de-dorival-junior-e-aprovado-pela-torcida-do-corinthians]]>",
-      "time": "03/04 · 13:52",
-      "pubDate": "Fri, 03 Apr 2026 10:52:28 -0300"
+      "title": "Filipe Luís não é pauta no Corinthians e diretoria trabalha com outras alternativas no mercado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/filipe-luis-nao-e-pauta-no-corinthians-e-diretoria-trabalha-com-outras-alternativas-no-mercado]]>",
+      "time": "03/04 · 18:43",
+      "pubDate": "Fri, 03 Apr 2026 15:43:35 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André Hernan confirma bastidores e Corinthians decide punir Allan após expulsão por gesto obsceno",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-hernan-confirma-bastidores-e-corinthians-decide-punir-allan-apos-expulsao-por-gesto-obsceno]]>",
+      "time": "03/04 · 18:43",
+      "pubDate": "Fri, 03 Apr 2026 15:43:13 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "E o DM? Atacante do Corinthians tem lesão no reto femoral e zagueira segue em fortalecimento físico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530248/e-o-dm-atacante-do-corinthians-tem-lesao-no-reto-femoral-e-zagueira-segue-em-fortalecimento-fisico",
-      "time": "03/04 · 13:31",
-      "pubDate": "Fri, 03 Apr 2026 10:31:00 -0300"
+      "title": "William Batista analisa contratações do Corinthians e vê Sub-20 mais forte para a temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530185/william-batista-analisa-contratacoes-do-corinthians-e-ve-sub-20-mais-forte-para-a-temporada",
+      "time": "03/04 · 18:36",
+      "pubDate": "Fri, 03 Apr 2026 15:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Magnus no Parque São Jorge pelo primeiro clássico na temporada; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530213/corinthians-recebe-o-magnus-pelo-primeiro-classico-na-temporada-saiba-tudo",
-      "time": "03/04 · 12:36",
-      "pubDate": "Fri, 03 Apr 2026 09:36:00 -0300"
+      "title": "Atacante é convocada pelo Uruguai e amplia lista de desfalques do Corinthians para torneio nos EUA",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530263/atacante-e-convocada-pelo-uruguai-e-amplia-lista-de-desfalques-do-corinthians-para-torneio-nos-eua",
+      "time": "03/04 · 18:09",
+      "pubDate": "Fri, 03 Apr 2026 15:09:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians quer Marcelo Gallardo e não descarta fazer investida pelo ex-treinador do River Plate",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-marcelo-gallardo-e-nao-descarta-fazer-investida-pelo-ex-treinador-do-river-plate]]>",
+      "time": "03/04 · 18:01",
+      "pubDate": "Fri, 03 Apr 2026 15:01:25 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca evitar pior início na Liga Nacional de Futsal em dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530216/corinthians-busca-evitar-pior-inicio-na-liga-nacional-de-futsal-em-dois-anos",
+      "time": "03/04 · 17:31",
+      "pubDate": "Fri, 03 Apr 2026 14:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante é convocada pela Colômbia e vira o sétimo desfalque do Corinthians para a Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530260/atacante-e-convocada-pela-colombia-e-vira-o-setimo-desfalque-do-corinthians-para-a-teal-rising-cup",
+      "time": "03/04 · 17:04",
+      "pubDate": "Fri, 03 Apr 2026 14:04:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians amplia sequência negativa e vê desempenho cair contra rivais da Série A",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-cai-contra-serie-a-e-amplia-sequencia-negativa-na-temporada]]>",
-      "time": "03/04 · 11:42",
-      "pubDate": "Fri, 03 Apr 2026 08:42:45 -0300"
+      "time": "03/04 · 16:43",
+      "pubDate": "Fri, 03 Apr 2026 13:43:51 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Podemos confiar no Corinthians de Dorival Jr. na Libertadores da América?",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126974/podemos-confiar-no-corinthians-de-dorival-jr-na-libertadores-da-america",
-      "time": "03/04 · 11:42",
-      "pubDate": "Fri, 03 Apr 2026 08:42:17 -0300"
+      "title": "Técnico do Corinthians descarta 'créditos' do elenco e cobra regularidade em pontos corridos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530160/tecnico-do-corinthians-descarta-creditos-do-elenco-e-cobra-regularidade-em-pontos-corridos",
+      "time": "03/04 · 16:32",
+      "pubDate": "Fri, 03 Apr 2026 13:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Red Bull Bragantino pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530217/saiba-onde-assistir-a-partida-entre-corinthians-e-red-bull-bragantino-pelo-brasileirao-feminino",
-      "time": "03/04 · 11:30",
-      "pubDate": "Fri, 03 Apr 2026 08:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival está irritado com Osmar Stabile e vai mudar postura mesmo com risco de demissão no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-irritado-osmar-stabile-corinthians]]>",
+      "time": "03/04 · 15:18",
+      "pubDate": "Fri, 03 Apr 2026 12:18:25 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Volta de Sylvinho como substituto imediato de Dorival Júnior é aprovado pela torcida do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-sylvinho-como-substituto-imediato-de-dorival-junior-e-aprovado-pela-torcida-do-corinthians]]>",
+      "time": "03/04 · 14:29",
+      "pubDate": "Fri, 03 Apr 2026 11:29:44 -0300"
     },
     {
       "source": "Bolavip",
@@ -59,76 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 03 Apr 2026 08:09:57 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: cobrança no CT, pressão em Dorival e novo pedido de intervenção no clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530230/ultimas-do-corinthians-cobranca-no-ct-pressao-em-dorival-e-novo-pedido-de-intervencao-no-clube",
-      "time": "03/04 · 10:30",
-      "pubDate": "Fri, 03 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o RB Bragantino em retorno à Fazendinha pelo Brasileirão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530212/corinthians-recebe-o-rb-bragantino-em-retorno-a-fazendinha-pelo-brasileirao-feminino-saiba-tudo",
-      "time": "03/04 · 03:01",
-      "pubDate": "Fri, 03 Apr 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians termina rodada mais próximo da zona de rebaixamento do Brasileirão; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530224/corinthians-termina-rodada-mais-proximo-da-zona-de-rebaixamento-do-brasileirao-veja-a-tabela",
-      "time": "03/04 · 02:24",
-      "pubDate": "Thu, 02 Apr 2026 23:24:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece quarta derrota e vê retrospecto piorar contra times da Série A em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530152/corinthians-conhece-quarta-derrota-e-ve-retrospecto-piorar-contra-times-da-serie-a-em-2026",
-      "time": "03/04 · 01:30",
-      "pubDate": "Thu, 02 Apr 2026 22:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Osmar Stabile barra Vojvoda no Corinthians e diretoria vê o técnico sem cancha para suportar a pressão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-barra-vojvoda-corinthians-perde-forca]]>",
       "time": "02/04 · 21:29",
       "pubDate": "Thu, 02 Apr 2026 18:29:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior balança no Corinthians e Rizek critica postura do time: “Foi um atropelo”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-balanca-no-corinthians-e-rizek-critica-postura]]>",
-      "time": "02/04 · 20:23",
-      "pubDate": "Thu, 02 Apr 2026 17:23:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior opina sobre expulsão de Allan em Fluminense x Corinthians: “Tudo vai ser conversado”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-opina-sobre-expulsao-de-allan-em-fluminense-x-corinthians-tudo-vai-ser-conversado]]>",
-      "time": "02/04 · 19:31",
-      "pubDate": "Thu, 02 Apr 2026 16:31:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Neto culpa Memphis Depay pela falta de vontade do elenco do Corinthians: “o grande responsável disso”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-culpa-memphis-depay-pela-falta-de-vontade-do-elenco-do-corinthians-o-grande-responsavel-disso]]>",
-      "time": "02/04 · 18:18",
-      "pubDate": "Thu, 02 Apr 2026 15:18:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard impressiona nos bastidores do Corinthians e ganha moral com comissão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-impressiona-nos-bastidores-do-corinthians-e-ganha-moral-com-comissao]]>",
-      "time": "02/04 · 18:16",
-      "pubDate": "Thu, 02 Apr 2026 15:16:52 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530217/saiba-onde-assistir-a-partida-entre-corinthians-e-red-bull-bragantino-pelo-brasileirao-feminino",
       "pubDate": "Fri, 03 Apr 2026 08:30:00 -0300",
       "date": "03/04 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Gaviões da Fiel se pronuncia após reunião com jogadores e comissão técnica do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126964/gavioes-da-fiel-se-pronuncia-apos-reuniao-com-jogadores-e-comissao-tecnica-do-corinthians",
-      "pubDate": "Thu, 02 Apr 2026 12:59:28 -0300",
-      "date": "02/04 · 15:59"
     }
   ]
 };
