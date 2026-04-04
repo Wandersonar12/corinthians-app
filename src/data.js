@@ -1,7 +1,79 @@
-// Gerado automaticamente em 04/04/2026, 14:03:31
+// Gerado automaticamente em 04/04/2026, 19:45:17
 const LIVE_DATA = {
-  "updatedAt": "2026-04-04T14:03:31.144Z",
+  "updatedAt": "2026-04-04T19:45:17.457Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vic Albuquerque comenta fase artilheira na temporada e destaca feito histórico do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530300/vic-albuquerque-comenta-fase-artilheira-na-temporada-e-destaca-feito-historico-do-corinthians",
+      "time": "04/04 · 19:30",
+      "pubDate": "Sat, 04 Apr 2026 16:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vidente aponta energias positivas para o Corinthians em duelo contra o Internacional",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-aponta-energias-positivas-para-o-corinthians-em-duelo-contra-o-internacional]]>",
+      "time": "04/04 · 19:09",
+      "pubDate": "Sat, 04 Apr 2026 16:09:35 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Joia da base deve ser novidade entre os relacionados do Corinthians para jogo contra o Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530321/joia-da-base-deve-ser-novidade-entre-os-relacionados-do-corinthians-para-jogo-contra-o-internacional",
+      "time": "04/04 · 18:41",
+      "pubDate": "Sat, 04 Apr 2026 15:41:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians envia lista com 50 inscritos para a disputa da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530322/corinthians-envia-lista-com-50-inscritos-para-a-disputa-da-libertadores",
+      "time": "04/04 · 18:35",
+      "pubDate": "Sat, 04 Apr 2026 15:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra preparação para enfrentar o Internacional pelo Brasileirão; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530315/corinthians-encerra-preparacao-para-enfrentar-o-internacional-pelo-brasileirao-veja-o-provavel-time",
+      "time": "04/04 · 17:26",
+      "pubDate": "Sat, 04 Apr 2026 14:26:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia-atacante revelado pelo Corinthians anuncia aposentadoria e se despede do futebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530293/meia-atacante-revelado-pelo-corinthians-anuncia-aposentadoria-e-se-despede-do-futebol",
+      "time": "04/04 · 17:08",
+      "pubDate": "Sat, 04 Apr 2026 14:08:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico admite limitações financeiras no Corinthians, mas mantém meta ambiciosa na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530291/tecnico-admite-limitacoes-financeiras-no-corinthians-mas-mantem-meta-ambiciosa-na-temporada",
+      "time": "04/04 · 16:09",
+      "pubDate": "Sat, 04 Apr 2026 13:09:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Yuri Alberto revê segunda maior vítima e adversário de seu último hat-trick pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530266/yuri-alberto-reve-segunda-maior-vitima-e-adversario-de-seu-ultimo-hat-trick-pelo-corinthians",
+      "time": "04/04 · 15:07",
+      "pubDate": "Sat, 04 Apr 2026 12:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Treinadora do Corinthians avalia goleada sobre o Bragantino e aponta desempenho abaixo de lateral",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530304/treinadora-do-corinthians-avalia-goleada-sobre-o-bragantino-e-aponta-desempenho-abaixo-de-lateral",
+      "time": "04/04 · 14:09",
+      "pubDate": "Sat, 04 Apr 2026 11:09:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -19,22 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Apr 2026 10:09:47 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay retorna ao Brasil e dá sequência à recuperação de lesão no CT do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530310/memphis-depay-retorna-ao-brasil-e-da-sequencia-a-recuperacao-de-lesao-no-ct-do-corinthians",
-      "time": "04/04 · 13:07",
-      "pubDate": "Sat, 04 Apr 2026 10:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival Júnior reencontra adversário de estreia no Campeonato Brasileiro em 'Dia D' pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530267/dorival-junior-reencontra-adversario-de-estreia-no-campeonato-brasileiro-em-dia-d-pelo-corinthians",
-      "time": "04/04 · 12:32",
-      "pubDate": "Sat, 04 Apr 2026 09:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Cicinho dá palpite polêmico e crava tropeço do Corinthians contra o Internacional em Itaquera",
@@ -43,60 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Apr 2026 09:29:39 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o líder Pinheiros de olho nas quatro primeiras posições do NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530269/corinthians-recebe-o-lider-pinheiros-de-olho-nas-quatro-primeiras-posicoes-do-nbb-saiba-tudo",
-      "time": "04/04 · 11:30",
-      "pubDate": "Sat, 04 Apr 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória no feminino, acordo com Talleres e punição para volante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530283/ultimas-do-corinthians-vitoria-no-feminino-acordo-com-talleres-e-punicao-para-volante",
-      "time": "04/04 · 10:30",
-      "pubDate": "Sat, 04 Apr 2026 07:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Felipe Melo vai na contramão e defende Allan após expulsão no Corinthians: “Não pode mais errar”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/felipe-melo-vai-na-contramao-e-defende-allan-apos-expulsao-no-corinthians-nao-pode-mais-errar]]>",
       "time": "04/04 · 04:06",
       "pubDate": "Sat, 04 Apr 2026 01:06:20 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti ultrapassa Grazi e se torna a jogadora com mais jogos na história do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530279/gabi-zanotti-ultrapassa-grazi-e-se-torna-a-jogadora-com-mais-jogos-na-historia-do-corinthians",
-      "time": "04/04 · 02:07",
-      "pubDate": "Fri, 03 Apr 2026 23:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra a sexta rodada na liderança do Brasileirão Feminino; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530281/corinthians-encerra-a-sexta-rodada-na-lideranca-do-brasileirao-feminino",
-      "time": "04/04 · 02:04",
-      "pubDate": "Fri, 03 Apr 2026 23:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians atropela o Red Bull Bragantino e assume a liderança do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530282/corinthians-atropela-red-bull-bragantino-e-assume-lideranca-do-brasileirao-feminino",
-      "time": "04/04 · 01:53",
-      "pubDate": "Fri, 03 Apr 2026 22:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico da base rasga elogios para safra de goleiros no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530187/tecnico-do-sub-20-rasga-elogios-para-safra-de-goleiros-no-corinthians",
-      "time": "04/04 · 01:30",
-      "pubDate": "Fri, 03 Apr 2026 22:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/filipe-luis-nao-e-pauta-no-corinthians-e-diretoria-trabalha-com-outras-alternativas-no-mercado]]>",
       "time": "03/04 · 18:43",
       "pubDate": "Fri, 03 Apr 2026 15:43:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "André Hernan confirma bastidores e Corinthians decide punir Allan após expulsão por gesto obsceno",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-hernan-confirma-bastidores-e-corinthians-decide-punir-allan-apos-expulsao-por-gesto-obsceno]]>",
-      "time": "03/04 · 18:43",
-      "pubDate": "Fri, 03 Apr 2026 15:43:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Treinadora do Corinthians avalia goleada sobre o Bragantino e aponta desempenho abaixo de lateral",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530304/treinadora-do-corinthians-avalia-goleada-sobre-o-bragantino-e-aponta-desempenho-abaixo-de-lateral",
+      "pubDate": "Sat, 04 Apr 2026 11:09:00 -0300",
+      "date": "04/04 · 14:09"
+    },
     {
       "title": "Técnico da base rasga elogios para safra de goleiros no Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530187/tecnico-do-sub-20-rasga-elogios-para-safra-de-goleiros-no-corinthians",
