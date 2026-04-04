@@ -1,62 +1,86 @@
-// Gerado automaticamente em 03/04/2026, 23:05:13
+// Gerado automaticamente em 04/04/2026, 09:57:11
 const LIVE_DATA = {
-  "updatedAt": "2026-04-03T23:05:13.841Z",
+  "updatedAt": "2026-04-04T09:57:11.711Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Red Bull Bragantino pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530257/corinthians-esta-escalado-para-enfrentar-o-red-bull-bragantino-pelo-brasileirao-feminino",
-      "time": "03/04 · 23:00",
-      "pubDate": "Fri, 03 Apr 2026 20:00:45 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Felipe Melo vai na contramão e defende Allan após expulsão no Corinthians: “Não pode mais errar”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/felipe-melo-vai-na-contramao-e-defende-allan-apos-expulsao-no-corinthians-nao-pode-mais-errar]]>",
+      "time": "04/04 · 04:06",
+      "pubDate": "Sat, 04 Apr 2026 01:06:20 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Levantamento mostra desempenho regular de novos contratados do Corinthians em suas estreias no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/528923/levantamento-mostra-desempenho-regular-de-novos-contratados-do-corinthians-em-suas-estreias-no-ano",
-      "time": "03/04 · 22:31",
-      "pubDate": "Fri, 03 Apr 2026 19:31:00 -0300"
+      "title": "Gabi Zanotti ultrapassa Grazi e se torna a jogadora com mais jogos na história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530279/gabi-zanotti-ultrapassa-grazi-e-se-torna-a-jogadora-com-mais-jogos-na-historia-do-corinthians",
+      "time": "04/04 · 02:07",
+      "pubDate": "Fri, 03 Apr 2026 23:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians mantém tabu no Brasileiro Sub-20 após derrota para o Fortaleza",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530113/corinthians-mantem-tabu-no-brasileiro-sub-20-apos-derrota-para-o-fortaleza",
-      "time": "03/04 · 21:28",
-      "pubDate": "Fri, 03 Apr 2026 18:28:00 -0300"
+      "title": "Corinthians encerra a sexta rodada na liderança do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530281/corinthians-encerra-a-sexta-rodada-na-lideranca-do-brasileirao-feminino",
+      "time": "04/04 · 02:04",
+      "pubDate": "Fri, 03 Apr 2026 23:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Corinthians garante Dorival Júnior no cargo e descarta intervenção judicial no clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530251/presidente-do-corinthians-garante-dorival-junior-no-cargo-e-descarta-intervencao-judicial-no-clube",
-      "time": "03/04 · 21:00",
-      "pubDate": "Fri, 03 Apr 2026 18:00:00 -0300"
+      "title": "Corinthians atropela Red Bull Bragantino e assume liderança do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530282/corinthians-atropela-red-bull-bragantino-e-assume-lideranca-do-brasileirao-feminino",
+      "time": "04/04 · 01:53",
+      "pubDate": "Fri, 03 Apr 2026 22:53:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians abre venda de ingressos para duelo contra o Tarumã pelo Brasileirão Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530271/corinthians-abre-venda-de-ingressos-para-duelo-contra-o-taruma-pelo-brasileirao-feminino-sub-20",
-      "time": "03/04 · 20:43",
-      "pubDate": "Fri, 03 Apr 2026 17:43:00 -0300"
+      "title": "Técnico da base rasga elogios para safra de goleiros no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530187/tecnico-do-sub-20-rasga-elogios-para-safra-de-goleiros-no-corinthians",
+      "time": "04/04 · 01:30",
+      "pubDate": "Fri, 03 Apr 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians possui baixo desempenho no Brasileirão sob o comando de Dorival Júnior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530211/corinthians-possui-baixo-desempenho-no-brasileirao-sob-o-comando-de-dorival-junior",
-      "time": "03/04 · 20:37",
-      "pubDate": "Fri, 03 Apr 2026 17:37:00 -0300"
+      "title": "Volante do Corinthians encerra sequência de cinco jogos sem entrar em campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530241/volante-do-corinthians-encerra-sequencia-de-cinco-jogos-sem-entrar-em-campo",
+      "time": "04/04 · 00:35",
+      "pubDate": "Fri, 03 Apr 2026 21:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians avalia punição para Allan por expulsão após gesto obsceno",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530270/corinthians-avalia-punicao-para-allan-por-expulsao-apos-gesto-obsceno",
-      "time": "03/04 · 20:28",
-      "pubDate": "Fri, 03 Apr 2026 17:28:33 -0300"
+      "title": "Corinthians supera o Magnus em excelente segundo tempo e conquista primeira vitória na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530174/corinthians-supera-o-magnus-em-excelente-segundo-tempo-e-conquista-primeira-vitoria-na-lnf",
+      "time": "04/04 · 00:15",
+      "pubDate": "Fri, 03 Apr 2026 21:15:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay sugere treinador europeu caso Dorival Júnior seja demitido e Corinthians analisa o indicado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sugere-treinador-europeu-caso-dorival-junior-seja-demitido-e-corinthians-analisa-o-indicado]]>",
+      "time": "03/04 · 23:44",
+      "pubDate": "Fri, 03 Apr 2026 20:44:29 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zanotti e Vic Albuquerque recebem camisas e placas personalizadas por marca histórica no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530278/zanotti-e-vic-albuquerque-recebem-camisas-e-placas-personalizadas-por-marca-historica-no-corinthians",
+      "time": "03/04 · 23:33",
+      "pubDate": "Fri, 03 Apr 2026 20:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-jogador defende volante do Corinthians após expulsão contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530243/ex-jogador-defende-volante-do-corinthians-apos-expulsao-contra-o-fluminense",
+      "time": "03/04 · 23:30",
+      "pubDate": "Fri, 03 Apr 2026 20:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-tite-e-filipe-luis-sao-opcoes-discutidas-no-corinthians-em-caso-de-demissao-de-dorival]]>",
       "time": "03/04 · 20:24",
       "pubDate": "Fri, 03 Apr 2026 17:24:09 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabriel Paulista exibe tatuagem em homenagem ao título da Supercopa pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530256/gabriel-paulista-exibe-tatuagem-em-homenagem-ao-titulo-da-supercopa-pelo-corinthians",
-      "time": "03/04 · 20:02",
-      "pubDate": "Fri, 03 Apr 2026 17:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,14 +117,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians amplia sequência negativa e vê desempenho cair contra rivais da Série A",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-cai-contra-serie-a-e-amplia-sequencia-negativa-na-temporada]]>",
-      "time": "03/04 · 16:43",
-      "pubDate": "Fri, 03 Apr 2026 13:43:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Dorival está irritado com Osmar Stabile e vai mudar postura mesmo com risco de demissão no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-irritado-osmar-stabile-corinthians]]>",
       "time": "03/04 · 15:18",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-sylvinho-como-substituto-imediato-de-dorival-junior-e-aprovado-pela-torcida-do-corinthians]]>",
       "time": "03/04 · 14:29",
       "pubDate": "Fri, 03 Apr 2026 11:29:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians estuda punição a Allan por expulsão e afastamento está nas mãos de Dorival Júnior",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-punicao-a-allan-por-expulsao-e-afastamento-esta-nas-maos-de-dorival-junior]]>",
-      "time": "03/04 · 11:09",
-      "pubDate": "Fri, 03 Apr 2026 08:09:57 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,10 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "VÍDEO: Podemos confiar no Corinthians de Dorival Jr. na Libertadores da América?",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/126974/podemos-confiar-no-corinthians-de-dorival-jr-na-libertadores-da-america",
-      "pubDate": "Fri, 03 Apr 2026 08:42:17 -0300",
-      "date": "03/04 · 11:42"
-    },
-    {
-      "title": "Saiba onde assistir à partida entre Corinthians e Red Bull Bragantino pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530217/saiba-onde-assistir-a-partida-entre-corinthians-e-red-bull-bragantino-pelo-brasileirao-feminino",
-      "pubDate": "Fri, 03 Apr 2026 08:30:00 -0300",
-      "date": "03/04 · 11:30"
+      "title": "Técnico da base rasga elogios para safra de goleiros no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530187/tecnico-do-sub-20-rasga-elogios-para-safra-de-goleiros-no-corinthians",
+      "pubDate": "Fri, 03 Apr 2026 22:30:00 -0300",
+      "date": "04/04 · 01:30"
     }
   ]
 };
