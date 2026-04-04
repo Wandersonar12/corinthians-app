@@ -1,7 +1,63 @@
-// Gerado automaticamente em 04/04/2026, 09:57:11
+// Gerado automaticamente em 04/04/2026, 14:03:31
 const LIVE_DATA = {
-  "updatedAt": "2026-04-04T09:57:11.711Z",
+  "updatedAt": "2026-04-04T14:03:31.144Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vê fator emocional pesar e preocupa para sequência decisiva",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-fator-emocional-pesar-e-preocupa-para-sequencia-decisiva]]>",
+      "time": "04/04 · 13:10",
+      "pubDate": "Sat, 04 Apr 2026 10:10:28 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Internacional: onde assistir ao vivo, horário e prováveis escalações pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-internacional-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-pelo-brasileirao]]>",
+      "time": "04/04 · 13:09",
+      "pubDate": "Sat, 04 Apr 2026 10:09:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis Depay retorna ao Brasil e dá sequência à recuperação de lesão no CT do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530310/memphis-depay-retorna-ao-brasil-e-da-sequencia-a-recuperacao-de-lesao-no-ct-do-corinthians",
+      "time": "04/04 · 13:07",
+      "pubDate": "Sat, 04 Apr 2026 10:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dorival Júnior reencontra adversário de estreia no Campeonato Brasileiro em 'Dia D' pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530267/dorival-junior-reencontra-adversario-de-estreia-no-campeonato-brasileiro-em-dia-d-pelo-corinthians",
+      "time": "04/04 · 12:32",
+      "pubDate": "Sat, 04 Apr 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Cicinho dá palpite polêmico e crava tropeço do Corinthians contra o Internacional em Itaquera",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cicinho-da-palpite-polemico-e-crava-tropeco-do-corinthians-contra-o-internacional-em-itaquera]]>",
+      "time": "04/04 · 12:29",
+      "pubDate": "Sat, 04 Apr 2026 09:29:39 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o líder Pinheiros de olho nas quatro primeiras posições do NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530269/corinthians-recebe-o-lider-pinheiros-de-olho-nas-quatro-primeiras-posicoes-do-nbb-saiba-tudo",
+      "time": "04/04 · 11:30",
+      "pubDate": "Sat, 04 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: vitória no feminino, acordo com Talleres e punição para volante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530283/ultimas-do-corinthians-vitoria-no-feminino-acordo-com-talleres-e-punicao-para-volante",
+      "time": "04/04 · 10:30",
+      "pubDate": "Sat, 04 Apr 2026 07:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -21,7 +77,7 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra a sexta rodada na liderança do Brasileirão Feminino",
+      "title": "Corinthians encerra a sexta rodada na liderança do Brasileirão Feminino; veja a tabela",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530281/corinthians-encerra-a-sexta-rodada-na-lideranca-do-brasileirao-feminino",
       "time": "04/04 · 02:04",
       "pubDate": "Fri, 03 Apr 2026 23:04:00 -0300"
@@ -29,7 +85,7 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians atropela Red Bull Bragantino e assume liderança do Brasileirão Feminino",
+      "title": "Corinthians atropela o Red Bull Bragantino e assume a liderança do Brasileirão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530282/corinthians-atropela-red-bull-bragantino-e-assume-lideranca-do-brasileirao-feminino",
       "time": "04/04 · 01:53",
       "pubDate": "Fri, 03 Apr 2026 22:53:00 -0300"
@@ -43,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 03 Apr 2026 22:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians encerra sequência de cinco jogos sem entrar em campo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530241/volante-do-corinthians-encerra-sequencia-de-cinco-jogos-sem-entrar-em-campo",
-      "time": "04/04 · 00:35",
-      "pubDate": "Fri, 03 Apr 2026 21:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians supera o Magnus em excelente segundo tempo e conquista primeira vitória na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530174/corinthians-supera-o-magnus-em-excelente-segundo-tempo-e-conquista-primeira-vitoria-na-lnf",
-      "time": "04/04 · 00:15",
-      "pubDate": "Fri, 03 Apr 2026 21:15:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay sugere treinador europeu caso Dorival Júnior seja demitido e Corinthians analisa o indicado",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sugere-treinador-europeu-caso-dorival-junior-seja-demitido-e-corinthians-analisa-o-indicado]]>",
       "time": "03/04 · 23:44",
       "pubDate": "Fri, 03 Apr 2026 20:44:29 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zanotti e Vic Albuquerque recebem camisas e placas personalizadas por marca histórica no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530278/zanotti-e-vic-albuquerque-recebem-camisas-e-placas-personalizadas-por-marca-historica-no-corinthians",
-      "time": "03/04 · 23:33",
-      "pubDate": "Fri, 03 Apr 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-jogador defende volante do Corinthians após expulsão contra o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530243/ex-jogador-defende-volante-do-corinthians-apos-expulsao-contra-o-fluminense",
-      "time": "03/04 · 23:30",
-      "pubDate": "Fri, 03 Apr 2026 20:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-hernan-confirma-bastidores-e-corinthians-decide-punir-allan-apos-expulsao-por-gesto-obsceno]]>",
       "time": "03/04 · 18:43",
       "pubDate": "Fri, 03 Apr 2026 15:43:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians quer Marcelo Gallardo e não descarta fazer investida pelo ex-treinador do River Plate",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-marcelo-gallardo-e-nao-descarta-fazer-investida-pelo-ex-treinador-do-river-plate]]>",
-      "time": "03/04 · 18:01",
-      "pubDate": "Fri, 03 Apr 2026 15:01:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival está irritado com Osmar Stabile e vai mudar postura mesmo com risco de demissão no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-irritado-osmar-stabile-corinthians]]>",
-      "time": "03/04 · 15:18",
-      "pubDate": "Fri, 03 Apr 2026 12:18:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Volta de Sylvinho como substituto imediato de Dorival Júnior é aprovado pela torcida do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-sylvinho-como-substituto-imediato-de-dorival-junior-e-aprovado-pela-torcida-do-corinthians]]>",
-      "time": "03/04 · 14:29",
-      "pubDate": "Fri, 03 Apr 2026 11:29:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
