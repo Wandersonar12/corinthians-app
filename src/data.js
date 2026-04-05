@@ -1,38 +1,86 @@
-// Gerado automaticamente em 05/04/2026, 14:04:35
+// Gerado automaticamente em 05/04/2026, 19:50:21
 const LIVE_DATA = {
-  "updatedAt": "2026-04-05T14:04:35.369Z",
+  "updatedAt": "2026-04-05T19:50:21.612Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Família de jogador do Corinthians promove distribuição de chocolates no interior de São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530323/familia-de-jogador-do-corinthians-promove-distribuicao-de-chocolates-no-interior-de-sao-paulo",
-      "time": "05/04 · 13:32",
-      "pubDate": "Sun, 05 Apr 2026 10:32:00 -0300"
+      "title": "Corinthians busca manter vantagem em retrospecto diante do Internacional; veja números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530352/corinthians-busca-manter-vantagem-em-retrospecto-diante-do-internacional-veja-numeros",
+      "time": "05/04 · 19:30",
+      "pubDate": "Sun, 05 Apr 2026 16:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hat-trick de Yuri Alberto marcou última vitória do Corinthians sobre o Internacional na Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hat-trick-de-yuri-alberto-marcou-ultima-vitoria-do-corinthians-sobre-o-internacional-na-neo-quimica-arena]]>",
+      "time": "05/04 · 19:10",
+      "pubDate": "Sun, 05 Apr 2026 16:10:17 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Clima leve e foco em melhora marcam bastidores da goleada do Corinthians no Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530339/clima-leve-e-foco-em-melhora-marcam-bastidores-da-goleada-do-corinthians-no-brasileirao-feminino",
-      "time": "05/04 · 13:00",
-      "pubDate": "Sun, 05 Apr 2026 10:00:00 -0300"
+      "title": "Fixo do Corinthians fala sobre novas lideranças no elenco e elogia atletas promovidos da base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530290/fixo-do-corinthians-fala-sobre-novas-liderancas-no-elenco-e-elogia-atletas-promovidos-da-base",
+      "time": "05/04 · 18:32",
+      "pubDate": "Sun, 05 Apr 2026 15:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Tarumã pela última rodada da fase de grupos do Brasileiro Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530336/corinthians-recebe-o-taruma-pela-ultima-rodada-da-fase-de-grupos-do-brasileiro-feminino-sub-20",
-      "time": "05/04 · 12:33",
-      "pubDate": "Sun, 05 Apr 2026 09:33:00 -0300"
+      "title": "Corinthians pode subir até sete posições na tabela em caso de vitória diante do Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530350/corinthians-pode-subir-ate-sete-posicoes-na-tabela-em-caso-de-vitoria-diante-do-internacional",
+      "time": "05/04 · 17:30",
+      "pubDate": "Sun, 05 Apr 2026 14:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba qual a única opção para assistir ao confronto entre Corinthians e Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530325/saiba-qual-a-unica-opcao-para-assistir-ao-confronto-entre-corinthians-e-internacional",
-      "time": "05/04 · 11:30",
-      "pubDate": "Sun, 05 Apr 2026 08:30:00 -0300"
+      "title": "IA projeta resultado do confronto entre Corinthians e Internacional na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530348/ia-projeta-resultado-do-confronto-entre-corinthians-e-internacional-na-neo-quimica-arena",
+      "time": "05/04 · 17:00",
+      "pubDate": "Sun, 05 Apr 2026 14:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians deve ter oito desfalques e seis pendurados para confronto diante do Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530346/corinthians-deve-ter-oitodesfalques-eseis-pendurados-para-confronto-diante-do-internacional",
+      "time": "05/04 · 16:30",
+      "pubDate": "Sun, 05 Apr 2026 13:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Páscoa alvinegra: relembre os maiores 'chocolates' da história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530347/pascoa-alvinegra-relembre-os-maiores-chocolates-da-historia-do-corinthians",
+      "time": "05/04 · 16:05",
+      "pubDate": "Sun, 05 Apr 2026 13:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians reforça importância de trabalho em grupo após mais uma goleada das Brabas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530308/tecnica-do-corinthians-reforca-importancia-de-trabalho-em-grupo-apos-mais-uma-goleada-das-brabas",
+      "time": "05/04 · 15:35",
+      "pubDate": "Sun, 05 Apr 2026 12:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Enquete aponta maioria da torcida a favor da demissão de Dorival Júnior no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530351/enquete-aponta-maioria-da-torcida-a-favor-da-demissao-de-dorival-junior-no-corinthians",
+      "time": "05/04 · 15:02",
+      "pubDate": "Sun, 05 Apr 2026 12:02:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Paulo Pezzolano pode apostar em time que já venceu fora de casa em Corinthians x Internacional",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/paulo-pezzolano-pode-apostar-em-time-que-ja-venceu-fora-de-casa-em-corinthians-x-internacional]]>",
+      "time": "05/04 · 14:13",
+      "pubDate": "Sun, 05 Apr 2026 11:13:11 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 05 Apr 2026 08:00:37 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: time contra o Internacional, retorno de Memphis e novidade no banco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530338/ultimas-do-corinthians-time-contra-o-internacional-retorno-de-memphis-e-novidade-no-banco",
-      "time": "05/04 · 10:30",
-      "pubDate": "Sun, 05 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Internacional querendo quebrar jejum de vitórias; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530324/corinthians-recebe-o-internacional-querendo-quebrar-jejum-de-vitorias-saiba-tudo",
-      "time": "05/04 · 03:01",
-      "pubDate": "Sun, 05 Apr 2026 00:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Angileri ganha chance e destaca desafio do Corinthians contra o Internacional: “Jogo muito difícil”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/angileri-ganha-chance-e-destaca-desafio-do-corinthians-contra-o-internacional-jogo-muito-dificil]]>",
       "time": "05/04 · 02:09",
       "pubDate": "Sat, 04 Apr 2026 23:09:11 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians detalha gestão de elenco no futsal e admite que não vai receber mais reforços",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530292/tecnico-do-corinthians-detalha-gestao-de-elenco-no-futsal-e-admite-que-nao-vai-receber-mais-reforcos",
-      "time": "05/04 · 01:30",
-      "pubDate": "Sat, 04 Apr 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante emprestado pelo Corinthians marca primeiro gol pelo Fortaleza; saiba como foi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530335/volante-emprestado-pelo-corinthians-marca-primeiro-gol-pelo-fortaleza-saiba-como-foi",
-      "time": "05/04 · 01:03",
-      "pubDate": "Sat, 04 Apr 2026 22:03:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -109,26 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians vê fator emocional pesar e preocupa para sequência decisiva",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-fator-emocional-pesar-e-preocupa-para-sequencia-decisiva]]>",
-      "time": "04/04 · 13:10",
-      "pubDate": "Sat, 04 Apr 2026 10:10:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians x Internacional: onde assistir ao vivo, horário e prováveis escalações pelo Brasileirão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-internacional-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-pelo-brasileirao]]>",
       "time": "04/04 · 13:09",
       "pubDate": "Sat, 04 Apr 2026 10:09:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Cicinho dá palpite polêmico e crava tropeço do Corinthians contra o Internacional em Itaquera",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cicinho-da-palpite-polemico-e-crava-tropeco-do-corinthians-contra-o-internacional-em-itaquera]]>",
-      "time": "04/04 · 12:29",
-      "pubDate": "Sat, 04 Apr 2026 09:29:39 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Técnica do Corinthians reforça importância de trabalho em grupo após mais uma goleada das Brabas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530308/tecnica-do-corinthians-reforca-importancia-de-trabalho-em-grupo-apos-mais-uma-goleada-das-brabas",
+      "pubDate": "Sun, 05 Apr 2026 12:35:00 -0300",
+      "date": "05/04 · 15:35"
+    },
+    {
       "title": "Clima leve e foco em melhora marcam bastidores da goleada do Corinthians no Brasileirão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530339/clima-leve-e-foco-em-melhora-marcam-bastidores-da-goleada-do-corinthians-no-brasileirao-feminino",
       "pubDate": "Sun, 05 Apr 2026 10:00:00 -0300",
@@ -234,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530289/fixo-do-corinthians-celebra-gol-contra-o-magnus-apos-periodo-afastado-por-grave-lesao",
       "pubDate": "Sat, 04 Apr 2026 18:33:00 -0300",
       "date": "04/04 · 21:33"
-    },
-    {
-      "title": "Treinadora do Corinthians avalia goleada sobre o Bragantino e aponta desempenho abaixo de lateral",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530304/treinadora-do-corinthians-avalia-goleada-sobre-o-bragantino-e-aponta-desempenho-abaixo-de-lateral",
-      "pubDate": "Sat, 04 Apr 2026 11:09:00 -0300",
-      "date": "04/04 · 14:09"
     }
   ]
 };
