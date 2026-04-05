@@ -1,7 +1,39 @@
-// Gerado automaticamente em 05/04/2026, 19:50:21
+// Gerado automaticamente em 05/04/2026, 23:04:09
 const LIVE_DATA = {
-  "updatedAt": "2026-04-05T19:50:21.612Z",
+  "updatedAt": "2026-04-05T23:04:09.503Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Estádio do Corinthians avança na instalação da estátua de São Jorge e se aproxima de inauguração",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530370/estadio-do-corinthians-avanca-na-instalacao-da-estatua-de-sao-jorge-e-se-aproxima-de-inauguracao",
+      "time": "05/04 · 22:15",
+      "pubDate": "Sun, 05 Apr 2026 19:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Tarumã e garante ida às quartas de final do Brasileirão Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530367/corinthians-vence-o-taruma-e-garante-ida-as-quartas-de-final-do-brasileirao-feminino-sub-20",
+      "time": "05/04 · 21:32",
+      "pubDate": "Sun, 05 Apr 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado para enfrentar o Internacional na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530358/corinthians-esta-escalado-para-enfrentar-o-internacional-na-neo-quimica-arena",
+      "time": "05/04 · 21:31",
+      "pubDate": "Sun, 05 Apr 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Ao vivo &#128308; Corinthians x Internacional | Narração e Imagens da NQA | 10ª rodada | BR 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126988/ao-vivo-corinthians-x-internacional-narracao-e-imagens-da-nqa-10-rodada-br-2026",
+      "time": "05/04 · 19:30",
+      "pubDate": "Sun, 05 Apr 2026 16:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -41,38 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530348/ia-projeta-resultado-do-confronto-entre-corinthians-e-internacional-na-neo-quimica-arena",
       "time": "05/04 · 17:00",
       "pubDate": "Sun, 05 Apr 2026 14:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians deve ter oito desfalques e seis pendurados para confronto diante do Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530346/corinthians-deve-ter-oitodesfalques-eseis-pendurados-para-confronto-diante-do-internacional",
-      "time": "05/04 · 16:30",
-      "pubDate": "Sun, 05 Apr 2026 13:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Páscoa alvinegra: relembre os maiores 'chocolates' da história do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530347/pascoa-alvinegra-relembre-os-maiores-chocolates-da-historia-do-corinthians",
-      "time": "05/04 · 16:05",
-      "pubDate": "Sun, 05 Apr 2026 13:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians reforça importância de trabalho em grupo após mais uma goleada das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530308/tecnica-do-corinthians-reforca-importancia-de-trabalho-em-grupo-apos-mais-uma-goleada-das-brabas",
-      "time": "05/04 · 15:35",
-      "pubDate": "Sun, 05 Apr 2026 12:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Enquete aponta maioria da torcida a favor da demissão de Dorival Júnior no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530351/enquete-aponta-maioria-da-torcida-a-favor-da-demissao-de-dorival-junior-no-corinthians",
-      "time": "05/04 · 15:02",
-      "pubDate": "Sun, 05 Apr 2026 12:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Ao vivo &#128308; Corinthians x Internacional | Narração e Imagens da NQA | 10ª rodada | BR 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/126988/ao-vivo-corinthians-x-internacional-narracao-e-imagens-da-nqa-10-rodada-br-2026",
+      "pubDate": "Sun, 05 Apr 2026 16:30:00 -0300",
+      "date": "05/04 · 19:30"
+    },
     {
       "title": "Técnica do Corinthians reforça importância de trabalho em grupo após mais uma goleada das Brabas",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530308/tecnica-do-corinthians-reforca-importancia-de-trabalho-em-grupo-apos-mais-uma-goleada-das-brabas",
