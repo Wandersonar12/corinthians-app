@@ -1,14 +1,70 @@
-// Gerado automaticamente em 04/04/2026, 23:02:22
+// Gerado automaticamente em 05/04/2026, 10:00:06
 const LIVE_DATA = {
-  "updatedAt": "2026-04-04T23:02:22.513Z",
+  "updatedAt": "2026-04-05T10:00:06.388Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Internacional querendo quebrar jejum de vitórias; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530324/corinthians-recebe-o-internacional-querendo-quebrar-jejum-de-vitorias-saiba-tudo",
+      "time": "05/04 · 03:01",
+      "pubDate": "Sun, 05 Apr 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Angileri ganha chance e destaca desafio do Corinthians contra o Internacional: “Jogo muito difícil”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/angileri-ganha-chance-e-destaca-desafio-do-corinthians-contra-o-internacional-jogo-muito-dificil]]>",
+      "time": "05/04 · 02:09",
+      "pubDate": "Sat, 04 Apr 2026 23:09:11 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians detalha gestão de elenco no futsal e admite que não vai receber mais reforços",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530292/tecnico-do-corinthians-detalha-gestao-de-elenco-no-futsal-e-admite-que-nao-vai-receber-mais-reforcos",
+      "time": "05/04 · 01:30",
+      "pubDate": "Sat, 04 Apr 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante emprestado pelo Corinthians marca primeiro gol pelo Fortaleza; saiba como foi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530335/volante-emprestado-pelo-corinthians-marca-primeiro-gol-pelo-fortaleza-saiba-como-foi",
+      "time": "05/04 · 01:03",
+      "pubDate": "Sat, 04 Apr 2026 22:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vic Albuquerque comemora retorno do Corinthians à Fazendinha após dez meses de interdição",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530303/vic-albuquerque-comemora-retorno-do-corinthians-a-fazendinha-apos-dez-meses-de-interdicao",
+      "time": "05/04 · 00:29",
+      "pubDate": "Sat, 04 Apr 2026 21:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians comenta objetivos na LNF e papel de liderança no grupo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530286/goleiro-do-corinthians-comenta-objetivos-na-lnf-e-papel-de-lideranca-no-grupo",
+      "time": "05/04 · 00:00",
+      "pubDate": "Sat, 04 Apr 2026 21:00:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Escalação do Corinthians: Dorival Júnior prepara cinco alterações para enfrentar o Internacional",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-dorival-junior-prepara-cinco-alteracoes-para-enfrentar-o-internacional]]>",
-      "time": "04/04 · 23:01",
-      "pubDate": "Sat, 04 Apr 2026 20:01:11 -0300"
+      "time": "04/04 · 23:51",
+      "pubDate": "Sat, 04 Apr 2026 20:51:49 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians exalta melhorias e valoriza projeto de CT exclusivo para a equipe feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530305/tecnica-do-corinthians-exalta-melhorias-e-valoriza-projeto-de-ct-exclusivo-para-a-equipe-feminina",
+      "time": "04/04 · 23:27",
+      "pubDate": "Sat, 04 Apr 2026 20:27:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,60 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Apr 2026 18:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se recupera contra o Pinheiros e bate atual líder do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530326/corinthians-se-recupera-contra-o-pinheiros-e-bate-atual-lider-do-nbb",
-      "time": "04/04 · 21:05",
-      "pubDate": "Sat, 04 Apr 2026 18:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Angileri projeta confronto do Corinthians contra o Internacional e pede o apoio da torcida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530317/angileri-projeta-confronto-do-corinthians-contra-o-internacional-e-pede-o-apoio-da-torcida",
-      "time": "04/04 · 21:02",
-      "pubDate": "Sat, 04 Apr 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Você é favorável à possível demissão de Dorival Júnior no Corinthians? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530273/voce-e-favoravel-a-possivel-demissao-de-dorival-junior-no-corinthians-vote-na-enquete-do-meu-timao",
-      "time": "04/04 · 20:35",
-      "pubDate": "Sat, 04 Apr 2026 17:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians lança coleção em homenagem ao legado de Sabotage; confira detalhes das peças",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530316/corinthians-lanca-colecao-em-homenagem-ao-legado-de-sabotage-confira-detalhes-das-pecas",
-      "time": "04/04 · 20:04",
-      "pubDate": "Sat, 04 Apr 2026 17:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vic Albuquerque comenta fase artilheira na temporada e destaca feito histórico do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530300/vic-albuquerque-comenta-fase-artilheira-na-temporada-e-destaca-feito-historico-do-corinthians",
-      "time": "04/04 · 19:30",
-      "pubDate": "Sat, 04 Apr 2026 16:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Vidente aponta energias positivas para o Corinthians em duelo contra o Internacional",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-aponta-energias-positivas-para-o-corinthians-em-duelo-contra-o-internacional]]>",
       "time": "04/04 · 19:09",
       "pubDate": "Sat, 04 Apr 2026 16:09:35 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Joia da base deve ser novidade entre os relacionados do Corinthians para jogo contra o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530321/joia-da-base-deve-ser-novidade-entre-os-relacionados-do-corinthians-para-jogo-contra-o-internacional",
-      "time": "04/04 · 18:41",
-      "pubDate": "Sat, 04 Apr 2026 15:41:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/felipe-melo-vai-na-contramao-e-defende-allan-apos-expulsao-no-corinthians-nao-pode-mais-errar]]>",
       "time": "04/04 · 04:06",
       "pubDate": "Sat, 04 Apr 2026 01:06:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay sugere treinador europeu caso Dorival Júnior seja demitido e Corinthians analisa o indicado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sugere-treinador-europeu-caso-dorival-junior-seja-demitido-e-corinthians-analisa-o-indicado]]>",
-      "time": "03/04 · 23:44",
-      "pubDate": "Fri, 03 Apr 2026 20:44:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Volante emprestado pelo Corinthians marca primeiro gol pelo Fortaleza; saiba como foi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530335/volante-emprestado-pelo-corinthians-marca-primeiro-gol-pelo-fortaleza-saiba-como-foi",
+      "pubDate": "Sat, 04 Apr 2026 22:03:00 -0300",
+      "date": "05/04 · 01:03"
+    },
+    {
+      "title": "Goleiro do Corinthians comenta objetivos na LNF e papel de liderança no grupo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530286/goleiro-do-corinthians-comenta-objetivos-na-lnf-e-papel-de-lideranca-no-grupo",
+      "pubDate": "Sat, 04 Apr 2026 21:00:00 -0300",
+      "date": "05/04 · 00:00"
+    },
     {
       "title": "Gabi Zanotti se aproxima dos 100 gols pelo Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530313/gabi-zanotti-se-aproxima-dos-100-gols-pelo-corinthians",
