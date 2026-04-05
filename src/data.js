@@ -1,7 +1,55 @@
-// Gerado automaticamente em 05/04/2026, 10:00:06
+// Gerado automaticamente em 05/04/2026, 14:04:35
 const LIVE_DATA = {
-  "updatedAt": "2026-04-05T10:00:06.388Z",
+  "updatedAt": "2026-04-05T14:04:35.369Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Família de jogador do Corinthians promove distribuição de chocolates no interior de São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530323/familia-de-jogador-do-corinthians-promove-distribuicao-de-chocolates-no-interior-de-sao-paulo",
+      "time": "05/04 · 13:32",
+      "pubDate": "Sun, 05 Apr 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Clima leve e foco em melhora marcam bastidores da goleada do Corinthians no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530339/clima-leve-e-foco-em-melhora-marcam-bastidores-da-goleada-do-corinthians-no-brasileirao-feminino",
+      "time": "05/04 · 13:00",
+      "pubDate": "Sun, 05 Apr 2026 10:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Tarumã pela última rodada da fase de grupos do Brasileiro Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530336/corinthians-recebe-o-taruma-pela-ultima-rodada-da-fase-de-grupos-do-brasileiro-feminino-sub-20",
+      "time": "05/04 · 12:33",
+      "pubDate": "Sun, 05 Apr 2026 09:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba qual a única opção para assistir ao confronto entre Corinthians e Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530325/saiba-qual-a-unica-opcao-para-assistir-ao-confronto-entre-corinthians-e-internacional",
+      "time": "05/04 · 11:30",
+      "pubDate": "Sun, 05 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior enfrenta Internacional pressionado e se não vencer deve ser demitido pelo Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-enfrenta-internacional-pressionado-e-se-nao-vencer-deve-ser-demitido-pelo-corinthians]]>",
+      "time": "05/04 · 11:00",
+      "pubDate": "Sun, 05 Apr 2026 08:00:37 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: time contra o Internacional, retorno de Memphis e novidade no banco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530338/ultimas-do-corinthians-time-contra-o-internacional-retorno-de-memphis-e-novidade-no-banco",
+      "time": "05/04 · 10:30",
+      "pubDate": "Sun, 05 Apr 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,22 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Apr 2026 22:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vic Albuquerque comemora retorno do Corinthians à Fazendinha após dez meses de interdição",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530303/vic-albuquerque-comemora-retorno-do-corinthians-a-fazendinha-apos-dez-meses-de-interdicao",
-      "time": "05/04 · 00:29",
-      "pubDate": "Sat, 04 Apr 2026 21:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians comenta objetivos na LNF e papel de liderança no grupo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530286/goleiro-do-corinthians-comenta-objetivos-na-lnf-e-papel-de-lideranca-no-grupo",
-      "time": "05/04 · 00:00",
-      "pubDate": "Sat, 04 Apr 2026 21:00:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Escalação do Corinthians: Dorival Júnior prepara cinco alterações para enfrentar o Internacional",
@@ -59,36 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Apr 2026 20:51:49 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians exalta melhorias e valoriza projeto de CT exclusivo para a equipe feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530305/tecnica-do-corinthians-exalta-melhorias-e-valoriza-projeto-de-ct-exclusivo-para-a-equipe-feminina",
-      "time": "04/04 · 23:27",
-      "pubDate": "Sat, 04 Apr 2026 20:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti se aproxima dos 100 gols pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530313/gabi-zanotti-se-aproxima-dos-100-gols-pelo-corinthians",
-      "time": "04/04 · 22:33",
-      "pubDate": "Sat, 04 Apr 2026 19:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Andrés Vombergar é oferecido ao Corinthians, mas permanência de Pedro Raul impede a negociação",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/andres-vombergar-e-oferecido-ao-corinthians-mas-permanencia-de-pedro-raul-impede-um-acordo]]>",
       "time": "04/04 · 21:50",
       "pubDate": "Sat, 04 Apr 2026 18:50:42 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fixo do Corinthians celebra gol contra o Magnus após período afastado por grave lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530289/fixo-do-corinthians-celebra-gol-contra-o-magnus-apos-periodo-afastado-por-grave-lesao",
-      "time": "04/04 · 21:33",
-      "pubDate": "Sat, 04 Apr 2026 18:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/cicinho-da-palpite-polemico-e-crava-tropeco-do-corinthians-contra-o-internacional-em-itaquera]]>",
       "time": "04/04 · 12:29",
       "pubDate": "Sat, 04 Apr 2026 09:29:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Felipe Melo vai na contramão e defende Allan após expulsão no Corinthians: “Não pode mais errar”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/felipe-melo-vai-na-contramao-e-defende-allan-apos-expulsao-no-corinthians-nao-pode-mais-errar]]>",
-      "time": "04/04 · 04:06",
-      "pubDate": "Sat, 04 Apr 2026 01:06:20 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Clima leve e foco em melhora marcam bastidores da goleada do Corinthians no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530339/clima-leve-e-foco-em-melhora-marcam-bastidores-da-goleada-do-corinthians-no-brasileirao-feminino",
+      "pubDate": "Sun, 05 Apr 2026 10:00:00 -0300",
+      "date": "05/04 · 13:00"
+    },
+    {
+      "title": "Saiba qual a única opção para assistir ao confronto entre Corinthians e Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530325/saiba-qual-a-unica-opcao-para-assistir-ao-confronto-entre-corinthians-e-internacional",
+      "pubDate": "Sun, 05 Apr 2026 08:30:00 -0300",
+      "date": "05/04 · 11:30"
+    },
+    {
       "title": "Volante emprestado pelo Corinthians marca primeiro gol pelo Fortaleza; saiba como foi",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530335/volante-emprestado-pelo-corinthians-marca-primeiro-gol-pelo-fortaleza-saiba-como-foi",
       "pubDate": "Sat, 04 Apr 2026 22:03:00 -0300",
@@ -228,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530304/treinadora-do-corinthians-avalia-goleada-sobre-o-bragantino-e-aponta-desempenho-abaixo-de-lateral",
       "pubDate": "Sat, 04 Apr 2026 11:09:00 -0300",
       "date": "04/04 · 14:09"
-    },
-    {
-      "title": "Técnico da base rasga elogios para safra de goleiros no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530187/tecnico-do-sub-20-rasga-elogios-para-safra-de-goleiros-no-corinthians",
-      "pubDate": "Fri, 03 Apr 2026 22:30:00 -0300",
-      "date": "04/04 · 01:30"
     }
   ]
 };
