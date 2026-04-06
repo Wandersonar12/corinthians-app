@@ -1,7 +1,127 @@
-// Gerado automaticamente em 06/04/2026, 14:38:43
+// Gerado automaticamente em 06/04/2026, 20:03:53
 const LIVE_DATA = {
-  "updatedAt": "2026-04-06T14:38:43.028Z",
+  "updatedAt": "2026-04-06T20:03:53.971Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians abre venda de ingressos para jogo contra o MRW Praia pela estreia do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530466/corinthians-abre-venda-de-ingressos-para-jogo-contra-o-mrw-praia-pela-estreia-do-paulista-de-futsal",
+      "time": "06/04 · 20:01",
+      "pubDate": "Mon, 06 Apr 2026 17:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadores do Corinthians são abordados por líderes da Gaviões na saída do CT Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530488/jogadores-do-corinthians-sao-abordados-por-lideres-da-gavioes-na-saida-do-ct-joaquim-grava",
+      "time": "06/04 · 19:58",
+      "pubDate": "Mon, 06 Apr 2026 16:58:53 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians deve adotar saída curta e pressão alta com chegada de Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deve-adotar-saida-curta-e-pressao-alta-com-chegada-de-fernando-diniz]]>",
+      "time": "06/04 · 19:49",
+      "pubDate": "Mon, 06 Apr 2026 16:49:47 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians acerta com Fernando Diniz e encaminha anúncio oficial ainda nesta segunda-feira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-com-fernando-diniz-e-encaminha-anuncio-oficial-ainda-nesta-segunda-feira]]>",
+      "time": "06/04 · 19:37",
+      "pubDate": "Mon, 06 Apr 2026 16:37:05 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dorival é o nono técnico demitido pelo Corinthians após jogo na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530412/dorival-e-o-nono-tecnico-demitido-pelo-corinthians-apos-jogo-na-neo-quimica-arena",
+      "time": "06/04 · 19:37",
+      "pubDate": "Mon, 06 Apr 2026 16:37:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz chega ao Corinthians com quatro auxiliares e Bruno Lazaroni deixa o Vasco",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-chega-corinthians-quatro-auxiliares-larazoni-vasco]]>",
+      "time": "06/04 · 19:14",
+      "pubDate": "Mon, 06 Apr 2026 16:14:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Filho de Dorival agradece à torcida do Corinthians e relembra conquistas após demissão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530484/filho-de-dorival-agradece-a-torcida-do-corinthians-e-relembra-conquistas-apos-demissao",
+      "time": "06/04 · 19:01",
+      "pubDate": "Mon, 06 Apr 2026 16:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Entenda por que Jhonson não viajou com o Corinthians aos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530443/entenda-por-que-jhonson-nao-viajou-com-o-corinthians-aos-estados-unidos",
+      "time": "06/04 · 18:36",
+      "pubDate": "Mon, 06 Apr 2026 15:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não bate o martelo sobre contratação de Fernando Diniz e Sylvinho vai ser procurado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fernando-diniz-sylvinho-procurado]]>",
+      "time": "06/04 · 17:37",
+      "pubDate": "Mon, 06 Apr 2026 14:37:29 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vê Jesse Lingard ter atuação discreta em primeira titularidade pela equipe",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-jesse-lingard-ter-atuacao-discreta-em-primeira-titularidade-pela-equipe]]>",
+      "time": "06/04 · 17:33",
+      "pubDate": "Mon, 06 Apr 2026 14:33:10 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dorival quebra silêncio após demissão no Corinthians e expõe ligação com Stabile antes do Natal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530478/dorival-quebra-silencio-apos-demissao-no-corinthians-e-expoe-ligacao-com-stabile-antes-do-natal",
+      "time": "06/04 · 17:28",
+      "pubDate": "Mon, 06 Apr 2026 14:28:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior encerra passagem no Corinthians com aproveitamento inferior ao de Ramón Díaz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-encerra-passagem-no-corinthians-com-aproveitamento-inferior-ao-de-ramon-diaz]]>",
+      "time": "06/04 · 17:10",
+      "pubDate": "Mon, 06 Apr 2026 14:10:26 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem acerto verbal com o técnico Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530474/corinthians-tem-acerto-verbal-com-o-tecnico-fernando-diniz",
+      "time": "06/04 · 17:06",
+      "pubDate": "Mon, 06 Apr 2026 14:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima explica escalação de Ivana Fuso na lateral direita em vitória do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530306/emily-lima-explica-escalacao-de-ivana-fuso-na-lateral-direita-em-vitoria-do-corinthians",
+      "time": "06/04 · 16:35",
+      "pubDate": "Mon, 06 Apr 2026 13:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Empresário de Igor Coronado desabafa e publica indireta após demissão de Dorival Júnior no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/empresario-de-igor-coronado-desabafa-e-publica-indireta-apos-demissao-de-dorival-junior-no-corinthians]]>",
+      "time": "06/04 · 15:35",
+      "pubDate": "Mon, 06 Apr 2026 12:35:43 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -9,126 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-se-despede-como-o-segundo-tecnico-mais-longevo-do-corinthians-nesta-decada]]>",
       "time": "06/04 · 14:33",
       "pubDate": "Mon, 06 Apr 2026 11:33:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival tem multa de cerca de R$ 6 milhões no Corinthians e saída exige acordo formal",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-tem-multa-de-cerca-de-r-6-milhoes-no-corinthians-e-saida-exige-acordo-formal]]>",
-      "time": "06/04 · 14:30",
-      "pubDate": "Mon, 06 Apr 2026 11:30:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Tite surge como principal nome no Corinthians e deve abrir conversas após saída de Dorival",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/tite-surge-como-principal-nome-no-corinthians-e-deve-abrir-conversas-apos-saida-de-dorival]]>",
-      "time": "06/04 · 14:30",
-      "pubDate": "Mon, 06 Apr 2026 11:30:26 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Empresários de Coronado e José Martínez disparam indiretas a Dorival após demissão no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530458/empresarios-de-coronado-e-jose-martinez-disparam-indiretas-a-dorival-apos-demissao-no-corinthians",
-      "time": "06/04 · 14:29",
-      "pubDate": "Mon, 06 Apr 2026 11:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vive semana decisiva com estreia na Libertadores, Dérbi e busca por novo treinador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530442/corinthians-vive-semana-decisiva-com-estreia-na-libertadores-derbi-e-busca-por-novo-treinador",
-      "time": "06/04 · 14:00",
-      "pubDate": "Mon, 06 Apr 2026 11:00:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Carlos Carvalhal e Bruno Lage ganham força para substituir Dorival Júnior no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/carlos-carvalhal-e-bruno-lage-ganham-forca-para-substituir-dorival-junior-no-corinthians]]>",
-      "time": "06/04 · 13:49",
-      "pubDate": "Mon, 06 Apr 2026 10:49:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Tite, Sylvinho ou Diniz? Veja como o Corinthians pode mudar após saída de Dorival Júnior",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/tite-sylvinho-ou-diniz-veja-como-o-corinthians-pode-mudar-apos-saida-de-dorival-junior]]>",
-      "time": "06/04 · 13:48",
-      "pubDate": "Mon, 06 Apr 2026 10:48:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem veredito sobre contratação de Filipe Luís como novo técnico e descarta ex-Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-veredito-sobre-contratacao-de-filipe-luis-como-novo-tecnico-e-descarta-ex-flamengo]]>",
-      "time": "06/04 · 13:48",
-      "pubDate": "Mon, 06 Apr 2026 10:48:04 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre negociação para contratar o técnico Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530460/corinthians-abre-negociacao-para-contratar-o-tecnico-fernando-diniz",
-      "time": "06/04 · 13:30",
-      "pubDate": "Mon, 06 Apr 2026 10:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba quanto o Corinthians terá que pagar a Dorival Júnior após demissão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530457/saiba-quanto-o-corinthians-tera-que-pagar-a-dorival-junior-apos-demissao",
-      "time": "06/04 · 13:09",
-      "pubDate": "Mon, 06 Apr 2026 10:09:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians convida Fernando Diniz oferecendo contrato até o final do ano, visando apresentação ainda hoje",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-convida-fernando-diniz-oferecendo-contrato-ate-o-final-do-ano-visando-apresentacao-ainda-hoje]]>",
-      "time": "06/04 · 12:56",
-      "pubDate": "Mon, 06 Apr 2026 09:56:09 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quem você escolheria para ser o novo treinador do Corinthians? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530441/quem-voce-escolheria-para-ser-o-novo-treinador-do-corinthians-vote-na-enquete-do-meu-timao",
-      "time": "06/04 · 12:32",
-      "pubDate": "Mon, 06 Apr 2026 09:32:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Sylvinho surge como possível novo técnico do Corinthians para acelerar adaptação e compreender o clube",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/sylvinho-surge-como-possivel-novo-tecnico-do-corinthians-para-acelerar-adaptacao-e-compreender-o-clube]]>",
-      "time": "06/04 · 12:08",
-      "pubDate": "Mon, 06 Apr 2026 09:08:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Conheça os adversários da fase de grupos do Corinthians na Libertadores 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127019/conheca-os-adversarios-da-fase-de-grupos-do-corinthians-na-libertadores-2026",
-      "time": "06/04 · 11:49",
-      "pubDate": "Mon, 06 Apr 2026 08:49:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mapeia mercado por treinadores e quer novo comandante para estreia na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530434/corinthians-mapeia-mercado-por-treinadores-e-quer-novo-comandante-para-estreia-na-libertadores",
-      "time": "06/04 · 11:31",
-      "pubDate": "Mon, 06 Apr 2026 08:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: derrota para Internacional, Dorival demitido e protesto da torcida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530435/ultimas-do-corinthians-derrota-para-internacional-dorival-demitido-e-protesto-da-torcida",
-      "time": "06/04 · 10:30",
-      "pubDate": "Mon, 06 Apr 2026 07:30:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,18 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127014/demitido-dorival-jr-deixa-o-comando-do-corinthians-apos-derrota-para-o-internacional",
       "pubDate": "Sun, 05 Apr 2026 23:14:14 -0300",
       "date": "06/04 · 02:14"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Corinthians 0x1 Internacional | 10ª rodada | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127009/melhores-momentos-corinthians-0x1-internacional-10-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Sun, 05 Apr 2026 21:54:24 -0300",
-      "date": "06/04 · 00:54"
-    },
-    {
-      "title": "Zagueiro do Corinthians fala sobre o momento ruim e estende responsabilidade para toda a equipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530397/zagueiro-do-corinthians-fala-sobre-o-momento-ruim-e-estende-responsabilidade-para-toda-a-equipe",
-      "pubDate": "Sun, 05 Apr 2026 21:54:00 -0300",
-      "date": "06/04 · 00:54"
     }
   ]
 };
