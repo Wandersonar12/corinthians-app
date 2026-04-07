@@ -1,38 +1,102 @@
-// Gerado automaticamente em 07/04/2026, 16:15:36
+// Gerado automaticamente em 07/04/2026, 20:05:38
 const LIVE_DATA = {
-  "updatedAt": "2026-04-07T16:15:36.423Z",
+  "updatedAt": "2026-04-07T20:05:38.433Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz almeja continuar com Memphis no Corinthians e o destaca na coletiva: “Super estrela mundial”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-almeja-continuar-com-memphis-no-corinthians-e-o-destaca-na-coletiva-super-estrela-mundial]]>",
+      "time": "07/04 · 19:40",
+      "pubDate": "Tue, 07 Apr 2026 16:40:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz comanda primeiro treino pelo Corinthians de olho na Libertadores; veja como foi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530563/fernando-diniz-comanda-primeiro-treino-pelo-corinthians-de-olho-na-libertadores-veja-como-foi",
+      "time": "07/04 · 19:24",
+      "pubDate": "Tue, 07 Apr 2026 16:24:42 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians realiza trabalhos táticos em primeiro treino nos Estados Unidos para a Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530562/corinthians-realiza-trabalhos-taticos-em-primeiro-treino-nos-estados-unidos-para-a-teal-rising-cup",
+      "time": "07/04 · 19:17",
+      "pubDate": "Tue, 07 Apr 2026 16:17:23 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Executivo do Corinthians explica acerto rápido com Diniz e manda recado: 'o que passou virou quadro'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530558/executivo-do-corinthians-explica-acerto-rapido-com-diniz-e-manda-recado-o-que-passou-virou-quadro",
+      "time": "07/04 · 19:08",
+      "pubDate": "Tue, 07 Apr 2026 16:08:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior saiu do Corinthians magoado e frustrado com gestão após demissão, revela André Hernan",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-saiu-do-corinthians-magoado-e-frustrado-com-gestao-apos-demissao-revela-andre-hernan]]>",
+      "time": "07/04 · 18:31",
+      "pubDate": "Tue, 07 Apr 2026 15:31:28 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba quanto o Corinthians pode faturar com a participação na Libertadores 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530553/saiba-quanto-o-corinthians-pode-faturar-com-a-participacao-na-libertadores-2026",
+      "time": "07/04 · 18:27",
+      "pubDate": "Tue, 07 Apr 2026 15:27:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians e Fernando Diniz acertam “seguro milionário” com multa rescisória de R$4,5 milhões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-fernando-diniz-acertam-seguro-milionario-com-multa-rescisoria-de-r45-milhoes]]>",
+      "time": "07/04 · 18:17",
+      "pubDate": "Tue, 07 Apr 2026 15:17:48 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz é apresentado no CT e cita emoção em retorno ao Corinthians agora como treinador",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530538/fernando-diniz-e-apresentado-no-ct-e-cita-emocao-em-retorno-ao-corinthians-agora-como-treinador",
+      "time": "07/04 · 18:07",
+      "pubDate": "Tue, 07 Apr 2026 15:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians aponta qualidades e diz o que esperar do trabalho de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530525/idolo-do-corinthians-aponta-qualidades-e-diz-o-que-esperar-do-trabalho-de-fernando-diniz",
+      "time": "07/04 · 17:29",
+      "pubDate": "Tue, 07 Apr 2026 14:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conmebol publica mini-documentário da trajetória do Corinthians no Mundial Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530508/conmebol-publica-mini-documentario-da-trajetoria-do-corinthians-no-mundial-feminino",
+      "time": "07/04 · 17:02",
+      "pubDate": "Tue, 07 Apr 2026 14:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atletas do Corinthians projetam estreia no Paulista de Futsal após vitória na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530288/atletas-do-corinthians-projetam-estreia-no-paulista-de-futsal-apos-vitoria-na-lnf",
+      "time": "07/04 · 16:36",
+      "pubDate": "Tue, 07 Apr 2026 13:36:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Jogadores do Corinthians sentem tensão após cobrança da torcida e buscam resposta rápida",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/jogadores-do-corinthians-sentem-tensao-apos-cobranca-da-torcida-e-buscam-resposta-rapida]]>",
-      "time": "07/04 · 16:11",
-      "pubDate": "Tue, 07 Apr 2026 13:11:37 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral emprestado pelo Corinthians entra em campo pela primeira vez na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530517/lateral-emprestado-pelo-corinthians-entra-em-campo-pela-primeira-vez-na-temporada",
-      "time": "07/04 · 15:31",
-      "pubDate": "Tue, 07 Apr 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians é convocado pela Seleção Brasileira para final contra a Argentina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530539/ala-do-corinthians-e-convocado-pela-selecao-brasileira-para-final-contra-a-argentina",
-      "time": "07/04 · 15:03",
-      "pubDate": "Tue, 07 Apr 2026 12:03:32 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo contra o Paulistano pelo NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530537/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-paulistano-pelo-nbb",
-      "time": "07/04 · 14:25",
-      "pubDate": "Tue, 07 Apr 2026 11:25:00 -0300"
+      "time": "07/04 · 16:20",
+      "pubDate": "Tue, 07 Apr 2026 13:20:01 -0300"
     },
     {
       "source": "Bolavip",
@@ -41,22 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-e-sincero-sobre-aposentadoria-apos-copa-do-mundo-criticas-e-escolha-pelo-corinthians]]>",
       "time": "07/04 · 13:52",
       "pubDate": "Tue, 07 Apr 2026 10:52:06 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz se torna o terceiro técnico a assumir o Corinthians após vice contra o clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530518/fernando-diniz-se-torna-o-terceiro-tecnico-a-assumir-o-corinthians-apos-vice-contra-o-clube",
-      "time": "07/04 · 13:32",
-      "pubDate": "Tue, 07 Apr 2026 10:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "[Bruno Cassiano] O que esperar de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/coluna/bruno_cassiano/4226/o-que-esperar-de-fernando-diniz-no-corinthians/",
-      "time": "07/04 · 13:00",
-      "pubDate": "Tue, 07 Apr 2026 10:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -75,60 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Apr 2026 09:29:54 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Organizada do Corinthians leva faixas ao CT e volta a parar carros de jogadores antes de treino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530530/organizada-do-corinthians-leva-faixas-ao-ct-e-volta-a-parar-carros-de-jogadores-antes-de-treino",
-      "time": "07/04 · 12:26",
-      "pubDate": "Tue, 07 Apr 2026 09:26:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Dorival teve pior aproveitamento que Vitor Pereira e Ramón Díaz, os três técnicos mais longevos do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-teve-pior-aproveitamento-que-vitor-pereira-e-ramon-diaz-os-tres-tecnicos-mais-longevos-do-corinthians]]>",
       "time": "07/04 · 12:09",
       "pubDate": "Tue, 07 Apr 2026 09:09:13 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Basquete Osasco para manter embalo no NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530487/corinthians-recebe-o-basquete-osasco-para-manter-embalo-no-nbb-saiba-tudo",
-      "time": "07/04 · 12:02",
-      "pubDate": "Tue, 07 Apr 2026 09:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Botafogo em busca de voltar a vencer no Brasileiro Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530485/corinthians-visita-o-botafogo-em-busca-de-voltar-a-vencer-no-brasileiro-sub-20-saiba-tudo",
-      "time": "07/04 · 11:30",
-      "pubDate": "Tue, 07 Apr 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians derruba Dorival e assume risco com Fernando Diniz em aproveitamento abaixo dos 50%",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-derruba-dorival-e-assume-risco-com-fernando-diniz-em-aproveitamento-abaixo-dos-50]]>",
-      "time": "07/04 · 02:32",
-      "pubDate": "Mon, 06 Apr 2026 23:32:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Craque Neto é pessimista sobre Fernando Diniz no comando do Corinthians: “Vamos sofrer”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/craque-neto-e-pessimista-sobre-diniz-no-corinthians]]>",
-      "time": "07/04 · 01:43",
-      "pubDate": "Mon, 06 Apr 2026 22:43:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz acerta salário com o Corinthians e deve receber R$ 1,5 milhão com a comissão técnica",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-acerta-salario-com-o-corinthians-e-deve-receber-r-15-milhao-com-a-comissao-tecnica]]>",
-      "time": "06/04 · 23:41",
-      "pubDate": "Mon, 06 Apr 2026 20:41:52 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127031/cobranca-torcida-organizada-aborda-jogadores-e-cobra-performance-do-time-em-campo",
       "pubDate": "Mon, 06 Apr 2026 21:51:52 -0300",
       "date": "07/04 · 00:51"
-    },
-    {
-      "title": "Goleiro do Corinthians analisa disputa na posição e elogia jovens promovidos ao profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530287/goleiro-do-corinthians-futsal-analisa-disputa-na-posicao-e-elogia-jovens-promovidos-ao-profissional",
-      "pubDate": "Mon, 06 Apr 2026 20:31:00 -0300",
-      "date": "06/04 · 23:31"
     }
   ]
 };
