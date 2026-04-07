@@ -1,38 +1,110 @@
-// Gerado automaticamente em 07/04/2026, 11:17:26
+// Gerado automaticamente em 07/04/2026, 16:15:36
 const LIVE_DATA = {
-  "updatedAt": "2026-04-07T11:17:26.555Z",
+  "updatedAt": "2026-04-07T16:15:36.423Z",
   "news": [
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Dorival teve pior aproveitamento que Vitor Pereira e Ramón Díaz, os três técnicos mais longevos do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-teve-pior-aproveitamento-que-vitor-pereira-e-ramon-diaz-os-tres-tecnicos-mais-longevos-do-corinthians]]>",
-      "time": "07/04 · 10:54",
-      "pubDate": "Tue, 07 Apr 2026 07:54:09 -0300"
+      "title": "Jogadores do Corinthians sentem tensão após cobrança da torcida e buscam resposta rápida",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jogadores-do-corinthians-sentem-tensao-apos-cobranca-da-torcida-e-buscam-resposta-rapida]]>",
+      "time": "07/04 · 16:11",
+      "pubDate": "Tue, 07 Apr 2026 13:11:37 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral emprestado pelo Corinthians entra em campo pela primeira vez na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530517/lateral-emprestado-pelo-corinthians-entra-em-campo-pela-primeira-vez-na-temporada",
+      "time": "07/04 · 15:31",
+      "pubDate": "Tue, 07 Apr 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians é convocado pela Seleção Brasileira para final contra a Argentina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530539/ala-do-corinthians-e-convocado-pela-selecao-brasileira-para-final-contra-a-argentina",
+      "time": "07/04 · 15:03",
+      "pubDate": "Tue, 07 Apr 2026 12:03:32 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para duelo contra o Paulistano pelo NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530537/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-paulistano-pelo-nbb",
+      "time": "07/04 · 14:25",
+      "pubDate": "Tue, 07 Apr 2026 11:25:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay é sincero sobre aposentadoria após Copa do Mundo, críticas e escolha pelo Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-e-sincero-sobre-aposentadoria-apos-copa-do-mundo-criticas-e-escolha-pelo-corinthians]]>",
+      "time": "07/04 · 13:52",
+      "pubDate": "Tue, 07 Apr 2026 10:52:06 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz se torna o terceiro técnico a assumir o Corinthians após vice contra o clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530518/fernando-diniz-se-torna-o-terceiro-tecnico-a-assumir-o-corinthians-apos-vice-contra-o-clube",
+      "time": "07/04 · 13:32",
+      "pubDate": "Tue, 07 Apr 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "[Bruno Cassiano] O que esperar de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/coluna/bruno_cassiano/4226/o-que-esperar-de-fernando-diniz-no-corinthians/",
+      "time": "07/04 · 13:00",
+      "pubDate": "Tue, 07 Apr 2026 10:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz muda planos, abre mão de pausa e se anima com o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-muda-planos-abre-mao-de-pausa-e-se-anima-com-o-corinthians]]>",
+      "time": "07/04 · 12:39",
+      "pubDate": "Tue, 07 Apr 2026 09:39:16 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Saída de Dorival Júnior é celebrada no Corinthians e gera alívio do elenco nos bastidores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/saida-de-dorival-junior-e-celebrada-no-corinthians-e-gera-alivio-do-elenco-nos-bastidores]]>",
-      "time": "07/04 · 10:34",
-      "pubDate": "Tue, 07 Apr 2026 07:34:46 -0300"
+      "time": "07/04 · 12:29",
+      "pubDate": "Tue, 07 Apr 2026 09:29:54 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: novo técnico, pronunciamento de Dorival e indiretas de agentes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530516/ultimas-do-corinthians-novo-tecnico-pronunciamento-de-dorival-e-indiretas-de-agentes",
-      "time": "07/04 · 10:30",
-      "pubDate": "Tue, 07 Apr 2026 07:30:00 -0300"
+      "title": "Organizada do Corinthians leva faixas ao CT e volta a parar carros de jogadores antes de treino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530530/organizada-do-corinthians-leva-faixas-ao-ct-e-volta-a-parar-carros-de-jogadores-antes-de-treino",
+      "time": "07/04 · 12:26",
+      "pubDate": "Tue, 07 Apr 2026 09:26:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival teve pior aproveitamento que Vitor Pereira e Ramón Díaz, os três técnicos mais longevos do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-teve-pior-aproveitamento-que-vitor-pereira-e-ramon-diaz-os-tres-tecnicos-mais-longevos-do-corinthians]]>",
+      "time": "07/04 · 12:09",
+      "pubDate": "Tue, 07 Apr 2026 09:09:13 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "[Elian Sousa] Fernando Diniz: uma boa aposta do Corinthians para a temporada",
-      "url": "https://www.meutimao.com.br/coluna/elian_sousa/4225/fernando-diniz-uma-boa-aposta-do-corinthians-para-a-temporada/",
-      "time": "07/04 · 05:06",
-      "pubDate": "Tue, 07 Apr 2026 02:06:37 -0300"
+      "title": "Corinthians recebe o Basquete Osasco para manter embalo no NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530487/corinthians-recebe-o-basquete-osasco-para-manter-embalo-no-nbb-saiba-tudo",
+      "time": "07/04 · 12:02",
+      "pubDate": "Tue, 07 Apr 2026 09:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Botafogo em busca de voltar a vencer no Brasileiro Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530485/corinthians-visita-o-botafogo-em-busca-de-voltar-a-vencer-no-brasileiro-sub-20-saiba-tudo",
+      "time": "07/04 · 11:30",
+      "pubDate": "Tue, 07 Apr 2026 08:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -51,84 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 06 Apr 2026 22:43:28 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dorival deixa Corinthians com o segundo pior aproveitamento na Arena entre os dez últimos técnicos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530437/dorival-deixa-corinthians-com-o-segundo-pior-aproveitamento-na-arena-entre-os-dez-ultimos-tecnicos",
-      "time": "07/04 · 01:30",
-      "pubDate": "Mon, 06 Apr 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz retorna ao Corinthians após curta passagem e título paulista como jogador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530503/fernando-diniz-retorna-ao-corinthians-apos-curta-passagem-e-titulo-paulista-como-jogador",
-      "time": "07/04 · 01:15",
-      "pubDate": "Mon, 06 Apr 2026 22:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "De 'inacreditável' à 'esperança': Fiel reage ao anúncio de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530513/de-inacreditavel-a-esperanca-fiel-reage-ao-anuncio-de-fernando-diniz-no-corinthians",
-      "time": "07/04 · 01:05",
-      "pubDate": "Mon, 06 Apr 2026 22:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "De interino a braço direito de Diniz: conheça os novos nomes da comissão técnica do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530515/de-interino-a-braco-direito-de-diniz-conheca-os-novos-nomes-da-comissao-tecnica-do-corinthians",
-      "time": "07/04 · 00:59",
-      "pubDate": "Mon, 06 Apr 2026 21:59:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se isola como o pior ataque do Brasileirão 2026 até a décima rodada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530388/corinthians-se-isola-como-o-pior-ataque-do-brasileirao-2026-ate-a-decima-rodada",
-      "time": "07/04 · 00:36",
-      "pubDate": "Mon, 06 Apr 2026 21:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ascensão meteórica e passagem pela Seleção: conheça Fernando Diniz, novo técnico do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530493/ascensao-meteorica-e-passagem-pela-selecao-conheca-fernando-diniz-novo-tecnico-do-corinthians",
-      "time": "07/04 · 00:01",
-      "pubDate": "Mon, 06 Apr 2026 21:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz acerta salário com o Corinthians e deve receber R$ 1,5 milhão com a comissão técnica",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-acerta-salario-com-o-corinthians-e-deve-receber-r-15-milhao-com-a-comissao-tecnica]]>",
       "time": "06/04 · 23:41",
       "pubDate": "Mon, 06 Apr 2026 20:41:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior se despede do Corinthians e faz desabafo: “Pior momento da história”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-se-despede-do-corinthians-e-faz-desabafo]]>",
-      "time": "06/04 · 22:30",
-      "pubDate": "Mon, 06 Apr 2026 19:30:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gaviões da Fiel cobra elenco do Corinthians e Raniele é acuado no CT: “Tá achando que a gente é otário?”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gavioes-da-fiel-cobra-elenco-do-corinthians-e-raniele-e-acuado-no-ct-ta-achando-que-a-gente-e-otario]]>",
-      "time": "06/04 · 21:50",
-      "pubDate": "Mon, 06 Apr 2026 18:50:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vitinho, Charles, Raniele e Kaio César são cobrados pela torcida do Corinthians em saída do CT",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/vitinho-charles-raniele-e-kaio-cesar-sao-cobrados-pela-torcida-do-corinthians-em-saida-do-ct]]>",
-      "time": "06/04 · 21:30",
-      "pubDate": "Mon, 06 Apr 2026 18:30:23 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,13 +200,19 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Gaviões da Fiel faz duras cobranças ao zagueiro Gustavo Henrique no CT Joaquim Grava",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127042/gavioes-da-fiel-faz-duras-cobrancas-ao-zagueiro-gustavo-henrique-no-ct-joaquim-grava",
+      "pubDate": "Tue, 07 Apr 2026 12:43:27 -0300",
+      "date": "07/04 · 15:43"
+    },
+    {
       "title": "VÍDEO: Cobrança! Torcida organizada aborda jogadores e cobra performance do time em campo",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127031/cobranca-torcida-organizada-aborda-jogadores-e-cobra-performance-do-time-em-campo",
       "pubDate": "Mon, 06 Apr 2026 21:51:52 -0300",
       "date": "07/04 · 00:51"
     },
     {
-      "title": "Goleiro do Corinthians Futsal analisa disputa na posição e elogia jovens promovidos ao profissional",
+      "title": "Goleiro do Corinthians analisa disputa na posição e elogia jovens promovidos ao profissional",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530287/goleiro-do-corinthians-futsal-analisa-disputa-na-posicao-e-elogia-jovens-promovidos-ao-profissional",
       "pubDate": "Mon, 06 Apr 2026 20:31:00 -0300",
       "date": "06/04 · 23:31"
