@@ -1,7 +1,79 @@
-// Gerado automaticamente em 07/04/2026, 23:56:03
+// Gerado automaticamente em 08/04/2026, 11:17:37
 const LIVE_DATA = {
-  "updatedAt": "2026-04-07T23:56:03.411Z",
+  "updatedAt": "2026-04-08T11:17:37.481Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz estreia na Libertadores em Platense x Corinthians para manter bom aproveitamento no torneio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-estreia-na-libertadores-em-platense-x-corinthians-para-manter-bom-aproveitamento-no-torneio]]>",
+      "time": "08/04 · 11:15",
+      "pubDate": "Wed, 08 Apr 2026 08:15:43 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis terá recuperação em quatro etapas, mas segue prazo para retorno no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-tera-recuperacao-em-quatro-etapas-mas-segue-prazo-para-retorno-no-corinthians]]>",
+      "time": "08/04 · 10:41",
+      "pubDate": "Wed, 08 Apr 2026 07:41:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: apresentação e primeiro treino de Diniz, cobranças no CT e projeto de SAF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530594/ultimas-do-corinthians-apresentacao-e-primeiro-treino-de-diniz-cobrancas-no-ct-e-projeto-de-saf",
+      "time": "08/04 · 10:30",
+      "pubDate": "Wed, 08 Apr 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz foca 1° treino pelo Corinthians em posse de bola, transição e exercícios táticos estratégicos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-foca-1-treino-pelo-corinthians-em-posse-de-bola-transicao-e-exercicios-taticos-estrategicos]]>",
+      "time": "08/04 · 09:37",
+      "pubDate": "Wed, 08 Apr 2026 06:37:15 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz elogia jovens do Corinthians e prioriza recuperação imediata de Garro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530578/diniz-elogia-jovens-do-corinthians-e-prioriza-recuperacao-imediata-de-garro",
+      "time": "08/04 · 01:29",
+      "pubDate": "Tue, 07 Apr 2026 22:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians domina o Osasco no primeiro tempo e emenda terceira vitória seguida no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530591/corinthians-domina-o-osasco-no-primeiro-tempo-e-emenda-terceira-vitoria-seguida-no-nbb",
+      "time": "08/04 · 01:07",
+      "pubDate": "Tue, 07 Apr 2026 22:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians projeta campanha na Teal Rising Cup durante Data Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530302/meia-do-corinthians-projeta-campanha-na-teal-rising-cup-durante-data-fifa",
+      "time": "08/04 · 00:38",
+      "pubDate": "Tue, 07 Apr 2026 21:38:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz avalia elenco do Corinthians e comenta possível reintegração de volante encostado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530574/fernando-diniz-avalia-elenco-do-corinthians-e-comenta-possivel-reintegracao-de-volante-encostado",
+      "time": "08/04 · 00:03",
+      "pubDate": "Tue, 07 Apr 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians cede empate ao Botafogo no finalzinho e desperdiça pontos no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530573/corinthians-cede-empate-ao-botafogo-no-finalzinho-e-desperdica-pontos-no-brasileirao-sub-20",
+      "time": "08/04 · 00:01",
+      "pubDate": "Tue, 07 Apr 2026 21:01:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,14 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Apr 2026 19:49:51 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Camisa 10 do Corinthians entra em top-5 histórico do Brasileirão Feminino; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530501/meia-do-corinthians-entra-em-top-5-historico-do-brasileirao-feminino-veja-o-ranking",
-      "time": "07/04 · 22:34",
-      "pubDate": "Tue, 07 Apr 2026 19:34:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians tem Memphis Depay, Carillo e +9 jogadores em fim de contrato e acende alerta",
@@ -43,52 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Apr 2026 19:29:30 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Unboxing Corinthians X Sabotage | Collab de roupas do ícone do rap nacional e do Time do Povo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127053/unboxing-corinthians-x-sabotage-collab-de-roupas-do-icone-do-rap-nacional-e-do-time-do-povo",
-      "time": "07/04 · 22:10",
-      "pubDate": "Tue, 07 Apr 2026 19:10:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz aparece no BID e pode comandar o Corinthians na estreia da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530526/fernando-diniz-aparece-no-bid-e-pode-comandar-o-corinthians-na-estreia-da-libertadores",
-      "time": "07/04 · 22:01",
-      "pubDate": "Tue, 07 Apr 2026 19:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinador do Corinthians explica perfil 'explosivo' na beira do campo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530572/treinador-do-corinthians-explica-perfil-explosivo-na-beira-do-campo",
-      "time": "07/04 · 21:53",
-      "pubDate": "Tue, 07 Apr 2026 18:53:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz almeja continuar com Memphis no Corinthians e o destaca na coletiva: “Super estrela mundial”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-almeja-continuar-com-memphis-no-corinthians-e-o-destaca-na-coletiva-super-estrela-mundial]]>",
       "time": "07/04 · 21:50",
       "pubDate": "Tue, 07 Apr 2026 18:50:57 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Novo treinador do Corinthians demonstra desejo pela permanência de Memphis Depay",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530571/novo-treinador-do-corinthians-demonstra-desejo-pela-permanencia-de-memphis-depay",
-      "time": "07/04 · 21:50",
-      "pubDate": "Tue, 07 Apr 2026 18:50:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay revela por que escolheu o Corinthians e diz lidar com críticas desde os 16 anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530534/memphis-depay-revela-por-que-escolheu-o-corinthians-e-diz-lidar-com-criticas-desde-os-16-anos",
-      "time": "07/04 · 21:30",
-      "pubDate": "Tue, 07 Apr 2026 18:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-fernando-diniz-acertam-seguro-milionario-com-multa-rescisoria-de-r45-milhoes]]>",
       "time": "07/04 · 18:17",
       "pubDate": "Tue, 07 Apr 2026 15:17:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Jogadores do Corinthians sentem tensão após cobrança da torcida e buscam resposta rápida",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/jogadores-do-corinthians-sentem-tensao-apos-cobranca-da-torcida-e-buscam-resposta-rapida]]>",
-      "time": "07/04 · 16:20",
-      "pubDate": "Tue, 07 Apr 2026 13:20:01 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay é sincero sobre aposentadoria após Copa do Mundo, críticas e escolha pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-e-sincero-sobre-aposentadoria-apos-copa-do-mundo-criticas-e-escolha-pelo-corinthians]]>",
-      "time": "07/04 · 13:52",
-      "pubDate": "Tue, 07 Apr 2026 10:52:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz muda planos, abre mão de pausa e se anima com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-muda-planos-abre-mao-de-pausa-e-se-anima-com-o-corinthians]]>",
-      "time": "07/04 · 12:39",
-      "pubDate": "Tue, 07 Apr 2026 09:39:16 -0300"
     },
     {
       "source": "Gazeta Esportiva",
