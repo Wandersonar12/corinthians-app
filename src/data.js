@@ -1,22 +1,102 @@
-// Gerado automaticamente em 08/04/2026, 20:08:31
+// Gerado automaticamente em 08/04/2026, 23:54:46
 const LIVE_DATA = {
-  "updatedAt": "2026-04-08T20:08:31.441Z",
+  "updatedAt": "2026-04-08T23:54:46.887Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: saiba tudo sobre a busca do Corinthians pelo segundo título da Copa Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530623/guia-do-meu-timao-saiba-tudo-sobre-a-busca-do-corinthians-pelo-segundo-titulo-da-copa-libertadores",
-      "time": "08/04 · 20:05",
-      "pubDate": "Wed, 08 Apr 2026 17:05:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Escalação do Corinthians: Diniz deve fazer mudanças no ataque em estreia na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-diniz-deve-fazer-mudancas-no-ataque]]>",
+      "time": "08/04 · 23:49",
+      "pubDate": "Wed, 08 Apr 2026 20:49:36 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians relaciona 24 jogadores para estreia na fase de grupos da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530627/corinthians-relaciona-24-jogadores-para-estreia-na-fase-de-grupos-da-libertadores",
-      "time": "08/04 · 19:53",
-      "pubDate": "Wed, 08 Apr 2026 16:53:00 -0300"
+      "title": "Fernando Diniz explica escolhas para a comissão técnica que trouxe ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530576/fernando-diniz-explica-escolhas-para-a-comissao-tecnica-que-trouxe-ao-corinthians",
+      "time": "08/04 · 23:31",
+      "pubDate": "Wed, 08 Apr 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians celebra nova chance na Seleção Feminina após lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530631/lateral-do-corinthians-celebra-nova-chance-na-selecao-feminina-apos-lesao",
+      "time": "08/04 · 23:03",
+      "pubDate": "Wed, 08 Apr 2026 20:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians registra maior pontuação da carreira em vitória sobre o Osasco no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530593/ala-do-corinthians-registra-maior-pontuacao-da-carreira-em-vitoria-sobre-o-osasco-no-nbb",
+      "time": "08/04 · 22:32",
+      "pubDate": "Wed, 08 Apr 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Desembarque do Corinthians em Buenos Aires para enfrentar o Platense pela Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127073/desembarque-do-corinthians-em-buenos-aires-para-enfrentar-o-platense-pela-libertadores-2026",
+      "time": "08/04 · 22:30",
+      "pubDate": "Wed, 08 Apr 2026 19:30:43 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vira o pior ataque do Campeonato Brasileiro até a 10ª rodada e agrava crise na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vira-o-pior-ataque-do-campeonato-brasileiro-ate-a-10a-rodada-e-agrava-crise-na-temporada]]>",
+      "time": "08/04 · 22:29",
+      "pubDate": "Wed, 08 Apr 2026 19:29:32 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians celebra gol em empate no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530629/volante-do-corinthians-celebra-gol-em-empate-no-brasileirao-sub-20",
+      "time": "08/04 · 22:05",
+      "pubDate": "Wed, 08 Apr 2026 19:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz mira ‘resgate técnico’ no Corinthians e quer recuperar Garro, André, Bidon e até Alex Santana",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-mira-resgate-tecnico-no-corinthians-e-quer-recuperar-garro-andre-bidon-e-ate-alex-santana]]>",
+      "time": "08/04 · 21:50",
+      "pubDate": "Wed, 08 Apr 2026 18:50:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz só trabalhou com um jogador do atual elenco do Corinthians na carreira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530600/fernando-diniz-so-trabalhou-com-um-jogador-do-atual-elenco-do-corinthians-na-carreira",
+      "time": "08/04 · 21:30",
+      "pubDate": "Wed, 08 Apr 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Armador do Corinthians valoriza terceiro triunfo consecutivo e minimiza nova marca histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530592/armador-do-corinthians-valoriza-terceiro-triunfo-consecutivo-e-minimiza-nova-marca-historica",
+      "time": "08/04 · 21:01",
+      "pubDate": "Wed, 08 Apr 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians conta como chegou ao clube e fala sobre dificuldades no início da carreira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530603/volante-do-corinthians-conta-como-chegou-ao-clube-e-fala-sobre-dificuldades-no-inicio-da-carreira",
+      "time": "08/04 · 20:31",
+      "pubDate": "Wed, 08 Apr 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians venceu apenas um dos últimos dez jogos oficiais na Argentina em torneios continentais",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-venceu-apenas-um-dos-ultimos-dez-jogos-na-argentina]]>",
+      "time": "08/04 · 20:08",
+      "pubDate": "Wed, 08 Apr 2026 17:08:48 -0300"
     },
     {
       "source": "Bolavip",
@@ -29,34 +109,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Diniz mira ‘resgate técnico’ no Corinthians e quer recuperar Garro, André, Bidon e até Alex Santana",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-mira-resgate-tecnico-no-corinthians-e-quer-recuperar-garro-andre-bidon-e-ate-alex-santana]]>",
-      "time": "08/04 · 19:46",
-      "pubDate": "Wed, 08 Apr 2026 16:46:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Antes de Platense x Corinthians, Yuri Alberto tem desempenho 3 vezes superior ao de Tomás Nasif",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/antes-de-platense-x-corinthians-yuri-alberto-tem-desempenho-3-vezes-superior-ao-de-tomas-nasif]]>",
       "time": "08/04 · 19:41",
       "pubDate": "Wed, 08 Apr 2026 16:41:13 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz ressalta importância de Marcelo Paz na negociação para acerto com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530577/diniz-ressalta-importancia-de-marcelo-paz-na-negociacao-para-acerto-com-o-corinthians",
-      "time": "08/04 · 19:33",
-      "pubDate": "Wed, 08 Apr 2026 16:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga cronograma da venda de ingressos contra o Santa Fe pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530624/corinthians-divulga-cronograma-da-venda-de-ingressos-contra-o-santa-fe-pela-libertadores",
-      "time": "08/04 · 19:15",
-      "pubDate": "Wed, 08 Apr 2026 16:15:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,62 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demite-gerente-renan-bloise-tradutor-de-memphis-depay-por-ordem-de-osmar-stabile]]>",
       "time": "08/04 · 19:10",
       "pubDate": "Wed, 08 Apr 2026 16:10:37 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Matheus Pereira revela alta expectativa do elenco para estreia do Corinthians na Copa Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530619/matheus-pereira-revela-alta-expectativa-do-elenco-para-estreia-do-corinthians-na-copa-libertadores",
-      "time": "08/04 · 19:01",
-      "pubDate": "Wed, 08 Apr 2026 16:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Relembre todas as estreias do Corinthians na história da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530568/relembre-todas-as-estreias-do-corinthians-na-historia-da-libertadores",
-      "time": "08/04 · 18:28",
-      "pubDate": "Wed, 08 Apr 2026 15:28:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Motivo principal do técnico Tite acabar descartado pelo Corinthians foi seu filho, Matheus Bachi",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/motivo-principal-do-tecnico-tite-acabar-descartado-pelo-corinthians-foi-seu-filho-matheus-bachi]]>",
-      "time": "08/04 · 17:58",
-      "pubDate": "Wed, 08 Apr 2026 14:58:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "STJD marca data de julgamento de Memphis por uso de celular durante jogo do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530617/stjd-marca-data-de-julgamento-de-memphis-por-uso-de-celular-durante-jogo-do-corinthians",
-      "time": "08/04 · 17:55",
-      "pubDate": "Wed, 08 Apr 2026 14:55:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para estreia na Libertadores diante do Platense; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530610/corinthians-encerra-preparacao-para-estreia-na-libertadores-diante-do-platense-veja-o-provavel-time",
-      "time": "08/04 · 17:29",
-      "pubDate": "Wed, 08 Apr 2026 14:29:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Martínez se revolta com Dorival e bastidores expõem desgaste no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/martinez-se-revolta-com-dorival-e-bastidores-expoem-desgaste-no-corinthians]]>",
-      "time": "08/04 · 16:59",
-      "pubDate": "Wed, 08 Apr 2026 13:59:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não terá Memphis Depay, Gui Negão e mais três desfalques contra o Platense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tera-memphis-depay-gui-negao-e-mais-tres-desfalques-contra-o-platense]]>",
-      "time": "08/04 · 16:24",
-      "pubDate": "Wed, 08 Apr 2026 13:24:19 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,10 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "VÍDEO: Unboxing Corinthians X Sabotage | Collab de roupas do ícone do rap nacional e do Time do Povo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127053/unboxing-corinthians-x-sabotage-collab-de-roupas-do-icone-do-rap-nacional-e-do-time-do-povo",
-      "pubDate": "Tue, 07 Apr 2026 19:10:00 -0300",
-      "date": "07/04 · 22:10"
+      "title": "VÍDEO: Desembarque do Corinthians em Buenos Aires para enfrentar o Platense pela Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127073/desembarque-do-corinthians-em-buenos-aires-para-enfrentar-o-platense-pela-libertadores-2026",
+      "pubDate": "Wed, 08 Apr 2026 19:30:43 -0300",
+      "date": "08/04 · 22:30"
+    },
+    {
+      "title": "Volante do Corinthians celebra gol em empate no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530629/volante-do-corinthians-celebra-gol-em-empate-no-brasileirao-sub-20",
+      "pubDate": "Wed, 08 Apr 2026 19:05:00 -0300",
+      "date": "08/04 · 22:05"
     }
   ]
 };
