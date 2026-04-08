@@ -1,22 +1,110 @@
-// Gerado automaticamente em 08/04/2026, 11:17:37
+// Gerado automaticamente em 08/04/2026, 16:21:25
 const LIVE_DATA = {
-  "updatedAt": "2026-04-08T11:17:37.481Z",
+  "updatedAt": "2026-04-08T16:21:25.486Z",
   "news": [
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Fernando Diniz estreia na Libertadores em Platense x Corinthians para manter bom aproveitamento no torneio",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-estreia-na-libertadores-em-platense-x-corinthians-para-manter-bom-aproveitamento-no-torneio]]>",
-      "time": "08/04 · 11:15",
-      "pubDate": "Wed, 08 Apr 2026 08:15:43 -0300"
+      "title": "Martínez se revolta com Dorival e bastidores expõem desgaste no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/martinez-se-revolta-com-dorival-e-bastidores-expoem-desgaste-no-corinthians]]>",
+      "time": "08/04 · 15:49",
+      "pubDate": "Wed, 08 Apr 2026 12:49:10 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não terá Memphis Depay, Gui Negão e mais três desfalques contra o Platense",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tera-memphis-depay-gui-negao-e-mais-tres-desfalques-contra-o-platense]]>",
+      "time": "08/04 · 15:42",
+      "pubDate": "Wed, 08 Apr 2026 12:42:11 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Barcelona comenta má fase do Corinthians e volta a exaltar a Fiel: 'São especiais'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530601/lateral-do-barcelona-comenta-ma-fase-do-corinthians-e-volta-a-exaltar-a-fiel-sao-especiais",
+      "time": "08/04 · 15:34",
+      "pubDate": "Wed, 08 Apr 2026 12:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz expõe plano para o ataque e Corinthians deve ir ao mercado para contratar novo camisa 11",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-expoe-plano-para-o-ataque-e-corinthians-deve-ir-ao-mercado-para-contratar-novo-camisa-11]]>",
+      "time": "08/04 · 15:08",
+      "pubDate": "Wed, 08 Apr 2026 12:08:14 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians demite gerente de futebol Renan Bloise e decisão expõe pressão interna nos bastidores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demite-gerente-de-futebol-renan-bloise-e-decisao-expoe-pressao-interna-nos-bastidores]]>",
+      "time": "08/04 · 14:58",
+      "pubDate": "Wed, 08 Apr 2026 11:58:50 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz foi a pior escolha para o Corinthians, segundo Casagrande: “Não acredito no trabalho”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-foi-a-pior-escolha-para-o-corinthians-segundo-casagrande-nao-acredito-no-trabalho]]>",
+      "time": "08/04 · 13:49",
+      "pubDate": "Wed, 08 Apr 2026 10:49:18 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians dispensa gerente de futebol e scout",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530605/corinthians-dispensa-gerente-de-futebol-e-tradutor-de-memphis-depay",
+      "time": "08/04 · 13:15",
+      "pubDate": "Wed, 08 Apr 2026 10:15:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis terá recuperação em quatro etapas, mas segue prazo para retorno no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-tera-recuperacao-em-quatro-etapas-mas-segue-prazo-para-retorno-no-corinthians]]>",
-      "time": "08/04 · 10:41",
-      "pubDate": "Wed, 08 Apr 2026 07:41:13 -0300"
+      "time": "08/04 · 13:13",
+      "pubDate": "Wed, 08 Apr 2026 10:13:54 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Com Diniz no comando, Corinthians carrega vantagem contra equipes treinadas pelo técnico",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-diniz-no-comando-corinthians-carrega-vantagem-contra-equipes-treinadas-pelo-tecnico]]>",
+      "time": "08/04 · 13:07",
+      "pubDate": "Wed, 08 Apr 2026 10:07:17 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Guia do Meu Timão: saiba tudo sobre a disputa do Corinthians no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530597/guia-do-meu-timao-saiba-tudo-sobre-a-disputa-do-corinthians-no-paulista-de-futsal",
+      "time": "08/04 · 13:01",
+      "pubDate": "Wed, 08 Apr 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ministério Publico se posiciona sobre pedido de Intervenção Judicial no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530596/ministerio-publico-se-posiciona-sobre-pedido-de-intervencao-judicial-no-corinthians",
+      "time": "08/04 · 12:30",
+      "pubDate": "Wed, 08 Apr 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o MRW Praia pela estreia no Campeonato Paulista de Futsal; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530586/corinthians-recebe-o-mrw-praia-pela-estreia-no-campeonato-paulista-de-futsal-saiba-tudo",
+      "time": "08/04 · 11:31",
+      "pubDate": "Wed, 08 Apr 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz estreia na Libertadores em Platense x Corinthians para manter bom aproveitamento no torneio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-estreia-na-libertadores-em-platense-x-corinthians-para-manter-bom-aproveitamento-no-torneio]]>",
+      "time": "08/04 · 11:19",
+      "pubDate": "Wed, 08 Apr 2026 08:19:12 -0300"
     },
     {
       "source": "Meu Timao",
@@ -27,17 +115,9 @@ const LIVE_DATA = {
       "pubDate": "Wed, 08 Apr 2026 07:30:00 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz foca 1° treino pelo Corinthians em posse de bola, transição e exercícios táticos estratégicos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-foca-1-treino-pelo-corinthians-em-posse-de-bola-transicao-e-exercicios-taticos-estrategicos]]>",
-      "time": "08/04 · 09:37",
-      "pubDate": "Wed, 08 Apr 2026 06:37:15 -0300"
-    },
-    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz elogia jovens do Corinthians e prioriza recuperação imediata de Garro",
+      "title": "Fernando Diniz elogia jovens do Corinthians e prioriza recuperação imediata de Rodrigo Garro",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530578/diniz-elogia-jovens-do-corinthians-e-prioriza-recuperacao-imediata-de-garro",
       "time": "08/04 · 01:29",
       "pubDate": "Tue, 07 Apr 2026 22:29:00 -0300"
@@ -49,86 +129,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530591/corinthians-domina-o-osasco-no-primeiro-tempo-e-emenda-terceira-vitoria-seguida-no-nbb",
       "time": "08/04 · 01:07",
       "pubDate": "Tue, 07 Apr 2026 22:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians projeta campanha na Teal Rising Cup durante Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530302/meia-do-corinthians-projeta-campanha-na-teal-rising-cup-durante-data-fifa",
-      "time": "08/04 · 00:38",
-      "pubDate": "Tue, 07 Apr 2026 21:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz avalia elenco do Corinthians e comenta possível reintegração de volante encostado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530574/fernando-diniz-avalia-elenco-do-corinthians-e-comenta-possivel-reintegracao-de-volante-encostado",
-      "time": "08/04 · 00:03",
-      "pubDate": "Tue, 07 Apr 2026 21:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians cede empate ao Botafogo no finalzinho e desperdiça pontos no Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530573/corinthians-cede-empate-ao-botafogo-no-finalzinho-e-desperdica-pontos-no-brasileirao-sub-20",
-      "time": "08/04 · 00:01",
-      "pubDate": "Tue, 07 Apr 2026 21:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem bom desempenho contra equipes treinadas por Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530524/corinthians-tem-bom-desempenho-contra-equipes-treinadas-por-fernando-diniz",
-      "time": "07/04 · 23:31",
-      "pubDate": "Tue, 07 Apr 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians aposta em evolução de Hugo Souza com os pés e destaca metodologia de trabalho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530575/tecnico-do-corinthians-aposta-em-evolucao-de-hugo-souza-com-os-pes-e-destaca-metodologia-de-trabalho",
-      "time": "07/04 · 23:01",
-      "pubDate": "Tue, 07 Apr 2026 20:01:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians contata Atlético-MG para fechar com Gustavo Scarpa, mas negócio é descartado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-contata-atletico-mg-para-fechar-com-gustavo-scarpa-mas-negocio-e-descartado]]>",
-      "time": "07/04 · 22:49",
-      "pubDate": "Tue, 07 Apr 2026 19:49:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem Memphis Depay, Carillo e +9 jogadores em fim de contrato e acende alerta",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-11-jogadores-fim-contrato-depay]]>",
-      "time": "07/04 · 22:29",
-      "pubDate": "Tue, 07 Apr 2026 19:29:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz almeja continuar com Memphis no Corinthians e o destaca na coletiva: “Super estrela mundial”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-almeja-continuar-com-memphis-no-corinthians-e-o-destaca-na-coletiva-super-estrela-mundial]]>",
-      "time": "07/04 · 21:50",
-      "pubDate": "Tue, 07 Apr 2026 18:50:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior saiu do Corinthians magoado e frustrado com gestão após demissão, revela André Hernan",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-saiu-do-corinthians-magoado-e-frustrado-com-gestao-apos-demissao-revela-andre-hernan]]>",
-      "time": "07/04 · 18:31",
-      "pubDate": "Tue, 07 Apr 2026 15:31:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians e Fernando Diniz acertam “seguro milionário” com multa rescisória de R$4,5 milhões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-fernando-diniz-acertam-seguro-milionario-com-multa-rescisoria-de-r45-milhoes]]>",
-      "time": "07/04 · 18:17",
-      "pubDate": "Tue, 07 Apr 2026 15:17:48 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127050/torcida-do-corinthians-jeito-explosivo-e-mais-apresentacao-de-fernando-diniz-no-corinthians",
       "pubDate": "Tue, 07 Apr 2026 17:24:41 -0300",
       "date": "07/04 · 20:24"
-    },
-    {
-      "title": "VÍDEO: Gaviões da Fiel faz duras cobranças ao zagueiro Gustavo Henrique no CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127042/gavioes-da-fiel-faz-duras-cobrancas-ao-zagueiro-gustavo-henrique-no-ct-joaquim-grava",
-      "pubDate": "Tue, 07 Apr 2026 12:43:27 -0300",
-      "date": "07/04 · 15:43"
     }
   ]
 };
