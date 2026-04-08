@@ -1,134 +1,134 @@
-// Gerado automaticamente em 08/04/2026, 16:21:25
+// Gerado automaticamente em 08/04/2026, 20:08:31
 const LIVE_DATA = {
-  "updatedAt": "2026-04-08T16:21:25.486Z",
+  "updatedAt": "2026-04-08T20:08:31.441Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Guia do Meu Timão: saiba tudo sobre a busca do Corinthians pelo segundo título da Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530623/guia-do-meu-timao-saiba-tudo-sobre-a-busca-do-corinthians-pelo-segundo-titulo-da-copa-libertadores",
+      "time": "08/04 · 20:05",
+      "pubDate": "Wed, 08 Apr 2026 17:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians relaciona 24 jogadores para estreia na fase de grupos da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530627/corinthians-relaciona-24-jogadores-para-estreia-na-fase-de-grupos-da-libertadores",
+      "time": "08/04 · 19:53",
+      "pubDate": "Wed, 08 Apr 2026 16:53:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz aparece no BID e já pode estrear pelo Corinthians na Copa Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-e-registrado-e-pode-estrear-no-comando-do-corinthians]]>",
+      "time": "08/04 · 19:51",
+      "pubDate": "Wed, 08 Apr 2026 16:51:22 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz mira ‘resgate técnico’ no Corinthians e quer recuperar Garro, André, Bidon e até Alex Santana",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-mira-resgate-tecnico-no-corinthians-e-quer-recuperar-garro-andre-bidon-e-ate-alex-santana]]>",
+      "time": "08/04 · 19:46",
+      "pubDate": "Wed, 08 Apr 2026 16:46:10 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Antes de Platense x Corinthians, Yuri Alberto tem desempenho 3 vezes superior ao de Tomás Nasif",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/antes-de-platense-x-corinthians-yuri-alberto-tem-desempenho-3-vezes-superior-ao-de-tomas-nasif]]>",
+      "time": "08/04 · 19:41",
+      "pubDate": "Wed, 08 Apr 2026 16:41:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz ressalta importância de Marcelo Paz na negociação para acerto com o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530577/diniz-ressalta-importancia-de-marcelo-paz-na-negociacao-para-acerto-com-o-corinthians",
+      "time": "08/04 · 19:33",
+      "pubDate": "Wed, 08 Apr 2026 16:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga cronograma da venda de ingressos contra o Santa Fe pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530624/corinthians-divulga-cronograma-da-venda-de-ingressos-contra-o-santa-fe-pela-libertadores",
+      "time": "08/04 · 19:15",
+      "pubDate": "Wed, 08 Apr 2026 16:15:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz ‘manda a real’ para os atletas do Corinthians e espera protagonismo na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-manda-a-real-para-os-atletas-do-corinthians-e-espera-protagonismo-na-libertadores]]>",
+      "time": "08/04 · 19:13",
+      "pubDate": "Wed, 08 Apr 2026 16:13:31 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians demite gerente Renan Bloise, tradutor de Memphis Depay, por ordem de Osmar Stábile",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demite-gerente-renan-bloise-tradutor-de-memphis-depay-por-ordem-de-osmar-stabile]]>",
+      "time": "08/04 · 19:10",
+      "pubDate": "Wed, 08 Apr 2026 16:10:37 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Matheus Pereira revela alta expectativa do elenco para estreia do Corinthians na Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530619/matheus-pereira-revela-alta-expectativa-do-elenco-para-estreia-do-corinthians-na-copa-libertadores",
+      "time": "08/04 · 19:01",
+      "pubDate": "Wed, 08 Apr 2026 16:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Relembre todas as estreias do Corinthians na história da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530568/relembre-todas-as-estreias-do-corinthians-na-historia-da-libertadores",
+      "time": "08/04 · 18:28",
+      "pubDate": "Wed, 08 Apr 2026 15:28:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Motivo principal do técnico Tite acabar descartado pelo Corinthians foi seu filho, Matheus Bachi",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/motivo-principal-do-tecnico-tite-acabar-descartado-pelo-corinthians-foi-seu-filho-matheus-bachi]]>",
+      "time": "08/04 · 17:58",
+      "pubDate": "Wed, 08 Apr 2026 14:58:48 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "STJD marca data de julgamento de Memphis por uso de celular durante jogo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530617/stjd-marca-data-de-julgamento-de-memphis-por-uso-de-celular-durante-jogo-do-corinthians",
+      "time": "08/04 · 17:55",
+      "pubDate": "Wed, 08 Apr 2026 14:55:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra preparação para estreia na Libertadores diante do Platense; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530610/corinthians-encerra-preparacao-para-estreia-na-libertadores-diante-do-platense-veja-o-provavel-time",
+      "time": "08/04 · 17:29",
+      "pubDate": "Wed, 08 Apr 2026 14:29:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Martínez se revolta com Dorival e bastidores expõem desgaste no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/martinez-se-revolta-com-dorival-e-bastidores-expoem-desgaste-no-corinthians]]>",
-      "time": "08/04 · 15:49",
-      "pubDate": "Wed, 08 Apr 2026 12:49:10 -0300"
+      "time": "08/04 · 16:59",
+      "pubDate": "Wed, 08 Apr 2026 13:59:08 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians não terá Memphis Depay, Gui Negão e mais três desfalques contra o Platense",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tera-memphis-depay-gui-negao-e-mais-tres-desfalques-contra-o-platense]]>",
-      "time": "08/04 · 15:42",
-      "pubDate": "Wed, 08 Apr 2026 12:42:11 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Barcelona comenta má fase do Corinthians e volta a exaltar a Fiel: 'São especiais'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530601/lateral-do-barcelona-comenta-ma-fase-do-corinthians-e-volta-a-exaltar-a-fiel-sao-especiais",
-      "time": "08/04 · 15:34",
-      "pubDate": "Wed, 08 Apr 2026 12:34:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz expõe plano para o ataque e Corinthians deve ir ao mercado para contratar novo camisa 11",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-expoe-plano-para-o-ataque-e-corinthians-deve-ir-ao-mercado-para-contratar-novo-camisa-11]]>",
-      "time": "08/04 · 15:08",
-      "pubDate": "Wed, 08 Apr 2026 12:08:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians demite gerente de futebol Renan Bloise e decisão expõe pressão interna nos bastidores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demite-gerente-de-futebol-renan-bloise-e-decisao-expoe-pressao-interna-nos-bastidores]]>",
-      "time": "08/04 · 14:58",
-      "pubDate": "Wed, 08 Apr 2026 11:58:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz foi a pior escolha para o Corinthians, segundo Casagrande: “Não acredito no trabalho”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-foi-a-pior-escolha-para-o-corinthians-segundo-casagrande-nao-acredito-no-trabalho]]>",
-      "time": "08/04 · 13:49",
-      "pubDate": "Wed, 08 Apr 2026 10:49:18 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians dispensa gerente de futebol e scout",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530605/corinthians-dispensa-gerente-de-futebol-e-tradutor-de-memphis-depay",
-      "time": "08/04 · 13:15",
-      "pubDate": "Wed, 08 Apr 2026 10:15:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis terá recuperação em quatro etapas, mas segue prazo para retorno no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-tera-recuperacao-em-quatro-etapas-mas-segue-prazo-para-retorno-no-corinthians]]>",
-      "time": "08/04 · 13:13",
-      "pubDate": "Wed, 08 Apr 2026 10:13:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Com Diniz no comando, Corinthians carrega vantagem contra equipes treinadas pelo técnico",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-diniz-no-comando-corinthians-carrega-vantagem-contra-equipes-treinadas-pelo-tecnico]]>",
-      "time": "08/04 · 13:07",
-      "pubDate": "Wed, 08 Apr 2026 10:07:17 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: saiba tudo sobre a disputa do Corinthians no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530597/guia-do-meu-timao-saiba-tudo-sobre-a-disputa-do-corinthians-no-paulista-de-futsal",
-      "time": "08/04 · 13:01",
-      "pubDate": "Wed, 08 Apr 2026 10:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ministério Publico se posiciona sobre pedido de Intervenção Judicial no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530596/ministerio-publico-se-posiciona-sobre-pedido-de-intervencao-judicial-no-corinthians",
-      "time": "08/04 · 12:30",
-      "pubDate": "Wed, 08 Apr 2026 09:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o MRW Praia pela estreia no Campeonato Paulista de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530586/corinthians-recebe-o-mrw-praia-pela-estreia-no-campeonato-paulista-de-futsal-saiba-tudo",
-      "time": "08/04 · 11:31",
-      "pubDate": "Wed, 08 Apr 2026 08:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz estreia na Libertadores em Platense x Corinthians para manter bom aproveitamento no torneio",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-estreia-na-libertadores-em-platense-x-corinthians-para-manter-bom-aproveitamento-no-torneio]]>",
-      "time": "08/04 · 11:19",
-      "pubDate": "Wed, 08 Apr 2026 08:19:12 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: apresentação e primeiro treino de Diniz, cobranças no CT e projeto de SAF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530594/ultimas-do-corinthians-apresentacao-e-primeiro-treino-de-diniz-cobrancas-no-ct-e-projeto-de-saf",
-      "time": "08/04 · 10:30",
-      "pubDate": "Wed, 08 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz elogia jovens do Corinthians e prioriza recuperação imediata de Rodrigo Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530578/diniz-elogia-jovens-do-corinthians-e-prioriza-recuperacao-imediata-de-garro",
-      "time": "08/04 · 01:29",
-      "pubDate": "Tue, 07 Apr 2026 22:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians domina o Osasco no primeiro tempo e emenda terceira vitória seguida no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530591/corinthians-domina-o-osasco-no-primeiro-tempo-e-emenda-terceira-vitoria-seguida-no-nbb",
-      "time": "08/04 · 01:07",
-      "pubDate": "Tue, 07 Apr 2026 22:07:00 -0300"
+      "time": "08/04 · 16:24",
+      "pubDate": "Wed, 08 Apr 2026 13:24:19 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127053/unboxing-corinthians-x-sabotage-collab-de-roupas-do-icone-do-rap-nacional-e-do-time-do-povo",
       "pubDate": "Tue, 07 Apr 2026 19:10:00 -0300",
       "date": "07/04 · 22:10"
-    },
-    {
-      "title": "VÍDEO: Torcida do Corinthians, jeito 'explosivo' e mais: apresentação de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127050/torcida-do-corinthians-jeito-explosivo-e-mais-apresentacao-de-fernando-diniz-no-corinthians",
-      "pubDate": "Tue, 07 Apr 2026 17:24:41 -0300",
-      "date": "07/04 · 20:24"
     }
   ]
 };
