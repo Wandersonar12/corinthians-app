@@ -1,134 +1,134 @@
-// Gerado automaticamente em 09/04/2026, 11:33:27
+// Gerado automaticamente em 09/04/2026, 16:48:51
 const LIVE_DATA = {
-  "updatedAt": "2026-04-09T11:33:27.871Z",
+  "updatedAt": "2026-04-09T16:48:51.788Z",
   "news": [
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Sem tempo para treinar, Diniz lista problemas a corrigir em plena estreia do Corinthians na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/sem-tempo-para-treinar-diniz-lista-problemas-a-corrigir-em-plena-estreia-do-corinthians-na-libertadores]]>",
-      "time": "09/04 · 11:17",
-      "pubDate": "Thu, 09 Apr 2026 08:17:35 -0300"
+      "title": "Negociação de André com Milan esfria e bastidores revelam incômodo no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/negociacao-de-andre-com-milan-esfria-e-bastidores-revelam-incomodo-no-corinthians]]>",
+      "time": "09/04 · 16:33",
+      "pubDate": "Thu, 09 Apr 2026 13:33:30 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: provável escalação, demissão de gerente e manifestação do MP",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530643/ultimas-do-corinthians-provavel-escalacao-demissao-de-gerente-e-manifestacao-do-mp",
-      "time": "09/04 · 10:30",
-      "pubDate": "Thu, 09 Apr 2026 07:30:00 -0300"
+      "title": "Memphis Depay é advertido pelo STJD por uso de celular em jogo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530672/memphis-depay-e-advertido-pelo-stjd-por-uso-de-celular-em-jogo-do-corinthians",
+      "time": "09/04 · 16:32",
+      "pubDate": "Thu, 09 Apr 2026 13:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Platense pela primeira rodada da Copa Libertadores; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530620/corinthians-visita-o-platense-pela-primeira-rodada-da-copa-libertadores-saiba-tudo",
-      "time": "09/04 · 03:01",
-      "pubDate": "Thu, 09 Apr 2026 00:01:00 -0300"
+      "title": "Diniz projeta primeiros jogos no Corinthians e cobra retomada de força na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530581/diniz-projeta-primeiros-jogos-no-corinthians-e-cobra-retomada-de-forca-na-neo-quimica-arena",
+      "time": "09/04 · 16:30",
+      "pubDate": "Thu, 09 Apr 2026 13:30:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Martinelli sinaliza desejo de jogar no Corinthians e sonha com Libertadores: “Meu time do coração”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/martinelli-sinaliza-desejo-de-jogar-no-corinthians]]>",
-      "time": "09/04 · 02:32",
-      "pubDate": "Wed, 08 Apr 2026 23:32:59 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Kansas City Current pela semifinal da Teal Rising Cup; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530618/corinthians-enfrenta-o-kansas-city-current-pela-semifinal-da-teal-rising-cup-saiba-tudo",
-      "time": "09/04 · 02:30",
-      "pubDate": "Wed, 08 Apr 2026 23:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Novo técnico do Corinthians elogia laterais e projeta possibilidade de convocações à Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530583/novo-tecnico-do-corinthians-elogia-laterais-e-projeta-possibilidade-de-convocacoes-a-selecao",
-      "time": "09/04 · 01:30",
-      "pubDate": "Wed, 08 Apr 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz jogo dominante e goleia o Praia Grande na estreia do Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530633/corinthians-faz-jogo-dominante-e-goleia-o-praia-grande-na-estreia-do-paulista-de-futsal",
-      "time": "09/04 · 00:34",
-      "pubDate": "Wed, 08 Apr 2026 21:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Começo de ano abaixo e destaques: conheça mais sobre o adversário do Corinthians na Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530607/comeco-de-anoabaixo-e-destaques-conheca-mais-sobre-o-adversario-do-corinthians-na-teal-rising-cup",
-      "time": "09/04 · 00:32",
-      "pubDate": "Wed, 08 Apr 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz último treino antes de enfrentar o Kansas City Current pela Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530641/corinthians-faz-ultimo-treino-antes-de-enfrentar-o-kansas-city-current-pela-teal-rising-cup",
-      "time": "09/04 · 00:19",
-      "pubDate": "Wed, 08 Apr 2026 21:19:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians sofre lesão no tornozelo e deve desfalcar início da temporada do Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530639/atacante-do-corinthians-sofre-lesao-no-tornozelo-e-deve-desfalcar-inicio-da-temporada-do-sub-17",
-      "time": "09/04 · 00:09",
-      "pubDate": "Wed, 08 Apr 2026 21:09:00 -0300"
+      "title": "Corinthians tenta quebrar tabu de quatro anos na Argentina em estreia de Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-quebrar-tabu-de-quatro-anos-na-argentina-em-estreia-de-fernando-diniz]]>",
+      "time": "09/04 · 16:24",
+      "pubDate": "Thu, 09 Apr 2026 13:24:25 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Escalação do Corinthians: Diniz deve fazer mudanças no ataque em estreia na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-diniz-deve-fazer-mudancas-no-ataque]]>",
-      "time": "08/04 · 23:49",
-      "pubDate": "Wed, 08 Apr 2026 20:49:36 -0300"
+      "title": "Fernando Diniz descobre vantagem antes de Platense x Corinthians com fragilidade ofensiva do adversário",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-descobre-vantagem-antes-de-platense-x-corinthians-com-fragilidade-ofensiva-do-adversario]]>",
+      "time": "09/04 · 16:19",
+      "pubDate": "Thu, 09 Apr 2026 13:19:24 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians vira o pior ataque do Campeonato Brasileiro até a 10ª rodada e agrava crise na temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vira-o-pior-ataque-do-campeonato-brasileiro-ate-a-10a-rodada-e-agrava-crise-na-temporada]]>",
-      "time": "08/04 · 22:29",
-      "pubDate": "Wed, 08 Apr 2026 19:29:32 -0300"
+      "title": "Abel Ferreira destaca cansaço antes de Corinthians x Palmeiras: “Teremos tempo para falar disso depois”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/abel-ferreira-destaca-cansaco-antes-de-corinthians-x-palmeiras-teremos-tempo-para-falar-disso-depois]]>",
+      "time": "09/04 · 16:18",
+      "pubDate": "Thu, 09 Apr 2026 13:18:29 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encara sétimo argentino diferente na Libertadores em meio a histórico ruim",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530630/corinthians-encara-setimo-argentino-diferente-na-libertadores-em-meio-a-historico-ruim",
+      "time": "09/04 · 16:01",
+      "pubDate": "Thu, 09 Apr 2026 13:01:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Diniz mira ‘resgate técnico’ no Corinthians e quer recuperar Garro, André, Bidon e até Alex Santana",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-mira-resgate-tecnico-no-corinthians-e-quer-recuperar-garro-andre-bidon-e-ate-alex-santana]]>",
-      "time": "08/04 · 21:50",
-      "pubDate": "Wed, 08 Apr 2026 18:50:13 -0300"
+      "title": "Fernando Diniz fará primeiro jogo pelo Corinthians contra o Platense; relembre as estreias do técnico",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-fara-primeiro-jogo-pelo-corinthians-contra-o-platense-relembre-as-estreias-do-tecnico]]>",
+      "time": "09/04 · 16:00",
+      "pubDate": "Thu, 09 Apr 2026 13:00:15 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians busca melhorar desempenho em estreias na carreira; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530669/tecnico-do-corinthians-busca-melhorar-desempenho-em-estreias-na-carreira-veja-os-numeros",
+      "time": "09/04 · 15:32",
+      "pubDate": "Thu, 09 Apr 2026 12:32:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians venceu apenas um dos últimos dez jogos oficiais na Argentina em torneios continentais",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-venceu-apenas-um-dos-ultimos-dez-jogos-na-argentina]]>",
-      "time": "08/04 · 20:08",
-      "pubDate": "Wed, 08 Apr 2026 17:08:48 -0300"
+      "title": "Platense enfrenta o Corinthians na Copa Libertadores sem vencer há seis jogos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/platense-enfrenta-o-corinthians-na-copa-libertadores-sem-vencer-ha-seis-jogos]]>",
+      "time": "09/04 · 15:02",
+      "pubDate": "Thu, 09 Apr 2026 12:02:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra árbitro chileno que expulsou Raul Gustavo por agressão ao bandeirinha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530655/corinthians-reencontra-arbitro-chileno-que-expulsou-raul-gustavo-por-agressao-ao-bandeirinha",
+      "time": "09/04 · 14:30",
+      "pubDate": "Thu, 09 Apr 2026 11:30:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Fernando Diniz aparece no BID e já pode estrear pelo Corinthians na Copa Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-e-registrado-e-pode-estrear-no-comando-do-corinthians]]>",
-      "time": "08/04 · 19:51",
-      "pubDate": "Wed, 08 Apr 2026 16:51:22 -0300"
+      "title": "Fernando Diniz estreia em Platense-ARG x Corinthians e elenco tem apenas um velho-conhecido do treinador",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-estreia-em-platense-arg-x-corinthians-e-elenco-tem-apenas-um-velho-conhecido-do-treinador]]>",
+      "time": "09/04 · 14:05",
+      "pubDate": "Thu, 09 Apr 2026 11:05:05 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Joia da base do Corinthians estreia no profissional com assistência em goleada sobre o Praia Grande",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530662/joia-da-base-do-corinthians-estreia-no-profissional-com-assistencia-em-goleada-sobre-o-praia-grande",
+      "time": "09/04 · 14:01",
+      "pubDate": "Thu, 09 Apr 2026 11:01:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Antes de Platense x Corinthians, Yuri Alberto tem desempenho 3 vezes superior ao de Tomás Nasif",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/antes-de-platense-x-corinthians-yuri-alberto-tem-desempenho-3-vezes-superior-ao-de-tomas-nasif]]>",
-      "time": "08/04 · 19:41",
-      "pubDate": "Wed, 08 Apr 2026 16:41:13 -0300"
+      "title": "Diego Simeone aprova e Atlético de Madrid prepara oferta ao Corinthians de R$ 156 milhões por André Luiz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diego-simeone-aprova-e-atletico-de-madrid-prepara-oferta-ao-corinthians-de-r-156-milhoes-por-andre-luiz]]>",
+      "time": "09/04 · 13:48",
+      "pubDate": "Thu, 09 Apr 2026 10:48:46 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Paulistano para manter sequência positiva no NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530628/corinthians-recebe-o-paulistano-para-manter-sequencia-positiva-no-nbb-saiba-tudo",
+      "time": "09/04 · 13:34",
+      "pubDate": "Thu, 09 Apr 2026 10:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: O que esperar do Corinthians de Fernando Diniz na Libertadores da América?",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127079/o-que-esperar-do-corinthians-de-fernando-diniz-na-libertadores-da-america",
+      "time": "09/04 · 12:34",
+      "pubDate": "Thu, 09 Apr 2026 09:34:21 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,30 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Joia da base do Corinthians estreia no profissional com assistência em goleada sobre o Praia Grande",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530662/joia-da-base-do-corinthians-estreia-no-profissional-com-assistencia-em-goleada-sobre-o-praia-grande",
+      "pubDate": "Thu, 09 Apr 2026 11:01:00 -0300",
+      "date": "09/04 · 14:01"
+    },
+    {
+      "title": "VÍDEO: O que esperar do Corinthians de Fernando Diniz na Libertadores da América?",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127079/o-que-esperar-do-corinthians-de-fernando-diniz-na-libertadores-da-america",
+      "pubDate": "Thu, 09 Apr 2026 09:34:21 -0300",
+      "date": "09/04 · 12:34"
+    },
+    {
+      "title": "Saiba a única opção para assistir ao confronto entre Corinthians e KC Current pela Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530626/saiba-a-unica-opcao-para-assistir-ao-confronto-entre-corinthians-e-kc-current-pela-teal-rising-cup",
+      "pubDate": "Thu, 09 Apr 2026 09:32:00 -0300",
+      "date": "09/04 · 12:32"
+    },
+    {
+      "title": "Saiba onde assistir à estreia do Corinthians na Copa Libertadores 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530625/saiba-onde-assistir-a-estreia-do-corinthians-na-copa-libertadores-2026",
+      "pubDate": "Thu, 09 Apr 2026 08:30:00 -0300",
+      "date": "09/04 · 11:30"
+    },
     {
       "title": "Corinthians faz jogo dominante e goleia o Praia Grande na estreia do Paulista de Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530633/corinthians-faz-jogo-dominante-e-goleia-o-praia-grande-na-estreia-do-paulista-de-futsal",
