@@ -1,7 +1,103 @@
-// Gerado automaticamente em 10/04/2026, 14:41:03
+// Gerado automaticamente em 10/04/2026, 19:58:34
 const LIVE_DATA = {
-  "updatedAt": "2026-04-10T14:41:03.656Z",
+  "updatedAt": "2026-04-10T19:58:34.097Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians monitora Everton Cebolinha, mas Flamengo trava saída e cria novela no mercado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-everton-cebolinha-mas-flamengo-trava-saida-e-cria-novela-no-mercado]]>",
+      "time": "10/04 · 19:40",
+      "pubDate": "Fri, 10 Apr 2026 16:40:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jovem atacante do Corinthians destaca confiança de Diniz e celebra gol na estreia na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530751/jovem-atacante-do-corinthians-destaca-confianca-de-diniz-e-celebra-gol-na-estreia-na-libertadores",
+      "time": "10/04 · 19:32",
+      "pubDate": "Fri, 10 Apr 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz segura Allan no banco no Corinthians e decisão estratégica agita bastidores e torcida",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-segura-allan-no-banco-no-corinthians-e-decisao-estrategica-agita-bastidores-e-torcida]]>",
+      "time": "10/04 · 19:10",
+      "pubDate": "Fri, 10 Apr 2026 16:10:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians quebra sequência de jogos sem marcar dois gols em vitória sobre o Platense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530711/corinthians-quebra-sequencia-de-jogos-sem-marcar-dois-gols-em-vitoria-sobre-o-platense",
+      "time": "10/04 · 19:01",
+      "pubDate": "Fri, 10 Apr 2026 16:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians melhora retrospecto em estreias na Libertadores após vitória sobre o Platense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530710/corinthians-melhora-retrospecto-em-estreias-na-libertadores-apos-vitoria-sobre-o-platense",
+      "time": "10/04 · 18:33",
+      "pubDate": "Fri, 10 Apr 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Galvão Bueno faz post após estreia de Fernando Diniz no Corinthians com elogios: “Começou com pé direito”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/galvao-bueno-faz-post-apos-estreia-de-fernando-diniz-no-corinthians-com-elogios-comecou-com-pe-direito]]>",
+      "time": "10/04 · 18:13",
+      "pubDate": "Fri, 10 Apr 2026 15:13:17 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Neto destaca estreia de Fernando Diniz no Corinthians e rasga elogios: “O time está organizado”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-destaca-estreia-de-fernando-diniz-no-corinthians-e-rasga-elogios-o-time-esta-organizado]]>",
+      "time": "10/04 · 18:06",
+      "pubDate": "Fri, 10 Apr 2026 15:06:06 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a não sofrer gols depois de três jogos sendo vazado; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530735/corinthians-volta-a-nao-sofrer-gols-depois-de-tres-jogos-sendo-vazado-veja-os-numeros",
+      "time": "10/04 · 18:01",
+      "pubDate": "Fri, 10 Apr 2026 15:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kayke volta a brilhar e vira destaque do Corinthians em triunfo na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kayke-volta-a-brilhar-e-vira-destaque-do-corinthians-em-triunfo-na-libertadores]]>",
+      "time": "10/04 · 17:58",
+      "pubDate": "Fri, 10 Apr 2026 14:58:49 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Hugo Souza exalta vitória do Corinthians na estreia da Libertadores e confia em trabalho de Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530752/hugo-souza-exalta-vitoria-do-corinthians-na-estreia-da-libertadores-e-confia-em-trabalho-de-diniz",
+      "time": "10/04 · 17:33",
+      "pubDate": "Fri, 10 Apr 2026 14:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Armador do Corinthians ultrapassa marca histórica de assistências no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530693/armador-do-corinthians-ultrapassa-marca-historica-de-assistencias-no-nbb",
+      "time": "10/04 · 16:32",
+      "pubDate": "Fri, 10 Apr 2026 13:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Rodrigo Garro iguala marca que não acontecia desde 2024 em estreia do Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530707/rodrigo-garro-iguala-marca-que-nao-acontecia-desde-2024-em-estreia-do-corinthians-na-libertadores",
+      "time": "10/04 · 15:31",
+      "pubDate": "Fri, 10 Apr 2026 12:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,14 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Apr 2026 10:50:27 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra jejum de vitórias em jogos disputados na Argentina; confira lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530701/corinthians-encerra-jejum-de-vitorias-em-jogos-disputados-na-argentina-confira-lista",
-      "time": "10/04 · 13:32",
-      "pubDate": "Fri, 10 Apr 2026 10:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Garro rende mais como camisa 10 e mudança explica evolução no Corinthians",
@@ -35,100 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Apr 2026 10:24:40 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Hugo Souza fala sobre importante vitória do Corinthians e comenta sentimento de jogar Libertadores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127099/hugo-souza-fala-sobre-importante-vitoria-do-corinthians-e-comenta-sentimento-de-jogar-libertadores",
-      "time": "10/04 · 12:51",
-      "pubDate": "Fri, 10 Apr 2026 09:51:02 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Kayke compara gol com Romarinho, celebra vitória do Corinthians e agradece Garro",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127100/kayke-compara-gol-com-romarinho-celebra-vitoria-do-corinthians-e-agradece-garro",
-      "time": "10/04 · 12:51",
-      "pubDate": "Fri, 10 Apr 2026 09:51:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Yuri fala sobre jogo pós cirurgia dental e comenta gol na vitória do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127098/yuri-fala-sobre-jogo-pos-cirurgia-dental-e-comenta-gol-na-vitoria-do-corinthians-na-libertadores",
-      "time": "10/04 · 12:49",
-      "pubDate": "Fri, 10 Apr 2026 09:49:36 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante da Seleção Brasileira reforça desejo de atuar pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530688/atacante-da-selecao-brasileira-reforca-desejo-de-atuar-pelo-corinthians",
-      "time": "10/04 · 12:32",
-      "pubDate": "Fri, 10 Apr 2026 09:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians monitora Everton Cebolinha e estuda investida com liberação do Flamengo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-everton-cebolinha-e-estuda-investida-com-liberacao-do-flamengo]]>",
       "time": "10/04 · 12:27",
       "pubDate": "Fri, 10 Apr 2026 09:27:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Garro e Carrillo ganham força com Diniz e viram pilares do novo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-e-carrillo-ganham-forca-com-diniz-e-viram-pilares-do-novo-corinthians]]>",
-      "time": "10/04 · 11:23",
-      "pubDate": "Fri, 10 Apr 2026 08:23:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto ‘mata o jogo’ após linda jogada e vira herói do Corinthians em estreia de Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-mata-o-jogo-apos-linda-jogada-e-vira-heroi-do-corinthians-em-estreia-de-fernando-diniz]]>",
-      "time": "10/04 · 10:37",
-      "pubDate": "Fri, 10 Apr 2026 07:37:31 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória na Libertadores, punição a Memphis e derrota das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530739/ultimas-do-corinthians-vitoria-na-libertadores-punicao-a-memphis-e-derrota-das-brabas",
-      "time": "10/04 · 10:30",
-      "pubDate": "Fri, 10 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza expõe estratégia de Fernando Diniz para conquistar vitória em estreia no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-expoe-estrategia-de-fernando-diniz-para-conquistar-vitoria-em-estreia-no-corinthians]]>",
-      "time": "10/04 · 09:46",
-      "pubDate": "Fri, 10 Apr 2026 06:46:44 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre fase na liderança do grupo da Libertadores ao fim da primeira rodada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530724/corinthians-abre-fase-na-lideranca-do-grupo-da-libertadores-ao-fim-da-primeira-rodada",
-      "time": "10/04 · 03:59",
-      "pubDate": "Fri, 10 Apr 2026 00:59:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz impõe forte discurso aos jogadores em estreia no Corinthians: “Se errar, f**”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-impoe-forte-discurso-aos-jogadores-em-estreia-no-corinthians]]>",
-      "time": "10/04 · 02:39",
-      "pubDate": "Thu, 09 Apr 2026 23:39:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz vence primeira pelo Corinthians em jogo marcado por oportunismo e troca de passes",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-vence-primeira-pelo-corinthians-em-jogo-marcado-por-oportunismo-e-troca-de-passes]]>",
-      "time": "10/04 · 01:54",
-      "pubDate": "Thu, 09 Apr 2026 22:54:39 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,24 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Jovem atacante do Corinthians destaca confiança de Diniz e celebra gol na estreia na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530751/jovem-atacante-do-corinthians-destaca-confianca-de-diniz-e-celebra-gol-na-estreia-na-libertadores",
+      "pubDate": "Fri, 10 Apr 2026 16:32:00 -0300",
+      "date": "10/04 · 19:32"
+    },
+    {
+      "title": "Corinthians quebra sequência de jogos sem marcar dois gols em vitória sobre o Platense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530711/corinthians-quebra-sequencia-de-jogos-sem-marcar-dois-gols-em-vitoria-sobre-o-platense",
+      "pubDate": "Fri, 10 Apr 2026 16:01:00 -0300",
+      "date": "10/04 · 19:01"
+    },
+    {
+      "title": "Corinthians volta a não sofrer gols depois de três jogos sendo vazado; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530735/corinthians-volta-a-nao-sofrer-gols-depois-de-tres-jogos-sendo-vazado-veja-os-numeros",
+      "pubDate": "Fri, 10 Apr 2026 15:01:00 -0300",
+      "date": "10/04 · 18:01"
+    },
     {
       "title": "VÍDEO: Hugo Souza fala sobre importante vitória do Corinthians e comenta sentimento de jogar Libertadores",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127099/hugo-souza-fala-sobre-importante-vitoria-do-corinthians-e-comenta-sentimento-de-jogar-libertadores",
