@@ -1,46 +1,110 @@
-// Gerado automaticamente em 10/04/2026, 19:58:34
+// Gerado automaticamente em 10/04/2026, 23:54:09
 const LIVE_DATA = {
-  "updatedAt": "2026-04-10T19:58:34.097Z",
+  "updatedAt": "2026-04-10T23:54:09.663Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay segue fora e Corinthians tem desfalques de peso contra o Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-segue-fora-e-corinthians-tem-desfalques-de-peso]]>",
+      "time": "10/04 · 23:42",
+      "pubDate": "Fri, 10 Apr 2026 20:42:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz detalha ajustes no Corinthians em vitória na Libertadores e cita falta de tempo para treinos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530725/diniz-detalha-ajustes-no-corinthians-em-vitoria-na-libertadores-e-cita-falta-de-tempo-para-treinos",
+      "time": "10/04 · 23:31",
+      "pubDate": "Fri, 10 Apr 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Seleção de futsal da Argentina realiza sessão de treinos no ginásio do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530776/selecao-de-futsal-da-argentina-realiza-sessao-de-treinos-no-ginasio-do-corinthians",
+      "time": "10/04 · 23:02",
+      "pubDate": "Fri, 10 Apr 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians entra no pódio de artilheiros na temporada após vitória contra o Platense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530719/atacante-do-corinthians-entra-no-podio-de-artilheiros-na-temporada-apos-vitoria-contra-o-platense",
+      "time": "10/04 · 22:32",
+      "pubDate": "Fri, 10 Apr 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Comissão do Corinthians define detalhes para Assembleia Geral da Reforma do Estatuto; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530780/comissao-do-corinthians-define-detalhes-para-assembleia-geral-da-reforma-do-estatuto-saiba-mais",
+      "time": "10/04 · 22:12",
+      "pubDate": "Fri, 10 Apr 2026 19:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta clube mexicano na busca pelo terceiro lugar da Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530773/corinthians-enfrenta-clube-mexicano-na-busca-pelo-terceiro-lugar-da-teal-rising-cup",
+      "time": "10/04 · 22:03",
+      "pubDate": "Fri, 10 Apr 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "De olho em Everton Cebolinha, Corinthians só fará acordo caso Memphis deixe o clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/de-olho-em-everton-cebolinha-corinthians-so-fara-acordo-caso-memphis-deixe-o-clube]]>",
+      "time": "10/04 · 21:57",
+      "pubDate": "Fri, 10 Apr 2026 18:57:11 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Clássico entre Corinthians e Palmeiras terá tecnologia de anúncio do árbitro ao público; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530779/classico-entre-corinthians-e-palmeiras-tera-tecnologia-de-anuncio-do-arbitro-ao-publico-entenda",
+      "time": "10/04 · 21:45",
+      "pubDate": "Fri, 10 Apr 2026 18:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians exalta Rodrigo Garro e projeta retomada do argentino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530723/tecnico-do-corinthians-exalta-rodrigo-garro-e-projeta-retomada-do-argentino",
+      "time": "10/04 · 21:31",
+      "pubDate": "Fri, 10 Apr 2026 18:31:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians monitora Everton Cebolinha, mas Flamengo trava saída e cria novela no mercado",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-everton-cebolinha-mas-flamengo-trava-saida-e-cria-novela-no-mercado]]>",
-      "time": "10/04 · 19:40",
-      "pubDate": "Fri, 10 Apr 2026 16:40:13 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jovem atacante do Corinthians destaca confiança de Diniz e celebra gol na estreia na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530751/jovem-atacante-do-corinthians-destaca-confianca-de-diniz-e-celebra-gol-na-estreia-na-libertadores",
-      "time": "10/04 · 19:32",
-      "pubDate": "Fri, 10 Apr 2026 16:32:00 -0300"
+      "time": "10/04 · 21:17",
+      "pubDate": "Fri, 10 Apr 2026 18:17:50 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz segura Allan no banco no Corinthians e decisão estratégica agita bastidores e torcida",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-segura-allan-no-banco-no-corinthians-e-decisao-estrategica-agita-bastidores-e-torcida]]>",
-      "time": "10/04 · 19:10",
-      "pubDate": "Fri, 10 Apr 2026 16:10:45 -0300"
+      "time": "10/04 · 21:16",
+      "pubDate": "Fri, 10 Apr 2026 18:16:50 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians quebra sequência de jogos sem marcar dois gols em vitória sobre o Platense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530711/corinthians-quebra-sequencia-de-jogos-sem-marcar-dois-gols-em-vitoria-sobre-o-platense",
-      "time": "10/04 · 19:01",
-      "pubDate": "Fri, 10 Apr 2026 16:01:00 -0300"
+      "title": "Corinthians perde vantagem no confronto direto contra equipes norte-americanas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530697/corinthians-perde-vantagem-no-confronto-direto-contra-equipes-norte-americanas",
+      "time": "10/04 · 21:04",
+      "pubDate": "Fri, 10 Apr 2026 18:04:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians melhora retrospecto em estreias na Libertadores após vitória sobre o Platense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530710/corinthians-melhora-retrospecto-em-estreias-na-libertadores-apos-vitoria-sobre-o-platense",
-      "time": "10/04 · 18:33",
-      "pubDate": "Fri, 10 Apr 2026 15:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Garro cresce com Diniz, assume protagonismo e vira peça-chave ao lado de Carrillo no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-cresce-com-diniz-assume-protagonismo-e-vira-peca-chave-ao-lado-de-carrillo-no-corinthians]]>",
+      "time": "10/04 · 20:01",
+      "pubDate": "Fri, 10 Apr 2026 17:01:32 -0300"
     },
     {
       "source": "Bolavip",
@@ -59,76 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Apr 2026 15:06:06 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a não sofrer gols depois de três jogos sendo vazado; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530735/corinthians-volta-a-nao-sofrer-gols-depois-de-tres-jogos-sendo-vazado-veja-os-numeros",
-      "time": "10/04 · 18:01",
-      "pubDate": "Fri, 10 Apr 2026 15:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Kayke volta a brilhar e vira destaque do Corinthians em triunfo na Libertadores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kayke-volta-a-brilhar-e-vira-destaque-do-corinthians-em-triunfo-na-libertadores]]>",
       "time": "10/04 · 17:58",
       "pubDate": "Fri, 10 Apr 2026 14:58:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Hugo Souza exalta vitória do Corinthians na estreia da Libertadores e confia em trabalho de Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530752/hugo-souza-exalta-vitoria-do-corinthians-na-estreia-da-libertadores-e-confia-em-trabalho-de-diniz",
-      "time": "10/04 · 17:33",
-      "pubDate": "Fri, 10 Apr 2026 14:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Armador do Corinthians ultrapassa marca histórica de assistências no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530693/armador-do-corinthians-ultrapassa-marca-historica-de-assistencias-no-nbb",
-      "time": "10/04 · 16:32",
-      "pubDate": "Fri, 10 Apr 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Rodrigo Garro iguala marca que não acontecia desde 2024 em estreia do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530707/rodrigo-garro-iguala-marca-que-nao-acontecia-desde-2024-em-estreia-do-corinthians-na-libertadores",
-      "time": "10/04 · 15:31",
-      "pubDate": "Fri, 10 Apr 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto revela sacrifício para atuar na Libertadores e analisa chegada de Diniz ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530753/yuri-alberto-revela-sacrificio-para-atuar-na-libertadores-e-analisa-chegada-de-diniz-ao-corinthians",
-      "time": "10/04 · 14:32",
-      "pubDate": "Fri, 10 Apr 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Estafe de Yuri Alberto está interessado e centroavante do Corinthians pode jogar na Seleção da Itália",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/estafe-de-yuri-alberto-esta-interessado-e-centroavante-do-corinthians-pode-jogar-na-selecao-da-italia]]>",
-      "time": "10/04 · 13:50",
-      "pubDate": "Fri, 10 Apr 2026 10:50:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Garro rende mais como camisa 10 e mudança explica evolução no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-rende-mais-como-camisa-10-e-mudanca-explica-evolucao-no-corinthians]]>",
-      "time": "10/04 · 13:24",
-      "pubDate": "Fri, 10 Apr 2026 10:24:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians monitora Everton Cebolinha e estuda investida com liberação do Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-everton-cebolinha-e-estuda-investida-com-liberacao-do-flamengo]]>",
-      "time": "10/04 · 12:27",
-      "pubDate": "Fri, 10 Apr 2026 09:27:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Yuri Alberto marcou quase um terço dos gols pelo Corinthians com o 'pé ruim'; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530766/yuri-alberto-marcou-quase-um-terco-dos-gols-pelo-corinthians-com-o-pe-ruim-veja-os-numeros",
+      "pubDate": "Fri, 10 Apr 2026 17:01:00 -0300",
+      "date": "10/04 · 20:01"
+    },
+    {
       "title": "Jovem atacante do Corinthians destaca confiança de Diniz e celebra gol na estreia na Libertadores",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530751/jovem-atacante-do-corinthians-destaca-confianca-de-diniz-e-celebra-gol-na-estreia-na-libertadores",
       "pubDate": "Fri, 10 Apr 2026 16:32:00 -0300",
@@ -240,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127093/fernando-diniz-comenta-estreia-com-vitoria-na-liberta-injecao-de-confianca-no-grupo-e-gol-de-kayke",
       "pubDate": "Fri, 10 Apr 2026 01:05:42 -0300",
       "date": "10/04 · 04:05"
-    },
-    {
-      "title": "Goleiro do Corinthians comemora desempenho defensivo e avalia início de trabalho de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530727/goleiro-do-corinthians-comemora-desempenho-defensivo-e-avalia-inicio-de-trabalho-de-fernando-diniz",
-      "pubDate": "Fri, 10 Apr 2026 00:04:00 -0300",
-      "date": "10/04 · 03:04"
     }
   ]
 };
