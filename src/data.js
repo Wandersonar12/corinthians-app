@@ -1,7 +1,55 @@
-// Gerado automaticamente em 10/04/2026, 23:54:09
+// Gerado automaticamente em 11/04/2026, 10:01:28
 const LIVE_DATA = {
-  "updatedAt": "2026-04-10T23:54:09.663Z",
+  "updatedAt": "2026-04-11T10:01:28.657Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Nicola revela que Memphis Depay pode não jogar mais com a camisa do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/nicola-revela-que-memphis-depay-pode-nao-jogar-mais-com-a-camisa-do-corinthians]]>",
+      "time": "11/04 · 03:33",
+      "pubDate": "Sat, 11 Apr 2026 00:33:39 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians ganha vaga no time ideal da primeira rodada da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530788/atacante-do-corinthians-ganha-vaga-no-time-ideal-da-primeira-rodada-da-libertadores",
+      "time": "11/04 · 01:35",
+      "pubDate": "Fri, 10 Apr 2026 22:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueira contratada pelo Corinthians completa três meses sem entrar em campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530750/zagueira-contratada-pelo-corinthians-completa-tres-meses-sem-entrar-em-campo",
+      "time": "11/04 · 01:31",
+      "pubDate": "Fri, 10 Apr 2026 22:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Espírito coletivo e cobrança ditam o tom nos bastidores da vitória do Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530786/espirito-coletivo-e-cobranca-ditam-o-tom-nos-bastidores-da-vitoria-do-corinthians-na-libertadores",
+      "time": "11/04 · 00:48",
+      "pubDate": "Fri, 10 Apr 2026 21:48:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Everton Cebolinha prioriza exterior e dificulta plano do Corinthians por acordo no meio da temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/everton-cebolinha-prioriza-exterior-e-dificulta-plano-do-corinthians-por-acordo-no-meio-da-temporada]]>",
+      "time": "11/04 · 00:41",
+      "pubDate": "Fri, 10 Apr 2026 21:41:51 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians amplia liderança no ranking de assistentes da equipe em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530720/meia-do-corinthians-amplia-lideranca-no-ranking-de-assistentes-da-equipe-em-2026",
+      "time": "11/04 · 00:33",
+      "pubDate": "Fri, 10 Apr 2026 21:33:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -43,36 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Apr 2026 19:12:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians enfrenta clube mexicano na busca pelo terceiro lugar da Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530773/corinthians-enfrenta-clube-mexicano-na-busca-pelo-terceiro-lugar-da-teal-rising-cup",
-      "time": "10/04 · 22:03",
-      "pubDate": "Fri, 10 Apr 2026 19:03:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "De olho em Everton Cebolinha, Corinthians só fará acordo caso Memphis deixe o clube",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/de-olho-em-everton-cebolinha-corinthians-so-fara-acordo-caso-memphis-deixe-o-clube]]>",
       "time": "10/04 · 21:57",
       "pubDate": "Fri, 10 Apr 2026 18:57:11 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Clássico entre Corinthians e Palmeiras terá tecnologia de anúncio do árbitro ao público; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530779/classico-entre-corinthians-e-palmeiras-tera-tecnologia-de-anuncio-do-arbitro-ao-publico-entenda",
-      "time": "10/04 · 21:45",
-      "pubDate": "Fri, 10 Apr 2026 18:45:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians exalta Rodrigo Garro e projeta retomada do argentino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530723/tecnico-do-corinthians-exalta-rodrigo-garro-e-projeta-retomada-do-argentino",
-      "time": "10/04 · 21:31",
-      "pubDate": "Fri, 10 Apr 2026 18:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -91,14 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Apr 2026 18:16:50 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde vantagem no confronto direto contra equipes norte-americanas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530697/corinthians-perde-vantagem-no-confronto-direto-contra-equipes-norte-americanas",
-      "time": "10/04 · 21:04",
-      "pubDate": "Fri, 10 Apr 2026 18:04:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Garro cresce com Diniz, assume protagonismo e vira peça-chave ao lado de Carrillo no Corinthians",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/galvao-bueno-faz-post-apos-estreia-de-fernando-diniz-no-corinthians-com-elogios-comecou-com-pe-direito]]>",
       "time": "10/04 · 18:13",
       "pubDate": "Fri, 10 Apr 2026 15:13:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Neto destaca estreia de Fernando Diniz no Corinthians e rasga elogios: “O time está organizado”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-destaca-estreia-de-fernando-diniz-no-corinthians-e-rasga-elogios-o-time-esta-organizado]]>",
-      "time": "10/04 · 18:06",
-      "pubDate": "Fri, 10 Apr 2026 15:06:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kayke volta a brilhar e vira destaque do Corinthians em triunfo na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kayke-volta-a-brilhar-e-vira-destaque-do-corinthians-em-triunfo-na-libertadores]]>",
-      "time": "10/04 · 17:58",
-      "pubDate": "Fri, 10 Apr 2026 14:58:49 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -240,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127098/yuri-fala-sobre-jogo-pos-cirurgia-dental-e-comenta-gol-na-vitoria-do-corinthians-na-libertadores",
       "pubDate": "Fri, 10 Apr 2026 09:49:36 -0300",
       "date": "10/04 · 12:49"
-    },
-    {
-      "title": "VÍDEO: Fernando Diniz comenta estreia com vitória na Liberta, injeção de confiança no grupo e gol de Kayke",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127093/fernando-diniz-comenta-estreia-com-vitoria-na-liberta-injecao-de-confianca-no-grupo-e-gol-de-kayke",
-      "pubDate": "Fri, 10 Apr 2026 01:05:42 -0300",
-      "date": "10/04 · 04:05"
     }
   ]
 };
