@@ -1,7 +1,87 @@
-// Gerado automaticamente em 11/04/2026, 14:06:08
+// Gerado automaticamente em 11/04/2026, 19:51:37
 const LIVE_DATA = {
-  "updatedAt": "2026-04-11T14:06:08.658Z",
+  "updatedAt": "2026-04-11T19:51:37.592Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Estádio do Corinthians recebe primeira edição em 2026 de campanha para doação de sangue",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530800/estadio-do-corinthians-recebe-primeira-edicao-em-2026-de-campanha-para-doacao-de-sangue",
+      "time": "11/04 · 19:32",
+      "pubDate": "Sat, 11 Apr 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico da Seleção comenta ausência de jogadora do Corinthians em competição nos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530806/tecnico-da-selecao-comenta-ausencia-de-jogadora-do-corinthians-em-competicao-nos-estados-unidos",
+      "time": "11/04 · 19:07",
+      "pubDate": "Sat, 11 Apr 2026 16:07:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Palmeiras: Cicinho faz alerta e prevê goleada alviverde no Dérbi Paulista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-palmeiras-cicinho-faz-alerta-e-preve-goleada-alviverde-no-derbi-paulista]]>",
+      "time": "11/04 · 18:36",
+      "pubDate": "Sat, 11 Apr 2026 15:36:27 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians está fora de partida do Brasil por protocolo de concussão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530808/meio-campista-do-corinthians-esta-fora-de-partida-do-brasil-por-protocolo-de-concussao",
+      "time": "11/04 · 18:10",
+      "pubDate": "Sat, 11 Apr 2026 15:10:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca voltar a vencer na Arena e evitar repetição de sequência negativa do final de 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530775/corinthians-busca-voltar-a-vencer-na-arena-e-evitar-repeticao-de-sequencia-negativa-do-final-de-2025",
+      "time": "11/04 · 17:32",
+      "pubDate": "Sat, 11 Apr 2026 14:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians lança copo especial para primeiro Dérbi do Brasileirão 2026; veja fotos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530805/corinthians-lanca-copo-especial-para-primeiro-derbi-do-brasileirao-2026-veja-fotos",
+      "time": "11/04 · 17:03",
+      "pubDate": "Sat, 11 Apr 2026 14:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians chega ao décimo treinador a encarar Palmeiras de Abel Ferreira; veja números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530789/corinthians-chega-ao-decimo-treinador-a-encarar-palmeiras-de-abel-ferreira-veja-numeros",
+      "time": "11/04 · 16:34",
+      "pubDate": "Sat, 11 Apr 2026 13:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Escalação do Corinthians: Fernando Diniz define time titular com Kayke contra o Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-fernando-diniz-define-time-titular-com-kayke-contra-o-palmeiras]]>",
+      "time": "11/04 · 16:30",
+      "pubDate": "Sat, 11 Apr 2026 13:30:18 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians fala sobre papel de liderança no elenco e projeta Dérbi pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530754/atacante-do-corinthians-fala-sobre-papel-de-lideranca-no-elenco-e-projeta-derbi-pelo-brasileirao",
+      "time": "11/04 · 15:32",
+      "pubDate": "Sat, 11 Apr 2026 12:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians registra mais da metade das assistências de 2025 em início de temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530770/meia-do-corinthians-registra-mais-da-metade-das-assistencias-de-2025-em-inicio-de-temporada",
+      "time": "11/04 · 14:30",
+      "pubDate": "Sat, 11 Apr 2026 11:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -11,84 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Apr 2026 10:50:19 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians entram em campo pela Seleção na estreia do Fifa Series; veja onde assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530798/jogadoras-do-corinthians-entram-em-campo-pela-selecao-na-estreia-do-fifa-series-veja-onde-assistir",
-      "time": "11/04 · 13:31",
-      "pubDate": "Sat, 11 Apr 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians garante vitória da Colômbia na Liga das Nações; dupla atua como titular",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530799/atacante-do-corinthians-garante-vitoria-da-colombia-na-liga-das-nacoes-dupla-atua-como-titular",
-      "time": "11/04 · 12:24",
-      "pubDate": "Sat, 11 Apr 2026 09:24:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Nicola revela que Memphis Depay pode não jogar mais com a camisa do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/nicola-revela-que-memphis-depay-pode-nao-jogar-mais-com-a-camisa-do-corinthians]]>",
       "time": "11/04 · 11:48",
       "pubDate": "Sat, 11 Apr 2026 08:48:57 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Rodrigo Garro lidera quesitos ofensivos do Corinthians na temporada; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530762/rodrigo-garro-lidera-quesitos-ofensivos-do-corinthians-na-temporada-veja-os-numeros",
-      "time": "11/04 · 11:30",
-      "pubDate": "Sat, 11 Apr 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz segura Allan no banco no Corinthians e decisão estratégica agita bastidores e torcida",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-segura-allan-no-banco-no-corinthians-e-decisao-estrategica-agita-bastidores-e-torcida]]>",
-      "time": "11/04 · 11:09",
-      "pubDate": "Sat, 11 Apr 2026 08:09:14 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: Yuri na Itália, carinho de atacante e assembleia geral",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530787/ultimas-do-corinthians-yuri-na-italia-carinho-de-atacante-e-assembleia-geral",
-      "time": "11/04 · 10:30",
-      "pubDate": "Sat, 11 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians ganha vaga no time ideal da primeira rodada da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530788/atacante-do-corinthians-ganha-vaga-no-time-ideal-da-primeira-rodada-da-libertadores",
-      "time": "11/04 · 01:35",
-      "pubDate": "Fri, 10 Apr 2026 22:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueira contratada pelo Corinthians completa três meses sem entrar em campo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530750/zagueira-contratada-pelo-corinthians-completa-tres-meses-sem-entrar-em-campo",
-      "time": "11/04 · 01:31",
-      "pubDate": "Fri, 10 Apr 2026 22:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Espírito coletivo e cobrança ditam o tom nos bastidores da vitória do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530786/espirito-coletivo-e-cobranca-ditam-o-tom-nos-bastidores-da-vitoria-do-corinthians-na-libertadores",
-      "time": "11/04 · 00:48",
-      "pubDate": "Fri, 10 Apr 2026 21:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians amplia liderança no ranking de assistentes da equipe em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530720/meia-do-corinthians-amplia-lideranca-no-ranking-de-assistentes-da-equipe-em-2026",
-      "time": "11/04 · 00:33",
-      "pubDate": "Fri, 10 Apr 2026 21:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-cresce-com-diniz-assume-protagonismo-e-vira-peca-chave-ao-lado-de-carrillo-no-corinthians]]>",
       "time": "10/04 · 20:01",
       "pubDate": "Fri, 10 Apr 2026 17:01:32 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Galvão Bueno faz post após estreia de Fernando Diniz no Corinthians com elogios: “Começou com pé direito”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/galvao-bueno-faz-post-apos-estreia-de-fernando-diniz-no-corinthians-com-elogios-comecou-com-pe-direito]]>",
-      "time": "10/04 · 18:13",
-      "pubDate": "Fri, 10 Apr 2026 15:13:17 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,8 +200,8 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Jogadoras do Corinthians entram em campo pela Seleção na estreia do Fifa Series; veja onde assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530798/jogadoras-do-corinthians-entram-em-campo-pela-selecao-na-estreia-do-fifa-series-veja-onde-assistir",
+      "title": "Jogadoras do Corinthians entram em campo pela Seleção na estreia da Fifa Series; veja onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530798/jogadoras-do-corinthians-entram-em-campo-pela-selecao-na-estreia-da-fifa-series-veja-onde-assistir",
       "pubDate": "Sat, 11 Apr 2026 10:31:00 -0300",
       "date": "11/04 · 13:31"
     },
@@ -222,24 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530711/corinthians-quebra-sequencia-de-jogos-sem-marcar-dois-gols-em-vitoria-sobre-o-platense",
       "pubDate": "Fri, 10 Apr 2026 16:01:00 -0300",
       "date": "10/04 · 19:01"
-    },
-    {
-      "title": "Corinthians volta a não sofrer gols depois de três jogos sendo vazado; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530735/corinthians-volta-a-nao-sofrer-gols-depois-de-tres-jogos-sendo-vazado-veja-os-numeros",
-      "pubDate": "Fri, 10 Apr 2026 15:01:00 -0300",
-      "date": "10/04 · 18:01"
-    },
-    {
-      "title": "VÍDEO: Hugo Souza fala sobre importante vitória do Corinthians e comenta sentimento de jogar Libertadores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127099/hugo-souza-fala-sobre-importante-vitoria-do-corinthians-e-comenta-sentimento-de-jogar-libertadores",
-      "pubDate": "Fri, 10 Apr 2026 09:51:02 -0300",
-      "date": "10/04 · 12:51"
-    },
-    {
-      "title": "VÍDEO: Kayke compara gol com Romarinho, celebra vitória do Corinthians e agradece Garro",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127100/kayke-compara-gol-com-romarinho-celebra-vitoria-do-corinthians-e-agradece-garro",
-      "pubDate": "Fri, 10 Apr 2026 09:51:00 -0300",
-      "date": "10/04 · 12:51"
     }
   ]
 };
