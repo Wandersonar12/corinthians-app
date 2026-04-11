@@ -1,14 +1,62 @@
-// Gerado automaticamente em 11/04/2026, 10:01:28
+// Gerado automaticamente em 11/04/2026, 14:06:08
 const LIVE_DATA = {
-  "updatedAt": "2026-04-11T10:01:28.657Z",
+  "updatedAt": "2026-04-11T14:06:08.658Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Everton Cebolinha prioriza exterior e dificulta plano do Corinthians por acordo no meio da temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/everton-cebolinha-prioriza-exterior-e-dificulta-plano-do-corinthians-por-acordo-no-meio-da-temporada]]>",
+      "time": "11/04 · 13:50",
+      "pubDate": "Sat, 11 Apr 2026 10:50:19 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians entram em campo pela Seleção na estreia do Fifa Series; veja onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530798/jogadoras-do-corinthians-entram-em-campo-pela-selecao-na-estreia-do-fifa-series-veja-onde-assistir",
+      "time": "11/04 · 13:31",
+      "pubDate": "Sat, 11 Apr 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians garante vitória da Colômbia na Liga das Nações; dupla atua como titular",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530799/atacante-do-corinthians-garante-vitoria-da-colombia-na-liga-das-nacoes-dupla-atua-como-titular",
+      "time": "11/04 · 12:24",
+      "pubDate": "Sat, 11 Apr 2026 09:24:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Nicola revela que Memphis Depay pode não jogar mais com a camisa do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/nicola-revela-que-memphis-depay-pode-nao-jogar-mais-com-a-camisa-do-corinthians]]>",
-      "time": "11/04 · 03:33",
-      "pubDate": "Sat, 11 Apr 2026 00:33:39 -0300"
+      "time": "11/04 · 11:48",
+      "pubDate": "Sat, 11 Apr 2026 08:48:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Rodrigo Garro lidera quesitos ofensivos do Corinthians na temporada; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530762/rodrigo-garro-lidera-quesitos-ofensivos-do-corinthians-na-temporada-veja-os-numeros",
+      "time": "11/04 · 11:30",
+      "pubDate": "Sat, 11 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz segura Allan no banco no Corinthians e decisão estratégica agita bastidores e torcida",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-segura-allan-no-banco-no-corinthians-e-decisao-estrategica-agita-bastidores-e-torcida]]>",
+      "time": "11/04 · 11:09",
+      "pubDate": "Sat, 11 Apr 2026 08:09:14 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: Yuri na Itália, carinho de atacante e assembleia geral",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530787/ultimas-do-corinthians-yuri-na-italia-carinho-de-atacante-e-assembleia-geral",
+      "time": "11/04 · 10:30",
+      "pubDate": "Sat, 11 Apr 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,14 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Apr 2026 21:48:00 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Everton Cebolinha prioriza exterior e dificulta plano do Corinthians por acordo no meio da temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/everton-cebolinha-prioriza-exterior-e-dificulta-plano-do-corinthians-por-acordo-no-meio-da-temporada]]>",
-      "time": "11/04 · 00:41",
-      "pubDate": "Fri, 10 Apr 2026 21:41:51 -0300"
-    },
-    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Meia do Corinthians amplia liderança no ranking de assistentes da equipe em 2026",
@@ -59,38 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Apr 2026 20:42:57 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz detalha ajustes no Corinthians em vitória na Libertadores e cita falta de tempo para treinos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530725/diniz-detalha-ajustes-no-corinthians-em-vitoria-na-libertadores-e-cita-falta-de-tempo-para-treinos",
-      "time": "10/04 · 23:31",
-      "pubDate": "Fri, 10 Apr 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Seleção de futsal da Argentina realiza sessão de treinos no ginásio do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530776/selecao-de-futsal-da-argentina-realiza-sessao-de-treinos-no-ginasio-do-corinthians",
-      "time": "10/04 · 23:02",
-      "pubDate": "Fri, 10 Apr 2026 20:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians entra no pódio de artilheiros na temporada após vitória contra o Platense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530719/atacante-do-corinthians-entra-no-podio-de-artilheiros-na-temporada-apos-vitoria-contra-o-platense",
-      "time": "10/04 · 22:32",
-      "pubDate": "Fri, 10 Apr 2026 19:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Comissão do Corinthians define detalhes para Assembleia Geral da Reforma do Estatuto; saiba mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530780/comissao-do-corinthians-define-detalhes-para-assembleia-geral-da-reforma-do-estatuto-saiba-mais",
-      "time": "10/04 · 22:12",
-      "pubDate": "Fri, 10 Apr 2026 19:12:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "De olho em Everton Cebolinha, Corinthians só fará acordo caso Memphis deixe o clube",
@@ -105,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-everton-cebolinha-mas-flamengo-trava-saida-e-cria-novela-no-mercado]]>",
       "time": "10/04 · 21:17",
       "pubDate": "Fri, 10 Apr 2026 18:17:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz segura Allan no banco no Corinthians e decisão estratégica agita bastidores e torcida",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-segura-allan-no-banco-no-corinthians-e-decisao-estrategica-agita-bastidores-e-torcida]]>",
-      "time": "10/04 · 21:16",
-      "pubDate": "Fri, 10 Apr 2026 18:16:50 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Jogadoras do Corinthians entram em campo pela Seleção na estreia do Fifa Series; veja onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530798/jogadoras-do-corinthians-entram-em-campo-pela-selecao-na-estreia-do-fifa-series-veja-onde-assistir",
+      "pubDate": "Sat, 11 Apr 2026 10:31:00 -0300",
+      "date": "11/04 · 13:31"
+    },
+    {
       "title": "Yuri Alberto marcou quase um terço dos gols pelo Corinthians com o 'pé ruim'; veja os números",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530766/yuri-alberto-marcou-quase-um-terco-dos-gols-pelo-corinthians-com-o-pe-ruim-veja-os-numeros",
       "pubDate": "Fri, 10 Apr 2026 17:01:00 -0300",
@@ -234,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127100/kayke-compara-gol-com-romarinho-celebra-vitoria-do-corinthians-e-agradece-garro",
       "pubDate": "Fri, 10 Apr 2026 09:51:00 -0300",
       "date": "10/04 · 12:51"
-    },
-    {
-      "title": "VÍDEO: Yuri fala sobre jogo pós cirurgia dental e comenta gol na vitória do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127098/yuri-fala-sobre-jogo-pos-cirurgia-dental-e-comenta-gol-na-vitoria-do-corinthians-na-libertadores",
-      "pubDate": "Fri, 10 Apr 2026 09:49:36 -0300",
-      "date": "10/04 · 12:49"
     }
   ]
 };
