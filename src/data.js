@@ -1,7 +1,63 @@
-// Gerado automaticamente em 11/04/2026, 19:51:37
+// Gerado automaticamente em 11/04/2026, 23:05:33
 const LIVE_DATA = {
-  "updatedAt": "2026-04-11T19:51:37.592Z",
+  "updatedAt": "2026-04-11T23:05:33.713Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz treino único para clássico contra o Palmeiras; veja provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530803/corinthians-faz-treino-unico-para-classico-contra-o-palmeiras-veja-provavel-escalacao",
+      "time": "11/04 · 22:35",
+      "pubDate": "Sat, 11 Apr 2026 19:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians abre nova loja oficial em Alphaville; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530794/corinthians-abre-nova-loja-oficial-em-alphaville-confira",
+      "time": "11/04 · 22:32",
+      "pubDate": "Sat, 11 Apr 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians finaliza sessão de treinos visando duelo contra equipe mexicana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530818/corinthians-finaliza-sessao-de-treinos-visando-duelo-contra-equipe-mexicana",
+      "time": "11/04 · 21:55",
+      "pubDate": "Sat, 11 Apr 2026 18:55:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não enfrenta Abel Ferreira após o STJD negar efeito suspensivo ao Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-enfrenta-abel-ferreira-apos-o-stjd-negar-efeito-suspensivo-ao-palmeiras]]>",
+      "time": "11/04 · 21:49",
+      "pubDate": "Sat, 11 Apr 2026 18:49:52 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Yuri Alberto sobe uma posição em lista de mais participações em gols do Corinthians na Conmebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530795/yuri-alberto-sobe-uma-posicao-em-lista-de-mais-participacoes-em-gols-do-corinthians-na-conmebol",
+      "time": "11/04 · 21:31",
+      "pubDate": "Sat, 11 Apr 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Escalação do Corinthians: Fernando Diniz define time titular com Kayke contra o Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-fernando-diniz-define-time-titular-com-kayke-contra-o-palmeiras]]>",
+      "time": "11/04 · 21:11",
+      "pubDate": "Sat, 11 Apr 2026 18:11:53 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca sequenciar vitórias depois de péssimo momento na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530771/corinthians-busca-sequenciar-vitorias-depois-de-pessimo-momento-na-temporada",
+      "time": "11/04 · 20:29",
+      "pubDate": "Sat, 11 Apr 2026 17:29:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,54 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Apr 2026 15:10:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca voltar a vencer na Arena e evitar repetição de sequência negativa do final de 2025",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530775/corinthians-busca-voltar-a-vencer-na-arena-e-evitar-repeticao-de-sequencia-negativa-do-final-de-2025",
-      "time": "11/04 · 17:32",
-      "pubDate": "Sat, 11 Apr 2026 14:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians lança copo especial para primeiro Dérbi do Brasileirão 2026; veja fotos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530805/corinthians-lanca-copo-especial-para-primeiro-derbi-do-brasileirao-2026-veja-fotos",
-      "time": "11/04 · 17:03",
-      "pubDate": "Sat, 11 Apr 2026 14:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega ao décimo treinador a encarar Palmeiras de Abel Ferreira; veja números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530789/corinthians-chega-ao-decimo-treinador-a-encarar-palmeiras-de-abel-ferreira-veja-numeros",
-      "time": "11/04 · 16:34",
-      "pubDate": "Sat, 11 Apr 2026 13:34:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Escalação do Corinthians: Fernando Diniz define time titular com Kayke contra o Palmeiras",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-fernando-diniz-define-time-titular-com-kayke-contra-o-palmeiras]]>",
-      "time": "11/04 · 16:30",
-      "pubDate": "Sat, 11 Apr 2026 13:30:18 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians fala sobre papel de liderança no elenco e projeta Dérbi pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530754/atacante-do-corinthians-fala-sobre-papel-de-lideranca-no-elenco-e-projeta-derbi-pelo-brasileirao",
-      "time": "11/04 · 15:32",
-      "pubDate": "Sat, 11 Apr 2026 12:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians registra mais da metade das assistências de 2025 em início de temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530770/meia-do-corinthians-registra-mais-da-metade-das-assistencias-de-2025-em-inicio-de-temporada",
-      "time": "11/04 · 14:30",
-      "pubDate": "Sat, 11 Apr 2026 11:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Everton Cebolinha prioriza exterior e dificulta plano do Corinthians por acordo no meio da temporada",
@@ -113,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/de-olho-em-everton-cebolinha-corinthians-so-fara-acordo-caso-memphis-deixe-o-clube]]>",
       "time": "10/04 · 21:57",
       "pubDate": "Fri, 10 Apr 2026 18:57:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians monitora Everton Cebolinha, mas Flamengo trava saída e cria novela no mercado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-everton-cebolinha-mas-flamengo-trava-saida-e-cria-novela-no-mercado]]>",
-      "time": "10/04 · 21:17",
-      "pubDate": "Fri, 10 Apr 2026 18:17:50 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,28 +200,22 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Yuri Alberto sobe uma posição em lista de mais participações em gols do Corinthians na Conmebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530795/yuri-alberto-sobe-uma-posicao-em-lista-de-mais-participacoes-em-gols-do-corinthians-na-conmebol",
+      "pubDate": "Sat, 11 Apr 2026 18:31:00 -0300",
+      "date": "11/04 · 21:31"
+    },
+    {
+      "title": "Corinthians busca sequenciar vitórias depois de péssimo momento na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530771/corinthians-busca-sequenciar-vitorias-depois-de-pessimo-momento-na-temporada",
+      "pubDate": "Sat, 11 Apr 2026 17:29:00 -0300",
+      "date": "11/04 · 20:29"
+    },
+    {
       "title": "Jogadoras do Corinthians entram em campo pela Seleção na estreia da Fifa Series; veja onde assistir",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530798/jogadoras-do-corinthians-entram-em-campo-pela-selecao-na-estreia-da-fifa-series-veja-onde-assistir",
       "pubDate": "Sat, 11 Apr 2026 10:31:00 -0300",
       "date": "11/04 · 13:31"
-    },
-    {
-      "title": "Yuri Alberto marcou quase um terço dos gols pelo Corinthians com o 'pé ruim'; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530766/yuri-alberto-marcou-quase-um-terco-dos-gols-pelo-corinthians-com-o-pe-ruim-veja-os-numeros",
-      "pubDate": "Fri, 10 Apr 2026 17:01:00 -0300",
-      "date": "10/04 · 20:01"
-    },
-    {
-      "title": "Jovem atacante do Corinthians destaca confiança de Diniz e celebra gol na estreia na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530751/jovem-atacante-do-corinthians-destaca-confianca-de-diniz-e-celebra-gol-na-estreia-na-libertadores",
-      "pubDate": "Fri, 10 Apr 2026 16:32:00 -0300",
-      "date": "10/04 · 19:32"
-    },
-    {
-      "title": "Corinthians quebra sequência de jogos sem marcar dois gols em vitória sobre o Platense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530711/corinthians-quebra-sequencia-de-jogos-sem-marcar-dois-gols-em-vitoria-sobre-o-platense",
-      "pubDate": "Fri, 10 Apr 2026 16:01:00 -0300",
-      "date": "10/04 · 19:01"
     }
   ]
 };
