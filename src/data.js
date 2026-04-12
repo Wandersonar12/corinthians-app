@@ -1,7 +1,55 @@
-// Gerado automaticamente em 11/04/2026, 23:05:33
+// Gerado automaticamente em 12/04/2026, 10:06:19
 const LIVE_DATA = {
-  "updatedAt": "2026-04-11T23:05:33.713Z",
+  "updatedAt": "2026-04-12T10:06:19.450Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Palmeiras no segundo Dérbi do ano; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530813/corinthians-recebe-o-palmeiras-no-segundo-derbi-do-ano-saiba-tudo",
+      "time": "12/04 · 03:01",
+      "pubDate": "Sun, 12 Apr 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o América pela disputa do terceiro lugar da Teal Rising Cup; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530811/corinthians-enfrenta-o-america-pela-disputa-do-terceiro-lugar-da-teal-rising-cup-saiba-tudo",
+      "time": "12/04 · 02:30",
+      "pubDate": "Sat, 11 Apr 2026 23:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians comenta sobre desempenho dos laterais titulares da equipe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530802/idolo-do-corinthians-comenta-sobre-desempenho-dos-laterais-titulares-da-equipe",
+      "time": "12/04 · 01:31",
+      "pubDate": "Sat, 11 Apr 2026 22:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca evitar novo tropeço e impedir sequência negativa no Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530782/corinthians-busca-evitar-novo-tropeco-e-impedir-sequencia-negativa-no-derbi",
+      "time": "12/04 · 00:34",
+      "pubDate": "Sat, 11 Apr 2026 21:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolos do Corinthians participam de ação de patrocinador do time Master",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530796/idolos-do-corinthians-participam-de-acao-de-patrocinador-do-time-master",
+      "time": "11/04 · 23:34",
+      "pubDate": "Sat, 11 Apr 2026 20:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis se pronuncia após 'indireta' ao Corinthians em publicação no Instagram",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530822/memphis-se-pronuncia-apos-indireta-ao-corinthians-em-publicacao-no-instagram",
+      "time": "11/04 · 23:19",
+      "pubDate": "Sat, 11 Apr 2026 20:19:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,28 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Apr 2026 19:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians finaliza sessão de treinos visando duelo contra equipe mexicana",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530818/corinthians-finaliza-sessao-de-treinos-visando-duelo-contra-equipe-mexicana",
-      "time": "11/04 · 21:55",
-      "pubDate": "Sat, 11 Apr 2026 18:55:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians não enfrenta Abel Ferreira após o STJD negar efeito suspensivo ao Palmeiras",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-enfrenta-abel-ferreira-apos-o-stjd-negar-efeito-suspensivo-ao-palmeiras]]>",
       "time": "11/04 · 21:49",
       "pubDate": "Sat, 11 Apr 2026 18:49:52 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto sobe uma posição em lista de mais participações em gols do Corinthians na Conmebol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530795/yuri-alberto-sobe-uma-posicao-em-lista-de-mais-participacoes-em-gols-do-corinthians-na-conmebol",
-      "time": "11/04 · 21:31",
-      "pubDate": "Sat, 11 Apr 2026 18:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -51,44 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Apr 2026 18:11:53 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca sequenciar vitórias depois de péssimo momento na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530771/corinthians-busca-sequenciar-vitorias-depois-de-pessimo-momento-na-temporada",
-      "time": "11/04 · 20:29",
-      "pubDate": "Sat, 11 Apr 2026 17:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Estádio do Corinthians recebe primeira edição em 2026 de campanha para doação de sangue",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530800/estadio-do-corinthians-recebe-primeira-edicao-em-2026-de-campanha-para-doacao-de-sangue",
-      "time": "11/04 · 19:32",
-      "pubDate": "Sat, 11 Apr 2026 16:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico da Seleção comenta ausência de jogadora do Corinthians em competição nos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530806/tecnico-da-selecao-comenta-ausencia-de-jogadora-do-corinthians-em-competicao-nos-estados-unidos",
-      "time": "11/04 · 19:07",
-      "pubDate": "Sat, 11 Apr 2026 16:07:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians x Palmeiras: Cicinho faz alerta e prevê goleada alviverde no Dérbi Paulista",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-palmeiras-cicinho-faz-alerta-e-preve-goleada-alviverde-no-derbi-paulista]]>",
       "time": "11/04 · 18:36",
       "pubDate": "Sat, 11 Apr 2026 15:36:27 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians está fora de partida do Brasil por protocolo de concussão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530808/meio-campista-do-corinthians-esta-fora-de-partida-do-brasil-por-protocolo-de-concussao",
-      "time": "11/04 · 18:10",
-      "pubDate": "Sat, 11 Apr 2026 15:10:00 -0300"
     },
     {
       "source": "Bolavip",
