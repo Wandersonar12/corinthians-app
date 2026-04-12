@@ -1,7 +1,63 @@
-// Gerado automaticamente em 12/04/2026, 10:06:19
+// Gerado automaticamente em 12/04/2026, 14:10:19
 const LIVE_DATA = {
-  "updatedAt": "2026-04-12T10:06:19.450Z",
+  "updatedAt": "2026-04-12T14:10:19.917Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra árbitro em busca de voltar a vencer clássicos sob seu apito; veja a escala",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530831/corinthians-reencontra-arbitro-em-busca-de-voltar-a-vencer-classicos-sob-seu-apito-veja-a-escala",
+      "time": "12/04 · 13:34",
+      "pubDate": "Sun, 12 Apr 2026 10:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians projeta clássico contra o Palmeiras pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530821/goleiro-do-corinthians-projeta-classico-contra-o-palmeiras-pelo-brasileirao",
+      "time": "12/04 · 13:05",
+      "pubDate": "Sun, 12 Apr 2026 10:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba como assistir ao confronto entre Corinthians e América pela Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530814/saiba-como-assistir-ao-confronto-entre-corinthians-e-america-pela-teal-rising-cup",
+      "time": "12/04 · 12:32",
+      "pubDate": "Sun, 12 Apr 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "PVC não pipoca e crava vitória do Palmeiras contra o Corinthians na Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pvc-nao-pipoca-e-crava-vitoria-do-palmeiras-contra-o-corinthians-na-neo-quimica-arena]]>",
+      "time": "12/04 · 12:29",
+      "pubDate": "Sun, 12 Apr 2026 09:29:16 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians participam de goleada do Brasil sobre a Coreia do Sul pelo Fifa Series",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530826/jogadoras-do-corinthians-participam-de-goleada-do-brasil-sobre-a-coreia-do-sul-pelo-fifa-series",
+      "time": "12/04 · 12:03",
+      "pubDate": "Sun, 12 Apr 2026 09:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530810/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pelo-brasileirao",
+      "time": "12/04 · 11:30",
+      "pubDate": "Sun, 12 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: provável escalação, desabafo de Memphis e destaque de atacante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530825/ultimas-do-corinthians-provavel-escalacao-desabafo-de-memphis-e-destaque-de-atacante",
+      "time": "12/04 · 10:30",
+      "pubDate": "Sun, 12 Apr 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,54 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530811/corinthians-enfrenta-o-america-pela-disputa-do-terceiro-lugar-da-teal-rising-cup-saiba-tudo",
       "time": "12/04 · 02:30",
       "pubDate": "Sat, 11 Apr 2026 23:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians comenta sobre desempenho dos laterais titulares da equipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530802/idolo-do-corinthians-comenta-sobre-desempenho-dos-laterais-titulares-da-equipe",
-      "time": "12/04 · 01:31",
-      "pubDate": "Sat, 11 Apr 2026 22:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca evitar novo tropeço e impedir sequência negativa no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530782/corinthians-busca-evitar-novo-tropeco-e-impedir-sequencia-negativa-no-derbi",
-      "time": "12/04 · 00:34",
-      "pubDate": "Sat, 11 Apr 2026 21:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolos do Corinthians participam de ação de patrocinador do time Master",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530796/idolos-do-corinthians-participam-de-acao-de-patrocinador-do-time-master",
-      "time": "11/04 · 23:34",
-      "pubDate": "Sat, 11 Apr 2026 20:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis se pronuncia após 'indireta' ao Corinthians em publicação no Instagram",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530822/memphis-se-pronuncia-apos-indireta-ao-corinthians-em-publicacao-no-instagram",
-      "time": "11/04 · 23:19",
-      "pubDate": "Sat, 11 Apr 2026 20:19:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz treino único para clássico contra o Palmeiras; veja provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530803/corinthians-faz-treino-unico-para-classico-contra-o-palmeiras-veja-provavel-escalacao",
-      "time": "11/04 · 22:35",
-      "pubDate": "Sat, 11 Apr 2026 19:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre nova loja oficial em Alphaville; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530794/corinthians-abre-nova-loja-oficial-em-alphaville-confira",
-      "time": "11/04 · 22:32",
-      "pubDate": "Sat, 11 Apr 2026 19:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/de-olho-em-everton-cebolinha-corinthians-so-fara-acordo-caso-memphis-deixe-o-clube]]>",
       "time": "10/04 · 21:57",
       "pubDate": "Fri, 10 Apr 2026 18:57:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Garro cresce com Diniz, assume protagonismo e vira peça-chave ao lado de Carrillo no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-cresce-com-diniz-assume-protagonismo-e-vira-peca-chave-ao-lado-de-carrillo-no-corinthians]]>",
-      "time": "10/04 · 20:01",
-      "pubDate": "Fri, 10 Apr 2026 17:01:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,30 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro do Corinthians projeta clássico contra o Palmeiras pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530821/goleiro-do-corinthians-projeta-classico-contra-o-palmeiras-pelo-brasileirao",
+      "pubDate": "Sun, 12 Apr 2026 10:05:00 -0300",
+      "date": "12/04 · 13:05"
+    },
+    {
+      "title": "Saiba como assistir ao confronto entre Corinthians e América pela Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530814/saiba-como-assistir-ao-confronto-entre-corinthians-e-america-pela-teal-rising-cup",
+      "pubDate": "Sun, 12 Apr 2026 09:32:00 -0300",
+      "date": "12/04 · 12:32"
+    },
+    {
+      "title": "Jogadoras do Corinthians participam de goleada do Brasil sobre a Coreia do Sul pelo Fifa Series",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530826/jogadoras-do-corinthians-participam-de-goleada-do-brasil-sobre-a-coreia-do-sul-pelo-fifa-series",
+      "pubDate": "Sun, 12 Apr 2026 09:03:00 -0300",
+      "date": "12/04 · 12:03"
+    },
+    {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530810/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pelo-brasileirao",
+      "pubDate": "Sun, 12 Apr 2026 08:30:00 -0300",
+      "date": "12/04 · 11:30"
+    },
     {
       "title": "Yuri Alberto sobe uma posição em lista de mais participações em gols do Corinthians na Conmebol",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530795/yuri-alberto-sobe-uma-posicao-em-lista-de-mais-participacoes-em-gols-do-corinthians-na-conmebol",
