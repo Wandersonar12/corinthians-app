@@ -1,7 +1,87 @@
-// Gerado automaticamente em 12/04/2026, 19:55:04
+// Gerado automaticamente em 12/04/2026, 23:53:40
 const LIVE_DATA = {
-  "updatedAt": "2026-04-12T19:55:04.021Z",
+  "updatedAt": "2026-04-12T23:53:40.936Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz encontra soluções após expulsões e Corinthians garante empate contra o Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-encontra-solucoes-apos-expulsoes-e-corinthians-garante-empate-contra-o-palmeiras]]>",
+      "time": "12/04 · 23:51",
+      "pubDate": "Sun, 12 Apr 2026 20:51:53 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vê distância para zona de rebaixamento se aproximar após empate no Dérbi; veja tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530862/corinthians-ve-distancia-para-zona-de-rebaixamento-se-aproximar-apos-empate-no-derbi-veja-tabela",
+      "time": "12/04 · 23:45",
+      "pubDate": "Sun, 12 Apr 2026 20:45:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Expulsões de André e Matheuzinho comprometem estratégia do Corinthians no Derby com o Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/expulsoes-de-andre-e-matheuzinho-comprometem-estrategia-do-corinthians-no-derby-com-o-palmeiras]]>",
+      "time": "12/04 · 23:29",
+      "pubDate": "Sun, 12 Apr 2026 20:29:17 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ficha técnica: Corinthians 0 x 0 Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530870/ficha-tecnica-corinthians-0-x-0-palmeiras",
+      "time": "12/04 · 23:28",
+      "pubDate": "Sun, 12 Apr 2026 20:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se segura com dois a menos e empata Dérbi truncado pelo Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530840/corinthians-se-segura-com-dois-a-menos-e-empata-derbi-truncado-pelo-brasileiro",
+      "time": "12/04 · 23:28",
+      "pubDate": "Sun, 12 Apr 2026 20:28:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André é expulso após gesto obsceno e Corinthians segura empate com Palmeiras no primeiro tempo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-e-expulso-apos-gesto-obsceno-e-corinthians-segura-empate-com-palmeiras-no-primeiro-tempo]]>",
+      "time": "12/04 · 22:33",
+      "pubDate": "Sun, 12 Apr 2026 19:33:44 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians goleia o América e conquista terceiro lugar da Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530848/corinthians-goleia-o-america-e-conquista-terceiro-lugar-da-teal-rising-cup",
+      "time": "12/04 · 21:54",
+      "pubDate": "Sun, 12 Apr 2026 18:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Acúmulo de abelhas atrasa abertura dos portões do estádio do Corinthians para o Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530856/acumulo-de-abelhas-atrasa-abertura-dos-portoes-do-estadio-do-corinthians-para-o-derbi",
+      "time": "12/04 · 21:36",
+      "pubDate": "Sun, 12 Apr 2026 18:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians homenageia escultor responsável por estátua de São Jorge antes do Dérbi pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530857/corinthians-homenageia-escultor-responsavel-por-estatua-de-sao-jorge-antes-do-derbi-pelo-brasileirao",
+      "time": "12/04 · 21:24",
+      "pubDate": "Sun, 12 Apr 2026 18:24:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga escalação para enfrentar o Palmeiras pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530837/corinthians-divulga-escalacao-para-enfrentar-o-palmeiras-pelo-brasileirao",
+      "time": "12/04 · 20:31",
+      "pubDate": "Sun, 12 Apr 2026 17:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,30 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530839/grande-momento-e-desfalques-de-peso-veja-como-chega-o-palmeiras-para-enfrentar-o-corinthians",
       "time": "12/04 · 19:30",
       "pubDate": "Sun, 12 Apr 2026 16:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o América pela Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530845/corinthians-esta-escalado-para-enfrentar-o-america-pela-teal-rising-cup",
-      "time": "12/04 · 19:10",
-      "pubDate": "Sun, 12 Apr 2026 16:10:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca se aproximar do Palmeiras no retrospecto do clássico; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530834/corinthians-busca-se-aproximar-do-palmeiras-no-retrospecto-do-classico-veja-os-numeros",
-      "time": "12/04 · 18:36",
-      "pubDate": "Sun, 12 Apr 2026 15:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gaviões da Fiel lança campanha de conscientização da votação da reforma do Estatuto do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530843/gavioes-da-fiel-lanca-campanha-de-conscientizacao-da-votacao-da-reforma-do-estatuto-do-corinthians",
-      "time": "12/04 · 18:02",
-      "pubDate": "Sun, 12 Apr 2026 15:02:45 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 12 Apr 2026 14:49:15 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians busca melhorar retrospecto contra o Palmeiras em primeiro Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530809/tecnico-do-corinthians-busca-melhorar-retrospecto-contra-o-palmeiras-em-primeiro-derbi",
-      "time": "12/04 · 17:36",
-      "pubDate": "Sun, 12 Apr 2026 14:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode subir até cinco posição caso vença Dérbi na Neo Química Arena; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530838/corinthians-pode-subir-ate-cinco-posicao-caso-venca-derbi-na-neo-quimica-arena-veja-a-tabela",
-      "time": "12/04 · 16:33",
-      "pubDate": "Sun, 12 Apr 2026 13:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians pode enfrentar Cacá, Vitória avalia pagar multa e decisão agita bastidores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-enfrentar-caca-vitoria-avalia-pagar-multa-e-decisao-agita-bastidores]]>",
       "time": "12/04 · 16:32",
       "pubDate": "Sun, 12 Apr 2026 13:32:50 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral-esquerdo do Corinthians será ausência para clássico contra o Palmeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530842/lateral-esquerdo-do-corinthians-sera-ausencia-para-classico-contra-o-palmeiras",
-      "time": "12/04 · 16:00",
-      "pubDate": "Sun, 12 Apr 2026 13:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca evitar jejum em clássicos que não acontece há mais de dois anos; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530807/corinthians-busca-evitar-jejum-em-classicos-que-nao-acontece-ha-mais-de-dois-anos-saiba-qual",
-      "time": "12/04 · 15:35",
-      "pubDate": "Sun, 12 Apr 2026 12:35:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-enfrenta-abel-ferreira-apos-o-stjd-negar-efeito-suspensivo-ao-palmeiras]]>",
       "time": "11/04 · 21:49",
       "pubDate": "Sat, 11 Apr 2026 18:49:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Escalação do Corinthians: Fernando Diniz define time titular com Kayke contra o Palmeiras",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-fernando-diniz-define-time-titular-com-kayke-contra-o-palmeiras]]>",
-      "time": "11/04 · 21:11",
-      "pubDate": "Sat, 11 Apr 2026 18:11:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Palmeiras: Cicinho faz alerta e prevê goleada alviverde no Dérbi Paulista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-palmeiras-cicinho-faz-alerta-e-preve-goleada-alviverde-no-derbi-paulista]]>",
-      "time": "11/04 · 18:36",
-      "pubDate": "Sat, 11 Apr 2026 15:36:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Nicola revela que Memphis Depay pode não jogar mais com a camisa do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/nicola-revela-que-memphis-depay-pode-nao-jogar-mais-com-a-camisa-do-corinthians]]>",
-      "time": "11/04 · 11:48",
-      "pubDate": "Sat, 11 Apr 2026 08:48:57 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Fiel demonstra irritação por expulsões e elogia goleiro no empate contra o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530879/fiel-demonstra-irritacao-por-expulsoes-e-elogia-goleiro-no-empate-contra-o-palmeiras",
+      "pubDate": "Sun, 12 Apr 2026 20:38:03 -0300",
+      "date": "12/04 · 23:38"
+    },
+    {
+      "title": "Corinthians goleia o América e conquista terceiro lugar da Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530848/corinthians-goleia-o-america-e-conquista-terceiro-lugar-da-teal-rising-cup",
+      "pubDate": "Sun, 12 Apr 2026 18:54:00 -0300",
+      "date": "12/04 · 21:54"
+    },
+    {
       "title": "Grande momento e desfalques de peso: veja como chega o Palmeiras para enfrentar o Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530839/grande-momento-e-desfalques-de-peso-veja-como-chega-o-palmeiras-para-enfrentar-o-corinthians",
       "pubDate": "Sun, 12 Apr 2026 16:30:00 -0300",
@@ -228,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530810/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pelo-brasileirao",
       "pubDate": "Sun, 12 Apr 2026 08:30:00 -0300",
       "date": "12/04 · 11:30"
-    },
-    {
-      "title": "Yuri Alberto sobe uma posição em lista de mais participações em gols do Corinthians na Conmebol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530795/yuri-alberto-sobe-uma-posicao-em-lista-de-mais-participacoes-em-gols-do-corinthians-na-conmebol",
-      "pubDate": "Sat, 11 Apr 2026 18:31:00 -0300",
-      "date": "11/04 · 21:31"
-    },
-    {
-      "title": "Corinthians busca sequenciar vitórias depois de péssimo momento na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530771/corinthians-busca-sequenciar-vitorias-depois-de-pessimo-momento-na-temporada",
-      "pubDate": "Sat, 11 Apr 2026 17:29:00 -0300",
-      "date": "11/04 · 20:29"
     }
   ]
 };
