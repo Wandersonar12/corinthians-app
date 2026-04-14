@@ -1,7 +1,119 @@
-// Gerado automaticamente em 14/04/2026, 15:57:26
+// Gerado automaticamente em 14/04/2026, 20:38:12
 const LIVE_DATA = {
-  "updatedAt": "2026-04-14T15:57:26.869Z",
+  "updatedAt": "2026-04-14T20:38:12.758Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians multa jovem volante por expulsão após gesto obsceno no Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531047/corinthians-multa-jovem-volante-por-expulsao-apos-gesto-obsceno-no-derbi",
+      "time": "14/04 · 20:07",
+      "pubDate": "Tue, 14 Apr 2026 17:07:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Flávio Prado, da Jovem Pan, critica o Corinthians de maneira ‘agressiva’ e afirma: “Time varzeano”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/flavio-prado-da-jovem-pan-critica-o-corinthians-de-maneira-agressiva-e-afirma-time-varzeano]]>",
+      "time": "14/04 · 20:05",
+      "pubDate": "Tue, 14 Apr 2026 17:05:58 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca voltar a vencer na Arena e evitar repetição de sequência negativa de 2024",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531043/corinthians-busca-voltar-a-vencer-na-arena-e-evitar-repeticao-de-sequencia-negativa-de-2024",
+      "time": "14/04 · 20:01",
+      "pubDate": "Tue, 14 Apr 2026 17:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians chega a cinco clássicos sem vencer rivais paulistas e amplia sequência negativa do clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-chega-a-cinco-classicos-sem-vitorias-contra-os-rivais]]>",
+      "time": "14/04 · 19:39",
+      "pubDate": "Tue, 14 Apr 2026 16:39:10 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians multa André após gesto no Dérbi, diretoria age rápido e aplica punição imediata",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-multa-andre-apos-gesto-no-derbi-diretoria-age-rapido-e-aplica-punicao-imediata]]>",
+      "time": "14/04 · 19:37",
+      "pubDate": "Tue, 14 Apr 2026 16:37:44 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians minimiza desgaste em meio à sequência pesada na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530934/zagueiro-do-corinthians-minimiza-desgaste-em-meio-a-sequencia-pesada-na-temporada",
+      "time": "14/04 · 19:32",
+      "pubDate": "Tue, 14 Apr 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não consegue parceiros para renovar com Depay e lobby de Marcelo Paz irrita diretoria",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-consegue-parceiros-renovacao-depay]]>",
+      "time": "14/04 · 19:08",
+      "pubDate": "Tue, 14 Apr 2026 16:08:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece detalhes de confronto diante do Vasco da Gama pela Copa LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531042/corinthians-conhece-detalhes-de-confronto-diante-do-vasco-da-gama-pela-copa-lnf",
+      "time": "14/04 · 19:02",
+      "pubDate": "Tue, 14 Apr 2026 16:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians volta a marcar após oito meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530973/atacante-do-corinthians-volta-a-marcar-apos-oito-meses",
+      "time": "14/04 · 18:30",
+      "pubDate": "Tue, 14 Apr 2026 15:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz quer e corre no Corinthians para renovar com Memphis Depay: “Por ele, assinaria amanhã”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-quer-e-corre-no-corinthians-para-renovar-com-memphis-depay-por-ele-assinaria-amanha]]>",
+      "time": "14/04 · 17:50",
+      "pubDate": "Tue, 14 Apr 2026 14:50:56 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians coloca jogo contra o Independiente Santa Fe como 'final' pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530931/goleiro-do-corinthians-coloca-jogo-contra-o-independiente-santa-fe-como-final-pela-libertadores",
+      "time": "14/04 · 17:34",
+      "pubDate": "Tue, 14 Apr 2026 14:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselheiro do Corinthians cobra recadastramento de associados e critica omissão da diretoria",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531034/conselheiro-do-corinthians-cobra-recadastramento-de-associados-e-critica-omissao-da-diretoria",
+      "time": "14/04 · 17:02",
+      "pubDate": "Tue, 14 Apr 2026 14:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode contar com retorno de atacante contra o Independiente Santa Fe pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531032/corinthians-pode-contar-com-retorno-de-atacante-contra-o-independiente-santa-fe-pela-libertadores",
+      "time": "14/04 · 16:30",
+      "pubDate": "Tue, 14 Apr 2026 13:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians terá oito desfalques, incluindo Memphis Depay, contra o Santa Fé na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-oito-desfalques-incluindo-memphis-depay-contra-o-santa-fe-na-libertadores]]>",
+      "time": "14/04 · 16:03",
+      "pubDate": "Tue, 14 Apr 2026 13:03:42 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -11,124 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 14 Apr 2026 12:56:30 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-lateral do Corinthians faz alerta para Fernando Diniz e cobra equilíbrio emocional da equipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531017/ex-lateral-do-corinthians-faz-alerta-para-fernando-diniz-e-cobra-equilibrio-emocional-da-equipe",
-      "time": "14/04 · 15:31",
-      "pubDate": "Tue, 14 Apr 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians entram em campo pela Fifa Series e duelos na Liga das Nações",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531006/jogadoras-do-corinthians-entram-em-campo-pela-fifa-series-e-duelos-na-liga-das-nacoes",
-      "time": "14/04 · 14:32",
-      "pubDate": "Tue, 14 Apr 2026 11:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians se incomoda com gesto de André, diretoria avalia punição e caso gera revolta interna",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-incomoda-com-gesto-de-andre-diretoria-avalia-punicao-e-caso-gera-revolta-interna]]>",
       "time": "14/04 · 14:26",
       "pubDate": "Tue, 14 Apr 2026 11:26:55 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Leonardo Pantaleão assume presidência do Conselho Deliberativo do Corinthians após licença de Tuma",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531027/leonardo-pantaleao-assume-presidencia-do-conselho-deliberativo-do-corinthians-apos-licenca-de-tuma",
-      "time": "14/04 · 14:06",
-      "pubDate": "Tue, 14 Apr 2026 11:06:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Procurador do STJD ironiza Hugo Souza após denúncia por críticas à arbitragem em empate do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/procurador-do-stjd-ironiza-hugo-souza-apos-denuncia-por-criticas-a-arbitragem-em-empate-do-corinthians]]>",
-      "time": "14/04 · 13:53",
-      "pubDate": "Tue, 14 Apr 2026 10:53:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Roma-ITA quer fazer acordo com o Corinthians no mercado da bola e contratar o atacante Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/roma-ita-quer-fazer-acordo-com-o-corinthians-no-mercado-da-bola-e-contratar-o-atacante-yuri-alberto]]>",
-      "time": "14/04 · 13:52",
-      "pubDate": "Tue, 14 Apr 2026 10:52:47 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca empresas para renovar contrato de Memphis Depay; saiba mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530996/corinthians-busca-empresas-para-renovar-contrato-de-memphis-depay-saiba-mais",
-      "time": "14/04 · 13:31",
-      "pubDate": "Tue, 14 Apr 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Discursos de Emily Lima marcam bastidores de goleada do Corinthians na Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531018/discursos-de-emily-lima-marcam-bastidores-de-goleada-do-corinthians-na-teal-rising-cup",
-      "time": "14/04 · 13:01",
-      "pubDate": "Tue, 14 Apr 2026 10:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Procurador do STJD critica jogadores do Corinthians e defende punição 'pedagógica' contra clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531016/procurador-do-stjd-critica-jogadores-do-corinthians-e-defende-punicao-pedagogica-contra-clube",
-      "time": "14/04 · 12:42",
-      "pubDate": "Tue, 14 Apr 2026 09:42:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Monitorado pelo Corinthians, Cebolinha supera Memphis Depay em número de gols na temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/monitorado-pelo-corinthians-cebolinha-supera-memphis-depay-em-numero-de-gols-na-temporada]]>",
-      "time": "14/04 · 12:37",
-      "pubDate": "Tue, 14 Apr 2026 09:37:46 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians planeja rever contas de 2024 após inconsistência de quase R$ 300 mil em caixa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530995/corinthians-planeja-rever-contas-de-2024-apos-inconsistencia-de-quase-r-300-mil-em-caixa",
-      "time": "14/04 · 11:30",
-      "pubDate": "Tue, 14 Apr 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem dois expulsos contra o Palmeiras e repete cenário negativo de 2020",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-dois-expulsos-contra-o-palmeiras-e-repete-cenario-negativo-de-2020]]>",
-      "time": "14/04 · 11:19",
-      "pubDate": "Tue, 14 Apr 2026 08:19:18 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: novo gerente de futebol, retornos e suspensão de Assembleia Geral",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531010/ultimas-do-corinthians-novo-gerente-de-futebol-retornos-e-suspensao-de-assembleia-geral",
-      "time": "14/04 · 10:30",
-      "pubDate": "Tue, 14 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pode tomar punição de 10 jogos sem mando de campo após confusão contra o Palmeiras",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-tomar-punicao-de-10-jogos-sem-mando-de-campo-apos-confusao-contra-o-palmeiras]]>",
-      "time": "14/04 · 03:42",
-      "pubDate": "Tue, 14 Apr 2026 00:42:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Destaque no Dérbi, Bidu comanda defesa do Corinthians mesmo com desvantagem numérica em campo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/destaque-no-derbi-bidu-comanda-defesa-do-corinthians-mesmo-com-desvantagem-numerica-em-campo]]>",
-      "time": "14/04 · 02:06",
-      "pubDate": "Mon, 13 Apr 2026 23:06:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians coloca jogo contra o Independiente Santa Fe como 'final' pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530931/goleiro-do-corinthians-coloca-jogo-contra-o-independiente-santa-fe-como-final-pela-libertadores",
+      "pubDate": "Tue, 14 Apr 2026 14:34:00 -0300",
+      "date": "14/04 · 17:34"
+    },
+    {
       "title": "Discursos de Emily Lima marcam bastidores de goleada do Corinthians na Teal Rising Cup",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531018/discursos-de-emily-lima-marcam-bastidores-de-goleada-do-corinthians-na-teal-rising-cup",
       "pubDate": "Tue, 14 Apr 2026 10:01:00 -0300",
@@ -222,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530929/goleiro-do-corinthians-exalta-postura-no-derbi-e-destaca-defesas-importantes",
       "pubDate": "Mon, 13 Apr 2026 18:36:00 -0300",
       "date": "13/04 · 21:36"
-    },
-    {
-      "title": "Corinthians registra segundo jogo seguido sem sofrer gols e busca igualar maior sequência do ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530903/corinthians-registra-segundo-jogo-seguido-sem-sofrer-gols-e-busca-igualar-maior-sequencia-do-ano",
-      "pubDate": "Mon, 13 Apr 2026 17:02:00 -0300",
-      "date": "13/04 · 20:02"
-    },
-    {
-      "title": "Corinthians anuncia ex-goleiro do clube como novo gerente de futebol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530975/corinthians-anuncia-ex-goleiro-do-clube-como-novo-gerente-de-futebol",
-      "pubDate": "Mon, 13 Apr 2026 15:48:00 -0300",
-      "date": "13/04 · 18:48"
     }
   ]
 };
