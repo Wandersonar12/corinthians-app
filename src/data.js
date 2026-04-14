@@ -1,7 +1,95 @@
-// Gerado automaticamente em 13/04/2026, 20:40:44
+// Gerado automaticamente em 14/04/2026, 00:05:51
 const LIVE_DATA = {
-  "updatedAt": "2026-04-13T20:40:44.505Z",
+  "updatedAt": "2026-04-14T00:05:51.252Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians exalta metodologia de Diniz e entrega do elenco durante Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530930/goleiro-do-corinthians-exalta-metodologia-de-diniz-e-entrega-do-elenco-durante-derbi",
+      "time": "14/04 · 00:03",
+      "pubDate": "Mon, 13 Apr 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inaugura academia voltada para os esportes terrestres",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531008/corinthians-inaugura-academia-voltada-para-os-esportes-terrestres",
+      "time": "13/04 · 23:59",
+      "pubDate": "Mon, 13 Apr 2026 20:59:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Palmeiras lidera público da rodada e registra maior marca do Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-palmeiras-lidera-publico-da-rodada-e-registra-maior-marca-do-campeonato-brasileiro]]>",
+      "time": "13/04 · 23:50",
+      "pubDate": "Mon, 13 Apr 2026 20:50:43 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz aponta objetivos do Corinthians na sequência da temporada e projeta substituto na lateral",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530916/diniz-aponta-objetivos-do-corinthians-na-sequencia-da-temporada-e-projeta-substituto-na-lateral",
+      "time": "13/04 · 23:34",
+      "pubDate": "Mon, 13 Apr 2026 20:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians chega a oito jogos sem vencer no Campeonato Brasileiro após empate com o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530854/corinthians-chega-a-oito-jogos-sem-vencer-no-campeonato-brasileiro-apos-empate-com-o-palmeiras",
+      "time": "13/04 · 23:03",
+      "pubDate": "Mon, 13 Apr 2026 20:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians repete mesma escalação titular pela primeira vez em quase quatro meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530962/corinthians-repete-mesma-escalacao-titular-pela-primeira-vez-em-quase-quatro-meses",
+      "time": "13/04 · 22:31",
+      "pubDate": "Mon, 13 Apr 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz cobra CBF após lance com Flaco López e Corinthians reage à arbitragem no clássico",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-cobra-cbf-apos-lance-com-flaco-lopez-e-corinthians-reage-a-arbitragem-no-classico]]>",
+      "time": "13/04 · 22:29",
+      "pubDate": "Mon, 13 Apr 2026 19:29:56 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians se aproxima de acordo com o Talleres por dívida de Rodrigo Garro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-acordo-com-o-talleres-em-divida-por-garro]]>",
+      "time": "13/04 · 22:06",
+      "pubDate": "Mon, 13 Apr 2026 19:06:55 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians marca pela primeira vez na temporada em goleada na Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530970/trio-do-corinthians-marca-pela-primeira-vez-na-temporada-em-goleada-na-teal-rising-cup",
+      "time": "13/04 · 22:04",
+      "pubDate": "Mon, 13 Apr 2026 19:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians exalta postura no Dérbi e destaca defesas importantes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530929/goleiro-do-corinthians-exalta-postura-no-derbi-e-destaca-defesas-importantes",
+      "time": "13/04 · 21:36",
+      "pubDate": "Mon, 13 Apr 2026 18:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Romeu Tuma Júnior pede licença da presidência do Conselho Deliberativo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530997/romeu-tuma-junior-pede-licenca-da-presidencia-do-conselho-deliberativo-do-corinthians",
+      "time": "13/04 · 21:22",
+      "pubDate": "Mon, 13 Apr 2026 18:22:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -9,46 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/renata-ruel-ve-penalti-nao-marcado-por-flavio-rodrigues-de-souza-em-corinthians-x-palmeiras]]>",
       "time": "13/04 · 20:37",
       "pubDate": "Mon, 13 Apr 2026 17:37:18 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Comissão de Ética aprova por unanimidade parecer pela expulsão de Andrés Sanchez do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530977/comissao-de-etica-aprova-por-unanimidade-parecer-pela-expulsao-de-andres-sanchez-do-corinthians",
-      "time": "13/04 · 20:30",
-      "pubDate": "Mon, 13 Apr 2026 17:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians estuda punição para André Luiz por expulsão após gesto obsceno",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530990/corinthians-estuda-punicao-para-andre-luiz-por-expulsao-apos-gesto-obsceno",
-      "time": "13/04 · 20:25",
-      "pubDate": "Mon, 13 Apr 2026 17:25:21 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians troca minutas e avança em acordo com Talleres para solucionar dívida por Rodrigo Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530989/corinthians-troca-minutas-e-avanca-em-acordo-com-talleres-para-solucionar-divida-por-rodrigo-garro",
-      "time": "13/04 · 20:18",
-      "pubDate": "Mon, 13 Apr 2026 17:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra segundo jogo seguido sem sofrer gols e busca igualar maior sequência do ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530903/corinthians-registra-segundo-jogo-seguido-sem-sofrer-gols-e-busca-igualar-maior-sequencia-do-ano",
-      "time": "13/04 · 20:02",
-      "pubDate": "Mon, 13 Apr 2026 17:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fisioterapeuta de Memphis chega ao Brasil para trabalho em conjunto com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530987/fisioterapeuta-de-memphis-chega-ao-brasil-para-trabalho-em-conjunto-com-o-corinthians",
-      "time": "13/04 · 19:50",
-      "pubDate": "Mon, 13 Apr 2026 16:50:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -59,36 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 13 Apr 2026 16:45:54 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians retorna aos treinamentos com presença de atacante; lateral também volta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530983/corinthians-retorna-aos-treinamentos-com-presenca-de-atacante-lateral-tambem-volta",
-      "time": "13/04 · 19:34",
-      "pubDate": "Mon, 13 Apr 2026 16:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians confirma reintegração de meio-campista após período afastado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530982/corinthians-confirma-reintegracao-de-meio-campista-apos-periodo-afastado",
-      "time": "13/04 · 19:32",
-      "pubDate": "Mon, 13 Apr 2026 16:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Vidente projeta resultado positivo para o Corinthians contra o Santa Fe pela Libertadores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-projeta-resultado-positivo-para-o-corinthians-contra-o-santa-fe-pela-libertadores]]>",
       "time": "13/04 · 19:21",
       "pubDate": "Mon, 13 Apr 2026 16:21:41 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Executivo do Corinthians revela cobrança à CBF por não expulsão de Flaco López por cotovelada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530980/executivo-do-corinthians-revela-cobranca-a-cbf-por-nao-expulsao-de-flaco-lopez-por-cotovelada",
-      "time": "13/04 · 19:21",
-      "pubDate": "Mon, 13 Apr 2026 16:21:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Craque Neto perde a linha após gesto obsceno de André e não alivia ao volante do Corinthians: “Juvenil”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/craque-neto-perde-a-linha-apos-gesto-obsceno-de-andre-e-nao-alivia-ao-volante-do-corinthians-juvenil]]>",
-      "time": "13/04 · 15:50",
-      "pubDate": "Mon, 13 Apr 2026 12:50:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians completa dois meses sem vencer na Neo Química Arena e liga alerta na temporada",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-completa-dois-meses-sem-vencer-na-neo-quimica-arena-e-liga-alerta-na-temporada]]>",
       "time": "13/04 · 15:48",
       "pubDate": "Mon, 13 Apr 2026 12:48:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz deve aplicar punição para André no Corinthians e fica revoltado com nova expulsão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-punicao-andre-corinthians-revoltado]]>",
-      "time": "13/04 · 15:40",
-      "pubDate": "Mon, 13 Apr 2026 12:40:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians enfrenta o Santa Fe com elenco 10 vezes mais valioso antes de jogo pela Copa Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-o-santa-fe-com-elenco-10-vezes-mais-valioso-antes-de-jogo-pela-copa-libertadores]]>",
-      "time": "13/04 · 13:40",
-      "pubDate": "Mon, 13 Apr 2026 10:40:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians exalta metodologia de Diniz e entrega do elenco durante Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530930/goleiro-do-corinthians-exalta-metodologia-de-diniz-e-entrega-do-elenco-durante-derbi",
+      "pubDate": "Mon, 13 Apr 2026 21:03:00 -0300",
+      "date": "14/04 · 00:03"
+    },
+    {
+      "title": "Trio do Corinthians marca pela primeira vez na temporada em goleada na Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530970/trio-do-corinthians-marca-pela-primeira-vez-na-temporada-em-goleada-na-teal-rising-cup",
+      "pubDate": "Mon, 13 Apr 2026 19:04:00 -0300",
+      "date": "13/04 · 22:04"
+    },
+    {
+      "title": "Goleiro do Corinthians exalta postura no Dérbi e destaca defesas importantes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530929/goleiro-do-corinthians-exalta-postura-no-derbi-e-destaca-defesas-importantes",
+      "pubDate": "Mon, 13 Apr 2026 18:36:00 -0300",
+      "date": "13/04 · 21:36"
+    },
+    {
       "title": "Corinthians registra segundo jogo seguido sem sofrer gols e busca igualar maior sequência do ano",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530903/corinthians-registra-segundo-jogo-seguido-sem-sofrer-gols-e-busca-igualar-maior-sequencia-do-ano",
       "pubDate": "Mon, 13 Apr 2026 17:02:00 -0300",
@@ -216,24 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530928/goleiro-do-corinthians-opina-sobre-expulsao-de-andre-e-critica-atuacao-do-var-no-derbi",
       "pubDate": "Mon, 13 Apr 2026 14:31:00 -0300",
       "date": "13/04 · 17:31"
-    },
-    {
-      "title": "Últimas do Corinthians: empate no Dérbi, goleada das Brabas e volante reintegrado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530917/ultimas-do-corinthians-empate-no-derbi-goleada-das-brabas-e-volante-reintegrado",
-      "pubDate": "Mon, 13 Apr 2026 07:30:00 -0300",
-      "date": "13/04 · 10:30"
-    },
-    {
-      "title": "Corinthians repudia ofensa racista contra goleiro do Palmeiras e promete identificação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530924/corinthians-repudia-ofensa-racista-contra-goleiro-do-palmeiras-e-promete-identificacao",
-      "pubDate": "Mon, 13 Apr 2026 00:32:00 -0300",
-      "date": "13/04 · 03:32"
-    },
-    {
-      "title": "VÍDEO: Coletiva de Fernando Diniz: Confusão pós-jogo, jogadores do Corinthians lesionados e adversidades",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127151/coletiva-de-fernando-diniz-confusao-pos-jogo-jogadores-do-corinthians-lesionados-e-adversidades",
-      "pubDate": "Sun, 12 Apr 2026 23:59:18 -0300",
-      "date": "13/04 · 02:59"
     }
   ]
 };
