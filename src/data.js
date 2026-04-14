@@ -1,14 +1,94 @@
-// Gerado automaticamente em 14/04/2026, 11:41:28
+// Gerado automaticamente em 14/04/2026, 15:57:26
 const LIVE_DATA = {
-  "updatedAt": "2026-04-14T11:41:28.258Z",
+  "updatedAt": "2026-04-14T15:57:26.869Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz cobra Corinthians e exige definição sobre a recuperação de Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-cobra-corinthians-e-exige-definicao-sobre-a-recuperacao-de-memphis-depay]]>",
+      "time": "14/04 · 15:56",
+      "pubDate": "Tue, 14 Apr 2026 12:56:30 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-lateral do Corinthians faz alerta para Fernando Diniz e cobra equilíbrio emocional da equipe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531017/ex-lateral-do-corinthians-faz-alerta-para-fernando-diniz-e-cobra-equilibrio-emocional-da-equipe",
+      "time": "14/04 · 15:31",
+      "pubDate": "Tue, 14 Apr 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians entram em campo pela Fifa Series e duelos na Liga das Nações",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531006/jogadoras-do-corinthians-entram-em-campo-pela-fifa-series-e-duelos-na-liga-das-nacoes",
+      "time": "14/04 · 14:32",
+      "pubDate": "Tue, 14 Apr 2026 11:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians se incomoda com gesto de André, diretoria avalia punição e caso gera revolta interna",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-incomoda-com-gesto-de-andre-diretoria-avalia-punicao-e-caso-gera-revolta-interna]]>",
+      "time": "14/04 · 14:26",
+      "pubDate": "Tue, 14 Apr 2026 11:26:55 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Leonardo Pantaleão assume presidência do Conselho Deliberativo do Corinthians após licença de Tuma",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531027/leonardo-pantaleao-assume-presidencia-do-conselho-deliberativo-do-corinthians-apos-licenca-de-tuma",
+      "time": "14/04 · 14:06",
+      "pubDate": "Tue, 14 Apr 2026 11:06:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Procurador do STJD ironiza Hugo Souza após denúncia por críticas à arbitragem em empate do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/procurador-do-stjd-ironiza-hugo-souza-apos-denuncia-por-criticas-a-arbitragem-em-empate-do-corinthians]]>",
-      "time": "14/04 · 11:38",
-      "pubDate": "Tue, 14 Apr 2026 08:38:54 -0300"
+      "time": "14/04 · 13:53",
+      "pubDate": "Tue, 14 Apr 2026 10:53:02 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Roma-ITA quer fazer acordo com o Corinthians no mercado da bola e contratar o atacante Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/roma-ita-quer-fazer-acordo-com-o-corinthians-no-mercado-da-bola-e-contratar-o-atacante-yuri-alberto]]>",
+      "time": "14/04 · 13:52",
+      "pubDate": "Tue, 14 Apr 2026 10:52:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca empresas para renovar contrato de Memphis Depay; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530996/corinthians-busca-empresas-para-renovar-contrato-de-memphis-depay-saiba-mais",
+      "time": "14/04 · 13:31",
+      "pubDate": "Tue, 14 Apr 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Discursos de Emily Lima marcam bastidores de goleada do Corinthians na Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531018/discursos-de-emily-lima-marcam-bastidores-de-goleada-do-corinthians-na-teal-rising-cup",
+      "time": "14/04 · 13:01",
+      "pubDate": "Tue, 14 Apr 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Procurador do STJD critica jogadores do Corinthians e defende punição 'pedagógica' contra clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531016/procurador-do-stjd-critica-jogadores-do-corinthians-e-defende-punicao-pedagogica-contra-clube",
+      "time": "14/04 · 12:42",
+      "pubDate": "Tue, 14 Apr 2026 09:42:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Monitorado pelo Corinthians, Cebolinha supera Memphis Depay em número de gols na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/monitorado-pelo-corinthians-cebolinha-supera-memphis-depay-em-numero-de-gols-na-temporada]]>",
+      "time": "14/04 · 12:37",
+      "pubDate": "Tue, 14 Apr 2026 09:37:46 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,92 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 14 Apr 2026 00:42:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "STJD oferece denúncias contra Corinthians, jogadores e comissão técnica por episódios no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531012/stjd-oferece-denuncias-contra-corinthians-jogadores-e-comissao-tecnica-por-episodios-no-derbi",
-      "time": "14/04 · 02:21",
-      "pubDate": "Mon, 13 Apr 2026 23:21:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Destaque no Dérbi, Bidu comanda defesa do Corinthians mesmo com desvantagem numérica em campo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/destaque-no-derbi-bidu-comanda-defesa-do-corinthians-mesmo-com-desvantagem-numerica-em-campo]]>",
       "time": "14/04 · 02:06",
       "pubDate": "Mon, 13 Apr 2026 23:06:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Sem vencer há oito jogos, Corinthians empata Dérbi e vive momento delicado na temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/sem-vencer-ha-oito-jogos-corinthians-empata-derbi-e-vive-momento-delicado-na-temporada]]>",
-      "time": "14/04 · 01:46",
-      "pubDate": "Mon, 13 Apr 2026 22:46:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não avalia multar André ou Matheuzinho após expulsões diante do Palmeiras",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-avalia-multar-andre-ou-matheuzinho-apos-expulsoes-diante-do-palmeiras]]>",
-      "time": "14/04 · 01:44",
-      "pubDate": "Mon, 13 Apr 2026 22:44:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians foi o atleta com mais duelos vencidos em empate no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530955/lateral-do-corinthians-foi-o-atleta-com-mais-duelos-vencidos-em-empate-no-derbi",
-      "time": "14/04 · 01:32",
-      "pubDate": "Mon, 13 Apr 2026 22:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians emplaca sequência negativa sem vitórias em clássicos paulistas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530881/corinthians-emplaca-sequencia-negativa-sem-vitorias-em-classicos-paulistas",
-      "time": "14/04 · 01:01",
-      "pubDate": "Mon, 13 Apr 2026 22:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emissora registra recorde de audiência com transmissão de clássico do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530974/emissora-registra-recorde-de-audiencia-com-transmissao-de-classico-do-corinthians",
-      "time": "14/04 · 00:30",
-      "pubDate": "Mon, 13 Apr 2026 21:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians exalta metodologia de Diniz e entrega do elenco durante Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530930/goleiro-do-corinthians-exalta-metodologia-de-diniz-e-entrega-do-elenco-durante-derbi",
-      "time": "14/04 · 00:13",
-      "pubDate": "Mon, 13 Apr 2026 21:13:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inaugura academia voltada para os esportes terrestres",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531008/corinthians-inaugura-academia-voltada-para-os-esportes-terrestres",
-      "time": "13/04 · 23:59",
-      "pubDate": "Mon, 13 Apr 2026 20:59:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Palmeiras lidera público da rodada e registra maior marca do Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-palmeiras-lidera-publico-da-rodada-e-registra-maior-marca-do-campeonato-brasileiro]]>",
-      "time": "13/04 · 23:50",
-      "pubDate": "Mon, 13 Apr 2026 20:50:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians se aproxima de acordo com o Talleres por dívida de Rodrigo Garro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-acordo-com-o-talleres-em-divida-por-garro]]>",
-      "time": "13/04 · 22:06",
-      "pubDate": "Mon, 13 Apr 2026 19:06:55 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Discursos de Emily Lima marcam bastidores de goleada do Corinthians na Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531018/discursos-de-emily-lima-marcam-bastidores-de-goleada-do-corinthians-na-teal-rising-cup",
+      "pubDate": "Tue, 14 Apr 2026 10:01:00 -0300",
+      "date": "14/04 · 13:01"
+    },
+    {
       "title": "Goleiro do Corinthians exalta metodologia de Diniz e entrega do elenco durante Dérbi",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530930/goleiro-do-corinthians-exalta-metodologia-de-diniz-e-entrega-do-elenco-durante-derbi",
       "pubDate": "Mon, 13 Apr 2026 21:13:00 -0300",
@@ -228,12 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530975/corinthians-anuncia-ex-goleiro-do-clube-como-novo-gerente-de-futebol",
       "pubDate": "Mon, 13 Apr 2026 15:48:00 -0300",
       "date": "13/04 · 18:48"
-    },
-    {
-      "title": "Goleiro do Corinthians opina sobre expulsão de André e critica atuação do VAR no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530928/goleiro-do-corinthians-opina-sobre-expulsao-de-andre-e-critica-atuacao-do-var-no-derbi",
-      "pubDate": "Mon, 13 Apr 2026 14:31:00 -0300",
-      "date": "13/04 · 17:31"
     }
   ]
 };
