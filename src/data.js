@@ -1,14 +1,78 @@
-// Gerado automaticamente em 14/04/2026, 20:38:12
+// Gerado automaticamente em 15/04/2026, 00:06:20
 const LIVE_DATA = {
-  "updatedAt": "2026-04-14T20:38:12.758Z",
+  "updatedAt": "2026-04-15T00:06:20.478Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Com Corinthians de olho em Everton Cebolinha, Flamengo cogita o negociar por um valor inferior",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-corinthians-de-olho-em-everton-cebolinha-flamengo-cogita-o-negociar-por-um-valor-inferior]]>",
+      "time": "14/04 · 23:48",
+      "pubDate": "Tue, 14 Apr 2026 20:48:48 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians multa jovem volante por expulsão após gesto obsceno no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531047/corinthians-multa-jovem-volante-por-expulsao-apos-gesto-obsceno-no-derbi",
-      "time": "14/04 · 20:07",
-      "pubDate": "Tue, 14 Apr 2026 17:07:00 -0300"
+      "title": "Atacante do Corinthians celebra início na Libertadores e exalta força da Fiel para segunda rodada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531058/atacante-do-corinthians-celebra-inicio-na-libertadores-e-exalta-forca-da-fiel-para-segunda-rodada",
+      "time": "14/04 · 23:47",
+      "pubDate": "Tue, 14 Apr 2026 20:47:37 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral emprestado pelo Corinthians supera marca de jogos dos últimos dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531023/lateral-emprestado-pelo-corinthians-supera-marca-de-jogos-dos-ultimos-dois-anos",
+      "time": "14/04 · 23:31",
+      "pubDate": "Tue, 14 Apr 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra em cartório ata da votação do afastamento de Romeu Tuma Júnior",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531057/corinthians-registra-em-cartorio-ata-da-votacao-do-afastamento-de-romeu-tuma-junior",
+      "time": "14/04 · 23:18",
+      "pubDate": "Tue, 14 Apr 2026 20:18:10 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Assessor explica funcionamento da peteca no Corinthians e celebra quase 100 anos de história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531051/assessor-explica-funcionamento-da-peteca-no-corinthians-e-celebra-quase-100-anos-de-historia",
+      "time": "14/04 · 23:02",
+      "pubDate": "Tue, 14 Apr 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente em exercício define nova data para votação do Estatuto no Conselho do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531056/presidente-em-exercicio-define-nova-data-para-votacao-do-estatuto-no-conselho-do-corinthians",
+      "time": "14/04 · 22:41",
+      "pubDate": "Tue, 14 Apr 2026 19:41:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista marca primeiro gol pelo Corinthians durante sequência como titular",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531002/meio-campista-marca-primeiro-gol-pelo-corinthians-durante-sequencia-como-titular",
+      "time": "14/04 · 22:36",
+      "pubDate": "Tue, 14 Apr 2026 19:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians será objeto de estudo em evento acadêmico na USP; saiba detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531050/corinthians-sera-objeto-de-estudo-em-evento-academico-na-usp-saiba-detalhes",
+      "time": "14/04 · 22:02",
+      "pubDate": "Tue, 14 Apr 2026 19:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians libera zagueira e atacante sem espaço no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531053/corinthians-libera-zagueira-e-atacante-sem-espaco-no-sub-20",
+      "time": "14/04 · 21:34",
+      "pubDate": "Tue, 14 Apr 2026 18:34:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -17,14 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/flavio-prado-da-jovem-pan-critica-o-corinthians-de-maneira-agressiva-e-afirma-time-varzeano]]>",
       "time": "14/04 · 20:05",
       "pubDate": "Tue, 14 Apr 2026 17:05:58 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca voltar a vencer na Arena e evitar repetição de sequência negativa de 2024",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531043/corinthians-busca-voltar-a-vencer-na-arena-e-evitar-repeticao-de-sequencia-negativa-de-2024",
-      "time": "14/04 · 20:01",
-      "pubDate": "Tue, 14 Apr 2026 17:01:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,14 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 14 Apr 2026 16:37:44 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians minimiza desgaste em meio à sequência pesada na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530934/zagueiro-do-corinthians-minimiza-desgaste-em-meio-a-sequencia-pesada-na-temporada",
-      "time": "14/04 · 19:32",
-      "pubDate": "Tue, 14 Apr 2026 16:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians não consegue parceiros para renovar com Depay e lobby de Marcelo Paz irrita diretoria",
@@ -59,52 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 14 Apr 2026 16:08:57 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece detalhes de confronto diante do Vasco da Gama pela Copa LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531042/corinthians-conhece-detalhes-de-confronto-diante-do-vasco-da-gama-pela-copa-lnf",
-      "time": "14/04 · 19:02",
-      "pubDate": "Tue, 14 Apr 2026 16:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians volta a marcar após oito meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530973/atacante-do-corinthians-volta-a-marcar-apos-oito-meses",
-      "time": "14/04 · 18:30",
-      "pubDate": "Tue, 14 Apr 2026 15:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Marcelo Paz quer e corre no Corinthians para renovar com Memphis Depay: “Por ele, assinaria amanhã”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-quer-e-corre-no-corinthians-para-renovar-com-memphis-depay-por-ele-assinaria-amanha]]>",
       "time": "14/04 · 17:50",
       "pubDate": "Tue, 14 Apr 2026 14:50:56 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians coloca jogo contra o Independiente Santa Fe como 'final' pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530931/goleiro-do-corinthians-coloca-jogo-contra-o-independiente-santa-fe-como-final-pela-libertadores",
-      "time": "14/04 · 17:34",
-      "pubDate": "Tue, 14 Apr 2026 14:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselheiro do Corinthians cobra recadastramento de associados e critica omissão da diretoria",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531034/conselheiro-do-corinthians-cobra-recadastramento-de-associados-e-critica-omissao-da-diretoria",
-      "time": "14/04 · 17:02",
-      "pubDate": "Tue, 14 Apr 2026 14:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode contar com retorno de atacante contra o Independiente Santa Fe pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531032/corinthians-pode-contar-com-retorno-de-atacante-contra-o-independiente-santa-fe-pela-libertadores",
-      "time": "14/04 · 16:30",
-      "pubDate": "Tue, 14 Apr 2026 13:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -123,82 +131,86 @@ const LIVE_DATA = {
       "pubDate": "Tue, 14 Apr 2026 12:56:30 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians se incomoda com gesto de André, diretoria avalia punição e caso gera revolta interna",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-incomoda-com-gesto-de-andre-diretoria-avalia-punicao-e-caso-gera-revolta-interna]]>",
-      "time": "14/04 · 14:26",
-      "pubDate": "Tue, 14 Apr 2026 11:26:55 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Tuma pede licença da presidência do Conselho do Corinthians e chama Stabile de &#8220;traidor&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/tuma-pede-licenca-presidente-conselho-corinthians/",
+      "time": "14/04 · 02:36",
+      "pubDate": "Tue, 14 Apr 2026 02:36:57 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Memphis decepciona em nova função no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
-      "time": "02/03 · 10:00",
-      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
+      "title": "Ex-Corinthians, filho de Fagner assina primeiro contrato profissional com o Cruzeiro",
+      "url": "https://www.gazetaesportiva.com/times/cruzeiro/henrique-lemos-primeiro-contrato-cruzeiro/",
+      "time": "14/04 · 00:17",
+      "pubDate": "Tue, 14 Apr 2026 00:17:56 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
-      "time": "02/03 · 09:00",
-      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
+      "title": "Corinthians integra fisioterapeuta particular de Memphis para tratar lesão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-integra-fisioterapeuta-particular-de-memphis-para-tratar-lesao/",
+      "time": "13/04 · 23:00",
+      "pubDate": "Mon, 13 Apr 2026 23:00:54 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
-      "time": "02/03 · 08:00",
-      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
+      "title": "Kaio César inicia transição, e Alex Santana é reintegrado em reapresentação do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-inicia-transicao-e-alex-santana-e-reintegrado-em-reapresentacao-do-corinthians/",
+      "time": "13/04 · 19:56",
+      "pubDate": "Mon, 13 Apr 2026 19:56:53 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
-      "time": "02/03 · 01:05",
-      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
+      "title": "Corinthians promete contestar CBF por não expulsão de Flaco em Derby",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-promete-contestar-cbf-por-nao-expulsao-de-flaco-em-derby/",
+      "time": "13/04 · 19:41",
+      "pubDate": "Mon, 13 Apr 2026 19:41:12 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
-      "time": "02/03 · 00:27",
-      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
+      "title": "Corinthians: Marcelo Paz anuncia ex-goleiro Júlio César como novo gerente de futebol do clube",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-marcelo-paz-anuncia-ex-goleiro-como-novo-dirigente-do-clube/",
+      "time": "13/04 · 19:40",
+      "pubDate": "Mon, 13 Apr 2026 19:40:49 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians: conheça os números da equipe na temporada 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
-      "time": "01/03 · 17:29",
-      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
+      "title": "Corinthians anuncia Julio Cesar, ex-goleiro do clube, como novo gerente de futebol",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-anuncia-julio-cesar-ex-goleiro-do-clube-como-novo-gerente-de-futebol/",
+      "time": "13/04 · 19:18",
+      "pubDate": "Mon, 13 Apr 2026 19:18:30 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
-      "time": "01/03 · 12:25",
-      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
-      "time": "01/03 · 11:00",
-      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
+      "title": "Corinthians detecta “sumiço” em caixa após auditoria das contas de 2025",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-detecta-sumico-em-caixa-apos-auditoria-das-contas-de-2025/",
+      "time": "13/04 · 17:58",
+      "pubDate": "Mon, 13 Apr 2026 17:58:25 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Meio-campista marca primeiro gol pelo Corinthians durante sequência como titular",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531002/meio-campista-marca-primeiro-gol-pelo-corinthians-durante-sequencia-como-titular",
+      "pubDate": "Tue, 14 Apr 2026 19:36:00 -0300",
+      "date": "14/04 · 22:36"
+    },
+    {
+      "title": "Corinthians expande lista de goleadas após 8 a 0 na Teal Rising Cup",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530972/corinthians-expande-lista-de-goleadas-apos-8-a-0-na-teal-rising-cup",
+      "pubDate": "Tue, 14 Apr 2026 17:35:00 -0300",
+      "date": "14/04 · 20:35"
+    },
     {
       "title": "Goleiro do Corinthians coloca jogo contra o Independiente Santa Fe como 'final' pela Libertadores",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530931/goleiro-do-corinthians-coloca-jogo-contra-o-independiente-santa-fe-como-final-pela-libertadores",
@@ -210,24 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531018/discursos-de-emily-lima-marcam-bastidores-de-goleada-do-corinthians-na-teal-rising-cup",
       "pubDate": "Tue, 14 Apr 2026 10:01:00 -0300",
       "date": "14/04 · 13:01"
-    },
-    {
-      "title": "Goleiro do Corinthians exalta metodologia de Diniz e entrega do elenco durante Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530930/goleiro-do-corinthians-exalta-metodologia-de-diniz-e-entrega-do-elenco-durante-derbi",
-      "pubDate": "Mon, 13 Apr 2026 21:13:00 -0300",
-      "date": "14/04 · 00:13"
-    },
-    {
-      "title": "Trio do Corinthians marca pela primeira vez na temporada em goleada na Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530970/trio-do-corinthians-marca-pela-primeira-vez-na-temporada-em-goleada-na-teal-rising-cup",
-      "pubDate": "Mon, 13 Apr 2026 19:04:00 -0300",
-      "date": "13/04 · 22:04"
-    },
-    {
-      "title": "Goleiro do Corinthians exalta postura no Dérbi e destaca defesas importantes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/530929/goleiro-do-corinthians-exalta-postura-no-derbi-e-destaca-defesas-importantes",
-      "pubDate": "Mon, 13 Apr 2026 18:36:00 -0300",
-      "date": "13/04 · 21:36"
     }
   ]
 };
