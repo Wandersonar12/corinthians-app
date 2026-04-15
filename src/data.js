@@ -1,78 +1,86 @@
-// Gerado automaticamente em 15/04/2026, 00:06:20
+// Gerado automaticamente em 15/04/2026, 11:36:54
 const LIVE_DATA = {
-  "updatedAt": "2026-04-15T00:06:20.478Z",
+  "updatedAt": "2026-04-15T11:36:54.616Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: renovação de Memphis, retorno de atacante e volante punido",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531066/ultimas-do-corinthians-renovacao-de-memphis-retorno-de-atacante-e-volante-punido",
+      "time": "15/04 · 10:30",
+      "pubDate": "Wed, 15 Apr 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Santa Fe para manter 100% de aproveitamento na Libertadores; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531040/corinthians-recebe-o-santa-fe-para-manter-100-por-cento-de-aproveitamento-na-libertadores-saiba-tudo",
+      "time": "15/04 · 03:01",
+      "pubDate": "Wed, 15 Apr 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians comete erro na recuperação de Memphis Depay e atrasa retorno do holandês",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-comete-erro-na-recuperacao-de-memphis-depay-e-atrasa-retorno-do-holandes]]>",
+      "time": "15/04 · 02:07",
+      "pubDate": "Tue, 14 Apr 2026 23:07:24 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca defender bom desempenho em casa na Libertadores diante do Santa Fe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531022/corinthians-busca-defender-bom-desempenho-em-casa-na-libertadores-diante-do-santa-fe",
+      "time": "15/04 · 01:34",
+      "pubDate": "Tue, 14 Apr 2026 22:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-Corinthians lidera retomada do São Caetano na A4 do Paulistão e relembra passagem pelo Timão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531033/ex-corinthians-lidera-retomada-do-sao-caetano-na-a4-do-paulistao-e-relembra-passagem-pelo-timao",
+      "time": "15/04 · 01:01",
+      "pubDate": "Tue, 14 Apr 2026 22:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Julio Cesar celebra retorno ao Corinthians e detalha papel como novo gerente de futebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531062/julio-cesar-celebra-retorno-ao-corinthians-e-detalha-papel-como-novo-gerente-de-futebol",
+      "time": "15/04 · 00:52",
+      "pubDate": "Tue, 14 Apr 2026 21:52:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Erro do Corinthians em recuperação de Memphis atrasa retorno do atacante aos gramados; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531061/erro-do-corinthians-em-recuperacao-de-memphis-atrasa-retorno-do-atacante-aos-gramados-entenda",
+      "time": "15/04 · 00:45",
+      "pubDate": "Tue, 14 Apr 2026 21:45:17 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians finaliza preparação para enfrentar o Santa Fe pela Libertadores; veja provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531030/corinthians-finaliza-preparacao-para-enfrentar-o-santa-fe-pela-libertadores-veja-provavel-escalacao",
+      "time": "15/04 · 00:40",
+      "pubDate": "Tue, 14 Apr 2026 21:40:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca manter retrospecto positivo contra times colombianos; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531004/corinthians-busca-manter-retrospecto-positivo-contra-times-colombianos-veja-os-numeros",
+      "time": "15/04 · 00:32",
+      "pubDate": "Tue, 14 Apr 2026 21:32:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Com Corinthians de olho em Everton Cebolinha, Flamengo cogita o negociar por um valor inferior",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/com-corinthians-de-olho-em-everton-cebolinha-flamengo-cogita-o-negociar-por-um-valor-inferior]]>",
-      "time": "14/04 · 23:48",
-      "pubDate": "Tue, 14 Apr 2026 20:48:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians celebra início na Libertadores e exalta força da Fiel para segunda rodada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531058/atacante-do-corinthians-celebra-inicio-na-libertadores-e-exalta-forca-da-fiel-para-segunda-rodada",
-      "time": "14/04 · 23:47",
-      "pubDate": "Tue, 14 Apr 2026 20:47:37 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral emprestado pelo Corinthians supera marca de jogos dos últimos dois anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531023/lateral-emprestado-pelo-corinthians-supera-marca-de-jogos-dos-ultimos-dois-anos",
-      "time": "14/04 · 23:31",
-      "pubDate": "Tue, 14 Apr 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra em cartório ata da votação do afastamento de Romeu Tuma Júnior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531057/corinthians-registra-em-cartorio-ata-da-votacao-do-afastamento-de-romeu-tuma-junior",
-      "time": "14/04 · 23:18",
-      "pubDate": "Tue, 14 Apr 2026 20:18:10 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Assessor explica funcionamento da peteca no Corinthians e celebra quase 100 anos de história",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531051/assessor-explica-funcionamento-da-peteca-no-corinthians-e-celebra-quase-100-anos-de-historia",
-      "time": "14/04 · 23:02",
-      "pubDate": "Tue, 14 Apr 2026 20:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente em exercício define nova data para votação do Estatuto no Conselho do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531056/presidente-em-exercicio-define-nova-data-para-votacao-do-estatuto-no-conselho-do-corinthians",
-      "time": "14/04 · 22:41",
-      "pubDate": "Tue, 14 Apr 2026 19:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista marca primeiro gol pelo Corinthians durante sequência como titular",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531002/meio-campista-marca-primeiro-gol-pelo-corinthians-durante-sequencia-como-titular",
-      "time": "14/04 · 22:36",
-      "pubDate": "Tue, 14 Apr 2026 19:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians será objeto de estudo em evento acadêmico na USP; saiba detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531050/corinthians-sera-objeto-de-estudo-em-evento-academico-na-usp-saiba-detalhes",
-      "time": "14/04 · 22:02",
-      "pubDate": "Tue, 14 Apr 2026 19:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians libera zagueira e atacante sem espaço no Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531053/corinthians-libera-zagueira-e-atacante-sem-espaco-no-sub-20",
-      "time": "14/04 · 21:34",
-      "pubDate": "Tue, 14 Apr 2026 18:34:00 -0300"
+      "time": "15/04 · 00:26",
+      "pubDate": "Tue, 14 Apr 2026 21:26:42 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-oito-desfalques-incluindo-memphis-depay-contra-o-santa-fe-na-libertadores]]>",
       "time": "14/04 · 16:03",
       "pubDate": "Tue, 14 Apr 2026 13:03:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz cobra Corinthians e exige definição sobre a recuperação de Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-cobra-corinthians-e-exige-definicao-sobre-a-recuperacao-de-memphis-depay]]>",
-      "time": "14/04 · 15:56",
-      "pubDate": "Tue, 14 Apr 2026 12:56:30 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/530931/goleiro-do-corinthians-coloca-jogo-contra-o-independiente-santa-fe-como-final-pela-libertadores",
       "pubDate": "Tue, 14 Apr 2026 14:34:00 -0300",
       "date": "14/04 · 17:34"
-    },
-    {
-      "title": "Discursos de Emily Lima marcam bastidores de goleada do Corinthians na Teal Rising Cup",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531018/discursos-de-emily-lima-marcam-bastidores-de-goleada-do-corinthians-na-teal-rising-cup",
-      "pubDate": "Tue, 14 Apr 2026 10:01:00 -0300",
-      "date": "14/04 · 13:01"
     }
   ]
 };
