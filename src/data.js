@@ -1,14 +1,102 @@
-// Gerado automaticamente em 17/04/2026, 15:40:42
+// Gerado automaticamente em 17/04/2026, 20:09:27
 const LIVE_DATA = {
-  "updatedAt": "2026-04-17T15:40:42.918Z",
+  "updatedAt": "2026-04-17T20:09:27.169Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra fase de classificação do NBB em busca de ampliar campanha histórica",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531245/corinthians-encerra-fase-de-classificacao-do-nbb-em-busca-de-ampliar-campanha-historica",
-      "time": "17/04 · 15:31",
-      "pubDate": "Fri, 17 Apr 2026 12:31:00 -0300"
+      "title": "[Daniel Keppler] A má intenção do STJD encontrou na incompetência do Corinthians sua vítima perfeita",
+      "url": "https://www.meutimao.com.br/coluna/daniel_keppler/4229/a-ma-intencao-do-stjd-encontrou-na-incompetencia-do-corinthians-sua-vitima-perfeita/",
+      "time": "17/04 · 20:08",
+      "pubDate": "Fri, 17 Apr 2026 17:08:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para duelo contra o Unifacisa pelas oitavas de final do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531272/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-unifacisa-pelas-oitavas-de-final-do-nbb",
+      "time": "17/04 · 20:01",
+      "pubDate": "Fri, 17 Apr 2026 17:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lenda do basquete mundial, Oscar Schmidt morre aos 68 anos; ídolo eternizou seu nome no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lenda-do-basquete-mundial-oscar-schmidt-morre-aos-68-anos-idolo-eternizou-seu-nome-no-corinthians]]>",
+      "time": "17/04 · 19:56",
+      "pubDate": "Fri, 17 Apr 2026 16:56:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Morre Oscar Schmidt, ídolo do basquete nacional e campeão pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531268/morre-oscar-schmidt-idolo-do-basquete-nacional-e-campeao-pelo-corinthians",
+      "time": "17/04 · 19:56",
+      "pubDate": "Fri, 17 Apr 2026 16:56:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode emendar sequência sem sofrer gols que não se repete há quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531185/corinthians-pode-emendar-sequencia-sem-sofrer-gols-que-nao-se-repete-ha-quase-um-ano",
+      "time": "17/04 · 19:32",
+      "pubDate": "Fri, 17 Apr 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz treino focado em ajustes táticos visando sequência do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531270/corinthians-faz-treino-focado-em-ajustes-taticos-visando-sequencia-do-brasileirao-feminino",
+      "time": "17/04 · 19:17",
+      "pubDate": "Fri, 17 Apr 2026 16:17:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheuzinho, do Corinthians, sofre suspensão de 4 jogos no STJD; André e Hugo Souza também são punidos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-do-corinthians-sofre-suspensao-de-4-jogos-no-stjd-andre-e-hugo-souza-tambem-sao-punidos]]>",
+      "time": "17/04 · 18:55",
+      "pubDate": "Fri, 17 Apr 2026 15:55:10 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca evitar maior jejum recente no Brasileirão; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531181/corinthians-busca-evitar-maior-jejum-recente-no-brasileirao-veja-os-numeros",
+      "time": "17/04 · 18:32",
+      "pubDate": "Fri, 17 Apr 2026 15:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians projeta partida contra o Vitória e celebra oportunidade",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531263/lateral-do-corinthians-projeta-partida-contra-o-vitoria-e-celebra-oportunidade",
+      "time": "17/04 · 18:31",
+      "pubDate": "Fri, 17 Apr 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians defende invencibilidade de quase uma década no Barradão em duelo decisivo contra o Vitória",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-defende-invencibilidade-de-quase-uma-decada-no-barradao-em-duelo-decisivo-contra-o-vitoria]]>",
+      "time": "17/04 · 18:29",
+      "pubDate": "Fri, 17 Apr 2026 15:29:33 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra a preparação para visitar o Vitória pelo Brasileirão; veja a provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531253/corinthians-encerra-a-preparacao-para-visitar-o-vitoria-pelo-brasileirao-veja-a-provavel-escalacao",
+      "time": "17/04 · 18:14",
+      "pubDate": "Fri, 17 Apr 2026 15:14:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians enfrenta barreira do Flamengo para contratar Cebolinha",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-barreira-do-flamengo-para-contratar-cebolinha]]>",
+      "time": "17/04 · 15:48",
+      "pubDate": "Fri, 17 Apr 2026 12:48:35 -0300"
     },
     {
       "source": "Bolavip",
@@ -19,28 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 17 Apr 2026 11:32:09 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians ganha linha de inverno em nova coleção de marca esportiva; veja fotos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531196/corinthians-ganha-linha-de-inverno-em-nova-colecao-de-marca-esportiva-veja-fotos",
-      "time": "17/04 · 14:32",
-      "pubDate": "Fri, 17 Apr 2026 11:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz cita Ramón Díaz e destaca postura do Corinthians em casa: “Bons trabalhos que foram deixados”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-cita-ramon-diaz-e-destaca-postura-do-corinthians-em-casa-bons-trabalhos-que-foram-deixados]]>",
       "time": "17/04 · 14:08",
       "pubDate": "Fri, 17 Apr 2026 11:08:29 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vitória confirma ausência de zagueiro emprestado pelo Corinthians em duelo do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531250/vitoria-confirma-ausencia-de-zagueiro-emprestado-pelo-corinthians-em-duelo-do-brasileirao",
-      "time": "17/04 · 14:05",
-      "pubDate": "Fri, 17 Apr 2026 11:05:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,78 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/abel-ferreira-da-leve-provocada-no-corinthians-ao-analisar-polemico-derbi-tem-que-manter-essa-vontade]]>",
       "time": "17/04 · 13:52",
       "pubDate": "Fri, 17 Apr 2026 10:52:44 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gustavo Henrique amplia contribuições decisivas pelo Corinthians em vitória na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531153/gustavo-henrique-amplia-contribuicoes-decisivas-pelo-corinthians-em-vitoria-na-libertadores",
-      "time": "17/04 · 13:31",
-      "pubDate": "Fri, 17 Apr 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Caxias do Sul pela última rodada da fase regular do NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531179/corinthians-visita-o-caxias-do-sul-pela-ultima-rodada-da-fase-regular-do-nbb-saiba-tudo",
-      "time": "17/04 · 11:31",
-      "pubDate": "Fri, 17 Apr 2026 08:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: denúncia do MP, retorno aos treinamentos e análise de confusão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531198/ultimas-do-corinthians-denuncia-do-mp-retorno-aos-treinamentos-e-analise-de-confusao",
-      "time": "17/04 · 10:30",
-      "pubDate": "Fri, 17 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Entrega e dedicação marcam discursos nos bastidores após vitória do Corinthians contra o Santa Fe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531199/entrega-e-dedicacao-marcam-discursos-nos-bastidores-apos-vitoria-do-corinthians-contra-o-santa-fe",
-      "time": "17/04 · 02:49",
-      "pubDate": "Thu, 16 Apr 2026 23:49:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se isola na liderança do Grupo E ao fim da segunda rodada da Libertadores; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531187/corinthians-se-isola-na-lideranca-do-grupo-e-ao-fim-da-segunda-rodada-da-libertadores-veja-a-tabela",
-      "time": "17/04 · 02:32",
-      "pubDate": "Thu, 16 Apr 2026 23:32:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gustavo Henrique supera Memphis e tem números ofensivos melhores no Corinthians em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-supera-memphis-e-tem-numeros-ofensivos-melhores-no-corinthians-em-2026]]>",
-      "time": "16/04 · 20:12",
-      "pubDate": "Thu, 16 Apr 2026 17:12:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Flavio Prado afirma que Corinthians irá dar vexame na Libertadores: “Pra quê essa ilusão?”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/flavio-prado-afirma-que-corinthians-ira-dar-vexame-na-libertadores-pra-que-essa-ilusao]]>",
-      "time": "16/04 · 19:55",
-      "pubDate": "Thu, 16 Apr 2026 16:55:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians chega ao terceiro jogo seguido sem sofrer gols e confirma evolução defensiva com Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-chega-ao-terceiro-jogo-seguido-sem-sofrer-gols-e-confirma-evolucao-defensiva-com-diniz]]>",
-      "time": "16/04 · 15:46",
-      "pubDate": "Thu, 16 Apr 2026 12:46:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz reconhece o Corinthians com seu DNA e blinda elenco: “Repertório deu uma melhorada”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-reconhece-o-corinthians-com-seu-dna-e-blinda-elenco-repertorio-deu-uma-melhorada]]>",
-      "time": "16/04 · 14:09",
-      "pubDate": "Thu, 16 Apr 2026 11:09:02 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians pode emendar sequência sem sofrer gols que não se repete há quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531185/corinthians-pode-emendar-sequencia-sem-sofrer-gols-que-nao-se-repete-ha-quase-um-ano",
+      "pubDate": "Fri, 17 Apr 2026 16:32:00 -0300",
+      "date": "17/04 · 19:32"
+    },
+    {
       "title": "Gustavo Henrique iguala emprestado e se torna zagueiro com mais gols pelo Corinthians na década",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531141/gustavo-henrique-iguala-emprestado-e-se-torna-zagueiro-com-mais-gols-pelo-corinthians-na-decada",
       "pubDate": "Thu, 16 Apr 2026 20:33:00 -0300",
       "date": "16/04 · 23:33"
-    },
-    {
-      "title": "Diniz exalta contratação de ex-goleiro e vê elenco do Corinthians blindado após cobranças",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531145/diniz-exalta-contratacao-de-ex-goleiro-e-ve-elenco-do-corinthians-blindado-apos-cobrancas",
-      "pubDate": "Thu, 16 Apr 2026 12:33:00 -0300",
-      "date": "16/04 · 15:33"
     }
   ]
 };
