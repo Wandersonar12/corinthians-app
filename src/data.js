@@ -1,7 +1,79 @@
-// Gerado automaticamente em 17/04/2026, 11:15:40
+// Gerado automaticamente em 17/04/2026, 15:40:42
 const LIVE_DATA = {
-  "updatedAt": "2026-04-17T11:15:40.100Z",
+  "updatedAt": "2026-04-17T15:40:42.918Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra fase de classificação do NBB em busca de ampliar campanha histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531245/corinthians-encerra-fase-de-classificacao-do-nbb-em-busca-de-ampliar-campanha-historica",
+      "time": "17/04 · 15:31",
+      "pubDate": "Fri, 17 Apr 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Bidu vive melhor fase no Corinthians, ignora Flamengo e quer fazer história no clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/bidu-vive-melhor-fase-no-corinthians-ignora-flamengo-e-quer-fazer-historia-no-clube]]>",
+      "time": "17/04 · 14:32",
+      "pubDate": "Fri, 17 Apr 2026 11:32:09 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ganha linha de inverno em nova coleção de marca esportiva; veja fotos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531196/corinthians-ganha-linha-de-inverno-em-nova-colecao-de-marca-esportiva-veja-fotos",
+      "time": "17/04 · 14:32",
+      "pubDate": "Fri, 17 Apr 2026 11:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz cita Ramón Díaz e destaca postura do Corinthians em casa: “Bons trabalhos que foram deixados”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-cita-ramon-diaz-e-destaca-postura-do-corinthians-em-casa-bons-trabalhos-que-foram-deixados]]>",
+      "time": "17/04 · 14:08",
+      "pubDate": "Fri, 17 Apr 2026 11:08:29 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vitória confirma ausência de zagueiro emprestado pelo Corinthians em duelo do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531250/vitoria-confirma-ausencia-de-zagueiro-emprestado-pelo-corinthians-em-duelo-do-brasileirao",
+      "time": "17/04 · 14:05",
+      "pubDate": "Fri, 17 Apr 2026 11:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz será decisivo pela contratação após contato prévio do Corinthians por Lucas Ferreira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-sera-decisivo-pela-contratacao-apos-contato-previo-do-corinthians-por-lucas-ferreira]]>",
+      "time": "17/04 · 13:54",
+      "pubDate": "Fri, 17 Apr 2026 10:54:01 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Abel Ferreira dá leve provocada no Corinthians ao analisar polêmico dérbi: “Tem que manter essa vontade”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/abel-ferreira-da-leve-provocada-no-corinthians-ao-analisar-polemico-derbi-tem-que-manter-essa-vontade]]>",
+      "time": "17/04 · 13:52",
+      "pubDate": "Fri, 17 Apr 2026 10:52:44 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gustavo Henrique amplia contribuições decisivas pelo Corinthians em vitória na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531153/gustavo-henrique-amplia-contribuicoes-decisivas-pelo-corinthians-em-vitoria-na-libertadores",
+      "time": "17/04 · 13:31",
+      "pubDate": "Fri, 17 Apr 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Caxias do Sul pela última rodada da fase regular do NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531179/corinthians-visita-o-caxias-do-sul-pela-ultima-rodada-da-fase-regular-do-nbb-saiba-tudo",
+      "time": "17/04 · 11:31",
+      "pubDate": "Fri, 17 Apr 2026 08:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,14 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531198/ultimas-do-corinthians-denuncia-do-mp-retorno-aos-treinamentos-e-analise-de-confusao",
       "time": "17/04 · 10:30",
       "pubDate": "Fri, 17 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Abel Ferreira dá leve provocada no Corinthians ao analisar polêmico dérbi: “Tem que manter essa vontade”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/abel-ferreira-da-leve-provocada-no-corinthians-ao-analisar-polemico-derbi-tem-que-manter-essa-vontade]]>",
-      "time": "17/04 · 08:35",
-      "pubDate": "Fri, 17 Apr 2026 05:35:26 -0300"
     },
     {
       "source": "Meu Timao",
@@ -33,46 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531187/corinthians-se-isola-na-lideranca-do-grupo-e-ao-fim-da-segunda-rodada-da-libertadores-veja-a-tabela",
       "time": "17/04 · 02:32",
       "pubDate": "Thu, 16 Apr 2026 23:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians e Santos não saem do zero em clássico pelo Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531176/corinthians-e-santos-nao-saem-do-zero-em-classico-pelo-brasileiro-sub-20",
-      "time": "17/04 · 02:22",
-      "pubDate": "Thu, 16 Apr 2026 23:22:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians confia em evolução do desempenho ofensivo e valoriza melhora da defesa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531144/tecnico-do-corinthians-confia-em-evolucao-do-desempenho-ofensivo-e-valoriza-melhora-da-defesa",
-      "time": "17/04 · 01:33",
-      "pubDate": "Thu, 16 Apr 2026 22:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gustavo Henrique exalta influência de Fernando Diniz em 'virada de chave' do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531162/gustavo-henrique-exalta-influencia-de-fernando-diniz-em-virada-de-chave-do-corinthians",
-      "time": "17/04 · 01:01",
-      "pubDate": "Thu, 16 Apr 2026 22:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians revela impressões iniciais sobre Fernando Diniz no comando da equipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531164/volante-do-corinthians-revela-impressoes-iniciais-sobre-fernando-diniz-no-comando-da-equipe",
-      "time": "17/04 · 00:33",
-      "pubDate": "Thu, 16 Apr 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga venda de ingressos para o mata-mata do Brasileirão Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531195/corinthians-divulga-venda-de-ingressos-para-o-mata-mata-do-brasileirao-feminino-sub-20",
-      "time": "17/04 · 00:15",
-      "pubDate": "Thu, 16 Apr 2026 21:15:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-reconhece-o-corinthians-com-seu-dna-e-blinda-elenco-repertorio-deu-uma-melhorada]]>",
       "time": "16/04 · 14:09",
       "pubDate": "Thu, 16 Apr 2026 11:09:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians se anima com decisão de Rodrigo Garro após sondagens e cenário com Diniz ganha força",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-se-anima-com-decisao-de-rodrigo-garro-apos-sondagens-e-cenario-com-diniz-ganha-forca]]>",
-      "time": "16/04 · 12:48",
-      "pubDate": "Thu, 16 Apr 2026 09:48:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz defende André após polêmica em Corinthians x Palmeiras e revela: “Não foi para provocar”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-defende-andre-apos-polemica-em-corinthians-x-palmeiras-e-revela-nao-foi-para-provocar]]>",
-      "time": "16/04 · 12:36",
-      "pubDate": "Thu, 16 Apr 2026 09:36:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians mira igualar início avassalador na Libertadores com Diniz e completa parte do serviço",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mira-igualar-inicio-avassalador-na-libertadores-com-diniz-e-completa-50-do-servico]]>",
-      "time": "16/04 · 12:34",
-      "pubDate": "Thu, 16 Apr 2026 09:34:45 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531145/diniz-exalta-contratacao-de-ex-goleiro-e-ve-elenco-do-corinthians-blindado-apos-cobrancas",
       "pubDate": "Thu, 16 Apr 2026 12:33:00 -0300",
       "date": "16/04 · 15:33"
-    },
-    {
-      "title": "Zagueiro entra no pódio, e volante aumenta lista de goleadores do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531127/zagueiro-entra-no-podio-e-volante-aumenta-lista-de-goleadores-do-corinthians-em-2026",
-      "pubDate": "Thu, 16 Apr 2026 11:31:00 -0300",
-      "date": "16/04 · 14:31"
     }
   ]
 };
