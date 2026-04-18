@@ -1,7 +1,55 @@
-// Gerado automaticamente em 17/04/2026, 23:58:56
+// Gerado automaticamente em 18/04/2026, 08:34:36
 const LIVE_DATA = {
-  "updatedAt": "2026-04-17T23:58:56.258Z",
+  "updatedAt": "2026-04-18T08:34:36.227Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encara o Vitória em busca de sequenciar vitórias na temporada; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531265/corinthians-encara-o-vitoria-em-busca-de-sequenciar-vitorias-na-temporada-saiba-tudo",
+      "time": "18/04 · 03:01",
+      "pubDate": "Sat, 18 Apr 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem desfalques de peso e Fernando Diniz desenha escalação contra o Vitória",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-desfalques-e-diniz-desenha-escalacao]]>",
+      "time": "18/04 · 02:33",
+      "pubDate": "Fri, 17 Apr 2026 23:33:41 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vitória x Corinthians: IA prevê jogo extremamente equilibrado no Barradão pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vitoria-x-corinthians-ia-preve-jogo-extremamente-equilibrado-no-barradao-pelo-brasileirao]]>",
+      "time": "18/04 · 01:32",
+      "pubDate": "Fri, 17 Apr 2026 22:32:43 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Passagem por Barcelona e formação humana: conheça Herlon Silva, técnico do Sub-13 do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531194/passagem-por-barcelona-e-formacao-humana-conheca-herlon-silva-tecnico-do-sub-13-do-corinthians",
+      "time": "18/04 · 00:32",
+      "pubDate": "Fri, 17 Apr 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é decisivo no ataque e vence o Caxias do Sul pelo fechamento do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531283/corinthians-e-decisivo-no-ataque-e-vence-o-caxias-do-sul-pelo-fechamento-do-nbb",
+      "time": "18/04 · 00:23",
+      "pubDate": "Fri, 17 Apr 2026 21:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Sub-20 avalia empate do Corinthians no Brasileiro e exalta chegada de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531277/tecnico-do-sub-20-avalia-empate-do-corinthians-no-brasileiro-e-exalta-chegada-de-fernando-diniz",
+      "time": "18/04 · 00:04",
+      "pubDate": "Fri, 17 Apr 2026 21:04:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -33,38 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531285/corinthians-faz-treino-conjunto-com-rival-de-olho-nas-quartas-do-brasileiro-feminino-sub-20",
       "time": "17/04 · 23:10",
       "pubDate": "Fri, 17 Apr 2026 20:10:44 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico de basquete do Corinthians lamenta morte de ídolo nacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531284/tecnico-de-basquete-do-corinthians-lamenta-morte-de-idolo-nacional",
-      "time": "17/04 · 22:52",
-      "pubDate": "Fri, 17 Apr 2026 19:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians se destaca na criação ofensiva entre atletas da Série A sob comando de Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531191/meia-do-corinthians-se-destaca-na-criacao-ofensiva-entre-atletas-da-serie-a-sob-comando-de-diniz",
-      "time": "17/04 · 22:34",
-      "pubDate": "Fri, 17 Apr 2026 19:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conta com retorno de dupla para duelo contra o Vitória; veja relacionados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531275/corinthians-conta-com-retorno-de-dupla-para-duelo-contra-o-vitoria-veja-relacionados",
-      "time": "17/04 · 22:23",
-      "pubDate": "Fri, 17 Apr 2026 19:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians projeta decisão pela Seleção Brasileira e ressalta apoio de torcida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531279/meia-do-corinthians-projeta-decisao-pela-selecao-brasileira-e-ressalta-apoio-de-torcida",
-      "time": "17/04 · 22:06",
-      "pubDate": "Fri, 17 Apr 2026 19:06:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -109,26 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Bidu vive melhor fase no Corinthians, ignora Flamengo e quer fazer história no clube",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bidu-vive-melhor-fase-no-corinthians-ignora-flamengo-e-quer-fazer-historia-no-clube]]>",
-      "time": "17/04 · 14:32",
-      "pubDate": "Fri, 17 Apr 2026 11:32:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Diniz cita Ramón Díaz e destaca postura do Corinthians em casa: “Bons trabalhos que foram deixados”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-cita-ramon-diaz-e-destaca-postura-do-corinthians-em-casa-bons-trabalhos-que-foram-deixados]]>",
       "time": "17/04 · 14:08",
       "pubDate": "Fri, 17 Apr 2026 11:08:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz será decisivo pela contratação após contato prévio do Corinthians por Lucas Ferreira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-sera-decisivo-pela-contratacao-apos-contato-previo-do-corinthians-por-lucas-ferreira]]>",
-      "time": "17/04 · 13:54",
-      "pubDate": "Fri, 17 Apr 2026 10:54:01 -0300"
     },
     {
       "source": "Gazeta Esportiva",
