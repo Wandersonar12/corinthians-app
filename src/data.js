@@ -1,14 +1,102 @@
-// Gerado automaticamente em 18/04/2026, 18:29:22
+// Gerado automaticamente em 18/04/2026, 22:20:48
 const LIVE_DATA = {
-  "updatedAt": "2026-04-18T18:29:22.624Z",
+  "updatedAt": "2026-04-18T22:20:48.212Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado com novidades para enfrentar o Vitória pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531303/corinthians-esta-escalado-com-novidades-para-enfrentar-o-vitoria-pelo-brasileirao",
+      "time": "18/04 · 22:00",
+      "pubDate": "Sat, 18 Apr 2026 19:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians homenageia Oscar Schmidt em uniforme de volante para duelo no Brasileirão; veja fotos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531321/corinthians-homenageia-oscar-schmidt-em-uniforme-de-volante-para-duelo-no-brasileirao-veja-fotos",
+      "time": "18/04 · 21:47",
+      "pubDate": "Sat, 18 Apr 2026 18:47:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians fecha primeira fase do NBB com melhor campanha desde retorno à elite",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531290/corinthians-fecha-primeira-fase-do-nbb-com-melhor-campanha-desde-retorno-a-elite",
+      "time": "18/04 · 21:33",
+      "pubDate": "Sat, 18 Apr 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians obtém efeito suspensivo e Hugo Souza ganha condição de jogo no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-obtem-efeito-suspensivo-e-hugo-souza-ganha-condicao-de-jogo-no-brasileirao]]>",
+      "time": "18/04 · 21:20",
+      "pubDate": "Sat, 18 Apr 2026 18:20:51 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians consegue efeito suspensivo e Hugo Souza está liberado para atuar contra o Vitória",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531317/corinthians-consegue-efeito-suspensivo-e-hugo-souza-esta-liberado-para-atuar-contra-o-vitoria",
+      "time": "18/04 · 20:34",
+      "pubDate": "Sat, 18 Apr 2026 17:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ótimo mandante e encontro de velhos conhecidos: como o Vitória recebe o Corinthians no Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531305/otimo-mandante-e-encontro-de-velhos-conhecidos-como-o-vitoria-recebe-o-corinthians-no-brasileiro",
+      "time": "18/04 · 20:32",
+      "pubDate": "Sat, 18 Apr 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians consulta Lucas Ferreira do Shakhtar e atacante vê com bons olhos voltar ao Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-consulta-lucas-ferreira-do-shakhtar-e-atacante-ve-com-bons-olhos-voltar-ao-brasil]]>",
+      "time": "18/04 · 20:30",
+      "pubDate": "Sat, 18 Apr 2026 17:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem sete desfalques e vive drama antes de encarar o Vitória pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-sete-desfalques-e-vive-drama-antes-de-encarar-o-vitoria-pelo-brasileirao]]>",
+      "time": "18/04 · 20:18",
+      "pubDate": "Sat, 18 Apr 2026 17:18:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem negociações abertas com atacante da Série A após pedido de Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-negociacoes-abertas-com-atacante-da-serie-a-apos-pedido-de-fernando-diniz]]>",
+      "time": "18/04 · 19:56",
+      "pubDate": "Sat, 18 Apr 2026 16:56:32 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala vê Corinthians preparado para os playoffs e lamenta falecimento de Oscar Schmidt",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531291/ala-ve-corinthians-preparado-para-os-playoffs-e-lamenta-falecimento-de-oscar-schmidt",
+      "time": "18/04 · 19:32",
+      "pubDate": "Sat, 18 Apr 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians reencontra clube de formação após mais de uma década no futebol europeu",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531281/zagueiro-do-corinthians-reencontra-clube-de-formacao-apos-mais-de-uma-decada-no-futebol-europeu",
+      "time": "18/04 · 18:31",
+      "pubDate": "Sat, 18 Apr 2026 15:31:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians abre os cofres, paga dívida de Pedro Raul com o Toluca e evita novo problema com a Fifa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-abre-os-cofres-paga-divida-de-pedro-raul-com-o-toluca-e-evita-novo-problema-com-a-fifa]]>",
-      "time": "18/04 · 17:48",
-      "pubDate": "Sat, 18 Apr 2026 14:48:43 -0300"
+      "time": "18/04 · 18:30",
+      "pubDate": "Sat, 18 Apr 2026 15:30:27 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,52 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 18 Apr 2026 14:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vitória volta atrás e indica que terá Cacá em duelo contra o Corinthians; saiba o valor da multa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531310/vitoria-volta-atras-e-indica-que-tera-caca-em-duelo-contra-o-corinthians-saiba-o-valor-da-multa",
-      "time": "18/04 · 16:52",
-      "pubDate": "Sat, 18 Apr 2026 13:52:59 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians quita parcela da CNRD e paga nova prestação de dívida por Pedro Raul",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531311/corinthians-quita-parcela-da-cnrd-e-paga-nova-prestacao-de-divida-por-pedro-raul",
-      "time": "18/04 · 16:38",
-      "pubDate": "Sat, 18 Apr 2026 13:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode entrar na zona de rebaixamento do Brasileirão se não vencer o Vitória; veja tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531299/corinthians-pode-entrar-na-zona-de-rebaixamento-do-brasileirao-se-nao-vencer-o-vitoria-veja-tabela",
-      "time": "18/04 · 16:34",
-      "pubDate": "Sat, 18 Apr 2026 13:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians conquista ouro com o Brasil nos Jogos Sul-Americanos da Juventude",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531309/dupla-do-corinthians-conquista-ouro-com-o-brasil-nos-jogos-sul-americanos-da-juventude",
-      "time": "18/04 · 16:01",
-      "pubDate": "Sat, 18 Apr 2026 13:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Oscar Schmidt marcou Palmeiras e Corinthians e mudou até sua paixão no futebol",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/oscar-schmidt-marcou-palmeiras-e-corinthians-e-mudou-ate-sua-paixao-no-futebol]]>",
       "time": "18/04 · 15:59",
       "pubDate": "Sat, 18 Apr 2026 12:59:35 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians pede busto em sua homenagem e elogia Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531256/idolo-do-corinthians-pede-busto-em-sua-homenagem-e-elogia-fernando-diniz",
-      "time": "18/04 · 15:35",
-      "pubDate": "Sat, 18 Apr 2026 12:35:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -75,60 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 18 Apr 2026 11:45:09 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians entram em campo pela Fifa Series e duelos na Liga das Nações",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531280/jogadoras-do-corinthians-entram-em-campo-pela-fifa-series-e-duelos-na-liga-das-nacoes",
-      "time": "18/04 · 14:33",
-      "pubDate": "Sat, 18 Apr 2026 11:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians ganha vaga no time ideal da segunda rodada da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531301/zagueiro-do-corinthians-ganha-vaga-no-time-ideal-da-segunda-rodada-da-libertadores",
-      "time": "18/04 · 14:01",
-      "pubDate": "Sat, 18 Apr 2026 11:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Cicinho dá palpite polêmico e prevê tropeço do Corinthians contra o Vitória no Barradão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/cicinho-da-palpite-polemico-e-preve-tropeco-do-corinthians-contra-o-vitoria-no-barradao]]>",
       "time": "18/04 · 12:28",
       "pubDate": "Sat, 18 Apr 2026 09:28:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lenda do basquete mundial, Oscar Schmidt morre aos 68 anos; ídolo eternizou seu nome no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lenda-do-basquete-mundial-oscar-schmidt-morre-aos-68-anos-idolo-eternizou-seu-nome-no-corinthians]]>",
-      "time": "18/04 · 11:08",
-      "pubDate": "Sat, 18 Apr 2026 08:08:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem desfalques de peso e Fernando Diniz desenha escalação contra o Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-desfalques-e-diniz-desenha-escalacao]]>",
-      "time": "18/04 · 02:33",
-      "pubDate": "Fri, 17 Apr 2026 23:33:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vitória x Corinthians: IA prevê jogo extremamente equilibrado no Barradão pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/vitoria-x-corinthians-ia-preve-jogo-extremamente-equilibrado-no-barradao-pelo-brasileirao]]>",
-      "time": "18/04 · 01:32",
-      "pubDate": "Fri, 17 Apr 2026 22:32:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz pede lateral e Corinthians mira quatro reforços no mercado da bola, crava jornalista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-diniz-contratacao-lateral]]>",
-      "time": "17/04 · 21:33",
-      "pubDate": "Fri, 17 Apr 2026 18:33:16 -0300"
     },
     {
       "source": "Gazeta Esportiva",
