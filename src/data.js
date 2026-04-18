@@ -1,7 +1,39 @@
-// Gerado automaticamente em 18/04/2026, 08:34:36
+// Gerado automaticamente em 18/04/2026, 12:32:14
 const LIVE_DATA = {
-  "updatedAt": "2026-04-18T08:34:36.227Z",
+  "updatedAt": "2026-04-18T12:32:14.846Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Cicinho dá palpite polêmico e prevê tropeço do Corinthians contra o Vitória no Barradão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cicinho-da-palpite-polemico-e-preve-tropeco-do-corinthians-contra-o-vitoria-no-barradao]]>",
+      "time": "18/04 · 12:28",
+      "pubDate": "Sat, 18 Apr 2026 09:28:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Vitória pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531273/saiba-onde-assistir-a-partida-entre-corinthians-e-vitoria-pelo-brasileirao",
+      "time": "18/04 · 11:30",
+      "pubDate": "Sat, 18 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lenda do basquete mundial, Oscar Schmidt morre aos 68 anos; ídolo eternizou seu nome no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lenda-do-basquete-mundial-oscar-schmidt-morre-aos-68-anos-idolo-eternizou-seu-nome-no-corinthians]]>",
+      "time": "18/04 · 11:08",
+      "pubDate": "Sat, 18 Apr 2026 08:08:09 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: punições ao Corinthians, ausência de emprestado e mudança na Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531292/ultimas-do-corinthians-punicoes-ao-corinthians-ausencia-de-emprestado-e-mudanca-na-arena",
+      "time": "18/04 · 10:30",
+      "pubDate": "Sat, 18 Apr 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -67,36 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 17 Apr 2026 20:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Corinthians desembarca em Salvador para enfrentar o Vitória pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127241/corinthians-desembarca-em-salvador-para-enfrentar-o-vitoria-pelo-brasileirao",
-      "time": "17/04 · 23:16",
-      "pubDate": "Fri, 17 Apr 2026 20:16:51 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz treino conjunto com rival de olho nas quartas do Brasileiro Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531285/corinthians-faz-treino-conjunto-com-rival-de-olho-nas-quartas-do-brasileiro-feminino-sub-20",
-      "time": "17/04 · 23:10",
-      "pubDate": "Fri, 17 Apr 2026 20:10:44 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fernando Diniz pede lateral e Corinthians mira quatro reforços no mercado da bola, crava jornalista",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-diniz-contratacao-lateral]]>",
       "time": "17/04 · 21:33",
       "pubDate": "Fri, 17 Apr 2026 18:33:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lenda do basquete mundial, Oscar Schmidt morre aos 68 anos; ídolo eternizou seu nome no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lenda-do-basquete-mundial-oscar-schmidt-morre-aos-68-anos-idolo-eternizou-seu-nome-no-corinthians]]>",
-      "time": "17/04 · 20:41",
-      "pubDate": "Fri, 17 Apr 2026 17:41:50 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-barreira-do-flamengo-para-contratar-cebolinha]]>",
       "time": "17/04 · 15:48",
       "pubDate": "Fri, 17 Apr 2026 12:48:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz cita Ramón Díaz e destaca postura do Corinthians em casa: “Bons trabalhos que foram deixados”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-cita-ramon-diaz-e-destaca-postura-do-corinthians-em-casa-bons-trabalhos-que-foram-deixados]]>",
-      "time": "17/04 · 14:08",
-      "pubDate": "Fri, 17 Apr 2026 11:08:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Vitória pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531273/saiba-onde-assistir-a-partida-entre-corinthians-e-vitoria-pelo-brasileirao",
+      "pubDate": "Sat, 18 Apr 2026 08:30:00 -0300",
+      "date": "18/04 · 11:30"
+    },
     {
       "title": "Titular do Corinthians assume segunda posição entre zagueiros em participações em gols na década",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531251/titular-do-corinthians-assume-segunda-posicao-entre-zagueiros-em-participacoes-em-gols-na-decada",
