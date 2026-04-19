@@ -1,198 +1,198 @@
-// Gerado automaticamente em 18/04/2026, 22:20:48
+// Gerado automaticamente em 19/04/2026, 08:40:32
 const LIVE_DATA = {
-  "updatedAt": "2026-04-18T22:20:48.212Z",
+  "updatedAt": "2026-04-19T08:40:32.303Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado com novidades para enfrentar o Vitória pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531303/corinthians-esta-escalado-com-novidades-para-enfrentar-o-vitoria-pelo-brasileirao",
-      "time": "18/04 · 22:00",
-      "pubDate": "Sat, 18 Apr 2026 19:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians homenageia Oscar Schmidt em uniforme de volante para duelo no Brasileirão; veja fotos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531321/corinthians-homenageia-oscar-schmidt-em-uniforme-de-volante-para-duelo-no-brasileirao-veja-fotos",
-      "time": "18/04 · 21:47",
-      "pubDate": "Sat, 18 Apr 2026 18:47:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fecha primeira fase do NBB com melhor campanha desde retorno à elite",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531290/corinthians-fecha-primeira-fase-do-nbb-com-melhor-campanha-desde-retorno-a-elite",
-      "time": "18/04 · 21:33",
-      "pubDate": "Sat, 18 Apr 2026 18:33:00 -0300"
+      "title": "Diniz diz que Corinthians fez 'pior partida' sob seu comando após empate no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531362/diniz-diz-que-corinthians-fez-pior-partida-sob-seu-comando-apos-empate-no-brasileirao",
+      "time": "19/04 · 03:26",
+      "pubDate": "Sun, 19 Apr 2026 00:26:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians obtém efeito suspensivo e Hugo Souza ganha condição de jogo no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-obtem-efeito-suspensivo-e-hugo-souza-ganha-condicao-de-jogo-no-brasileirao]]>",
-      "time": "18/04 · 21:20",
-      "pubDate": "Sat, 18 Apr 2026 18:20:51 -0300"
+      "title": "Fernando Diniz demontra preocupação após Corinthians entrar na zona de rebaixamento: “Andar para cima”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-demontra-preocupacao-apos-corinthians-entrar-na-zona-de-rebaixamento-andar-para-cima]]>",
+      "time": "19/04 · 03:14",
+      "pubDate": "Sun, 19 Apr 2026 00:14:25 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians consegue efeito suspensivo e Hugo Souza está liberado para atuar contra o Vitória",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531317/corinthians-consegue-efeito-suspensivo-e-hugo-souza-esta-liberado-para-atuar-contra-o-vitoria",
-      "time": "18/04 · 20:34",
-      "pubDate": "Sat, 18 Apr 2026 17:34:00 -0300"
+      "title": "Diniz analisa prós e contras de repetir escalações no Corinthians e pondera sobre jogo contra Barra",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531360/diniz-analisa-pros-e-contras-de-repetir-escalacoes-no-corinthians-e-pondera-sobre-jogo-contra-barra",
+      "time": "19/04 · 03:07",
+      "pubDate": "Sun, 19 Apr 2026 00:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ótimo mandante e encontro de velhos conhecidos: como o Vitória recebe o Corinthians no Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531305/otimo-mandante-e-encontro-de-velhos-conhecidos-como-o-vitoria-recebe-o-corinthians-no-brasileiro",
-      "time": "18/04 · 20:32",
-      "pubDate": "Sat, 18 Apr 2026 17:32:00 -0300"
+      "title": "Goleiro do Corinthians é o craque da partida em noite de notas baixas contra o Vitória",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531366/goleiro-do-corinthians-e-o-craque-da-partida-em-noite-de-notas-baixas-contra-o-vitoria",
+      "time": "19/04 · 02:52",
+      "pubDate": "Sat, 18 Apr 2026 23:52:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: M. Bidu fala de empate contra o Vitória, cita posição do Corinthians no Z4 e comenta efetividade",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127256/m-bidu-fala-de-empate-contra-o-vitoria-cita-posicao-do-corinthians-no-z4-e-comenta-efetividade",
+      "time": "19/04 · 02:49",
+      "pubDate": "Sat, 18 Apr 2026 23:49:41 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians engata sequência de empates sem gols no Brasileirão após quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531341/corinthians-engata-sequencia-de-empates-sem-gols-no-brasileirao-apos-quase-um-ano",
+      "time": "19/04 · 02:36",
+      "pubDate": "Sat, 18 Apr 2026 23:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Preocupação no Z4, poupar na estreia da CDB e mais: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127253/preocupacao-no-z4-poupar-na-estreia-da-cdb-e-mais-coletiva-de-fernando-diniz-no-corinthians",
+      "time": "19/04 · 02:32",
+      "pubDate": "Sat, 18 Apr 2026 23:32:28 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians consulta Lucas Ferreira do Shakhtar e atacante vê com bons olhos voltar ao Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-consulta-lucas-ferreira-do-shakhtar-e-atacante-ve-com-bons-olhos-voltar-ao-brasil]]>",
-      "time": "18/04 · 20:30",
-      "pubDate": "Sat, 18 Apr 2026 17:30:00 -0300"
+      "title": "Torcida do Corinthians critica primeiro tempo apático contra o Vitória após pressão e falta de criação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-critica-primeiro-tempo-apatico-contra-o-vitoria-apos-pressao-e-falta-de-criacao]]>",
+      "time": "19/04 · 02:22",
+      "pubDate": "Sat, 18 Apr 2026 23:22:26 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Atuação de Carrillo em Vitória x Corinthians gera críticas e repercute entre torcedores: “Jogador medíocre”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/atuacao-de-carrillo-em-vitoria-x-corinthians-gera-criticas-e-repercute-entre-torcedores-jogador-mediocre]]>",
+      "time": "19/04 · 02:21",
+      "pubDate": "Sat, 18 Apr 2026 23:21:34 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians revelado pelo Vitória é destaque defensivo no empate contra o ex-clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531353/zagueiro-do-corinthians-revelado-pelo-vitoria-e-destaque-defensivo-no-empate-contra-o-ex-clube",
+      "time": "19/04 · 02:18",
+      "pubDate": "Sat, 18 Apr 2026 23:18:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
+      "time": "19/04 · 02:11",
+      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians chega à quarta partida sem sofrer gols e repete sequência de 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531340/corinthians-chega-a-quarta-partida-sem-sofrer-gols-e-repete-sequencia-de-2025",
+      "time": "19/04 · 01:52",
+      "pubDate": "Sat, 18 Apr 2026 22:52:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
+      "time": "19/04 · 01:24",
+      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
+      "time": "19/04 · 01:14",
+      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Breno Bidon sente no gramado e substituição preocupa a Fiel Torcida após Grêmio x Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-sente-no-gramado-e-substituicao-preocupa-a-fiel-torcida-apos-gremio-x-corinthians]]>",
+      "time": "19/04 · 01:03",
+      "pubDate": "Sat, 18 Apr 2026 22:03:16 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
+      "time": "19/04 · 01:01",
+      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Confira as notas dos jogadores do Corinthians no duelo contra o Vitória no Barradão pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/veja-as-notas-do-corinthians-no-duelo-contra-o-vitoria-no-barradao]]>",
+      "time": "19/04 · 01:00",
+      "pubDate": "Sat, 18 Apr 2026 22:00:02 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vitória e Corinthians fazem jogo apático, não finalizam e atuação liga alerta nas duas equipes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vitoria-e-corinthians-fazem-jogo-apatico-nao-finalizam-e-atuacao-liga-alerta-nas-duas-equipes]]>",
+      "time": "19/04 · 00:56",
+      "pubDate": "Sat, 18 Apr 2026 21:56:57 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians tem sete desfalques e vive drama antes de encarar o Vitória pelo Brasileirão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-sete-desfalques-e-vive-drama-antes-de-encarar-o-vitoria-pelo-brasileirao]]>",
-      "time": "18/04 · 20:18",
-      "pubDate": "Sat, 18 Apr 2026 17:18:42 -0300"
+      "time": "18/04 · 22:52",
+      "pubDate": "Sat, 18 Apr 2026 19:52:02 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians tem negociações abertas com atacante da Série A após pedido de Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-negociacoes-abertas-com-atacante-da-serie-a-apos-pedido-de-fernando-diniz]]>",
-      "time": "18/04 · 19:56",
-      "pubDate": "Sat, 18 Apr 2026 16:56:32 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala vê Corinthians preparado para os playoffs e lamenta falecimento de Oscar Schmidt",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531291/ala-ve-corinthians-preparado-para-os-playoffs-e-lamenta-falecimento-de-oscar-schmidt",
-      "time": "18/04 · 19:32",
-      "pubDate": "Sat, 18 Apr 2026 16:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians reencontra clube de formação após mais de uma década no futebol europeu",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531281/zagueiro-do-corinthians-reencontra-clube-de-formacao-apos-mais-de-uma-decada-no-futebol-europeu",
-      "time": "18/04 · 18:31",
-      "pubDate": "Sat, 18 Apr 2026 15:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians abre os cofres, paga dívida de Pedro Raul com o Toluca e evita novo problema com a Fifa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-abre-os-cofres-paga-divida-de-pedro-raul-com-o-toluca-e-evita-novo-problema-com-a-fifa]]>",
-      "time": "18/04 · 18:30",
-      "pubDate": "Sat, 18 Apr 2026 15:30:27 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem sete desfalques e uma dúvida para enfrentar o Vitória pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531298/corinthians-tem-sete-desfalques-e-uma-duvida-para-enfrentar-o-vitoria-pelo-brasileirao",
-      "time": "18/04 · 17:31",
-      "pubDate": "Sat, 18 Apr 2026 14:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Oscar Schmidt marcou Palmeiras e Corinthians e mudou até sua paixão no futebol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/oscar-schmidt-marcou-palmeiras-e-corinthians-e-mudou-ate-sua-paixao-no-futebol]]>",
-      "time": "18/04 · 15:59",
-      "pubDate": "Sat, 18 Apr 2026 12:59:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians inicia contatos por Everton Cebolinha e planeja investida para próxima janela",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-inicia-contatos-por-everton-cebolinha-e-planeja-investida-para-proxima-janela]]>",
-      "time": "18/04 · 14:45",
-      "pubDate": "Sat, 18 Apr 2026 11:45:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Cicinho dá palpite polêmico e prevê tropeço do Corinthians contra o Vitória no Barradão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cicinho-da-palpite-polemico-e-preve-tropeco-do-corinthians-contra-o-vitoria-no-barradao]]>",
-      "time": "18/04 · 12:28",
-      "pubDate": "Sat, 18 Apr 2026 09:28:45 -0300"
+      "title": "Corinthians obtém efeito suspensivo e Hugo Souza ganha condição de jogo no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-obtem-efeito-suspensivo-e-hugo-souza-ganha-condicao-de-jogo-no-brasileirao]]>",
+      "time": "18/04 · 22:51",
+      "pubDate": "Sat, 18 Apr 2026 19:51:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Memphis decepciona em nova função no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
-      "time": "02/03 · 10:00",
-      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
+      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
+      "time": "18/04 · 22:02",
+      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
-      "time": "02/03 · 09:00",
-      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
+      "title": "Corinthians quita parcelas de acordos com a CNRD e com clube mexicano por Pedro Raul",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-quita-parcelas-de-acordos-com-a-cnrd-e-com-clube-mexicano-por-pedro-raul/",
+      "time": "18/04 · 21:30",
+      "pubDate": "Sat, 18 Apr 2026 21:30:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
-      "time": "02/03 · 08:00",
-      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
+      "title": "STJD concede efeito suspensivo, e Hugo Souza reforça Corinthians contra o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/stjd-concede-efeito-suspensivo-e-hugo-souza-reforca-corinthians-contra-o-vitoria/",
+      "time": "18/04 · 20:42",
+      "pubDate": "Sat, 18 Apr 2026 20:42:41 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
-      "time": "02/03 · 01:05",
-      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
-      "time": "02/03 · 00:27",
-      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians: conheça os números da equipe na temporada 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
-      "time": "01/03 · 17:29",
-      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
-      "time": "01/03 · 12:25",
-      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
-      "time": "01/03 · 11:00",
-      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
+      "title": "Corinthians confia em bom retrospecto contra o Vitória por fim de jejum no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-confia-em-bom-retrospecto-contra-o-vitoria-por-fim-de-jejum-no-brasileiro/",
+      "time": "18/04 · 10:00",
+      "pubDate": "Sat, 18 Apr 2026 10:00:13 +0000"
     }
   ],
   "upcoming": [],
@@ -200,28 +200,46 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Corinthians visita o Carlos Barbosa para manter bom momento na LNF; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531261/corinthians-visita-o-carlos-barbosa-para-manter-bom-momento-na-lnf-saiba-tudo",
-      "pubDate": "Sat, 18 Apr 2026 09:32:00 -0300",
-      "date": "18/04 · 12:32"
+      "title": "VÍDEO: Rodrigo Garro lamenta empate, comenta trabalho de Diniz e queda para a zona de rebaixamento",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127258/rodrigo-garro-lamenta-empate-comenta-trabalho-de-diniz-e-queda-para-a-zona-de-rebaixamento",
+      "pubDate": "Sun, 19 Apr 2026 00:05:43 -0300",
+      "date": "19/04 · 03:05"
     },
     {
-      "title": "Saiba onde assistir à partida entre Corinthians e Vitória pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531273/saiba-onde-assistir-a-partida-entre-corinthians-e-vitoria-pelo-brasileirao",
-      "pubDate": "Sat, 18 Apr 2026 08:30:00 -0300",
-      "date": "18/04 · 11:30"
+      "title": "Goleiro do Corinthians é o craque da partida em noite de notas baixas contra o Vitória",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531366/goleiro-do-corinthians-e-o-craque-da-partida-em-noite-de-notas-baixas-contra-o-vitoria",
+      "pubDate": "Sat, 18 Apr 2026 23:52:00 -0300",
+      "date": "19/04 · 02:52"
     },
     {
-      "title": "Titular do Corinthians assume segunda posição entre zagueiros em participações em gols na década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531251/titular-do-corinthians-assume-segunda-posicao-entre-zagueiros-em-participacoes-em-gols-na-decada",
-      "pubDate": "Fri, 17 Apr 2026 20:31:00 -0300",
-      "date": "17/04 · 23:31"
+      "title": "VÍDEO: M. Bidu fala de empate contra o Vitória, cita posição do Corinthians no Z4 e comenta efetividade",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127256/m-bidu-fala-de-empate-contra-o-vitoria-cita-posicao-do-corinthians-no-z4-e-comenta-efetividade",
+      "pubDate": "Sat, 18 Apr 2026 23:49:41 -0300",
+      "date": "19/04 · 02:49"
     },
     {
-      "title": "VÍDEO: Corinthians desembarca em Salvador para enfrentar o Vitória pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127241/corinthians-desembarca-em-salvador-para-enfrentar-o-vitoria-pelo-brasileirao",
-      "pubDate": "Fri, 17 Apr 2026 20:16:51 -0300",
-      "date": "17/04 · 23:16"
+      "title": "Corinthians engata sequência de empates sem gols no Brasileirão após quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531341/corinthians-engata-sequencia-de-empates-sem-gols-no-brasileirao-apos-quase-um-ano",
+      "pubDate": "Sat, 18 Apr 2026 23:36:00 -0300",
+      "date": "19/04 · 02:36"
+    },
+    {
+      "title": "VÍDEO: Preocupação no Z4, poupar na estreia da CDB e mais: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127253/preocupacao-no-z4-poupar-na-estreia-da-cdb-e-mais-coletiva-de-fernando-diniz-no-corinthians",
+      "pubDate": "Sat, 18 Apr 2026 23:32:28 -0300",
+      "date": "19/04 · 02:32"
+    },
+    {
+      "title": "Corinthians chega à quarta partida sem sofrer gols e repete sequência de 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531340/corinthians-chega-a-quarta-partida-sem-sofrer-gols-e-repete-sequencia-de-2025",
+      "pubDate": "Sat, 18 Apr 2026 22:52:00 -0300",
+      "date": "19/04 · 01:52"
+    },
+    {
+      "title": "VÍDEO: Melhores Momentos: Vitória 0x0 Corinthians | 12ª rodada | Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127250/melhores-momentos-vitoria-0x0-corinthians-12-rodada-campeonato-brasileiro-2026",
+      "pubDate": "Sat, 18 Apr 2026 22:09:00 -0300",
+      "date": "19/04 · 01:09"
     }
   ]
 };
