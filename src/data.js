@@ -1,7 +1,55 @@
-// Gerado automaticamente em 19/04/2026, 18:30:08
+// Gerado automaticamente em 19/04/2026, 22:21:50
 const LIVE_DATA = {
-  "updatedAt": "2026-04-19T18:30:08.642Z",
+  "updatedAt": "2026-04-19T22:21:50.259Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians detalha venda de ingressos para jogo contra a Ferroviária no Brasileiro Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531394/corinthians-detalha-venda-de-ingressos-para-jogo-contra-a-ferroviaria-no-brasileiro-feminino",
+      "time": "19/04 · 21:42",
+      "pubDate": "Sun, 19 Apr 2026 18:42:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece chaveamento nos playoffs em busca de título inédito do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531386/corinthians-conhece-chaveamento-nos-playoffs-em-busca-de-titulo-inedito-do-nbb",
+      "time": "19/04 · 21:32",
+      "pubDate": "Sun, 19 Apr 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz último treino antes de encarar o Juventude pelo Brasileirão; veja provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531390/corinthians-faz-ultimo-treino-antes-de-encarar-o-juventude-pelo-brasileirao-veja-provavel-escalacao",
+      "time": "19/04 · 21:09",
+      "pubDate": "Sun, 19 Apr 2026 18:09:04 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians amplia tabu de quase dez anos sem perder para o Vitória no Barradão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531371/corinthians-amplia-tabu-de-quase-dez-anos-sem-perder-para-o-vitoria-no-barradao",
+      "time": "19/04 · 20:33",
+      "pubDate": "Sun, 19 Apr 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleira do Corinthians celebra título pela Seleção Brasileira após superar depressão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531380/goleira-do-corinthians-celebra-titulo-pela-selecao-brasileira-apos-superar-depressao",
+      "time": "19/04 · 19:31",
+      "pubDate": "Sun, 19 Apr 2026 16:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians participa de 50% dos empates sem gols no Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531384/corinthians-participa-de-50-por-cento-dos-empates-sem-gols-no-campeonato-brasileiro",
+      "time": "19/04 · 18:32",
+      "pubDate": "Sun, 19 Apr 2026 15:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,14 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 19 Apr 2026 12:53:44 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians demonstra insatisfação com empate e cobra melhora ofensiva",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531364/lateral-do-corinthians-demonstra-insatisfacao-com-empate-e-cobra-melhora-ofensiva",
-      "time": "19/04 · 15:33",
-      "pubDate": "Sun, 19 Apr 2026 12:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fernando Diniz admite mudanças e pode poupar titulares do Corinthians na Copa do Brasil",
@@ -51,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 19 Apr 2026 11:41:04 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ataque do Corinthians coleciona números negativos em campanha no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531359/ataque-do-corinthians-coleciona-numeros-negativos-em-campanha-no-brasileirao",
-      "time": "19/04 · 14:36",
-      "pubDate": "Sun, 19 Apr 2026 11:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians detalha opção de Carrillo na lateral e destaca versatilidade de Bidon",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531363/tecnico-do-corinthians-detalha-opcao-de-carrillo-na-lateral-e-destaca-versatilidade-de-bidon",
-      "time": "19/04 · 13:31",
-      "pubDate": "Sun, 19 Apr 2026 10:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Jair Ventura analisa empate em Vitória x Corinthians e aponta superioridade: “Tirar o conforto do Diniz”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/jair-ventura-analisa-empate-em-vitoria-x-corinthians-e-aponta-superioridade-tirar-o-conforto-do-diniz]]>",
       "time": "19/04 · 13:10",
       "pubDate": "Sun, 19 Apr 2026 10:10:50 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians lamenta empate no Brasileirão e confia em saída da zona do rebaixamento",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531373/meia-do-corinthians-lamenta-empate-no-brasileirao-e-confia-em-saida-da-zona-do-rebaixamento",
-      "time": "19/04 · 12:34",
-      "pubDate": "Sun, 19 Apr 2026 09:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Cinco jogadoras do Corinthians participam de título inédito da Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531336/cinco-jogadoras-do-corinthians-participam-de-titulo-inedito-da-selecao-brasileira",
-      "time": "19/04 · 11:52",
-      "pubDate": "Sun, 19 Apr 2026 08:52:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-sente-no-gramado-e-substituicao-preocupa-a-fiel-torcida-apos-gremio-x-corinthians]]>",
       "time": "19/04 · 11:37",
       "pubDate": "Sun, 19 Apr 2026 08:37:15 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians atinge maior sequência como titular da equipe em empate no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531335/atacante-do-corinthians-atinge-maior-sequencia-como-titular-da-equipe-em-empate-no-brasileirao",
-      "time": "19/04 · 11:30",
-      "pubDate": "Sun, 19 Apr 2026 08:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira do Corinthians celebra título pela Seleção Brasileira após superar depressão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531380/goleira-do-corinthians-celebra-titulo-pela-selecao-brasileira-apos-superar-depressao",
+      "pubDate": "Sun, 19 Apr 2026 16:31:00 -0300",
+      "date": "19/04 · 19:31"
+    },
+    {
+      "title": "Corinthians participa de 50% dos empates sem gols no Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531384/corinthians-participa-de-50-por-cento-dos-empates-sem-gols-no-campeonato-brasileiro",
+      "pubDate": "Sun, 19 Apr 2026 15:32:00 -0300",
+      "date": "19/04 · 18:32"
+    },
+    {
       "title": "VÍDEO: Rodrigo Garro lamenta empate, comenta trabalho de Diniz e queda para a zona de rebaixamento",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127258/rodrigo-garro-lamenta-empate-comenta-trabalho-de-diniz-e-queda-para-a-zona-de-rebaixamento",
       "pubDate": "Sun, 19 Apr 2026 00:05:43 -0300",
@@ -234,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531340/corinthians-chega-a-quarta-partida-sem-sofrer-gols-e-repete-sequencia-de-2025",
       "pubDate": "Sat, 18 Apr 2026 22:52:00 -0300",
       "date": "19/04 · 01:52"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Vitória 0x0 Corinthians | 12ª rodada | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127250/melhores-momentos-vitoria-0x0-corinthians-12-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Sat, 18 Apr 2026 22:09:00 -0300",
-      "date": "19/04 · 01:09"
     }
   ]
 };
