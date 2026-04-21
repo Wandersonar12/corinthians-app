@@ -1,7 +1,95 @@
-// Gerado automaticamente em 20/04/2026, 22:32:03
+// Gerado automaticamente em 21/04/2026, 09:15:38
 const LIVE_DATA = {
-  "updatedAt": "2026-04-20T22:32:03.317Z",
+  "updatedAt": "2026-04-21T09:15:38.832Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz busca um novo atacante para o Corinthians e avalia opções na Série B",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-busca-um-novo-atacante-para-o-corinthians-e-avalia-opcoes-na-serie-b]]>",
+      "time": "21/04 · 09:12",
+      "pubDate": "Tue, 21 Apr 2026 06:12:50 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hugo Souza e André desfalcam o Corinthians diante do Barra, pela Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-e-andre-desfalcam-o-corinthians-diante-do-barra-pela-copa-do-brasil]]>",
+      "time": "21/04 · 09:12",
+      "pubDate": "Tue, 21 Apr 2026 06:12:30 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Barra pela estreia na Copa do Brasil; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531436/corinthians-visita-o-barra-pela-estreia-na-copa-do-brasil-saiba-tudo",
+      "time": "21/04 · 03:01",
+      "pubDate": "Tue, 21 Apr 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Juventude pelo Brasileirão Feminino e mantém invencibilidade histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531446/corinthians-vence-o-juventude-pelo-brasileirao-feminino-e-mantem-invencibilidade-historica",
+      "time": "21/04 · 01:57",
+      "pubDate": "Mon, 20 Apr 2026 22:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians defende invencibilidade de um ano e meio como visitante na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531430/corinthians-defende-invencibilidade-de-um-ano-e-meio-como-visitante-na-copa-do-brasil",
+      "time": "21/04 · 01:32",
+      "pubDate": "Mon, 20 Apr 2026 22:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians chega ao terceiro empate sem gols e vê crise aumentar no Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-chega-ao-terceiro-empate-sem-gols-e-ve-crise-aumentar-no-campeonato-brasileiro]]>",
+      "time": "21/04 · 01:07",
+      "pubDate": "Mon, 20 Apr 2026 22:07:46 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians critica Memphis por expor departamento médico do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531428/idolo-do-corinthians-critica-memphis-por-expor-departamento-medico-do-clube",
+      "time": "21/04 · 00:31",
+      "pubDate": "Mon, 20 Apr 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conheça Pietro, goleiro relacionado pelo Corinthians para partida na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531450/conheca-pietro-goleiro-relacionado-pelo-corinthians-para-partida-na-copa-do-brasil",
+      "time": "21/04 · 00:03",
+      "pubDate": "Mon, 20 Apr 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia defesa do título da Copa do Brasil perto de marca histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531409/corinthians-inicia-defesa-do-titulo-da-copa-do-brasil-perto-de-marca-historica",
+      "time": "20/04 · 23:31",
+      "pubDate": "Mon, 20 Apr 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conheça os auxiliares da base masculina do Corinthians para esta temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531437/conheca-os-auxiliares-da-base-masculina-do-corinthians-para-esta-temporada",
+      "time": "20/04 · 23:04",
+      "pubDate": "Mon, 20 Apr 2026 20:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado para enfrentar o Juventude pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531418/corinthians-esta-escalado-para-enfrentar-o-juventude-pelo-brasileirao-feminino",
+      "time": "20/04 · 23:00",
+      "pubDate": "Mon, 20 Apr 2026 20:00:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -9,22 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/victor-sa-e-oferecido-ao-corinthians-mas-diretoria-descarta-negociacao-neste-momento]]>",
       "time": "20/04 · 22:30",
       "pubDate": "Mon, 20 Apr 2026 19:30:16 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega a Florianópolis com 24 jogadores para estreia na Copa do Brasil; veja relacionados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531434/corinthians-chega-a-florianopolis-com-24-jogadores-para-estreia-na-copa-do-brasil-veja-relacionados",
-      "time": "20/04 · 22:08",
-      "pubDate": "Mon, 20 Apr 2026 19:08:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians oferece R$ 2,5 milhões/mês para renovar com Memphis Depay; dívida seria paga até 2028",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-oferece-r-25-milhoes-mes-para-renovar-com-memphis-depay-divida-seria-paga-ate-2028]]>",
-      "time": "20/04 · 21:50",
-      "pubDate": "Mon, 20 Apr 2026 18:50:31 -0300"
     },
     {
       "source": "Bolavip",
@@ -35,52 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 20 Apr 2026 18:43:16 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians é desfalque para a estreia na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531447/dupla-do-corinthians-e-desfalque-para-a-estreia-na-copa-do-brasil",
-      "time": "20/04 · 21:42",
-      "pubDate": "Mon, 20 Apr 2026 18:42:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gols do Corinthians na Copinha Feminina 2025 geram 15 árvores em novo bosque na Zona Leste",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531423/gols-do-corinthians-na-copinha-feminina-2025-geram-15-arvores-em-novo-bosque-na-zona-leste",
-      "time": "20/04 · 21:32",
-      "pubDate": "Mon, 20 Apr 2026 18:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Barra x Corinthians: Inteligência Artificial crava vitória do Timão com gols de Yuri Alberto e Kayke",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/barra-x-corinthians-inteligencia-artificial-crava-vitoria-do-timao-com-gols-de-yuri-alberto-e-kayke]]>",
       "time": "20/04 · 21:24",
       "pubDate": "Mon, 20 Apr 2026 18:24:27 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Provável escalação do Corinthians contra o Barra pela estreia na Copa do Brasil 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127270/provavel-escalacao-do-corinthians-contra-o-barra-pela-estreia-na-copa-do-brasil-2026",
-      "time": "20/04 · 20:32",
-      "pubDate": "Mon, 20 Apr 2026 17:32:36 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians defende bom retrospecto em estreias na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531410/corinthians-defende-bom-retrospecto-em-estreias-na-copa-do-brasil",
-      "time": "20/04 · 20:31",
-      "pubDate": "Mon, 20 Apr 2026 17:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians conquista o bronze do Sul-Americano Sub-17 com a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531432/goleiro-do-corinthians-conquista-o-bronze-do-sul-americano-sub-17-com-a-selecao-brasileira",
-      "time": "20/04 · 20:06",
-      "pubDate": "Mon, 20 Apr 2026 17:06:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -91,44 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 20 Apr 2026 16:40:15 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians relembra passagem difícil pelo clube após deixar país em guerra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531411/ex-atacante-do-corinthians-relembra-passagem-dificil-pelo-clube-apos-deixar-pais-em-guerra",
-      "time": "20/04 · 19:32",
-      "pubDate": "Mon, 20 Apr 2026 16:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians revive problema ofensivo no Brasileirão e fica um jogo inteiro sem chute no alvo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-revive-problema-ofensivo-no-brasileirao-e-fica-um-jogo-inteiro-sem-chute-no-alvo]]>",
       "time": "20/04 · 19:25",
       "pubDate": "Mon, 20 Apr 2026 16:25:57 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay vai a campo sob supervisão da fisioterapia do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531438/memphis-depay-vai-a-campo-sob-supervisao-da-fisioterapia-do-corinthians",
-      "time": "20/04 · 19:16",
-      "pubDate": "Mon, 20 Apr 2026 16:16:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Barra x Corinthians: onde assistir ao vivo, horário e escalações do jogo desta terça",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/barra-corinthians-onde-assistir-ao-vivo-jogo-copa-do-brasil-hoje-horario-transmissao-tv-internet-streaming-escalacoes]]>",
-      "time": "20/04 · 18:42",
-      "pubDate": "Mon, 20 Apr 2026 15:42:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz pede novo camisa 9 e Corinthians também quer fechar “pacotão” com Everton Cebolinha",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-pede-novo-camisa-9-e-corinthians-tambem-quer-fechar-pacotao-com-everton-cebolinha]]>",
-      "time": "20/04 · 18:38",
-      "pubDate": "Mon, 20 Apr 2026 15:38:18 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Conheça Pietro, goleiro relacionado pelo Corinthians para partida na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531450/conheca-pietro-goleiro-relacionado-pelo-corinthians-para-partida-na-copa-do-brasil",
+      "pubDate": "Mon, 20 Apr 2026 21:03:00 -0300",
+      "date": "21/04 · 00:03"
+    },
+    {
+      "title": "VÍDEO: Corinthians desembarca em Florianópolis para enfrentar o Barra pela Copa do Brasil",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127272/corinthians-desembarca-em-florianopolis-para-enfrentar-o-barra-pela-copa-do-brasil",
+      "pubDate": "Mon, 20 Apr 2026 19:47:00 -0300",
+      "date": "20/04 · 22:47"
+    },
     {
       "title": "Gols do Corinthians na Copinha Feminina 2025 geram 15 árvores em novo bosque na Zona Leste",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531423/gols-do-corinthians-na-copinha-feminina-2025-geram-15-arvores-em-novo-bosque-na-zona-leste",
