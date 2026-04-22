@@ -1,7 +1,119 @@
-// Gerado automaticamente em 22/04/2026, 12:54:39
+// Gerado automaticamente em 22/04/2026, 18:54:46
 const LIVE_DATA = {
-  "updatedAt": "2026-04-22T12:54:39.215Z",
+  "updatedAt": "2026-04-22T18:54:46.226Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André Hernan confirma e Memphis Depay quer renovar contrato no Corinthians: “Já houve uma conversa”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-hernan-confirma-e-memphis-depay-quer-renovar-contrato-no-corinthians-ja-houve-uma-conversa]]>",
+      "time": "22/04 · 18:51",
+      "pubDate": "Wed, 22 Apr 2026 15:51:11 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kayke rompe ligamento do joelho, passará por cirurgia e só deve voltar no Corinthians em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kayke-rompe-ligamento-do-joelho-passara-por-cirurgia-e-so-deve-voltar-no-corinthians-em-2027]]>",
+      "time": "22/04 · 18:49",
+      "pubDate": "Wed, 22 Apr 2026 15:49:29 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians alcança melhor sequência de vitórias como visitante na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531523/corinthians-alcanca-melhor-sequencia-de-vitorias-como-visitante-na-copa-do-brasil",
+      "time": "22/04 · 18:36",
+      "pubDate": "Wed, 22 Apr 2026 15:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians rompe ligamento do joelho esquerdo e vira desfalque na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531576/atacante-do-corinthians-rompe-ligamento-do-joelho-esquerdo-e-vira-desfalque-na-temporada",
+      "time": "22/04 · 17:51",
+      "pubDate": "Wed, 22 Apr 2026 14:51:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians aprova postura contra o Barra e evita favoritismo na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531558/lateral-do-corinthians-aprova-postura-contra-o-barra-e-evita-favoritismo-na-copa-do-brasil",
+      "time": "22/04 · 17:31",
+      "pubDate": "Wed, 22 Apr 2026 14:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Napoli-ITA quer aplicar chapéu em Milan e Atlético de Madrid pela contratação de André, do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/napoli-ita-quer-aplicar-chapeu-em-milan-e-atletico-de-madrid-pela-contratacao-de-andre-do-corinthians]]>",
+      "time": "22/04 · 17:14",
+      "pubDate": "Wed, 22 Apr 2026 14:14:07 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quarteto do Corinthians é convocado pela Seleção Brasileira para o Sul-Americano Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531573/quarteto-do-corinthians-e-convocado-pela-selecao-brasileira-para-o-sul-americano-feminino-sub-17",
+      "time": "22/04 · 17:02",
+      "pubDate": "Wed, 22 Apr 2026 14:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueira do Corinthians volta a atuar no Brasileirão Feminino após mais de quatro anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531484/zagueira-do-corinthians-volta-ao-brasileirao-feminino-apos-mais-de-quatro-anos",
+      "time": "22/04 · 16:31",
+      "pubDate": "Wed, 22 Apr 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard marca pelo Corinthians e se torna primeiro inglês a fazer gol na Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-marca-pelo-corinthians-e-se-torna-primeiro-ingles-a-fazer-gol-na-copa-do-brasil]]>",
+      "time": "22/04 · 16:20",
+      "pubDate": "Wed, 22 Apr 2026 13:20:05 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians é denunciado pelo STJD e pode pegar até seis jogos de suspensão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531568/volante-do-corinthians-e-denunciado-pelo-stjd-e-pode-pegar-ate-seis-jogos-de-suspensao",
+      "time": "22/04 · 15:18",
+      "pubDate": "Wed, 22 Apr 2026 12:18:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz supera Dorival em início avassalador no Corinthians e muda o clima no clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-supera-dorival-em-inicio-avassalador-no-corinthians-e-muda-o-clima-no-clube]]>",
+      "time": "22/04 · 15:04",
+      "pubDate": "Wed, 22 Apr 2026 12:04:26 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pivô elogia postura do Corinthians durante vitória e mantém alerta para segundo jogo no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531495/pivo-elogia-postura-do-corinthians-durante-vitoria-e-mantem-alerta-para-segundo-jogo-no-nbb",
+      "time": "22/04 · 14:34",
+      "pubDate": "Wed, 22 Apr 2026 11:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians busca reverter punição no STJD para ter torcida em Itaquera contra o Vasco",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-reverter-punicao-no-stjd-para-ter-torcida-em-itaquera-contra-o-vasco]]>",
+      "time": "22/04 · 14:12",
+      "pubDate": "Wed, 22 Apr 2026 11:12:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Hugo Souza segue como dúvida para duelo do Corinthians contra o Vasco pelo Brasleirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531562/hugo-souza-e-duvida-para-duelo-do-corinthians-contra-o-vasco-pelo-brasleirao",
+      "time": "22/04 · 13:31",
+      "pubDate": "Wed, 22 Apr 2026 10:31:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -9,22 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/notas-do-corinthians-kaue-e-lingard-brilham-na-vitoria-contra-o-barra-na-copa-do-brasil]]>",
       "time": "22/04 · 12:40",
       "pubDate": "Wed, 22 Apr 2026 09:40:46 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "STJD marca data para julgar recurso do Corinthians sobre punições no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531563/stjd-marca-data-para-julgar-recurso-do-corinthians-sobre-punicoes-no-derbi",
-      "time": "22/04 · 12:28",
-      "pubDate": "Wed, 22 Apr 2026 09:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Criciúma em busca de voltar ao caminho das vitórias no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531487/corinthians-visita-o-criciuma-em-busca-de-voltar-ao-caminho-das-vitorias-no-brasileiro-sub-20",
-      "time": "22/04 · 12:00",
-      "pubDate": "Wed, 22 Apr 2026 09:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -35,164 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Apr 2026 08:59:33 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard desencanta no Corinthians e decide com golaço contra o Barra na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-desencanta-no-corinthians-e-decide-com-golaco-contra-o-barra-na-copa-do-brasil]]>",
-      "time": "22/04 · 11:49",
-      "pubDate": "Wed, 22 Apr 2026 08:49:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Jesse Lingard é herói em vitória do Corinthians e Diniz define inglês como armador",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-e-heroi-em-vitoria-do-corinthians-e-diniz-define-ingles-como-armador]]>",
-      "time": "22/04 · 11:48",
-      "pubDate": "Wed, 22 Apr 2026 08:48:57 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém expectativa por liberação da Neo Química Arena no domingo; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531551/corinthians-mantem-expectativa-por-liberacao-da-neo-quimica-arena-no-domingo-entenda",
-      "time": "22/04 · 11:31",
-      "pubDate": "Wed, 22 Apr 2026 08:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória na Copa do Brasil, novidade nos ingressos e triunfo nas quadras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531544/ultimas-do-corinthians-vitoria-na-copa-do-brasil-novidade-nos-ingressos-e-triunfo-nas-quadras",
-      "time": "22/04 · 10:30",
-      "pubDate": "Wed, 22 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz detalha mudança de postura do elenco que gerou impacto no sistema defensivo do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-detalha-mudanca-de-postura-do-elenco-que-gerou-impacto-no-sistema-defensivo-do-corinthians]]>",
-      "time": "22/04 · 10:02",
-      "pubDate": "Wed, 22 Apr 2026 07:02:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz se manifesta sobre lesão de Kayke no Corinthians e prega cautela",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-se-manifesta-sobre-lesao-de-kayke-no-corinthians-e-prega-cautela]]>",
-      "time": "22/04 · 09:52",
-      "pubDate": "Wed, 22 Apr 2026 06:52:09 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz analisa atuação do Corinthians e destaca evolução no segundo tempo em vitória sobre o Barra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531537/diniz-analisa-atuacao-do-corinthians-e-destaca-evolucao-no-segundo-tempo-em-vitoria-sobre-o-barra",
-      "time": "22/04 · 04:21",
-      "pubDate": "Wed, 22 Apr 2026 01:21:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Lesão de Kayke, jogadores poupados e mais: coletiva de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127292/lesao-de-kayke-jogadores-poupados-e-mais-coletiva-de-fernando-diniz-no-corinthians",
-      "time": "22/04 · 04:12",
-      "pubDate": "Wed, 22 Apr 2026 01:12:51 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians prega cautela sobre possível lesão de atacante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531542/tecnico-do-corinthians-prega-cautela-sobre-possivel-lesao-de-atacante",
-      "time": "22/04 · 04:09",
-      "pubDate": "Wed, 22 Apr 2026 01:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians destaca vitória sobre o Barra e cobra evolução para sequência da temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531532/zagueiro-do-corinthians-destaca-vitoria-sobre-o-barra-e-cobra-evolucao-para-sequencia-da-temporada",
-      "time": "22/04 · 03:38",
-      "pubDate": "Wed, 22 Apr 2026 00:38:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Estratégia de Fernando Diniz funciona, Corinthians controla jogo e vence o Barra-SC pela Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vence-barra-sc-com-estrategia-eficiente-de-fernando-diniz]]>",
-      "time": "22/04 · 02:35",
-      "pubDate": "Tue, 21 Apr 2026 23:35:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vence Barra com gol de Lingard, mas atuação burocrática liga alerta no time",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vence-barra-com-gol-de-lingard-mas-atuacao-burocratica-liga-alerta-no-time]]>",
-      "time": "22/04 · 02:34",
-      "pubDate": "Tue, 21 Apr 2026 23:34:35 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis decepciona em nova função no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
+      "time": "02/03 · 10:00",
+      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Garro se diz preocupado com Z4, mas confia em reação do Corinthians: &#8220;Vamos acabar lá em cima&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-se-diz-preocupado-com-z4-mas-confia-em-reacao-do-corinthians-vamos-acabar-la-em-cima/",
-      "time": "19/04 · 10:00",
-      "pubDate": "Sun, 19 Apr 2026 10:00:16 +0000"
+      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
+      "time": "02/03 · 09:00",
+      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate contra o Vitória",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-vitoria/",
-      "time": "19/04 · 09:00",
-      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000"
+      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
+      "time": "02/03 · 08:00",
+      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Análise: Corinthians volta a ser inofensivo e precisa ligar alerta no Brasileiro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-volta-a-ser-inofensivo-e-precisa-ligar-alerta-no-brasileiro/",
-      "time": "19/04 · 08:00",
-      "pubDate": "Sun, 19 Apr 2026 08:00:50 +0000"
+      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
+      "time": "02/03 · 01:05",
+      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
-      "time": "19/04 · 02:11",
-      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
+      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
+      "time": "02/03 · 00:27",
+      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
-      "time": "19/04 · 01:24",
-      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
+      "title": "Corinthians: conheça os números da equipe na temporada 2026",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
+      "time": "01/03 · 17:29",
+      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
-      "time": "19/04 · 01:14",
-      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
+      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
+      "time": "01/03 · 12:25",
+      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
-      "time": "19/04 · 01:01",
-      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
-      "time": "18/04 · 22:02",
-      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
+      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
+      "time": "01/03 · 11:00",
+      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
     }
   ],
   "upcoming": [],
