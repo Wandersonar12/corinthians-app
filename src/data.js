@@ -1,7 +1,55 @@
-// Gerado automaticamente em 22/04/2026, 22:36:19
+// Gerado automaticamente em 23/04/2026, 09:16:38
 const LIVE_DATA = {
-  "updatedAt": "2026-04-22T22:36:19.435Z",
+  "updatedAt": "2026-04-23T09:16:38.014Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians tem boa atuação defensiva contra o Barra; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531528/goleiro-do-corinthians-tem-boa-atuacao-defensiva-contra-o-barra-veja-numeros",
+      "time": "23/04 · 01:30",
+      "pubDate": "Wed, 22 Apr 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians quebra jejum de 11 anos na Ressacada com vitória sobre o Barra",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531531/corinthians-quebra-jejum-de-11-anos-na-ressacada-com-vitoria-sobre-o-barra",
+      "time": "23/04 · 00:29",
+      "pubDate": "Wed, 22 Apr 2026 21:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia-atacante estreia pelo Sub-20 do Corinthians aos 15 anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531587/meia-atacante-estreia-pelo-sub-20-do-corinthians-aos-15-anos",
+      "time": "23/04 · 00:04",
+      "pubDate": "Wed, 22 Apr 2026 21:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz comenta evolução de dupla estrangeira e aponta planos para sequência no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531539/diniz-comenta-evolucao-de-dupla-estrangeira-e-aponta-planos-para-sequencia-no-corinthians",
+      "time": "22/04 · 23:28",
+      "pubDate": "Wed, 22 Apr 2026 20:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians promove terceira aula aberta de História das Artes Corinthianas na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531583/corinthians-promove-terceira-aula-aberta-de-historia-das-artes-corinthianas-na-neo-quimica-arena",
+      "time": "22/04 · 23:04",
+      "pubDate": "Wed, 22 Apr 2026 20:04:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fiel torcida lota a Ressacada e jogo entre Barra e Corinthians registra maior público da temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fiel-torcida-lota-a-ressacada-e-jogo-entre-barra-e-corinthians-registra-maior-publico-da-temporada]]>",
+      "time": "22/04 · 22:39",
+      "pubDate": "Wed, 22 Apr 2026 19:39:51 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,22 +75,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Apr 2026 18:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians treina no CT Joaquim Grava com retorno de convocadas para clássico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531592/corinthians-treina-no-ct-joaquim-grava-com-retorno-de-convocadas-para-classico",
-      "time": "22/04 · 21:30",
-      "pubDate": "Wed, 22 Apr 2026 18:30:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Casagrande critica desempenho do Corinthians e liga alerta para o Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531572/casagrande-critica-desempenho-do-corinthians-e-liga-alerta-para-o-brasileirao",
-      "time": "22/04 · 21:03",
-      "pubDate": "Wed, 22 Apr 2026 18:03:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians de Diniz repete feitos raros e alcança sequência defensiva que não se via desde 2022",
@@ -59,14 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Apr 2026 17:48:17 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem dois convocados pela Seleção Sub-20 de Futsal para amistosos contra a Argentina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531588/corinthians-tem-dois-convocados-pela-selecao-sub-20-de-futsal-para-amistosos-contra-a-argentina",
-      "time": "22/04 · 20:44",
-      "pubDate": "Wed, 22 Apr 2026 17:44:29 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Kayke rompe ligamento do joelho, passará por cirurgia e só deve voltar no Corinthians em 2027",
@@ -75,36 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Apr 2026 17:32:25 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aumenta bom retrospecto em estreias de Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531527/corinthians-aumenta-bom-retrospecto-em-estreias-de-copa-do-brasil",
-      "time": "22/04 · 20:32",
-      "pubDate": "Wed, 22 Apr 2026 17:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga venda de ingressos para setor visitante contra o Mirassol pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531590/corinthians-divulga-venda-de-ingressos-para-setor-visitante-contra-o-mirassol-pelo-brasileirao",
-      "time": "22/04 · 20:15",
-      "pubDate": "Wed, 22 Apr 2026 17:15:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "André Hernan confirma e Memphis Depay quer renovar contrato no Corinthians: “Já houve uma conversa”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-hernan-confirma-e-memphis-depay-quer-renovar-contrato-no-corinthians-ja-houve-uma-conversa]]>",
       "time": "22/04 · 18:51",
       "pubDate": "Wed, 22 Apr 2026 15:51:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Napoli-ITA quer aplicar chapéu em Milan e Atlético de Madrid pela contratação de André, do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/napoli-ita-quer-aplicar-chapeu-em-milan-e-atletico-de-madrid-pela-contratacao-de-andre-do-corinthians]]>",
-      "time": "22/04 · 17:14",
-      "pubDate": "Wed, 22 Apr 2026 14:14:07 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians tem boa atuação defensiva contra o Barra; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531528/goleiro-do-corinthians-tem-boa-atuacao-defensiva-contra-o-barra-veja-numeros",
+      "pubDate": "Wed, 22 Apr 2026 22:30:00 -0300",
+      "date": "23/04 · 01:30"
+    },
+    {
       "title": "VÍDEO: Médico explica a gravidade da lesão do atacante Kayke",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127313/medico-explica-a-gravidade-da-lesao-do-atacante-kayke",
       "pubDate": "Wed, 22 Apr 2026 18:01:31 -0300",
@@ -216,24 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531560/goleiro-do-corinthians-celebra-titularidade-em-vitoria-sobre-o-barra-e-fala-sobre-disputa-na-posicao",
       "pubDate": "Wed, 22 Apr 2026 16:01:00 -0300",
       "date": "22/04 · 19:01"
-    },
-    {
-      "title": "VÍDEO: Defesa do título! Matheuzinho fala após vitória sobre o Barra na estreia da Copa do Brasil 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127294/defesa-do-titulo-matheuzinho-fala-apos-vitoria-sobre-o-barra-na-estreia-da-copa-do-brasil-2026",
-      "pubDate": "Wed, 22 Apr 2026 01:30:49 -0300",
-      "date": "22/04 · 04:30"
-    },
-    {
-      "title": "VÍDEO: Zona Mista Kauê: Reserva absoluto de Hugo Souza, plantel de goleiros e boa sequência da defesa",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127293/zona-mista-kaue-reserva-absoluto-de-hugo-souza-plantel-de-goleiros-e-boa-sequencia-da-defesa",
-      "pubDate": "Wed, 22 Apr 2026 01:28:44 -0300",
-      "date": "22/04 · 04:28"
-    },
-    {
-      "title": "VÍDEO: Lesão de Kayke, jogadores poupados e mais: coletiva de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127292/lesao-de-kayke-jogadores-poupados-e-mais-coletiva-de-fernando-diniz-no-corinthians",
-      "pubDate": "Wed, 22 Apr 2026 01:12:51 -0300",
-      "date": "22/04 · 04:12"
     }
   ]
 };
