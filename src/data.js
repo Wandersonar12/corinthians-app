@@ -1,7 +1,47 @@
-// Gerado automaticamente em 23/04/2026, 09:16:38
+// Gerado automaticamente em 23/04/2026, 12:53:32
 const LIVE_DATA = {
-  "updatedAt": "2026-04-23T09:16:38.014Z",
+  "updatedAt": "2026-04-23T12:53:32.050Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians antecipa R$ 70 milhões de patrocinadores e usa receita futura para pagar contas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-antecipa-r-70-milhoes-de-patrocinadores-e-usa-receita-futura-para-pagar-contas]]>",
+      "time": "23/04 · 12:52",
+      "pubDate": "Thu, 23 Apr 2026 09:52:49 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Especialista explica lesão de atacante do Corinthians e método de recuperação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531599/especialista-explica-lesao-de-atacante-do-corinthians-e-metodo-de-recuperacao",
+      "time": "23/04 · 12:29",
+      "pubDate": "Thu, 23 Apr 2026 09:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheuzinho é contatado para jogar na Inglaterra e só 60% dos direitos econômicos são do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-e-contatado-para-jogar-na-inglaterra-e-so-60-dos-direitos-economicos-sao-do-corinthians]]>",
+      "time": "23/04 · 12:13",
+      "pubDate": "Thu, 23 Apr 2026 09:13:19 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians explica rodízio após quatro partidas repetindo a escalação titular",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531538/tecnico-do-corinthians-explica-rodizio-apos-quatro-partidas-repetindo-a-escalacao-titular",
+      "time": "23/04 · 11:33",
+      "pubDate": "Thu, 23 Apr 2026 08:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: lesão de atacante, liberação da Arena e julgamento marcado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531596/ultimas-do-corinthians-lesao-de-atacante-liberacao-da-arena-e-julgamento-marcado",
+      "time": "23/04 · 10:30",
+      "pubDate": "Thu, 23 Apr 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -51,30 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Apr 2026 19:39:51 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jesse Lingard amplia lista de artilheiros do Corinthians na temporada em vitória sobre o Barra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531529/jesse-lingard-amplia-lista-de-artilheiros-do-corinthians-na-temporada-em-vitoria-sobre-o-barra",
-      "time": "22/04 · 22:33",
-      "pubDate": "Wed, 22 Apr 2026 19:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians supera recorde de melhor público da Ressacada em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531535/corinthians-supera-recorde-de-melhor-publico-da-ressacada-em-2026-na-partida-contra-o-barra",
-      "time": "22/04 · 22:02",
-      "pubDate": "Wed, 22 Apr 2026 19:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians lamenta punição do STJD e projeta retorno ao Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531559/lateral-do-corinthians-lamenta-punicao-do-stjd-e-projeta-retorno-ao-brasileirao",
-      "time": "22/04 · 21:31",
-      "pubDate": "Wed, 22 Apr 2026 18:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians de Diniz repete feitos raros e alcança sequência defensiva que não se via desde 2022",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-marca-pelo-corinthians-e-se-torna-primeiro-ingles-a-fazer-gol-na-copa-do-brasil]]>",
       "time": "22/04 · 16:20",
       "pubDate": "Wed, 22 Apr 2026 13:20:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz supera Dorival em início avassalador no Corinthians e muda o clima no clube",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-supera-dorival-em-inicio-avassalador-no-corinthians-e-muda-o-clima-no-clube]]>",
-      "time": "22/04 · 15:04",
-      "pubDate": "Wed, 22 Apr 2026 12:04:26 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians busca reverter punição no STJD para ter torcida em Itaquera contra o Vasco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-reverter-punicao-no-stjd-para-ter-torcida-em-itaquera-contra-o-vasco]]>",
-      "time": "22/04 · 14:12",
-      "pubDate": "Wed, 22 Apr 2026 11:12:20 -0300"
     },
     {
       "source": "Gazeta Esportiva",
