@@ -1,7 +1,95 @@
-// Gerado automaticamente em 23/04/2026, 18:51:27
+// Gerado automaticamente em 23/04/2026, 22:31:56
 const LIVE_DATA = {
-  "updatedAt": "2026-04-23T18:51:27.199Z",
+  "updatedAt": "2026-04-23T22:31:56.819Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Talles Magno vive fase de destaque na MLS após saída do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/talles-magno-vive-fase-de-destaque-na-mls-apos-saida-do-corinthians]]>",
+      "time": "23/04 · 22:01",
+      "pubDate": "Thu, 23 Apr 2026 19:01:56 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Historiador explica ligação entre Corinthians e São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531642/historiador-explica-ligacao-entre-corinthians-e-sao-jorge",
+      "time": "23/04 · 22:01",
+      "pubDate": "Thu, 23 Apr 2026 19:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dieguinho recebe de Diniz primeira chance como titular do Corinthians em vitória sobre o Barra",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531524/dieguinho-recebe-de-diniz-primeira-chance-como-titular-do-corinthians-em-vitoria-sobre-o-barra",
+      "time": "23/04 · 21:32",
+      "pubDate": "Thu, 23 Apr 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga cronograma da venda de ingressos contra o Peñarol pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531658/corinthians-divulga-cronograma-da-venda-de-ingressos-contra-o-penarol-pela-libertadores",
+      "time": "23/04 · 21:05",
+      "pubDate": "Thu, 23 Apr 2026 18:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians celebra Dia do Torcedor com homenagem à Fiel e invasões históricas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531637/corinthians-celebra-dia-do-torcedor-com-homenagem-a-fiel-e-invasoes-historicas",
+      "time": "23/04 · 21:01",
+      "pubDate": "Thu, 23 Apr 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians volta a atuar pelo Sub-20 após período com o time profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531589/zagueiro-do-corinthians-volta-a-atuar-pelo-sub-20-apos-periodo-com-o-time-profissional",
+      "time": "23/04 · 20:31",
+      "pubDate": "Thu, 23 Apr 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians mira Kevin Viveros, mas Athletico-PR trava negócio e ignora ofertas de até R$ 90 milhões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mira-kevin-viveros-mas-athletico-pr-trava-negocio-e-ignora-ofertas-de-ate-r-90-milhoes]]>",
+      "time": "23/04 · 20:14",
+      "pubDate": "Thu, 23 Apr 2026 17:14:03 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Sub-20 do Corinthians marca cirurgia e vira desfalque em reta final de contrato",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531650/atacante-do-sub-20-do-corinthians-marca-cirurgia-e-vira-desfalque-em-reta-final-de-contrato",
+      "time": "23/04 · 20:05",
+      "pubDate": "Thu, 23 Apr 2026 17:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lenda da Holanda 'alfineta' atacante do Corinthians e questiona peso dos gols pela seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531636/lenda-da-holanda-alfineta-atacante-do-corinthians-e-questiona-peso-dos-gols-pela-selecao",
+      "time": "23/04 · 20:02",
+      "pubDate": "Thu, 23 Apr 2026 17:02:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz tem otimismo para renovar com Memphis Depay no Corinthians: “Ele quer ficar aqui”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-tem-otimismo-para-renovar-com-memphis-depay-no-corinthians-ele-quer-ficar-aqui]]>",
+      "time": "23/04 · 19:38",
+      "pubDate": "Thu, 23 Apr 2026 16:38:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem melhor sequência defensiva do mundo desde chegada de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531616/corinthians-tem-melhor-sequencia-defensiva-do-mundo-desde-chegada-de-fernando-diniz",
+      "time": "23/04 · 19:33",
+      "pubDate": "Thu, 23 Apr 2026 16:33:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -13,74 +101,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians mira Kevin Viveros, mas Athletico-PR trava negócio e ignora ofertas de até R$ 90 milhões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mira-kevin-viveros-mas-athletico-pr-trava-negocio-e-ignora-ofertas-de-ate-r-90-milhoes]]>",
-      "time": "23/04 · 18:40",
-      "pubDate": "Thu, 23 Apr 2026 15:40:24 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians acerta contratação de goleiro e atacante para o Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531638/corinthians-acerta-contratacao-de-goleiro-e-atacante-para-o-sub-20",
-      "time": "23/04 · 18:12",
-      "pubDate": "Thu, 23 Apr 2026 15:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians altera pontuação máxima do Fiel Torcedor; veja o que muda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531620/corinthians-altera-pontuacao-maxima-do-fiel-torcedor-veja-o-que-muda",
-      "time": "23/04 · 18:06",
-      "pubDate": "Thu, 23 Apr 2026 15:06:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode ter mais de dez desfalques na próxima rodada do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531578/corinthians-pode-ter-mais-de-dez-desfalques-na-proxima-rodada-do-brasileirao",
-      "time": "23/04 · 17:33",
-      "pubDate": "Thu, 23 Apr 2026 14:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Administradora decide sobre divergência do Corinthians no RCE e revela antecipações de receitas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531634/administradora-decide-sobre-divergencia-do-corinthians-no-rce-e-revela-antecipacoes-de-receitas",
-      "time": "23/04 · 16:49",
-      "pubDate": "Thu, 23 Apr 2026 13:49:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kauê é o goleiro mais jovem do Corinthians na Copa do Brasil em 21 anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531534/kaue-e-o-goleiro-mais-jovem-do-corinthians-na-copa-do-brasil-em-21-anos",
-      "time": "23/04 · 16:39",
-      "pubDate": "Thu, 23 Apr 2026 13:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Executivo do Corinthians reforça desejo de manter Memphis e vê renovação com otimismo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531629/executivo-do-corinthians-reforca-desejo-de-manter-memphis-e-ve-renovacao-com-otimismo",
-      "time": "23/04 · 16:04",
-      "pubDate": "Thu, 23 Apr 2026 13:04:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians define retorno de Memphis para jogo decisivo na Libertadores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-retorno-de-memphis-para-jogo-decisivo-na-libertadores]]>",
       "time": "23/04 · 15:57",
       "pubDate": "Thu, 23 Apr 2026 12:57:02 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretor do Corinthians chama Cebolinha de 'interessante' e projeta próximos passos no mercado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531628/diretor-do-corinthians-chama-cebolinha-de-interessante-e-projeta-proximos-passos-no-mercado",
-      "time": "23/04 · 15:50",
-      "pubDate": "Thu, 23 Apr 2026 12:50:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-braithwaite-cano-mercado]]>",
       "time": "23/04 · 15:30",
       "pubDate": "Thu, 23 Apr 2026 12:30:28 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga como comprar ingressos de visitante para jogo contra o Santa Fe na Colômbia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531627/corinthians-divulga-como-comprar-ingressos-de-visitante-para-jogo-contra-o-santa-fe-na-colombia",
-      "time": "23/04 · 15:20",
-      "pubDate": "Thu, 23 Apr 2026 12:20:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -115,90 +131,80 @@ const LIVE_DATA = {
       "pubDate": "Thu, 23 Apr 2026 10:59:41 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheuzinho é contatado para jogar na Inglaterra e só 60% dos direitos econômicos são do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-e-contatado-para-jogar-na-inglaterra-e-so-60-dos-direitos-economicos-sao-do-corinthians]]>",
-      "time": "23/04 · 13:52",
-      "pubDate": "Thu, 23 Apr 2026 10:52:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians antecipa R$ 70 milhões de patrocinadores e usa receita futura para pagar contas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-antecipa-r-70-milhoes-de-patrocinadores-e-usa-receita-futura-para-pagar-contas]]>",
-      "time": "23/04 · 13:00",
-      "pubDate": "Thu, 23 Apr 2026 10:00:51 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Garro se diz preocupado com Z4, mas confia em reação do Corinthians: &#8220;Vamos acabar lá em cima&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-se-diz-preocupado-com-z4-mas-confia-em-reacao-do-corinthians-vamos-acabar-la-em-cima/",
+      "time": "19/04 · 10:00",
+      "pubDate": "Sun, 19 Apr 2026 10:00:16 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Memphis decepciona em nova função no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
-      "time": "02/03 · 10:00",
-      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
+      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate contra o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-vitoria/",
+      "time": "19/04 · 09:00",
+      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
-      "time": "02/03 · 09:00",
-      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
+      "title": "Análise: Corinthians volta a ser inofensivo e precisa ligar alerta no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-volta-a-ser-inofensivo-e-precisa-ligar-alerta-no-brasileiro/",
+      "time": "19/04 · 08:00",
+      "pubDate": "Sun, 19 Apr 2026 08:00:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
-      "time": "02/03 · 08:00",
-      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
+      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
+      "time": "19/04 · 02:11",
+      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
-      "time": "02/03 · 01:05",
-      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
+      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
+      "time": "19/04 · 01:24",
+      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
-      "time": "02/03 · 00:27",
-      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
+      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
+      "time": "19/04 · 01:14",
+      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians: conheça os números da equipe na temporada 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
-      "time": "01/03 · 17:29",
-      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
+      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
+      "time": "19/04 · 01:01",
+      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
-      "time": "01/03 · 12:25",
-      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
-      "time": "01/03 · 11:00",
-      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
+      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
+      "time": "18/04 · 22:02",
+      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Lenda da Holanda 'alfineta' atacante do Corinthians e questiona peso dos gols pela seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531636/lenda-da-holanda-alfineta-atacante-do-corinthians-e-questiona-peso-dos-gols-pela-selecao",
+      "pubDate": "Thu, 23 Apr 2026 17:02:00 -0300",
+      "date": "23/04 · 20:02"
+    },
     {
       "title": "Corinthians acerta contratação de goleiro e atacante para o Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531638/corinthians-acerta-contratacao-de-goleiro-e-atacante-para-o-sub-20",
@@ -222,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127322/memphis-depay-e-alex-santana-de-volta-1-treino-aberto-de-diniz-imagens-do-corinthians-no-ct",
       "pubDate": "Thu, 23 Apr 2026 11:19:17 -0300",
       "date": "23/04 · 14:19"
-    },
-    {
-      "title": "Goleiro do Corinthians tem boa atuação defensiva contra o Barra; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531528/goleiro-do-corinthians-tem-boa-atuacao-defensiva-contra-o-barra-veja-numeros",
-      "pubDate": "Wed, 22 Apr 2026 22:30:00 -0300",
-      "date": "23/04 · 01:30"
     }
   ]
 };
