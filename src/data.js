@@ -1,14 +1,102 @@
-// Gerado automaticamente em 24/04/2026, 12:52:07
+// Gerado automaticamente em 24/04/2026, 18:34:05
 const LIVE_DATA = {
-  "updatedAt": "2026-04-24T12:52:07.170Z",
+  "updatedAt": "2026-04-24T18:34:05.742Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz indica Germán Cano, Fluminense não se opõe e Corinthians trabalha com contrato até fim de 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-indica-german-cano-fluminense-nao-se-opoe-e-corinthians-trabalha-com-contrato-ate-fim-de-2027]]>",
+      "time": "24/04 · 18:33",
+      "pubDate": "Fri, 24 Apr 2026 15:33:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians confirma setor fechado no Majestoso após punição do STJD",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531691/corinthians-confirma-setor-fechado-no-majestoso-apos-punicao-do-stjd",
+      "time": "24/04 · 18:07",
+      "pubDate": "Fri, 24 Apr 2026 15:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians lidera disputa pela Bola de Ouro do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531639/atacante-do-corinthians-lidera-disputa-pela-bola-de-ouro-do-brasileirao-feminino",
+      "time": "24/04 · 17:32",
+      "pubDate": "Fri, 24 Apr 2026 14:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheuzinho tem pena reduzida e abre série de decisões que beneficiam o Corinthians no STJD",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-tem-pena-reduzida-e-abre-serie-de-decisoes-que-beneficiam-o-corinthians-no-stjd]]>",
+      "time": "24/04 · 17:19",
+      "pubDate": "Fri, 24 Apr 2026 14:19:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Empresário questiona administradora do RCE e exige entrega de contrato do Corinthians com a Nike",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531683/empresario-questiona-administradora-do-rce-e-exige-entrega-de-contrato-do-corinthians-com-a-nike",
+      "time": "24/04 · 16:28",
+      "pubDate": "Fri, 24 Apr 2026 13:28:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Garro encerra maratona no Corinthians e Yuri Alberto assume liderança em sequência de jogos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-encerra-maratona-no-corinthians-e-yuri-alberto-assume-lideranca-em-sequencia-de-jogos]]>",
+      "time": "24/04 · 15:25",
+      "pubDate": "Fri, 24 Apr 2026 12:25:41 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem punições reduzidas no STJD e perde setor da Neo Química Arena por um jogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531688/corinthians-tem-punicoes-reduzidas-no-stjd-e-perde-setor-da-neo-quimica-arena-por-um-jogo",
+      "time": "24/04 · 15:16",
+      "pubDate": "Fri, 24 Apr 2026 12:16:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a vencer no Brasileirão Sub-20 após jejum de três jogos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531613/corinthians-volta-a-vencer-no-campeonato-brasileiro-sub-20-apos-jejum-de-tres-jogos",
+      "time": "24/04 · 14:31",
+      "pubDate": "Fri, 24 Apr 2026 11:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz pressiona por contratações, Corinthians analisa Cebolinha e quer janela discreta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-pressiona-por-contratacoes-corinthians-analisa-cebolinha-e-quer-janela-discreta]]>",
+      "time": "24/04 · 14:27",
+      "pubDate": "Fri, 24 Apr 2026 11:27:10 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians aceita vender Yuri Alberto e liberação depende de proposta oficial considerada irrecusável",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-yuri-alberto-e-liberacao-depende-de-proposta-oficial-considerada-irrecusavel]]>",
-      "time": "24/04 · 12:42",
-      "pubDate": "Fri, 24 Apr 2026 09:42:05 -0300"
+      "time": "24/04 · 13:49",
+      "pubDate": "Fri, 24 Apr 2026 10:49:29 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians encerra maior sequência de atuações consecutivas na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531598/meia-do-corinthians-encerra-maior-sequencia-de-atuacoes-consecutivas-na-temporada",
+      "time": "24/04 · 13:28",
+      "pubDate": "Fri, 24 Apr 2026 10:28:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz repete Carlos Alberto Torres e Jair Picerni e pode alcançar recorde inédito no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-repete-carlos-alberto-torres-e-jair-picerni-e-pode-alcancar-recorde-inedito-no-corinthians]]>",
+      "time": "24/04 · 12:58",
+      "pubDate": "Fri, 24 Apr 2026 09:58:59 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,100 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 24 Apr 2026 09:00:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Ferroviária pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531652/saiba-onde-assistir-ao-duelo-entre-corinthians-e-ferroviaria-pelo-brasileirao-feminino",
-      "time": "24/04 · 11:30",
-      "pubDate": "Fri, 24 Apr 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: otimismo na renovação de atacante, duelo na Arena e novo analista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531670/ultimas-do-corinthians-otimismo-na-renovacao-de-atacante-duelo-na-arena-e-novo-analista",
-      "time": "24/04 · 10:30",
-      "pubDate": "Fri, 24 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe a Ferroviária com foco em manter a boa fase no Brasileirão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531646/corinthians-recebe-a-ferroviaria-com-foco-em-manter-a-boa-fase-no-brasileirao-feminino-saiba-tudo",
-      "time": "24/04 · 03:01",
-      "pubDate": "Fri, 24 Apr 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians amplia invencibilidade como visitante no Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531614/corinthians-amplia-invencibilidade-como-visitante-no-brasileirao-sub-20",
-      "time": "24/04 · 01:30",
-      "pubDate": "Thu, 23 Apr 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inaugura estátua de São Jorge na Neo Química Arena; veja como foi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531661/corinthians-inaugura-estatua-de-sao-jorge-na-neo-quimica-arena-veja-como-foi",
-      "time": "24/04 · 01:02",
-      "pubDate": "Thu, 23 Apr 2026 22:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Cori aprova com ressalvas balanço de 2025 do Corinthians; auditoria questiona operação do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531660/cori-aprova-com-ressalvas-balanco-de-2025-do-corinthians-auditoria-questiona-operacao-do-clube",
-      "time": "24/04 · 01:00",
-      "pubDate": "Thu, 23 Apr 2026 22:00:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Talles Magno vive fase de destaque na MLS após saída do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/talles-magno-vive-fase-de-destaque-na-mls-apos-saida-do-corinthians]]>",
       "time": "23/04 · 22:01",
       "pubDate": "Thu, 23 Apr 2026 19:01:56 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians mira Kevin Viveros, mas Athletico-PR trava negócio e ignora ofertas de até R$ 90 milhões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mira-kevin-viveros-mas-athletico-pr-trava-negocio-e-ignora-ofertas-de-ate-r-90-milhoes]]>",
-      "time": "23/04 · 20:14",
-      "pubDate": "Thu, 23 Apr 2026 17:14:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz tem otimismo para renovar com Memphis Depay no Corinthians: “Ele quer ficar aqui”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-tem-otimismo-para-renovar-com-memphis-depay-no-corinthians-ele-quer-ficar-aqui]]>",
-      "time": "23/04 · 19:38",
-      "pubDate": "Thu, 23 Apr 2026 16:38:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vê possibilidade de pré-contrato com Cebolinha, mas o atacante prioriza mercado internacional",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-interesse-cebolinha-exterior-prioridade]]>",
-      "time": "23/04 · 18:45",
-      "pubDate": "Thu, 23 Apr 2026 15:45:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define retorno de Memphis para jogo decisivo na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-retorno-de-memphis-para-jogo-decisivo-na-libertadores]]>",
-      "time": "23/04 · 15:57",
-      "pubDate": "Thu, 23 Apr 2026 12:57:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians descarta Braithwaite após descoberta de salário alto e nega interesse em Cano",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-braithwaite-cano-mercado]]>",
-      "time": "23/04 · 15:30",
-      "pubDate": "Thu, 23 Apr 2026 12:30:28 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -222,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531636/lenda-da-holanda-alfineta-atacante-do-corinthians-e-questiona-peso-dos-gols-pela-selecao",
       "pubDate": "Thu, 23 Apr 2026 17:02:00 -0300",
       "date": "23/04 · 20:02"
-    },
-    {
-      "title": "Corinthians acerta contratação de goleiro e atacante para o Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531638/corinthians-acerta-contratacao-de-goleiro-e-atacante-para-o-sub-20",
-      "pubDate": "Thu, 23 Apr 2026 15:12:00 -0300",
-      "date": "23/04 · 18:12"
     }
   ]
 };
