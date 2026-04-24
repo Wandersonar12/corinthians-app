@@ -1,7 +1,71 @@
-// Gerado automaticamente em 23/04/2026, 22:31:56
+// Gerado automaticamente em 24/04/2026, 09:20:44
 const LIVE_DATA = {
-  "updatedAt": "2026-04-23T22:31:56.819Z",
+  "updatedAt": "2026-04-24T09:20:44.602Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe a Ferroviária com foco em manter a boa fase no Brasileirão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531646/corinthians-recebe-a-ferroviaria-com-foco-em-manter-a-boa-fase-no-brasileirao-feminino-saiba-tudo",
+      "time": "24/04 · 03:01",
+      "pubDate": "Fri, 24 Apr 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians amplia invencibilidade como visitante no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531614/corinthians-amplia-invencibilidade-como-visitante-no-brasileirao-sub-20",
+      "time": "24/04 · 01:30",
+      "pubDate": "Thu, 23 Apr 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inaugura estátua de São Jorge na Neo Química Arena; veja como foi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531661/corinthians-inaugura-estatua-de-sao-jorge-na-neo-quimica-arena-veja-como-foi",
+      "time": "24/04 · 01:02",
+      "pubDate": "Thu, 23 Apr 2026 22:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Cori aprova com ressalvas balanço de 2025 do Corinthians; auditoria questiona operação do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531660/cori-aprova-com-ressalvas-balanco-de-2025-do-corinthians-auditoria-questiona-operacao-do-clube",
+      "time": "24/04 · 01:00",
+      "pubDate": "Thu, 23 Apr 2026 22:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz repete feito que apenas dois técnicos conquistaram na história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531593/fernando-diniz-repete-feito-que-apenas-dois-tecnicos-conquistaram-na-historia-do-corinthians",
+      "time": "24/04 · 00:31",
+      "pubDate": "Thu, 23 Apr 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do futsal do Corinthians é anunciado por clube da Kings League",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531664/idolo-do-futsal-do-corinthians-e-anunciado-por-clube-da-kings-league",
+      "time": "24/04 · 00:01",
+      "pubDate": "Thu, 23 Apr 2026 21:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pedro Raul assume vice-liderança em assistências no Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531530/pedro-raul-assume-vice-lideranca-em-assistencias-no-corinthians-em-2026",
+      "time": "23/04 · 23:37",
+      "pubDate": "Thu, 23 Apr 2026 20:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz ajustes finais para encarar a Ferroviária; veja a provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531662/corinthians-faz-ajustes-finais-para-encarar-a-ferroviaria-veja-a-provavel-escalacao",
+      "time": "23/04 · 23:35",
+      "pubDate": "Thu, 23 Apr 2026 20:35:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -9,46 +73,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/talles-magno-vive-fase-de-destaque-na-mls-apos-saida-do-corinthians]]>",
       "time": "23/04 · 22:01",
       "pubDate": "Thu, 23 Apr 2026 19:01:56 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Historiador explica ligação entre Corinthians e São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531642/historiador-explica-ligacao-entre-corinthians-e-sao-jorge",
-      "time": "23/04 · 22:01",
-      "pubDate": "Thu, 23 Apr 2026 19:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dieguinho recebe de Diniz primeira chance como titular do Corinthians em vitória sobre o Barra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531524/dieguinho-recebe-de-diniz-primeira-chance-como-titular-do-corinthians-em-vitoria-sobre-o-barra",
-      "time": "23/04 · 21:32",
-      "pubDate": "Thu, 23 Apr 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga cronograma da venda de ingressos contra o Peñarol pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531658/corinthians-divulga-cronograma-da-venda-de-ingressos-contra-o-penarol-pela-libertadores",
-      "time": "23/04 · 21:05",
-      "pubDate": "Thu, 23 Apr 2026 18:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians celebra Dia do Torcedor com homenagem à Fiel e invasões históricas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531637/corinthians-celebra-dia-do-torcedor-com-homenagem-a-fiel-e-invasoes-historicas",
-      "time": "23/04 · 21:01",
-      "pubDate": "Thu, 23 Apr 2026 18:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians volta a atuar pelo Sub-20 após período com o time profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531589/zagueiro-do-corinthians-volta-a-atuar-pelo-sub-20-apos-periodo-com-o-time-profissional",
-      "time": "23/04 · 20:31",
-      "pubDate": "Thu, 23 Apr 2026 17:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -59,36 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 23 Apr 2026 17:14:03 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Sub-20 do Corinthians marca cirurgia e vira desfalque em reta final de contrato",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531650/atacante-do-sub-20-do-corinthians-marca-cirurgia-e-vira-desfalque-em-reta-final-de-contrato",
-      "time": "23/04 · 20:05",
-      "pubDate": "Thu, 23 Apr 2026 17:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lenda da Holanda 'alfineta' atacante do Corinthians e questiona peso dos gols pela seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531636/lenda-da-holanda-alfineta-atacante-do-corinthians-e-questiona-peso-dos-gols-pela-selecao",
-      "time": "23/04 · 20:02",
-      "pubDate": "Thu, 23 Apr 2026 17:02:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Marcelo Paz tem otimismo para renovar com Memphis Depay no Corinthians: “Ele quer ficar aqui”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-tem-otimismo-para-renovar-com-memphis-depay-no-corinthians-ele-quer-ficar-aqui]]>",
       "time": "23/04 · 19:38",
       "pubDate": "Thu, 23 Apr 2026 16:38:45 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem melhor sequência defensiva do mundo desde chegada de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531616/corinthians-tem-melhor-sequencia-defensiva-do-mundo-desde-chegada-de-fernando-diniz",
-      "time": "23/04 · 19:33",
-      "pubDate": "Thu, 23 Apr 2026 16:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Veja como foi a inauguração da estátua de São Jorge na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127334/veja-como-foi-a-inauguracao-da-estatua-de-sao-jorge-na-neo-quimica-arena",
+      "pubDate": "Thu, 23 Apr 2026 23:15:06 -0300",
+      "date": "24/04 · 02:15"
+    },
+    {
+      "title": "VÍDEO: Stabile fala sobre inauguração da estátua de São Jorge, público contra o Vasco e renovação de Depay",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127333/stabile-fala-sobre-inauguracao-da-estatua-de-sao-jorge-publico-contra-o-vasco-e-renovacao-de-depay",
+      "pubDate": "Thu, 23 Apr 2026 22:51:22 -0300",
+      "date": "24/04 · 01:51"
+    },
+    {
       "title": "Lenda da Holanda 'alfineta' atacante do Corinthians e questiona peso dos gols pela seleção",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531636/lenda-da-holanda-alfineta-atacante-do-corinthians-e-questiona-peso-dos-gols-pela-selecao",
       "pubDate": "Thu, 23 Apr 2026 17:02:00 -0300",
@@ -216,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531534/kaue-e-o-goleiro-mais-jovem-do-corinthians-na-copa-do-brasil-em-21-anos",
       "pubDate": "Thu, 23 Apr 2026 13:39:00 -0300",
       "date": "23/04 · 16:39"
-    },
-    {
-      "title": "VÍDEO: Cebolinha, papo com Memphis e contratações: Marcelo Paz comenta assuntos atuais do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127323/cebolinha-papo-com-memphis-e-contratacoes-marcelo-paz-comenta-assuntos-atuais-do-corinthians",
-      "pubDate": "Thu, 23 Apr 2026 11:38:35 -0300",
-      "date": "23/04 · 14:38"
-    },
-    {
-      "title": "VÍDEO: Memphis Depay e Alex Santana de volta, 1º treino aberto de Diniz: imagens do Corinthians no CT",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127322/memphis-depay-e-alex-santana-de-volta-1-treino-aberto-de-diniz-imagens-do-corinthians-no-ct",
-      "pubDate": "Thu, 23 Apr 2026 11:19:17 -0300",
-      "date": "23/04 · 14:19"
     }
   ]
 };
