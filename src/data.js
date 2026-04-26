@@ -1,7 +1,95 @@
-// Gerado automaticamente em 26/04/2026, 12:35:31
+// Gerado automaticamente em 26/04/2026, 18:33:19
 const LIVE_DATA = {
-  "updatedAt": "2026-04-26T12:35:31.272Z",
+  "updatedAt": "2026-04-26T18:33:19.774Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians enfrenta o Vasco pelo Brasileirão com pendurados, incluindo Garro e Gustavo Henrique",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-o-vasco-pelo-brasileirao-com-pendurados-incluindo-garro-e-gustavo-henrique]]>",
+      "time": "26/04 · 18:29",
+      "pubDate": "Sun, 26 Apr 2026 15:29:32 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga escalação para enfrentar o Vasco da Gama na Neo Química Arena; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531773/corinthians-divulga-escalacao-para-enfrentar-o-vasco-da-gama-na-neo-quimica-arena-confira",
+      "time": "26/04 · 18:01",
+      "pubDate": "Sun, 26 Apr 2026 15:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca ampliar retrospecto favorável contra o Vasco da Gama; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531772/corinthians-busca-ampliar-retrospecto-favoravel-contra-o-vasco-da-gama-veja-os-numeros",
+      "time": "26/04 · 17:31",
+      "pubDate": "Sun, 26 Apr 2026 14:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz homenagem para Oscar Schmidt em bandeirinhas da Arena e uniforme do jogo; veja fotos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531781/corinthians-faz-homenagem-para-oscar-schmidt-em-bandeirinhas-da-arena-e-uniforme-do-jogo-veja-fotos",
+      "time": "26/04 · 17:14",
+      "pubDate": "Sun, 26 Apr 2026 14:14:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians explica 'geladeira' em Jhonson e celebra gol da atacante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531730/tecnica-do-corinthians-explica-geladeira-em-jhonson-e-celebra-gol-da-atacante",
+      "time": "26/04 · 17:05",
+      "pubDate": "Sun, 26 Apr 2026 14:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Campanha de recuperação e reencontro com Diniz: veja como o Vasco chega para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531774/campanha-de-recuperacao-e-reencontro-com-diniz-veja-como-o-vasco-chega-para-enfrentar-o-corinthians",
+      "time": "26/04 · 16:34",
+      "pubDate": "Sun, 26 Apr 2026 13:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida do Corinthians rejeita Vitinho contra o Vasco",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-rejeita-vitinho-contra-o-vasco]]>",
+      "time": "26/04 · 16:29",
+      "pubDate": "Sun, 26 Apr 2026 13:29:41 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians homenageia jogadores históricos no Dia do Goleiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531778/corinthians-homenageia-jogadores-historicos-no-dia-do-goleiro",
+      "time": "26/04 · 16:05",
+      "pubDate": "Sun, 26 Apr 2026 13:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence Unifacisa nos playoffs do NBB com cesta no estourar do cronômetro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531780/corinthians-vence-unifacisa-nos-playoffs-do-nbb-com-cesta-no-estourar-do-cronometro",
+      "time": "26/04 · 16:00",
+      "pubDate": "Sun, 26 Apr 2026 13:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians monitora Ryan Roberto, mas adota cautela e aguarda mercado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-ryan-roberto-mas-adota-cautela-e-aguarda-mercado]]>",
+      "time": "26/04 · 15:52",
+      "pubDate": "Sun, 26 Apr 2026 12:52:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca sair da zona de rebaixamento em partida contra o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531770/corinthians-busca-sair-da-zona-de-rebaixamento-em-partida-contra-o-vasco",
+      "time": "26/04 · 15:35",
+      "pubDate": "Sun, 26 Apr 2026 12:35:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -11,76 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 26 Apr 2026 09:29:51 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o São Paulo pelas quartas de final do Brasileiro Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531750/corinthians-recebe-o-sao-paulo-pelas-quartas-de-final-do-brasileiro-feminino-sub-20",
-      "time": "26/04 · 12:04",
-      "pubDate": "Sun, 26 Apr 2026 09:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Vasco da Gama pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531744/saiba-onde-assistir-a-partida-entre-corinthians-e-vasco-da-gama-pelo-brasileirao",
-      "time": "26/04 · 11:30",
-      "pubDate": "Sun, 26 Apr 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Unifacisa para desempatar série nos playoffs do NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531746/corinthians-enfrenta-o-unifacisa-para-desempatar-serie-nos-playoffs-do-nbb-saiba-tudo",
-      "time": "26/04 · 11:00",
-      "pubDate": "Sun, 26 Apr 2026 08:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: mudanças na escalação, desabafo de Piccinato e atualização no DM",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531751/ultimas-do-corinthians-mudancas-na-escalacao-desabafo-de-piccinato-e-atualizacao-no-dm",
-      "time": "26/04 · 10:30",
-      "pubDate": "Sun, 26 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Vasco da Gama em busca de voltar a vencer no Brasileirão; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531742/corinthians-recebe-o-vasco-da-gama-em-busca-de-voltar-a-vencer-no-brasileirao-saiba-tudo",
-      "time": "26/04 · 03:01",
-      "pubDate": "Sun, 26 Apr 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Nicole valoriza concorrência com Lelê pela titularidade no gol do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531721/nicole-valoriza-concorrencia-com-lele-pela-titularidade-no-gol-do-corinthians",
-      "time": "26/04 · 01:30",
-      "pubDate": "Sat, 25 Apr 2026 22:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Helitão entra na mira do Botafogo e aumenta concorrência com Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/helitao-entra-na-mira-do-botafogo-e-aumenta-concorrencia-com-corinthians]]>",
       "time": "26/04 · 00:44",
       "pubDate": "Sat, 25 Apr 2026 21:44:17 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinadora do Corinthians avalia atuação contra a Ferroviária e destaca pouco tempo de preparação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531729/treinadora-do-corinthians-avalia-atuacao-contra-a-ferroviaria-e-destaca-pouco-tempo-de-preparacao",
-      "time": "26/04 · 00:33",
-      "pubDate": "Sat, 25 Apr 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Troca no comando e nova conquista: Corinthians volta a encarar o Vasco após título da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531705/troca-no-comando-e-nova-conquista-corinthians-volta-a-encarar-o-vasco-apos-titulo-da-copa-do-brasil",
-      "time": "25/04 · 23:35",
-      "pubDate": "Sat, 25 Apr 2026 20:35:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-avalia-elenco-e-corinthians-planeja-reforcos-pontuais]]>",
       "time": "25/04 · 19:54",
       "pubDate": "Sat, 25 Apr 2026 16:54:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Torcida do Corinthians critica teste de Diniz com Carrillo na lateral-direita contra o Vasco: “Invenção”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-critica-teste-de-diniz-com-carrillo-na-lateral-direita-contra-o-vasco-invencao]]>",
-      "time": "25/04 · 17:09",
-      "pubDate": "Sat, 25 Apr 2026 14:09:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Escalação do Corinthians: Lingard e Yuri Alberto é a dupla de ataque para enfrentar o Vasco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-lingard-e-yuri-alberto-e-a-dupla-de-ataque-para-enfrentar-o-vasco]]>",
-      "time": "25/04 · 16:29",
-      "pubDate": "Sat, 25 Apr 2026 13:29:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Cicinho dá palpite polêmico e crava tropeço do Corinthians contra o Vasco em Itaquera",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cicinho-da-palpite-polemico-e-crava-tropeco-do-corinthians-contra-o-vasco-em-itaquera]]>",
-      "time": "25/04 · 14:35",
-      "pubDate": "Sat, 25 Apr 2026 11:35:31 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Técnica do Corinthians explica 'geladeira' em Jhonson e celebra gol da atacante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531730/tecnica-do-corinthians-explica-geladeira-em-jhonson-e-celebra-gol-da-atacante",
+      "pubDate": "Sun, 26 Apr 2026 14:05:00 -0300",
+      "date": "26/04 · 17:05"
+    },
+    {
+      "title": "Corinthians homenageia jogadores históricos no Dia do Goleiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531778/corinthians-homenageia-jogadores-historicos-no-dia-do-goleiro",
+      "pubDate": "Sun, 26 Apr 2026 13:05:00 -0300",
+      "date": "26/04 · 16:05"
+    },
+    {
+      "title": "Goleira do Corinthians avalia bom momento no Brasileirão Feminino e destaca sequência positiva",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531722/goleira-do-corinthians-avalia-bom-momento-no-brasileirao-feminino-e-destaca-sequencia-positiva",
+      "pubDate": "Sun, 26 Apr 2026 10:32:00 -0300",
+      "date": "26/04 · 13:32"
+    },
+    {
       "title": "Saiba onde assistir à partida entre Corinthians e Vasco da Gama pelo Brasileirão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531744/saiba-onde-assistir-a-partida-entre-corinthians-e-vasco-da-gama-pelo-brasileirao",
       "pubDate": "Sun, 26 Apr 2026 08:30:00 -0300",
@@ -216,24 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531754/corinthians-goleia-vasco-na-copa-lnf-e-avanca-para-as-oitavas-de-final",
       "pubDate": "Sat, 25 Apr 2026 20:33:00 -0300",
       "date": "25/04 · 23:33"
-    },
-    {
-      "title": "Goleira do Corinthians valoriza vitória no clássico e destaca evolução com nova treinadora",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531720/goleira-do-corinthians-valoriza-vitoria-no-classico-e-destaca-evolucao-com-nova-treinadora",
-      "pubDate": "Sat, 25 Apr 2026 15:32:00 -0300",
-      "date": "25/04 · 18:32"
-    },
-    {
-      "title": "Corinthians busca igualar sequência sem sofrer gols que não ocorre desde 2015",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531702/corinthians-busca-igualar-sequencia-sem-sofrer-gols-que-nao-ocorre-desde-2015",
-      "pubDate": "Sat, 25 Apr 2026 12:34:00 -0300",
-      "date": "25/04 · 15:34"
-    },
-    {
-      "title": "VÍDEO: Corinthians x Vasco: provável escalação do Timão no Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127353/corinthians-x-vasco-provavel-escalacao-do-timao-no-brasileirao-2026",
-      "pubDate": "Sat, 25 Apr 2026 09:30:39 -0300",
-      "date": "25/04 · 12:30"
     }
   ]
 };
