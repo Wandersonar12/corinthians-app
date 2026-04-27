@@ -1,7 +1,55 @@
-// Gerado automaticamente em 27/04/2026, 10:02:21
+// Gerado automaticamente em 27/04/2026, 13:11:56
 const LIVE_DATA = {
-  "updatedAt": "2026-04-27T10:02:21.968Z",
+  "updatedAt": "2026-04-27T13:11:56.112Z",
   "news": [
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu é o nome do Corinthians em vitória sobre o Vasco pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-e-o-nome-do-corinthians-em-vitoria-sobre-o-vasco-pelo-brasileirao]]>",
+      "time": "27/04 · 12:55",
+      "pubDate": "Mon, 27 Apr 2026 09:55:37 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians pode sofrer novo transfer ban se não quitar dívida por Garro nesta semana",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-sofrer-novo-transfer-ban-se-nao-quitar-divida-por-garro-nesta-semana]]>",
+      "time": "27/04 · 12:48",
+      "pubDate": "Mon, 27 Apr 2026 09:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encara semana decisiva na Libertadores e jogo fora de casa no Brasileirão; veja a agenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531857/corinthians-encara-semana-decisiva-na-libertadores-e-jogo-fora-de-casa-no-brasileirao-veja-a-agenda",
+      "time": "27/04 · 12:31",
+      "pubDate": "Mon, 27 Apr 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians abre semana decisiva para quitar dívida de R$ 42 milhões por Garro e evitar transfer ban",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531783/corinthians-abre-semana-decisiva-para-quitar-divida-de-r-42-milhoes-por-garro-e-evitar-transfer-ban",
+      "time": "27/04 · 11:30",
+      "pubDate": "Mon, 27 Apr 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele improvisado provoca reação de Matheuzinho no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-improvisado-provoca-reacao-de-matheuzinho-no-corinthians]]>",
+      "time": "27/04 · 10:33",
+      "pubDate": "Mon, 27 Apr 2026 07:33:05 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: vitória sobre o Vasco, avanço com a Caixa e pedido de expulsão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531850/ultimas-do-corinthians-vitoria-sobre-o-vasco-avanco-com-a-caixa-e-pedido-de-expulsao",
+      "time": "27/04 · 10:30",
+      "pubDate": "Mon, 27 Apr 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -41,30 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531832/diniz-analisa-vitoria-do-corinthians-sobre-o-vasco-e-lamenta-expulsao-de-volante-no-primeiro-tempo",
       "time": "27/04 · 00:00",
       "pubDate": "Sun, 26 Apr 2026 21:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Defesa se destaca e lateral improvisado é eleito o craque da vitória do Corinthians sobre o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531840/defesa-se-destaca-e-lateral-improvisado-e-eleito-o-craque-da-vitoria-do-corinthians-sobre-o-vasco",
-      "time": "26/04 · 23:57",
-      "pubDate": "Sun, 26 Apr 2026 20:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians avança em conversas com a Caixa e estabelece prazo para naming rights da Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531830/corinthians-avanca-em-conversas-com-a-caixa-e-estabelece-prazo-para-naming-rights-da-arena",
-      "time": "26/04 · 23:52",
-      "pubDate": "Sun, 26 Apr 2026 20:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encaminha novo acordo com administradora do estacionamento da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531831/corinthians-encaminha-novo-acordo-com-administradora-do-estacionamento-da-neo-quimica-arena",
-      "time": "26/04 · 23:40",
-      "pubDate": "Sun, 26 Apr 2026 20:40:14 -0300"
     },
     {
       "source": "Bolavip",
@@ -107,92 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Sun, 26 Apr 2026 16:11:58 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Torcida do Corinthians rejeita Vitinho contra o Vasco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-rejeita-vitinho-contra-o-vasco]]>",
-      "time": "26/04 · 16:29",
-      "pubDate": "Sun, 26 Apr 2026 13:29:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians monitora Ryan Roberto, mas adota cautela e aguarda mercado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-ryan-roberto-mas-adota-cautela-e-aguarda-mercado]]>",
-      "time": "26/04 · 15:52",
-      "pubDate": "Sun, 26 Apr 2026 12:52:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz traça plano para Bidon virar peça-chave e fazer ataque do Corinthians voltar a funcionar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-traca-plano-para-bidon-virar-peca-chave-para-fazer-ataque-do-corinthians-voltar-a-funcionar]]>",
-      "time": "26/04 · 12:29",
-      "pubDate": "Sun, 26 Apr 2026 09:29:51 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
+      "time": "21/04 · 02:02",
+      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Memphis decepciona em nova função no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
-      "time": "02/03 · 10:00",
-      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
+      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
+      "time": "20/04 · 23:00",
+      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
-      "time": "02/03 · 09:00",
-      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
+      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 22:31",
+      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
-      "time": "02/03 · 08:00",
-      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
+      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
+      "time": "20/04 · 20:30",
+      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
-      "time": "02/03 · 01:05",
-      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
+      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 19:00",
+      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
-      "time": "02/03 · 00:27",
-      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 18:55",
+      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians: conheça os números da equipe na temporada 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
-      "time": "01/03 · 17:29",
-      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
+      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
+      "time": "20/04 · 15:21",
+      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
-      "time": "01/03 · 12:25",
-      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
-      "time": "01/03 · 11:00",
-      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
+      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
+      "time": "20/04 · 10:00",
+      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
     }
   ],
   "upcoming": [],
@@ -228,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531809/pedido-para-ancelotti-e-goleiro-encantando-fiel-repercute-vitoria-do-corinthians-sobre-o-vasco",
       "pubDate": "Sun, 26 Apr 2026 18:22:00 -0300",
       "date": "26/04 · 21:22"
-    },
-    {
-      "title": "Técnica do Corinthians explica 'geladeira' em Jhonson e celebra gol da atacante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531730/tecnica-do-corinthians-explica-geladeira-em-jhonson-e-celebra-gol-da-atacante",
-      "pubDate": "Sun, 26 Apr 2026 14:05:00 -0300",
-      "date": "26/04 · 17:05"
     }
   ]
 };
