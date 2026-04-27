@@ -1,7 +1,111 @@
-// Gerado automaticamente em 27/04/2026, 13:11:56
+// Gerado automaticamente em 27/04/2026, 19:02:15
 const LIVE_DATA = {
-  "updatedAt": "2026-04-27T13:11:56.112Z",
+  "updatedAt": "2026-04-27T19:02:15.553Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz emplaca no Corinthians melhor início de trabalho de sua carreira como treinador",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531867/diniz-emplaca-no-corinthians-melhor-inicio-de-trabalho-de-sua-carreira-como-treinador-veja-numeros",
+      "time": "27/04 · 18:33",
+      "pubDate": "Mon, 27 Apr 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz dá ‘puxão de orelha’, mas Corinthians decide não aplicar nova multa a André",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-da-puxao-de-orelha-mas-corinthians-decide-nao-aplicar-nova-multa-a-andre]]>",
+      "time": "27/04 · 18:32",
+      "pubDate": "Mon, 27 Apr 2026 15:32:17 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele se destaca improvisado na lateral-direita e ajuda Corinthians a vencer o Vasco no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-se-destaca-improvisado-na-lateral-direita-e-ajuda-corinthians-a-vencer-o-vasco-no-brasileirao]]>",
+      "time": "27/04 · 17:38",
+      "pubDate": "Mon, 27 Apr 2026 14:38:09 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians detalha decisão de Diniz e comenta atuação improvisada contra o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531862/volante-do-corinthians-detalha-decisao-de-diniz-e-comenta-atuacao-improvisada-contra-o-vasco",
+      "time": "27/04 · 17:37",
+      "pubDate": "Mon, 27 Apr 2026 14:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Reforço do Corinthians estreia com gol decisivo contra o São Paulo no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531845/reforco-do-corinthians-estreia-com-gol-decisivo-contra-o-sao-paulo-no-sub-20",
+      "time": "27/04 · 17:02",
+      "pubDate": "Mon, 27 Apr 2026 14:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral entra no pódio da artilharia do Corinthians em 2026 após gol marcado contra o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531815/lateral-entra-no-podio-da-artilharia-do-corinthians-em-2026-apos-gol-marcado-contra-o-vasco",
+      "time": "27/04 · 16:32",
+      "pubDate": "Mon, 27 Apr 2026 13:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz revela ajuda para Memphis permanecer no Corinthians: “ele é uma pessoa diferente”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-revela-ajuda-para-memphis-permanecer-no-corinthians-ele-e-uma-pessoa-diferente]]>",
+      "time": "27/04 · 16:28",
+      "pubDate": "Mon, 27 Apr 2026 13:28:41 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz reforça interesse em contar com Memphis Depay por mais tempo no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531838/fernando-diniz-reforca-interesse-em-contar-com-memphis-depay-por-mais-tempo-no-corinthians",
+      "time": "27/04 · 15:36",
+      "pubDate": "Mon, 27 Apr 2026 12:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Kauê iguala recorde de defesas de um goleiro do Corinthians na atual temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531817/kaue-iguala-recorde-de-defesas-de-um-goleiro-do-corinthians-na-atual-temporada",
+      "time": "27/04 · 14:32",
+      "pubDate": "Mon, 27 Apr 2026 11:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele improvisado provoca reação de Matheuzinho no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-improvisado-provoca-reacao-de-matheuzinho-no-corinthians]]>",
+      "time": "27/04 · 13:45",
+      "pubDate": "Mon, 27 Apr 2026 10:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Treinadora do Corinthians comenta sobre atuação de Day Rodríguez e projeta futuro da volante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531731/treinadora-do-corinthians-comenta-sobre-atuacao-de-day-rodriguez-e-projeta-futuro-da-volante",
+      "time": "27/04 · 13:35",
+      "pubDate": "Mon, 27 Apr 2026 10:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Thiago Mendes aponta favorecimento da arbitragem ao Corinthians: “Não sei se era pressão da torcida”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/thiago-mendes-aponta-favorecimento-da-arbitragem-ao-corinthians-nao-sei-se-era-pressao-da-torcida]]>",
+      "time": "27/04 · 13:28",
+      "pubDate": "Mon, 27 Apr 2026 10:28:55 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Kaká se rende a volante do Corinthians nas redes sociais: 'Craque'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531866/kaka-se-rende-a-volante-do-corinthians-nas-redes-sociais-craque",
+      "time": "27/04 · 13:13",
+      "pubDate": "Mon, 27 Apr 2026 10:13:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -19,78 +123,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 27 Apr 2026 09:48:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encara semana decisiva na Libertadores e jogo fora de casa no Brasileirão; veja a agenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531857/corinthians-encara-semana-decisiva-na-libertadores-e-jogo-fora-de-casa-no-brasileirao-veja-a-agenda",
-      "time": "27/04 · 12:31",
-      "pubDate": "Mon, 27 Apr 2026 09:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre semana decisiva para quitar dívida de R$ 42 milhões por Garro e evitar transfer ban",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531783/corinthians-abre-semana-decisiva-para-quitar-divida-de-r-42-milhoes-por-garro-e-evitar-transfer-ban",
-      "time": "27/04 · 11:30",
-      "pubDate": "Mon, 27 Apr 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Raniele improvisado provoca reação de Matheuzinho no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-improvisado-provoca-reacao-de-matheuzinho-no-corinthians]]>",
-      "time": "27/04 · 10:33",
-      "pubDate": "Mon, 27 Apr 2026 07:33:05 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória sobre o Vasco, avanço com a Caixa e pedido de expulsão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531850/ultimas-do-corinthians-vitoria-sobre-o-vasco-avanco-com-a-caixa-e-pedido-de-expulsao",
-      "time": "27/04 · 10:30",
-      "pubDate": "Mon, 27 Apr 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians deixa a zona de rebaixamento do Brasileirão após vitória sobre o Vasco; veja tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531847/corinthians-deixa-a-zona-de-rebaixamento-do-brasileirao-apos-vitoria-sobre-o-vasco-veja-tabela",
-      "time": "27/04 · 01:28",
-      "pubDate": "Sun, 26 Apr 2026 22:28:41 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians engata sequência de vitórias na Neo Química Arena pela primeira vez no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531803/corinthians-engata-sequencia-de-vitorias-na-neo-quimica-arena-pela-primeira-vez-no-ano",
-      "time": "27/04 · 01:02",
-      "pubDate": "Sun, 26 Apr 2026 22:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante improvisado na lateral tem boa atuação e é líder de duelos vencidos em Corinthians e Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531819/volante-improvisado-na-lateral-tem-boa-atuacao-e-e-lider-de-duelos-vencidos-em-corinthians-e-vasco",
-      "time": "27/04 · 00:31",
-      "pubDate": "Sun, 26 Apr 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians atualiza situação de lesionados e descarta Memphis contra o Peñarol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531829/tecnico-do-corinthians-atualiza-situacao-de-lesionados-e-descarta-memphis-contra-o-penarol",
-      "time": "27/04 · 00:02",
-      "pubDate": "Sun, 26 Apr 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz analisa vitória do Corinthians sobre o Vasco e lamenta expulsão de volante no primeiro tempo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531832/diniz-analisa-vitoria-do-corinthians-sobre-o-vasco-e-lamenta-expulsao-de-volante-no-primeiro-tempo",
-      "time": "27/04 · 00:00",
-      "pubDate": "Sun, 26 Apr 2026 21:00:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Expulsão de André em Corinthians x Vasco é considerada correta por PC de Oliveira",
@@ -99,106 +131,92 @@ const LIVE_DATA = {
       "pubDate": "Sun, 26 Apr 2026 19:33:32 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Expulsão complica, mas estratégia de Diniz funciona e Corinthians vence o Vasco em casa pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/estrategia-de-fdiniz-funciona-e-corinthians-vence-mesmo-com-expulsao]]>",
-      "time": "26/04 · 21:25",
-      "pubDate": "Sun, 26 Apr 2026 18:25:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Bidu brilha, Corinthians vence o Vasco e escapa do Z4 do Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-brilha-corinthians-vence-o-vasco-e-escapa-do-z4]]>",
-      "time": "26/04 · 21:07",
-      "pubDate": "Sun, 26 Apr 2026 18:07:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gustavo Henrique leva terceiro amarelo contra o Vasco e desfalca o Corinthians contra o Mirassol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-leva-terceiro-amarelo-contra-o-vasco-e-desfalca-o-corinthians-contra-o-mirassol]]>",
-      "time": "26/04 · 19:59",
-      "pubDate": "Sun, 26 Apr 2026 16:59:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians enfrenta o Vasco pelo Brasileirão com pendurados, incluindo Garro e Gustavo Henrique",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-o-vasco-pelo-brasileirao-com-pendurados-incluindo-garro-e-gustavo-henrique]]>",
-      "time": "26/04 · 19:11",
-      "pubDate": "Sun, 26 Apr 2026 16:11:58 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Garro se diz preocupado com Z4, mas confia em reação do Corinthians: &#8220;Vamos acabar lá em cima&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-se-diz-preocupado-com-z4-mas-confia-em-reacao-do-corinthians-vamos-acabar-la-em-cima/",
+      "time": "19/04 · 10:00",
+      "pubDate": "Sun, 19 Apr 2026 10:00:16 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
-      "time": "21/04 · 02:02",
-      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
+      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate contra o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-vitoria/",
+      "time": "19/04 · 09:00",
+      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
-      "time": "20/04 · 23:00",
-      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
+      "title": "Análise: Corinthians volta a ser inofensivo e precisa ligar alerta no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-volta-a-ser-inofensivo-e-precisa-ligar-alerta-no-brasileiro/",
+      "time": "19/04 · 08:00",
+      "pubDate": "Sun, 19 Apr 2026 08:00:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 22:31",
-      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
+      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
+      "time": "19/04 · 02:11",
+      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
-      "time": "20/04 · 20:30",
-      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
+      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
+      "time": "19/04 · 01:24",
+      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 19:00",
-      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
+      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
+      "time": "19/04 · 01:14",
+      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 18:55",
-      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
+      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
+      "time": "19/04 · 01:01",
+      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
-      "time": "20/04 · 15:21",
-      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
-      "time": "20/04 · 10:00",
-      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
+      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
+      "time": "18/04 · 22:02",
+      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Reforço do Corinthians estreia com gol decisivo contra o São Paulo no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531845/reforco-do-corinthians-estreia-com-gol-decisivo-contra-o-sao-paulo-no-sub-20",
+      "pubDate": "Mon, 27 Apr 2026 14:02:00 -0300",
+      "date": "27/04 · 17:02"
+    },
+    {
+      "title": "Lateral entra no pódio da artilharia do Corinthians em 2026 após gol marcado contra o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531815/lateral-entra-no-podio-da-artilharia-do-corinthians-em-2026-apos-gol-marcado-contra-o-vasco",
+      "pubDate": "Mon, 27 Apr 2026 13:32:00 -0300",
+      "date": "27/04 · 16:32"
+    },
+    {
+      "title": "Kauê iguala recorde de defesas de um goleiro do Corinthians na atual temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531817/kaue-iguala-recorde-de-defesas-de-um-goleiro-do-corinthians-na-atual-temporada",
+      "pubDate": "Mon, 27 Apr 2026 11:32:00 -0300",
+      "date": "27/04 · 14:32"
+    },
     {
       "title": "VÍDEO: Fernando Diniz elogia Raniele, enaltece Memphis e avalia 6 jogos sem tomar gol no Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127383/fernando-diniz-elogia-raniele-enaltece-memphis-e-avalia-6-jogos-sem-tomar-gol-no-corinthians",
@@ -222,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127369/melhores-momentos-corinthians-1x0-vasco-13-rodada-brasileirao-2026",
       "pubDate": "Sun, 26 Apr 2026 18:26:12 -0300",
       "date": "26/04 · 21:26"
-    },
-    {
-      "title": "Pedido para Ancelotti e goleiro encantando: Fiel repercute vitória do Corinthians sobre o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531809/pedido-para-ancelotti-e-goleiro-encantando-fiel-repercute-vitoria-do-corinthians-sobre-o-vasco",
-      "pubDate": "Sun, 26 Apr 2026 18:22:00 -0300",
-      "date": "26/04 · 21:22"
     }
   ]
 };
