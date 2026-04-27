@@ -1,14 +1,86 @@
-// Gerado automaticamente em 27/04/2026, 19:02:15
+// Gerado automaticamente em 27/04/2026, 22:38:25
 const LIVE_DATA = {
-  "updatedAt": "2026-04-27T19:02:15.553Z",
+  "updatedAt": "2026-04-27T22:38:25.892Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz emplaca no Corinthians melhor início de trabalho de sua carreira como treinador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531867/diniz-emplaca-no-corinthians-melhor-inicio-de-trabalho-de-sua-carreira-como-treinador-veja-numeros",
-      "time": "27/04 · 18:33",
-      "pubDate": "Mon, 27 Apr 2026 15:33:00 -0300"
+      "title": "Meia do Corinthians fica perto de igualar o número de assistências de 2025 após passe contra o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531816/meia-do-corinthians-fica-perto-de-igualar-o-numero-de-assistencias-de-2025-apos-passe-contra-o-vasco",
+      "time": "27/04 · 22:31",
+      "pubDate": "Mon, 27 Apr 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians conversa com duas empresas para a renovação de Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-conversa-com-duas-empresas-para-a-renovacao-de-memphis-depay]]>",
+      "time": "27/04 · 22:29",
+      "pubDate": "Mon, 27 Apr 2026 19:29:12 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Secretario do Cori analisa contas do Corinthians e cita 'irresponsabilidade' em negócio com Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531893/secretario-do-cori-analisa-contas-do-corinthians-e-cita-irresponsabilidade-em-negocio-com-memphis",
+      "time": "27/04 · 22:15",
+      "pubDate": "Mon, 27 Apr 2026 19:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz comenta lesão de atacante e destaca acompanhamento diário no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531836/fernando-diniz-comenta-lesao-de-atacante-e-destaca-acompanhamento-diario-no-corinthians",
+      "time": "27/04 · 22:00",
+      "pubDate": "Mon, 27 Apr 2026 19:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians lamenta nova expulsão de André e demonstra apoio ao jovem: 'Estamos com você'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531863/volante-do-corinthians-lamenta-nova-expulsao-de-andre-e-demonstra-apoio-ao-jovem-estamos-com-voce",
+      "time": "27/04 · 21:32",
+      "pubDate": "Mon, 27 Apr 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para duelo decisivo contra o Unifacisa pelos playoffs do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531885/corinthians-inicia-venda-de-ingressos-para-duelo-decisivo-contra-o-unifacisa-pelos-playoffs-do-nbb",
+      "time": "27/04 · 21:01",
+      "pubDate": "Mon, 27 Apr 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians entra em lista de expulsos duas vezes em uma mesma edição de Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531820/volante-do-corinthians-entra-em-lista-de-expulsos-duas-vezes-em-uma-mesma-edicao-de-brasileirao",
+      "time": "27/04 · 20:32",
+      "pubDate": "Mon, 27 Apr 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia preparação para enfrentar o Grêmio no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531891/corinthians-inicia-preparacao-para-enfrentar-o-gremio-no-brasileirao-feminino",
+      "time": "27/04 · 20:31",
+      "pubDate": "Mon, 27 Apr 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Flamengo abre brecha para rescisão e Corinthians vê chance real de contratar Cebolinha em julho, diz setorista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/flamengo-abre-brecha-para-rescisao-e-corinthians-ve-chance-real-de-contratar-cebolinha-em-julho-diz-setorista]]>",
+      "time": "27/04 · 20:11",
+      "pubDate": "Mon, 27 Apr 2026 17:11:48 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia-atacante do Corinthians elogia a Fiel e projeta confronto contra Neymar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531871/meia-atacante-do-corinthians-elogia-a-fiel-e-projeta-confronto-contra-neymar",
+      "time": "27/04 · 20:03",
+      "pubDate": "Mon, 27 Apr 2026 17:03:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -27,30 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 27 Apr 2026 14:38:09 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians detalha decisão de Diniz e comenta atuação improvisada contra o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531862/volante-do-corinthians-detalha-decisao-de-diniz-e-comenta-atuacao-improvisada-contra-o-vasco",
-      "time": "27/04 · 17:37",
-      "pubDate": "Mon, 27 Apr 2026 14:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Reforço do Corinthians estreia com gol decisivo contra o São Paulo no Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531845/reforco-do-corinthians-estreia-com-gol-decisivo-contra-o-sao-paulo-no-sub-20",
-      "time": "27/04 · 17:02",
-      "pubDate": "Mon, 27 Apr 2026 14:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral entra no pódio da artilharia do Corinthians em 2026 após gol marcado contra o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531815/lateral-entra-no-podio-da-artilharia-do-corinthians-em-2026-apos-gol-marcado-contra-o-vasco",
-      "time": "27/04 · 16:32",
-      "pubDate": "Mon, 27 Apr 2026 13:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz revela ajuda para Memphis permanecer no Corinthians: “ele é uma pessoa diferente”",
@@ -59,52 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 27 Apr 2026 13:28:41 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz reforça interesse em contar com Memphis Depay por mais tempo no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531838/fernando-diniz-reforca-interesse-em-contar-com-memphis-depay-por-mais-tempo-no-corinthians",
-      "time": "27/04 · 15:36",
-      "pubDate": "Mon, 27 Apr 2026 12:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kauê iguala recorde de defesas de um goleiro do Corinthians na atual temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531817/kaue-iguala-recorde-de-defesas-de-um-goleiro-do-corinthians-na-atual-temporada",
-      "time": "27/04 · 14:32",
-      "pubDate": "Mon, 27 Apr 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Raniele improvisado provoca reação de Matheuzinho no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-improvisado-provoca-reacao-de-matheuzinho-no-corinthians]]>",
-      "time": "27/04 · 13:45",
-      "pubDate": "Mon, 27 Apr 2026 10:45:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinadora do Corinthians comenta sobre atuação de Day Rodríguez e projeta futuro da volante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531731/treinadora-do-corinthians-comenta-sobre-atuacao-de-day-rodriguez-e-projeta-futuro-da-volante",
-      "time": "27/04 · 13:35",
-      "pubDate": "Mon, 27 Apr 2026 10:35:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Thiago Mendes aponta favorecimento da arbitragem ao Corinthians: “Não sei se era pressão da torcida”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/thiago-mendes-aponta-favorecimento-da-arbitragem-ao-corinthians-nao-sei-se-era-pressao-da-torcida]]>",
       "time": "27/04 · 13:28",
       "pubDate": "Mon, 27 Apr 2026 10:28:55 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaká se rende a volante do Corinthians nas redes sociais: 'Craque'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531866/kaka-se-rende-a-volante-do-corinthians-nas-redes-sociais-craque",
-      "time": "27/04 · 13:13",
-      "pubDate": "Mon, 27 Apr 2026 10:13:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-sofrer-novo-transfer-ban-se-nao-quitar-divida-por-garro-nesta-semana]]>",
       "time": "27/04 · 12:48",
       "pubDate": "Mon, 27 Apr 2026 09:48:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Expulsão de André em Corinthians x Vasco é considerada correta por PC de Oliveira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/expulsao-de-andre-em-corinthians-x-vasco-e-considerada-correta-por-pc-de-oliveira]]>",
-      "time": "26/04 · 22:33",
-      "pubDate": "Sun, 26 Apr 2026 19:33:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Matheus Bidu celebra gol e destaca atuação do Corinthians mesmo com jogador expulso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531860/matheus-bidu-celebra-gol-e-destaca-atuacao-do-corinthians-mesmo-com-jogador-expulso",
+      "pubDate": "Mon, 27 Apr 2026 16:33:00 -0300",
+      "date": "27/04 · 19:33"
+    },
+    {
       "title": "Reforço do Corinthians estreia com gol decisivo contra o São Paulo no Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531845/reforco-do-corinthians-estreia-com-gol-decisivo-contra-o-sao-paulo-no-sub-20",
       "pubDate": "Mon, 27 Apr 2026 14:02:00 -0300",
@@ -222,24 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127383/fernando-diniz-elogia-raniele-enaltece-memphis-e-avalia-6-jogos-sem-tomar-gol-no-corinthians",
       "pubDate": "Sun, 26 Apr 2026 20:15:10 -0300",
       "date": "26/04 · 23:15"
-    },
-    {
-      "title": "VÍDEO: Raniele revela papo de Garro com André sobre expulsão e avalia bom jogo como lateral do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127382/raniele-revela-papo-de-garro-com-andre-sobre-expulsao-e-avalia-bom-jogo-como-lateral-do-corinthians",
-      "pubDate": "Sun, 26 Apr 2026 19:56:11 -0300",
-      "date": "26/04 · 22:56"
-    },
-    {
-      "title": "VÍDEO: M. Bidu exalta golaço, vitória com um a menos e destaca retrospecto positivo do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127379/m-bidu-exalta-golaco-vitoria-com-um-a-menos-e-destaca-retrospecto-positivo-do-corinthians",
-      "pubDate": "Sun, 26 Apr 2026 19:52:52 -0300",
-      "date": "26/04 · 22:52"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: Corinthians 1x0 Vasco | 13ª rodada | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127369/melhores-momentos-corinthians-1x0-vasco-13-rodada-brasileirao-2026",
-      "pubDate": "Sun, 26 Apr 2026 18:26:12 -0300",
-      "date": "26/04 · 21:26"
     }
   ]
 };
