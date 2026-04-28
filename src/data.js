@@ -1,14 +1,70 @@
-// Gerado automaticamente em 27/04/2026, 22:38:25
+// Gerado automaticamente em 28/04/2026, 10:03:54
 const LIVE_DATA = {
-  "updatedAt": "2026-04-27T22:38:25.892Z",
+  "updatedAt": "2026-04-28T10:03:54.551Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians fica perto de igualar o número de assistências de 2025 após passe contra o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531816/meia-do-corinthians-fica-perto-de-igualar-o-numero-de-assistencias-de-2025-apos-passe-contra-o-vasco",
-      "time": "27/04 · 22:31",
-      "pubDate": "Mon, 27 Apr 2026 19:31:00 -0300"
+      "title": "VÍDEO: Osmar Stábile abre o jogo sobre renovação de Memphis e comenta a aprovação de contas do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127429/osmar-stabile-abre-o-jogo-sobre-renovacao-de-memphis-e-comenta-a-aprovacao-de-contas-do-corinthians",
+      "time": "28/04 · 02:09",
+      "pubDate": "Mon, 27 Apr 2026 23:09:12 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Conselheiro do Corinthians, Rubão fala sobre o seu voto na aprovação das contas do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127426/conselheiro-do-corinthians-rubao-fala-sobre-o-seu-voto-na-aprovacao-das-contas-do-corinthians",
+      "time": "28/04 · 02:04",
+      "pubDate": "Mon, 27 Apr 2026 23:04:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians termina a rodada do Brasileirão Feminino na liderança isolada; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531902/corinthians-termina-a-rodada-do-brasileirao-feminino-na-lideranca-isolada-veja-a-tabela",
+      "time": "28/04 · 01:43",
+      "pubDate": "Mon, 27 Apr 2026 22:43:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: É uma vergonha!' Conselheiro do Corinthians desabafa sobre reunião que aprovou as contas de 2025",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127423/e-uma-vergonha-conselheiro-do-corinthians-desabafa-sobre-reuniao-que-aprovou-as-contas-de-2025",
+      "time": "28/04 · 01:41",
+      "pubDate": "Mon, 27 Apr 2026 22:41:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz pondera sobre punição imposta ao Corinthians pelo STJD por injúria racial ocorrida no Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531837/diniz-pondera-sobre-punicao-imposta-ao-corinthians-pelo-stjd-por-injuria-racial-ocorrida-no-derbi",
+      "time": "28/04 · 01:30",
+      "pubDate": "Mon, 27 Apr 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pivô entra no top-3 e jovem aparece na lista de artilheiros do futsal do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531881/pivo-entra-no-top-3-e-jovem-aparece-na-lista-de-artilheiros-do-futsal-do-corinthians-em-2026",
+      "time": "28/04 · 01:04",
+      "pubDate": "Mon, 27 Apr 2026 22:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselho Deliberativo aprova as contas do Corinthians referentes a 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531834/conselho-deliberativo-aprova-as-contas-do-corinthians-referentes-a-2025",
+      "time": "28/04 · 00:35",
+      "pubDate": "Mon, 27 Apr 2026 21:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jaqueline alcança oitava posição entre as maiores artilheiras da história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531858/jaqueline-alcanca-oitava-posicao-entre-as-maiores-artilheiras-da-historia-do-corinthians",
+      "time": "28/04 · 00:34",
+      "pubDate": "Mon, 27 Apr 2026 21:34:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -19,68 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 27 Apr 2026 19:29:12 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Secretario do Cori analisa contas do Corinthians e cita 'irresponsabilidade' em negócio com Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531893/secretario-do-cori-analisa-contas-do-corinthians-e-cita-irresponsabilidade-em-negocio-com-memphis",
-      "time": "27/04 · 22:15",
-      "pubDate": "Mon, 27 Apr 2026 19:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz comenta lesão de atacante e destaca acompanhamento diário no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531836/fernando-diniz-comenta-lesao-de-atacante-e-destaca-acompanhamento-diario-no-corinthians",
-      "time": "27/04 · 22:00",
-      "pubDate": "Mon, 27 Apr 2026 19:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians lamenta nova expulsão de André e demonstra apoio ao jovem: 'Estamos com você'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531863/volante-do-corinthians-lamenta-nova-expulsao-de-andre-e-demonstra-apoio-ao-jovem-estamos-com-voce",
-      "time": "27/04 · 21:32",
-      "pubDate": "Mon, 27 Apr 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo decisivo contra o Unifacisa pelos playoffs do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531885/corinthians-inicia-venda-de-ingressos-para-duelo-decisivo-contra-o-unifacisa-pelos-playoffs-do-nbb",
-      "time": "27/04 · 21:01",
-      "pubDate": "Mon, 27 Apr 2026 18:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians entra em lista de expulsos duas vezes em uma mesma edição de Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531820/volante-do-corinthians-entra-em-lista-de-expulsos-duas-vezes-em-uma-mesma-edicao-de-brasileirao",
-      "time": "27/04 · 20:32",
-      "pubDate": "Mon, 27 Apr 2026 17:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia preparação para enfrentar o Grêmio no Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531891/corinthians-inicia-preparacao-para-enfrentar-o-gremio-no-brasileirao-feminino",
-      "time": "27/04 · 20:31",
-      "pubDate": "Mon, 27 Apr 2026 17:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Flamengo abre brecha para rescisão e Corinthians vê chance real de contratar Cebolinha em julho, diz setorista",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/flamengo-abre-brecha-para-rescisao-e-corinthians-ve-chance-real-de-contratar-cebolinha-em-julho-diz-setorista]]>",
       "time": "27/04 · 20:11",
       "pubDate": "Mon, 27 Apr 2026 17:11:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia-atacante do Corinthians elogia a Fiel e projeta confronto contra Neymar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531871/meia-atacante-do-corinthians-elogia-a-fiel-e-projeta-confronto-contra-neymar",
-      "time": "27/04 · 20:03",
-      "pubDate": "Mon, 27 Apr 2026 17:03:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,36 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Osmar Stábile abre o jogo sobre renovação de Memphis e comenta a aprovação de contas do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127429/osmar-stabile-abre-o-jogo-sobre-renovacao-de-memphis-e-comenta-a-aprovacao-de-contas-do-corinthians",
+      "pubDate": "Mon, 27 Apr 2026 23:09:12 -0300",
+      "date": "28/04 · 02:09"
+    },
+    {
+      "title": "VÍDEO: Conselheiro do Corinthians, Rubão fala sobre o seu voto na aprovação das contas do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127426/conselheiro-do-corinthians-rubao-fala-sobre-o-seu-voto-na-aprovacao-das-contas-do-corinthians",
+      "pubDate": "Mon, 27 Apr 2026 23:04:47 -0300",
+      "date": "28/04 · 02:04"
+    },
+    {
+      "title": "VÍDEO: É uma vergonha!' Conselheiro do Corinthians desabafa sobre reunião que aprovou as contas de 2025",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127423/e-uma-vergonha-conselheiro-do-corinthians-desabafa-sobre-reuniao-que-aprovou-as-contas-de-2025",
+      "pubDate": "Mon, 27 Apr 2026 22:41:00 -0300",
+      "date": "28/04 · 01:41"
+    },
+    {
+      "title": "Jovem recém-promovido pelo Corinthians marca primeiro gol na equipe profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531884/jovem-recem-promovido-pelo-corinthians-marca-primeiro-gol-na-equipe-profissional",
+      "pubDate": "Mon, 27 Apr 2026 20:01:00 -0300",
+      "date": "27/04 · 23:01"
+    },
+    {
+      "title": "VÍDEO: Dívidas, renovação de Memphis, votação das contas: conselheiros do Corinthians falam com o Meu Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127415/dividas-renovacao-de-memphis-votacao-das-contas-conselheiros-do-corinthians-falam-com-o-meu-timao",
+      "pubDate": "Mon, 27 Apr 2026 19:36:49 -0300",
+      "date": "27/04 · 22:36"
+    },
+    {
       "title": "Matheus Bidu celebra gol e destaca atuação do Corinthians mesmo com jogador expulso",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531860/matheus-bidu-celebra-gol-e-destaca-atuacao-do-corinthians-mesmo-com-jogador-expulso",
       "pubDate": "Mon, 27 Apr 2026 16:33:00 -0300",
@@ -216,18 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531815/lateral-entra-no-podio-da-artilharia-do-corinthians-em-2026-apos-gol-marcado-contra-o-vasco",
       "pubDate": "Mon, 27 Apr 2026 13:32:00 -0300",
       "date": "27/04 · 16:32"
-    },
-    {
-      "title": "Kauê iguala recorde de defesas de um goleiro do Corinthians na atual temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531817/kaue-iguala-recorde-de-defesas-de-um-goleiro-do-corinthians-na-atual-temporada",
-      "pubDate": "Mon, 27 Apr 2026 11:32:00 -0300",
-      "date": "27/04 · 14:32"
-    },
-    {
-      "title": "VÍDEO: Fernando Diniz elogia Raniele, enaltece Memphis e avalia 6 jogos sem tomar gol no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127383/fernando-diniz-elogia-raniele-enaltece-memphis-e-avalia-6-jogos-sem-tomar-gol-no-corinthians",
-      "pubDate": "Sun, 26 Apr 2026 20:15:10 -0300",
-      "date": "26/04 · 23:15"
     }
   ]
 };
