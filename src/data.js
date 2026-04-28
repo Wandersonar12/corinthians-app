@@ -1,46 +1,70 @@
-// Gerado automaticamente em 28/04/2026, 13:21:53
+// Gerado automaticamente em 28/04/2026, 19:14:31
 const LIVE_DATA = {
-  "updatedAt": "2026-04-28T13:21:53.353Z",
+  "updatedAt": "2026-04-28T19:14:31.185Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "[Ana Paula Araújo] Corinthians denunciado e o casuísmo do Artigo 191",
-      "url": "https://www.meutimao.com.br/coluna/ana_paula_araujo/4230/corinthians-denunciado-e-o-casuismo-do-artigo-191/",
-      "time": "28/04 · 13:00",
-      "pubDate": "Tue, 28 Apr 2026 10:00:00 -0300"
+      "title": "Ex-diretor jurídico do Corinthians fala sobre seu voto pela reprovação das contas de 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531910/ex-diretor-juridico-do-corinthians-fala-sobre-seu-voto-pela-reprovacao-das-contas-de-2025",
+      "time": "28/04 · 19:01",
+      "pubDate": "Tue, 28 Apr 2026 16:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é denunciado por provocação ao Vasco e mais três infrações; André também responde",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531922/corinthians-e-denunciado-por-provocacao-ao-vasco-e-mais-tres-infracoes-andre-tambem-responde",
-      "time": "28/04 · 12:41",
-      "pubDate": "Tue, 28 Apr 2026 09:41:00 -0300"
+      "title": "Fernando Diniz valoriza preparação de goleiros das categorias de base do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531835/fernando-diniz-valoriza-preparacao-de-goleiros-das-categorias-de-base-do-corinthians",
+      "time": "28/04 · 18:30",
+      "pubDate": "Tue, 28 Apr 2026 15:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Bastidores do Corinthians têm pedido por 'energia' e desabafos após vitória sobre o Vasco da Gama",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531908/bastidores-do-corinthians-tem-pedido-por-energia-e-desabafos-apos-vitoria-sobre-o-vasco-da-gama",
-      "time": "28/04 · 12:16",
-      "pubDate": "Tue, 28 Apr 2026 09:16:00 -0300"
+      "title": "Movimento entrega ao Conselho Deliberativo pedido de expulsão de Andrés Sanchez do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531929/movimento-entrega-ao-conselho-deliberativo-pedido-de-expulsao-de-andres-sanchez-do-corinthians",
+      "time": "28/04 · 18:00",
+      "pubDate": "Tue, 28 Apr 2026 15:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians faz reunião com coordenador da base do Palmeiras em busca de retorno ao MCFFB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531897/corinthians-faz-reuniao-com-coordenador-da-base-do-palmeiras-em-busca-de-retorno-ao-mcffb-entenda",
-      "time": "28/04 · 11:30",
-      "pubDate": "Tue, 28 Apr 2026 08:30:00 -0300"
+      "title": "Corinthians afina ajustes táticos de olho em confronto contra o Grêmio pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531931/corinthians-afina-ajustes-taticos-de-olho-em-confronto-contra-o-gremio-pelo-brasileirao-feminino",
+      "time": "28/04 · 17:30",
+      "pubDate": "Tue, 28 Apr 2026 14:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: aprovação das contas, semana decisiva por Garro e Kaká rendido",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531903/ultimas-do-corinthians-aprovacao-das-contas-semana-decisiva-por-garro-e-kaka-rendido",
-      "time": "28/04 · 10:30",
-      "pubDate": "Tue, 28 Apr 2026 07:30:00 -0300"
+      "title": "Stabile rebate secretário do Cori sobre 'irresponsabilidade' em contrato de Memphis no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531920/stabile-rebate-secretario-do-cori-sobre-irresponsabilidade-em-contrato-de-memphis-no-corinthians",
+      "time": "28/04 · 16:34",
+      "pubDate": "Tue, 28 Apr 2026 13:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diretoria do Corinthians planeja revitalização da Neo Química Arena durante a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531925/diretoria-do-corinthians-planeja-revitalizacao-da-neo-quimica-arena-durante-a-copa-do-mundo",
+      "time": "28/04 · 15:29",
+      "pubDate": "Tue, 28 Apr 2026 12:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians é titular em vitória do Brasil sobre o Uruguai no Sul-Americano Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531921/dupla-do-corinthians-e-titular-em-vitoria-do-brasil-sobre-o-uruguai-no-sul-americano-sub-17",
+      "time": "28/04 · 14:21",
+      "pubDate": "Tue, 28 Apr 2026 11:21:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a ter representante para dar suporte a torcedores em jogos como visitante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531909/corinthians-volta-a-ter-representante-para-dar-suporte-a-torcedores-em-jogos-como-visitante",
+      "time": "28/04 · 13:33",
+      "pubDate": "Tue, 28 Apr 2026 10:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,30 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/craque-neto-se-revolta-com-andre-apos-nova-expulsao-no-corinthians]]>",
       "time": "28/04 · 08:53",
       "pubDate": "Tue, 28 Apr 2026 05:53:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Osmar Stábile abre o jogo sobre renovação de Memphis e comenta a aprovação de contas do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127429/osmar-stabile-abre-o-jogo-sobre-renovacao-de-memphis-e-comenta-a-aprovacao-de-contas-do-corinthians",
-      "time": "28/04 · 02:09",
-      "pubDate": "Mon, 27 Apr 2026 23:09:12 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Conselheiro do Corinthians, Rubão fala sobre o seu voto na aprovação das contas do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127426/conselheiro-do-corinthians-rubao-fala-sobre-o-seu-voto-na-aprovacao-das-contas-do-corinthians",
-      "time": "28/04 · 02:04",
-      "pubDate": "Mon, 27 Apr 2026 23:04:47 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians termina a rodada do Brasileirão Feminino na liderança isolada; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531902/corinthians-termina-a-rodada-do-brasileirao-feminino-na-lideranca-isolada-veja-a-tabela",
-      "time": "28/04 · 01:43",
-      "pubDate": "Mon, 27 Apr 2026 22:43:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -133,72 +133,78 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Memphis decepciona em nova função no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
-      "time": "02/03 · 10:00",
-      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
+      "title": "Garro se diz preocupado com Z4, mas confia em reação do Corinthians: &#8220;Vamos acabar lá em cima&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-se-diz-preocupado-com-z4-mas-confia-em-reacao-do-corinthians-vamos-acabar-la-em-cima/",
+      "time": "19/04 · 10:00",
+      "pubDate": "Sun, 19 Apr 2026 10:00:16 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
-      "time": "02/03 · 09:00",
-      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
+      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate contra o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-vitoria/",
+      "time": "19/04 · 09:00",
+      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
-      "time": "02/03 · 08:00",
-      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
+      "title": "Análise: Corinthians volta a ser inofensivo e precisa ligar alerta no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-volta-a-ser-inofensivo-e-precisa-ligar-alerta-no-brasileiro/",
+      "time": "19/04 · 08:00",
+      "pubDate": "Sun, 19 Apr 2026 08:00:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
-      "time": "02/03 · 01:05",
-      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
+      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
+      "time": "19/04 · 02:11",
+      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
-      "time": "02/03 · 00:27",
-      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
+      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
+      "time": "19/04 · 01:24",
+      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians: conheça os números da equipe na temporada 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
-      "time": "01/03 · 17:29",
-      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
+      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
+      "time": "19/04 · 01:14",
+      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
-      "time": "01/03 · 12:25",
-      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
+      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
+      "time": "19/04 · 01:01",
+      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
-      "time": "01/03 · 11:00",
-      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
+      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
+      "time": "18/04 · 22:02",
+      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Fernando Diniz valoriza preparação de goleiros das categorias de base do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531835/fernando-diniz-valoriza-preparacao-de-goleiros-das-categorias-de-base-do-corinthians",
+      "pubDate": "Tue, 28 Apr 2026 15:30:00 -0300",
+      "date": "28/04 · 18:30"
+    },
     {
       "title": "VÍDEO: Osmar Stábile abre o jogo sobre renovação de Memphis e comenta a aprovação de contas do Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127429/osmar-stabile-abre-o-jogo-sobre-renovacao-de-memphis-e-comenta-a-aprovacao-de-contas-do-corinthians",
@@ -228,12 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127415/dividas-renovacao-de-memphis-votacao-das-contas-conselheiros-do-corinthians-falam-com-o-meu-timao",
       "pubDate": "Mon, 27 Apr 2026 19:36:49 -0300",
       "date": "27/04 · 22:36"
-    },
-    {
-      "title": "Matheus Bidu celebra gol e destaca atuação do Corinthians mesmo com jogador expulso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531860/matheus-bidu-celebra-gol-e-destaca-atuacao-do-corinthians-mesmo-com-jogador-expulso",
-      "pubDate": "Mon, 27 Apr 2026 16:33:00 -0300",
-      "date": "27/04 · 19:33"
     }
   ]
 };
