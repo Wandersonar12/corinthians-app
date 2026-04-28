@@ -1,7 +1,55 @@
-// Gerado automaticamente em 28/04/2026, 19:14:31
+// Gerado automaticamente em 28/04/2026, 22:43:47
 const LIVE_DATA = {
-  "updatedAt": "2026-04-28T19:14:31.185Z",
+  "updatedAt": "2026-04-28T22:43:47.162Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians elogia início de trabalho defensivo de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531861/lateral-do-corinthians-elogia-inicio-de-trabalho-defensivo-de-fernando-diniz",
+      "time": "28/04 · 21:37",
+      "pubDate": "Tue, 28 Apr 2026 18:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians fala sobre a votação das contas de 2025 e explica transação financeira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531919/presidente-do-corinthians-fala-sobre-a-votacao-das-contas-de-2025-e-explica-transacao-financeira",
+      "time": "28/04 · 20:34",
+      "pubDate": "Tue, 28 Apr 2026 17:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Estudo do Corinthians em universidade é adiado para setembro; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531934/estudo-do-corinthians-em-universidade-e-adiado-para-setembro-entenda",
+      "time": "28/04 · 20:03",
+      "pubDate": "Tue, 28 Apr 2026 17:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians promove treino tático visando duelo da Libertadores com retornos importantes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531939/corinthians-promove-treino-tatico-visando-duelo-da-libertadores-com-retornos-importantes",
+      "time": "28/04 · 19:34",
+      "pubDate": "Tue, 28 Apr 2026 16:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Matheus Bidu lidera artilharia do Corinthians no Campeonato Brasileiro; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531889/matheus-bidu-lidera-artilharia-do-corinthians-no-campeonato-brasileiro-veja-o-ranking",
+      "time": "28/04 · 19:32",
+      "pubDate": "Tue, 28 Apr 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians confirma retorno parcial de Memphis Depay; jovem atacante realiza trabalhos com o elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531937/corinthians-confirma-retorno-parcial-de-memphis-depay-jovem-atacante-realiza-trabalhos-com-o-elenco",
+      "time": "28/04 · 19:21",
+      "pubDate": "Tue, 28 Apr 2026 16:21:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +57,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531910/ex-diretor-juridico-do-corinthians-fala-sobre-seu-voto-pela-reprovacao-das-contas-de-2025",
       "time": "28/04 · 19:01",
       "pubDate": "Tue, 28 Apr 2026 16:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem 90% dos direitos econômicos, aceita vender Breno Bidon e aguarda propostas oficiais",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-90-dos-direitos-economicos-aceita-vender-breno-bidon-e-aguarda-propostas-oficiais]]>",
+      "time": "28/04 · 18:35",
+      "pubDate": "Tue, 28 Apr 2026 15:35:21 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,52 +75,44 @@ const LIVE_DATA = {
       "pubDate": "Tue, 28 Apr 2026 15:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Movimento entrega ao Conselho Deliberativo pedido de expulsão de Andrés Sanchez do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531929/movimento-entrega-ao-conselho-deliberativo-pedido-de-expulsao-de-andres-sanchez-do-corinthians",
-      "time": "28/04 · 18:00",
-      "pubDate": "Tue, 28 Apr 2026 15:00:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Escalação do Corinthians: Diniz promove mudanças e Matheuzinho retorna contra o Peñarol",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-diniz-promove-mudancas-e-matheuzinho-retorna-contra-o-penarol]]>",
+      "time": "28/04 · 17:52",
+      "pubDate": "Tue, 28 Apr 2026 14:52:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians afina ajustes táticos de olho em confronto contra o Grêmio pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531931/corinthians-afina-ajustes-taticos-de-olho-em-confronto-contra-o-gremio-pelo-brasileirao-feminino",
-      "time": "28/04 · 17:30",
-      "pubDate": "Tue, 28 Apr 2026 14:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Claudinho descarta o Corinthians e prioriza o Flamengo no mercado da bola, crava setorista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/claudinho-descarta-corinthians-flamengo-prioridade]]>",
+      "time": "28/04 · 17:23",
+      "pubDate": "Tue, 28 Apr 2026 14:23:49 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Stabile rebate secretário do Cori sobre 'irresponsabilidade' em contrato de Memphis no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531920/stabile-rebate-secretario-do-cori-sobre-irresponsabilidade-em-contrato-de-memphis-no-corinthians",
-      "time": "28/04 · 16:34",
-      "pubDate": "Tue, 28 Apr 2026 13:34:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians: Lingard revela surpresa com invasão de torcedores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-lingard-revela-surpresa-com-invasao-de-torcedores]]>",
+      "time": "28/04 · 16:52",
+      "pubDate": "Tue, 28 Apr 2026 13:52:36 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretoria do Corinthians planeja revitalização da Neo Química Arena durante a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531925/diretoria-do-corinthians-planeja-revitalizacao-da-neo-quimica-arena-durante-a-copa-do-mundo",
-      "time": "28/04 · 15:29",
-      "pubDate": "Tue, 28 Apr 2026 12:29:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Carrillo quer renovar com o Corinthians, mas clube ainda avalia situação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/carrillo-quer-renovar-com-o-corinthians-mas-clube-ainda-avalia-situacao]]>",
+      "time": "28/04 · 15:41",
+      "pubDate": "Tue, 28 Apr 2026 12:41:22 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians é titular em vitória do Brasil sobre o Uruguai no Sul-Americano Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531921/dupla-do-corinthians-e-titular-em-vitoria-do-brasil-sobre-o-uruguai-no-sul-americano-sub-17",
-      "time": "28/04 · 14:21",
-      "pubDate": "Tue, 28 Apr 2026 11:21:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a ter representante para dar suporte a torcedores em jogos como visitante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531909/corinthians-volta-a-ter-representante-para-dar-suporte-a-torcedores-em-jogos-como-visitante",
-      "time": "28/04 · 13:33",
-      "pubDate": "Tue, 28 Apr 2026 10:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André recebe bronca no Corinthians após expulsões e reage nos bastidores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-recebe-bronca-no-corinthians-apos-expulsoes-e-reage-nos-bastidores]]>",
+      "time": "28/04 · 15:21",
+      "pubDate": "Tue, 28 Apr 2026 12:21:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -81,54 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/craque-neto-se-revolta-com-andre-apos-nova-expulsao-no-corinthians]]>",
       "time": "28/04 · 08:53",
       "pubDate": "Tue, 28 Apr 2026 05:53:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians conversa com duas empresas para a renovação de Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-conversa-com-duas-empresas-para-a-renovacao-de-memphis-depay]]>",
-      "time": "27/04 · 23:10",
-      "pubDate": "Mon, 27 Apr 2026 20:10:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Flamengo abre brecha para rescisão e Corinthians vê chance real de contratar Cebolinha em julho, diz setorista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/flamengo-abre-brecha-para-rescisao-e-corinthians-ve-chance-real-de-contratar-cebolinha-em-julho-diz-setorista]]>",
-      "time": "27/04 · 20:11",
-      "pubDate": "Mon, 27 Apr 2026 17:11:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz dá ‘puxão de orelha’, mas Corinthians decide não aplicar nova multa a André",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-da-puxao-de-orelha-mas-corinthians-decide-nao-aplicar-nova-multa-a-andre]]>",
-      "time": "27/04 · 18:32",
-      "pubDate": "Mon, 27 Apr 2026 15:32:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Raniele se destaca improvisado na lateral-direita e ajuda Corinthians a vencer o Vasco no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-se-destaca-improvisado-na-lateral-direita-e-ajuda-corinthians-a-vencer-o-vasco-no-brasileirao]]>",
-      "time": "27/04 · 17:38",
-      "pubDate": "Mon, 27 Apr 2026 14:38:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz revela ajuda para Memphis permanecer no Corinthians: “ele é uma pessoa diferente”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-revela-ajuda-para-memphis-permanecer-no-corinthians-ele-e-uma-pessoa-diferente]]>",
-      "time": "27/04 · 16:28",
-      "pubDate": "Mon, 27 Apr 2026 13:28:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Thiago Mendes aponta favorecimento da arbitragem ao Corinthians: “Não sei se era pressão da torcida”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/thiago-mendes-aponta-favorecimento-da-arbitragem-ao-corinthians-nao-sei-se-era-pressao-da-torcida]]>",
-      "time": "27/04 · 13:28",
-      "pubDate": "Mon, 27 Apr 2026 10:28:55 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -222,18 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127423/e-uma-vergonha-conselheiro-do-corinthians-desabafa-sobre-reuniao-que-aprovou-as-contas-de-2025",
       "pubDate": "Mon, 27 Apr 2026 22:41:00 -0300",
       "date": "28/04 · 01:41"
-    },
-    {
-      "title": "Jovem recém-promovido pelo Corinthians marca primeiro gol na equipe profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531884/jovem-recem-promovido-pelo-corinthians-marca-primeiro-gol-na-equipe-profissional",
-      "pubDate": "Mon, 27 Apr 2026 20:01:00 -0300",
-      "date": "27/04 · 23:01"
-    },
-    {
-      "title": "VÍDEO: Dívidas, renovação de Memphis, votação das contas: conselheiros do Corinthians falam com o Meu Timão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127415/dividas-renovacao-de-memphis-votacao-das-contas-conselheiros-do-corinthians-falam-com-o-meu-timao",
-      "pubDate": "Mon, 27 Apr 2026 19:36:49 -0300",
-      "date": "27/04 · 22:36"
     }
   ]
 };
