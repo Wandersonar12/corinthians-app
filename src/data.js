@@ -1,7 +1,47 @@
-// Gerado automaticamente em 29/04/2026, 09:54:15
+// Gerado automaticamente em 29/04/2026, 13:14:47
 const LIVE_DATA = {
-  "updatedAt": "2026-04-29T09:54:15.993Z",
+  "updatedAt": "2026-04-29T13:14:47.317Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe Unifacisa com chance de avançar às quartas de final do NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531933/corinthians-recebe-o-unifacisa-podendo-avancar-nos-playoffs-do-nbb-saiba-tudo",
+      "time": "29/04 · 12:32",
+      "pubDate": "Wed, 29 Apr 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Athletico-PR de olho em encostar nos líderes do Brasileirão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531932/corinthians-recebe-o-athletico-em-busca-de-aproximacao-dos-lideres-do-brasileirao-sub-20-saiba-tudo",
+      "time": "29/04 · 12:00",
+      "pubDate": "Wed, 29 Apr 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselho do Corinthians volta a se reunir para votar projeto de reforma do Estatuto; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531955/conselho-do-corinthians-volta-a-se-reunir-para-votar-projeto-de-reforma-do-estatuto-saiba-tudo",
+      "time": "29/04 · 11:31",
+      "pubDate": "Wed, 29 Apr 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: evolução de dupla, denúncias no STJD e conversas para retorno no MCF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531951/ultimas-do-corinthians-evolucao-de-dupla-denuncias-no-stjd-e-conversas-para-retorno-no-mcf",
+      "time": "29/04 · 10:30",
+      "pubDate": "Wed, 29 Apr 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz iguala marca de Tite e outros técnicos ao manter Corinthians invicto em seis jogos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-iguala-marca-de-tite-e-outros-tecnicos-ao-manter-corinthians-invicto-em-seis-jogos]]>",
+      "time": "29/04 · 09:44",
+      "pubDate": "Wed, 29 Apr 2026 06:44:57 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 28 Apr 2026 21:20:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians celebra São Jorge com inauguração de estátua e cerimônia ecumênica na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531948/corinthians-celebra-sao-jorge-com-inauguracao-de-estatua-e-cerimonia-ecumenica-na-neo-quimica-arena",
-      "time": "29/04 · 00:02",
-      "pubDate": "Tue, 28 Apr 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode emendar sequência no Brasileirão Sub-20 pela primeira vez em mais de três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531946/corinthians-pode-emendar-sequencia-no-brasileirao-sub-20-pela-primeira-vez-em-mais-de-tres-anos",
-      "time": "28/04 · 23:49",
-      "pubDate": "Tue, 28 Apr 2026 20:49:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz se torna quarto técnico do Corinthians invicto nos seis primeiros jogos no século",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531886/fernando-diniz-se-torna-quarto-tecnico-do-corinthians-invicto-nos-seis-primeiros-jogos-no-seculo",
-      "time": "28/04 · 23:33",
-      "pubDate": "Tue, 28 Apr 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para enfrentar o Athletico pelo Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531947/corinthians-encerra-preparacao-para-enfrentar-o-athletico-pelo-brasileiro-sub-20",
-      "time": "28/04 · 23:06",
-      "pubDate": "Tue, 28 Apr 2026 20:06:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gabriel Strefezza, do Olympiacos, agrada Diniz e Corinthians negocia chegada de atacante por empréstimo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-strefezza-do-olympiacos-agrada-diniz-e-corinthians-negocia-chegada-de-atacante-por-emprestimo]]>",
+      "time": "28/04 · 23:10",
+      "pubDate": "Tue, 28 Apr 2026 20:10:37 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/everton-cebolinha-cumpre-contrato-no-flamengo-e-frustra-plano-do-corinthians-para-acordo]]>",
       "time": "28/04 · 22:29",
       "pubDate": "Tue, 28 Apr 2026 19:29:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gabriel Strefezza, do Olympiacos, agrada Diniz e Corinthians negocia chegada de atacante por empréstimo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-strefezza-do-olympiacos-agrada-diniz-e-corinthians-negocia-chegada-de-atacante-por-emprestimo]]>",
-      "time": "28/04 · 22:29",
-      "pubDate": "Tue, 28 Apr 2026 19:29:01 -0300"
     },
     {
       "source": "Bolavip",
@@ -117,14 +125,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Claudinho descarta o Corinthians e prioriza o Flamengo no mercado da bola, crava setorista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/claudinho-descarta-corinthians-flamengo-prioridade]]>",
-      "time": "28/04 · 17:23",
-      "pubDate": "Tue, 28 Apr 2026 14:23:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians: Lingard revela surpresa com invasão de torcedores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-lingard-revela-surpresa-com-invasao-de-torcedores]]>",
       "time": "28/04 · 16:52",
@@ -133,66 +133,66 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Memphis decepciona em nova função no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
-      "time": "02/03 · 10:00",
-      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
+      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
+      "time": "21/04 · 02:02",
+      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
-      "time": "02/03 · 09:00",
-      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
+      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
+      "time": "20/04 · 23:00",
+      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
-      "time": "02/03 · 08:00",
-      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
+      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 22:31",
+      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
-      "time": "02/03 · 01:05",
-      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
+      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
+      "time": "20/04 · 20:30",
+      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
-      "time": "02/03 · 00:27",
-      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
+      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 19:00",
+      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians: conheça os números da equipe na temporada 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
-      "time": "01/03 · 17:29",
-      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 18:55",
+      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
-      "time": "01/03 · 12:25",
-      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
+      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
+      "time": "20/04 · 15:21",
+      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
-      "time": "01/03 · 11:00",
-      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
+      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
+      "time": "20/04 · 10:00",
+      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
     }
   ],
   "upcoming": [],
@@ -210,18 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531835/fernando-diniz-valoriza-preparacao-de-goleiros-das-categorias-de-base-do-corinthians",
       "pubDate": "Tue, 28 Apr 2026 15:30:00 -0300",
       "date": "28/04 · 18:30"
-    },
-    {
-      "title": "VÍDEO: Osmar Stábile abre o jogo sobre renovação de Memphis e comenta a aprovação de contas do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127429/osmar-stabile-abre-o-jogo-sobre-renovacao-de-memphis-e-comenta-a-aprovacao-de-contas-do-corinthians",
-      "pubDate": "Mon, 27 Apr 2026 23:09:12 -0300",
-      "date": "28/04 · 02:09"
-    },
-    {
-      "title": "VÍDEO: Conselheiro do Corinthians, Rubão fala sobre o seu voto na aprovação das contas do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127426/conselheiro-do-corinthians-rubao-fala-sobre-o-seu-voto-na-aprovacao-das-contas-do-corinthians",
-      "pubDate": "Mon, 27 Apr 2026 23:04:47 -0300",
-      "date": "28/04 · 02:04"
     }
   ]
 };
