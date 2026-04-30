@@ -1,70 +1,118 @@
-// Gerado automaticamente em 30/04/2026, 19:03:16
+// Gerado automaticamente em 30/04/2026, 22:39:29
 const LIVE_DATA = {
-  "updatedAt": "2026-04-30T19:03:16.945Z",
+  "updatedAt": "2026-04-30T22:39:29.946Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians reencontra 'fantasma' de eliminação da Sul-Americana de 2021 em momento distinto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531941/corinthians-reencontra-fantasma-de-eliminacao-da-sul-americana-de-2021-em-momento-distinto",
-      "time": "30/04 · 18:30",
-      "pubDate": "Thu, 30 Apr 2026 15:30:00 -0300"
+      "title": "Técnico do Corinthians comenta blindagem do elenco e classificação às quartas de final do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532019/tecnico-do-corinthians-comenta-blindagem-do-elenco-e-classificacao-as-quartas-de-final-do-nbb",
+      "time": "30/04 · 22:05",
+      "pubDate": "Thu, 30 Apr 2026 19:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante é punido por entrada violenta e Corinthians é condenado em duas acusações no STJD",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532039/volante-e-punido-por-entrada-violenta-e-corinthians-e-condenado-em-duas-acusacoes-no-stjd",
-      "time": "30/04 · 18:14",
-      "pubDate": "Thu, 30 Apr 2026 15:14:00 -0300"
+      "title": "Entre título e má fase: veja como chega o Peñarol para enfrentar o Corinthians pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532033/entre-titulo-e-ma-fase-veja-como-chega-o-penarol-para-enfrentar-o-corinthians-pela-libertadores",
+      "time": "30/04 · 21:31",
+      "pubDate": "Thu, 30 Apr 2026 18:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Pivô do Corinthians celebra marca individual e classificação às quartas de final do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532021/pivo-do-corinthians-celebra-marca-individual-e-classificacao-as-quartas-de-final-do-nbb",
-      "time": "30/04 · 18:02",
-      "pubDate": "Thu, 30 Apr 2026 15:02:00 -0300"
+      "title": "Corinthians busca repetir série de vitórias que não conquista desde fevereiro; relembre partidas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531981/corinthians-busca-repetir-serie-de-vitorias-que-nao-conquista-desde-fevereiro-relembre-partidas",
+      "time": "30/04 · 21:01",
+      "pubDate": "Thu, 30 Apr 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode encaminhar classificação ao mata-mata da Copa Libertadores; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532034/corinthians-pode-encaminhar-classificacao-ao-mata-mata-da-copa-libertadores-veja-a-tabela",
-      "time": "30/04 · 17:33",
-      "pubDate": "Thu, 30 Apr 2026 14:33:00 -0300"
+      "title": "Corinthians perde para o São Paulo nos pênaltis e dá adeus ao Brasileirão Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532049/corinthians-perde-para-o-sao-paulo-nos-penaltis-e-da-adeus-ao-brasileirao-feminino-sub-20",
+      "time": "30/04 · 20:44",
+      "pubDate": "Thu, 30 Apr 2026 17:44:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conversa com patrocinadora e alinha tempo de contrato para renovação de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532037/corinthians-conversa-com-patrocinadora-e-alinha-tempo-de-contrato-para-renovacao-de-memphis",
-      "time": "30/04 · 17:07",
-      "pubDate": "Thu, 30 Apr 2026 14:07:47 -0300"
+      "title": "Volante recém-contratado marca primeiro gol pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531995/volante-recem-contratado-marca-primeiro-gol-pelo-corinthians",
+      "time": "30/04 · 20:31",
+      "pubDate": "Thu, 30 Apr 2026 17:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca quebrar jejum e desempatar retrospecto histórico contra o Cascavel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531973/corinthians-encara-o-cascavel-buscando-quebrar-jejum-e-desempatar-retrospecto-historico",
-      "time": "30/04 · 16:32",
-      "pubDate": "Thu, 30 Apr 2026 13:32:00 -0300"
+      "title": "Corinthians tem apenas um jogador no álbum de figurinhas da Copa do Mundo de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532028/corinthians-tem-apenas-um-jogador-no-album-de-figurinhas-da-copa-do-mundo-de-2026",
+      "time": "30/04 · 20:04",
+      "pubDate": "Thu, 30 Apr 2026 17:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Yuri Alberto, Diniz, bastidores de Ronaldo no Corinthians e mais: Luizão fala com o Meu Timão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127485/yuri-alberto-diniz-bastidores-de-ronaldo-no-corinthians-e-mais-luizao-fala-com-o-meu-timao",
-      "time": "30/04 · 16:03",
-      "pubDate": "Thu, 30 Apr 2026 13:03:00 -0300"
+      "title": "Corinthians ajusta a defesa em último treino antes de enfrentar o Grêmio pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532046/corinthians-ajusta-a-defesa-em-ultimo-treino-antes-de-enfrentar-o-gremio-pelo-brasileirao-feminino",
+      "time": "30/04 · 19:55",
+      "pubDate": "Thu, 30 Apr 2026 16:55:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians celebra boa fase com Diniz e reforça sonho de defender a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532012/lateral-do-corinthians-celebra-boa-fase-com-diniz-e-reforca-sonho-de-defender-a-selecao-brasileira",
-      "time": "30/04 · 16:01",
-      "pubDate": "Thu, 30 Apr 2026 13:01:00 -0300"
+      "title": "Corinthians busca equilibrar retrospecto contra o Peñarol para manter 100% na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532032/corinthians-busca-equilibrar-retrospecto-contra-o-penarol-para-manter-100-por-cento-na-libertadores",
+      "time": "30/04 · 19:32",
+      "pubDate": "Thu, 30 Apr 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fica ou sai? Memphis Depay já decidiu futuro no Corinthians, confirma Zakaria Labyad",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fica-ou-sai-memphis-depay-ja-decidiu-futuro-no-corinthians-confirma-zakaria-labyad]]>",
+      "time": "30/04 · 18:45",
+      "pubDate": "Thu, 30 Apr 2026 15:45:16 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Bahia desiste de compra e Corinthians tem caminho livre para fechar contratação de João Paulo em julho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/bahia-desiste-de-compra-e-corinthians-tem-caminho-livre-para-fechar-contratacao-de-joao-paulo-em-julho]]>",
+      "time": "30/04 · 17:12",
+      "pubDate": "Thu, 30 Apr 2026 14:12:53 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz descobre vantagem antes de Corinthians x Peñarol com fragilidade defensiva do adversário",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-descobre-vantagem-antes-de-corinthians-x-penarol-com-fragilidade-defensiva-do-adversario]]>",
+      "time": "30/04 · 16:41",
+      "pubDate": "Thu, 30 Apr 2026 13:41:12 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians mira contratação de Willian José e Marcelo Paz estuda pré-contrato com o atacante",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-willian-jose-marcelo-paz-pre-contrato]]>",
+      "time": "30/04 · 16:33",
+      "pubDate": "Thu, 30 Apr 2026 13:33:37 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Esportes da Sorte aceita pagar 50% e Corinthians avança em novo contrato de 2 anos com Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/esportes-da-sorte-aceita-pagar-50-e-corinthians-avanca-em-novo-contrato-de-2-anos-com-memphis-depay]]>",
+      "time": "30/04 · 14:55",
+      "pubDate": "Thu, 30 Apr 2026 11:55:16 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians encara Peñarol pela Libertadores buscando apagar traumas recentes contra os uruguaios",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encara-penarol-pela-libertadores-buscando-apagar-traumas-recentes-contra-os-uruguaios]]>",
+      "time": "30/04 · 13:28",
+      "pubDate": "Thu, 30 Apr 2026 10:28:41 -0300"
     },
     {
       "source": "Bolavip",
@@ -81,54 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mantem-confianca-em-andre-e-aposta-em-reacao-contra-penarol]]>",
       "time": "30/04 · 12:31",
       "pubDate": "Thu, 30 Apr 2026 09:31:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Bidu exalta papel de Diniz no setor defensivo e projeta decisão entre Corinthians x Peñarol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bidu-exalta-papel-de-diniz-no-setor-defensivo-e-projeta-decisao-entre-corinthians-x-penarol]]>",
-      "time": "30/04 · 12:26",
-      "pubDate": "Thu, 30 Apr 2026 09:26:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta embalar sequência na Arena contra o Peñarol após meses de irregularidade",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-embalar-sequencia-na-arena-contra-o-penarol-apos-meses-de-irregularidade]]>",
-      "time": "30/04 · 12:19",
-      "pubDate": "Thu, 30 Apr 2026 09:19:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vive tensão com Memphis após nova lesão e bastidores expõem falhas na recuperação física",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vive-tensao-com-memphis-apos-nova-lesao-e-bastidores-expoem-falhas-na-recuperacao-fisica]]>",
-      "time": "30/04 · 11:55",
-      "pubDate": "Thu, 30 Apr 2026 08:55:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians está com medo de perder Hugo Souza e já iniciou conversas pelo goleiro Matheus Magalhães",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-esta-com-medo-de-perder-hugo-souza-e-ja-iniciou-conversas-pelo-goleiro-matheus-magalhaes]]>",
-      "time": "30/04 · 11:41",
-      "pubDate": "Thu, 30 Apr 2026 08:41:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Escalação do Corinthians: Fernando Diniz terá força máxima para encarar o Peñarol pela Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-fernando-diniz-tera-forca-maxima-para-encarar-o-penarol-pela-libertadores]]>",
-      "time": "30/04 · 10:33",
-      "pubDate": "Thu, 30 Apr 2026 07:33:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Peñarol: onde assistir ao vivo, horário e escalações do jogo desta quinta",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-penarol-onde-assistir-ao-vivo-jogo-copa-libertadores-hoje-horario-transmissao-tv-internet-streaming-escalacoes]]>",
-      "time": "29/04 · 23:30",
-      "pubDate": "Wed, 29 Apr 2026 20:30:04 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Volante recém-contratado marca primeiro gol pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531995/volante-recem-contratado-marca-primeiro-gol-pelo-corinthians",
+      "pubDate": "Thu, 30 Apr 2026 17:31:00 -0300",
+      "date": "30/04 · 20:31"
+    },
+    {
       "title": "Corinthians reencontra 'fantasma' de eliminação da Sul-Americana de 2021 em momento distinto",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531941/corinthians-reencontra-fantasma-de-eliminacao-da-sul-americana-de-2021-em-momento-distinto",
       "pubDate": "Thu, 30 Apr 2026 15:30:00 -0300",
@@ -234,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531978/saiba-onde-assistir-ao-duelo-entre-corinthians-e-penarol-pela-copa-libertadores",
       "pubDate": "Thu, 30 Apr 2026 08:30:00 -0300",
       "date": "30/04 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Presidente dos Gaviões fala sobre votação suspensa da reforma do estatuto no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127476/presidente-dos-gavioes-fala-sobre-votacao-suspensa-da-reforma-do-estatuto-no-parque-sao-jorge",
-      "pubDate": "Wed, 29 Apr 2026 23:48:49 -0300",
-      "date": "30/04 · 02:48"
-    },
-    {
-      "title": "VÍDEO: Novo estatuto do Corinthians: Leonardo Pantaleão comenta decisão do Conselho Deliberativo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127475/novo-estatuto-do-corinthians-leonardo-pantaleao-comenta-decisao-do-conselho-deliberativo",
-      "pubDate": "Wed, 29 Apr 2026 23:28:39 -0300",
-      "date": "30/04 · 02:28"
     }
   ]
 };
