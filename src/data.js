@@ -1,78 +1,78 @@
-// Gerado automaticamente em 30/04/2026, 22:39:29
+// Gerado automaticamente em 01/05/2026, 09:24:01
 const LIVE_DATA = {
-  "updatedAt": "2026-04-30T22:39:29.946Z",
+  "updatedAt": "2026-05-01T09:24:01.306Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians comenta blindagem do elenco e classificação às quartas de final do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532019/tecnico-do-corinthians-comenta-blindagem-do-elenco-e-classificacao-as-quartas-de-final-do-nbb",
-      "time": "30/04 · 22:05",
-      "pubDate": "Thu, 30 Apr 2026 19:05:00 -0300"
+      "title": "Corinthians recebe o Grêmio para manter liderança do Brasileirão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532042/corinthians-recebe-o-gremio-para-manter-lideranca-do-brasileirao-feminino-saiba-tudo",
+      "time": "01/05 · 05:00",
+      "pubDate": "Fri, 01 May 2026 02:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Entre título e má fase: veja como chega o Peñarol para enfrentar o Corinthians pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532033/entre-titulo-e-ma-fase-veja-como-chega-o-penarol-para-enfrentar-o-corinthians-pela-libertadores",
-      "time": "30/04 · 21:31",
-      "pubDate": "Thu, 30 Apr 2026 18:31:00 -0300"
+      "title": "VÍDEO: Substituto de Memphis? Jesse Lingard comenta sobre fator Memphis no Corinthians e fala em português",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127495/substituto-de-memphis-jesse-lingard-comenta-sobre-fator-memphis-no-corinthians-e-fala-em-portugues",
+      "time": "01/05 · 04:09",
+      "pubDate": "Fri, 01 May 2026 01:09:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca repetir série de vitórias que não conquista desde fevereiro; relembre partidas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531981/corinthians-busca-repetir-serie-de-vitorias-que-nao-conquista-desde-fevereiro-relembre-partidas",
-      "time": "30/04 · 21:01",
-      "pubDate": "Thu, 30 Apr 2026 18:01:00 -0300"
+      "title": "VÍDEO: Baliza zero! Hugo Souza fala sobre momento defensivo do Corinthians com o técnico Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127494/baliza-zero-hugo-souza-fala-sobre-momento-defensivo-do-corinthians-com-o-tecnico-fernando-diniz",
+      "time": "01/05 · 04:05",
+      "pubDate": "Fri, 01 May 2026 01:05:31 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians perde para o São Paulo nos pênaltis e dá adeus ao Brasileirão Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532049/corinthians-perde-para-o-sao-paulo-nos-penaltis-e-da-adeus-ao-brasileirao-feminino-sub-20",
-      "time": "30/04 · 20:44",
-      "pubDate": "Thu, 30 Apr 2026 17:44:00 -0300"
+      "title": "Técnico do Corinthians exalta primeiro tempo e cobra mais intensidade após vitória na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532093/tecnico-do-corinthians-exalta-primeiro-tempo-e-cobra-mais-intensidade-apos-vitoria-na-libertadores",
+      "time": "01/05 · 03:32",
+      "pubDate": "Fri, 01 May 2026 00:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante recém-contratado marca primeiro gol pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531995/volante-recem-contratado-marca-primeiro-gol-pelo-corinthians",
-      "time": "30/04 · 20:31",
-      "pubDate": "Thu, 30 Apr 2026 17:31:00 -0300"
+      "title": "Diniz revela mudança em logística para sequência do Corinthians fora de casa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532095/diniz-revela-mudanca-em-logistica-para-sequencia-do-corinthians-fora-de-casa",
+      "time": "01/05 · 03:20",
+      "pubDate": "Fri, 01 May 2026 00:20:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem apenas um jogador no álbum de figurinhas da Copa do Mundo de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532028/corinthians-tem-apenas-um-jogador-no-album-de-figurinhas-da-copa-do-mundo-de-2026",
-      "time": "30/04 · 20:04",
-      "pubDate": "Thu, 30 Apr 2026 17:04:00 -0300"
+      "title": "Corinthians volta a engatar três vitórias seguidas na Libertadores após mais de uma década",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532070/corinthians-volta-a-engatar-tres-vitorias-seguidas-na-libertadores-apos-mais-de-uma-decada",
+      "time": "01/05 · 03:13",
+      "pubDate": "Fri, 01 May 2026 00:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians ajusta a defesa em último treino antes de enfrentar o Grêmio pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532046/corinthians-ajusta-a-defesa-em-ultimo-treino-antes-de-enfrentar-o-gremio-pelo-brasileirao-feminino",
-      "time": "30/04 · 19:55",
-      "pubDate": "Thu, 30 Apr 2026 16:55:00 -0300"
+      "title": "Atacante do Corinthians valoriza retorno gradual após lesão e projeta sequência com Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532097/atacante-do-corinthians-valoriza-retorno-gradual-apos-lesao-e-projeta-sequencia-com-fernando-diniz",
+      "time": "01/05 · 03:12",
+      "pubDate": "Fri, 01 May 2026 00:12:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca equilibrar retrospecto contra o Peñarol para manter 100% na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532032/corinthians-busca-equilibrar-retrospecto-contra-o-penarol-para-manter-100-por-cento-na-libertadores",
-      "time": "30/04 · 19:32",
-      "pubDate": "Thu, 30 Apr 2026 16:32:00 -0300"
+      "title": "Meia do Corinthians celebra primeiro gol na Arena e destaca adaptação ao futebol brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532092/meia-do-corinthians-celebra-primeiro-gol-na-arena-e-destaca-adaptacao-ao-futebol-brasileiro",
+      "time": "01/05 · 02:57",
+      "pubDate": "Thu, 30 Apr 2026 23:57:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fica ou sai? Memphis Depay já decidiu futuro no Corinthians, confirma Zakaria Labyad",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fica-ou-sai-memphis-depay-ja-decidiu-futuro-no-corinthians-confirma-zakaria-labyad]]>",
-      "time": "30/04 · 18:45",
-      "pubDate": "Thu, 30 Apr 2026 15:45:16 -0300"
+      "time": "30/04 · 19:31",
+      "pubDate": "Thu, 30 Apr 2026 16:31:25 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,46 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Gustavo Henrique comenta fase da carreira e a defesa fechada com Fernando Diniz no comando",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127496/gustavo-henrique-comenta-fase-da-carreira-e-a-defesa-fechada-com-fernando-diniz-no-comando",
+      "pubDate": "Fri, 01 May 2026 01:10:53 -0300",
+      "date": "01/05 · 04:10"
+    },
+    {
+      "title": "VÍDEO: Substituto de Memphis? Jesse Lingard comenta sobre fator Memphis no Corinthians e fala em português",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127495/substituto-de-memphis-jesse-lingard-comenta-sobre-fator-memphis-no-corinthians-e-fala-em-portugues",
+      "pubDate": "Fri, 01 May 2026 01:09:00 -0300",
+      "date": "01/05 · 04:09"
+    },
+    {
+      "title": "VÍDEO: Baliza zero! Hugo Souza fala sobre momento defensivo do Corinthians com o técnico Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127494/baliza-zero-hugo-souza-fala-sobre-momento-defensivo-do-corinthians-com-o-tecnico-fernando-diniz",
+      "pubDate": "Fri, 01 May 2026 01:05:31 -0300",
+      "date": "01/05 · 04:05"
+    },
+    {
+      "title": "VÍDEO: Diniz enche a bola de Breno Bidon, elogia Gustavo Henrique e enaltece Fiel Torcida | Coletiva",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127490/diniz-enche-a-bola-de-breno-bidon-elogia-gustavo-henrique-e-enaltece-fiel-torcida-coletiva",
+      "pubDate": "Fri, 01 May 2026 00:39:47 -0300",
+      "date": "01/05 · 03:39"
+    },
+    {
+      "title": "Meia do Corinthians celebra primeiro gol na Arena e destaca adaptação ao futebol brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532092/meia-do-corinthians-celebra-primeiro-gol-na-arena-e-destaca-adaptacao-ao-futebol-brasileiro",
+      "pubDate": "Thu, 30 Apr 2026 23:57:00 -0300",
+      "date": "01/05 · 02:57"
+    },
+    {
+      "title": "Zagueiro do Corinthians comemora gol marcado e aponta crescimento da equipe com Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532056/zagueiro-do-corinthians-comemora-gol-marcado-e-aponta-crescimento-da-equipe-com-diniz",
+      "pubDate": "Thu, 30 Apr 2026 23:43:00 -0300",
+      "date": "01/05 · 02:43"
+    },
+    {
+      "title": "Corinthians empata com o Cascavel em gol salvador de goleiro-linha na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532055/corinthians-empata-com-o-cascavel-em-gol-salvador-de-goleiro-linha-na-lnf",
+      "pubDate": "Thu, 30 Apr 2026 20:41:00 -0300",
+      "date": "30/04 · 23:41"
+    },
+    {
       "title": "Volante recém-contratado marca primeiro gol pelo Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/531995/volante-recem-contratado-marca-primeiro-gol-pelo-corinthians",
       "pubDate": "Thu, 30 Apr 2026 17:31:00 -0300",
       "date": "30/04 · 20:31"
-    },
-    {
-      "title": "Corinthians reencontra 'fantasma' de eliminação da Sul-Americana de 2021 em momento distinto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531941/corinthians-reencontra-fantasma-de-eliminacao-da-sul-americana-de-2021-em-momento-distinto",
-      "pubDate": "Thu, 30 Apr 2026 15:30:00 -0300",
-      "date": "30/04 · 18:30"
-    },
-    {
-      "title": "VÍDEO: Yuri Alberto, Diniz, bastidores de Ronaldo no Corinthians e mais: Luizão fala com o Meu Timão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127485/yuri-alberto-diniz-bastidores-de-ronaldo-no-corinthians-e-mais-luizao-fala-com-o-meu-timao",
-      "pubDate": "Thu, 30 Apr 2026 13:03:00 -0300",
-      "date": "30/04 · 16:03"
-    },
-    {
-      "title": "Goleira do Corinthians celebra oportunidade na Seleção e relembra início como atacante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531997/goleira-do-corinthians-celebra-oportunidade-na-selecao-e-relembra-inicio-como-atacante",
-      "pubDate": "Thu, 30 Apr 2026 11:33:00 -0300",
-      "date": "30/04 · 14:33"
-    },
-    {
-      "title": "Goleiro do Corinthians aparece entre os jovens mais valiosos do mundo na posição",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532016/goleiro-do-corinthians-aparece-entre-os-jovens-mais-valiosos-do-mundo-na-posicao",
-      "pubDate": "Thu, 30 Apr 2026 11:01:00 -0300",
-      "date": "30/04 · 14:01"
-    },
-    {
-      "title": "VÍDEO: Corinthians x Peñarol: provável escalação do Timão na Conmebol Libertadores 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127478/corinthians-x-penarol-provavel-escalacao-do-timao-na-conmebol-libertadores-2026",
-      "pubDate": "Thu, 30 Apr 2026 10:01:30 -0300",
-      "date": "30/04 · 13:01"
-    },
-    {
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Peñarol pela Copa Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531978/saiba-onde-assistir-ao-duelo-entre-corinthians-e-penarol-pela-copa-libertadores",
-      "pubDate": "Thu, 30 Apr 2026 08:30:00 -0300",
-      "date": "30/04 · 11:30"
     }
   ]
 };
