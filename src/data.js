@@ -1,54 +1,102 @@
-// Gerado automaticamente em 01/05/2026, 12:47:59
+// Gerado automaticamente em 01/05/2026, 18:52:58
 const LIVE_DATA = {
-  "updatedAt": "2026-05-01T12:47:59.863Z",
+  "updatedAt": "2026-05-01T18:52:58.006Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece todos os participantes do Campeonato Paulista de 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532066/corinthians-conhece-todos-os-participantes-do-campeonato-paulista-de-2027",
-      "time": "01/05 · 12:30",
-      "pubDate": "Fri, 01 May 2026 09:30:02 -0300"
+      "title": "Corinthians conhece ordem dos jogos no Brasileiro Feminino Sub-17; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532136/corinthians-conhece-ordem-dos-jogos-no-brasileiro-feminino-sub-17-confira",
+      "time": "01/05 · 18:33",
+      "pubDate": "Fri, 01 May 2026 15:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Luizão relembra trajetória no Corinthians e revela bastidores do Mundial de Clubes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/531983/luizao-relembra-trajetoria-no-corinthians-e-revela-bastidores-do-mundial-de-clubes",
-      "time": "01/05 · 12:03",
-      "pubDate": "Fri, 01 May 2026 09:03:00 -0300"
+      "title": "Zagueiro do Corinthians se tornou o defensor com mais participação em gols na Libertadores de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532108/zagueiro-do-corinthians-se-tornou-o-defensor-com-mais-participacao-em-gols-na-libertadores-de-2026",
+      "time": "01/05 · 18:01",
+      "pubDate": "Fri, 01 May 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Grêmio e Corinthians pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532043/saiba-onde-assistir-a-partida-entre-gremio-e-corinthians-pelo-brasileirao-feminino",
-      "time": "01/05 · 11:00",
-      "pubDate": "Fri, 01 May 2026 08:00:00 -0300"
+      "title": "Corinthians conhece tabela base do Campeonato Brasileiro Sub-17 2026; veja os jogos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532132/corinthians-conhece-tabela-base-do-campeonato-brasileiro-sub-17-2026-veja-os-jogos",
+      "time": "01/05 · 17:34",
+      "pubDate": "Fri, 01 May 2026 14:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória na Libertadores, renovação de Memphis e goleiro bem avaliado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532104/ultimas-do-corinthians-vitoria-na-libertadores-renovacao-de-memphis-e-goleiro-bem-avaliado",
-      "time": "01/05 · 10:30",
-      "pubDate": "Fri, 01 May 2026 07:30:00 -0300"
+      "title": "Técnico do Corinthians fala sobre início histórico à frente da equipe: Algo realmente envolvente'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532114/tecnico-do-corinthians-fala-sobre-inicio-historico-a-frente-da-equipe-algo-realmente-envolvente",
+      "time": "01/05 · 17:01",
+      "pubDate": "Fri, 01 May 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians aponta dívida de quase R$ 2,7 bilhões em balanço de 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532133/corinthians-aponta-divida-de-quase-r-27-bilhoes-em-balanco-de-2025",
+      "time": "01/05 · 16:52",
+      "pubDate": "Fri, 01 May 2026 13:52:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians iguala maior sequência sem sofrer gols de sua história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532081/corinthians-iguala-maior-sequencia-sem-sofrer-gols-de-sua-historia",
+      "time": "01/05 · 16:34",
+      "pubDate": "Fri, 01 May 2026 13:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pivô do Corinthians projeta confronto equilibrado contra o Minas e pede apoio da torcida na série",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532022/pivo-do-corinthians-projeta-confronto-equilibrado-contra-o-minas-e-pede-apoio-da-torcida-na-serie",
+      "time": "01/05 · 16:06",
+      "pubDate": "Fri, 01 May 2026 13:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Cascone analisa reunião do CD sobre reforma do estatuto e lamenta situação política do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532052/cascone-analisa-reuniao-do-cd-sobre-reforma-do-estatuto-e-lamenta-situacao-politica-do-corinthians",
+      "time": "01/05 · 15:00",
+      "pubDate": "Fri, 01 May 2026 12:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians iguala inícios históricos e embala campanha perfeita na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-iguala-inicios-historicos-e-embala-campanha-perfeita-na-libertadores]]>",
+      "time": "01/05 · 12:33",
+      "pubDate": "Fri, 01 May 2026 09:33:29 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Lingard marca 1º gol pela Libertadores em Corinthians x Peñarol",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-marca-1o-gol-pela-libertadores-em-corinthians-x-penarol]]>",
-      "time": "01/05 · 09:14",
-      "pubDate": "Fri, 01 May 2026 06:14:53 -0300"
+      "time": "01/05 · 12:02",
+      "pubDate": "Fri, 01 May 2026 09:02:05 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz revela o detalhe no CT do Corinthians que mudou o ambiente do time",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-revela-o-detalhe-no-ct-do-corinthians-que-mudou-o-ambiente-do-time]]>",
-      "time": "01/05 · 09:14",
-      "pubDate": "Fri, 01 May 2026 06:14:24 -0300"
+      "time": "01/05 · 12:01",
+      "pubDate": "Fri, 01 May 2026 09:01:58 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay aceita abrir mão de parte dos valores pelo avanço na renovação contratual no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-aceita-abrir-mao-de-parte-dos-valores-pelo-avanco-na-renovacao-contratual-no-corinthians]]>",
+      "time": "01/05 · 09:41",
+      "pubDate": "Fri, 01 May 2026 06:41:18 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,38 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fica-ou-sai-memphis-depay-ja-decidiu-futuro-no-corinthians-confirma-zakaria-labyad]]>",
       "time": "01/05 · 09:13",
       "pubDate": "Fri, 01 May 2026 06:13:07 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Grêmio para manter liderança do Brasileirão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532042/corinthians-recebe-o-gremio-para-manter-lideranca-do-brasileirao-feminino-saiba-tudo",
-      "time": "01/05 · 05:00",
-      "pubDate": "Fri, 01 May 2026 02:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Substituto de Memphis? Jesse Lingard comenta sobre fator Memphis no Corinthians e fala em português",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127495/substituto-de-memphis-jesse-lingard-comenta-sobre-fator-memphis-no-corinthians-e-fala-em-portugues",
-      "time": "01/05 · 04:09",
-      "pubDate": "Fri, 01 May 2026 01:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Baliza zero! Hugo Souza fala sobre momento defensivo do Corinthians com o técnico Fernando Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127494/baliza-zero-hugo-souza-fala-sobre-momento-defensivo-do-corinthians-com-o-tecnico-fernando-diniz",
-      "time": "01/05 · 04:05",
-      "pubDate": "Fri, 01 May 2026 01:05:31 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians exalta primeiro tempo e cobra mais intensidade após vitória na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532093/tecnico-do-corinthians-exalta-primeiro-tempo-e-cobra-mais-intensidade-apos-vitoria-na-libertadores",
-      "time": "01/05 · 03:32",
-      "pubDate": "Fri, 01 May 2026 00:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -115,90 +131,92 @@ const LIVE_DATA = {
       "pubDate": "Thu, 30 Apr 2026 22:25:56 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Bahia desiste de compra e Corinthians tem caminho livre para fechar contratação de João Paulo em julho",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bahia-desiste-de-compra-e-corinthians-tem-caminho-livre-para-fechar-contratacao-de-joao-paulo-em-julho]]>",
-      "time": "30/04 · 17:12",
-      "pubDate": "Thu, 30 Apr 2026 14:12:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz descobre vantagem antes de Corinthians x Peñarol com fragilidade defensiva do adversário",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-descobre-vantagem-antes-de-corinthians-x-penarol-com-fragilidade-defensiva-do-adversario]]>",
-      "time": "30/04 · 16:41",
-      "pubDate": "Thu, 30 Apr 2026 13:41:12 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis decepciona em nova função no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
+      "time": "02/03 · 10:00",
+      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
-      "time": "21/04 · 02:02",
-      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
+      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
+      "time": "02/03 · 09:00",
+      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
-      "time": "20/04 · 23:00",
-      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
+      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
+      "time": "02/03 · 08:00",
+      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 22:31",
-      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
+      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
+      "time": "02/03 · 01:05",
+      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
-      "time": "20/04 · 20:30",
-      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
+      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
+      "time": "02/03 · 00:27",
+      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 19:00",
-      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
+      "title": "Corinthians: conheça os números da equipe na temporada 2026",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
+      "time": "01/03 · 17:29",
+      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 18:55",
-      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
+      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
+      "time": "01/03 · 12:25",
+      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
-      "time": "20/04 · 15:21",
-      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
-      "time": "20/04 · 10:00",
-      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
+      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
+      "time": "01/03 · 11:00",
+      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Zagueiro do Corinthians se tornou o defensor com mais participa��ão em gols na Libertadores de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532108/zagueiro-do-corinthians-se-tornou-o-defensor-com-mais-participacao-em-gols-na-libertadores-de-2026",
+      "pubDate": "Fri, 01 May 2026 15:01:00 -0300",
+      "date": "01/05 · 18:01"
+    },
+    {
+      "title": "Corinthians iguala maior sequência sem sofrer gols de sua história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532081/corinthians-iguala-maior-sequencia-sem-sofrer-gols-de-sua-historia",
+      "pubDate": "Fri, 01 May 2026 13:34:00 -0300",
+      "date": "01/05 · 16:34"
+    },
+    {
+      "title": "Goleiro é eleito o melhor jogador do Corinthians em abril; defensores completam o pódio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532094/goleiro-e-eleito-o-melhor-jogador-do-corinthians-em-abril-defensores-completam-o-podio",
+      "pubDate": "Fri, 01 May 2026 11:01:00 -0300",
+      "date": "01/05 · 14:01"
+    },
     {
       "title": "Saiba onde assistir à partida entre Grêmio e Corinthians pelo Brasileirão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532043/saiba-onde-assistir-a-partida-entre-gremio-e-corinthians-pelo-brasileirao-feminino",
@@ -228,24 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127494/baliza-zero-hugo-souza-fala-sobre-momento-defensivo-do-corinthians-com-o-tecnico-fernando-diniz",
       "pubDate": "Fri, 01 May 2026 01:05:31 -0300",
       "date": "01/05 · 04:05"
-    },
-    {
-      "title": "VÍDEO: Diniz enche a bola de Breno Bidon, elogia Gustavo Henrique e enaltece Fiel Torcida | Coletiva",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127490/diniz-enche-a-bola-de-breno-bidon-elogia-gustavo-henrique-e-enaltece-fiel-torcida-coletiva",
-      "pubDate": "Fri, 01 May 2026 00:39:47 -0300",
-      "date": "01/05 · 03:39"
-    },
-    {
-      "title": "Meia do Corinthians celebra primeiro gol na Arena e destaca adaptação ao futebol brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532092/meia-do-corinthians-celebra-primeiro-gol-na-arena-e-destaca-adaptacao-ao-futebol-brasileiro",
-      "pubDate": "Thu, 30 Apr 2026 23:57:00 -0300",
-      "date": "01/05 · 02:57"
-    },
-    {
-      "title": "Zagueiro do Corinthians comemora gol marcado e aponta crescimento da equipe com Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532056/zagueiro-do-corinthians-comemora-gol-marcado-e-aponta-crescimento-da-equipe-com-diniz",
-      "pubDate": "Thu, 30 Apr 2026 23:43:00 -0300",
-      "date": "01/05 · 02:43"
     }
   ]
 };
