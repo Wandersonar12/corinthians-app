@@ -1,70 +1,94 @@
-// Gerado automaticamente em 02/05/2026, 22:27:30
+// Gerado automaticamente em 03/05/2026, 09:10:16
 const LIVE_DATA = {
-  "updatedAt": "2026-05-02T22:27:30.675Z",
+  "updatedAt": "2026-05-03T09:10:16.568Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Veja como foi o desembarque do Corinthians em S.J. do Rio Preto para enfrentar o Mirassol pelo BR26",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127541/veja-como-foi-o-desembarque-do-corinthians-em-sj-do-rio-preto-para-enfrentar-o-mirassol-pelo-br26",
-      "time": "02/05 · 22:10",
-      "pubDate": "Sat, 02 May 2026 19:10:00 -0300"
+      "title": "Corinthians visita o Mirassol em busca de engatar sequência de vitórias no Brasileirão; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532192/corinthians-visita-o-mirassol-em-busca-de-engatar-sequencia-de-vitorias-no-brasileirao-saiba-tudo",
+      "time": "03/05 · 03:01",
+      "pubDate": "Sun, 03 May 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla marca pela primeira vez no ano e amplia lista de artilheiras do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532162/dupla-marca-pela-primeira-vez-no-ano-e-amplia-lista-de-artilheiras-do-corinthians",
-      "time": "02/05 · 22:01",
-      "pubDate": "Sat, 02 May 2026 19:01:00 -0300"
+      "title": "Técnico do Corinthians rasga elogios para Gustavo Henrique após vitória na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532117/tecnico-do-corinthians-rasga-elogios-para-gustavo-henrique-apos-vitoria-na-libertadores",
+      "time": "03/05 · 01:30",
+      "pubDate": "Sat, 02 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians desembarca no interior de São Paulo com 23 jogadores para duelo contra o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532189/corinthians-desembarca-no-interior-de-sao-paulo-com-23-jogadores-para-duelo-contra-o-mirassol",
-      "time": "02/05 · 21:50",
-      "pubDate": "Sat, 02 May 2026 18:50:00 -0300"
+      "title": "Corinthians completa jogo com maior número de passes na temporada diante do Peñarol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532130/corinthians-completa-jogo-com-maior-numero-de-passes-na-temporada-diante-do-penarol",
+      "time": "03/05 · 01:02",
+      "pubDate": "Sat, 02 May 2026 22:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante ganha elogios de Fernando Diniz por versatilidade e evolução no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532119/tecnico-do-corinthians-elogia-versatilidade-de-raniele-e-relata-evolucao-do-camisa-14",
-      "time": "02/05 · 21:30",
-      "pubDate": "Sat, 02 May 2026 18:30:00 -0300"
+      "title": "Meia do Corinthians quebra recorde pessoal com início de temporada em alta; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532179/meia-do-corinthians-quebra-recorde-pessoal-com-inicio-de-temporada-em-alta-veja-os-numeros",
+      "time": "03/05 · 00:32",
+      "pubDate": "Sat, 02 May 2026 21:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians entra no pódio de artilheiros da temporada no futsal; confira o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532123/ala-do-corinthians-entra-no-top-3-de-artilheiros-da-temporada-no-futsal-confira-o-ranking",
-      "time": "02/05 · 21:01",
-      "pubDate": "Sat, 02 May 2026 18:01:00 -0300"
+      "title": "Conheça Nícollas, atacante relacionado pelo Corinthians para a partida contra o Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532198/conheca-nicollas-atacante-relacionado-pelo-corinthians-para-a-partida-contra-o-mirassol",
+      "time": "03/05 · 00:01",
+      "pubDate": "Sat, 02 May 2026 21:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita a Ferroviária e empata em sua estreia pelo Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532190/corinthians-visita-a-ferroviaria-e-empata-em-sua-estreia-pelo-paulistao-sub-17",
-      "time": "02/05 · 20:36",
-      "pubDate": "Sat, 02 May 2026 17:36:00 -0300"
+      "title": "Kaio César celebra estreia pessoal na Libertadores e série invicta do Corinthians na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532166/kaio-cesar-celebra-estreia-pessoal-na-libertadores-e-serie-invicta-do-corinthians-na-temporada",
+      "time": "02/05 · 23:29",
+      "pubDate": "Sat, 02 May 2026 20:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians iguala maior sequência de vitórias na história da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532128/corinthians-iguala-maior-sequencia-de-vitorias-na-historia-da-libertadores",
-      "time": "02/05 · 20:35",
-      "pubDate": "Sat, 02 May 2026 17:35:00 -0300"
+      "title": "Zagueiro do Corinthians demonstra otimismo antes de partida contra o Mirassol pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532183/zagueiro-do-corinthians-demonstra-otimismo-antes-de-partida-contra-o-mirassol-pelo-brasileirao",
+      "time": "02/05 · 23:01",
+      "pubDate": "Sat, 02 May 2026 20:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gustavo Henrique comenta fase artilheira com a camisa do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532161/gustavo-henrique-comenta-fase-artilheira-com-a-camisa-do-corinthians",
-      "time": "02/05 · 19:30",
-      "pubDate": "Sat, 02 May 2026 16:30:00 -0300"
+      "title": "Atacante volta a ser relacionado pelo Corinthians após se recuperar de lesão sofrida em março",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532185/atacante-volta-a-ser-relacionado-pelo-corinthians-apos-se-recuperar-de-lesao-sofrida-em-marco",
+      "time": "02/05 · 22:35",
+      "pubDate": "Sat, 02 May 2026 19:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians segue de olho em Matheus Magalhães e avalia Strefezza por empréstimo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-segue-de-olho-em-matheus-magalhaes-e-avalia-strefezza-por-emprestimo]]>",
+      "time": "02/05 · 21:36",
+      "pubDate": "Sat, 02 May 2026 18:36:28 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vidente projeta possível tropeço do Corinthians contra o Mirassol pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-projeta-possivel-tropeco-do-corinthians-contra-o-mirassol-pelo-brasileirao]]>",
+      "time": "02/05 · 20:58",
+      "pubDate": "Sat, 02 May 2026 17:58:40 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz impõe mudança no Corinthians e bastidor de ataque é exposto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-impoe-mudanca-no-corinthians-e-bastidor-de-ataque-e-exposto]]>",
+      "time": "02/05 · 19:11",
+      "pubDate": "Sat, 02 May 2026 16:11:28 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-define-estrategia-no-mercado-e-corinthians-mira-novo-atacante-para-2026]]>",
       "time": "02/05 · 11:21",
       "pubDate": "Sat, 02 May 2026 08:21:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Jesse Lingard marca pelo Corinthians e é exaltado por jornal espanhol: “Libertador”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-marca-pelo-corinthians-e-e-exaltado-por-jornal-espanhol]]>",
-      "time": "01/05 · 22:27",
-      "pubDate": "Fri, 01 May 2026 19:27:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gustavo Henrique se torna vice-artilheiro do Corinthians na temporada após marcar contra o Peñarol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-se-torna-vice-artilheiro-do-corinthians-na-temporada-apos-marcar-contra-o-penarol]]>",
-      "time": "01/05 · 20:40",
-      "pubDate": "Fri, 01 May 2026 17:40:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Walter enaltece Hugo Souza e fala sobre reencontro com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/walter-enaltece-hugo-souza-e-fala-sobre-reencontro-com-o-corinthians]]>",
-      "time": "01/05 · 20:23",
-      "pubDate": "Fri, 01 May 2026 17:23:18 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -228,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532180/corinthians-goleia-o-terceiro-milenio-na-estreia-do-paulistao-sub-17",
       "pubDate": "Sat, 02 May 2026 12:41:00 -0300",
       "date": "02/05 · 15:41"
-    },
-    {
-      "title": "Gustavo Henrique celebra gol na Libertadores e exalta trabalho defensivo do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532160/gustavo-henrique-celebra-gol-na-libertadores-e-exalta-trabalho-defensivo-do-corinthians",
-      "pubDate": "Fri, 01 May 2026 21:45:00 -0300",
-      "date": "02/05 · 00:45"
     }
   ]
 };
