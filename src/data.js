@@ -1,70 +1,78 @@
-// Gerado automaticamente em 03/05/2026, 22:28:06
+// Gerado automaticamente em 04/05/2026, 10:03:52
 const LIVE_DATA = {
-  "updatedAt": "2026-05-03T22:28:06.513Z",
+  "updatedAt": "2026-05-04T10:03:52.380Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians projeta duelo contra o Mirassol e cobra consistência no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532230/volante-do-corinthians-projeta-duelo-contra-o-mirassol-e-cobra-consistencia-no-brasileirao",
-      "time": "03/05 · 22:20",
-      "pubDate": "Sun, 03 May 2026 19:20:00 -0300"
+      "title": "Técnico do Corinthians atribui o desempenho ruim contra o Mirassol à baixa concentração da equipe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532274/tecnico-do-corinthians-atribui-o-desempenho-ruim-contra-o-mirassol-a-baixa-concentracao-da-equipe",
+      "time": "04/05 · 04:00",
+      "pubDate": "Mon, 04 May 2026 01:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Momento conturbado e algoz de Diniz: veja como chega o Mirassol para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532213/momento-conturbado-e-algoz-de-diniz-veja-como-chega-o-mirassol-para-enfrentar-o-corinthians",
-      "time": "03/05 · 21:30",
-      "pubDate": "Sun, 03 May 2026 18:30:00 -0300"
+      "title": "Dieguinho se salva e torcida reprova atuação do Corinthians contra o Mirassol; veja as notas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532285/dieguinho-se-salva-e-torcida-reprova-atuacao-do-corinthians-contra-o-mirassol-veja-as-notas",
+      "time": "04/05 · 03:39",
+      "pubDate": "Mon, 04 May 2026 00:39:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians valoriza atuação em goleada na estreia do Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532210/lateral-do-corinthians-valoriza-atuacao-em-goleada-na-estreia-do-paulistao-sub-17",
-      "time": "03/05 · 20:34",
-      "pubDate": "Sun, 03 May 2026 17:34:00 -0300"
+      "title": "VÍDEO: Melhores Momentos: Mirassol 2x1 Corinthians | 14ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127565/melhores-momentos-mirassol-2x1-corinthians-14-rodada-brasileirao-2026",
+      "time": "04/05 · 03:35",
+      "pubDate": "Mon, 04 May 2026 00:35:23 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians defende hegemonia histórica sobre o Mirassol em duelo do Brasileirão; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532208/corinthians-busca-defender-hegemonia-historica-sobre-o-mirassol-em-duelo-do-brasileirao",
-      "time": "03/05 · 19:32",
-      "pubDate": "Sun, 03 May 2026 16:32:00 -0300"
+      "title": "Técnico do Corinthians critica arbitragem e questiona uso do VAR após derrota no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532271/tecnico-do-corinthians-critica-arbitragem-e-questiona-uso-do-var-apos-derrota-no-brasileirao",
+      "time": "04/05 · 03:18",
+      "pubDate": "Mon, 04 May 2026 00:18:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Walter comenta novo reencontro com o Corinthians e enaltece momento de Hugo Souza",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532211/walter-comenta-novo-reencontro-com-o-corinthians-e-enaltece-momento-de-hugo-souza",
-      "time": "03/05 · 18:33",
-      "pubDate": "Sun, 03 May 2026 15:33:00 -0300"
+      "title": "Executivo do Corinthians detona arbitragem após derrota para o Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532277/executivo-do-corinthians-detona-arbitragem-apos-derrota-para-o-mirassol",
+      "time": "04/05 · 03:09",
+      "pubDate": "Mon, 04 May 2026 00:09:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians altera acesso de sócios do Minha Cadeira para o Majestoso após fechamento de setor",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532216/corinthians-altera-acesso-de-socios-do-minha-cadeira-para-o-majestoso-apos-fechamento-de-setor",
-      "time": "03/05 · 17:59",
-      "pubDate": "Sun, 03 May 2026 14:59:00 -0300"
+      "title": "VÍDEO: Marcelo Paz comenta decisões da arbitragem em jogos do Corinthians e se diz insatisfeito",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127560/marcelo-paz-comenta-decisoes-da-arbitragem-em-jogos-do-corinthians-e-se-diz-insatisfeito",
+      "time": "04/05 · 02:57",
+      "pubDate": "Sun, 03 May 2026 23:57:26 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode reduzir diferença para o G8 em caso de vitória sobre o Mirassol; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532204/corinthians-pode-reduzir-diferenca-para-o-g8-em-caso-de-vitoria-sobre-o-mirassol-veja-a-tabela",
-      "time": "03/05 · 17:35",
-      "pubDate": "Sun, 03 May 2026 14:35:00 -0300"
+      "title": "Meia registra primeira assistência pelo Corinthians em derrota no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532250/meia-registra-primeira-assistencia-pelo-corinthians-em-derrota-no-brasileirao",
+      "time": "04/05 · 02:28",
+      "pubDate": "Sun, 03 May 2026 23:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca quebrar jejum e vencer no Maião após quase uma década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532142/corinthians-busca-quebrar-jejum-e-vencer-no-maiao-apos-quase-uma-decada",
-      "time": "03/05 · 16:30",
-      "pubDate": "Sun, 03 May 2026 13:30:00 -0300"
+      "title": "Filho do Terrão volta a marcar pelo Corinthians após quase três meses em branco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532251/filho-do-terrao-volta-a-marcar-pelo-corinthians-apos-quase-tres-meses-em-branco",
+      "time": "04/05 · 02:26",
+      "pubDate": "Sun, 03 May 2026 23:26:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pênalti de cavadinha perdido por Memphis marcou último duelo entre Mirassol e Corinthians no Maião",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/penalti-de-cavadinha-perdido-por-memphis-marcou-ultimo-duelo-entre-mirassol-e-corinthians-no-maiao]]>",
+      "time": "03/05 · 19:14",
+      "pubDate": "Sun, 03 May 2026 16:14:02 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/rafael-guanaes-tem-duas-duvidas-e-um-reforco-para-mirassol-x-corinthians-pelo-brasileirao]]>",
       "time": "02/05 · 17:49",
       "pubDate": "Sat, 02 May 2026 14:49:23 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Escalação do Corinthians: Diniz mexe no time e Allan deve titular contra o Mirassol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-diniz-mudancas-mirassol]]>",
-      "time": "02/05 · 16:29",
-      "pubDate": "Sat, 02 May 2026 13:29:27 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,42 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Melhores Momentos: Mirassol 2x1 Corinthians | 14ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127565/melhores-momentos-mirassol-2x1-corinthians-14-rodada-brasileirao-2026",
+      "pubDate": "Mon, 04 May 2026 00:35:23 -0300",
+      "date": "04/05 · 03:35"
+    },
+    {
+      "title": "VÍDEO: Hugo Souza evita falar de arbitragem, mas lamenta derrota e mira jogos da Libertadores e Majestoso",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127563/hugo-souza-evita-falar-de-arbitragem-mas-lamenta-derrota-e-mira-jogos-da-libertadores-e-majestoso",
+      "pubDate": "Mon, 04 May 2026 00:26:29 -0300",
+      "date": "04/05 · 03:26"
+    },
+    {
+      "title": "VÍDEO: Polêmica! Diniz critica a arbitragem do jogo contra o Mirassol e aponta desgaste físico do elenco",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127562/polemica-diniz-critica-a-arbitragem-do-jogo-contra-o-mirassol-e-aponta-desgaste-fisico-do-elenco",
+      "pubDate": "Mon, 04 May 2026 00:18:00 -0300",
+      "date": "04/05 · 03:18"
+    },
+    {
+      "title": "VÍDEO: Marcelo Paz comenta decisões da arbitragem em jogos do Corinthians e se diz insatisfeito",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127560/marcelo-paz-comenta-decisoes-da-arbitragem-em-jogos-do-corinthians-e-se-diz-insatisfeito",
+      "pubDate": "Sun, 03 May 2026 23:57:26 -0300",
+      "date": "04/05 · 02:57"
+    },
+    {
+      "title": "Corinthians volta a sofrer gol e perde a chance de emplacar sequência inédita na história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532240/corinthians-volta-a-sofrer-gol-e-perde-a-chance-de-emplacar-sequencia-inedita-na-historia",
+      "pubDate": "Sun, 03 May 2026 23:06:00 -0300",
+      "date": "04/05 · 02:06"
+    },
+    {
+      "title": "Autor do gol do Corinthians lamenta ineficácia em finalizações e projeta sequência de viagens",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532257/autor-do-gol-do-corinthians-lamenta-ineficacia-em-finalizacoes-e-projeta-sequencia-de-viagens",
+      "pubDate": "Sun, 03 May 2026 23:02:00 -0300",
+      "date": "04/05 · 02:02"
+    },
+    {
       "title": "Momento conturbado e algoz de Diniz: veja como chega o Mirassol para enfrentar o Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532213/momento-conturbado-e-algoz-de-diniz-veja-como-chega-o-mirassol-para-enfrentar-o-corinthians",
       "pubDate": "Sun, 03 May 2026 18:30:00 -0300",
@@ -210,30 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532210/lateral-do-corinthians-valoriza-atuacao-em-goleada-na-estreia-do-paulistao-sub-17",
       "pubDate": "Sun, 03 May 2026 17:34:00 -0300",
       "date": "03/05 · 20:34"
-    },
-    {
-      "title": "Walter comenta novo reencontro com o Corinthians e enaltece momento de Hugo Souza",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532211/walter-comenta-novo-reencontro-com-o-corinthians-e-enaltece-momento-de-hugo-souza",
-      "pubDate": "Sun, 03 May 2026 15:33:00 -0300",
-      "date": "03/05 · 18:33"
-    },
-    {
-      "title": "Yuri Alberto busca encerrar sequência sem gols pelo Corinthians em jogo contra o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532193/yuri-alberto-busca-encerrar-jejum-de-gols-pelo-corinthians",
-      "pubDate": "Sun, 03 May 2026 11:29:00 -0300",
-      "date": "03/05 · 14:29"
-    },
-    {
-      "title": "Saiba onde assistir ao confronto entre Corinthians e Mirassol pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532191/saiba-onde-assistir-ao-confronto-entre-corinthians-e-mirassol-pelo-brasileirao",
-      "pubDate": "Sun, 03 May 2026 08:30:00 -0300",
-      "date": "03/05 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Veja como foi o desembarque do Corinthians em S.J. do Rio Preto para enfrentar o Mirassol pelo BR26",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127541/veja-como-foi-o-desembarque-do-corinthians-em-sj-do-rio-preto-para-enfrentar-o-mirassol-pelo-br26",
-      "pubDate": "Sat, 02 May 2026 19:10:00 -0300",
-      "date": "02/05 · 22:10"
     }
   ]
 };
