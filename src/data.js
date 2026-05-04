@@ -1,7 +1,55 @@
-// Gerado automaticamente em 04/05/2026, 19:09:48
+// Gerado automaticamente em 04/05/2026, 22:44:40
 const LIVE_DATA = {
-  "updatedAt": "2026-05-04T19:09:48.633Z",
+  "updatedAt": "2026-05-04T22:44:40.069Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Filho do Terrão sobe na lista de artilheiros do Corinthians após marcar contra o Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532266/filho-do-terrao-sobe-na-lista-de-artilheiros-do-corinthians-apos-marcar-contra-o-mirassol",
+      "time": "04/05 · 22:31",
+      "pubDate": "Mon, 04 May 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogos do Corinthians na LNF em 2026 e 2027 terão transmissão para o mundo inteiro; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532309/jogos-do-corinthians-na-lnf-em-2026-e-2027-terao-transmissao-para-o-mundo-inteiro-entenda",
+      "time": "04/05 · 21:28",
+      "pubDate": "Mon, 04 May 2026 18:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encara maratona de jogos em maio pelo Brasileirão e Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532313/corinthians-encara-maratona-de-jogos-em-maio-pelo-brasileirao-e-paulista-feminino",
+      "time": "04/05 · 21:06",
+      "pubDate": "Mon, 04 May 2026 18:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz analisa estreia de volante e peso dos desfalques em derrota do Corinthians para o Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532275/diniz-analisa-estreia-de-volante-e-peso-dos-desfalques-em-derrota-do-corinthians-para-o-mirassol",
+      "time": "04/05 · 20:34",
+      "pubDate": "Mon, 04 May 2026 17:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MP reforça urgência de intervenção judicial no Corinthians por aprovação das contas de 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532320/mp-reforca-urgencia-de-intervencao-judicial-no-corinthians-por-aprovacao-das-contas-de-2025",
+      "time": "04/05 · 20:20",
+      "pubDate": "Mon, 04 May 2026 17:20:24 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca classificação inédita no NBB em série contra o Minas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532222/corinthians-busca-classificacao-inedita-no-nbb-em-serie-contra-o-minas",
+      "time": "04/05 · 19:32",
+      "pubDate": "Mon, 04 May 2026 16:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +57,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532293/goleiro-do-corinthians-lamenta-gol-de-penalti-e-prega-clima-de-guerra-no-majestoso",
       "time": "04/05 · 18:34",
       "pubDate": "Mon, 04 May 2026 15:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "CBF divulga áudio do VAR sobre cartão vermelho cancelado pela arbitragem em Mirassol x Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cbf-divulga-audio-do-var-sobre-cartao-vermelho-cancelado-pela-arbitragem-em-mirassol-x-corinthians]]>",
+      "time": "04/05 · 18:32",
+      "pubDate": "Mon, 04 May 2026 15:32:42 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,52 +75,36 @@ const LIVE_DATA = {
       "pubDate": "Mon, 04 May 2026 15:04:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians desliga coach mental por questões financeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532311/corinthians-desliga-coach-mental-por-questoes-financeiras",
-      "time": "04/05 · 17:36",
-      "pubDate": "Mon, 04 May 2026 14:36:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança por volta de Mantuan e acena fazer proposta de empréstimo ao Zenit na janela",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-por-volta-de-mantuan-e-acena-fazer-proposta-de-emprestimo-ao-zenit-na-janela]]>",
+      "time": "04/05 · 17:12",
+      "pubDate": "Mon, 04 May 2026 14:12:52 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians amplia sequência de quase uma década sem vitórias no Maião após derrota para o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532268/corinthians-amplia-sequencia-de-quase-uma-decada-sem-vitorias-no-maiao-apos-derrota-para-o-mirassol",
-      "time": "04/05 · 17:27",
-      "pubDate": "Mon, 04 May 2026 14:27:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Neto dispara contra arbitragem após derrota do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-dispara-contra-arbitragem-apos-derrota-do-corinthians]]>",
+      "time": "04/05 · 14:47",
+      "pubDate": "Mon, 04 May 2026 11:47:39 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Trio do Corinthians é titular em nova goleada do Brasil antes da semifinal do Sul-Americano Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532297/trio-do-corinthians-e-titular-em-nova-goleada-do-brasil-antes-da-semifinal-do-sul-americano-sub-17",
-      "time": "04/05 · 15:31",
-      "pubDate": "Mon, 04 May 2026 12:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz critica falta de ânimo do Corinthians e cobra concentração após derrota",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-critica-falta-de-animo-do-corinthians-e-cobra-concentracao-apos-derrota]]>",
+      "time": "04/05 · 13:49",
+      "pubDate": "Mon, 04 May 2026 10:49:53 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece detalhes das oitavas de final da Copa LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532308/corinthians-conhece-detalhes-das-oitavas-de-final-da-copa-lnf",
-      "time": "04/05 · 15:09",
-      "pubDate": "Mon, 04 May 2026 12:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Entenda por que a CBF divulgou apenas o áudio da correção do vermelho em Corinthians e Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532306/entenda-por-que-a-cbf-divulgou-apenas-o-audio-da-correcao-do-vermelho-em-corinthians-e-mirassol",
-      "time": "04/05 · 14:42",
-      "pubDate": "Mon, 04 May 2026 11:42:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga detalhes da venda de ingressos para o clássico contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532303/corinthians-divulga-detalhes-da-venda-de-ingressos-para-o-classico-contra-o-sao-paulo",
-      "time": "04/05 · 14:02",
-      "pubDate": "Mon, 04 May 2026 11:02:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz já iniciou os contatos e Corinthians vai contratar novo centroavante no mercado da bola",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-ja-iniciou-os-contatos-e-corinthians-vai-contratar-novo-centroavante-no-mercado-da-bola]]>",
+      "time": "04/05 · 13:48",
+      "pubDate": "Mon, 04 May 2026 10:48:18 -0300"
     },
     {
       "source": "Bolavip",
@@ -77,22 +117,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Marcelo Paz já iniciou os contatos e Corinthians vai contratar novo centroavante no mercado da bola",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-ja-iniciou-os-contatos-e-corinthians-vai-contratar-novo-centroavante-no-mercado-da-bola]]>",
-      "time": "04/05 · 12:49",
-      "pubDate": "Mon, 04 May 2026 09:49:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz critica falta de ânimo do Corinthians e cobra concentração após derrota",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-critica-falta-de-animo-do-corinthians-e-cobra-concentracao-apos-derrota]]>",
-      "time": "04/05 · 09:54",
-      "pubDate": "Mon, 04 May 2026 06:54:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians reage e cobra CBF após polêmica de arbitragem",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reage-e-cobra-cbf-apos-polemica-de-arbitragem]]>",
       "time": "04/05 · 09:54",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians sofre primeira derrota com Fernando Diniz após reação tardia diante do Mirassol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofre-primeira-derrota-com-fernando-diniz-apos-reacao-tardia-diante-do-mirassol]]>",
-      "time": "04/05 · 09:15",
-      "pubDate": "Mon, 04 May 2026 06:15:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Fernando Diniz desabafa sobre arbitragem em derrota do Corinthians para o Mirassol pelo Brasileirão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-desabafa-sobre-arbitragem-em-derrota-do-corinthians-para-o-mirassol-pelo-brasileirao]]>",
       "time": "04/05 · 04:07",
       "pubDate": "Mon, 04 May 2026 01:07:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians busca reação, mas sai derrotado diante do Mirassol em jogo marcado por polêmicas de arbitragem",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-reacao-mas-sai-derrotado-diante-do-mirassol-em-jogo-marcado-por-polemicas-de-arbitragem]]>",
-      "time": "04/05 · 01:40",
-      "pubDate": "Sun, 03 May 2026 22:40:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz chama árbitro de mascarado em derrota do Corinthians para o Mirassol pelo Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-chama-arbitro-de-mascarado-em-mirassol-x-corinthians]]>",
-      "time": "04/05 · 01:32",
-      "pubDate": "Sun, 03 May 2026 22:32:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -234,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127560/marcelo-paz-comenta-decisoes-da-arbitragem-em-jogos-do-corinthians-e-se-diz-insatisfeito",
       "pubDate": "Sun, 03 May 2026 23:57:26 -0300",
       "date": "04/05 · 02:57"
-    },
-    {
-      "title": "Corinthians volta a sofrer gol e perde a chance de emplacar sequência inédita na história",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532240/corinthians-volta-a-sofrer-gol-e-perde-a-chance-de-emplacar-sequencia-inedita-na-historia",
-      "pubDate": "Sun, 03 May 2026 23:06:00 -0300",
-      "date": "04/05 · 02:06"
-    },
-    {
-      "title": "Autor do gol do Corinthians lamenta ineficácia em finalizações e projeta sequência de viagens",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532257/autor-do-gol-do-corinthians-lamenta-ineficacia-em-finalizacoes-e-projeta-sequencia-de-viagens",
-      "pubDate": "Sun, 03 May 2026 23:02:00 -0300",
-      "date": "04/05 · 02:02"
     }
   ]
 };
