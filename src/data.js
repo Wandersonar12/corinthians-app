@@ -1,62 +1,86 @@
-// Gerado automaticamente em 04/05/2026, 22:44:40
+// Gerado automaticamente em 05/05/2026, 09:49:17
 const LIVE_DATA = {
-  "updatedAt": "2026-05-04T22:44:40.069Z",
+  "updatedAt": "2026-05-05T09:49:17.468Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Filho do Terrão sobe na lista de artilheiros do Corinthians após marcar contra o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532266/filho-do-terrao-sobe-na-lista-de-artilheiros-do-corinthians-apos-marcar-contra-o-mirassol",
-      "time": "04/05 · 22:31",
-      "pubDate": "Mon, 04 May 2026 19:31:00 -0300"
+      "title": "Corinthians desembarca na Colômbia com 25 jogadores para enfrentar o Santa Fe; veja relacionados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532314/corinthians-desembarca-na-colombia-com-25-jogadores-para-enfrentar-o-santa-fe-veja-relacionados",
+      "time": "05/05 · 05:40",
+      "pubDate": "Tue, 05 May 2026 02:40:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogos do Corinthians na LNF em 2026 e 2027 terão transmissão para o mundo inteiro; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532309/jogos-do-corinthians-na-lnf-em-2026-e-2027-terao-transmissao-para-o-mundo-inteiro-entenda",
-      "time": "04/05 · 21:28",
-      "pubDate": "Mon, 04 May 2026 18:28:00 -0300"
+      "title": "VÍDEO: Presidente do Conselho Deliberativo do Corinthians explica a votação da reforma do estatuto",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127578/presidente-do-conselho-deliberativo-do-corinthians-explica-a-votacao-da-reforma-do-estatuto",
+      "time": "05/05 · 02:26",
+      "pubDate": "Mon, 04 May 2026 23:26:48 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encara maratona de jogos em maio pelo Brasileirão e Paulista Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532313/corinthians-encara-maratona-de-jogos-em-maio-pelo-brasileirao-e-paulista-feminino",
-      "time": "04/05 · 21:06",
-      "pubDate": "Mon, 04 May 2026 18:06:00 -0300"
+      "title": "Pantaleão detalha próximos passos para aprovação da reforma do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532332/pantaleao-detalha-proximos-passos-para-aprovacao-da-reforma-do-estatuto-do-corinthians",
+      "time": "05/05 · 02:20",
+      "pubDate": "Mon, 04 May 2026 23:20:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz analisa estreia de volante e peso dos desfalques em derrota do Corinthians para o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532275/diniz-analisa-estreia-de-volante-e-peso-dos-desfalques-em-derrota-do-corinthians-para-o-mirassol",
-      "time": "04/05 · 20:34",
-      "pubDate": "Mon, 04 May 2026 17:34:00 -0300"
+      "title": "VÍDEO: Conselheiro do Corinthians fala sobre a votação da SAF no novo estatuto do clube",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127576/conselheiro-do-corinthians-fala-sobre-a-votacao-da-saf-no-novo-estatuto-do-clube",
+      "time": "05/05 · 02:09",
+      "pubDate": "Mon, 04 May 2026 23:09:13 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "MP reforça urgência de intervenção judicial no Corinthians por aprovação das contas de 2025",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532320/mp-reforca-urgencia-de-intervencao-judicial-no-corinthians-por-aprovacao-das-contas-de-2025",
-      "time": "04/05 · 20:20",
-      "pubDate": "Mon, 04 May 2026 17:20:24 -0300"
+      "title": "SAF 'ignorada' e redução do Conselho: veja as aprovações na reforma do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532318/saf-ignorada-e-reducao-do-conselho-veja-as-aprovacoes-na-reforma-do-estatuto-do-corinthians",
+      "time": "05/05 · 01:32",
+      "pubDate": "Mon, 04 May 2026 22:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca classificação inédita no NBB em série contra o Minas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532222/corinthians-busca-classificacao-inedita-no-nbb-em-serie-contra-o-minas",
-      "time": "04/05 · 19:32",
-      "pubDate": "Mon, 04 May 2026 16:32:00 -0300"
+      "title": "Corinthians celebra 95 anos da peteca no clube com torneio no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532315/corinthians-celebra-95-anos-da-peteca-no-clube-com-torneio-no-parque-sao-jorge",
+      "time": "05/05 · 01:30",
+      "pubDate": "Mon, 04 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians lamenta gol de pênalti e prega clima de 'guerra' no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532293/goleiro-do-corinthians-lamenta-gol-de-penalti-e-prega-clima-de-guerra-no-majestoso",
-      "time": "04/05 · 18:34",
-      "pubDate": "Mon, 04 May 2026 15:34:00 -0300"
+      "title": "Corinthians chega à quinta derrota seguida no interior paulista em jogos do Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532284/corinthians-chega-a-quinta-derrota-seguida-no-interior-paulista-em-jogos-do-campeonato-brasileiro",
+      "time": "05/05 · 00:27",
+      "pubDate": "Mon, 04 May 2026 21:27:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Minas fora de casa e abre vantagem nas quartas de final do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532323/corinthians-vence-o-minas-fora-de-casa-e-abre-vantagem-nas-quartas-de-final-do-nbb",
+      "time": "05/05 · 00:01",
+      "pubDate": "Mon, 04 May 2026 21:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Previsão da Inteligência Artificial crava placar exato de Santa Fe x Corinthians pela Copa Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/previsao-da-inteligencia-artificial-crava-placar-exato-de-santa-fe-x-corinthians-pela-copa-libertadores]]>",
+      "time": "04/05 · 22:19",
+      "pubDate": "Mon, 04 May 2026 19:19:07 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians precisa acelerar por João Paulo após movimento do Bahia pelo goleiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-precisa-acelerar-por-joao-paulo-apos-movimento-do-bahia-pelo-goleiro]]>",
+      "time": "04/05 · 19:58",
+      "pubDate": "Mon, 04 May 2026 16:58:23 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/cbf-divulga-audio-do-var-sobre-cartao-vermelho-cancelado-pela-arbitragem-em-mirassol-x-corinthians]]>",
       "time": "04/05 · 18:32",
       "pubDate": "Mon, 04 May 2026 15:32:42 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Com retorno de zagueira, Corinthians inicia preparação para clássico contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532312/com-retorno-de-zagueira-corinthians-inicia-preparacao-para-classico-contra-o-sao-paulo",
-      "time": "04/05 · 18:04",
-      "pubDate": "Mon, 04 May 2026 15:04:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fortalece-bastidores-com-julio-cesar-e-ganha-novo-elo]]>",
       "time": "04/05 · 13:13",
       "pubDate": "Mon, 04 May 2026 10:13:15 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians reage e cobra CBF após polêmica de arbitragem",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reage-e-cobra-cbf-apos-polemica-de-arbitragem]]>",
-      "time": "04/05 · 09:54",
-      "pubDate": "Mon, 04 May 2026 06:54:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz desabafa sobre arbitragem em derrota do Corinthians para o Mirassol pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-desabafa-sobre-arbitragem-em-derrota-do-corinthians-para-o-mirassol-pelo-brasileirao]]>",
-      "time": "04/05 · 04:07",
-      "pubDate": "Mon, 04 May 2026 01:07:35 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Presidente do Conselho Deliberativo do Corinthians explica a votação da reforma do estatuto",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127578/presidente-do-conselho-deliberativo-do-corinthians-explica-a-votacao-da-reforma-do-estatuto",
+      "pubDate": "Mon, 04 May 2026 23:26:48 -0300",
+      "date": "05/05 · 02:26"
+    },
+    {
+      "title": "VÍDEO: Conselheiro do Corinthians fala sobre a votação da SAF no novo estatuto do clube",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127576/conselheiro-do-corinthians-fala-sobre-a-votacao-da-saf-no-novo-estatuto-do-clube",
+      "pubDate": "Mon, 04 May 2026 23:09:13 -0300",
+      "date": "05/05 · 02:09"
+    },
+    {
       "title": "Goleiro do Corinthians lamenta gol de pênalti e prega clima de 'guerra' no Majestoso",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532293/goleiro-do-corinthians-lamenta-gol-de-penalti-e-prega-clima-de-guerra-no-majestoso",
       "pubDate": "Mon, 04 May 2026 15:34:00 -0300",
@@ -210,30 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532297/trio-do-corinthians-e-titular-em-nova-goleada-do-brasil-antes-da-semifinal-do-sul-americano-sub-17",
       "pubDate": "Mon, 04 May 2026 12:31:00 -0300",
       "date": "04/05 · 15:31"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Mirassol 2x1 Corinthians | 14ª rodada | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127565/melhores-momentos-mirassol-2x1-corinthians-14-rodada-brasileirao-2026",
-      "pubDate": "Mon, 04 May 2026 00:35:23 -0300",
-      "date": "04/05 · 03:35"
-    },
-    {
-      "title": "VÍDEO: Hugo Souza evita falar de arbitragem, mas lamenta derrota e mira jogos da Libertadores e Majestoso",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127563/hugo-souza-evita-falar-de-arbitragem-mas-lamenta-derrota-e-mira-jogos-da-libertadores-e-majestoso",
-      "pubDate": "Mon, 04 May 2026 00:26:29 -0300",
-      "date": "04/05 · 03:26"
-    },
-    {
-      "title": "VÍDEO: Polêmica! Diniz critica a arbitragem do jogo contra o Mirassol e aponta desgaste físico do elenco",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127562/polemica-diniz-critica-a-arbitragem-do-jogo-contra-o-mirassol-e-aponta-desgaste-fisico-do-elenco",
-      "pubDate": "Mon, 04 May 2026 00:18:00 -0300",
-      "date": "04/05 · 03:18"
-    },
-    {
-      "title": "VÍDEO: Marcelo Paz comenta decisões da arbitragem em jogos do Corinthians e se diz insatisfeito",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127560/marcelo-paz-comenta-decisoes-da-arbitragem-em-jogos-do-corinthians-e-se-diz-insatisfeito",
-      "pubDate": "Sun, 03 May 2026 23:57:26 -0300",
-      "date": "04/05 · 02:57"
     }
   ]
 };
