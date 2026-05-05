@@ -1,7 +1,47 @@
-// Gerado automaticamente em 05/05/2026, 09:49:17
+// Gerado automaticamente em 05/05/2026, 13:03:08
 const LIVE_DATA = {
-  "updatedAt": "2026-05-05T09:49:17.468Z",
+  "updatedAt": "2026-05-05T13:03:08.362Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se mantém na liderança do Brasileirão Feminino ao fim da nona rodada; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532338/corinthians-se-mantem-na-lideranca-do-brasileirao-feminino-ao-fim-da-nona-rodada-veja-a-tabela",
+      "time": "05/05 · 12:36",
+      "pubDate": "Tue, 05 May 2026 09:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ganha fôlego e estica prazo para evitar transfer ban em dívida com Talleres por Garro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532326/corinthians-ganha-folego-e-estica-prazo-para-evitar-transfer-ban-em-divida-com-talleres-por-garro",
+      "time": "05/05 · 11:30",
+      "pubDate": "Tue, 05 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: intervenção judicial, coach desligado e votação do Conselho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532328/ultimas-do-corinthians-intervencao-judicial-coach-desligado-e-votacao-do-conselho",
+      "time": "05/05 · 10:30",
+      "pubDate": "Tue, 05 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem prazo para pagar dívida sobre Garro e não levar transferban",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-prazo-para-pagar-divida-sobre-garro-e-nao-levar-transferban]]>",
+      "time": "05/05 · 09:42",
+      "pubDate": "Tue, 05 May 2026 06:42:32 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto não está negociando com a Europa e irá permanecer no Corinthians, segundo Thiago Rodrigues",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-nao-esta-negociando-com-a-europa-e-ira-permanecer-no-corinthians-segundo-thiago-rodrigues]]>",
+      "time": "05/05 · 09:08",
+      "pubDate": "Tue, 05 May 2026 06:08:36 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,28 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 04 May 2026 22:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians celebra 95 anos da peteca no clube com torneio no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532315/corinthians-celebra-95-anos-da-peteca-no-clube-com-torneio-no-parque-sao-jorge",
-      "time": "05/05 · 01:30",
-      "pubDate": "Mon, 04 May 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega à quinta derrota seguida no interior paulista em jogos do Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532284/corinthians-chega-a-quinta-derrota-seguida-no-interior-paulista-em-jogos-do-campeonato-brasileiro",
-      "time": "05/05 · 00:27",
-      "pubDate": "Mon, 04 May 2026 21:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o Minas fora de casa e abre vantagem nas quartas de final do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532323/corinthians-vence-o-minas-fora-de-casa-e-abre-vantagem-nas-quartas-de-final-do-nbb",
-      "time": "05/05 · 00:01",
-      "pubDate": "Mon, 04 May 2026 21:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians reclama da arbitragem e Guanaes analisa decisões após vitória do Mirassol: “Não teve influência”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reclama-da-arbitragem-e-guanaes-analisa-decisoes-apos-vitoria-do-mirassol-nao-teve-influencia]]>",
+      "time": "05/05 · 00:32",
+      "pubDate": "Mon, 04 May 2026 21:32:08 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-dispara-contra-arbitragem-apos-derrota-do-corinthians]]>",
       "time": "04/05 · 14:47",
       "pubDate": "Mon, 04 May 2026 11:47:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz critica falta de ânimo do Corinthians e cobra concentração após derrota",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-critica-falta-de-animo-do-corinthians-e-cobra-concentracao-apos-derrota]]>",
-      "time": "04/05 · 13:49",
-      "pubDate": "Mon, 04 May 2026 10:49:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz já iniciou os contatos e Corinthians vai contratar novo centroavante no mercado da bola",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-ja-iniciou-os-contatos-e-corinthians-vai-contratar-novo-centroavante-no-mercado-da-bola]]>",
-      "time": "04/05 · 13:48",
-      "pubDate": "Mon, 04 May 2026 10:48:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians fortalece bastidores com Júlio César e ganha novo elo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fortalece-bastidores-com-julio-cesar-e-ganha-novo-elo]]>",
-      "time": "04/05 · 13:13",
-      "pubDate": "Mon, 04 May 2026 10:13:15 -0300"
     },
     {
       "source": "Gazeta Esportiva",
