@@ -1,78 +1,126 @@
-// Gerado automaticamente em 05/05/2026, 19:00:42
+// Gerado automaticamente em 05/05/2026, 22:43:08
 const LIVE_DATA = {
-  "updatedAt": "2026-05-05T19:00:42.996Z",
+  "updatedAt": "2026-05-05T22:43:08.483Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Como você escalaria o Corinthians para enfrentar o Santa Fe? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532346/como-voce-escalaria-o-corinthians-para-enfrentar-o-santa-fe-vote-na-enquete-do-meu-timao",
-      "time": "05/05 · 18:31",
-      "pubDate": "Tue, 05 May 2026 15:31:00 -0300"
+      "title": "Corinthians é o time da Série A que menos pontua com jogador a mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532352/corinthians-e-o-time-da-serie-a-que-menos-pontua-com-jogador-a-mais",
+      "time": "05/05 · 22:34",
+      "pubDate": "Tue, 05 May 2026 19:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians disponibiliza ingressos gratuitos para jogo contra o Fluminense no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532356/corinthians-disponibiliza-ingressos-gratuitos-para-jogo-contra-o-fluminense-no-brasileiro-sub-20",
-      "time": "05/05 · 18:07",
-      "pubDate": "Tue, 05 May 2026 15:07:00 -0300"
+      "title": "Técnico do Corinthians é denunciado no STJD por críticas à arbitragem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532375/tecnico-do-corinthians-e-denunciado-no-stjd-por-criticas-a-arbitragem",
+      "time": "05/05 · 22:13",
+      "pubDate": "Tue, 05 May 2026 19:13:48 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Promessa do Corinthians destaca preparação da Seleção antes da semifinal do Sul-Americano Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532337/promessa-do-corinthians-destaca-preparacao-da-selecao-antes-da-semifinal-do-sul-americano-sub-17",
-      "time": "05/05 · 17:32",
-      "pubDate": "Tue, 05 May 2026 14:32:00 -0300"
+      "title": "Comissão recomenda apuração disciplinar de vice e funcionário do Corinthians por sumiço de materiais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532370/comissao-recomenda-apuracao-disciplinar-de-vice-e-funcionario-do-corinthians-por-sumico-de-materiais",
+      "time": "05/05 · 22:00",
+      "pubDate": "Tue, 05 May 2026 19:00:33 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca melhorar retrospecto em jogos oficiais na altitude; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532324/corinthians-busca-melhorar-retrospecto-em-jogos-oficiais-na-altitude-veja-os-numeros",
-      "time": "05/05 · 16:32",
-      "pubDate": "Tue, 05 May 2026 13:32:00 -0300"
+      "title": "Corinthians encerra preparação para jogo contra o Santa Fe pela Libertadores; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532341/corinthians-encerra-preparacao-para-jogo-contra-o-santa-fe-pela-libertadores-veja-o-provavel-time",
+      "time": "05/05 · 21:53",
+      "pubDate": "Tue, 05 May 2026 18:53:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians entra em acordo com o Palmeiras e se aproxima de retorno ao MCF; entenda próximo entrave",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532350/corinthians-entra-em-acordo-com-o-palmeiras-e-se-aproxima-de-retorno-ao-mcf-entenda-proximo-entrave",
-      "time": "05/05 · 15:33",
-      "pubDate": "Tue, 05 May 2026 12:33:00 -0300"
+      "title": "Corinthians finaliza preparação para enfrentar o Fluminense pelo Campeonato Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532372/corinthians-finaliza-preparacao-para-enfrentar-o-fluminense-pelo-campeonato-brasileiro-sub-20",
+      "time": "05/05 · 21:31",
+      "pubDate": "Tue, 05 May 2026 18:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians divulga detalhes da venda de ingressos para Majestoso válido pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532348/corinthians-divulga-detalhes-da-venda-de-ingressos-para-majestoso-valido-pelo-paulistao-feminino",
-      "time": "05/05 · 15:19",
-      "pubDate": "Tue, 05 May 2026 12:19:00 -0300"
+      "title": "Corinthians tem retrospecto positivo em partidas na Colômbia; relembre jogo a jogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532319/corinthians-tem-retrospecto-positivo-em-partidas-na-colombia-relembre-jogo-a-jogo",
+      "time": "05/05 · 21:30",
+      "pubDate": "Tue, 05 May 2026 18:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians abre venda de ingressos para duelo contra o Minas pelas quartas de final do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532344/corinthians-abre-venda-de-ingressos-para-duelo-contra-o-minas-pelas-quartas-de-final-do-nbb",
-      "time": "05/05 · 14:23",
-      "pubDate": "Tue, 05 May 2026 11:23:00 -0300"
+      "title": "Corinthians entra com recurso para liberação de André Luiz para o Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532371/corinthians-entra-com-recurso-para-liberacao-de-andre-luiz-para-o-majestoso",
+      "time": "05/05 · 21:09",
+      "pubDate": "Tue, 05 May 2026 18:09:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Veja como foi o desembarque do Corinthians em Bogotá para enfrentar o Santa Fe pela Libertadores 26",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127583/veja-como-foi-o-desembarque-do-corinthians-em-bogota-para-enfrentar-o-santa-fe-pela-libertadores-26",
-      "time": "05/05 · 13:47",
-      "pubDate": "Tue, 05 May 2026 10:47:37 -0300"
+      "title": "Corinthians divulga venda de ingressos para partida contra o Taubaté no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532368/corinthians-divulga-venda-de-ingressos-para-partida-contra-o-taubate-no-paulista-de-futsal",
+      "time": "05/05 · 21:03",
+      "pubDate": "Tue, 05 May 2026 18:03:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "BYD topa bancar metade de novo contrato de Memphis Depay e Corinthians avança por renovação até 2028",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/byd-topa-bancar-metade-de-novo-contrato-de-memphis-depay-e-corinthians-avanca-por-renovacao-ate-2028]]>",
+      "time": "05/05 · 18:15",
+      "pubDate": "Tue, 05 May 2026 15:15:32 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Desfalques do Corinthians: Memphis Depay, Allan e mais cinco ficam fora contra o Santa Fé",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/desfalques-do-corinthians-memphis-depay-allan-e-mais-cinco-ficam-fora-contra-o-santa-fe]]>",
+      "time": "05/05 · 16:56",
+      "pubDate": "Tue, 05 May 2026 13:56:26 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vidente crava placar de Santa Fe x Corinthians e faz alerta para possíveis expulsões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-crava-placar-de-santa-fe-x-corinthians-e-faz-alerta-para-possiveis-expulsoes]]>",
+      "time": "05/05 · 16:21",
+      "pubDate": "Tue, 05 May 2026 13:21:07 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Staff de André força saída do Corinthians rumo à Europa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/staff-de-andre-forca-saida-do-corinthians-rumo-a-europa]]>",
+      "time": "05/05 · 14:43",
+      "pubDate": "Tue, 05 May 2026 11:43:33 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians estuda envolver Gui Negão, Dieguinho ou Tchoca em negociação por Gustavo Mantuan, do Zenit",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-envolver-gui-negao-dieguinho-ou-tchoca-em-negociacao-por-gustavo-mantuan-do-zenit]]>",
-      "time": "05/05 · 12:13",
-      "pubDate": "Tue, 05 May 2026 09:13:41 -0300"
+      "time": "05/05 · 13:50",
+      "pubDate": "Tue, 05 May 2026 10:50:10 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem prazo para pagar dívida sobre Garro e não levar transferban",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-prazo-para-pagar-divida-sobre-garro-e-nao-levar-transferban]]>",
+      "time": "05/05 · 13:49",
+      "pubDate": "Tue, 05 May 2026 10:49:36 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians toma decisão sobre virar SAF e conselheiro vetam mudança no estatuto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-toma-decisao-sobre-virar-saf-e-conselheiro-vetam-mudanca-no-estatuto]]>",
+      "time": "05/05 · 13:15",
+      "pubDate": "Tue, 05 May 2026 10:15:21 -0300"
     },
     {
       "source": "Bolavip",
@@ -83,116 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Tue, 05 May 2026 08:16:40 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem prazo para pagar dívida sobre Garro e não levar transferban",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-prazo-para-pagar-divida-sobre-garro-e-nao-levar-transferban]]>",
-      "time": "05/05 · 10:36",
-      "pubDate": "Tue, 05 May 2026 07:36:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto não está negociando com a Europa e irá permanecer no Corinthians, segundo Thiago Rodrigues",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-nao-esta-negociando-com-a-europa-e-ira-permanecer-no-corinthians-segundo-thiago-rodrigues]]>",
-      "time": "05/05 · 09:08",
-      "pubDate": "Tue, 05 May 2026 06:08:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians reclama da arbitragem e Guanaes analisa decisões após vitória do Mirassol: “Não teve influência”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reclama-da-arbitragem-e-guanaes-analisa-decisoes-apos-vitoria-do-mirassol-nao-teve-influencia]]>",
-      "time": "05/05 · 00:32",
-      "pubDate": "Mon, 04 May 2026 21:32:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Previsão da Inteligência Artificial crava placar exato de Santa Fe x Corinthians pela Copa Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/previsao-da-inteligencia-artificial-crava-placar-exato-de-santa-fe-x-corinthians-pela-copa-libertadores]]>",
-      "time": "04/05 · 22:19",
-      "pubDate": "Mon, 04 May 2026 19:19:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians precisa acelerar por João Paulo após movimento do Bahia pelo goleiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-precisa-acelerar-por-joao-paulo-apos-movimento-do-bahia-pelo-goleiro]]>",
-      "time": "04/05 · 19:58",
-      "pubDate": "Mon, 04 May 2026 16:58:23 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "CBF divulga áudio do VAR sobre cartão vermelho cancelado pela arbitragem em Mirassol x Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cbf-divulga-audio-do-var-sobre-cartao-vermelho-cancelado-pela-arbitragem-em-mirassol-x-corinthians]]>",
-      "time": "04/05 · 18:32",
-      "pubDate": "Mon, 04 May 2026 15:32:42 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
+      "time": "21/04 · 02:02",
+      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Memphis decepciona em nova função no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
-      "time": "02/03 · 10:00",
-      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
+      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalaç��es",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
+      "time": "20/04 · 23:00",
+      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
-      "time": "02/03 · 09:00",
-      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
+      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 22:31",
+      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
-      "time": "02/03 · 08:00",
-      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
+      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
+      "time": "20/04 · 20:30",
+      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
-      "time": "02/03 · 01:05",
-      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
+      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 19:00",
+      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
-      "time": "02/03 · 00:27",
-      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 18:55",
+      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians: conheça os números da equipe na temporada 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
-      "time": "01/03 · 17:29",
-      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
+      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
+      "time": "20/04 · 15:21",
+      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
-      "time": "01/03 · 12:25",
-      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
-      "time": "01/03 · 11:00",
-      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
+      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
+      "time": "20/04 · 10:00",
+      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
     }
   ],
   "upcoming": [],
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127576/conselheiro-do-corinthians-fala-sobre-a-votacao-da-saf-no-novo-estatuto-do-clube",
       "pubDate": "Mon, 04 May 2026 23:09:13 -0300",
       "date": "05/05 · 02:09"
-    },
-    {
-      "title": "Goleiro do Corinthians lamenta gol de pênalti e prega clima de 'guerra' no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532293/goleiro-do-corinthians-lamenta-gol-de-penalti-e-prega-clima-de-guerra-no-majestoso",
-      "pubDate": "Mon, 04 May 2026 15:34:00 -0300",
-      "date": "04/05 · 18:34"
     }
   ]
 };
