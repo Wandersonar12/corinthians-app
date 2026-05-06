@@ -1,7 +1,55 @@
-// Gerado automaticamente em 06/05/2026, 10:06:14
+// Gerado automaticamente em 06/05/2026, 13:23:21
 const LIVE_DATA = {
-  "updatedAt": "2026-05-06T10:06:14.538Z",
+  "updatedAt": "2026-05-06T13:23:21.114Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselho do Corinthians recebe denúncias de irregularidades na aprovação das contas de 2025 do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532400/conselho-do-corinthians-recebe-denuncias-de-irregularidades-na-aprovacao-das-contas-de-2025-do-clube",
+      "time": "06/05 · 13:00",
+      "pubDate": "Wed, 06 May 2026 10:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Jaraguá pela Liga Nacional para quebrar tabu em Santa Catarina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532362/corinthians-visita-o-jaragua-pela-liga-nacional-para-quebrar-tabu-em-santa-catarina-saiba-tudo",
+      "time": "06/05 · 12:31",
+      "pubDate": "Wed, 06 May 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o Fluminense para voltar a vencer no Brasileiro Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532361/corinthians-enfrenta-o-fluminense-para-voltar-a-vencer-no-brasileiro-sub-20-saiba-tudo",
+      "time": "06/05 · 12:02",
+      "pubDate": "Wed, 06 May 2026 09:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Independiente Santa Fe pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532365/saiba-onde-assistir-a-partida-entre-corinthians-e-independiente-santa-fe-pela-libertadores",
+      "time": "06/05 · 11:31",
+      "pubDate": "Wed, 06 May 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: provável escalação, acordo pelo MCF e novo prazo com Talleres",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532384/ultimas-do-corinthians-provavel-escalacao-acordo-pelo-mcf-e-novo-prazo-com-talleres",
+      "time": "06/05 · 10:30",
+      "pubDate": "Wed, 06 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Santa Fe x Corinthians: onde assistir ao vivo, horário e escalações do jogo desta quarta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/santa-fe-corinthians-onde-assistir-ao-vivo-jogo-copa-libertadores-hoje-horario-transmissao-tv-internet-streaming-escalacoes]]>",
+      "time": "06/05 · 03:38",
+      "pubDate": "Wed, 06 May 2026 00:38:33 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,60 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Tue, 05 May 2026 21:40:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Joia da base do Corinthians celebra retorno aos gramados e projeta futuro no clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532360/joia-da-base-do-corinthians-celebra-retorno-aos-gramados-e-projeta-futuro-no-clube",
-      "time": "06/05 · 00:31",
-      "pubDate": "Tue, 05 May 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Do Bayern ao Corinthians: chef alemão explica como virou torcedor do Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532195/do-bayern-ao-corinthians-chef-alemao-explica-como-virou-torcedor-do-timao",
-      "time": "06/05 · 00:03",
-      "pubDate": "Tue, 05 May 2026 21:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca voltar a vencer o Fluminense pelo Sub-20 após maus resultados e eliminação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532359/corinthians-busca-voltar-a-vencer-o-fluminense-pelo-sub-20-apos-maus-resultados-e-eliminacao",
-      "time": "05/05 · 23:32",
-      "pubDate": "Tue, 05 May 2026 20:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra goleiro para sequência da temporada do Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532381/corinthians-registra-goleiro-para-sequencia-da-temporada-do-sub-20",
-      "time": "05/05 · 23:26",
-      "pubDate": "Tue, 05 May 2026 20:26:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante retorna aos treinos com o elenco antes da estreia do Corinthians no Paulista Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532380/volante-retorna-aos-treinos-com-o-elenco-antes-da-estreia-do-corinthians-no-paulista-feminino",
-      "time": "05/05 · 23:09",
-      "pubDate": "Tue, 05 May 2026 20:09:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto chegou a sete jogos sem marcar gols e vive maior jejum no Corinthians desde setembro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-esta-ha-sete-jogos-sem-marcar-gols-pelo-corinthians]]>",
+      "time": "06/05 · 00:23",
+      "pubDate": "Tue, 05 May 2026 21:23:43 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians não cogita incluir atletas por Mantuan, e Zenit deseja acordo com clube europeu",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-cogita-incluir-atletas-por-mantuan-e-zenit-deseja-acordo-com-clube-europeu]]>",
-      "time": "05/05 · 22:29",
-      "pubDate": "Tue, 05 May 2026 19:29:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto chegou a sete jogos sem marcar gols e vive maior jejum no Corinthians desde setembro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-esta-ha-sete-jogos-sem-marcar-gols-pelo-corinthians]]>",
-      "time": "05/05 · 22:27",
-      "pubDate": "Tue, 05 May 2026 19:27:22 -0300"
+      "time": "05/05 · 23:10",
+      "pubDate": "Tue, 05 May 2026 20:10:53 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/staff-de-andre-forca-saida-do-corinthians-rumo-a-europa]]>",
       "time": "05/05 · 14:43",
       "pubDate": "Tue, 05 May 2026 11:43:33 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians toma decisão sobre virar SAF e conselheiro vetam mudança no estatuto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-toma-decisao-sobre-virar-saf-e-conselheiro-vetam-mudanca-no-estatuto]]>",
-      "time": "05/05 · 13:15",
-      "pubDate": "Tue, 05 May 2026 10:15:21 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Saiba onde assistir à partida entre Corinthians e Independiente Santa Fe pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532365/saiba-onde-assistir-a-partida-entre-corinthians-e-independiente-santa-fe-pela-libertadores",
+      "pubDate": "Wed, 06 May 2026 08:31:00 -0300",
+      "date": "06/05 · 11:31"
+    },
+    {
       "title": "Corinthians registra goleiro para sequência da temporada do Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532381/corinthians-registra-goleiro-para-sequencia-da-temporada-do-sub-20",
       "pubDate": "Tue, 05 May 2026 20:26:00 -0300",
@@ -216,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127594/conmebol-llbertadores-corinthians-treina-para-enfrentar-o-santa-fe",
       "pubDate": "Tue, 05 May 2026 19:39:45 -0300",
       "date": "05/05 · 22:39"
-    },
-    {
-      "title": "VÍDEO: Veja como foi o desembarque do Corinthians em Bogotá para enfrentar o Santa Fe pela Libertadores 26",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127583/veja-como-foi-o-desembarque-do-corinthians-em-bogota-para-enfrentar-o-santa-fe-pela-libertadores-26",
-      "pubDate": "Tue, 05 May 2026 10:47:37 -0300",
-      "date": "05/05 · 13:47"
     }
   ]
 };
