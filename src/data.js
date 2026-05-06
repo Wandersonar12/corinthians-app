@@ -1,78 +1,102 @@
-// Gerado automaticamente em 05/05/2026, 22:43:08
+// Gerado automaticamente em 06/05/2026, 10:06:14
 const LIVE_DATA = {
-  "updatedAt": "2026-05-05T22:43:08.483Z",
+  "updatedAt": "2026-05-06T10:06:14.538Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é o time da Série A que menos pontua com jogador a mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532352/corinthians-e-o-time-da-serie-a-que-menos-pontua-com-jogador-a-mais",
-      "time": "05/05 · 22:34",
-      "pubDate": "Tue, 05 May 2026 19:34:00 -0300"
+      "title": "Corinthians visita o Independiente Santa Fe em busca da classificação na Libertadores; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532363/corinthians-visita-o-independiente-santa-fe-em-busca-da-classificacao-na-libertadores-saiba-tudo",
+      "time": "06/05 · 03:01",
+      "pubDate": "Wed, 06 May 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians é denunciado no STJD por críticas à arbitragem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532375/tecnico-do-corinthians-e-denunciado-no-stjd-por-criticas-a-arbitragem",
-      "time": "05/05 · 22:13",
-      "pubDate": "Tue, 05 May 2026 19:13:48 -0300"
+      "title": "Corinthians mira melhor início histórico na Libertadores diante do Santa Fe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532358/corinthians-mira-melhor-inicio-historico-na-libertadores-diante-do-santa-fe",
+      "time": "06/05 · 01:30",
+      "pubDate": "Tue, 05 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Comissão recomenda apuração disciplinar de vice e funcionário do Corinthians por sumiço de materiais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532370/comissao-recomenda-apuracao-disciplinar-de-vice-e-funcionario-do-corinthians-por-sumico-de-materiais",
-      "time": "05/05 · 22:00",
-      "pubDate": "Tue, 05 May 2026 19:00:33 -0300"
+      "title": "Corinthians fecha parceria com empresa de banheiras de SPA para o futebol feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532301/corinthians-fecha-parceria-com-empresa-de-banheiras-de-spa-para-o-futebol-feminino",
+      "time": "06/05 · 00:40",
+      "pubDate": "Tue, 05 May 2026 21:40:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para jogo contra o Santa Fe pela Libertadores; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532341/corinthians-encerra-preparacao-para-jogo-contra-o-santa-fe-pela-libertadores-veja-o-provavel-time",
-      "time": "05/05 · 21:53",
-      "pubDate": "Tue, 05 May 2026 18:53:00 -0300"
+      "title": "Joia da base do Corinthians celebra retorno aos gramados e projeta futuro no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532360/joia-da-base-do-corinthians-celebra-retorno-aos-gramados-e-projeta-futuro-no-clube",
+      "time": "06/05 · 00:31",
+      "pubDate": "Tue, 05 May 2026 21:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians finaliza preparação para enfrentar o Fluminense pelo Campeonato Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532372/corinthians-finaliza-preparacao-para-enfrentar-o-fluminense-pelo-campeonato-brasileiro-sub-20",
-      "time": "05/05 · 21:31",
-      "pubDate": "Tue, 05 May 2026 18:31:00 -0300"
+      "title": "Do Bayern ao Corinthians: chef alemão explica como virou torcedor do Timão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532195/do-bayern-ao-corinthians-chef-alemao-explica-como-virou-torcedor-do-timao",
+      "time": "06/05 · 00:03",
+      "pubDate": "Tue, 05 May 2026 21:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem retrospecto positivo em partidas na Colômbia; relembre jogo a jogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532319/corinthians-tem-retrospecto-positivo-em-partidas-na-colombia-relembre-jogo-a-jogo",
-      "time": "05/05 · 21:30",
-      "pubDate": "Tue, 05 May 2026 18:30:00 -0300"
+      "title": "Corinthians busca voltar a vencer o Fluminense pelo Sub-20 após maus resultados e eliminação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532359/corinthians-busca-voltar-a-vencer-o-fluminense-pelo-sub-20-apos-maus-resultados-e-eliminacao",
+      "time": "05/05 · 23:32",
+      "pubDate": "Tue, 05 May 2026 20:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians entra com recurso para liberação de André Luiz para o Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532371/corinthians-entra-com-recurso-para-liberacao-de-andre-luiz-para-o-majestoso",
-      "time": "05/05 · 21:09",
-      "pubDate": "Tue, 05 May 2026 18:09:00 -0300"
+      "title": "Corinthians registra goleiro para sequência da temporada do Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532381/corinthians-registra-goleiro-para-sequencia-da-temporada-do-sub-20",
+      "time": "05/05 · 23:26",
+      "pubDate": "Tue, 05 May 2026 20:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians divulga venda de ingressos para partida contra o Taubaté no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532368/corinthians-divulga-venda-de-ingressos-para-partida-contra-o-taubate-no-paulista-de-futsal",
-      "time": "05/05 · 21:03",
-      "pubDate": "Tue, 05 May 2026 18:03:00 -0300"
+      "title": "Volante retorna aos treinos com o elenco antes da estreia do Corinthians no Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532380/volante-retorna-aos-treinos-com-o-elenco-antes-da-estreia-do-corinthians-no-paulista-feminino",
+      "time": "05/05 · 23:09",
+      "pubDate": "Tue, 05 May 2026 20:09:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não cogita incluir atletas por Mantuan, e Zenit deseja acordo com clube europeu",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-cogita-incluir-atletas-por-mantuan-e-zenit-deseja-acordo-com-clube-europeu]]>",
+      "time": "05/05 · 22:29",
+      "pubDate": "Tue, 05 May 2026 19:29:39 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto chegou a sete jogos sem marcar gols e vive maior jejum no Corinthians desde setembro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-esta-ha-sete-jogos-sem-marcar-gols-pelo-corinthians]]>",
+      "time": "05/05 · 22:27",
+      "pubDate": "Tue, 05 May 2026 19:27:22 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "BYD topa bancar metade de novo contrato de Memphis Depay e Corinthians avança por renovação até 2028",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/byd-topa-bancar-metade-de-novo-contrato-de-memphis-depay-e-corinthians-avanca-por-renovacao-ate-2028]]>",
-      "time": "05/05 · 18:15",
-      "pubDate": "Tue, 05 May 2026 15:15:32 -0300"
+      "time": "05/05 · 21:51",
+      "pubDate": "Tue, 05 May 2026 18:51:21 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians amplia jejum no interior paulista após nova derrota para o Mirassol no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amplia-jejum-no-interior-paulista-apos-nova-derrota-para-o-mirassol-no-brasileirao]]>",
+      "time": "05/05 · 21:34",
+      "pubDate": "Tue, 05 May 2026 18:34:09 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians estuda envolver Gui Negão, Dieguinho ou Tchoca em negociação por Gustavo Mantuan, do Zenit",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-envolver-gui-negao-dieguinho-ou-tchoca-em-negociacao-por-gustavo-mantuan-do-zenit]]>",
-      "time": "05/05 · 13:50",
-      "pubDate": "Tue, 05 May 2026 10:50:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem prazo para pagar dívida sobre Garro e não levar transferban",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-prazo-para-pagar-divida-sobre-garro-e-nao-levar-transferban]]>",
-      "time": "05/05 · 13:49",
-      "pubDate": "Tue, 05 May 2026 10:49:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians toma decisão sobre virar SAF e conselheiro vetam mudança no estatuto",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-toma-decisao-sobre-virar-saf-e-conselheiro-vetam-mudanca-no-estatuto]]>",
       "time": "05/05 · 13:15",
       "pubDate": "Tue, 05 May 2026 10:15:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança com patrocinador para renovar com Depay e reduzir custos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-com-patrocinador-para-renovar-com-depay-e-reduzir-custos]]>",
-      "time": "05/05 · 11:16",
-      "pubDate": "Tue, 05 May 2026 08:16:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -141,7 +141,7 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalaç��es",
+      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
       "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
       "time": "20/04 · 23:00",
       "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
@@ -200,22 +200,28 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians registra goleiro para sequência da temporada do Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532381/corinthians-registra-goleiro-para-sequencia-da-temporada-do-sub-20",
+      "pubDate": "Tue, 05 May 2026 20:26:00 -0300",
+      "date": "05/05 · 23:26"
+    },
+    {
+      "title": "VÍDEO: Labyad titular? Provável escalação de Santa Fe X Corinthians pela Conmebol Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127596/labyad-titular-provavel-escalacao-de-santa-fe-x-corinthians-pela-conmebol-libertadores-2026",
+      "pubDate": "Tue, 05 May 2026 20:04:45 -0300",
+      "date": "05/05 · 23:04"
+    },
+    {
+      "title": "VÍDEO: Conmebol lLbertadores: Corinthians treina para enfrentar o Santa Fe",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127594/conmebol-llbertadores-corinthians-treina-para-enfrentar-o-santa-fe",
+      "pubDate": "Tue, 05 May 2026 19:39:45 -0300",
+      "date": "05/05 · 22:39"
+    },
+    {
       "title": "VÍDEO: Veja como foi o desembarque do Corinthians em Bogotá para enfrentar o Santa Fe pela Libertadores 26",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127583/veja-como-foi-o-desembarque-do-corinthians-em-bogota-para-enfrentar-o-santa-fe-pela-libertadores-26",
       "pubDate": "Tue, 05 May 2026 10:47:37 -0300",
       "date": "05/05 · 13:47"
-    },
-    {
-      "title": "VÍDEO: Presidente do Conselho Deliberativo do Corinthians explica a votação da reforma do estatuto",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127578/presidente-do-conselho-deliberativo-do-corinthians-explica-a-votacao-da-reforma-do-estatuto",
-      "pubDate": "Mon, 04 May 2026 23:26:48 -0300",
-      "date": "05/05 · 02:26"
-    },
-    {
-      "title": "VÍDEO: Conselheiro do Corinthians fala sobre a votação da SAF no novo estatuto do clube",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127576/conselheiro-do-corinthians-fala-sobre-a-votacao-da-saf-no-novo-estatuto-do-clube",
-      "pubDate": "Mon, 04 May 2026 23:09:13 -0300",
-      "date": "05/05 · 02:09"
     }
   ]
 };
