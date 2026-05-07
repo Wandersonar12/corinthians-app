@@ -1,70 +1,86 @@
-// Gerado automaticamente em 06/05/2026, 22:37:54
+// Gerado automaticamente em 07/05/2026, 10:12:07
 const LIVE_DATA = {
-  "updatedAt": "2026-05-06T22:37:54.525Z",
+  "updatedAt": "2026-05-07T10:12:07.720Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians fecha preparação para enfrentar o São Paulo na estreia do Paulista; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532425/corinthians-fecha-preparacao-para-enfrentar-o-sao-paulo-na-estreia-do-paulista-veja-o-provavel-time",
-      "time": "06/05 · 22:04",
-      "pubDate": "Wed, 06 May 2026 19:04:00 -0300"
+      "title": "VÍDEO: Efeito da altitude? Gustavo Henrique salva o Corinthians no alto e ajuda na Liberta | Zona Mista",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127617/efeito-da-altitude-gustavo-henrique-salva-o-corinthians-no-alto-e-ajuda-na-liberta-zona-mista",
+      "time": "07/05 · 05:05",
+      "pubDate": "Thu, 07 May 2026 02:05:10 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: saiba tudo sobre a busca do Corinthians pelo Paulistão Feminino 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532354/guia-do-meu-timao-saiba-tudo-sobre-a-busca-do-corinthians-pelo-paulistao-feminino-2026",
-      "time": "06/05 · 21:33",
-      "pubDate": "Wed, 06 May 2026 18:33:00 -0300"
+      "title": "Torcedores do Santa Fe fazem gesto racista em direção à torcida do Corinthians; veja vídeo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532468/torcedores-do-santa-fe-fazem-gesto-racista-em-direcao-a-torcida-do-corinthians-veja-video",
+      "time": "07/05 · 04:19",
+      "pubDate": "Thu, 07 May 2026 01:19:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Executivo do Corinthians revela que Memphis aceitou redução salarial para renovar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532415/executivo-do-corinthians-revela-que-memphis-aceitou-reducao-salarial-para-renovar",
-      "time": "06/05 · 21:29",
-      "pubDate": "Wed, 06 May 2026 18:29:07 -0300"
+      "title": "Técnico do Corinthians destaca superação na altitude e exalta bola aérea em empate na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532459/tecnico-do-corinthians-destaca-superacao-na-altitude-e-exalta-bola-aerea-em-empate-na-libertadores",
+      "time": "07/05 · 04:17",
+      "pubDate": "Thu, 07 May 2026 01:17:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Pantaleão detalha logística para apoio à torcida do Corinthians diante do Santa Fe em Bogotá",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532421/pantaleao-detalha-logistica-para-apoio-a-torcida-do-corinthians-diante-do-santa-fe-em-bogota",
-      "time": "06/05 · 21:18",
-      "pubDate": "Wed, 06 May 2026 18:18:00 -0300"
+      "title": "Treinador do Corinthians faz balanço de primeiro mês no clube e valoriza competitividade do elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532460/treinador-do-corinthians-faz-balanco-de-primeiro-mes-no-clube-e-valoriza-competitividade-do-elenco",
+      "time": "07/05 · 04:07",
+      "pubDate": "Thu, 07 May 2026 01:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians aposta em retrospecto invicto contra o Santa Fe em jogo na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532406/corinthians-coloca-invencibilidade-historica-contra-o-santa-fe-em-jogo-na-libertadores",
-      "time": "06/05 · 20:32",
-      "pubDate": "Wed, 06 May 2026 17:32:00 -0300"
+      "title": "Zagueiro e goleiro saem como 'heróis' em empate do Corinthians diante do Santa Fe; veja notas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532461/zagueiro-e-goleiro-saem-como-herois-em-empate-do-corinthians-diante-do-santa-fe-veja-notas",
+      "time": "07/05 · 03:46",
+      "pubDate": "Thu, 07 May 2026 00:46:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians é convocada para torneio na Europa pela Seleção Brasileira Sub-15",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532420/dupla-do-corinthians-e-convocada-para-torneio-na-europa-pela-selecao-brasileira-sub-15",
-      "time": "06/05 · 20:31",
-      "pubDate": "Wed, 06 May 2026 17:31:55 -0300"
+      "title": "Corinthians recebe o São Paulo pela estreia do Campeonato Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532422/corinthians-recebe-o-sao-paulo-pela-estreia-do-campeonato-paulista-feminino",
+      "time": "07/05 · 03:30",
+      "pubDate": "Thu, 07 May 2026 00:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é dominado com um a menos e perde para o Fluminense no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532393/corinthians-e-dominado-com-um-a-menos-e-perde-para-o-fluminense-no-brasileiro-sub-20",
-      "time": "06/05 · 20:27",
-      "pubDate": "Wed, 06 May 2026 17:27:00 -0300"
+      "title": "Corinthians amplia invencibilidade do El Campín após empate dramático na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532440/corinthians-amplia-invencibilidade-do-el-campin-apos-empate-dramatico-na-libertadores",
+      "time": "07/05 · 03:27",
+      "pubDate": "Thu, 07 May 2026 00:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fiel defende Corinthians escalado com força máxima diante do Santa Fe pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532412/fiel-defende-corinthians-escalado-com-forca-maxima-contra-o-santa-fe-pela-libertadores",
-      "time": "06/05 · 19:31",
-      "pubDate": "Wed, 06 May 2026 16:31:00 -0300"
+      "title": "Corinthians sofre gols em jogos seguidos após sequência defensiva histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532441/corinthians-sofre-gols-em-jogos-seguidos-apos-sequencia-defensiva-historica",
+      "time": "07/05 · 03:23",
+      "pubDate": "Thu, 07 May 2026 00:23:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Invicto contra o Santa Fe, Corinthians tenta garantir vaga antecipada na Libertadores fora de casa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/invicto-contra-o-santa-fe-corinthians-tenta-garantir-vaga-antecipada-na-libertadores-fora-de-casa]]>",
+      "time": "06/05 · 22:14",
+      "pubDate": "Wed, 06 May 2026 19:14:19 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay tem confirmação de Marcelo Paz e aceita reduzir seu salário para ficar no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-tem-confirmacao-de-marcelo-paz-e-aceita-reduzir-seu-salario-para-ficar-no-corinthians]]>",
+      "time": "06/05 · 20:10",
+      "pubDate": "Wed, 06 May 2026 17:10:18 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aciona-bastidores-para-liberar-andre-no-majestoso]]>",
       "time": "06/05 · 13:39",
       "pubDate": "Wed, 06 May 2026 10:39:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Repetto mira vitória contra o Corinthians e Santa Fe joga ‘sobrevivência’ na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/repetto-mira-vitoria-contra-o-corinthians-e-santa-fe-joga-sobrevivencia-na-libertadores]]>",
-      "time": "06/05 · 12:48",
-      "pubDate": "Wed, 06 May 2026 09:48:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto busca “redenção” pelo Corinthians na Libertadores com trabalho mental e apoio de Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-busca-redencao-pelo-corinthians-na-libertadores-com-trabalho-mental-e-apoio-de-diniz]]>",
-      "time": "06/05 · 12:40",
-      "pubDate": "Wed, 06 May 2026 09:40:17 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "VÍDEO: Presidente dos Gaviões elogia trabalho de Leonardo Pantal~eoa na chegada das organizadas em Bogotá",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127614/presidente-dos-gavioes-elogia-trabalho-de-leonardo-pantaleoa-na-chegada-das-organizadas-em-bogota",
-      "pubDate": "Wed, 06 May 2026 19:16:17 -0300",
-      "date": "06/05 · 22:16"
+      "title": "VÍDEO: Adaptação a altitude, esquema tático de Diniz e Majestoso | Zona mista de Matheuzinho",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127618/adaptacao-a-altitude-esquema-tatico-de-diniz-e-majestoso-zona-mista-de-matheuzinho",
+      "pubDate": "Thu, 07 May 2026 02:06:10 -0300",
+      "date": "07/05 · 05:06"
     },
     {
-      "title": "Saiba onde assistir à partida entre Corinthians e Independiente Santa Fe pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532365/saiba-onde-assistir-a-partida-entre-corinthians-e-independiente-santa-fe-pela-libertadores",
-      "pubDate": "Wed, 06 May 2026 08:31:00 -0300",
-      "date": "06/05 · 11:31"
+      "title": "VÍDEO: Efeito da altitude? Gustavo Henrique salva o Corinthians no alto e ajuda na Liberta | Zona Mista",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127617/efeito-da-altitude-gustavo-henrique-salva-o-corinthians-no-alto-e-ajuda-na-liberta-zona-mista",
+      "pubDate": "Thu, 07 May 2026 02:05:10 -0300",
+      "date": "07/05 · 05:05"
+    },
+    {
+      "title": "Torcedores do Santa Fe fazem gesto racista em direção à torcida do Corinthians; veja vídeo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532468/torcedores-do-santa-fe-fazem-gesto-racista-em-direcao-a-torcida-do-corinthians-veja-video",
+      "pubDate": "Thu, 07 May 2026 01:19:00 -0300",
+      "date": "07/05 · 04:19"
+    },
+    {
+      "title": "Zagueiro e goleiro saem como 'heróis' em empate do Corinthians diante do Santa Fe; veja notas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532461/zagueiro-e-goleiro-saem-como-herois-em-empate-do-corinthians-diante-do-santa-fe-veja-notas",
+      "pubDate": "Thu, 07 May 2026 00:46:00 -0300",
+      "date": "07/05 · 03:46"
+    },
+    {
+      "title": "Corinthians sofre gols em jogos seguidos após sequência defensiva histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532441/corinthians-sofre-gols-em-jogos-seguidos-apos-sequencia-defensiva-historica",
+      "pubDate": "Thu, 07 May 2026 00:23:00 -0300",
+      "date": "07/05 · 03:23"
+    },
+    {
+      "title": "Zagueiro do Corinthians comemora gol marcado e analisa confusão após empate com o Santa Fe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532455/zagueiro-do-corinthians-comemora-gol-marcado-e-analisa-confusao-apos-empate-com-o-santa-fe",
+      "pubDate": "Thu, 07 May 2026 00:14:00 -0300",
+      "date": "07/05 · 03:14"
+    },
+    {
+      "title": "Zagueiro assume vice-artilharia do Corinthians com gol decisivo na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532438/zagueiro-assume-vice-artilharia-do-corinthians-com-gol-decisivo-na-libertadores",
+      "pubDate": "Wed, 06 May 2026 23:53:00 -0300",
+      "date": "07/05 · 02:53"
+    },
+    {
+      "title": "VÍDEO: Presidente dos Gaviões elogia trabalho de Leonardo Pantaleão na chegada das organizadas em Bogotá",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127614/presidente-dos-gavioes-elogia-trabalho-de-leonardo-pantaleao-na-chegada-das-organizadas-em-bogota",
+      "pubDate": "Wed, 06 May 2026 19:16:00 -0300",
+      "date": "06/05 · 22:16"
     }
   ]
 };
