@@ -1,70 +1,110 @@
-// Gerado automaticamente em 07/05/2026, 13:23:02
+// Gerado automaticamente em 07/05/2026, 19:21:29
 const LIVE_DATA = {
-  "updatedAt": "2026-05-07T13:23:02.892Z",
+  "updatedAt": "2026-05-07T19:21:29.492Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tenta ampliar vantagem na série diante do Minas pelas quartas do NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532426/corinthians-tenta-ampliar-vantagem-na-serie-diante-do-minas-pelas-quartas-do-nbb-saiba-tudo",
-      "time": "07/05 · 12:30",
-      "pubDate": "Thu, 07 May 2026 09:30:00 -0300"
+      "title": "Ídolo do Corinthians critica a atuação de Jesse Lingard contra o Santa Fe: 'Anda em campo'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532497/idolo-do-corinthians-critica-a-atuacao-de-jesse-lingard-contra-o-santa-fe-anda-em-campo",
+      "time": "07/05 · 19:01",
+      "pubDate": "Thu, 07 May 2026 16:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532424/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-paulistao-feminino",
-      "time": "07/05 · 11:30",
-      "pubDate": "Thu, 07 May 2026 08:30:00 -0300"
+      "title": "Gustavo Henrique comenta empate heroico do Corinthians e critica condições do gramado em Bogotá",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532485/gustavo-henrique-comenta-empate-heroico-do-corinthians-e-critica-condicoes-do-gramado-em-bogota",
+      "time": "07/05 · 18:42",
+      "pubDate": "Thu, 07 May 2026 15:42:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: empate na Libertadores, renovação de Memphis e requerimentos ao Conselho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532470/ultimas-do-corinthians-empate-na-libertadores-renovacao-de-memphis-e-requerimentos-ao-conselho",
-      "time": "07/05 · 10:30",
-      "pubDate": "Thu, 07 May 2026 07:30:00 -0300"
+      "title": "Justiça condena Corinthians em ação movida por ex-lateral aposentado aos 23 anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532502/justica-condena-corinthians-em-acao-movida-por-ex-lateral-aposentado-aos-23-anos",
+      "time": "07/05 · 18:36",
+      "pubDate": "Thu, 07 May 2026 15:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é condenado a pagar valor milionário por dívida relacionada à compra de Charles",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532501/corinthians-e-condenado-a-pagar-valor-milionario-por-divida-relacionada-a-compra-de-charles",
+      "time": "07/05 · 18:30",
+      "pubDate": "Thu, 07 May 2026 15:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia-atacante tenta encerrar jejum e transformar São Paulo em maior vítima pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532427/meia-atacante-tenta-encerrar-jejum-e-transformar-sao-paulo-em-maior-vitima-pelo-corinthians",
+      "time": "07/05 · 17:33",
+      "pubDate": "Thu, 07 May 2026 14:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Rodrigo Garro celebra fase positiva do Corinthians e projeta sequência da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532467/rodrigo-garro-celebra-fase-positiva-do-corinthians-e-projeta-sequencia-da-temporada",
+      "time": "07/05 · 16:38",
+      "pubDate": "Thu, 07 May 2026 13:38:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians cede a Neo Química Arena para jogo de rival pelo Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532498/corinthians-cede-a-neo-quimica-arena-para-jogo-de-rival-pelo-campeonato-brasileiro",
+      "time": "07/05 · 16:19",
+      "pubDate": "Thu, 07 May 2026 13:19:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Sem errar passes e com gol salvador: veja os números de Gustavo Henrique em empate do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532466/sem-errar-passes-e-com-gol-salvador-veja-os-numeros-de-gustavo-henrique-em-empate-do-corinthians",
+      "time": "07/05 · 15:39",
+      "pubDate": "Thu, 07 May 2026 12:39:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Jesse Lingard, do Corinthians, recebe duras críticas de Craque Neto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-do-corinthians-recebe-duras-criticas-de-craque-neto]]>",
+      "time": "07/05 · 13:05",
+      "pubDate": "Thu, 07 May 2026 10:05:31 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz ignora pressão e mantém postura moderada no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-ignora-pressao-e-mantem-postura-moderada-no-corinthians]]>",
+      "time": "07/05 · 12:29",
+      "pubDate": "Thu, 07 May 2026 09:29:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Buriram United pede R$ 15 milhões para negociar Bissoli com o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/buriram-united-pede-r-15-milhoes-para-negociar-bissoli-com-o-corinthians]]>",
+      "time": "07/05 · 12:11",
+      "pubDate": "Thu, 07 May 2026 09:11:07 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz “salva” Hugo Souza após final tumultuado em Santa Fé x Corinthians pela Libertadores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-salva-hugo-souza-apos-final-tumultuado-em-santa-fe-x-corinthians-pela-libertadores]]>",
-      "time": "07/05 · 09:16",
-      "pubDate": "Thu, 07 May 2026 06:16:15 -0300"
+      "time": "07/05 · 10:40",
+      "pubDate": "Thu, 07 May 2026 07:40:36 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz enaltece superação do elenco do Corinthians na Libertadores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-enaltece-superacao-do-elenco-do-corinthians-na-libertadores]]>",
-      "time": "07/05 · 09:15",
-      "pubDate": "Thu, 07 May 2026 06:15:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Santa Fé 1 x 1 Corinthians: resumo do empate heroico alvinegro pela Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/santa-fe-x-corinthians-ao-vivo-e-gratis-onde-assistir-jogo-em-tempo-real-pela-libertadores]]>",
-      "time": "07/05 · 09:13",
-      "pubDate": "Thu, 07 May 2026 06:13:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians começa perdendo, mas consegue empate com Pedro Raúl contra o Santa Fé",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-salva-mas-estrategia-de-fernando-diniz-sofre-apos-gol-do-santa-fe]]>",
-      "time": "07/05 · 09:12",
-      "pubDate": "Thu, 07 May 2026 06:12:43 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Efeito da altitude? Gustavo Henrique salva o Corinthians no alto e ajuda na Liberta | Zona Mista",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127617/efeito-da-altitude-gustavo-henrique-salva-o-corinthians-no-alto-e-ajuda-na-liberta-zona-mista",
-      "time": "07/05 · 05:05",
-      "pubDate": "Thu, 07 May 2026 02:05:10 -0300"
+      "time": "07/05 · 10:40",
+      "pubDate": "Thu, 07 May 2026 07:40:08 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,38 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-e-o-grande-heroi-do-empate-suado-do-corinthians-diante-do-santa-fe-pela-libertadores]]>",
       "time": "07/05 · 04:26",
       "pubDate": "Thu, 07 May 2026 01:26:01 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcedores do Santa Fe fazem gesto racista em direção à torcida do Corinthians; veja vídeo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532468/torcedores-do-santa-fe-fazem-gesto-racista-em-direcao-a-torcida-do-corinthians-veja-video",
-      "time": "07/05 · 04:19",
-      "pubDate": "Thu, 07 May 2026 01:19:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians destaca superação na altitude e exalta bola aérea em empate na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532459/tecnico-do-corinthians-destaca-superacao-na-altitude-e-exalta-bola-aerea-em-empate-na-libertadores",
-      "time": "07/05 · 04:17",
-      "pubDate": "Thu, 07 May 2026 01:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinador do Corinthians faz balanço de primeiro mês no clube e valoriza competitividade do elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532460/treinador-do-corinthians-faz-balanco-de-primeiro-mes-no-clube-e-valoriza-competitividade-do-elenco",
-      "time": "07/05 · 04:07",
-      "pubDate": "Thu, 07 May 2026 01:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro e goleiro saem como 'heróis' em empate do Corinthians diante do Santa Fe; veja notas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532461/zagueiro-e-goleiro-saem-como-herois-em-empate-do-corinthians-diante-do-santa-fe-veja-notas",
-      "time": "07/05 · 03:46",
-      "pubDate": "Thu, 07 May 2026 00:46:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-aposta-na-defesa-e-corinthians-empata-no-fim-do-jogo]]>",
       "time": "07/05 · 02:30",
       "pubDate": "Wed, 06 May 2026 23:30:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians ‘amassa’ Santa Fé, e Raniele para em milagre de Mosquera na Colômbia",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amassa-santa-fe-e-raniele-para-em-milagre-de-mosquera-na-colombia]]>",
-      "time": "07/05 · 01:07",
-      "pubDate": "Wed, 06 May 2026 22:07:35 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Sem errar passes e com gol salvador: veja os números de Gustavo Henrique em empate do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532466/sem-errar-passes-e-com-gol-salvador-veja-os-numeros-de-gustavo-henrique-em-empate-do-corinthians",
+      "pubDate": "Thu, 07 May 2026 12:39:00 -0300",
+      "date": "07/05 · 15:39"
+    },
+    {
       "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Paulistão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532424/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-paulistao-feminino",
       "pubDate": "Thu, 07 May 2026 08:30:00 -0300",
@@ -240,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532455/zagueiro-do-corinthians-comemora-gol-marcado-e-analisa-confusao-apos-empate-com-o-santa-fe",
       "pubDate": "Thu, 07 May 2026 00:14:00 -0300",
       "date": "07/05 · 03:14"
-    },
-    {
-      "title": "Zagueiro assume vice-artilharia do Corinthians com gol decisivo na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532438/zagueiro-assume-vice-artilharia-do-corinthians-com-gol-decisivo-na-libertadores",
-      "pubDate": "Wed, 06 May 2026 23:53:00 -0300",
-      "date": "07/05 · 02:53"
     }
   ]
 };
