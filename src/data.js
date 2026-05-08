@@ -1,70 +1,102 @@
-// Gerado automaticamente em 08/05/2026, 19:00:30
+// Gerado automaticamente em 08/05/2026, 22:42:35
 const LIVE_DATA = {
-  "updatedAt": "2026-05-08T19:00:30.963Z",
+  "updatedAt": "2026-05-08T22:42:35.741Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians avalia contratação de Gabi Nunes após saída do Aston Villa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532563/corinthians-avalia-contratacao-de-gabi-nunes-apos-saida-do-aston-villa",
-      "time": "08/05 · 18:25",
-      "pubDate": "Fri, 08 May 2026 15:25:00 -0300"
+      "title": "Pivô iguala vice-artilharia do Corinthians na temporada após derrota na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532505/pivo-iguala-vice-artilharia-do-corinthians-na-temporada-apos-derrota-na-lnf",
+      "time": "08/05 · 22:36",
+      "pubDate": "Fri, 08 May 2026 19:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians trabalha transição e finalizações em preparação para enfrentar o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532562/corinthians-trabalha-transicao-e-finalizacoes-em-preparacao-para-enfrentar-o-sao-paulo",
-      "time": "08/05 · 18:14",
-      "pubDate": "Fri, 08 May 2026 15:14:00 -0300"
+      "title": "Assembleia Geral dos associados ganha data para votar reforma do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532579/assembleia-geral-dos-associados-ganha-data-para-votar-reforma-do-estatuto-do-corinthians",
+      "time": "08/05 · 21:35",
+      "pubDate": "Fri, 08 May 2026 18:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians passará por cirurgia e amplia período como desfalque",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532560/zagueiro-do-corinthians-passara-por-cirurgia-e-amplia-periodo-como-desfalque",
-      "time": "08/05 · 18:03",
-      "pubDate": "Fri, 08 May 2026 15:03:00 -0300"
+      "title": "Tamires aponta falta de paciência do Corinthians no Majestoso e reforça briga pelo Paulistão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532530/tamires-aponta-falta-de-paciencia-do-corinthians-no-majestoso-e-reforca-briga-pelo-paulistao",
+      "time": "08/05 · 21:32",
+      "pubDate": "Fri, 08 May 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians une Rio de Janeiro, ônibus de 1976 e atletas em campanha de lançamento das novas camisas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532554/corinthians-une-rio-de-janeiro-onibus-de-1976-e-atletas-em-campanha-de-lancamento-das-novas-camisas",
-      "time": "08/05 · 18:00",
-      "pubDate": "Fri, 08 May 2026 15:00:00 -0300"
+      "title": "Conselho Deliberativo marca julgamento para decidir expulsão de Andrés Sanchez do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532578/conselho-deliberativo-marca-julgamento-para-decidir-expulsao-de-andres-sanchez-do-corinthians",
+      "time": "08/05 · 21:21",
+      "pubDate": "Fri, 08 May 2026 18:21:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians analisa derrota para o Minas e valoriza a presença da torcida no Wlamir Marques",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532539/ala-do-corinthians-analisa-derrota-para-o-minas-e-valoriza-a-presenca-da-torcida-no-wlamir-marques",
-      "time": "08/05 · 17:30",
-      "pubDate": "Fri, 08 May 2026 14:30:00 -0300"
+      "title": "Corinthians atrasa pagamento de salários de abril para elenco e comissão técnica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532577/corinthians-atrasa-pagamento-de-salarios-de-abril-para-elenco-e-comissao-tecnica",
+      "time": "08/05 · 21:18",
+      "pubDate": "Fri, 08 May 2026 18:18:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians divulga detalhes da venda de ingressos para Majestoso válido pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532558/corinthians-divulga-detalhes-da-venda-de-ingressos-para-majestoso-valido-pelo-brasileirao-feminino",
-      "time": "08/05 · 17:05",
-      "pubDate": "Fri, 08 May 2026 14:05:00 -0300"
+      "title": "Livro sobre camisas do Corinthians terá sessão de autógrafos em livraria de São Paulo; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532570/livro-sobre-camisas-do-corinthians-tera-sessao-de-autografos-em-livraria-de-sao-paulo-saiba-mais",
+      "time": "08/05 · 21:02",
+      "pubDate": "Fri, 08 May 2026 18:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Como você avalia as novas camisas do Corinthians para 2026/27? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532545/como-voce-avalia-as-novas-camisas-do-corinthians-para-202627-vote-na-enquete-do-meu-timao",
-      "time": "08/05 · 17:01",
-      "pubDate": "Fri, 08 May 2026 14:01:00 -0300"
+      "title": "Técnico do Corinthians analisa derrota para o Minas e convoca Fiel para decisão do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532541/tecnico-do-corinthians-analisa-derrota-para-o-minas-e-convoca-fiel-para-decisao-no-nbb",
+      "time": "08/05 · 20:27",
+      "pubDate": "Fri, 08 May 2026 17:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians é absolvido pelo STJD e está liberado para o clássico contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532553/tecnico-do-corinthians-e-absolvido-pelo-stjd-e-esta-liberado-para-o-classico-contra-o-sao-paulo",
-      "time": "08/05 · 15:22",
-      "pubDate": "Fri, 08 May 2026 12:22:00 -0300"
+      "title": "Atacante do Corinthians volta a marcar após quase oito meses em derrota no Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532529/atacante-do-corinthians-volta-a-marcar-apos-quase-oito-meses-em-derrota-no-majestoso",
+      "time": "08/05 · 20:01",
+      "pubDate": "Fri, 08 May 2026 17:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Goleiro Matheus Magalhães aceita jogar no Corinthians e Marcelo Paz encaminha contratação, diz setorista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/goleiro-matheus-magalhaes-aceita-jogar-no-corinthians-e-marcelo-paz-encaminha-contratacao-diz-setorista]]>",
+      "time": "08/05 · 18:17",
+      "pubDate": "Fri, 08 May 2026 15:17:28 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Veto na venda de André causa conflito interno e prejudica o caixa do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/veto-na-venda-de-andre-causa-conflito-e-prejudica-o-caixa-do-corinthians]]>",
+      "time": "08/05 · 16:56",
+      "pubDate": "Fri, 08 May 2026 13:56:47 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gustavo Henrique supera trio histórico pelo Corinthians na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-supera-trio-historico-pelo-corinthians-na-libertadores]]>",
+      "time": "08/05 · 15:41",
+      "pubDate": "Fri, 08 May 2026 12:41:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians quer “pacotão” com Bissoli, Scarpa, Mantuan e Matheus Magalhães",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-pacotao-com-bissoli-scarpa-mantuan-e-matheus-magalhaes]]>",
+      "time": "08/05 · 14:59",
+      "pubDate": "Fri, 08 May 2026 11:59:41 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,22 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encanta-lingard-e-bastidor-vira-assunto-no-clube]]>",
       "time": "08/05 · 12:58",
       "pubDate": "Fri, 08 May 2026 09:58:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians quer “pacotão” com Bissoli, Scarpa, Mantuan e Matheus Magalhães",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-pacotao-com-bissoli-scarpa-mantuan-e-matheus-magalhaes]]>",
-      "time": "08/05 · 12:11",
-      "pubDate": "Fri, 08 May 2026 09:11:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Veto na venda de André causa conflito interno e prejudica o caixa do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/veto-na-venda-de-andre-causa-conflito-e-prejudica-o-caixa-do-corinthians]]>",
-      "time": "08/05 · 10:18",
-      "pubDate": "Fri, 08 May 2026 07:18:37 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amplia-invencibilidade-no-el-campin-apos-empate-pela-libertadores]]>",
       "time": "07/05 · 13:38",
       "pubDate": "Thu, 07 May 2026 10:38:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Jesse Lingard, do Corinthians, recebe duras críticas de Craque Neto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-do-corinthians-recebe-duras-criticas-de-craque-neto]]>",
-      "time": "07/05 · 13:05",
-      "pubDate": "Thu, 07 May 2026 10:05:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz ignora pressão e mantém postura moderada no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-ignora-pressao-e-mantem-postura-moderada-no-corinthians]]>",
-      "time": "07/05 · 12:29",
-      "pubDate": "Thu, 07 May 2026 09:29:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Buriram United pede R$ 15 milhões para negociar Bissoli com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/buriram-united-pede-r-15-milhoes-para-negociar-bissoli-com-o-corinthians]]>",
-      "time": "07/05 · 12:11",
-      "pubDate": "Thu, 07 May 2026 09:11:07 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,12 +202,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532443/gustavo-henrique-supera-trio-e-vira-zagueiro-com-mais-gols-pelo-corinthians-na-libertadores",
       "pubDate": "Fri, 08 May 2026 08:30:00 -0300",
       "date": "08/05 · 11:30"
-    },
-    {
-      "title": "Lateral do Corinthians avalia jogo na altitude de Bogotá e projeta nova sequência sem sofrer gols",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532487/lateral-do-corinthians-avalia-jogo-na-altitude-de-bogota-e-projeta-nova-sequencia-sem-sofrer-gols",
-      "pubDate": "Thu, 07 May 2026 19:28:00 -0300",
-      "date": "07/05 · 22:28"
     }
   ]
 };
