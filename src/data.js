@@ -1,7 +1,39 @@
-// Gerado automaticamente em 08/05/2026, 09:02:47
+// Gerado automaticamente em 08/05/2026, 13:02:45
 const LIVE_DATA = {
-  "updatedAt": "2026-05-08T09:02:47.627Z",
+  "updatedAt": "2026-05-08T13:02:45.136Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece tabela de jogos do Campeonato Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532528/corinthians-conhece-tabela-de-jogos-do-campeonato-paulista-sub-20",
+      "time": "08/05 · 12:34",
+      "pubDate": "Fri, 08 May 2026 09:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians lança camisas da temporada 2025/26 inspiradas na Invasão Corinthiana de 1976",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532538/corinthians-lanca-camisas-da-temporada-202526-inspiradas-na-invasao-corinthiana-de-1976",
+      "time": "08/05 · 12:02",
+      "pubDate": "Fri, 08 May 2026 09:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gustavo Henrique supera trio e vira zagueiro com mais gols pelo Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532443/gustavo-henrique-supera-trio-e-vira-zagueiro-com-mais-gols-pelo-corinthians-na-libertadores",
+      "time": "08/05 · 11:30",
+      "pubDate": "Fri, 08 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: dívida por volante, Arena emprestada e classificação antecipada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532523/ultimas-do-corinthians-divida-por-volante-arena-emprestada-e-classificacao-antecipada",
+      "time": "08/05 · 10:30",
+      "pubDate": "Fri, 08 May 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -33,38 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532471/corinthians-tropeca-diante-do-minas-com-falhas-na-defesa-e-ve-serie-empatar-nas-quartas-do-nbb",
       "time": "08/05 · 00:55",
       "pubDate": "Thu, 07 May 2026 21:55:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueira volta a sentir dores e adia estreia pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532522/zagueira-volta-a-sentir-dores-e-adia-estreia-pelo-corinthians",
-      "time": "08/05 · 00:52",
-      "pubDate": "Thu, 07 May 2026 21:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Matheuzinho assume vice-liderança em assistências no Corinthians em 2026; veja a lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532462/matheuzinho-assume-vice-lideranca-em-assistencias-no-corinthians-em-2026-veja-a-lista",
-      "time": "08/05 · 00:29",
-      "pubDate": "Thu, 07 May 2026 21:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conquista classificação para as oitavas de final na Copa Libertadores; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532504/corinthians-conquista-classificacao-para-as-oitavas-de-final-na-copa-libertadores-veja-a-tabela",
-      "time": "07/05 · 23:59",
-      "pubDate": "Thu, 07 May 2026 20:59:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-lateral justifica ação movida na Justiça contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532518/ex-lateral-justifica-acao-movida-na-justica-contra-o-corinthians",
-      "time": "07/05 · 23:43",
-      "pubDate": "Thu, 07 May 2026 20:43:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Gustavo Henrique supera trio e vira zagueiro com mais gols pelo Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532443/gustavo-henrique-supera-trio-e-vira-zagueiro-com-mais-gols-pelo-corinthians-na-libertadores",
+      "pubDate": "Fri, 08 May 2026 08:30:00 -0300",
+      "date": "08/05 · 11:30"
+    },
+    {
       "title": "Lateral do Corinthians avalia jogo na altitude de Bogotá e projeta nova sequência sem sofrer gols",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532487/lateral-do-corinthians-avalia-jogo-na-altitude-de-bogota-e-projeta-nova-sequencia-sem-sofrer-gols",
       "pubDate": "Thu, 07 May 2026 19:28:00 -0300",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532439/gustavo-henrique-registra-14-participacoes-em-gols-desde-chegada-ao-corinthians",
       "pubDate": "Thu, 07 May 2026 18:30:00 -0300",
       "date": "07/05 · 21:30"
-    },
-    {
-      "title": "Sem errar passes e com gol salvador: veja os números de Gustavo Henrique em empate do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532466/sem-errar-passes-e-com-gol-salvador-veja-os-numeros-de-gustavo-henrique-em-empate-do-corinthians",
-      "pubDate": "Thu, 07 May 2026 12:39:00 -0300",
-      "date": "07/05 · 15:39"
     }
   ]
 };
