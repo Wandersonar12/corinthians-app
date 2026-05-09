@@ -1,70 +1,94 @@
-// Gerado automaticamente em 09/05/2026, 18:40:31
+// Gerado automaticamente em 09/05/2026, 22:30:32
 const LIVE_DATA = {
-  "updatedAt": "2026-05-09T18:40:31.571Z",
+  "updatedAt": "2026-05-09T22:30:32.609Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Tamires cobra mudança de mentalidade do Corinthians para reencontro diante do São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532531/tamires-cobra-mudanca-de-mentalidade-do-corinthians-para-reencontro-diante-do-sao-paulo",
-      "time": "09/05 · 18:31",
-      "pubDate": "Sat, 09 May 2026 15:31:00 -0300"
+      "title": "Corinthians busca repetir feito na Neo Química Arena que não ocorre há mais de um ano; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532566/corinthians-busca-repetir-feito-na-neo-quimica-arena-que-nao-ocorre-ha-mais-de-um-ano-saiba-qual",
+      "time": "09/05 · 21:31",
+      "pubDate": "Sat, 09 May 2026 18:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Paz comenta sobre planejamento do Corinthians na Libertadores e a situação em cada campeonato",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532597/paz-comenta-sobre-planejamento-do-corinthians-na-libertadores-e-a-situacao-em-cada-campeonato",
-      "time": "09/05 · 18:00",
-      "pubDate": "Sat, 09 May 2026 15:00:00 -0300"
+      "title": "VÍDEO: Sem Memphis e sem André: provável escalação do Corinthians para o Majestoso no Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127682/sem-memphis-e-sem-andre-provavel-escalacao-do-corinthians-para-o-majestoso-no-brasileirao-2026",
+      "time": "09/05 · 21:29",
+      "pubDate": "Sat, 09 May 2026 18:29:46 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcida organizada do Corinthians publica 'contagem regressiva' para votação de expulsão de Andrés",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532607/torcida-organizada-do-corinthians-publica-contagem-regressiva-para-votacao-de-expulsao-de-andres",
-      "time": "09/05 · 17:56",
-      "pubDate": "Sat, 09 May 2026 14:56:00 -0300"
+      "title": "Meio-campista do Corinthians projeta clássico contra o São Paulo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532619/meio-campista-do-corinthians-projeta-classico-contra-o-sao-paulo-pelo-brasileirao",
+      "time": "09/05 · 20:45",
+      "pubDate": "Sat, 09 May 2026 17:45:07 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians projeta preparação para terceiro jogo contra Minas nas quartas do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532540/ala-do-corinthians-projeta-preparacao-para-terceiro-jogo-contra-minas-nas-quartas-do-nbb",
-      "time": "09/05 · 17:31",
-      "pubDate": "Sat, 09 May 2026 14:31:00 -0300"
+      "title": "Corinthians perde invencibilidade como mandante em Majestosos após revés no Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532567/corinthians-perde-invencibilidade-como-mandante-em-majestosos-apos-reves-no-paulistao-feminino",
+      "time": "09/05 · 20:35",
+      "pubDate": "Sat, 09 May 2026 17:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians desperta interesse de clube russo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532608/lateral-do-corinthians-desperta-interesse-de-clube-russo",
-      "time": "09/05 · 17:22",
-      "pubDate": "Sat, 09 May 2026 14:22:05 -0300"
+      "title": "Corinthians encerra preparação para Majestoso do Brasileirão; veja provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532604/corinthians-encerra-preparacao-para-majestoso-do-brasileirao-veja-provavel-escalacao",
+      "time": "09/05 · 20:31",
+      "pubDate": "Sat, 09 May 2026 17:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Emily Lima comenta evolução de Jhonson após retorno à equipe titular do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532537/emily-lima-comenta-evolucao-de-jhonson-apos-retorno-a-equipe-titular-do-corinthians",
-      "time": "09/05 · 16:29",
-      "pubDate": "Sat, 09 May 2026 13:29:00 -0300"
+      "title": "Corinthians detalha venda de ingressos como visitante para partida contra o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532614/corinthians-detalha-venda-de-ingressos-como-visitante-para-partida-contra-o-botafogo",
+      "time": "09/05 · 20:03",
+      "pubDate": "Sat, 09 May 2026 17:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians domina o jogo, vence Juventus e é novo líder do seu grupo no Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532606/corinthians-domina-o-jogo-vence-juventus-e-e-novo-lider-do-seu-grupo-no-paulistao-sub-17",
-      "time": "09/05 · 15:47",
-      "pubDate": "Sat, 09 May 2026 12:47:00 -0300"
+      "title": "Corinthians tenta evitar pior sequência em clássicos na Neo Química Arena desde 2024",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532564/corinthians-tenta-evitar-pior-sequencia-em-classicos-na-neo-quimica-arena-desde-2024",
+      "time": "09/05 · 19:33",
+      "pubDate": "Sat, 09 May 2026 16:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca manter retrospecto positivo em estreias da segunda camisa; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532549/corinthians-busca-manter-retrospecto-positivo-em-estreias-da-segunda-camisa-relembre",
-      "time": "09/05 · 15:33",
-      "pubDate": "Sat, 09 May 2026 12:33:00 -0300"
+      "title": "Corinthians retorna aos treinamentos de olho em clássico no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532616/corinthians-retorna-aos-treinamentos-de-olho-em-classico-no-brasileirao-feminino",
+      "time": "09/05 · 19:19",
+      "pubDate": "Sat, 09 May 2026 16:19:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard elogia Diniz e compara técnico a Ferguson antes de Corinthians x São Paulo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-elogia-diniz-e-compara-tecnico-a-ferguson-antes-de-corinthians-x-sao-paulo]]>",
+      "time": "09/05 · 18:22",
+      "pubDate": "Sat, 09 May 2026 15:22:15 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz ganha bastidores do Corinthians com postura no CT",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-ganha-bastidores-do-corinthians-com-postura-no-ct]]>",
+      "time": "09/05 · 17:01",
+      "pubDate": "Sat, 09 May 2026 14:01:36 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x São Paulo: onde assistir ao vivo, horário e escalações do clássico",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sao-paulo-onde-assistir-ao-vivo-jogo-brasileirao-hoje-horario-transmissao-tv-internet-streaming-escalacoes]]>",
+      "time": "09/05 · 16:21",
+      "pubDate": "Sat, 09 May 2026 13:21:32 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/goleiro-matheus-magalhaes-aceita-jogar-no-corinthians-e-marcelo-paz-encaminha-contratacao-diz-setorista]]>",
       "time": "08/05 · 18:17",
       "pubDate": "Fri, 08 May 2026 15:17:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gustavo Henrique supera trio histórico pelo Corinthians na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-supera-trio-historico-pelo-corinthians-na-libertadores]]>",
-      "time": "08/05 · 15:41",
-      "pubDate": "Fri, 08 May 2026 12:41:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians quer “pacotão” com Bissoli, Scarpa, Mantuan e Matheus Magalhães",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-pacotao-com-bissoli-scarpa-mantuan-e-matheus-magalhaes]]>",
-      "time": "08/05 · 14:59",
-      "pubDate": "Fri, 08 May 2026 11:59:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians encanta Lingard e bastidor vira assunto no clube",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encanta-lingard-e-bastidor-vira-assunto-no-clube]]>",
-      "time": "08/05 · 12:58",
-      "pubDate": "Fri, 08 May 2026 09:58:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Sem Memphis e sem André: provável escalação do Corinthians para o Majestoso no Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127682/sem-memphis-e-sem-andre-provavel-escalacao-do-corinthians-para-o-majestoso-no-brasileirao-2026",
+      "pubDate": "Sat, 09 May 2026 18:29:46 -0300",
+      "date": "09/05 · 21:29"
+    },
+    {
       "title": "Corinthians vence o Taubaté por goleada na segunda rodada do Paulista de Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532605/corinthians-vence-o-taubate-por-goleada-na-segunda-rodada-do-paulista-de-futsal",
       "pubDate": "Sat, 09 May 2026 12:26:00 -0300",
@@ -222,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532575/corinthians-recebe-o-taubate-apos-estreia-com-goleada-no-paulista-de-futsal-saiba-tudo",
       "pubDate": "Sat, 09 May 2026 09:00:00 -0300",
       "date": "09/05 · 12:00"
-    },
-    {
-      "title": "VÍDEO: Unboxing da nova camisa do Corinthians | Confira todos os detalhes",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127664/unboxing-da-nova-camisa-do-corinthians-confira-todos-os-detalhes",
-      "pubDate": "Fri, 08 May 2026 22:03:00 -0300",
-      "date": "09/05 · 01:03"
-    },
-    {
-      "title": "Gustavo Henrique celebra fase artilheira e bom momento no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532486/gustavo-henrique-celebra-fase-artilheira-e-bom-momento-no-corinthians",
-      "pubDate": "Fri, 08 May 2026 20:30:00 -0300",
-      "date": "08/05 · 23:30"
     }
   ]
 };
