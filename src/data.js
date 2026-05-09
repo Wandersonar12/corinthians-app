@@ -1,7 +1,39 @@
-// Gerado automaticamente em 09/05/2026, 09:05:05
+// Gerado automaticamente em 09/05/2026, 12:45:15
 const LIVE_DATA = {
-  "updatedAt": "2026-05-09T09:05:05.970Z",
+  "updatedAt": "2026-05-09T12:45:15.039Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Minas buscando retomar vantagem nos playoffs do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532574/corinthians-recebe-o-minas-buscando-retomar-vantagem-nos-playoffs-do-nbb",
+      "time": "09/05 · 12:30",
+      "pubDate": "Sat, 09 May 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Taubaté após estreia com goleada no Paulista de Futsal; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532575/corinthians-recebe-o-taubate-apos-estreia-com-goleada-no-paulista-de-futsal-saiba-tudo",
+      "time": "09/05 · 12:00",
+      "pubDate": "Sat, 09 May 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Juventus pela terceira rodada do Paulistão Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532565/corinthians-visita-o-juventus-pela-terceira-rodada-do-paulistao-sub-17-saiba-tudo",
+      "time": "09/05 · 11:30",
+      "pubDate": "Sat, 09 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novos mantos, salários atrasados e baixa de defensor",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532588/ultimas-do-corinthians-novos-mantos-salarios-atrasados-e-baixa-de-defensor",
+      "time": "09/05 · 10:30",
+      "pubDate": "Sat, 09 May 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 08 May 2026 21:02:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians fala sobre concorrência na posição e sobre críticas da torcida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532532/lateral-do-corinthians-fala-sobre-concorrencia-na-posicao-e-sobre-criticas-da-torcida",
-      "time": "09/05 · 00:02",
-      "pubDate": "Fri, 08 May 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem data estreia e outras quatro rodadas definidas do Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532583/corinthians-tem-data-estreia-e-outras-quatro-rodadas-definidas-do-campeonato-brasileiro-sub-17",
-      "time": "08/05 · 23:54",
-      "pubDate": "Fri, 08 May 2026 20:54:05 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gustavo Henrique celebra fase artilheira e bom momento no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532486/gustavo-henrique-celebra-fase-artilheira-e-bom-momento-no-corinthians",
-      "time": "08/05 · 23:30",
-      "pubDate": "Fri, 08 May 2026 20:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians marca durante título da Seleção Sub-20 sobre a Argentina no Desafio de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532581/ala-do-corinthians-marca-durante-titulo-da-selecao-sub-20-sobre-a-argentina-no-desafio-de-futsal",
-      "time": "08/05 · 23:20",
-      "pubDate": "Fri, 08 May 2026 20:20:40 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians define valor ideal para negociar André e deseja mais de R$ 115 milhões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-valor-ideal-para-negociar-andre-e-deseja-mais-de-r-115-milhoes]]>",
+      "time": "08/05 · 22:56",
+      "pubDate": "Fri, 08 May 2026 19:56:10 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encanta-lingard-e-bastidor-vira-assunto-no-clube]]>",
       "time": "08/05 · 12:58",
       "pubDate": "Fri, 08 May 2026 09:58:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians é condenado a pagar R$ 6 milhões por Charles e pode sofrer transfer ban da FIFA",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-condenado-a-pagar-r-6-milhoes-por-charles-e-pode-sofrer-transfer-ban-da-fifa]]>",
-      "time": "07/05 · 20:35",
-      "pubDate": "Thu, 07 May 2026 17:35:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians recebe o Taubaté após estreia com goleada no Paulista de Futsal; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532575/corinthians-recebe-o-taubate-apos-estreia-com-goleada-no-paulista-de-futsal-saiba-tudo",
+      "pubDate": "Sat, 09 May 2026 09:00:00 -0300",
+      "date": "09/05 · 12:00"
+    },
     {
       "title": "VÍDEO: Unboxing da nova camisa do Corinthians | Confira todos os detalhes",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127664/unboxing-da-nova-camisa-do-corinthians-confira-todos-os-detalhes",
