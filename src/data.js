@@ -1,7 +1,63 @@
-// Gerado automaticamente em 10/05/2026, 18:42:03
+// Gerado automaticamente em 10/05/2026, 22:34:13
 const LIVE_DATA = {
-  "updatedAt": "2026-05-10T18:42:03.011Z",
+  "updatedAt": "2026-05-10T22:34:13.661Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado para clássico contra o São Paulo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532638/corinthians-esta-escalado-para-classico-contra-o-sao-paulo-pelo-brasileirao",
+      "time": "10/05 · 20:32",
+      "pubDate": "Sun, 10 May 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "No G4, com técnico questionado e desfalcado: veja como o São Paulo chega para encarar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532639/no-g4-com-tecnico-questionado-e-desfalcado-veja-como-o-sao-paulo-chega-para-encarar-o-corinthians",
+      "time": "10/05 · 19:35",
+      "pubDate": "Sun, 10 May 2026 16:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians fecha preparação para enfrentar o São Paulo pelo Brasileiro Feminino; veja provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532648/corinthians-fecha-preparacao-para-enfrentar-o-sao-paulo-pelo-brasileiro-feminino-veja-provavel-time",
+      "time": "10/05 · 19:10",
+      "pubDate": "Sun, 10 May 2026 16:10:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians busca primeiro gol em Majestoso para 'fechar' trinca de rivais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532612/meia-do-corinthians-busca-primeiro-gol-em-majestoso-para-fechar-trinca-de-rivais",
+      "time": "10/05 · 19:03",
+      "pubDate": "Sun, 10 May 2026 16:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Mamães e Brabas: jogadoras e técnica do Corinthians relatam desafios entre maternidade e futebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532646/mamaes-e-brabas-jogadoras-e-tecnica-do-corinthians-relatam-desafios-entre-maternidade-e-futebol",
+      "time": "10/05 · 18:46",
+      "pubDate": "Sun, 10 May 2026 15:46:25 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians terá desfalques importantes para o Majestoso na Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-desfalques-importantes-para-o-majestoso-na-neo-quimica-arena]]>",
+      "time": "10/05 · 18:37",
+      "pubDate": "Sun, 10 May 2026 15:37:08 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians usa retrospecto dominante para tentar quebrar série ruim em clássicos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532637/corinthians-usa-retrospecto-dominante-para-tentar-quebrar-serie-ruim-em-classicos",
+      "time": "10/05 · 18:34",
+      "pubDate": "Sun, 10 May 2026 15:34:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,44 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 10 May 2026 13:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "12 anos da Arena: Confira toda a história do Corinthians em seu estádio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532640/12-anos-da-arena-confira-toda-a-historia-do-corinthians-em-seu-estadio",
-      "time": "10/05 · 16:00",
-      "pubDate": "Sun, 10 May 2026 13:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca se aproximar da parte de cima da tabela em clássico contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532634/corinthians-busca-se-aproximar-da-parte-de-cima-da-tabela-em-classico-contra-o-sao-paulo",
-      "time": "10/05 · 15:36",
-      "pubDate": "Sun, 10 May 2026 12:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Matheuzinho revela dificuldade do Corinthians no Brasileirão e prega 'motivação' para o Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532622/matheuzinho-revela-dificuldade-do-corinthians-no-brasileirao-e-prega-motivacao-para-o-majestoso",
-      "time": "10/05 · 14:32",
-      "pubDate": "Sun, 10 May 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o São Paulo com oito desfalques; veja os nomes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532636/corinthians-recebe-o-sao-paulo-com-oito-desfalques-veja-os-nomes",
-      "time": "10/05 · 13:31",
-      "pubDate": "Sun, 10 May 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians reencontra árbitro em busca de desequilibrar retrospecto diante do São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532635/corinthians-reencontra-arbitro-em-busca-de-desequilibra-retrospecto-diante-do-sao-paulo",
-      "time": "10/05 · 12:30",
-      "pubDate": "Sun, 10 May 2026 09:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Majestoso: jogadores que vestiram Corinthians e São Paulo e marcaram época nos dois lados",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/majestoso-jogadores-que-vestiram-corinthians-e-sao-paulo-e-marcaram-epoca-nos-dois-lados]]>",
+      "time": "10/05 · 14:05",
+      "pubDate": "Sun, 10 May 2026 11:05:13 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-uso-de-alex-santana-e-cria-tensao-com-sao-paulo-no-majestoso]]>",
       "time": "10/05 · 12:07",
       "pubDate": "Sun, 10 May 2026 09:07:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532611/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao",
-      "time": "10/05 · 11:30",
-      "pubDate": "Sun, 10 May 2026 08:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-aponta-energias-favoraveis-ao-corinthians-em-classico-contra-o-sao-paulo-pelo-brasileirao]]>",
       "time": "09/05 · 21:37",
       "pubDate": "Sat, 09 May 2026 18:37:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta reagir contra o São Paulo após retrospecto recente desfavorável no clássico",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-reagir-contra-o-sao-paulo-apos-retrospecto-recente-desfavoravel-no-classico]]>",
-      "time": "09/05 · 21:15",
-      "pubDate": "Sat, 09 May 2026 18:15:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta frear transições rápidas do São Paulo no Majestoso",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-frear-transicoes-rapidas-do-sao-paulo-no-majestoso]]>",
-      "time": "09/05 · 20:53",
-      "pubDate": "Sat, 09 May 2026 17:53:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Meia do Corinthians busca primeiro gol em Majestoso para 'fechar' trinca de rivais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532612/meia-do-corinthians-busca-primeiro-gol-em-majestoso-para-fechar-trinca-de-rivais",
+      "pubDate": "Sun, 10 May 2026 16:03:00 -0300",
+      "date": "10/05 · 19:03"
+    },
     {
       "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532611/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao",
