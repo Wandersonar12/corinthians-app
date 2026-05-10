@@ -1,7 +1,47 @@
-// Gerado automaticamente em 10/05/2026, 09:18:49
+// Gerado automaticamente em 10/05/2026, 12:45:44
 const LIVE_DATA = {
-  "updatedAt": "2026-05-10T09:18:49.139Z",
+  "updatedAt": "2026-05-10T12:45:44.487Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra árbitro em busca de desequilibra retrospecto diante do São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532635/corinthians-reencontra-arbitro-em-busca-de-desequilibra-retrospecto-diante-do-sao-paulo",
+      "time": "10/05 · 12:30",
+      "pubDate": "Sun, 10 May 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532611/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao",
+      "time": "10/05 · 11:30",
+      "pubDate": "Sun, 10 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: sondagem por lateral, projeção de salários e apoio de executivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532626/ultimas-do-corinthians-sondagem-por-lateral-projecao-de-salarios-e-apoio-de-executivo",
+      "time": "10/05 · 10:30",
+      "pubDate": "Sun, 10 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Com novidade no meio-campo, confira a provável escalação do Corinthians para encarar o São Paulo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-novidade-no-meio-campo-confira-a-provavel-escalacao-do-corinthians-para-encarar-o-sao-paulo]]>",
+      "time": "10/05 · 04:53",
+      "pubDate": "Sun, 10 May 2026 01:53:52 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x São Paulo: inteligência artificial crava resultado do Majestoso pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-sao-paulo-inteligencia-artificial-crava-resultado-do-majestoso-pelo-brasileirao]]>",
+      "time": "10/05 · 03:36",
+      "pubDate": "Sun, 10 May 2026 00:36:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,12 +51,28 @@ const LIVE_DATA = {
       "pubDate": "Sun, 10 May 2026 00:01:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Breno Bidon valoriza apoio da Fiel antes de Corinthians x São Paulo pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-valoriza-apoio-da-fiel-antes-de-corinthians-x-sao-paulo-pelo-brasileirao]]>",
+      "time": "10/05 · 03:00",
+      "pubDate": "Sun, 10 May 2026 00:00:31 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Yuri Alberto busca encerrar jejum sem gols pelo Corinthians no clássico contra o São Paulo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532569/yuri-alberto-busca-encerrar-jejum-sem-gols-pelo-corinthians-no-classico-contra-o-sao-paulo",
       "time": "10/05 · 01:30",
       "pubDate": "Sat, 09 May 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não discute contratação de Gustavo Scarpa e esfria interesse no atleta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-discute-contratacao-de-gustavo-scarpa-e-esfria-interesse-no-atleta]]>",
+      "time": "10/05 · 01:17",
+      "pubDate": "Sat, 09 May 2026 22:17:01 -0300"
     },
     {
       "source": "Meu Timao",
@@ -41,38 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532573/ex-zagueiro-do-corinthians-relembra-passagem-pelo-clube-e-exalta-influencia-de-diniz-na-carreira",
       "time": "10/05 · 00:32",
       "pubDate": "Sat, 09 May 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence Minas e volta a liderar série nos playoffs do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532625/corinthians-vence-minas-e-volta-a-liderar-serie-nos-playoffs-do-nbb",
-      "time": "10/05 · 00:08",
-      "pubDate": "Sat, 09 May 2026 21:08:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians lidera ranking de times com mais jogos sem sofrer gols em 2026; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532576/corinthians-lidera-ranking-de-times-com-mais-jogos-sem-sofrer-gols-em-2026-confira",
-      "time": "09/05 · 23:35",
-      "pubDate": "Sat, 09 May 2026 20:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians distribui medalhas da Supercopa do Brasil para funcionários do CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532618/corinthians-distribui-medalhas-da-supercopa-do-brasil-para-funcionarios-do-ct-joaquim-grava",
-      "time": "09/05 · 23:03",
-      "pubDate": "Sat, 09 May 2026 20:03:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não discute contratação de Gustavo Scarpa e esfria interesse no atleta",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-discute-contratacao-de-gustavo-scarpa-e-esfria-interesse-no-atleta]]>",
-      "time": "09/05 · 21:45",
-      "pubDate": "Sat, 09 May 2026 18:45:28 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-frear-transicoes-rapidas-do-sao-paulo-no-majestoso]]>",
       "time": "09/05 · 20:53",
       "pubDate": "Sat, 09 May 2026 17:53:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard elogia Diniz e compara técnico a Ferguson antes de Corinthians x São Paulo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-elogia-diniz-e-compara-tecnico-a-ferguson-antes-de-corinthians-x-sao-paulo]]>",
-      "time": "09/05 · 20:20",
-      "pubDate": "Sat, 09 May 2026 17:20:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz ganha bastidores do Corinthians com postura no CT",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-ganha-bastidores-do-corinthians-com-postura-no-ct]]>",
-      "time": "09/05 · 17:01",
-      "pubDate": "Sat, 09 May 2026 14:01:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x São Paulo: onde assistir ao vivo, horário e escalações do clássico",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sao-paulo-onde-assistir-ao-vivo-jogo-brasileirao-hoje-horario-transmissao-tv-internet-streaming-escalacoes]]>",
-      "time": "09/05 · 16:21",
-      "pubDate": "Sat, 09 May 2026 13:21:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532611/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao",
+      "pubDate": "Sun, 10 May 2026 08:30:00 -0300",
+      "date": "10/05 · 11:30"
+    },
+    {
       "title": "Yuri Alberto busca encerrar jejum sem gols pelo Corinthians no clássico contra o São Paulo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532569/yuri-alberto-busca-encerrar-jejum-sem-gols-pelo-corinthians-no-classico-contra-o-sao-paulo",
       "pubDate": "Sat, 09 May 2026 22:30:00 -0300",
@@ -222,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127682/sem-memphis-e-sem-andre-provavel-escalacao-do-corinthians-para-o-majestoso-no-brasileirao-2026",
       "pubDate": "Sat, 09 May 2026 18:29:46 -0300",
       "date": "09/05 · 21:29"
-    },
-    {
-      "title": "Corinthians vence o Taubaté por goleada na segunda rodada do Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532605/corinthians-vence-o-taubate-por-goleada-na-segunda-rodada-do-paulista-de-futsal",
-      "pubDate": "Sat, 09 May 2026 12:26:00 -0300",
-      "date": "09/05 · 15:26"
     }
   ]
 };
