@@ -1,7 +1,31 @@
-// Gerado automaticamente em 11/05/2026, 10:51:05
+// Gerado automaticamente em 11/05/2026, 14:14:54
 const LIVE_DATA = {
-  "updatedAt": "2026-05-11T10:51:05.943Z",
+  "updatedAt": "2026-05-11T14:14:54.943Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians terá semana com Majestoso, decisão no NBB e definição na Copa do Brasil; veja a agenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532738/corinthians-tera-semana-com-majestoso-decisao-no-nbb-e-definicao-na-copa-do-brasil-veja-a-agenda",
+      "time": "11/05 · 13:31",
+      "pubDate": "Mon, 11 May 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Veja a análise do VAR para não sugerir expulsão de Bobadilla contra o Corinthians por gesto obsceno",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532736/veja-a-analise-do-var-para-nao-sugerir-expulsao-de-bobadilla-contra-o-corinthians-por-gesto-obsceno",
+      "time": "11/05 · 12:29",
+      "pubDate": "Mon, 11 May 2026 09:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532649/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao-feminino",
+      "time": "11/05 · 11:30",
+      "pubDate": "Mon, 11 May 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,6 +41,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532647/corinthians-recebe-o-sao-paulo-no-primeiro-majestoso-desse-brasileirao-feminino",
       "time": "11/05 · 03:01",
       "pubDate": "Mon, 11 May 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Fernando Diniz recebe apoio da torcida antes de vitória do Corinthians no clássico contra o São Paulo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-fernando-diniz-recebe-apoio-da-torcida-antes-de-vitoria-do-corinthians-no-classico-contra-o-sao-paulo]]>",
+      "time": "11/05 · 02:59",
+      "pubDate": "Sun, 10 May 2026 23:59:51 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,28 +75,36 @@ const LIVE_DATA = {
       "pubDate": "Sun, 10 May 2026 23:19:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians comenta interesse de clube russo e reforça compromisso com o clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532719/lateral-do-corinthians-comenta-interesse-de-clube-russo-e-reforca-compromisso-com-o-clube",
-      "time": "11/05 · 02:12",
-      "pubDate": "Sun, 10 May 2026 23:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sai da zona de rebaixamento após vitória no Majestoso; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532707/corinthians-sai-da-zona-de-rebaixamento-apos-vitoria-no-majestoso-veja-a-tabela",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Raniele admite erro, explica estilo de Diniz e celebra vitória do Corinthians diante do São Paulo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-entrevista-exclusiva-raniele-comenta-falha-e-celebra-vitoria-do-corinthians-no-majestoso]]>",
       "time": "11/05 · 02:02",
-      "pubDate": "Sun, 10 May 2026 23:02:00 -0300"
+      "pubDate": "Sun, 10 May 2026 23:02:40 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians identifica torcedores por arremessos de objetos durante clássico na Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532710/corinthians-identifica-torcedores-por-arremessos-de-objetos-durante-classico-na-arena",
-      "time": "11/05 · 01:53",
-      "pubDate": "Sun, 10 May 2026 22:53:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Confusão, objetos arremessados e VAR marcam vitória do Corinthians diante do São Paulo no Majestoso",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/confusao-objetos-e-var-agitam-classico-entre-corinthians-e-sao-paulo]]>",
+      "time": "11/05 · 00:13",
+      "pubDate": "Sun, 10 May 2026 21:13:37 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vence o São Paulo em Majestoso quente de cinco gols pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vence-o-sao-paulo-em-casa-e-deixa-a-zona-de-rebaixamento-do-brasileirao]]>",
+      "time": "11/05 · 00:04",
+      "pubDate": "Sun, 10 May 2026 21:04:40 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz segura mudanças e vê Corinthians vencer o São Paulo pelo Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-segura-mudancas-e-ve-corinthians-vencer-o-sao-paulo-pelo-campeonato-brasileiro]]>",
+      "time": "10/05 · 23:50",
+      "pubDate": "Sun, 10 May 2026 20:50:51 -0300"
     },
     {
       "source": "Bolavip",
@@ -85,120 +125,86 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians terá desfalques importantes para o Majestoso na Neo Química Arena",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-desfalques-importantes-para-o-majestoso-na-neo-quimica-arena]]>",
-      "time": "10/05 · 20:17",
-      "pubDate": "Sun, 10 May 2026 17:17:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Zagueiro Manoel relembra passagem vitoriosa pelo Corinthians e exalta trabalho do técnico Fernando Diniz",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/manoel-relembra-passagem-pelo-corinthians-e-elogia-fernando-diniz]]>",
       "time": "10/05 · 19:52",
       "pubDate": "Sun, 10 May 2026 16:52:49 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pressiona por definição de Memphis sobre redução salarial",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pressiona-por-definicao-de-memphis-sobre-reducao-salarial]]>",
-      "time": "10/05 · 19:06",
-      "pubDate": "Sun, 10 May 2026 16:06:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Majestoso: jogadores que vestiram Corinthians e São Paulo e marcaram época nos dois lados",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/majestoso-jogadores-que-vestiram-corinthians-e-sao-paulo-e-marcaram-epoca-nos-dois-lados]]>",
-      "time": "10/05 · 14:05",
-      "pubDate": "Sun, 10 May 2026 11:05:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define uso de Alex Santana e cria tensão com São Paulo no Majestoso",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-uso-de-alex-santana-e-cria-tensao-com-sao-paulo-no-majestoso]]>",
-      "time": "10/05 · 12:07",
-      "pubDate": "Sun, 10 May 2026 09:07:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x São Paulo: inteligência artificial crava resultado do Majestoso pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-sao-paulo-inteligencia-artificial-crava-resultado-do-majestoso-pelo-brasileirao]]>",
-      "time": "10/05 · 03:36",
-      "pubDate": "Sun, 10 May 2026 00:36:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis decepciona em nova função no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-decepciona-em-nova-funcao-no-corinthians/",
+      "time": "02/03 · 10:00",
+      "pubDate": "Mon, 02 Mar 2026 10:00:10 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
-      "time": "21/04 · 02:02",
-      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
+      "title": "Sem Yuri Alberto, média de gols do Corinthians despenca",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-yuri-alberto-media-de-gols-do-corinthians-despenca/",
+      "time": "02/03 · 09:00",
+      "pubDate": "Mon, 02 Mar 2026 09:00:19 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
-      "time": "20/04 · 23:00",
-      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
+      "title": "Saiba os números e os concorrentes de Lingard, meia próximo de reforçar o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-os-numeros-e-os-concorrentes-de-lingard-atacante-proximo-de-reforcar-o-corinthians/",
+      "time": "02/03 · 08:00",
+      "pubDate": "Mon, 02 Mar 2026 08:00:34 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 22:31",
-      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
+      "title": "Grêmio x Corinthians: veja prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/gremio-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
+      "time": "02/03 · 01:05",
+      "pubDate": "Mon, 02 Mar 2026 01:05:07 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
-      "time": "20/04 · 20:30",
-      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
+      "title": "Presidente do Corinthians veta saída de André, e Milan ameaça ir à Fifa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-veta-saida-de-andre-e-milan-ameaca-ir-a-fifa/",
+      "time": "02/03 · 00:27",
+      "pubDate": "Mon, 02 Mar 2026 00:27:33 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 19:00",
-      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
+      "title": "Corinthians: conheça os números da equipe na temporada 2026",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-conheca-os-numeros-da-equipe-na-temporada-2026/",
+      "time": "01/03 · 17:29",
+      "pubDate": "Sun, 01 Mar 2026 17:29:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 18:55",
-      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
+      "title": "Lingard chega ao Brasil para realizar exames e assinar com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-chega-ao-brasil-para-realizar-exames-e-assinar-com-o-corinthians/",
+      "time": "01/03 · 12:25",
+      "pubDate": "Sun, 01 Mar 2026 12:25:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
-      "time": "20/04 · 15:21",
-      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
-      "time": "20/04 · 10:00",
-      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
+      "title": "Após queda no Paulista, Corinthians terá maior pausa no calendário desde início da temporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/apos-queda-no-paulista-corinthians-tera-maior-pausa-no-calendario-desde-inicio-da-temporada/",
+      "time": "01/03 · 11:00",
+      "pubDate": "Sun, 01 Mar 2026 11:00:25 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532649/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao-feminino",
+      "pubDate": "Mon, 11 May 2026 08:30:00 -0300",
+      "date": "11/05 · 11:30"
+    },
     {
       "title": "Técnico do Corinthians minimiza erro de volante em gol do rival e exalta a coragem e papel defensivo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532711/tecnico-do-corinthians-minimiza-erro-de-volante-em-gol-do-rival-e-exalta-a-coragem-e-papel-defensivo",
@@ -240,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532671/meio-campista-ultrapassa-numero-de-passes-para-gol-de-2025-com-assistencia-dupla-no-majestoso",
       "pubDate": "Sun, 10 May 2026 21:56:00 -0300",
       "date": "11/05 · 00:56"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: Corinthians 3x2 São Paulo | 15ª rodada | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127698/melhores-momentos-corinthians-3x2-sao-paulo-15-rodada-brasileirao-2026",
-      "pubDate": "Sun, 10 May 2026 21:36:54 -0300",
-      "date": "11/05 · 00:36"
     }
   ]
 };
