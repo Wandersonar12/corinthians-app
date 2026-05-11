@@ -1,70 +1,126 @@
-// Gerado automaticamente em 11/05/2026, 19:23:16
+// Gerado automaticamente em 11/05/2026, 22:43:28
 const LIVE_DATA = {
-  "updatedAt": "2026-05-11T19:23:16.214Z",
+  "updatedAt": "2026-05-11T22:43:28.822Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Raniele defende oscilação de jovem do Corinthians e relata pedido de desculpa por expulsões",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532760/raniele-defende-oscilacao-de-jovem-do-corinthians-e-relata-pedido-de-desculpa-por-expulsoes",
-      "time": "11/05 · 19:02",
-      "pubDate": "Mon, 11 May 2026 16:02:00 -0300"
+      "title": "Breno Bidon explica estilo provocador e fala sobre evolução como liderança no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532739/breno-bidon-explica-estilo-provocador-e-fala-sobre-evolucao-como-lideranca-no-corinthians",
+      "time": "11/05 · 22:31",
+      "pubDate": "Mon, 11 May 2026 19:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo contra o Praia Clube pela LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532765/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-praia-clube-pela-lnf",
-      "time": "11/05 · 18:54",
-      "pubDate": "Mon, 11 May 2026 15:54:55 -0300"
+      "title": "Lateral do Corinthians detalha pedido de expulsão de Bobadilla por gesto obsceno no Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532732/lateral-do-corinthians-detalha-pedido-de-expulsao-de-bobadilla-por-gesto-obsceno-no-majestoso",
+      "time": "11/05 · 22:02",
+      "pubDate": "Mon, 11 May 2026 19:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians supera marca de 500 mil torcedores presentes em partidas como mandante na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532705/corinthians-supera-marca-de-500-mil-torcedores-presentes-em-partidas-como-mandante-na-temporada",
-      "time": "11/05 · 18:31",
-      "pubDate": "Mon, 11 May 2026 15:31:00 -0300"
+      "title": "Corinthians realiza inscrição no Paulista de Basquete e encaminha continuidade da modalidade",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532775/corinthians-realiza-inscricao-no-paulista-de-basquete-e-encaminha-continuidade-da-modalidade",
+      "time": "11/05 · 21:38",
+      "pubDate": "Mon, 11 May 2026 18:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians repete marcas ofensivas do Paulistão em vitória no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532735/corinthians-repete-marcas-ofensivas-do-paulistao-em-vitoria-no-majestoso",
-      "time": "11/05 · 18:03",
-      "pubDate": "Mon, 11 May 2026 15:03:00 -0300"
+      "title": "Chegada de Diniz e dificuldades com Dorival: Matheuzinho destrincha situação do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532768/chegada-de-diniz-e-dificuldades-com-dorival-matheuzinho-destrincha-situacao-do-corinthians-em-2026",
+      "time": "11/05 · 21:25",
+      "pubDate": "Mon, 11 May 2026 18:25:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians divulga balancete de março com agravamento do déficit nas contas do clube; veja números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532761/corinthians-divulga-balancete-de-marco-com-agravamento-do-deficit-nas-contas-do-clube-veja-numeros",
-      "time": "11/05 · 17:47",
-      "pubDate": "Mon, 11 May 2026 14:47:00 -0300"
+      "title": "Técnico do Corinthians minimiza 'jejum' de Yuri Alberto e reforça sua importância para a equipe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532714/tecnico-do-corinthians-minimiza-jejum-de-yuri-alberto-e-reforca-sua-importancia-para-a-equipe",
+      "time": "11/05 · 21:01",
+      "pubDate": "Mon, 11 May 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians engata sequência invicta no Majestoso após três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532675/corinthians-engata-sequencia-invicta-no-majestoso-apos-tres-anos",
-      "time": "11/05 · 16:31",
-      "pubDate": "Mon, 11 May 2026 13:31:00 -0300"
+      "title": "Volante do Corinthians cobra expulsão de Bobadilla e critica falta de critério da arbitragem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532741/volante-do-corinthians-cobra-expulsao-de-bobadilla-e-critica-falta-de-criterio-da-arbitragem",
+      "time": "11/05 · 20:45",
+      "pubDate": "Mon, 11 May 2026 17:45:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "[Roberto Piccelli] Não há quem defenda o Corinthians na grande imprensa",
-      "url": "https://www.meutimao.com.br/coluna/roberto_piccelli/4233/nao-ha-quem-defenda-o-corinthians-na-grande-imprensa/",
-      "time": "11/05 · 16:30",
-      "pubDate": "Mon, 11 May 2026 13:30:00 -0300"
+      "title": "Garro alcança dígito duplo e Carrillo estreia no ranking de assistências do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532691/garro-alcanca-digito-duplo-e-carrillo-estreia-no-ranking-de-assistencias-do-corinthians-em-2026",
+      "time": "11/05 · 20:31",
+      "pubDate": "Mon, 11 May 2026 17:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica gestão de elenco e celebra entrega do time em vitória sobre São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532717/tecnico-do-corinthians-explica-gestao-de-elenco-e-celebra-entrega-do-time-em-vitoria-sobre-sao-paulo",
-      "time": "11/05 · 16:02",
-      "pubDate": "Mon, 11 May 2026 13:02:00 -0300"
+      "title": "Goleiro do Corinthians aparece em pré-lista da Seleção Brasileira para a Copa do Mundo de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532759/goleiro-do-corinthians-aparece-em-pre-lista-da-selecao-brasileira-para-a-copa-do-mundo-de-2026",
+      "time": "11/05 · 20:02",
+      "pubDate": "Mon, 11 May 2026 17:02:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Calleri reconhece Corinthians melhor em clássico na Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/calleri-reconhece-corinthians-melhor-em-classico-na-neo-quimica-arena]]>",
+      "time": "11/05 · 19:10",
+      "pubDate": "Mon, 11 May 2026 16:10:33 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz identifica problema no elenco e acende alerta no Corinthians por um atacante",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-identifica-problema-no-elenco-e-acende-alerta-no-corinthians-por-um-atacante]]>",
+      "time": "11/05 · 17:22",
+      "pubDate": "Mon, 11 May 2026 14:22:09 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz exige evolução ofensiva de Pedro Milans no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-exige-evolucao-ofensiva-de-pedro-milans-no-corinthians]]>",
+      "time": "11/05 · 17:08",
+      "pubDate": "Mon, 11 May 2026 14:08:57 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Breno Bidon cresce ofensivamente, supera números de 2025 e vive grande fase no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-cresce-ofensivamente-supera-numeros-de-2025-e-vive-grande-fase-no-corinthians]]>",
+      "time": "11/05 · 16:25",
+      "pubDate": "Mon, 11 May 2026 13:25:29 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Tite pede desculpas ao Corinthians publicamente por situação ocorrida em 2023",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/tite-pede-desculpas-ao-corinthians-publicamente-por-situacao-ocorrida-em-2023]]>",
+      "time": "11/05 · 15:46",
+      "pubDate": "Mon, 11 May 2026 12:46:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Zenit prepara investida por Matheuzinho mas Corinthians reage ao valor",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/zenit-prepara-investida-por-matheuzinho-mas-corinthians-reage-ao-valor]]>",
+      "time": "11/05 · 15:05",
+      "pubDate": "Mon, 11 May 2026 12:05:35 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Barra: Inteligência Artificial prevê Timão avançando com facilidade na Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-barra-inteligencia-artificial-preve-timao-avancando-com-facilidade-na-copa-do-brasil]]>",
+      "time": "11/05 · 14:40",
+      "pubDate": "Mon, 11 May 2026 11:40:37 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,62 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-quer-ficar-no-corinthians-pelo-sonho-da-libertadores-da-america]]>",
       "time": "11/05 · 12:44",
       "pubDate": "Mon, 11 May 2026 09:44:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aceita vender Matheuzinho ao Zenit, mas pede bem alto por 60%",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-matheuzinho-ao-zenit-mas-pede-bem-alto-por-60]]>",
-      "time": "11/05 · 12:23",
-      "pubDate": "Mon, 11 May 2026 09:23:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Fernando Diniz recebe apoio da torcida antes de vitória do Corinthians no clássico contra o São Paulo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-fernando-diniz-recebe-apoio-da-torcida-antes-de-vitoria-do-corinthians-no-classico-contra-o-sao-paulo]]>",
-      "time": "11/05 · 10:52",
-      "pubDate": "Mon, 11 May 2026 07:52:01 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Raniele admite erro, explica estilo de Diniz e celebra vitória do Corinthians diante do São Paulo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-entrevista-exclusiva-raniele-comenta-falha-e-celebra-vitoria-do-corinthians-no-majestoso]]>",
-      "time": "11/05 · 02:02",
-      "pubDate": "Sun, 10 May 2026 23:02:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Confusão, objetos arremessados e VAR marcam vitória do Corinthians diante do São Paulo no Majestoso",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/confusao-objetos-e-var-agitam-classico-entre-corinthians-e-sao-paulo]]>",
-      "time": "11/05 · 00:13",
-      "pubDate": "Sun, 10 May 2026 21:13:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vence o São Paulo em Majestoso quente de cinco gols pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vence-o-sao-paulo-em-casa-e-deixa-a-zona-de-rebaixamento-do-brasileirao]]>",
-      "time": "11/05 · 00:04",
-      "pubDate": "Sun, 10 May 2026 21:04:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz segura mudanças e vê Corinthians vencer o São Paulo pelo Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-segura-mudancas-e-ve-corinthians-vencer-o-sao-paulo-pelo-campeonato-brasileiro]]>",
-      "time": "10/05 · 23:50",
-      "pubDate": "Sun, 10 May 2026 20:50:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Raniele marca contra o São Paulo e coloca o Corinthians em vantagem no Majestoso pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-marca-e-corinthians-sai-na-frente-do-sao-paulo-no-majestoso]]>",
-      "time": "10/05 · 22:05",
-      "pubDate": "Sun, 10 May 2026 19:05:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians aparece em pré-lista da Seleção Brasileira para a Copa do Mundo de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532759/goleiro-do-corinthians-aparece-em-pre-lista-da-selecao-brasileira-para-a-copa-do-mundo-de-2026",
+      "pubDate": "Mon, 11 May 2026 17:02:00 -0300",
+      "date": "11/05 · 20:02"
+    },
+    {
+      "title": "VÍDEO: Bastidores com Diniz, Seleção Brasileira e mais: bate-papo com Matheuzinho do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127733/bastidores-com-diniz-selecao-brasileira-e-mais-bate-papo-com-matheuzinho-do-corinthians",
+      "pubDate": "Mon, 11 May 2026 17:00:00 -0300",
+      "date": "11/05 · 20:00"
+    },
+    {
       "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532649/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao-feminino",
       "pubDate": "Mon, 11 May 2026 08:30:00 -0300",
@@ -222,24 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127716/ou-pode-fazer-ou-a-arbitragem-errou-pronunciamento-de-marcelo-paz-sobre-arbitragem-no-majestoso",
       "pubDate": "Sun, 10 May 2026 23:16:04 -0300",
       "date": "11/05 · 02:16"
-    },
-    {
-      "title": "VÍDEO: O importante é entrar entre os onze! Bidon fala sobre maturidade em campo e comemora gol em clássico",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127711/o-importante-e-entrar-entre-os-onze-bidon-fala-sobre-maturidade-em-campo-e-comemora-gol-em-classico",
-      "pubDate": "Sun, 10 May 2026 22:51:50 -0300",
-      "date": "11/05 · 01:51"
-    },
-    {
-      "title": "VÍDEO: Gol importante, comemoração à la Ronaldo e falhas | zona mista Raniele",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127706/gol-importante-comemoracao-a-la-ronaldo-e-falhas-zona-mista-raniele",
-      "pubDate": "Sun, 10 May 2026 22:24:04 -0300",
-      "date": "11/05 · 01:24"
-    },
-    {
-      "title": "VÍDEO: Importância da vitória, erros e participação ofensiva | zona mista Matheuzinho",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127703/importancia-da-vitoria-erros-e-participacao-ofensiva-zona-mista-matheuzinho",
-      "pubDate": "Sun, 10 May 2026 22:13:50 -0300",
-      "date": "11/05 · 01:13"
     }
   ]
 };
