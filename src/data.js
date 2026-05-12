@@ -1,46 +1,86 @@
-// Gerado automaticamente em 12/05/2026, 13:29:37
+// Gerado automaticamente em 12/05/2026, 19:25:08
 const LIVE_DATA = {
-  "updatedAt": "2026-05-12T13:29:37.608Z",
+  "updatedAt": "2026-05-12T19:25:08.248Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Corinthians admite sondagem por Gabi Nunes e alerta diretoria sobre concorrência",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532793/tecnica-do-corinthians-admite-sondagem-por-gabi-nunes-e-alerta-diretoria-sobre-concorrencia",
-      "time": "12/05 · 12:28",
-      "pubDate": "Tue, 12 May 2026 09:28:00 -0300"
+      "title": "Meia-atacante entra no pódio de artilheiras do Corinthians na temporada após o Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532802/meia-atacante-entra-no-podio-de-artilheiras-do-corinthians-na-temporada-apos-o-majestoso",
+      "time": "12/05 · 18:32",
+      "pubDate": "Tue, 12 May 2026 15:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians sofre tripla denúncia no STJD após clássico contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532788/corinthians-sofre-tripla-denuncia-no-stjd-apos-classico-contra-o-sao-paulo",
-      "time": "12/05 · 11:59",
-      "pubDate": "Tue, 12 May 2026 08:59:00 -0300"
+      "title": "Fernando Diniz iguala português e vive melhor começo de um treinador no Corinthians desde 2017",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532718/fernando-diniz-iguala-portugues-e-vive-melhor-comeco-de-um-treinador-no-corinthians-desde-2017",
+      "time": "12/05 · 17:35",
+      "pubDate": "Tue, 12 May 2026 14:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Minas em busca de carimbar vaga na semifinal do NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532767/corinthians-visita-o-minas-em-busca-de-carimbar-vaga-na-semifinal-do-nbb-saiba-tudo",
-      "time": "12/05 · 11:30",
-      "pubDate": "Tue, 12 May 2026 08:30:00 -0300"
+      "title": "Andressa Alves faz alerta sobre queda de produção do Corinthians em vitória no Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532799/andressa-alves-faz-alerta-sobre-queda-de-producao-do-corinthians-em-vitoria-no-majestoso",
+      "time": "12/05 · 17:01",
+      "pubDate": "Tue, 12 May 2026 14:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: goleiro de Seleção, treinador arrependido e novo déficit",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532787/ultimas-do-corinthians-goleiro-de-selecao-treinador-arrependido-e-novo-deficit",
-      "time": "12/05 · 10:30",
-      "pubDate": "Tue, 12 May 2026 07:30:00 -0300"
+      "title": "Ana Vitória volta a atuar pelo Corinthians após um mês afastada por concussão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532782/ana-vitoria-volta-a-atuar-pelo-corinthians-apos-se-lesionar-na-selecao-brasileira",
+      "time": "12/05 · 16:38",
+      "pubDate": "Tue, 12 May 2026 13:38:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians destaca liberdade ofensiva sob o comando de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532743/volante-do-corinthians-destaca-liberdade-ofensiva-com-fernando-diniz",
+      "time": "12/05 · 16:03",
+      "pubDate": "Tue, 12 May 2026 13:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians quita salários atrasados do elenco masculino e comissão de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532807/corinthians-quita-salarios-atrasados-do-elenco-masculino-e-comissao-de-fernando-diniz",
+      "time": "12/05 · 15:40",
+      "pubDate": "Tue, 12 May 2026 12:40:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians dispara na liderança do Brasileirão Feminino após vitória no Majestoso; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532786/corinthians-dispara-na-lideranca-do-brasileirao-feminino-apos-vitoria-no-majestoso-veja-a-tabela",
+      "time": "12/05 · 14:33",
+      "pubDate": "Tue, 12 May 2026 11:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians lidera em assistências entre todos os jogadores da Série A em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532762/meia-do-corinthians-lidera-em-assistencias-entre-todos-os-jogadores-da-serie-a-em-2026",
+      "time": "12/05 · 13:31",
+      "pubDate": "Tue, 12 May 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vai contratar centroavante pedido por Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vai-contratar-centroavante-pedido-por-fernando-diniz]]>",
+      "time": "12/05 · 11:58",
+      "pubDate": "Tue, 12 May 2026 08:58:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Bastidores do Corinthians: Como Diniz fez Garro virar o ‘Rei’ do Brasil",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/bastidores-do-corinthians-como-diniz-fez-garro-virar-o-rei-do-brasil]]>",
-      "time": "12/05 · 09:37",
-      "pubDate": "Tue, 12 May 2026 06:37:49 -0300"
+      "time": "12/05 · 10:27",
+      "pubDate": "Tue, 12 May 2026 07:27:27 -0300"
     },
     {
       "source": "Bolavip",
@@ -49,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/cbf-discorda-do-corinthians-e-descarta-erro-de-daronco-no-classico]]>",
       "time": "12/05 · 08:01",
       "pubDate": "Tue, 12 May 2026 05:01:31 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o São Paulo e segue líder do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532779/corinthians-vence-o-sao-paulo-e-segue-lider-do-brasileirao-feminino",
-      "time": "12/05 · 02:29",
-      "pubDate": "Mon, 11 May 2026 23:29:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,30 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pede-mantuan-do-zenit-como-parte-de-pagamento-por-matheuzinho-diz-setorista]]>",
       "time": "12/05 · 01:47",
       "pubDate": "Mon, 11 May 2026 22:47:17 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians reconhece importância de vitória no Majestoso e enaltece trabalho de Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532731/lateral-do-corinthians-reconhece-importancia-de-vitoria-no-majestoso-e-enaltece-trabalho-de-diniz",
-      "time": "12/05 · 01:31",
-      "pubDate": "Mon, 11 May 2026 22:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel transforma Ginásio Wlamir Marques em trunfo na campanha do Corinthians no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532763/fiel-transforma-ginasio-wlamir-marques-em-trunfo-na-campanha-do-corinthians-no-nbb",
-      "time": "12/05 · 01:01",
-      "pubDate": "Mon, 11 May 2026 22:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra lateral no BID e chega a oito reforços no Sub-17 em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532780/corinthians-registra-lateral-no-bid-e-chega-a-oito-reforcos-no-sub-17-em-2026",
-      "time": "12/05 · 00:45",
-      "pubDate": "Mon, 11 May 2026 21:45:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mantem-retrospecto-favoravel-contra-o-sao-paulo-apos-novo-triunfo-no-campeonato-brasileiro]]>",
       "time": "11/05 · 20:44",
       "pubDate": "Mon, 11 May 2026 17:44:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Calleri reconhece Corinthians melhor em clássico na Neo Química Arena",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/calleri-reconhece-corinthians-melhor-em-classico-na-neo-quimica-arena]]>",
-      "time": "11/05 · 19:10",
-      "pubDate": "Mon, 11 May 2026 16:10:33 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,18 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532740/volante-do-corinthians-analisa-gol-marcado-e-ressalta-apoio-do-elenco-apos-erro-no-majestoso",
       "pubDate": "Mon, 11 May 2026 21:13:00 -0300",
       "date": "12/05 · 00:13"
-    },
-    {
-      "title": "Goleiro do Corinthians aparece em pré-lista da Seleção Brasileira para a Copa do Mundo de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532759/goleiro-do-corinthians-aparece-em-pre-lista-da-selecao-brasileira-para-a-copa-do-mundo-de-2026",
-      "pubDate": "Mon, 11 May 2026 17:02:00 -0300",
-      "date": "11/05 · 20:02"
-    },
-    {
-      "title": "VÍDEO: Bastidores com Diniz, Seleção Brasileira e mais: bate-papo com Matheuzinho do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127733/bastidores-com-diniz-selecao-brasileira-e-mais-bate-papo-com-matheuzinho-do-corinthians",
-      "pubDate": "Mon, 11 May 2026 17:00:00 -0300",
-      "date": "11/05 · 20:00"
     }
   ]
 };
