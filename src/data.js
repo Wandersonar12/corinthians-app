@@ -1,7 +1,39 @@
-// Gerado automaticamente em 12/05/2026, 10:20:15
+// Gerado automaticamente em 12/05/2026, 13:29:37
 const LIVE_DATA = {
-  "updatedAt": "2026-05-12T10:20:15.997Z",
+  "updatedAt": "2026-05-12T13:29:37.608Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians admite sondagem por Gabi Nunes e alerta diretoria sobre concorrência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532793/tecnica-do-corinthians-admite-sondagem-por-gabi-nunes-e-alerta-diretoria-sobre-concorrencia",
+      "time": "12/05 · 12:28",
+      "pubDate": "Tue, 12 May 2026 09:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians sofre tripla denúncia no STJD após clássico contra o São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532788/corinthians-sofre-tripla-denuncia-no-stjd-apos-classico-contra-o-sao-paulo",
+      "time": "12/05 · 11:59",
+      "pubDate": "Tue, 12 May 2026 08:59:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Minas em busca de carimbar vaga na semifinal do NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532767/corinthians-visita-o-minas-em-busca-de-carimbar-vaga-na-semifinal-do-nbb-saiba-tudo",
+      "time": "12/05 · 11:30",
+      "pubDate": "Tue, 12 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: goleiro de Seleção, treinador arrependido e novo déficit",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532787/ultimas-do-corinthians-goleiro-de-selecao-treinador-arrependido-e-novo-deficit",
+      "time": "12/05 · 10:30",
+      "pubDate": "Tue, 12 May 2026 07:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -65,38 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532780/corinthians-registra-lateral-no-bid-e-chega-a-oito-reforcos-no-sub-17-em-2026",
       "time": "12/05 · 00:45",
       "pubDate": "Mon, 11 May 2026 21:45:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "André Carrillo soma números expressivos em vitória do Corinthians sobre o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532720/andre-carrillo-soma-numeros-expressivos-em-vitoria-do-corinthians-sobre-o-sao-paulo",
-      "time": "12/05 · 00:31",
-      "pubDate": "Mon, 11 May 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians analisa gol marcado e ressalta apoio do elenco após erro no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532740/volante-do-corinthians-analisa-gol-marcado-e-ressalta-apoio-do-elenco-apos-erro-no-majestoso",
-      "time": "12/05 · 00:13",
-      "pubDate": "Mon, 11 May 2026 21:13:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Breno Bidon celebra vitória do Corinthians no Majestoso e exalta conexão com Rodrigo Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532737/breno-bidon-celebra-vitoria-do-corinthians-no-majestoso-e-exalta-conexao-com-rodrigo-garro",
-      "time": "12/05 · 00:01",
-      "pubDate": "Mon, 11 May 2026 21:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o São Paulo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532766/corinthians-esta-escalado-para-enfrentar-o-sao-paulo-pelo-brasileirao-feminino",
-      "time": "11/05 · 23:37",
-      "pubDate": "Mon, 11 May 2026 20:37:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Últimas do Corinthians: goleiro de Seleção, treinador arrependido e novo déficit",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532787/ultimas-do-corinthians-goleiro-de-selecao-treinador-arrependido-e-novo-deficit",
+      "pubDate": "Tue, 12 May 2026 07:30:00 -0300",
+      "date": "12/05 · 10:30"
+    },
     {
       "title": "Volante do Corinthians analisa gol marcado e ressalta apoio do elenco após erro no Majestoso",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532740/volante-do-corinthians-analisa-gol-marcado-e-ressalta-apoio-do-elenco-apos-erro-no-majestoso",
