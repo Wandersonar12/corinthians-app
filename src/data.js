@@ -1,7 +1,47 @@
-// Gerado automaticamente em 12/05/2026, 22:50:53
+// Gerado automaticamente em 13/05/2026, 10:11:07
 const LIVE_DATA = {
-  "updatedAt": "2026-05-12T22:50:53.530Z",
+  "updatedAt": "2026-05-13T10:11:07.235Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians valoriza campanha fora de casa para se recuperar no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532839/tecnico-do-corinthians-valoriza-campanha-fora-de-casa-para-se-recuperar-no-brasileiro-sub-20",
+      "time": "13/05 · 01:32",
+      "pubDate": "Tue, 12 May 2026 22:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians quebra recorde e alcança maior campanha em sua história no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532836/corinthians-quebra-recorde-e-alcanca-maior-campanha-em-sua-historia-no-nbb",
+      "time": "13/05 · 01:01",
+      "pubDate": "Tue, 12 May 2026 22:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians elogia novo uniforme e fala sobre união com equipe masculina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532801/meio-campista-do-corinthians-elogia-novo-uniforme-e-fala-sobre-uniao-com-equipe-masculina",
+      "time": "13/05 · 00:31",
+      "pubDate": "Tue, 12 May 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Minas e está classificado para as semifinais do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532826/corinthians-vence-o-minas-e-esta-classificado-para-as-semifinais-do-nbb",
+      "time": "13/05 · 00:02",
+      "pubDate": "Tue, 12 May 2026 21:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians chega ao vigésimo jogo sem marcar desde retorno de empréstimo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532795/atacante-do-corinthians-chega-ao-vigesimo-jogo-sem-marcar-desde-retorno-de-emprestimo",
+      "time": "12/05 · 23:31",
+      "pubDate": "Tue, 12 May 2026 20:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -16,7 +56,7 @@ const LIVE_DATA = {
       "title": "Corinthians se reapresenta após vitória no Majestoso de olho no Paulista Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532832/corinthians-se-reapresenta-apos-vitoria-no-majestoso-de-olho-no-paulista-feminino",
       "time": "12/05 · 22:18",
-      "pubDate": "Tue, 12 May 2026 19:18:50 -0300"
+      "pubDate": "Tue, 12 May 2026 19:18:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -27,44 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 12 May 2026 19:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians alcança melhor sequência ofensiva na temporada dentro da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532748/corinthians-alcanca-melhor-sequencia-ofensiva-na-temporada-dentro-da-neo-quimica-arena",
-      "time": "12/05 · 21:34",
-      "pubDate": "Tue, 12 May 2026 18:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians contrata zagueiro ex-Ponte Preta e goleiro para o Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532828/corinthians-contrata-zagueiro-ex-ponte-preta-e-goleiro-para-o-sub-17",
-      "time": "12/05 · 21:28",
-      "pubDate": "Tue, 12 May 2026 18:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro de 16 anos assina primeiro contrato profissional com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532827/goleiro-de-16-anos-assina-primeiro-contrato-profissional-com-o-corinthians",
-      "time": "12/05 · 21:12",
-      "pubDate": "Tue, 12 May 2026 18:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians gastou R$ 676 mil com empresa irregular de segurança em nome de funcionário do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532825/corinthians-gastou-r-676-mil-com-empresa-irregular-de-seguranca-em-nome-de-funcionario-do-clube",
-      "time": "12/05 · 21:00",
-      "pubDate": "Tue, 12 May 2026 18:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily Lima exalta vitória com a cara do Corinthians e destaca peso do Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532796/emily-lima-exalta-vitoria-com-a-cara-do-corinthians-e-destaca-peso-do-majestoso",
-      "time": "12/05 · 20:32",
-      "pubDate": "Tue, 12 May 2026 17:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Barra: Hugo Souza fica atrás de Ewerton em ranking defensivo antes da Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-barra-hugo-souza-fica-atras-de-ewerton-em-ranking-defensivo-antes-da-copa-do-brasil]]>",
+      "time": "12/05 · 20:13",
+      "pubDate": "Tue, 12 May 2026 17:13:59 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/bastidores-do-corinthians-como-diniz-fez-garro-virar-o-rei-do-brasil]]>",
       "time": "12/05 · 10:27",
       "pubDate": "Tue, 12 May 2026 07:27:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "CBF discorda do Corinthians e descarta erro de Daronco no clássico",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cbf-discorda-do-corinthians-e-descarta-erro-de-daronco-no-classico]]>",
-      "time": "12/05 · 08:01",
-      "pubDate": "Tue, 12 May 2026 05:01:31 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532827/goleiro-de-16-anos-assina-primeiro-contrato-profissional-com-o-corinthians",
       "pubDate": "Tue, 12 May 2026 18:12:00 -0300",
       "date": "12/05 · 21:12"
-    },
-    {
-      "title": "Últimas do Corinthians: goleiro de Seleção, treinador arrependido e novo déficit",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532787/ultimas-do-corinthians-goleiro-de-selecao-treinador-arrependido-e-novo-deficit",
-      "pubDate": "Tue, 12 May 2026 07:30:00 -0300",
-      "date": "12/05 · 10:30"
     }
   ]
 };
