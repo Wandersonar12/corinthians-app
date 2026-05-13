@@ -1,7 +1,47 @@
-// Gerado automaticamente em 13/05/2026, 10:11:07
+// Gerado automaticamente em 13/05/2026, 13:58:18
 const LIVE_DATA = {
-  "updatedAt": "2026-05-13T10:11:07.235Z",
+  "updatedAt": "2026-05-13T13:58:18.477Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zanotti dá duas assistências em clássico e se aproxima de líder do Corinthians em 2026; veja a lista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532814/zanotti-da-duas-assistencias-em-classico-e-se-aproxima-de-lider-do-corinthians-em-2026-veja-a-lista",
+      "time": "13/05 · 13:32",
+      "pubDate": "Wed, 13 May 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians descarta torneio amistoso e finaliza planos para intertemporada durante a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532852/corinthians-descarta-torneio-amistoso-e-finaliza-planos-para-intertemporada-durante-a-copa-do-mundo",
+      "time": "13/05 · 12:48",
+      "pubDate": "Wed, 13 May 2026 09:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians relembra dificuldades na altitude e reforça foco no título da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532770/lateral-do-corinthians-relembra-dificuldades-na-altitude-e-reforca-foco-no-titulo-da-libertadores",
+      "time": "13/05 · 12:33",
+      "pubDate": "Wed, 13 May 2026 09:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Cuiabá em busca de voltar a vencer no Brasileirão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532815/corinthians-visita-o-cuiaba-em-busca-de-voltar-a-vencer-no-brasileirao-sub-20-saiba-tudo",
+      "time": "13/05 · 11:30",
+      "pubDate": "Wed, 13 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: denúncia no STJD, condenado na Justiça e empresa irregular",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532840/ultimas-do-corinthians-denuncia-no-stjd-condenado-na-justica-e-empresa-irregular",
+      "time": "13/05 · 10:30",
+      "pubDate": "Wed, 13 May 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,44 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 12 May 2026 21:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o Minas e está classificado para as semifinais do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532826/corinthians-vence-o-minas-e-esta-classificado-para-as-semifinais-do-nbb",
-      "time": "13/05 · 00:02",
-      "pubDate": "Tue, 12 May 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians chega ao vigésimo jogo sem marcar desde retorno de empréstimo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532795/atacante-do-corinthians-chega-ao-vigesimo-jogo-sem-marcar-desde-retorno-de-emprestimo",
-      "time": "12/05 · 23:31",
-      "pubDate": "Tue, 12 May 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians explica substituição de Ivana Fuso e justifica improvisação na posição",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532797/tecnica-do-corinthians-explica-substituicao-de-ivana-fuso-e-justifica-improvisacao-na-posicao",
-      "time": "12/05 · 22:31",
-      "pubDate": "Tue, 12 May 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se reapresenta após vitória no Majestoso de olho no Paulista Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532832/corinthians-se-reapresenta-apos-vitoria-no-majestoso-de-olho-no-paulista-feminino",
-      "time": "12/05 · 22:18",
-      "pubDate": "Tue, 12 May 2026 19:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians detalha venda de ingressos para partida contra o Peñarol no Uruguai",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532830/corinthians-detalha-venda-de-ingressos-para-partida-contra-o-penarol-no-uruguai",
-      "time": "12/05 · 22:03",
-      "pubDate": "Tue, 12 May 2026 19:03:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele atinge nova marca histórica pelo Corinthians e reforça destaque defensivo na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-atinge-nova-marca-historica-pelo-corinthians-e-reforca-destaque-defensivo-na-temporada]]>",
+      "time": "12/05 · 23:25",
+      "pubDate": "Tue, 12 May 2026 20:25:36 -0300"
     },
     {
       "source": "Bolavip",
@@ -123,76 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Tue, 12 May 2026 08:58:00 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Bastidores do Corinthians: Como Diniz fez Garro virar o ‘Rei’ do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bastidores-do-corinthians-como-diniz-fez-garro-virar-o-rei-do-brasil]]>",
-      "time": "12/05 · 10:27",
-      "pubDate": "Tue, 12 May 2026 07:27:27 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
+      "time": "21/04 · 02:02",
+      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Garro se diz preocupado com Z4, mas confia em reação do Corinthians: &#8220;Vamos acabar lá em cima&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-se-diz-preocupado-com-z4-mas-confia-em-reacao-do-corinthians-vamos-acabar-la-em-cima/",
-      "time": "19/04 · 10:00",
-      "pubDate": "Sun, 19 Apr 2026 10:00:16 +0000"
+      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
+      "time": "20/04 · 23:00",
+      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate contra o Vitória",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-vitoria/",
-      "time": "19/04 · 09:00",
-      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000"
+      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 22:31",
+      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Análise: Corinthians volta a ser inofensivo e precisa ligar alerta no Brasileiro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-volta-a-ser-inofensivo-e-precisa-ligar-alerta-no-brasileiro/",
-      "time": "19/04 · 08:00",
-      "pubDate": "Sun, 19 Apr 2026 08:00:50 +0000"
+      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
+      "time": "20/04 · 20:30",
+      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
-      "time": "19/04 · 02:11",
-      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
+      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 19:00",
+      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
-      "time": "19/04 · 01:24",
-      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 18:55",
+      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
-      "time": "19/04 · 01:14",
-      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
+      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
+      "time": "20/04 · 15:21",
+      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
-      "time": "19/04 · 01:01",
-      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
-      "time": "18/04 · 22:02",
-      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
+      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
+      "time": "20/04 · 10:00",
+      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
     }
   ],
   "upcoming": [],
