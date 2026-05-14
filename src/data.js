@@ -1,78 +1,86 @@
-// Gerado automaticamente em 13/05/2026, 22:54:37
+// Gerado automaticamente em 14/05/2026, 10:03:09
 const LIVE_DATA = {
-  "updatedAt": "2026-05-13T22:54:37.969Z",
+  "updatedAt": "2026-05-14T10:03:09.503Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para decisão contra o Barra pela Copa do Brasil; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532856/corinthians-encerra-preparacao-para-decisao-contra-o-barra-pela-copa-do-brasil-veja-o-provavel-time",
-      "time": "13/05 · 22:41",
-      "pubDate": "Wed, 13 May 2026 19:41:15 -0300"
+      "title": "Corinthians recebe o Barra para carimbar classificação na Copa do Brasil; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532865/corinthians-recebe-o-barra-para-carimbar-classificacao-na-copa-do-brasil-saiba-tudo",
+      "time": "14/05 · 03:01",
+      "pubDate": "Thu, 14 May 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians pode alcançar marca histórica atingida por apenas sete jogadores do elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532810/zagueiro-do-corinthians-pode-alcancar-marca-historica-atingida-por-apenas-sete-jogadores-do-elenco",
-      "time": "13/05 · 22:34",
-      "pubDate": "Wed, 13 May 2026 19:34:00 -0300"
+      "title": "Corinthians visita o Red Bull Bragantino buscando somar pontos no Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532866/corinthians-visita-o-red-bull-bragantino-buscando-somar-pontos-no-paulistao-feminino",
+      "time": "14/05 · 02:30",
+      "pubDate": "Wed, 13 May 2026 23:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba quanto o Corinthians já faturou com cotas de TV no Brasileirão Feminino 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532849/saiba-quanto-o-corinthians-ja-faturou-com-cotas-de-tv-no-brasileirao-feminino-2026",
-      "time": "13/05 · 21:30",
-      "pubDate": "Wed, 13 May 2026 18:30:00 -0300"
+      "title": "Meio-campista do Corinthians entra na seleção do Brasileirão Feminino após gol no Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532848/meio-campista-do-corinthians-entra-na-selecao-do-brasileirao-feminino-apos-gol-no-majestoso",
+      "time": "14/05 · 01:30",
+      "pubDate": "Wed, 13 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians fecha preparação para enfrentar o Bragantino pelo Paulistão Feminino; veja provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532878/corinthians-fecha-preparacao-para-enfrentar-o-bragantino-pelo-paulistao-feminino-veja-provavel-time",
-      "time": "13/05 · 21:24",
-      "pubDate": "Wed, 13 May 2026 18:24:00 -0300"
+      "title": "Gabriel Paulista relembra vinda ao Corinthians e exalta Fiel e Fernando Diniz em entrevista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532882/gabriel-paulista-relembra-vinda-ao-corinthians-e-exalta-fiel-e-fernando-diniz-em-entrevista",
+      "time": "14/05 · 01:02",
+      "pubDate": "Wed, 13 May 2026 22:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Cuiabá e ganha respiro no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532868/corinthians-vence-o-cuiaba-e-ganha-respiro-no-brasileiro-sub-20",
-      "time": "13/05 · 21:13",
-      "pubDate": "Wed, 13 May 2026 18:13:00 -0300"
+      "title": "Corinthians defende retrospecto quase perfeito contra times de Santa Catarina na Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532820/corinthians-defende-retrospecto-quase-perfeito-contra-times-de-santa-catarina-na-arena",
+      "time": "14/05 · 00:29",
+      "pubDate": "Wed, 13 May 2026 21:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians destaca blindagem do elenco em meio às incertezas e projeta semifinal do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532870/tecnico-do-corinthians-destaca-blindagem-do-elenco-em-meio-as-incertezas-e-projeta-semifinal-do-nbb",
-      "time": "13/05 · 21:03",
-      "pubDate": "Wed, 13 May 2026 18:03:00 -0300"
+      "title": "Presidente do Corinthians se pronuncia após investigação do MP-SP sobre empresa de segurança",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532886/presidente-do-corinthians-se-pronuncia-apos-investigacao-do-mp-sp-sobre-empresa-de-seguranca",
+      "time": "14/05 · 00:04",
+      "pubDate": "Wed, 13 May 2026 21:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Retorno de Memphis Depay? Veja como ficou o time do Corinthians para o jogo da Copa do Brasil 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127788/retorno-de-memphis-depay-veja-como-ficou-o-time-do-corinthians-para-o-jogo-da-copa-do-brasil-2026",
-      "time": "13/05 · 20:50",
-      "pubDate": "Wed, 13 May 2026 17:50:19 -0300"
+      "title": "Lateral entra no ranking e zagueiro chega ao top-3 da artilharia do Sub-20 do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532881/lateral-entra-no-ranking-e-zagueiro-chega-ao-top-3-da-artilharia-do-sub-20-do-corinthians",
+      "time": "14/05 · 00:04",
+      "pubDate": "Wed, 13 May 2026 21:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia assume vice-liderança de participações em gols pelo Corinthians no Brasileirão na década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532784/meia-assume-vice-lideranca-de-participacoes-em-gols-pelo-corinthians-no-brasileirao-na-decada",
-      "time": "13/05 · 20:32",
-      "pubDate": "Wed, 13 May 2026 17:32:00 -0300"
+      "title": "Corinthians prepara estreia do uniforme I para jogo da Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532885/corinthians-prepara-estreia-do-uniforme-i-para-jogo-da-copa-do-brasil",
+      "time": "13/05 · 23:36",
+      "pubDate": "Wed, 13 May 2026 20:36:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "BYD recua em pagar 50% do salário em renovação de Memphis Depay no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/byd-desiste-de-bancar-50-do-salario-em-renovacao-de-memphis-depay-no-corinthians]]>",
-      "time": "13/05 · 19:15",
-      "pubDate": "Wed, 13 May 2026 16:15:10 -0300"
+      "title": "Rodrigo Garro alcança marca importante no Brasileirão e sobe no ranking ofensivo do Corinthians na década",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-alcanca-marca-importante-no-brasileirao-e-sobe-no-ranking-ofensivo-do-corinthians-na-decada]]>",
+      "time": "13/05 · 21:37",
+      "pubDate": "Wed, 13 May 2026 18:37:18 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele lidera ações defensivas entre meio-campistas da Série A e vira pilar do Corinthians na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-e-o-lider-defensivo-entre-os-meio-campistas-da-serie-a]]>",
+      "time": "13/05 · 20:15",
+      "pubDate": "Wed, 13 May 2026 17:15:41 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-barra-onde-assistir-ao-vivo-jogo-copa-do-brasil-hoje-horario-transmissao-tv-internet-streaming-escalacoes]]>",
       "time": "13/05 · 13:30",
       "pubDate": "Wed, 13 May 2026 10:30:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Raniele atinge nova marca histórica pelo Corinthians e reforça destaque defensivo na temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-atinge-nova-marca-historica-pelo-corinthians-e-reforca-destaque-defensivo-na-temporada]]>",
-      "time": "12/05 · 23:25",
-      "pubDate": "Tue, 12 May 2026 20:25:36 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Meio-campista do Corinthians entra na seleção do Brasileirão Feminino após gol no Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532848/meio-campista-do-corinthians-entra-na-selecao-do-brasileirao-feminino-apos-gol-no-majestoso",
+      "pubDate": "Wed, 13 May 2026 22:30:00 -0300",
+      "date": "14/05 · 01:30"
+    },
+    {
+      "title": "Meia do Corinthians projeta decisão na Copa do Brasil e espera ampliar marca de gols na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532883/meia-do-corinthians-projeta-decisao-na-copa-do-brasil-e-espera-ampliar-marca-de-gols-na-temporada",
+      "pubDate": "Wed, 13 May 2026 20:00:00 -0300",
+      "date": "13/05 · 23:00"
+    },
+    {
       "title": "VÍDEO: Stabile explica gasto de R$676 mil com empresa irregular de segurança que atuou no Corinthian",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127791/stabile-explica-gasto-de-r676-mil-com-empresa-irregular-de-segguranca-que-atuou-no-corinthians",
       "pubDate": "Wed, 13 May 2026 18:56:00 -0300",
@@ -212,7 +224,7 @@ const LIVE_DATA = {
       "date": "13/05 · 20:50"
     },
     {
-      "title": "Meia assume vice-lideran��a de participações em gols pelo Corinthians no Brasileirão na década",
+      "title": "Meia assume vice-liderança de participações em gols pelo Corinthians no Brasileirão na década",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532784/meia-assume-vice-lideranca-de-participacoes-em-gols-pelo-corinthians-no-brasileirao-na-decada",
       "pubDate": "Wed, 13 May 2026 17:32:00 -0300",
       "date": "13/05 · 20:32"
