@@ -1,38 +1,102 @@
-// Gerado automaticamente em 14/05/2026, 13:22:36
+// Gerado automaticamente em 14/05/2026, 19:25:16
 const LIVE_DATA = {
-  "updatedAt": "2026-05-14T13:22:36.323Z",
+  "updatedAt": "2026-05-14T19:25:16.187Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jovem sonha com estreia no profissional em partida do Corinthians na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532876/jovem-sonha-com-estreia-no-profissional-em-partida-do-corinthians-na-copa-do-brasil",
-      "time": "14/05 · 12:32",
-      "pubDate": "Thu, 14 May 2026 09:32:00 -0300"
+      "title": "Gerente de futebol do Corinthians completa um mês no cargo e detalha como tem sido o seu trabalho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532922/gerente-de-futebol-do-corinthians-completa-um-mes-no-cargo-e-detalha-com-tem-sido-o-seu-trabalho",
+      "time": "14/05 · 19:01",
+      "pubDate": "Thu, 14 May 2026 16:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Barra pela Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532867/saiba-onde-assistir-a-partida-entre-corinthians-e-barra-pela-copa-do-brasil",
-      "time": "14/05 · 11:30",
-      "pubDate": "Thu, 14 May 2026 08:30:00 -0300"
+      "title": "Corinthians busca engatar maior sequência de vitórias na Neo Química Arena após 16 meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532869/corinthians-busca-engatar-maior-sequencia-de-vitorias-na-neo-quimica-arena-apos-16-meses",
+      "time": "14/05 · 18:32",
+      "pubDate": "Thu, 14 May 2026 15:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Red Bull Bragantino pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532872/saiba-onde-assistir-ao-duelo-entre-corinthians-e-red-bull-bragantino-pelo-paulistao-feminino",
-      "time": "14/05 · 11:00",
-      "pubDate": "Thu, 14 May 2026 08:00:00 -0300"
+      "title": "Saiba o valor que o Corinthians pode receber por vaga nas oitavas de final da Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532904/saiba-o-valor-que-o-corinthians-pode-receber-por-vaga-nas-oitavas-de-final-da-copa-do-brasil",
+      "time": "14/05 · 18:02",
+      "pubDate": "Thu, 14 May 2026 15:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: explicações do presidente, investigação do MP e possível amistoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532893/ultimas-do-corinthians-explicacoes-do-presidente-investigacao-do-mp-e-possivel-amistoso",
-      "time": "14/05 · 10:30",
-      "pubDate": "Thu, 14 May 2026 07:30:00 -0300"
+      "title": "Corinthians confirma estreia do uniforme principal com as Brabas antes do time masculino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532919/corinthians-confirma-estreia-do-uniforme-principal-com-as-brabas-antes-do-time-masculino",
+      "time": "14/05 · 17:43",
+      "pubDate": "Thu, 14 May 2026 14:43:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gaviões da Fiel se reúne com Memphis Depay para esclarecer ausências e futuro no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532917/gavioes-da-fiel-se-reune-com-memphis-depay-para-esclarecer-ausencias-e-futuro-no-corinthians",
+      "time": "14/05 · 17:18",
+      "pubDate": "Thu, 14 May 2026 14:18:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é punido em R$ 24 mil pelo STJD após denúncia tripla por episódios do Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532916/corinthians-e-punido-em-r-24-mil-pelo-stjd-apos-denuncia-tripla-por-episodios-do-majestoso",
+      "time": "14/05 · 17:13",
+      "pubDate": "Thu, 14 May 2026 14:13:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio ofensivo lidera média de quilômetros percorridos pelo Corinthians na era Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532914/trio-ofensivo-lidera-media-de-quilometros-percorridos-pelo-corinthians-na-era-fernando-diniz",
+      "time": "14/05 · 17:01",
+      "pubDate": "Thu, 14 May 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca melhorar retrospecto mediano em estreias da primeira camisa; relembre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532894/corinthians-busca-melhorar-retrospecto-mediano-em-estreias-da-primeira-camisa-relembre",
+      "time": "14/05 · 16:33",
+      "pubDate": "Thu, 14 May 2026 13:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dois meses após sair do Corinthians, Dorival vira plano A do São Paulo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dois-meses-apos-sair-do-corinthians-dorival-vira-plano-a-do-sao-paulo]]>",
+      "time": "14/05 · 13:01",
+      "pubDate": "Thu, 14 May 2026 10:01:20 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz supera aproveitamento de Dorival Júnior como mandante no Corinthians em 2026 e diferença chama atenção",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-supera-aproveitamento-de-dorival-junior-como-mandante-no-corinthians-em-2026-e-diferenca-chama-atencao]]>",
+      "time": "14/05 · 12:59",
+      "pubDate": "Thu, 14 May 2026 09:59:50 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz impõe novo ritmo físico e trio de Corinthians lidera esforço físico",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-impoe-novo-ritmo-fisico-e-trio-de-corinthians-lidera-esforco-fisico]]>",
+      "time": "14/05 · 12:26",
+      "pubDate": "Thu, 14 May 2026 09:26:28 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Chrystian Barletta voltando ao Corinthians tem chance zero de acontecer",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/chrystian-barletta-voltando-ao-corinthians-tem-chance-zero-de-acontecer]]>",
+      "time": "14/05 · 11:55",
+      "pubDate": "Thu, 14 May 2026 08:55:58 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,44 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 14 May 2026 01:04:51 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Barra para carimbar classificação às oitavas da Copa do Brasil; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532865/corinthians-recebe-o-barra-para-carimbar-classificacao-na-copa-do-brasil-saiba-tudo",
-      "time": "14/05 · 03:01",
-      "pubDate": "Thu, 14 May 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Bragantino em busca dos primeiros pontos no Paulistão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532866/corinthians-visita-o-bragantino-em-busca-dos-primeiros-pontos-no-paulistao-feminino-saiba-tudo",
-      "time": "14/05 · 02:30",
-      "pubDate": "Wed, 13 May 2026 23:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians aposta em força da Neo Química Arena para eliminar o Barra na Copa do Brasil",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aposta-em-forca-da-neo-quimica-arena-para-eliminar-o-barra-na-copa-do-brasil]]>",
       "time": "14/05 · 01:39",
       "pubDate": "Wed, 13 May 2026 22:39:10 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians entra na seleção do Brasileirão Feminino após gol no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532848/meio-campista-do-corinthians-entra-na-selecao-do-brasileirao-feminino-apos-gol-no-majestoso",
-      "time": "14/05 · 01:30",
-      "pubDate": "Wed, 13 May 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabriel Paulista relembra vinda ao Corinthians e exalta trabalho sob o comando de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532882/gabriel-paulista-relembra-vinda-ao-corinthians-e-exalta-fiel-e-fernando-diniz-em-entrevista",
-      "time": "14/05 · 01:02",
-      "pubDate": "Wed, 13 May 2026 22:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-e-o-lider-defensivo-entre-os-meio-campistas-da-serie-a]]>",
       "time": "13/05 · 20:15",
       "pubDate": "Wed, 13 May 2026 17:15:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avançou em quatro dos cinco duelos contra equipes catarinenses na história da Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avancou-em-80-dos-duelos-contra-times-catarinenses]]>",
-      "time": "13/05 · 19:08",
-      "pubDate": "Wed, 13 May 2026 16:08:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "MP investiga contrato de segurança do Corinthians com empresa ligada a funcionário; clube cita emergência",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/mp-investiga-contrato-de-seguranca-do-corinthians-com-empresa-ligada-a-funcionario-clube-cita-emergencia]]>",
-      "time": "13/05 · 18:26",
-      "pubDate": "Wed, 13 May 2026 15:26:32 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "André Hernan revela que 3 empresas podem bancar renovação de Memphis Depay no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-hernan-revela-que-3-empresas-podem-bancar-renovacao-de-memphis-depay-no-corinthians]]>",
-      "time": "13/05 · 16:59",
-      "pubDate": "Wed, 13 May 2026 13:59:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians negocia com Grupo City para evitar novo transfer ban",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-negocia-com-grupo-city-para-evitar-novo-transfer-ban]]>",
-      "time": "13/05 · 16:58",
-      "pubDate": "Wed, 13 May 2026 13:58:23 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -222,30 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532883/meia-do-corinthians-projeta-decisao-na-copa-do-brasil-e-espera-ampliar-marca-de-gols-na-temporada",
       "pubDate": "Wed, 13 May 2026 20:00:00 -0300",
       "date": "13/05 · 23:00"
-    },
-    {
-      "title": "VÍDEO: Stabile explica gasto de R$676 mil com empresa irregular de segurança que atuou no Corinthian",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127791/stabile-explica-gasto-de-r676-mil-com-empresa-irregular-de-segguranca-que-atuou-no-corinthians",
-      "pubDate": "Wed, 13 May 2026 18:56:00 -0300",
-      "date": "13/05 · 21:56"
-    },
-    {
-      "title": "VÍDEO: Retorno de Memphis Depay? Veja como ficou o time do Corinthians para o jogo da Copa do Brasil 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127788/retorno-de-memphis-depay-veja-como-ficou-o-time-do-corinthians-para-o-jogo-da-copa-do-brasil-2026",
-      "pubDate": "Wed, 13 May 2026 17:50:19 -0300",
-      "date": "13/05 · 20:50"
-    },
-    {
-      "title": "Meia assume vice-liderança de participações em gols pelo Corinthians no Brasileirão na década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532784/meia-assume-vice-lideranca-de-participacoes-em-gols-pelo-corinthians-no-brasileirao-na-decada",
-      "pubDate": "Wed, 13 May 2026 17:32:00 -0300",
-      "date": "13/05 · 20:32"
-    },
-    {
-      "title": "Duda Sampaio marcou mais de um terço dos gols pelo Corinthians contra rivais; veja números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532831/duda-sampaio-marcou-mais-de-um-terco-dos-gols-pelo-corinthians-contra-rivais-veja-numeros",
-      "pubDate": "Wed, 13 May 2026 16:32:00 -0300",
-      "date": "13/05 · 19:32"
     }
   ]
 };
