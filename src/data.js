@@ -1,7 +1,71 @@
-// Gerado automaticamente em 15/05/2026, 10:10:30
+// Gerado automaticamente em 15/05/2026, 13:21:30
 const LIVE_DATA = {
-  "updatedAt": "2026-05-15T10:10:30.438Z",
+  "updatedAt": "2026-05-15T13:21:30.422Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MP-SP abre procedimento para investigar membros do Conselho Fiscal do Corinthians; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533008/mp-sp-abre-procedimento-para-investigar-membros-do-conselho-fiscal-do-corinthians-entenda",
+      "time": "15/05 · 13:01",
+      "pubDate": "Fri, 15 May 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "[Daniel Keppler] Virou obrigação do Corinthians viabilizar a renovação de Memphis Depay",
+      "url": "https://www.meutimao.com.br/coluna/daniel_keppler/4236/virou-obrigacao-do-corinthians-viabilizar-a-renovacao-de-memphis-depay/",
+      "time": "15/05 · 12:45",
+      "pubDate": "Fri, 15 May 2026 09:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece caminho inicial na Copa do Brasil Feminina em sorteio nesta sexta; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532921/corinthians-conhece-caminho-inicial-na-copa-do-brasil-feminina-em-sorteio-nesta-sexta-saiba-tudo",
+      "time": "15/05 · 12:35",
+      "pubDate": "Fri, 15 May 2026 09:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Praia Clube em busca de voltar a vencer na LNF; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532927/corinthians-recebe-o-praia-clube-em-busca-de-voltar-a-vencer-na-lnf-saiba-tudo",
+      "time": "15/05 · 12:00",
+      "pubDate": "Fri, 15 May 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz sondagem inicial por lateral-direita do Real Madrid; clube tem concorrência de rival",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532942/corinthians-faz-sondagem-inicial-por-lateral-direita-do-real-madrid-clube-tem-concorrencia-de-rival",
+      "time": "15/05 · 11:31",
+      "pubDate": "Fri, 15 May 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: classificação na Copa do Brasil, saída de Yuri e reunião com Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532987/ultimas-do-corinthians-classificacao-na-copa-do-brasil-saida-de-yuri-e-reuniao-com-memphis",
+      "time": "15/05 · 10:30",
+      "pubDate": "Fri, 15 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians detalha condições para negociar saída de Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-detalha-condicoes-para-negociar-saida-de-yuri-alberto]]>",
+      "time": "15/05 · 09:51",
+      "pubDate": "Fri, 15 May 2026 06:51:36 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto abre o jogo e revela pretensão em sair do Corinthians: “Um novo desafio”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-abre-o-jogo-e-revela-pretensao-em-sair-do-corinthians-um-novo-desafio]]>",
+      "time": "15/05 · 03:41",
+      "pubDate": "Fri, 15 May 2026 00:41:59 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,92 +83,44 @@ const LIVE_DATA = {
       "pubDate": "Thu, 14 May 2026 23:57:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Classificado! Fernando Diniz comenta classificação do Corinthians às oitavas da Copa do Brasi",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127828/classificado-fernando-diniz-comenta-classificacao-do-corinthians-as-oitavas-da-copa-do-brasil",
-      "time": "15/05 · 02:48",
-      "pubDate": "Thu, 14 May 2026 23:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia é eleito o craque do Corinthians em noite de classificação na Copa do Brasil; veja notas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532983/meia-e-eleito-o-craque-do-corinthians-em-noite-de-classificacao-na-copa-do-brasil-veja-notas",
-      "time": "15/05 · 02:29",
-      "pubDate": "Thu, 14 May 2026 23:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Clima de despedida! Yuri Alberto diz que deseja sair do Corinthians na próxima janela",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127826/clima-de-despedida-yuri-alberto-diz-que-deseja-sair-do-corinthians-na-proxima-janela",
-      "time": "15/05 · 02:28",
-      "pubDate": "Thu, 14 May 2026 23:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encaminha local para amistoso de intertemporada durante a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532974/corinthians-encaminha-local-para-amistoso-de-intertemporada-durante-a-copa-do-mundo",
-      "time": "15/05 · 02:14",
-      "pubDate": "Thu, 14 May 2026 23:14:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto revela desejo de sair do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532976/yuri-alberto-revela-desejo-de-sair-do-corinthians",
-      "time": "15/05 · 02:03",
-      "pubDate": "Thu, 14 May 2026 23:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians amplia retrospecto em decisões recentes na Arena pela Copa do Brasil; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532965/corinthians-amplia-retrospecto-em-decisoes-recentes-na-arena-pela-copa-do-brasil-veja-os-numeros",
-      "time": "15/05 · 01:32",
-      "pubDate": "Thu, 14 May 2026 22:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vence Barra-SC com gol de Yuri Alberto e avança na Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vence-barra-sc-com-gol-de-yuri-alberto-e-avanca-na-copa-do-brasil]]>",
+      "time": "15/05 · 01:44",
+      "pubDate": "Thu, 14 May 2026 22:44:34 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians x Barra AO VIVO – 0 x 0 – Primeiro tempo em andamento pela Copa do Brasil",
+      "title": "Yuri Alberto perde chance de gol e torcida do Corinthians reage",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-perde-chance-de-gol-e-torcida-do-corinthians-reage]]>",
+      "time": "15/05 · 01:22",
+      "pubDate": "Thu, 14 May 2026 22:22:01 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto desencanta, Corinthians vence o Barra e se classifica na Copa do Brasil",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-barra-ao-vivo-onde-assistir-jogo-em-tempo-real-pela-copa-do-brasil]]>",
-      "time": "14/05 · 22:45",
-      "pubDate": "Thu, 14 May 2026 19:45:48 -0300"
+      "time": "15/05 · 00:51",
+      "pubDate": "Thu, 14 May 2026 21:51:59 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "São Paulo pode investir em Tite, ex-Corinthians, como ‘Plano B’ de Dorival Jr, diz setorista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/sao-paulo-pode-investir-em-tite-ex-corinthians-como-plano-b-de-dorival-jr-diz-setorista]]>",
-      "time": "14/05 · 22:38",
-      "pubDate": "Thu, 14 May 2026 19:38:36 -0300"
+      "title": "Fernando Diniz exige intensidade e Corinthians se classifica na Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-exige-intensidade-e-corinthians-se-classifica-na-copa-do-brasil]]>",
+      "time": "15/05 · 00:37",
+      "pubDate": "Thu, 14 May 2026 21:37:04 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians antecipa estreia de novo uniforme em decisão contra o Barra pela Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-antecipa-estreia-de-novo-uniforme-em-decisao-contra-o-barra-pela-copa-do-brasil]]>",
-      "time": "14/05 · 22:37",
-      "pubDate": "Thu, 14 May 2026 19:37:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard quer Corinthians focado em jogo contra o Barra na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-quer-corinthians-focado-em-jogo-contra-o-barra-na-copa-do-brasil]]>",
-      "time": "14/05 · 22:37",
-      "pubDate": "Thu, 14 May 2026 19:37:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta sequência inédita na Neo Química Arena",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-sequencia-inedita-na-neo-quimica-arena]]>",
-      "time": "14/05 · 22:36",
-      "pubDate": "Thu, 14 May 2026 19:36:35 -0300"
+      "title": "Rodrigo Garro comanda classificação do Corinthians sobre o Barra na Neo Química Arena em noite de Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-comanda-classificacao-do-corinthians-sobre-o-barra-na-neo-quimica-arena-em-noite-de-yuri-alberto]]>",
+      "time": "15/05 · 00:23",
+      "pubDate": "Thu, 14 May 2026 21:23:10 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-deseja-renovar-com-o-corinthians]]>",
       "time": "14/05 · 22:36",
       "pubDate": "Thu, 14 May 2026 19:36:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Barra é oportunidade de ouro para Pedro Milans com Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-barra-e-oportunidade-de-ouro-para-pedro-milans-com-diniz]]>",
-      "time": "14/05 · 18:32",
-      "pubDate": "Thu, 14 May 2026 15:32:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define planejamento para pausa da Copa com aval de Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-planejamento-para-pausa-da-copa-com-aval-de-fernando-diniz]]>",
-      "time": "14/05 · 16:50",
-      "pubDate": "Thu, 14 May 2026 13:50:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -228,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532926/corinthians-goleia-red-bull-bragantino-e-soma-primeiros-pontos-no-paulistao-feminino",
       "pubDate": "Thu, 14 May 2026 19:26:00 -0300",
       "date": "14/05 · 22:26"
-    },
-    {
-      "title": "Invicto há três jogos e com paredão no gol: veja como chega o Barra para o jogo contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532910/invicto-ha-tres-jogos-e-com-paredao-no-gol-veja-como-chega-o-barra-para-o-jogo-contra-o-corinthians",
-      "pubDate": "Thu, 14 May 2026 17:32:00 -0300",
-      "date": "14/05 · 20:32"
     }
   ]
 };
