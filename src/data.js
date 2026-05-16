@@ -1,70 +1,78 @@
-// Gerado automaticamente em 16/05/2026, 18:44:07
+// Gerado automaticamente em 16/05/2026, 22:33:28
 const LIVE_DATA = {
-  "updatedAt": "2026-05-16T18:44:07.027Z",
+  "updatedAt": "2026-05-16T22:33:28.755Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para jogo contra o Botafogo pelo Brasileirão; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533056/corinthians-encerra-preparacao-para-jogo-contra-o-botafogo-pelo-brasileirao-veja-o-provavel-time",
-      "time": "16/05 · 18:25",
-      "pubDate": "Sat, 16 May 2026 15:25:13 -0300"
+      "title": "Meia marroquino desfalca o Corinthians contra o Botafogo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533088/meia-marroquino-desfalca-o-corinthians-contra-o-botafogo-pelo-brasileirao",
+      "time": "16/05 · 22:07",
+      "pubDate": "Sat, 16 May 2026 19:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians projeta duelo com o Botafogo e vê desafio extra em gramado sintético",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533073/lateral-do-corinthians-projeta-duelo-com-o-botafogo-e-ve-desafio-extra-em-gramado-sintetico",
-      "time": "16/05 · 18:20",
-      "pubDate": "Sat, 16 May 2026 15:20:00 -0300"
+      "title": "VÍDEO: Sem Memphis e Labyad! Corinthians desembarca no Rio de Janeiro para enfrentar o Botafogo",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127875/sem-memphis-e-labyad-corinthians-desembarca-no-rio-de-janeiro-para-enfrentar-o-botafogo",
+      "time": "16/05 · 22:03",
+      "pubDate": "Sat, 16 May 2026 19:03:12 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o botafogo pelo Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127871/provavel-escalacao-do-corinthians-para-enfrentar-o-botafogo-pelo-campeonato-brasileiro-2026",
-      "time": "16/05 · 18:12",
-      "pubDate": "Sat, 16 May 2026 15:12:13 -0300"
+      "title": "Lateral do Corinthians completa 100 dias fora da equipe por conta de lesão no joelho direito",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533067/lateral-do-corinthians-completa-100-dias-fora-da-equipe-por-conta-de-lesao-no-joelho-direito",
+      "time": "16/05 · 22:02",
+      "pubDate": "Sat, 16 May 2026 19:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para jogos da semifinal do NBB contra o Pinheiros",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533059/corinthians-inicia-venda-de-ingressos-para-jogos-da-semifinal-do-nbb-contra-o-pinheiros",
-      "time": "16/05 · 18:01",
-      "pubDate": "Sat, 16 May 2026 15:01:00 -0300"
+      "title": "Corinthians volta a vencer em estreias de camisas I e II depois de três anos; veja o retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533020/corinthians-volta-a-vencer-em-estreias-de-camisas-i-e-ii-depois-de-tres-anos-veja-o-retrospecto",
+      "time": "16/05 · 21:34",
+      "pubDate": "Sat, 16 May 2026 18:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ariel Godoi marca primeiro hat-trick pelo Corinthians em goleada no Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533018/ariel-godoi-marca-primeiro-hat-trick-pelo-corinthians-em-goleada-no-paulistao-feminino",
-      "time": "16/05 · 17:34",
-      "pubDate": "Sat, 16 May 2026 14:34:00 -0300"
+      "title": "Corinthians desembarca no Rio de Janeiro com 24 jogadores para duelo contra o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533057/corinthians-desembarca-no-rio-de-janeiro-com-24-jogadores-para-duelo-contra-o-botafogo",
+      "time": "16/05 · 21:33",
+      "pubDate": "Sat, 16 May 2026 18:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Conselho Superior do MP marca julgamento de recurso do Corinthians contra inquérito da intervenção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533065/conselho-superior-do-mp-marca-julgamento-de-recurso-do-corinthians-contra-inquerito-da-intervencao",
-      "time": "16/05 · 16:31",
-      "pubDate": "Sat, 16 May 2026 13:31:00 -0300"
+      "title": "Zagueiro do Corinthians explica discussão com Fernando Diniz e garante clima resolvido",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533082/zagueiro-do-corinthians-explica-discussao-com-fernando-diniz-e-garante-clima-resolvido",
+      "time": "16/05 · 21:01",
+      "pubDate": "Sat, 16 May 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Barcelona Esportivo e se mantém na liderança do Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533063/corinthians-vence-o-barcelona-esportivo-e-se-mantem-na-lideranca-do-paulista-sub-17",
-      "time": "16/05 · 15:47",
-      "pubDate": "Sat, 16 May 2026 12:47:00 -0300"
+      "title": "Fernando Diniz destaca resposta positiva do elenco desde sua chegada ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532997/fernando-diniz-destaca-resposta-positiva-do-elenco-desde-sua-chegada-ao-corinthians",
+      "time": "16/05 · 20:36",
+      "pubDate": "Sat, 16 May 2026 17:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians ultrapassa rival e assume segunda colocação em lista histórica da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533026/corinthians-ultrapassa-rival-e-assume-segunda-colocacao-em-lista-historica-da-copa-do-brasil",
-      "time": "16/05 · 15:33",
-      "pubDate": "Sat, 16 May 2026 12:33:00 -0300"
+      "title": "Elenco do Corinthians tira fotos com troféu da NBA no CT",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533072/elenco-do-corinthians-tira-fotos-com-trofeu-da-nba-no-ct",
+      "time": "16/05 · 20:01",
+      "pubDate": "Sat, 16 May 2026 17:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança em projeto para renovar com Memphis Depay antes da Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-em-projeto-para-renovar-com-memphis-depay-antes-da-copa]]>",
+      "time": "16/05 · 17:00",
+      "pubDate": "Sat, 16 May 2026 14:00:15 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/botafogo-recebe-o-corinthians-com-ataque-modificado-e-possivel-reforco-do-palmeiras-no-banco]]>",
       "time": "16/05 · 11:43",
       "pubDate": "Sat, 16 May 2026 08:43:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança em projeto para renovar com Memphis Depay antes da Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-em-projeto-para-renovar-com-memphis-depay-antes-da-copa]]>",
-      "time": "16/05 · 11:18",
-      "pubDate": "Sat, 16 May 2026 08:18:07 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Sem Memphis e Labyad! Corinthians desembarca no Rio de Janeiro para enfrentar o Botafogo",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127875/sem-memphis-e-labyad-corinthians-desembarca-no-rio-de-janeiro-para-enfrentar-o-botafogo",
+      "pubDate": "Sat, 16 May 2026 19:03:12 -0300",
+      "date": "16/05 · 22:03"
+    },
     {
       "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o botafogo pelo Campeonato Brasileiro 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127871/provavel-escalacao-do-corinthians-para-enfrentar-o-botafogo-pelo-campeonato-brasileiro-2026",
