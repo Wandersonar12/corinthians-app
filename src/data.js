@@ -1,70 +1,86 @@
-// Gerado automaticamente em 16/05/2026, 12:51:19
+// Gerado automaticamente em 16/05/2026, 18:44:07
 const LIVE_DATA = {
-  "updatedAt": "2026-05-16T12:51:19.513Z",
+  "updatedAt": "2026-05-16T18:44:07.027Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Vasco de olho em encostar nos líderes do Brasileirão Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533029/corinthians-recebe-o-vasco-de-olho-em-encostar-nos-lideres-do-brasileirao-sub-20-saiba-tudo",
-      "time": "16/05 · 12:33",
-      "pubDate": "Sat, 16 May 2026 09:33:00 -0300"
+      "title": "Corinthians encerra preparação para jogo contra o Botafogo pelo Brasileirão; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533056/corinthians-encerra-preparacao-para-jogo-contra-o-botafogo-pelo-brasileirao-veja-o-provavel-time",
+      "time": "16/05 · 18:25",
+      "pubDate": "Sat, 16 May 2026 15:25:13 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meu Timão lança ferramenta que permite relembrar todos os elencos do Corinthians desde 1910",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533048/meu-timao-lanca-ferramenta-que-permite-relembrar-todos-os-elencos-do-corinthians-desde-1910",
-      "time": "16/05 · 12:00",
-      "pubDate": "Sat, 16 May 2026 09:00:00 -0300"
+      "title": "Lateral do Corinthians projeta duelo com o Botafogo e vê desafio extra em gramado sintético",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533073/lateral-do-corinthians-projeta-duelo-com-o-botafogo-e-ve-desafio-extra-em-gramado-sintetico",
+      "time": "16/05 · 18:20",
+      "pubDate": "Sat, 16 May 2026 15:20:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Barcelona de Capela para manter 100% de aproveitamento no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533027/corinthians-enfrenta-o-barcelona-de-capela-para-manter-100-por-cento-de-aproveitamento-no-paulista-sub-17",
-      "time": "16/05 · 11:30",
-      "pubDate": "Sat, 16 May 2026 08:30:00 -0300"
+      "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o botafogo pelo Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127871/provavel-escalacao-do-corinthians-para-enfrentar-o-botafogo-pelo-campeonato-brasileiro-2026",
+      "time": "16/05 · 18:12",
+      "pubDate": "Sat, 16 May 2026 15:12:13 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: amistoso, pronunciamento de Yuri e dificuldades do presidente",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533047/ultimas-do-corinthians-amistoso-pronunciamento-de-yuri-e-dificuldades-do-presidente",
-      "time": "16/05 · 10:30",
-      "pubDate": "Sat, 16 May 2026 07:30:00 -0300"
+      "title": "Corinthians inicia venda de ingressos para jogos da semifinal do NBB contra o Pinheiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533059/corinthians-inicia-venda-de-ingressos-para-jogos-da-semifinal-do-nbb-contra-o-pinheiros",
+      "time": "16/05 · 18:01",
+      "pubDate": "Sat, 16 May 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians melhora o retrospecto em estreias de primeiras camisas após vitória contra o Barra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532972/corinthians-melhora-o-retrospecto-em-estreias-de-primeiras-camisas-apos-vitoria-contra-o-barra",
-      "time": "16/05 · 01:31",
-      "pubDate": "Fri, 15 May 2026 22:31:00 -0300"
+      "title": "Ariel Godoi marca primeiro hat-trick pelo Corinthians em goleada no Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533018/ariel-godoi-marca-primeiro-hat-trick-pelo-corinthians-em-goleada-no-paulistao-feminino",
+      "time": "16/05 · 17:34",
+      "pubDate": "Sat, 16 May 2026 14:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é superado pelo Praia Clube em casa e amplia jejum de vitórias na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533039/corinthians-e-superado-pelo-praia-clube-em-casa-e-amplia-jejum-de-vitorias-na-lnf",
-      "time": "16/05 · 00:37",
-      "pubDate": "Fri, 15 May 2026 21:37:00 -0300"
+      "title": "Conselho Superior do MP marca julgamento de recurso do Corinthians contra inquérito da intervenção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533065/conselho-superior-do-mp-marca-julgamento-de-recurso-do-corinthians-contra-inquerito-da-intervencao",
+      "time": "16/05 · 16:31",
+      "pubDate": "Sat, 16 May 2026 13:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians minimiza fim de jejum e revela pedido da filha em nova comemoração",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533006/atacante-do-corinthians-minimiza-fim-de-jejum-e-revela-pedido-da-filha-em-nova-comemoracao",
-      "time": "16/05 · 00:34",
-      "pubDate": "Fri, 15 May 2026 21:34:00 -0300"
+      "title": "Corinthians vence o Barcelona Esportivo e se mantém na liderança do Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533063/corinthians-vence-o-barcelona-esportivo-e-se-mantem-na-lideranca-do-paulista-sub-17",
+      "time": "16/05 · 15:47",
+      "pubDate": "Sat, 16 May 2026 12:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians leiloa camisas em campanha do Dia Internacional da Síndrome de Down",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533041/corinthians-leiloa-camisas-em-campanha-do-dia-internacional-da-sindrome-de-down",
-      "time": "16/05 · 00:05",
-      "pubDate": "Fri, 15 May 2026 21:05:00 -0300"
+      "title": "Corinthians ultrapassa rival e assume segunda colocação em lista histórica da Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533026/corinthians-ultrapassa-rival-e-assume-segunda-colocacao-em-lista-historica-da-copa-do-brasil",
+      "time": "16/05 · 15:33",
+      "pubDate": "Sat, 16 May 2026 12:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Botafogo recebe o Corinthians com ataque modificado e possível reforço do Palmeiras no banco",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/botafogo-recebe-o-corinthians-com-ataque-modificado-e-possivel-reforco-do-palmeiras-no-banco]]>",
+      "time": "16/05 · 11:43",
+      "pubDate": "Sat, 16 May 2026 08:43:02 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança em projeto para renovar com Memphis Depay antes da Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-em-projeto-para-renovar-com-memphis-depay-antes-da-copa]]>",
+      "time": "16/05 · 11:18",
+      "pubDate": "Sat, 16 May 2026 08:18:07 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-proposta-oficial-de-r-118-milhoes-da-roma-ita-por-40-de-yuri-alberto]]>",
       "time": "15/05 · 17:36",
       "pubDate": "Fri, 15 May 2026 14:36:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians detalha condições para negociar saída de Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-detalha-condicoes-para-negociar-saida-de-yuri-alberto]]>",
-      "time": "15/05 · 15:10",
-      "pubDate": "Fri, 15 May 2026 12:10:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto abre o jogo e revela pretensão em sair do Corinthians: “Um novo desafio”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-abre-o-jogo-e-revela-pretensao-em-sair-do-corinthians-um-novo-desafio]]>",
-      "time": "15/05 · 03:41",
-      "pubDate": "Fri, 15 May 2026 00:41:59 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,22 +200,22 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o botafogo pelo Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127871/provavel-escalacao-do-corinthians-para-enfrentar-o-botafogo-pelo-campeonato-brasileiro-2026",
+      "pubDate": "Sat, 16 May 2026 15:12:13 -0300",
+      "date": "16/05 · 18:12"
+    },
+    {
+      "title": "Ariel Godoi marca primeiro hat-trick pelo Corinthians em goleada no Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533018/ariel-godoi-marca-primeiro-hat-trick-pelo-corinthians-em-goleada-no-paulistao-feminino",
+      "pubDate": "Sat, 16 May 2026 14:34:00 -0300",
+      "date": "16/05 · 17:34"
+    },
+    {
       "title": "Motivação sobre o passado e novo uniforme marcam bastidores da goleada sobre o Red Bull Bragantino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533046/motivacao-sobre-o-passado-e-novo-uniforme-marcam-bastidores-da-goleada-sobre-o-red-bull-bragantino",
       "pubDate": "Fri, 15 May 2026 22:00:00 -0300",
       "date": "16/05 · 01:00"
-    },
-    {
-      "title": "Goleada do Corinthians sobre o Red Bull Bragantino movimenta ranking de artilheiras das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533021/goleada-do-corinthians-sobre-o-red-bull-bragantino-movimenta-ranking-de-artilheiras-das-brabas",
-      "pubDate": "Fri, 15 May 2026 16:01:00 -0300",
-      "date": "15/05 · 19:01"
-    },
-    {
-      "title": "Corinthians volta a não sofrer gols após três partidas tendo a meta vazada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532966/corinthians-volta-a-nao-sofrer-gols-apos-tres-partidas-tendo-a-meta-vazada",
-      "pubDate": "Fri, 15 May 2026 15:31:00 -0300",
-      "date": "15/05 · 18:31"
     }
   ]
 };
