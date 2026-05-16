@@ -1,7 +1,39 @@
-// Gerado automaticamente em 16/05/2026, 09:17:37
+// Gerado automaticamente em 16/05/2026, 12:51:19
 const LIVE_DATA = {
-  "updatedAt": "2026-05-16T09:17:37.050Z",
+  "updatedAt": "2026-05-16T12:51:19.513Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Vasco de olho em encostar nos líderes do Brasileirão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533029/corinthians-recebe-o-vasco-de-olho-em-encostar-nos-lideres-do-brasileirao-sub-20-saiba-tudo",
+      "time": "16/05 · 12:33",
+      "pubDate": "Sat, 16 May 2026 09:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meu Timão lança ferramenta que permite relembrar todos os elencos do Corinthians desde 1910",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533048/meu-timao-lanca-ferramenta-que-permite-relembrar-todos-os-elencos-do-corinthians-desde-1910",
+      "time": "16/05 · 12:00",
+      "pubDate": "Sat, 16 May 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o Barcelona de Capela para manter 100% de aproveitamento no Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533027/corinthians-enfrenta-o-barcelona-de-capela-para-manter-100-por-cento-de-aproveitamento-no-paulista-sub-17",
+      "time": "16/05 · 11:30",
+      "pubDate": "Sat, 16 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: amistoso, pronunciamento de Yuri e dificuldades do presidente",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533047/ultimas-do-corinthians-amistoso-pronunciamento-de-yuri-e-dificuldades-do-presidente",
+      "time": "16/05 · 10:30",
+      "pubDate": "Sat, 16 May 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,20 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 15 May 2026 21:05:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians acumula estatísticas positivas em vitória contra o Barra na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532973/meia-do-corinthians-acumula-estatisticas-positivas-em-vitoria-contra-o-barra-na-copa-do-brasil",
-      "time": "15/05 · 23:34",
-      "pubDate": "Fri, 15 May 2026 20:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians celebra marca de 100 jogos pelo clube e classificação na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533004/zagueiro-do-corinthians-celebra-marca-de-100-jogos-pelo-clube-e-classificacao-na-copa-do-brasil",
-      "time": "15/05 · 23:01",
-      "pubDate": "Fri, 15 May 2026 20:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto se pronuncia após declaração polêmica no Corinthians: “Não existe proposta”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-se-pronuncia-apos-declaracao-polemica-no-corinthians]]>",
+      "time": "15/05 · 23:23",
+      "pubDate": "Fri, 15 May 2026 20:23:44 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,22 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sente-incomodo-na-panturrilha-e-atrasa-retorno-no-corinthians]]>",
       "time": "15/05 · 22:32",
       "pubDate": "Fri, 15 May 2026 19:32:55 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém retrospecto quase perfeito contra catarinenses na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532971/corinthians-mantem-retrospecto-quase-perfeito-contra-catarinenses-na-neo-quimica-arena",
-      "time": "15/05 · 22:32",
-      "pubDate": "Fri, 15 May 2026 19:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante volta a se isolar na liderança do ranking de artilheiros do Corinthians no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532970/atacante-volta-a-se-isolar-na-lideranca-do-ranking-de-artilheiros-do-corinthians-no-ano",
-      "time": "15/05 · 22:02",
-      "pubDate": "Fri, 15 May 2026 19:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-abre-o-jogo-e-revela-pretensao-em-sair-do-corinthians-um-novo-desafio]]>",
       "time": "15/05 · 03:41",
       "pubDate": "Fri, 15 May 2026 00:41:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vence Barra-SC com gol de Yuri Alberto e avança na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vence-barra-sc-com-gol-de-yuri-alberto-e-avanca-na-copa-do-brasil]]>",
-      "time": "15/05 · 01:44",
-      "pubDate": "Thu, 14 May 2026 22:44:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
