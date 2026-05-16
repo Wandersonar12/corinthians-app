@@ -1,7 +1,71 @@
-// Gerado automaticamente em 15/05/2026, 22:41:41
+// Gerado automaticamente em 16/05/2026, 09:17:37
 const LIVE_DATA = {
-  "updatedAt": "2026-05-15T22:41:41.215Z",
+  "updatedAt": "2026-05-16T09:17:37.050Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians melhora o retrospecto em estreias de primeiras camisas após vitória contra o Barra",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532972/corinthians-melhora-o-retrospecto-em-estreias-de-primeiras-camisas-apos-vitoria-contra-o-barra",
+      "time": "16/05 · 01:31",
+      "pubDate": "Fri, 15 May 2026 22:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é superado pelo Praia Clube em casa e amplia jejum de vitórias na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533039/corinthians-e-superado-pelo-praia-clube-em-casa-e-amplia-jejum-de-vitorias-na-lnf",
+      "time": "16/05 · 00:37",
+      "pubDate": "Fri, 15 May 2026 21:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians minimiza fim de jejum e revela pedido da filha em nova comemoração",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533006/atacante-do-corinthians-minimiza-fim-de-jejum-e-revela-pedido-da-filha-em-nova-comemoracao",
+      "time": "16/05 · 00:34",
+      "pubDate": "Fri, 15 May 2026 21:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians leiloa camisas em campanha do Dia Internacional da Síndrome de Down",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533041/corinthians-leiloa-camisas-em-campanha-do-dia-internacional-da-sindrome-de-down",
+      "time": "16/05 · 00:05",
+      "pubDate": "Fri, 15 May 2026 21:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians acumula estatísticas positivas em vitória contra o Barra na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532973/meia-do-corinthians-acumula-estatisticas-positivas-em-vitoria-contra-o-barra-na-copa-do-brasil",
+      "time": "15/05 · 23:34",
+      "pubDate": "Fri, 15 May 2026 20:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians celebra marca de 100 jogos pelo clube e classificação na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533004/zagueiro-do-corinthians-celebra-marca-de-100-jogos-pelo-clube-e-classificacao-na-copa-do-brasil",
+      "time": "15/05 · 23:01",
+      "pubDate": "Fri, 15 May 2026 20:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay sente incômodo na panturrilha e atrasa retorno no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sente-incomodo-na-panturrilha-e-atrasa-retorno-no-corinthians]]>",
+      "time": "15/05 · 22:32",
+      "pubDate": "Fri, 15 May 2026 19:32:55 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém retrospecto quase perfeito contra catarinenses na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532971/corinthians-mantem-retrospecto-quase-perfeito-contra-catarinenses-na-neo-quimica-arena",
+      "time": "15/05 · 22:32",
+      "pubDate": "Fri, 15 May 2026 19:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 15 May 2026 19:02:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto se pronuncia após fala polêmica sobre saída do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533037/yuri-alberto-se-pronuncia-apos-fala-polemica-sobre-saida-do-corinthians",
-      "time": "15/05 · 21:47",
-      "pubDate": "Fri, 15 May 2026 18:47:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto gera incômodo interno com declaração indicando saída do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-gera-incomodo-com-declaracao-indicando-saida-do-corinthians]]>",
+      "time": "15/05 · 20:48",
+      "pubDate": "Fri, 15 May 2026 17:48:11 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica diferenças entre Angileri e Bidu na lateral esquerda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532996/tecnico-do-corinthians-explica-diferencas-entre-angileri-e-bidu-na-lateral-esquerda",
-      "time": "15/05 · 21:31",
-      "pubDate": "Fri, 15 May 2026 18:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians Sub-16 comemora título em torneio Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533032/tecnico-do-corinthians-sub-16-comemora-titulo-em-torneio-sub-17",
-      "time": "15/05 · 21:04",
-      "pubDate": "Fri, 15 May 2026 18:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Osmar Stabile comprou celulares com cartão do Corinthians para dois jogadores do clube; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533030/osmar-stabile-comprou-celulares-com-cartao-do-corinthians-para-dois-jogadores-do-clube-entenda",
-      "time": "15/05 · 20:34",
-      "pubDate": "Fri, 15 May 2026 17:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretor administrativo do Corinthians pede renúncia após escândalo de empresa de segurança",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533033/diretor-administrativo-do-corinthians-pede-renuncia-apos-escandalo-de-empresa-de-seguranca",
-      "time": "15/05 · 20:26",
-      "pubDate": "Fri, 15 May 2026 17:26:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ana Vitória marca pela primeira vez desde retorno ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533017/ana-vitoria-marca-pela-primeira-vez-desde-retorno-ao-corinthians",
-      "time": "15/05 · 20:02",
-      "pubDate": "Fri, 15 May 2026 17:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians elogia entrega de atletas do setor ofensivo no apoio à defesa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532994/tecnico-do-corinthians-elogia-entrega-de-atletas-do-setor-ofensivo-no-apoio-a-defesa",
-      "time": "15/05 · 19:31",
-      "pubDate": "Fri, 15 May 2026 16:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile confirma que Yuri Alberto não quer ficar no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-confirma-que-yuri-alberto-nao-quer-ficar-no-corinthians]]>",
+      "time": "15/05 · 19:17",
+      "pubDate": "Fri, 15 May 2026 16:17:18 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vence-barra-sc-com-gol-de-yuri-alberto-e-avanca-na-copa-do-brasil]]>",
       "time": "15/05 · 01:44",
       "pubDate": "Thu, 14 May 2026 22:44:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto perde chance de gol e torcida do Corinthians reage",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-perde-chance-de-gol-e-torcida-do-corinthians-reage]]>",
-      "time": "15/05 · 01:22",
-      "pubDate": "Thu, 14 May 2026 22:22:01 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz exige intensidade e Corinthians se classifica na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-exige-intensidade-e-corinthians-se-classifica-na-copa-do-brasil]]>",
-      "time": "15/05 · 00:37",
-      "pubDate": "Thu, 14 May 2026 21:37:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Rodrigo Garro comanda classificação do Corinthians sobre o Barra na Neo Química Arena em noite de Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-comanda-classificacao-do-corinthians-sobre-o-barra-na-neo-quimica-arena-em-noite-de-yuri-alberto]]>",
-      "time": "15/05 · 00:23",
-      "pubDate": "Thu, 14 May 2026 21:23:10 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Motivação sobre o passado e novo uniforme marcam bastidores da goleada sobre o Red Bull Bragantino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533046/motivacao-sobre-o-passado-e-novo-uniforme-marcam-bastidores-da-goleada-sobre-o-red-bull-bragantino",
+      "pubDate": "Fri, 15 May 2026 22:00:00 -0300",
+      "date": "16/05 · 01:00"
+    },
+    {
       "title": "Goleada do Corinthians sobre o Red Bull Bragantino movimenta ranking de artilheiras das Brabas",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533021/goleada-do-corinthians-sobre-o-red-bull-bragantino-movimenta-ranking-de-artilheiras-das-brabas",
       "pubDate": "Fri, 15 May 2026 16:01:00 -0300",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/532966/corinthians-volta-a-nao-sofrer-gols-apos-tres-partidas-tendo-a-meta-vazada",
       "pubDate": "Fri, 15 May 2026 15:31:00 -0300",
       "date": "15/05 · 18:31"
-    },
-    {
-      "title": "VÍDEO: Classificado! Fernando Diniz comenta classificação do Corinthians às oitavas da Copa do Brasi",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127828/classificado-fernando-diniz-comenta-classificacao-do-corinthians-as-oitavas-da-copa-do-brasil",
-      "pubDate": "Thu, 14 May 2026 23:48:00 -0300",
-      "date": "15/05 · 02:48"
     }
   ]
 };
