@@ -1,70 +1,70 @@
-// Gerado automaticamente em 17/05/2026, 12:46:33
+// Gerado automaticamente em 17/05/2026, 18:48:10
 const LIVE_DATA = {
-  "updatedAt": "2026-05-17T12:46:33.314Z",
+  "updatedAt": "2026-05-17T18:48:10.077Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Flamengo de Guarulhos em busca da primeira vitória no Paulistão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533094/corinthians-recebe-o-flamengo-de-guarulhos-em-busca-da-primeira-vitoria-no-paulistao-feminino-sub-17",
-      "time": "17/05 · 12:01",
-      "pubDate": "Sun, 17 May 2026 09:01:00 -0300"
+      "title": "Corinthians está escalado para enfrentar o Botafogo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533121/corinthians-esta-escalado-para-enfrentar-o-botafogo-pelo-brasileirao",
+      "time": "17/05 · 18:00",
+      "pubDate": "Sun, 17 May 2026 15:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Botafogo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533080/saiba-onde-assistir-a-partida-entre-corinthians-e-botafogo-pelo-brasileirao",
-      "time": "17/05 · 11:30",
-      "pubDate": "Sun, 17 May 2026 08:30:00 -0300"
+      "title": "Cobrança de organizadas e momento difícil: veja como chega o Botafogo para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533117/cobranca-de-organizadas-e-momento-dificil-veja-como-chega-o-botafogo-para-enfrentar-o-corinthians",
+      "time": "17/05 · 17:00",
+      "pubDate": "Sun, 17 May 2026 14:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: provável escalação contra o Botafogo, aluguel da Arena e ausência de meia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533095/ultimas-do-corinthians-provavel-escalacao-contra-o-botafogo-aluguel-da-arena-e-ausencia-de-meia",
-      "time": "17/05 · 10:30",
-      "pubDate": "Sun, 17 May 2026 07:30:00 -0300"
+      "title": "Corinthians pode se aproximar do G8 em caso de vitória contra o Botafogo; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533115/corinthians-pode-se-aproximar-do-g8-em-caso-de-vitoria-contra-o-botafogo-veja-a-tabela",
+      "time": "17/05 · 16:39",
+      "pubDate": "Sun, 17 May 2026 13:39:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Botafogo para embalar no Campeonato Brasileiro; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533077/corinthians-visita-o-botafogo-para-embalar-no-campeonato-brasileiro-saiba-tudo",
-      "time": "17/05 · 03:01",
-      "pubDate": "Sun, 17 May 2026 00:01:00 -0300"
+      "title": "Corinthians busca encerrar sequência negativa fora de casa em duelo com o Botafogo no Rio de Janeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533083/corinthians-busca-encerrar-sequencia-negativa-fora-de-casa-em-duelo-com-o-botafogo-no-rio-de-janeiro",
+      "time": "17/05 · 16:07",
+      "pubDate": "Sun, 17 May 2026 13:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians exalta equilíbrio defensivo em campanha histórica no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533071/tecnico-do-corinthians-exalta-equilibrio-defensivo-em-campanha-historica-no-nbb",
-      "time": "17/05 · 01:30",
-      "pubDate": "Sat, 16 May 2026 22:30:00 -0300"
+      "title": "Corinthians mira fim de jejum de quase três anos sem vitória sobre o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533116/corinthians-mira-fim-de-jejum-de-quase-tres-anos-sem-vitoria-sobre-o-botafogo",
+      "time": "17/05 · 15:34",
+      "pubDate": "Sun, 17 May 2026 12:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians destaca importância da comissão técnica em vitória pelo Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533069/zagueiro-do-corinthians-destaca-importancia-da-comissao-tecnica-em-vitoria-pelo-paulista-sub-17",
-      "time": "17/05 · 00:31",
-      "pubDate": "Sat, 16 May 2026 21:31:00 -0300"
+      "title": "Corinthians tem oito desfalques e quatro pendurados para enfrentar o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533112/corinthians-tem-oito-desfalques-e-quatro-pendurados-para-enfrentar-o-botafogo",
+      "time": "17/05 · 15:00",
+      "pubDate": "Sun, 17 May 2026 12:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem destaque individual e dupla no time ideal das quartas de final do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533093/corinthians-tem-destaque-individual-e-dupla-no-time-ideal-das-quartas-de-final-do-nbb",
-      "time": "17/05 · 00:01",
-      "pubDate": "Sat, 16 May 2026 21:01:00 -0300"
+      "title": "Corinthians reforça apoio à comunidade LGBTQIA+ no dia internacional de combate à homofobia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533114/corinthians-reforca-apoio-a-comunidade-lgbtqia-no-dia-internacional-de-combate-a-homofobia",
+      "time": "17/05 · 14:32",
+      "pubDate": "Sun, 17 May 2026 11:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Com ótimo aproveitamento, Emily Lima alcança marca de dez jogos oficiais no comando do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533068/com-otimo-aproveitamento-emily-lima-alcanca-marca-de-dez-jogos-oficiais-no-comando-do-corinthians",
-      "time": "16/05 · 23:30",
-      "pubDate": "Sat, 16 May 2026 20:30:00 -0300"
+      "title": "Corinthians volta a ser apitado por árbitro pela terceira vez no ano em jogo contra o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533109/corinthians-volta-a-ser-apitado-por-arbitro-pela-terceira-vez-no-ano-em-jogo-contra-o-botafogo",
+      "time": "17/05 · 14:03",
+      "pubDate": "Sun, 17 May 2026 11:03:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -133,72 +133,78 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
-      "time": "21/04 · 02:02",
-      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
+      "title": "Garro se diz preocupado com Z4, mas confia em reação do Corinthians: &#8220;Vamos acabar lá em cima&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-se-diz-preocupado-com-z4-mas-confia-em-reacao-do-corinthians-vamos-acabar-la-em-cima/",
+      "time": "19/04 · 10:00",
+      "pubDate": "Sun, 19 Apr 2026 10:00:16 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
-      "time": "20/04 · 23:00",
-      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
+      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate contra o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-vitoria/",
+      "time": "19/04 · 09:00",
+      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 22:31",
-      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
+      "title": "Análise: Corinthians volta a ser inofensivo e precisa ligar alerta no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-volta-a-ser-inofensivo-e-precisa-ligar-alerta-no-brasileiro/",
+      "time": "19/04 · 08:00",
+      "pubDate": "Sun, 19 Apr 2026 08:00:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
-      "time": "20/04 · 20:30",
-      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
+      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
+      "time": "19/04 · 02:11",
+      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 19:00",
-      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
+      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
+      "time": "19/04 · 01:24",
+      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 18:55",
-      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
+      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
+      "time": "19/04 · 01:14",
+      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
-      "time": "20/04 · 15:21",
-      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
+      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
+      "time": "19/04 · 01:01",
+      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
-      "time": "20/04 · 10:00",
-      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
+      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
+      "time": "18/04 · 22:02",
+      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Cobrança de organizadas e momento difícil: veja como chega o Botafogo para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533117/cobranca-de-organizadas-e-momento-dificil-veja-como-chega-o-botafogo-para-enfrentar-o-corinthians",
+      "pubDate": "Sun, 17 May 2026 14:00:00 -0300",
+      "date": "17/05 · 17:00"
+    },
     {
       "title": "Saiba onde assistir à partida entre Corinthians e Botafogo pelo Brasileirão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533080/saiba-onde-assistir-a-partida-entre-corinthians-e-botafogo-pelo-brasileirao",
@@ -216,18 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533072/corinthians-recebe-taca-da-nba-no-ct-e-jogadores-aproveitam-momento-para-fotos",
       "pubDate": "Sat, 16 May 2026 17:01:00 -0300",
       "date": "16/05 · 20:01"
-    },
-    {
-      "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o botafogo pelo Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127871/provavel-escalacao-do-corinthians-para-enfrentar-o-botafogo-pelo-campeonato-brasileiro-2026",
-      "pubDate": "Sat, 16 May 2026 15:12:13 -0300",
-      "date": "16/05 · 18:12"
-    },
-    {
-      "title": "Ariel Godoi marca primeiro hat-trick pelo Corinthians em goleada no Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533018/ariel-godoi-marca-primeiro-hat-trick-pelo-corinthians-em-goleada-no-paulistao-feminino",
-      "pubDate": "Sat, 16 May 2026 14:34:00 -0300",
-      "date": "16/05 · 17:34"
     }
   ]
 };
