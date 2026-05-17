@@ -1,70 +1,94 @@
-// Gerado automaticamente em 17/05/2026, 18:48:10
+// Gerado automaticamente em 17/05/2026, 22:40:57
 const LIVE_DATA = {
-  "updatedAt": "2026-05-17T18:48:10.077Z",
+  "updatedAt": "2026-05-17T22:40:57.310Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Botafogo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533121/corinthians-esta-escalado-para-enfrentar-o-botafogo-pelo-brasileirao",
-      "time": "17/05 · 18:00",
-      "pubDate": "Sun, 17 May 2026 15:00:00 -0300"
+      "title": "VÍDEO: Hugo Souza comenta possível saída do Corinthians, avalia chance de convocação e lamenta derrota",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127892/hugo-souza-comenta-possivel-saida-do-corinthians-avalia-chance-de-convocacao-e-lamenta-derrota",
+      "time": "17/05 · 22:33",
+      "pubDate": "Sun, 17 May 2026 19:33:30 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Cobrança de organizadas e momento difícil: veja como chega o Botafogo para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533117/cobranca-de-organizadas-e-momento-dificil-veja-como-chega-o-botafogo-para-enfrentar-o-corinthians",
-      "time": "17/05 · 17:00",
-      "pubDate": "Sun, 17 May 2026 14:00:00 -0300"
+      "title": "VÍDEO: Yuri alberto, derrota para o Botafogo e mais: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127891/yuri-alberto-derrota-para-o-botafogo-e-mais-coletiva-de-fernando-diniz-no-corinthians",
+      "time": "17/05 · 22:29",
+      "pubDate": "Sun, 17 May 2026 19:29:56 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode se aproximar do G8 em caso de vitória contra o Botafogo; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533115/corinthians-pode-se-aproximar-do-g8-em-caso-de-vitoria-contra-o-botafogo-veja-a-tabela",
-      "time": "17/05 · 16:39",
-      "pubDate": "Sun, 17 May 2026 13:39:00 -0300"
+      "title": "Corinthians sofre três gols no mesmo jogo pela primeira vez na era Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533158/corinthians-sofre-tres-gols-no-mesmo-jogo-pela-primeira-vez-na-era-fernando-diniz",
+      "time": "17/05 · 22:23",
+      "pubDate": "Sun, 17 May 2026 19:23:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca encerrar sequência negativa fora de casa em duelo com o Botafogo no Rio de Janeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533083/corinthians-busca-encerrar-sequencia-negativa-fora-de-casa-em-duelo-com-o-botafogo-no-rio-de-janeiro",
-      "time": "17/05 · 16:07",
-      "pubDate": "Sun, 17 May 2026 13:07:00 -0300"
+      "title": "Meio-campista do Corinthians encerra jejum de quase três meses em derrota para o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533140/meio-campista-do-corinthians-encerra-jejum-de-quase-tres-meses-em-derrota-para-o-botafogo",
+      "time": "17/05 · 21:55",
+      "pubDate": "Sun, 17 May 2026 18:55:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians mira fim de jejum de quase três anos sem vitória sobre o Botafogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533116/corinthians-mira-fim-de-jejum-de-quase-tres-anos-sem-vitoria-sobre-o-botafogo",
-      "time": "17/05 · 15:34",
-      "pubDate": "Sun, 17 May 2026 12:34:00 -0300"
+      "title": "VÍDEO: Melhores Momentos: Botafogo 3x1 Corinthians | 16ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127889/melhores-momentos-botafogo-3x1-corinthians-16-rodada-brasileirao-2026",
+      "time": "17/05 · 21:45",
+      "pubDate": "Sun, 17 May 2026 18:45:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem oito desfalques e quatro pendurados para enfrentar o Botafogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533112/corinthians-tem-oito-desfalques-e-quatro-pendurados-para-enfrentar-o-botafogo",
-      "time": "17/05 · 15:00",
-      "pubDate": "Sun, 17 May 2026 12:00:00 -0300"
+      "title": "Meia do Corinthians entende que a equipe não merecia o resultado deste domingo mas prega humildade",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533159/meia-do-corinthians-entende-que-a-equipe-nao-merecia-o-resultado-deste-domingo-mas-prega-humildade",
+      "time": "17/05 · 21:33",
+      "pubDate": "Sun, 17 May 2026 18:33:21 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians reforça apoio à comunidade LGBTQIA+ no dia internacional de combate à homofobia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533114/corinthians-reforca-apoio-a-comunidade-lgbtqia-no-dia-internacional-de-combate-a-homofobia",
-      "time": "17/05 · 14:32",
-      "pubDate": "Sun, 17 May 2026 11:32:00 -0300"
+      "title": "Corinthians amplia sequência sem vitórias como visitante após nova derrota no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533147/corinthians-amplia-sequencia-sem-vitorias-como-visitante-apos-nova-derrota-no-brasileirao",
+      "time": "17/05 · 21:25",
+      "pubDate": "Sun, 17 May 2026 18:25:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians volta a ser apitado por árbitro pela terceira vez no ano em jogo contra o Botafogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533109/corinthians-volta-a-ser-apitado-por-arbitro-pela-terceira-vez-no-ano-em-jogo-contra-o-botafogo",
-      "time": "17/05 · 14:03",
-      "pubDate": "Sun, 17 May 2026 11:03:00 -0300"
+      "title": "Atuação abaixo e irregularidade do Corinthians geram críticas da Fiel após derrota no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533136/atuacao-abaixo-e-irregularidade-do-corinthians-geram-criticas-da-fiel-apos-derrota-no-brasileirao",
+      "time": "17/05 · 21:03",
+      "pubDate": "Sun, 17 May 2026 18:03:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aceita vender Matheuzinho por R$ 88 milhões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-matheuzinho-por-r-88-milhoes]]>",
+      "time": "17/05 · 17:43",
+      "pubDate": "Sun, 17 May 2026 14:43:01 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians perde Labyad e amplia lista de desfalques contra o Botafogo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-perde-labyad-e-amplia-lista-de-desfalques-contra-o-botafogo]]>",
+      "time": "17/05 · 13:19",
+      "pubDate": "Sun, 17 May 2026 10:19:47 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Presidente do Corinthians abre o jogo sobre meta de vendas e tenta evitar perdas no elenco",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-corinthians-abre-o-jogo-sobre-meta-de-vendas-e-tenta-evitar-perdas-no-elenco]]>",
+      "time": "17/05 · 12:26",
+      "pubDate": "Sun, 17 May 2026 09:26:18 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-se-pronuncia-apos-declaracao-polemica-no-corinthians]]>",
       "time": "15/05 · 23:23",
       "pubDate": "Fri, 15 May 2026 20:23:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay sente incômodo na panturrilha e atrasa retorno no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sente-incomodo-na-panturrilha-e-atrasa-retorno-no-corinthians]]>",
-      "time": "15/05 · 22:32",
-      "pubDate": "Fri, 15 May 2026 19:32:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto gera incômodo interno com declaração indicando saída do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-gera-incomodo-com-declaracao-indicando-saida-do-corinthians]]>",
-      "time": "15/05 · 20:48",
-      "pubDate": "Fri, 15 May 2026 17:48:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile confirma que Yuri Alberto não quer ficar no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-confirma-que-yuri-alberto-nao-quer-ficar-no-corinthians]]>",
-      "time": "15/05 · 19:17",
-      "pubDate": "Fri, 15 May 2026 16:17:18 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,36 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Hugo Souza comenta possível saída do Corinthians, avalia chance de convocação e lamenta derrota",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127892/hugo-souza-comenta-possivel-saida-do-corinthians-avalia-chance-de-convocacao-e-lamenta-derrota",
+      "pubDate": "Sun, 17 May 2026 19:33:30 -0300",
+      "date": "17/05 · 22:33"
+    },
+    {
+      "title": "VÍDEO: Yuri alberto, derrota para o Botafogo e mais: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127891/yuri-alberto-derrota-para-o-botafogo-e-mais-coletiva-de-fernando-diniz-no-corinthians",
+      "pubDate": "Sun, 17 May 2026 19:29:56 -0300",
+      "date": "17/05 · 22:29"
+    },
+    {
+      "title": "Corinthians sofre três gols no mesmo jogo pela primeira vez na era Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533158/corinthians-sofre-tres-gols-no-mesmo-jogo-pela-primeira-vez-na-era-fernando-diniz",
+      "pubDate": "Sun, 17 May 2026 19:23:00 -0300",
+      "date": "17/05 · 22:23"
+    },
+    {
+      "title": "VÍDEO: Melhores Momentos: Botafogo 3x1 Corinthians | 16ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127889/melhores-momentos-botafogo-3x1-corinthians-16-rodada-brasileirao-2026",
+      "pubDate": "Sun, 17 May 2026 18:45:00 -0300",
+      "date": "17/05 · 21:45"
+    },
+    {
+      "title": "Corinthians goleia Flamengo de Guarulhos e conquista primeira vitória no Paulistão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533146/corinthians-goleia-flamengo-de-guarulhos-e-conquista-primeira-vitoria-no-paulistao-feminino-sub-17",
+      "pubDate": "Sun, 17 May 2026 17:42:00 -0300",
+      "date": "17/05 · 20:42"
+    },
+    {
       "title": "Cobrança de organizadas e momento difícil: veja como chega o Botafogo para enfrentar o Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533117/cobranca-de-organizadas-e-momento-dificil-veja-como-chega-o-botafogo-para-enfrentar-o-corinthians",
       "pubDate": "Sun, 17 May 2026 14:00:00 -0300",
@@ -210,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533080/saiba-onde-assistir-a-partida-entre-corinthians-e-botafogo-pelo-brasileirao",
       "pubDate": "Sun, 17 May 2026 08:30:00 -0300",
       "date": "17/05 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Sem Memphis e Labyad! Corinthians desembarca no Rio de Janeiro para enfrentar o Botafogo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127875/sem-memphis-e-labyad-corinthians-desembarca-no-rio-de-janeiro-para-enfrentar-o-botafogo",
-      "pubDate": "Sat, 16 May 2026 19:03:12 -0300",
-      "date": "16/05 · 22:03"
-    },
-    {
-      "title": "Corinthians recebe taça da NBA no CT e jogadores aproveitam momento para fotos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533072/corinthians-recebe-taca-da-nba-no-ct-e-jogadores-aproveitam-momento-para-fotos",
-      "pubDate": "Sat, 16 May 2026 17:01:00 -0300",
-      "date": "16/05 · 20:01"
     }
   ]
 };
