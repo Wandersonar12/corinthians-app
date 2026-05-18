@@ -1,7 +1,23 @@
-// Gerado automaticamente em 18/05/2026, 11:34:49
+// Gerado automaticamente em 18/05/2026, 14:48:38
 const LIVE_DATA = {
-  "updatedAt": "2026-05-18T11:34:49.162Z",
+  "updatedAt": "2026-05-18T14:48:38.635Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem semana com Clássico Alvinegro, decisão no NBB e duelo na Libertadores; veja a agenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533200/corinthians-tem-semana-com-classico-alvinegro-decisao-no-nbb-e-duelo-na-libertadores-veja-a-agenda",
+      "time": "18/05 · 13:31",
+      "pubDate": "Mon, 18 May 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia semifinal contra o Pinheiros por vaga inédita na decisão do NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533133/corinthians-inicia-semifinal-contra-o-pinheiros-por-vaga-inedita-na-decisao-do-nbb-saiba-tudo",
+      "time": "18/05 · 12:30",
+      "pubDate": "Mon, 18 May 2026 09:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -65,22 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533166/corinthians-volta-a-zona-de-rebaixamento-apos-derrota-para-o-botafogo-veja-a-tabela",
       "time": "18/05 · 00:32",
       "pubDate": "Sun, 17 May 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians amplia jejum contra o Botafogo no Nilton Santos e vê aproveitamento cair no estádio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533167/corinthians-amplia-jejum-contra-o-botafogo-no-nilton-santos-e-ve-aproveitamento-cair-no-estadio",
-      "time": "18/05 · 00:12",
-      "pubDate": "Sun, 17 May 2026 21:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vê piora defensiva e queda de rendimento com André Ramalho como titular; veja números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533156/corinthians-ve-piora-defensiva-e-queda-de-rendimento-com-andre-ramalho-como-titular-veja-numeros",
-      "time": "17/05 · 23:40",
-      "pubDate": "Sun, 17 May 2026 20:40:00 -0300"
     },
     {
       "source": "Bolavip",
