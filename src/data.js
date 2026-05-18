@@ -1,7 +1,63 @@
-// Gerado automaticamente em 18/05/2026, 19:20:00
+// Gerado automaticamente em 18/05/2026, 22:44:57
 const LIVE_DATA = {
-  "updatedAt": "2026-05-18T19:20:00.940Z",
+  "updatedAt": "2026-05-18T22:44:57.075Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Garro atinge sequência inédita no Corinthians com gol em derrota para o Botafogo; confira qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533153/garro-atinge-sequencia-inedita-no-corinthians-com-gol-em-derrota-para-o-botafogo-confira-qual",
+      "time": "18/05 · 22:36",
+      "pubDate": "Mon, 18 May 2026 19:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ancelotti revela por que não convocou goleiro do Corinthians para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533220/ancelotti-revela-por-que-nao-convocou-goleiro-do-corinthians-para-a-copa-do-mundo",
+      "time": "18/05 · 22:25",
+      "pubDate": "Mon, 18 May 2026 19:25:09 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Organizada do Corinthians repudia exibição de matéria sobre confusão após final da Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533218/organizada-do-corinthians-repudia-exibicao-de-materia-sobre-confusao-apos-final-da-copa-do-brasil",
+      "time": "18/05 · 22:06",
+      "pubDate": "Mon, 18 May 2026 19:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians cobra solidez defensiva e reforça necessidade de melhora no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533183/goleiro-do-corinthians-cobra-solidez-defensiva-e-reforca-necessidade-de-melhora-no-brasileirao",
+      "time": "18/05 · 21:33",
+      "pubDate": "Mon, 18 May 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians aposta em retrospecto positivo para duelo com o Cruzeiro pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533201/corinthians-aposta-em-retrospecto-positivo-para-duelo-com-o-cruzeiro-pelo-brasileirao-feminino",
+      "time": "18/05 · 20:28",
+      "pubDate": "Mon, 18 May 2026 17:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encontra dificuldade para manter Memphis após recuo de patrocinadora",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533216/corinthians-encontra-dificuldade-para-manter-memphis-apos-recuo-de-patrocinadora",
+      "time": "18/05 · 19:51",
+      "pubDate": "Mon, 18 May 2026 16:51:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz dispara contra gramados sintéticos no Brasil após derrota do Corinthians no Engenhão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533173/diniz-dispara-contra-gramados-sinteticos-no-brasil-apos-derrota-do-corinthians-no-nilton-santos",
+      "time": "18/05 · 19:33",
+      "pubDate": "Mon, 18 May 2026 16:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +67,28 @@ const LIVE_DATA = {
       "pubDate": "Mon, 18 May 2026 15:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Capitão do Corinthians faz campanha por Hugo Souza na Copa do Mundo: 'Goleiro incrível'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533185/capitao-do-corinthians-faz-campanha-por-hugo-souza-na-copa-do-mundo-goleiro-incrivel",
-      "time": "18/05 · 17:33",
-      "pubDate": "Mon, 18 May 2026 14:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz teme saída de Yuri Alberto após derrota do Corinthians para o Botafogo: “Muito importante”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-teme-saida-de-yuri-alberto-apos-derrota-do-corinthians-para-o-botafogo-muito-importante]]>",
+      "time": "18/05 · 10:57",
+      "pubDate": "Mon, 18 May 2026 07:57:24 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga reserva gratuita de ingressos para Dérbi no Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533208/corinthians-divulga-reserva-gratuita-de-ingressos-para-derbi-no-brasileirao-sub-20",
-      "time": "18/05 · 16:48",
-      "pubDate": "Mon, 18 May 2026 13:48:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hugo Souza abre o jogo sobre saída do Corinthians após derrota para o Botafogo no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-abre-o-jogo-sobre-saida-do-corinthians-apos-derrota-para-o-botafogo-no-brasileirao]]>",
+      "time": "18/05 · 01:39",
+      "pubDate": "Sun, 17 May 2026 22:39:16 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselho Deliberativo do Corinthians realiza última votação da reforma do Estatuto com foco no Cori",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533206/conselho-deliberativo-do-corinthians-realiza-ultima-votacao-da-reforma-do-estatuto-com-foco-no-cori",
-      "time": "18/05 · 16:31",
-      "pubDate": "Mon, 18 May 2026 13:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians se destaca em números ofensivos durante derrota no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533188/meio-campista-do-corinthians-se-destaca-em-numeros-ofensivos-durante-derrota-no-brasileirao",
-      "time": "18/05 · 15:37",
-      "pubDate": "Mon, 18 May 2026 12:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem semana com Clássico Alvinegro, decisão no NBB e duelo na Libertadores; veja a agenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533200/corinthians-tem-semana-com-classico-alvinegro-decisao-no-nbb-e-duelo-na-libertadores-veja-a-agenda",
-      "time": "18/05 · 13:31",
-      "pubDate": "Mon, 18 May 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia semifinal contra o Pinheiros por vaga inédita na decisão do NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533133/corinthians-inicia-semifinal-contra-o-pinheiros-por-vaga-inedita-na-decisao-do-nbb-saiba-tudo",
-      "time": "18/05 · 12:30",
-      "pubDate": "Mon, 18 May 2026 09:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Cruzeiro pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533131/saiba-onde-assistir-ao-duelo-entre-corinthians-e-cruzeiro-pelo-brasileirao-feminino",
-      "time": "18/05 · 11:30",
-      "pubDate": "Mon, 18 May 2026 08:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gol anulado em escanteio gera polêmica na derrota do Corinthians para o Botafogo no Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gol-anulao-do-corinthians-contra-o-botafogo-gera-polemica-e-debate]]>",
+      "time": "17/05 · 23:37",
+      "pubDate": "Sun, 17 May 2026 20:37:18 -0300"
     },
     {
       "source": "Bolavip",
@@ -85,14 +109,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Gol anulado em escanteio gera polêmica na derrota do Corinthians para o Botafogo no Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gol-anulao-do-corinthians-contra-o-botafogo-gera-polemica-e-debate]]>",
-      "time": "17/05 · 21:36",
-      "pubDate": "Sun, 17 May 2026 18:36:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Botafogo sai na frente com chute preciso de Arthur Cabral aos seis minutos diante do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/botafogo-sai-na-frente-com-chute-preciso-de-arthur-cabral-aos-seis-minutos-diante-do-corinthians]]>",
       "time": "17/05 · 19:34",
@@ -107,98 +123,92 @@ const LIVE_DATA = {
       "pubDate": "Sun, 17 May 2026 14:43:01 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians perde Labyad e amplia lista de desfalques contra o Botafogo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-perde-labyad-e-amplia-lista-de-desfalques-contra-o-botafogo]]>",
-      "time": "17/05 · 13:19",
-      "pubDate": "Sun, 17 May 2026 10:19:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Presidente do Corinthians abre o jogo sobre meta de vendas e tenta evitar perdas no elenco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-corinthians-abre-o-jogo-sobre-meta-de-vendas-e-tenta-evitar-perdas-no-elenco]]>",
-      "time": "17/05 · 12:26",
-      "pubDate": "Sun, 17 May 2026 09:26:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Com novidade na zaga, Fernando Diniz define escalação titular do Corinthians contra o Botafogo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-novidade-na-zaga-fernando-diniz-define-escalacao-titular-do-corinthians-contra-o-botafogo]]>",
-      "time": "16/05 · 22:19",
-      "pubDate": "Sat, 16 May 2026 19:19:44 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
+      "time": "21/04 · 02:02",
+      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Garro se diz preocupado com Z4, mas confia em reação do Corinthians: &#8220;Vamos acabar lá em cima&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-se-diz-preocupado-com-z4-mas-confia-em-reacao-do-corinthians-vamos-acabar-la-em-cima/",
-      "time": "19/04 · 10:00",
-      "pubDate": "Sun, 19 Apr 2026 10:00:16 +0000"
+      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
+      "time": "20/04 · 23:00",
+      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate contra o Vitória",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-vitoria/",
-      "time": "19/04 · 09:00",
-      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000"
+      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 22:31",
+      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Análise: Corinthians volta a ser inofensivo e precisa ligar alerta no Brasileiro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-volta-a-ser-inofensivo-e-precisa-ligar-alerta-no-brasileiro/",
-      "time": "19/04 · 08:00",
-      "pubDate": "Sun, 19 Apr 2026 08:00:50 +0000"
+      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
+      "time": "20/04 · 20:30",
+      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Diniz admite preocupação com Z4 e cobra melhora ofensiva do Corinthians: &#8220;Pior partida desde que assumi&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-preocupacao-com-z4-e-cobra-melhora-ofensiva-do-corinthians-pior-partida-desde-que-assumi/",
-      "time": "19/04 · 02:11",
-      "pubDate": "Sun, 19 Apr 2026 02:11:37 +0000"
+      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 19:00",
+      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos da partida entre Vitória e Corinthians pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-vitoria-e-corinthians-pelo-brasileirao/",
-      "time": "19/04 · 01:24",
-      "pubDate": "Sun, 19 Apr 2026 01:24:44 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
+      "time": "20/04 · 18:55",
+      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Bidu vê &#8220;ponto importante&#8221; fora de casa e destaca consistência defensiva do Corinthians em empate",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-ve-ponto-importante-fora-de-casa-e-destaca-consistencia-defensiva-do-corinthians-em-empate/",
-      "time": "19/04 · 01:14",
-      "pubDate": "Sun, 19 Apr 2026 01:14:55 +0000"
+      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
+      "time": "20/04 · 15:21",
+      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians empata com Vitória, vê jejum aumentar e entra no Z4 do Brasileiro",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-empata-com-vitoria-ve-jejum-aumentar-e-entra-no-z4-do-brasileiro/",
-      "time": "19/04 · 01:01",
-      "pubDate": "Sun, 19 Apr 2026 01:01:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá Hugo no gol e duas mudanças para encarar o Vitória; veja escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-vitoria-18-04-2026/",
-      "time": "18/04 · 22:02",
-      "pubDate": "Sat, 18 Apr 2026 22:02:31 +0000"
+      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
+      "time": "20/04 · 10:00",
+      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Garro atinge sequência inédita no Corinthians com gol em derrota para o Botafogo; confira qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533153/garro-atinge-sequencia-inedita-no-corinthians-com-gol-em-derrota-para-o-botafogo-confira-qual",
+      "pubDate": "Mon, 18 May 2026 19:36:00 -0300",
+      "date": "18/05 · 22:36"
+    },
+    {
+      "title": "Ancelotti revela por que não convocou goleiro do Corinthians para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533220/ancelotti-revela-por-que-nao-convocou-goleiro-do-corinthians-para-a-copa-do-mundo",
+      "pubDate": "Mon, 18 May 2026 19:25:09 -0300",
+      "date": "18/05 · 22:25"
+    },
+    {
+      "title": "Goleiro do Corinthians cobra solidez defensiva e reforça necessidade de melhora no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533183/goleiro-do-corinthians-cobra-solidez-defensiva-e-reforca-necessidade-de-melhora-no-brasileirao",
+      "pubDate": "Mon, 18 May 2026 18:33:00 -0300",
+      "date": "18/05 · 21:33"
+    },
     {
       "title": "Capitão do Corinthians faz campanha por Hugo Souza na Copa do Mundo: 'Goleiro incrível'",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533185/capitao-do-corinthians-faz-campanha-por-hugo-souza-na-copa-do-mundo-goleiro-incrivel",
@@ -228,24 +238,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127896/rodrigo-garro-fala-sobre-gol-anulado-comenta-convocacao-de-hugo-e-analisa-derrota-para-o-botafogo",
       "pubDate": "Sun, 17 May 2026 19:56:22 -0300",
       "date": "17/05 · 22:56"
-    },
-    {
-      "title": "VÍDEO: Hugo Souza comenta possível saída do Corinthians, avalia chance de convocação e lamenta derrota",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127892/hugo-souza-comenta-possivel-saida-do-corinthians-avalia-chance-de-convocacao-e-lamenta-derrota",
-      "pubDate": "Sun, 17 May 2026 19:33:30 -0300",
-      "date": "17/05 · 22:33"
-    },
-    {
-      "title": "VÍDEO: Yuri alberto, derrota para o Botafogo e mais: coletiva de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127891/yuri-alberto-derrota-para-o-botafogo-e-mais-coletiva-de-fernando-diniz-no-corinthians",
-      "pubDate": "Sun, 17 May 2026 19:29:56 -0300",
-      "date": "17/05 · 22:29"
-    },
-    {
-      "title": "Corinthians sofre três gols no mesmo jogo pela primeira vez na era Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533158/corinthians-sofre-tres-gols-no-mesmo-jogo-pela-primeira-vez-na-era-fernando-diniz",
-      "pubDate": "Sun, 17 May 2026 19:23:00 -0300",
-      "date": "17/05 · 22:23"
     }
   ]
 };
