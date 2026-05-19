@@ -1,118 +1,126 @@
-// Gerado automaticamente em 19/05/2026, 14:26:48
+// Gerado automaticamente em 19/05/2026, 19:30:42
 const LIVE_DATA = {
-  "updatedAt": "2026-05-19T14:26:48.478Z",
+  "updatedAt": "2026-05-19T19:30:42.578Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Memphis segue como baixa e não viaja com o Corinthians para duelo da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533244/memphis-segue-como-baixa-e-nao-viaja-com-o-corinthians-para-duelo-da-libertadores",
-      "time": "19/05 · 13:10",
-      "pubDate": "Tue, 19 May 2026 10:10:00 -0300"
+      "title": "Organizada do Corinthians recebe torcida do Millonarios antes de duelo contra rival",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533270/organizada-do-corinthians-recebe-torcida-do-millonarios-antes-de-duelo-contra-rival",
+      "time": "19/05 · 19:16",
+      "pubDate": "Tue, 19 May 2026 16:16:39 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Vice-artilheiro do Corinthians deixa o clube três meses após contratação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533238/vice-artilheiro-do-corinthians-deixa-o-clube-tres-meses-apos-contratacao",
-      "time": "19/05 · 12:57",
-      "pubDate": "Tue, 19 May 2026 09:57:00 -0300"
+      "title": "Jaqueline assume liderança da artilharia do Corinthians em 2026; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533236/jaqueline-assume-lideranca-da-artilharia-do-corinthians-em-2026-veja-o-ranking",
+      "time": "19/05 · 19:02",
+      "pubDate": "Tue, 19 May 2026 16:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Pantaleão confirma voto aberto e nominal em julgamento de ex-presidente no Conselho do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533242/pantaleao-confirma-voto-aberto-e-nominal-em-julgamento-de-ex-presidente-no-conselho-do-corinthians",
-      "time": "19/05 · 12:36",
-      "pubDate": "Tue, 19 May 2026 09:36:00 -0300"
+      "title": "Lateral emprestado pelo Corinthians completa um mês sem entrar em campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533209/lateral-emprestado-pelo-corinthians-completa-um-mes-sem-entrar-em-campo",
+      "time": "19/05 · 18:31",
+      "pubDate": "Tue, 19 May 2026 15:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Pulo Campinas para manter invencibilidade no Paulista de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533219/corinthians-visita-o-pulo-campinas-para-manter-invencibilidade-no-paulista-de-futsal-saiba-tudo",
-      "time": "19/05 · 12:00",
-      "pubDate": "Tue, 19 May 2026 09:00:00 -0300"
+      "title": "Corinthians volta a aparecer na Dívida Ativa da União com pendências de FGTS; clube se justifica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533262/corinthians-volta-a-aparecer-na-divida-ativa-da-uniao-com-pendencias-de-fgts-clube-se-justifica",
+      "time": "19/05 · 17:45",
+      "pubDate": "Tue, 19 May 2026 14:45:12 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe clássico contra o Palmeiras de olho no G8 do Brasileirão Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533212/corinthians-recebe-classico-contra-o-palmeiras-de-olho-no-g8-do-brasileirao-sub-20-saiba-tudo",
-      "time": "19/05 · 11:30",
-      "pubDate": "Tue, 19 May 2026 08:30:00 -0300"
+      "title": "Corinthians se reapresenta e inicia preparação para duelo contra o Peñarol pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533261/corinthians-se-reapresenta-e-inicia-preparacao-para-duelo-contra-o-penarol-pela-libertadores",
+      "time": "19/05 · 17:28",
+      "pubDate": "Tue, 19 May 2026 14:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: dificuldades por Memphis, Hugo fora da Copa e derrota no feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533229/ultimas-do-corinthians-dificuldades-por-memphis-hugo-fora-da-copa-e-derrota-no-feminino",
-      "time": "19/05 · 10:30",
-      "pubDate": "Tue, 19 May 2026 07:30:00 -0300"
+      "title": "Memphis Depay sofre incômodo muscular e adia retorno no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533259/memphis-depay-sofre-incomodo-muscular-e-adia-retorno-no-corinthians",
+      "time": "19/05 · 16:27",
+      "pubDate": "Tue, 19 May 2026 13:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conta com vacilos defensivos e perde para o Cruzeiro no Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533217/corinthians-conta-com-vacilos-defensivos-e-perde-para-o-cruzeiro-no-brasileirao-feminino",
-      "time": "19/05 · 01:59",
-      "pubDate": "Mon, 18 May 2026 22:59:00 -0300"
+      "title": "Garro iguala ídolo e alcança quinto lugar entre estrangeiros com mais jogos pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533207/garro-iguala-idolo-peruano-em-ranking-de-estrangeiros-que-mais-defenderam-o-corinthians",
+      "time": "19/05 · 15:32",
+      "pubDate": "Tue, 19 May 2026 12:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians não consegue jogar e é dominado pelo Pinheiros no primeiro jogo da semifinal do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533222/corinthians-nao-consegue-jogar-e-e-dominado-pelo-pinheiros-no-primeiro-jogo-da-semifinal-do-nbb",
-      "time": "19/05 · 01:38",
-      "pubDate": "Mon, 18 May 2026 22:38:00 -0300"
+      "title": "Corinthians divulga informações de ingressos para duelo contra o Atlético-MG pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533250/corinthians-divulga-informacoes-de-ingressos-para-duelo-contra-o-atletico-mg-pelo-brasileirao",
+      "time": "19/05 · 14:28",
+      "pubDate": "Tue, 19 May 2026 11:28:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians não se surpreende com desejo de saída de Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-se-surpreende-com-desejo-de-saida-de-yuri-alberto]]>",
-      "time": "18/05 · 12:18",
-      "pubDate": "Mon, 18 May 2026 09:18:36 -0300"
+      "title": "Corinthians conversa com Yuri Alberto e reprova fala sobre saída",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-conversa-com-yuri-alberto-e-reprova-fala-sobre-saida]]>",
+      "time": "19/05 · 12:21",
+      "pubDate": "Tue, 19 May 2026 09:21:15 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians prepara lista de dispensa com Allan, André Ramalho e +6",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prepara-lista-de-dispensa-com-allan-andre-ramalho-e-6]]>",
-      "time": "18/05 · 11:55",
-      "pubDate": "Mon, 18 May 2026 08:55:36 -0300"
+      "title": "Hugo Souza não foi à Copa e Corinthians se mobiliza para apoiar o goleiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-nao-foi-a-copa-e-corinthians-se-mobiliza-para-apoiar-o-goleiro]]>",
+      "time": "19/05 · 12:11",
+      "pubDate": "Tue, 19 May 2026 09:11:05 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Fernando Diniz teme saída de Yuri Alberto após derrota do Corinthians para o Botafogo: “Muito importante”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-teme-saida-de-yuri-alberto-apos-derrota-do-corinthians-para-o-botafogo-muito-importante]]>",
-      "time": "18/05 · 10:57",
-      "pubDate": "Mon, 18 May 2026 07:57:24 -0300"
+      "title": "Saída de Yuri Alberto “ajuda” na renovação de Depay no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/saida-de-yuri-alberto-ajuda-na-renovacao-de-depay-no-corinthians]]>",
+      "time": "19/05 · 11:41",
+      "pubDate": "Tue, 19 May 2026 08:41:13 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Hugo Souza abre o jogo sobre saída do Corinthians após derrota para o Botafogo no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-abre-o-jogo-sobre-saida-do-corinthians-apos-derrota-para-o-botafogo-no-brasileirao]]>",
-      "time": "18/05 · 01:39",
-      "pubDate": "Sun, 17 May 2026 22:39:16 -0300"
+      "title": "Garro cresce no Corinthians e iguala Danilo em participações em gols na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-cresce-no-corinthians-e-iguala-danilo-em-participacoes-em-gols-na-temporada]]>",
+      "time": "19/05 · 11:41",
+      "pubDate": "Tue, 19 May 2026 08:41:04 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Gol anulado em escanteio gera polêmica na derrota do Corinthians para o Botafogo no Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gol-anulao-do-corinthians-contra-o-botafogo-gera-polemica-e-debate]]>",
-      "time": "17/05 · 23:37",
-      "pubDate": "Sun, 17 May 2026 20:37:18 -0300"
+      "title": "Jesse Lingard entra em ranking ofensivo do Corinthians com primeira assistência no clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-entra-em-ranking-ofensivo-do-corinthians-com-primeira-assistencia-no-clube]]>",
+      "time": "19/05 · 02:46",
+      "pubDate": "Mon, 18 May 2026 23:46:27 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Diniz reforça meio-campo, mas Corinthians cai diante do Botafogo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-reforca-meio-campo-mas-corinthians-cai-diante-do-botafogo]]>",
-      "time": "17/05 · 21:55",
-      "pubDate": "Sun, 17 May 2026 18:55:50 -0300"
+      "title": "Rodrigo Garro vive melhor fase da carreira e atinge sequência histórica pelo Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-vive-melhor-fase-da-carreira-e-atinge-sequencia-historica-pelo-corinthians]]>",
+      "time": "19/05 · 01:30",
+      "pubDate": "Mon, 18 May 2026 22:30:09 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hugo Souza, do Corinthians, fica fora da lista de Ancelotti e não vai disputar a Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-corinthians-convocacao-copa]]>",
+      "time": "18/05 · 21:12",
+      "pubDate": "Mon, 18 May 2026 18:12:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,12 +208,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533183/goleiro-do-corinthians-cobra-solidez-defensiva-e-reforca-necessidade-de-melhora-no-brasileirao",
       "pubDate": "Mon, 18 May 2026 18:33:00 -0300",
       "date": "18/05 · 21:33"
-    },
-    {
-      "title": "Capitão do Corinthians faz campanha por Hugo Souza na Copa do Mundo: 'Goleiro incrível'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533185/capitao-do-corinthians-faz-campanha-por-hugo-souza-na-copa-do-mundo-goleiro-incrivel",
-      "pubDate": "Mon, 18 May 2026 14:33:00 -0300",
-      "date": "18/05 · 17:33"
     }
   ]
 };
