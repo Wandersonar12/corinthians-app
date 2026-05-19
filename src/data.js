@@ -1,70 +1,94 @@
-// Gerado automaticamente em 18/05/2026, 22:44:57
+// Gerado automaticamente em 19/05/2026, 10:51:47
 const LIVE_DATA = {
-  "updatedAt": "2026-05-18T22:44:57.075Z",
+  "updatedAt": "2026-05-19T10:51:47.451Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Garro atinge sequência inédita no Corinthians com gol em derrota para o Botafogo; confira qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533153/garro-atinge-sequencia-inedita-no-corinthians-com-gol-em-derrota-para-o-botafogo-confira-qual",
-      "time": "18/05 · 22:36",
-      "pubDate": "Mon, 18 May 2026 19:36:00 -0300"
+      "title": "Últimas do Corinthians: dificuldades por Memphis, Hugo fora da Copa e derrota no feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533229/ultimas-do-corinthians-dificuldades-por-memphis-hugo-fora-da-copa-e-derrota-no-feminino",
+      "time": "19/05 · 10:30",
+      "pubDate": "Tue, 19 May 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ancelotti revela por que não convocou goleiro do Corinthians para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533220/ancelotti-revela-por-que-nao-convocou-goleiro-do-corinthians-para-a-copa-do-mundo",
-      "time": "18/05 · 22:25",
-      "pubDate": "Mon, 18 May 2026 19:25:09 -0300"
+      "title": "Corinthians conta com vacilos defensivos e perde para o Cruzeiro no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533217/corinthians-conta-com-vacilos-defensivos-e-perde-para-o-cruzeiro-no-brasileirao-feminino",
+      "time": "19/05 · 01:59",
+      "pubDate": "Mon, 18 May 2026 22:59:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Organizada do Corinthians repudia exibição de matéria sobre confusão após final da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533218/organizada-do-corinthians-repudia-exibicao-de-materia-sobre-confusao-apos-final-da-copa-do-brasil",
-      "time": "18/05 · 22:06",
-      "pubDate": "Mon, 18 May 2026 19:06:00 -0300"
+      "title": "Corinthians não consegue jogar e é dominado pelo Pinheiros no primeiro jogo da semifinal do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533222/corinthians-nao-consegue-jogar-e-e-dominado-pelo-pinheiros-no-primeiro-jogo-da-semifinal-do-nbb",
+      "time": "19/05 · 01:38",
+      "pubDate": "Mon, 18 May 2026 22:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians cobra solidez defensiva e reforça necessidade de melhora no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533183/goleiro-do-corinthians-cobra-solidez-defensiva-e-reforca-necessidade-de-melhora-no-brasileirao",
-      "time": "18/05 · 21:33",
-      "pubDate": "Mon, 18 May 2026 18:33:00 -0300"
+      "title": "Meia do Corinthians comenta assistência anulada contra o Botafogo e detona gramado do Engenhão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533184/meia-do-corinthians-comenta-assistencia-anulada-contra-o-botafogo-e-detona-gramado-do-engenhao",
+      "time": "19/05 · 01:30",
+      "pubDate": "Mon, 18 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians aposta em retrospecto positivo para duelo com o Cruzeiro pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533201/corinthians-aposta-em-retrospecto-positivo-para-duelo-com-o-cruzeiro-pelo-brasileirao-feminino",
-      "time": "18/05 · 20:28",
-      "pubDate": "Mon, 18 May 2026 17:28:00 -0300"
+      "title": "Lingard estreia em ranking de assistentes do Corinthians na temporada; veja a lista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533165/lingard-estreia-em-ranking-de-assistentes-do-corinthians-na-temporada-veja-a-lista",
+      "time": "19/05 · 00:35",
+      "pubDate": "Mon, 18 May 2026 21:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encontra dificuldade para manter Memphis após recuo de patrocinadora",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533216/corinthians-encontra-dificuldade-para-manter-memphis-apos-recuo-de-patrocinadora",
-      "time": "18/05 · 19:51",
-      "pubDate": "Mon, 18 May 2026 16:51:00 -0300"
+      "title": "Corinthians busca quebrar tabu que já perdura quase sete anos em Dérbis pelo Sub-20; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533215/corinthians-busca-quebrar-tabu-que-ja-perdura-quase-sete-anos-em-derbis-pelo-sub-20-saiba-qual",
+      "time": "19/05 · 00:01",
+      "pubDate": "Mon, 18 May 2026 21:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz dispara contra gramados sintéticos no Brasil após derrota do Corinthians no Engenhão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533173/diniz-dispara-contra-gramados-sinteticos-no-brasil-apos-derrota-do-corinthians-no-nilton-santos",
-      "time": "18/05 · 19:33",
-      "pubDate": "Mon, 18 May 2026 16:33:00 -0300"
+      "title": "Técnico do Corinthians minimiza erro de André Ramalho e comenta situação de jovem zagueiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533172/tecnico-do-corinthians-minimiza-erro-de-andre-ramalho-e-comenta-situacao-de-jovem-zagueiro",
+      "time": "18/05 · 23:32",
+      "pubDate": "Mon, 18 May 2026 20:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tenta revanche contra o Pinheiros em semifinal do NBB marcada por reencontro com ex-joia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533202/corinthians-tenta-revanche-contra-o-pinheiros-em-semifinal-do-nbb-marcada-por-reencontro-com-ex-joia",
-      "time": "18/05 · 18:31",
-      "pubDate": "Mon, 18 May 2026 15:31:00 -0300"
+      "title": "Conselheiros do Corinthians mantêm atual modelo e vetam participação de associado na eleição do Cori",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533221/conselheiros-do-corinthians-mantem-atual-modelo-e-vetam-participacao-de-associado-na-eleicao-do-cori",
+      "time": "18/05 · 23:27",
+      "pubDate": "Mon, 18 May 2026 20:27:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hugo Souza, do Corinthians, fica fora da lista de Ancelotti e não vai disputar a Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-corinthians-convocacao-copa]]>",
+      "time": "18/05 · 21:12",
+      "pubDate": "Mon, 18 May 2026 18:12:29 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não se surpreende com desejo de saída de Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-se-surpreende-com-desejo-de-saida-de-yuri-alberto]]>",
+      "time": "18/05 · 12:18",
+      "pubDate": "Mon, 18 May 2026 09:18:36 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians prepara lista de dispensa com Allan, André Ramalho e +6",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prepara-lista-de-dispensa-com-allan-andre-ramalho-e-6]]>",
+      "time": "18/05 · 11:55",
+      "pubDate": "Mon, 18 May 2026 08:55:36 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,38 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gol-anulao-do-corinthians-contra-o-botafogo-gera-polemica-e-debate]]>",
       "time": "17/05 · 23:37",
       "pubDate": "Sun, 17 May 2026 20:37:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz reforça meio-campo, mas Corinthians cai diante do Botafogo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-reforca-meio-campo-mas-corinthians-cai-diante-do-botafogo]]>",
-      "time": "17/05 · 21:55",
-      "pubDate": "Sun, 17 May 2026 18:55:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians comete erros defensivos, perde para o Botafogo e volta ao Z4 do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofre-pressao-do-botafogo-perde-fora-de-casa-e-segue-instavel-no-brasileirao]]>",
-      "time": "17/05 · 21:52",
-      "pubDate": "Sun, 17 May 2026 18:52:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Botafogo sai na frente com chute preciso de Arthur Cabral aos seis minutos diante do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/botafogo-sai-na-frente-com-chute-preciso-de-arthur-cabral-aos-seis-minutos-diante-do-corinthians]]>",
-      "time": "17/05 · 19:34",
-      "pubDate": "Sun, 17 May 2026 16:34:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aceita vender Matheuzinho por R$ 88 milhões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-matheuzinho-por-r-88-milhoes]]>",
-      "time": "17/05 · 17:43",
-      "pubDate": "Sun, 17 May 2026 14:43:01 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,7 +192,7 @@ const LIVE_DATA = {
     {
       "title": "Ancelotti revela por que não convocou goleiro do Corinthians para a Copa do Mundo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533220/ancelotti-revela-por-que-nao-convocou-goleiro-do-corinthians-para-a-copa-do-mundo",
-      "pubDate": "Mon, 18 May 2026 19:25:09 -0300",
+      "pubDate": "Mon, 18 May 2026 19:25:00 -0300",
       "date": "18/05 · 22:25"
     },
     {
@@ -220,24 +212,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533131/saiba-onde-assistir-ao-duelo-entre-corinthians-e-cruzeiro-pelo-brasileirao-feminino",
       "pubDate": "Mon, 18 May 2026 08:30:00 -0300",
       "date": "18/05 · 11:30"
-    },
-    {
-      "title": "Goleiro do Corinthians comenta expectativa por convocação à Copa e nega acordo para deixar o clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533186/goleiro-do-corinthians-comenta-expectativa-por-convocacao-a-copa-e-nega-acordo-para-deixar-o-clube",
-      "pubDate": "Sun, 17 May 2026 22:01:00 -0300",
-      "date": "18/05 · 01:01"
-    },
-    {
-      "title": "Meia do Corinthians marca segundo gol no ano e sobe em ranking de artilheiros da temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533150/meia-do-corinthians-marca-segundo-gol-no-ano-e-sobe-em-ranking-de-artilheiros-da-temporada",
-      "pubDate": "Sun, 17 May 2026 20:12:00 -0300",
-      "date": "17/05 · 23:12"
-    },
-    {
-      "title": "VÍDEO: Rodrigo Garro fala sobre gol anulado, comenta convocação de Hugo e analisa derrota para o Botafogo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127896/rodrigo-garro-fala-sobre-gol-anulado-comenta-convocacao-de-hugo-e-analisa-derrota-para-o-botafogo",
-      "pubDate": "Sun, 17 May 2026 19:56:22 -0300",
-      "date": "17/05 · 22:56"
     }
   ]
 };
