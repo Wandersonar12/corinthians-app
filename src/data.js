@@ -1,70 +1,86 @@
-// Gerado automaticamente em 19/05/2026, 22:54:59
+// Gerado automaticamente em 20/05/2026, 10:39:47
 const LIVE_DATA = {
-  "updatedAt": "2026-05-19T22:54:59.382Z",
+  "updatedAt": "2026-05-20T10:39:47.479Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Conselho Superior do MP rejeita recurso do Corinthians e mantém inquérito para intervenção judicial",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533279/conselho-superior-do-mp-rejeita-recurso-do-corinthians-e-mantem-inquerito-para-intervencao-judicial",
-      "time": "19/05 · 22:38",
-      "pubDate": "Tue, 19 May 2026 19:38:26 -0300"
+      "title": "Últimas do Corinthians: novo problema de Memphis, rejeição do Conselho Superior e marca de Garro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533289/ultimas-do-corinthians-novo-problema-de-memphis-rejeicao-do-conselho-superior-e-marca-de-garro",
+      "time": "20/05 · 10:30",
+      "pubDate": "Wed, 20 May 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Corinthians explica mudanças e lamenta derrota para o Cruzeiro no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533252/tecnica-do-corinthians-explica-mudancas-e-lamenta-derrota-para-o-cruzeiro-no-brasileirao",
-      "time": "19/05 · 22:32",
-      "pubDate": "Tue, 19 May 2026 19:32:00 -0300"
+      "title": "Armador do Corinthians analisa dificuldades contra o Pinheiros e projeta melhora na série do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533239/armador-do-corinthians-analisa-dificuldades-contra-o-pinheiros-e-projeta-melhora-na-serie-do-nbb",
+      "time": "20/05 · 01:30",
+      "pubDate": "Tue, 19 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Breno Bidon alcança marca expressiva de minutos pelo Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533211/breno-bidon-alcanca-marca-expressiva-de-minutos-pelo-corinthians-em-2026",
-      "time": "19/05 · 21:31",
-      "pubDate": "Tue, 19 May 2026 18:31:00 -0300"
+      "title": "Técnico do Sub-20 detona arbitragem e revela desculpas de árbitro a jogador do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533288/tecnico-do-sub-20-detona-arbitragem-e-revela-desculpas-de-arbitro-a-jogador-do-corinthians",
+      "time": "20/05 · 00:56",
+      "pubDate": "Tue, 19 May 2026 21:56:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Corinthians comenta 'sumiço' de Gi Fernandes e improvisações na lateral direita",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533251/tecnica-do-corinthians-comenta-sumico-de-gi-fernandes-e-improvisacoes-na-lateral-direita",
-      "time": "19/05 · 20:35",
-      "pubDate": "Tue, 19 May 2026 17:35:00 -0300"
+      "title": "Volante do Corinthians analisa derrota para o Cruzeiro e sai em defesa de substituições de Emily",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533253/volante-do-corinthians-analisa-derrota-para-o-cruzeiro-e-sai-em-defesa-de-substituicoes-de-emily",
+      "time": "20/05 · 00:35",
+      "pubDate": "Tue, 19 May 2026 21:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para clássico contra o Santos pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533268/corinthians-inicia-venda-de-ingressos-para-classico-contra-o-santos-pelo-paulistao-feminino",
-      "time": "19/05 · 20:00",
-      "pubDate": "Tue, 19 May 2026 17:00:00 -0300"
+      "title": "Técnico do Corinthians lamenta falta de disposição contra o Pinheiros e cobra força mental",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533240/tecnico-do-corinthians-lamenta-falta-de-disposicao-contra-o-pinheiros-e-cobra-forca-mental",
+      "time": "19/05 · 23:32",
+      "pubDate": "Tue, 19 May 2026 20:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tenta evitar pior sequência recente como mandante em jogo contra o Palmeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/532816/corinthians-tenta-evitar-pior-sequencia-recente-atuando-na-fazendinha-em-jogo-contra-o-palmeiras",
-      "time": "19/05 · 19:29",
-      "pubDate": "Tue, 19 May 2026 16:29:00 -0300"
+      "title": "Corinthians goleia o Pulo Campinas e mantém invencibilidade no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533274/corinthians-goleia-o-pulo-campinas-e-mantem-invencibilidade-no-paulista-de-futsal",
+      "time": "19/05 · 23:30",
+      "pubDate": "Tue, 19 May 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Organizada do Corinthians recebe torcida do Millonarios antes de duelo contra rival",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533270/organizada-do-corinthians-recebe-torcida-do-millonarios-antes-de-duelo-contra-rival",
-      "time": "19/05 · 19:16",
-      "pubDate": "Tue, 19 May 2026 16:16:39 -0300"
+      "title": "CBF define data para clássico entre Corinthians e Palmeiras pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533283/cbf-define-data-para-classico-entre-corinthians-e-palmeiras-pela-copa-do-brasil-feminina",
+      "time": "19/05 · 23:19",
+      "pubDate": "Tue, 19 May 2026 20:19:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jaqueline assume liderança da artilharia do Corinthians em 2026; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533236/jaqueline-assume-lideranca-da-artilharia-do-corinthians-em-2026-veja-o-ranking",
-      "time": "19/05 · 19:02",
-      "pubDate": "Tue, 19 May 2026 16:02:00 -0300"
+      "title": "Corinthians sofre com um a menos e perde para o Palmeiras no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533273/corinthians-sofre-com-um-a-menos-e-perde-para-o-palmeiras-no-brasileirao-sub-20",
+      "time": "19/05 · 22:55",
+      "pubDate": "Tue, 19 May 2026 19:55:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Breno Bidon atinge dois mil minutos e confirma protagonismo pelo Corinthians na temporada de 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-atinge-dois-mil-minutos-e-confirma-protagonismo-pelo-corinthians-na-temporada-de-2026]]>",
+      "time": "19/05 · 22:51",
+      "pubDate": "Tue, 19 May 2026 19:51:29 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fora da Seleção, Hugo Souza vê saída do Corinthians perder força no meio do ano",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fora-da-selecao-hugo-souza-ve-saida-do-corinthians-perder-forca-no-meio-do-ano]]>",
+      "time": "19/05 · 21:42",
+      "pubDate": "Tue, 19 May 2026 18:42:07 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-vive-melhor-fase-da-carreira-e-atinge-sequencia-historica-pelo-corinthians]]>",
       "time": "19/05 · 01:30",
       "pubDate": "Mon, 18 May 2026 22:30:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza, do Corinthians, fica fora da lista de Ancelotti e não vai disputar a Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-corinthians-convocacao-copa]]>",
-      "time": "18/05 · 21:12",
-      "pubDate": "Mon, 18 May 2026 18:12:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -190,6 +198,13 @@ const LIVE_DATA = {
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": []
+  "highlights": [
+    {
+      "title": "Corinthians goleia o Pulo Campinas e mantém invencibilidade no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533274/corinthians-goleia-o-pulo-campinas-e-mantem-invencibilidade-no-paulista-de-futsal",
+      "pubDate": "Tue, 19 May 2026 20:30:00 -0300",
+      "date": "19/05 · 23:30"
+    }
+  ]
 };
 export default LIVE_DATA;
