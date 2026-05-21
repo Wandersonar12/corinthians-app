@@ -1,62 +1,94 @@
-// Gerado automaticamente em 20/05/2026, 23:02:26
+// Gerado automaticamente em 21/05/2026, 10:56:34
 const LIVE_DATA = {
-  "updatedAt": "2026-05-20T23:02:26.747Z",
+  "updatedAt": "2026-05-21T10:56:34.672Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians iguala sequência negativa como mandante no Sub-20 após cinco anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533287/corinthians-iguala-sequencia-negativa-como-mandante-no-sub-20-apos-cinco-anos",
-      "time": "20/05 · 22:33",
-      "pubDate": "Wed, 20 May 2026 19:33:00 -0300"
+      "title": "Últimas do Corinthians: provável escalação, novo patrocinador e novidades do DM",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533333/ultimas-do-corinthians-provavel-escalacao-novo-patrocinador-e-novidades-do-dm",
+      "time": "21/05 · 10:30",
+      "pubDate": "Thu, 21 May 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante registra queda de minutagem no Corinthians após chegada de nova comissão técnica",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533237/volante-registra-queda-de-minutagem-no-corinthians-apos-chegada-de-nova-comissao-tecnica",
-      "time": "20/05 · 21:32",
-      "pubDate": "Wed, 20 May 2026 18:32:00 -0300"
+      "title": "Corinthians visita o Peñarol pela quinta rodada da Libertadores; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533319/corinthians-visita-o-penarol-pela-quinta-rodada-da-libertadores-saiba-tudo",
+      "time": "21/05 · 03:01",
+      "pubDate": "Thu, 21 May 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcida do Corinthians se mobiliza nas redes sociais e faz campanha pela renovação de Memphis Depay",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533326/torcida-do-corinthians-se-mobiliza-nas-redes-sociais-e-faz-campanha-pela-renovacao-de-memphis-depay",
-      "time": "20/05 · 21:11",
-      "pubDate": "Wed, 20 May 2026 18:11:00 -0300"
+      "title": "Corinthians recebe clássico contra o Santos para encostar na liderança do Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533318/corinthians-recebe-classico-contra-o-santos-para-encostar-na-lideranca-do-paulista-feminino",
+      "time": "21/05 · 02:30",
+      "pubDate": "Wed, 20 May 2026 23:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians detalha venda de ingressos para último jogo da fase de grupos da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533327/corinthians-detalha-venda-de-ingressos-para-ultimo-jogo-da-fase-de-grupos-da-libertadores",
-      "time": "20/05 · 21:07",
-      "pubDate": "Wed, 20 May 2026 18:07:42 -0300"
+      "title": "Corinthians altera mando de campo do confronto contra o Mixto pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533334/corinthians-altera-mando-de-campo-do-confronto-contra-o-mixto-pelo-brasileirao-feminino",
+      "time": "21/05 · 02:09",
+      "pubDate": "Wed, 20 May 2026 23:09:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians reencontra Peñarol no Uruguai após goleada e sequência invicta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533276/corinthians-reencontra-penarol-no-uruguai-apos-goleada-e-sequencia-invicta",
-      "time": "20/05 · 20:29",
-      "pubDate": "Wed, 20 May 2026 17:29:00 -0300"
+      "title": "Goleada do Corinthians no Paulista de Futsal movimenta ranking de artilheiros em 2026; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533284/goleada-do-corinthians-no-paulista-de-futsal-movimenta-ranking-de-artilheiros-em-2026-confira",
+      "time": "21/05 · 01:30",
+      "pubDate": "Wed, 20 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Organizada recebe torcedores do Cerro Porteño antes de encarar principal rival do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533323/organizada-recebe-torcedores-do-cerro-porteno-antes-de-encarar-principal-rival-do-corinthians",
-      "time": "20/05 · 20:13",
-      "pubDate": "Wed, 20 May 2026 17:13:09 -0300"
+      "title": "Corinthians encerra preparação para receber o Santos pelo Paulistão Feminino; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533325/corinthians-encerra-preparacao-para-receber-o-santos-pelo-paulistao-feminino-veja-o-provavel-time",
+      "time": "21/05 · 01:10",
+      "pubDate": "Wed, 20 May 2026 22:10:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Artilheiro da base estreia no profissional do Corinthians em goleada pelo Paulista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533295/artilheiro-da-base-estreia-no-profissional-do-corinthians-em-goleada-pelo-paulista",
-      "time": "20/05 · 20:00",
-      "pubDate": "Wed, 20 May 2026 17:00:00 -0300"
+      "title": "Corinthians domina o Pinheiros em casa e empata série na semifinal do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533290/corinthians-domina-o-pinheiros-em-casa-e-empata-serie-na-semifinal-do-nbb",
+      "time": "21/05 · 00:54",
+      "pubDate": "Wed, 20 May 2026 21:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians acompanha jogo decisivo do NBB no Wlamir Marques",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533331/presidente-do-corinthians-acompanha-jogo-decisivo-do-nbb-no-wlamir-marques",
+      "time": "21/05 · 00:35",
+      "pubDate": "Wed, 20 May 2026 21:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Permanência de Memphis Depay é pedida pela torcida do Corinthians nas redes sociais",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/permanencia-de-memphis-depay-e-pedida-pela-torcida-do-corinthians-nas-redes-sociais]]>",
+      "time": "20/05 · 21:39",
+      "pubDate": "Wed, 20 May 2026 18:39:37 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians sofreu 83% menos gols que o Peñarol antes de duelo decisivo na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofreu-83-menos-gols-que-o-penarol-antes-de-duelo-decisivo-na-libertadores]]>",
+      "time": "20/05 · 21:15",
+      "pubDate": "Wed, 20 May 2026 18:15:45 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Peñarol x Corinthians: Leo Fernández supera Rodrigo Garro em média de participações na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/penarol-x-corinthians-leo-fernandez-supera-rodrigo-garro-em-media-de-participacoes-na-temporada]]>",
+      "time": "20/05 · 20:51",
+      "pubDate": "Wed, 20 May 2026 17:51:26 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,14 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-70-de-aproveitamento-recente-atuando-no-uruguai]]>",
       "time": "20/05 · 19:33",
       "pubDate": "Wed, 20 May 2026 16:33:21 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Nova dona da lateral movimenta ranking de assistências do Corinthians em 2026; confira a lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533247/nova-dona-da-lateral-movimenta-ranking-de-assistencias-do-corinthians-em-2026-confira-a-lista",
-      "time": "20/05 · 19:31",
-      "pubDate": "Wed, 20 May 2026 16:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Matheuzinho recusa o Zenit e decide seguir no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-recusa-o-zenit-e-decide-seguir-no-corinthians]]>",
-      "time": "20/05 · 12:35",
-      "pubDate": "Wed, 20 May 2026 09:35:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Diretoria do Corinthians avisou Memphis Depay que não vai renovar",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diretoria-do-corinthians-avisou-memphis-depay-que-nao-vao-renovar]]>",
       "time": "20/05 · 11:53",
       "pubDate": "Wed, 20 May 2026 08:53:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vê defesa despencar com Diniz após sequência sem sofrer gols",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-defesa-despencar-com-diniz-apos-sequencia-sem-sofrer-gols]]>",
-      "time": "20/05 · 11:37",
-      "pubDate": "Wed, 20 May 2026 08:37:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Breno Bidon atinge dois mil minutos e confirma protagonismo pelo Corinthians na temporada de 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-atinge-dois-mil-minutos-e-confirma-protagonismo-pelo-corinthians-na-temporada-de-2026]]>",
-      "time": "19/05 · 22:51",
-      "pubDate": "Tue, 19 May 2026 19:51:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleada do Corinthians no Paulista de Futsal movimenta ranking de artilheiros em 2026; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533284/goleada-do-corinthians-no-paulista-de-futsal-movimenta-ranking-de-artilheiros-em-2026-confira",
+      "pubDate": "Wed, 20 May 2026 22:30:00 -0300",
+      "date": "21/05 · 01:30"
+    },
+    {
+      "title": "VÍDEO: Desembarque do Corinthians em Montevidéu para partida contra o Peñarol pela Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127938/desembarque-do-corinthians-em-montevideu-para-partida-contra-o-penarol-pela-libertadores-2026",
+      "pubDate": "Wed, 20 May 2026 20:56:49 -0300",
+      "date": "20/05 · 23:56"
+    },
+    {
+      "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o Peñarol pela Conmebol Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127936/provavel-escalacao-do-corinthians-para-enfrentar-o-penarol-pela-conmebol-libertadores-2026",
+      "pubDate": "Wed, 20 May 2026 20:00:00 -0300",
+      "date": "20/05 · 23:00"
+    },
+    {
       "title": "Corinthians reencontra Peñarol no Uruguai após goleada e sequência invicta",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533276/corinthians-reencontra-penarol-no-uruguai-apos-goleada-e-sequencia-invicta",
       "pubDate": "Wed, 20 May 2026 17:29:00 -0300",
@@ -210,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533295/artilheiro-da-base-estreia-no-profissional-do-corinthians-em-goleada-pelo-paulista",
       "pubDate": "Wed, 20 May 2026 17:00:00 -0300",
       "date": "20/05 · 20:00"
-    },
-    {
-      "title": "Fixo do Corinthians valoriza goleada no Paulista e destaca necessidade de reação na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533286/fixo-do-corinthians-valoriza-goleada-no-paulista-e-destaca-necessidade-de-reacao-na-lnf",
-      "pubDate": "Wed, 20 May 2026 12:35:00 -0300",
-      "date": "20/05 · 15:35"
     }
   ]
 };
