@@ -1,7 +1,39 @@
-// Gerado automaticamente em 21/05/2026, 10:56:34
+// Gerado automaticamente em 21/05/2026, 14:35:20
 const LIVE_DATA = {
-  "updatedAt": "2026-05-21T10:56:34.672Z",
+  "updatedAt": "2026-05-21T14:35:20.208Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Peñarol para ampliar a sequência de vitórias sob o apito de árbitro chileno",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533391/corinthians-visita-o-penarol-para-ampliar-a-sequencia-de-vitorias-sob-o-apito-de-arbitro-chileno",
+      "time": "21/05 · 13:32",
+      "pubDate": "Thu, 21 May 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca igualar melhor início histórico na Libertadores diante do Peñarol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533272/corinthians-busca-igualar-melhor-inicio-historico-na-libertadores-diante-do-penarol",
+      "time": "21/05 · 12:30",
+      "pubDate": "Thu, 21 May 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Santos pelo Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533322/saiba-onde-assistir-ao-classico-entre-corinthians-e-santos-pelo-paulistao-feminino",
+      "time": "21/05 · 12:00",
+      "pubDate": "Thu, 21 May 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Peñarol pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533320/saiba-onde-assistir-a-partida-entre-corinthians-e-penarol-pela-libertadores",
+      "time": "21/05 · 11:31",
+      "pubDate": "Thu, 21 May 2026 08:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +41,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533333/ultimas-do-corinthians-provavel-escalacao-novo-patrocinador-e-novidades-do-dm",
       "time": "21/05 · 10:30",
       "pubDate": "Thu, 21 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians sofreu 83% menos gols que o Peñarol antes de duelo decisivo na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofreu-83-menos-gols-que-o-penarol-antes-de-duelo-decisivo-na-libertadores]]>",
+      "time": "21/05 · 03:50",
+      "pubDate": "Thu, 21 May 2026 00:50:09 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,52 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 20 May 2026 23:09:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleada do Corinthians no Paulista de Futsal movimenta ranking de artilheiros em 2026; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533284/goleada-do-corinthians-no-paulista-de-futsal-movimenta-ranking-de-artilheiros-em-2026-confira",
-      "time": "21/05 · 01:30",
-      "pubDate": "Wed, 20 May 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para receber o Santos pelo Paulistão Feminino; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533325/corinthians-encerra-preparacao-para-receber-o-santos-pelo-paulistao-feminino-veja-o-provavel-time",
-      "time": "21/05 · 01:10",
-      "pubDate": "Wed, 20 May 2026 22:10:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians domina o Pinheiros em casa e empata série na semifinal do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533290/corinthians-domina-o-pinheiros-em-casa-e-empata-serie-na-semifinal-do-nbb",
-      "time": "21/05 · 00:54",
-      "pubDate": "Wed, 20 May 2026 21:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians acompanha jogo decisivo do NBB no Wlamir Marques",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533331/presidente-do-corinthians-acompanha-jogo-decisivo-do-nbb-no-wlamir-marques",
-      "time": "21/05 · 00:35",
-      "pubDate": "Wed, 20 May 2026 21:35:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Permanência de Memphis Depay é pedida pela torcida do Corinthians nas redes sociais",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/permanencia-de-memphis-depay-e-pedida-pela-torcida-do-corinthians-nas-redes-sociais]]>",
       "time": "20/05 · 21:39",
       "pubDate": "Wed, 20 May 2026 18:39:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians sofreu 83% menos gols que o Peñarol antes de duelo decisivo na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofreu-83-menos-gols-que-o-penarol-antes-de-duelo-decisivo-na-libertadores]]>",
-      "time": "20/05 · 21:15",
-      "pubDate": "Wed, 20 May 2026 18:15:45 -0300"
     },
     {
       "source": "Bolavip",
@@ -133,72 +133,84 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
-      "time": "21/04 · 02:02",
-      "pubDate": "Tue, 21 Apr 2026 02:02:11 +0000"
+      "title": "Palmeiras vence Corinthians e seca Vasco pela ponta do Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-corinthians-brasileirao-sub-20-rodada-13/",
+      "time": "19/05 · 23:00",
+      "pubDate": "Tue, 19 May 2026 23:00:05 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians pela Copa do Brasil: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/barra-x-corinthians-pela-copa-do-brasil-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
-      "time": "20/04 · 23:00",
-      "pubDate": "Mon, 20 Apr 2026 23:00:25 +0000"
+      "title": "Veja fotos da reapresentação do Corinthians nesta terça-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-da-reapresentacao-do-corinthians-nesta-terca-feira-5/",
+      "time": "19/05 · 17:54",
+      "pubDate": "Tue, 19 May 2026 17:54:07 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians perde dupla e desembarca em Santa Catarina para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-dupla-e-desembarca-em-santa-catarina-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 22:31",
-      "pubDate": "Mon, 20 Apr 2026 22:31:46 +0000"
+      "title": "Com novidade, Corinthians se reapresenta e abre preparação para enfrentar o Peñarol",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-novidade-corinthians-se-reapresenta-e-abre-preparacao-para-enfrentar-o-penarol/",
+      "time": "19/05 · 17:45",
+      "pubDate": "Tue, 19 May 2026 17:45:56 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Matheuzinho projeta estreia do Corinthians e pede &#8220;pés no chão&#8221; em defesa do título da Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-projeta-estreia-do-corinthians-e-pede-pes-no-chao-em-defesa-do-titulo-da-copa-do-brasil/",
-      "time": "20/04 · 20:30",
-      "pubDate": "Mon, 20 Apr 2026 20:30:22 +0000"
+      "title": "Ex-Corinthians, Sylvinho deixa o cargo de técnico da Albânia",
+      "url": "https://www.gazetaesportiva.com/futebol/albania-demite-sylvinho-novo-tecnico-maran/",
+      "time": "19/05 · 14:57",
+      "pubDate": "Tue, 19 May 2026 14:57:33 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Escalação: Corinthians fecha preparação e pode ter mudanças para estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-fecha-preparacao-e-pode-ter-mudancas-para-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 19:00",
-      "pubDate": "Mon, 20 Apr 2026 19:00:52 +0000"
+      "title": "Corinthians pode conquistar melhor campanha na Libertadores desde 2015",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-pode-conquistar-melhor-campanha-na-libertadores-desde-2015/",
+      "time": "19/05 · 10:00",
+      "pubDate": "Tue, 19 May 2026 10:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes da estreia na Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-da-estreia-na-copa-do-brasil/",
-      "time": "20/04 · 18:55",
-      "pubDate": "Mon, 20 Apr 2026 18:55:03 +0000"
+      "title": "Corinthians perde para o Cruzeiro e vê rivais encostarem no Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-cruzeiro-rivais-encostam-brasileirao-feminino/",
+      "time": "19/05 · 01:59",
+      "pubDate": "Tue, 19 May 2026 01:59:01 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Alex Santana é inscrito pelo Corinthians na Copa do Brasil após reintegração",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/alex-santana-inscrito-corinthians-copa-do-brasil/",
-      "time": "20/04 · 15:21",
-      "pubDate": "Mon, 20 Apr 2026 15:21:02 +0000"
+      "title": "Corinthians x Palmeiras: veja informações e onde assistir ao jogo pelo Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/corinthians-x-palmeiras-veja-informacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
+      "time": "18/05 · 23:00",
+      "pubDate": "Mon, 18 May 2026 23:00:50 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Barra x Corinthians: veja onde assistir à partida pela Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/barra-x-corinthians-veja-onde-assistir-a-partida-pela-copa-do-brasil/",
-      "time": "20/04 · 10:00",
-      "pubDate": "Mon, 20 Apr 2026 10:00:50 +0000"
+      "title": "Diniz analisa atuação do sistema defensivo do Corinthians na derrota contra o Botafogo",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/diniz-analisa-atuacao-do-sistema-defensivo-do-corinthians-na-derrota-contra-o-botafogo/",
+      "time": "18/05 · 14:32",
+      "pubDate": "Mon, 18 May 2026 14:32:16 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Santos pelo Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533322/saiba-onde-assistir-ao-classico-entre-corinthians-e-santos-pelo-paulistao-feminino",
+      "pubDate": "Thu, 21 May 2026 09:00:00 -0300",
+      "date": "21/05 · 12:00"
+    },
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Peñarol pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533320/saiba-onde-assistir-a-partida-entre-corinthians-e-penarol-pela-libertadores",
+      "pubDate": "Thu, 21 May 2026 08:31:00 -0300",
+      "date": "21/05 · 11:31"
+    },
     {
       "title": "Goleada do Corinthians no Paulista de Futsal movimenta ranking de artilheiros em 2026; confira",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533284/goleada-do-corinthians-no-paulista-de-futsal-movimenta-ranking-de-artilheiros-em-2026-confira",
