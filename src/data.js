@@ -1,70 +1,102 @@
-// Gerado automaticamente em 22/05/2026, 19:19:29
+// Gerado automaticamente em 22/05/2026, 22:46:04
 const LIVE_DATA = {
-  "updatedAt": "2026-05-22T19:19:29.564Z",
+  "updatedAt": "2026-05-22T22:46:04.314Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Justiça concede liminar a sócios do Corinthians e mantém Assembleia da reforma do Estatuto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533512/justica-concede-liminar-a-socios-do-corinthians-e-mantem-assembleia-da-reforma-do-estatuto",
-      "time": "22/05 · 19:00",
-      "pubDate": "Fri, 22 May 2026 16:00:00 -0300"
+      "title": "Técnico do Corinthians exalta atuação de Kauan Raymundo e destaca impacto defensivo do jovem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533396/tecnico-do-corinthians-exalta-atuacao-de-kauan-raymundo-e-destaca-impacto-defensivo-do-jovem",
+      "time": "22/05 · 22:35",
+      "pubDate": "Fri, 22 May 2026 19:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians alegou 'ausência' na Libertadores 2025 para evitar pagamento por José Martínez; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533511/corinthians-alegou-ausencia-na-libertadores-2025-para-evitar-pagamento-por-jose-martinez-entenda",
-      "time": "22/05 · 18:59",
-      "pubDate": "Fri, 22 May 2026 15:59:21 -0300"
+      "title": "Corinthians chega a três jogos seguidos sem receber cartões na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533497/corinthians-chega-a-tres-jogos-seguidos-sem-receber-cartoes-na-libertadores",
+      "time": "22/05 · 22:08",
+      "pubDate": "Fri, 22 May 2026 19:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians valoriza volta por cima sobre o Pinheiros e destaca atuação de jovem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533409/ala-do-corinthians-valoriza-volta-por-cima-sobre-o-pinheiros-e-destaca-atuacao-de-jovem",
-      "time": "22/05 · 18:45",
-      "pubDate": "Fri, 22 May 2026 15:45:00 -0300"
+      "title": "Corinthians conta com quatro representantes em disputa por prêmios individuais do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533520/corinthians-conta-com-quatro-representantes-em-disputa-por-premios-individuais-do-nbb",
+      "time": "22/05 · 21:45",
+      "pubDate": "Fri, 22 May 2026 18:45:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Polícia descarta crime em conclusão do inquérito sobre desvios de materiais no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533507/policia-descarta-crime-em-conclusao-do-inquerito-sobre-desvios-de-materiais-no-corinthians",
-      "time": "22/05 · 18:30",
-      "pubDate": "Fri, 22 May 2026 15:30:00 -0300"
+      "title": "Jesse Lingard aponta Corinthians como favorito após empate contra o Peñarol na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533488/jesse-lingard-aponta-corinthians-como-favorito-apos-empate-contra-o-penarol-na-libertadores",
+      "time": "22/05 · 21:34",
+      "pubDate": "Fri, 22 May 2026 18:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gol em empate contra Peñarol faz meia debutar em lista de artilheiros do Corinthians no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533452/gol-em-empate-contra-penarol-faz-meia-debutar-em-lista-de-artilheiros-do-corinthians-no-ano",
-      "time": "22/05 · 17:33",
-      "pubDate": "Fri, 22 May 2026 14:33:00 -0300"
+      "title": "Milans comenta reencontro com ex clube e afirma ter feito sua melhor exibição pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533474/milans-comenta-reencontro-com-ex-clube-e-afirma-ter-feito-sua-melhor-exibicao-pelo-corinthians",
+      "time": "22/05 · 21:08",
+      "pubDate": "Fri, 22 May 2026 18:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz lamenta ausencia de Hugo Souza na Copa do Mundo e ressalta evolução do goleiro no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533460/diniz-lamenta-ausencia-de-hugo-souza-na-copa-do-mundo-e-ressalta-evolucao-do-goleiro-no-corinthians",
-      "time": "22/05 · 16:39",
-      "pubDate": "Fri, 22 May 2026 13:39:00 -0300"
+      "title": "Corinthians mantém invencibilidade contra uruguaios na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533449/corinthians-mantem-invencibilidade-contra-uruguaios-na-libertadores",
+      "time": "22/05 · 20:31",
+      "pubDate": "Fri, 22 May 2026 17:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Organizadas do Corinthians convocam torcida para acompanhar julgamento de ex-presidente no Conselho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533501/organizadas-do-corinthians-convocam-torcida-para-acompanhar-julgamento-de-ex-presidente-no-conselho",
-      "time": "22/05 · 16:20",
-      "pubDate": "Fri, 22 May 2026 13:20:00 -0300"
+      "title": "Técnico do Corinthians elogia atuações e destaca versatilidade de Zakaria Labyad em campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533459/tecnico-do-corinthians-elogia-atuacoes-e-destaca-versatilidade-de-zakaria-labyad-em-campo",
+      "time": "22/05 · 20:15",
+      "pubDate": "Fri, 22 May 2026 17:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gabi Zanotti reassume a liderança isolada da artilharia do Corinthians em 2026; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533433/gabi-zanotti-reassume-a-lideranca-isolada-da-artilharia-do-corinthians-em-2026-veja-o-ranking",
-      "time": "22/05 · 16:02",
-      "pubDate": "Fri, 22 May 2026 13:02:00 -0300"
+      "title": "Corinthians divulga venda de ingressos para partida contra o Mixto no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533516/corinthians-divulga-venda-de-ingressos-para-partida-contra-o-mixto-no-brasileirao-feminino",
+      "time": "22/05 · 20:00",
+      "pubDate": "Fri, 22 May 2026 17:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Depay deve retornar ao Corinthians contra o Atlético-MG e vive expectativa da convocação da Holanda",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/de-olho-copa-depay-retorno-corinthians-atletico]]>",
+      "time": "22/05 · 18:49",
+      "pubDate": "Fri, 22 May 2026 15:49:11 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians sonda Icardi para o lugar de Memphis Depay, revela site",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sonda-icardi-para-o-lugar-de-memphis-depay-revela-site]]>",
+      "time": "22/05 · 16:47",
+      "pubDate": "Fri, 22 May 2026 13:47:15 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis chama fisioterapeuta particular para avaliar exames no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-chama-fisioterapeuta-particular-para-avaliar-exames-no-corinthians]]>",
+      "time": "22/05 · 15:47",
+      "pubDate": "Fri, 22 May 2026 12:47:08 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Maycon, volante do Atlético-MG, projeta reencontro com o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/maycon-volante-do-atletico-mg-projeta-reencontro-com-o-corinthians]]>",
+      "time": "22/05 · 14:53",
+      "pubDate": "Fri, 22 May 2026 11:53:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/labyad-comemora-gol-pelo-corinthians-e-pede-permanencia-de-memphis]]>",
       "time": "22/05 · 12:03",
       "pubDate": "Fri, 22 May 2026 09:03:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto volta a se pronunciar e foge de polêmicas após declaração sobre saída do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-volta-a-se-pronunciar-e-foge-de-polemicas-apos-declaracao-sobre-saida-do-corinthians]]>",
-      "time": "22/05 · 04:42",
-      "pubDate": "Fri, 22 May 2026 01:42:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians conta com gol salvador de Labyad e segue invicto na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-conta-com-gol-salvador-de-labyad-e-segue-invicto-na-libertadores]]>",
-      "time": "22/05 · 03:35",
-      "pubDate": "Fri, 22 May 2026 00:35:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz opta por time misto, Corinthians peca nas finalizações e empata com Peñarol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-opta-por-time-misto-corinthians-peca-nas-finalizacoes-e-empata-com-penarol]]>",
-      "time": "22/05 · 02:33",
-      "pubDate": "Thu, 21 May 2026 23:33:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Labyad marca primeiro gol pelo Corinthians e garante empate contra o Peñarol na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/labyad-marca-primeiro-gol-pelo-corinthians-e-garante-empate-contra-o-penarol-na-libertadores]]>",
-      "time": "22/05 · 02:25",
-      "pubDate": "Thu, 21 May 2026 23:25:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -240,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127959/pedro-milans-fala-sobre-volta-ao-uruguai-e-adaptacao-no-corinthians",
       "pubDate": "Fri, 22 May 2026 01:34:34 -0300",
       "date": "22/05 · 04:34"
-    },
-    {
-      "title": "VÍDEO: Memphis Depay, time reserva no Uruguai e atuação de Labyad: Coletiva de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/127958/memphis-depay-time-reserva-no-uruguai-e-atuacao-de-labyad-coletiva-de-fernando-diniz",
-      "pubDate": "Fri, 22 May 2026 01:02:00 -0300",
-      "date": "22/05 · 04:02"
     }
   ]
 };
