@@ -1,62 +1,86 @@
-// Gerado automaticamente em 21/05/2026, 22:56:46
+// Gerado automaticamente em 22/05/2026, 10:39:30
 const LIVE_DATA = {
-  "updatedAt": "2026-05-21T22:56:46.971Z",
+  "updatedAt": "2026-05-22T10:39:30.014Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Invencibilidade, desfalques e jogo da vida: veja como chega o Peñarol para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533403/invencibilidade-e-jogo-da-vida-veja-como-chega-o-penarol-para-enfrentar-o-corinthians",
-      "time": "21/05 · 22:29",
-      "pubDate": "Thu, 21 May 2026 19:29:00 -0300"
+      "title": "Últimas do Corinthians: liderança na Libertadores, empate das Brabas e novo transfer ban",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533465/ultimas-do-corinthians-lideranca-na-libertadores-empate-das-brabas-e-novo-transfer-ban",
+      "time": "22/05 · 10:30",
+      "pubDate": "Fri, 22 May 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba como comprar ingressos para assistir ao amistoso entre Corinthians e Cascavel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533420/saiba-como-adquirir-os-ingressos-para-assistir-ao-amistoso-entre-corinthians-e-cascavel",
-      "time": "21/05 · 22:02",
-      "pubDate": "Thu, 21 May 2026 19:02:00 -0300"
+      "title": "VÍDEO: Hugo Souza fala sobre não ser convocado e permanência no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127963/hugo-souza-fala-sobre-nao-ser-convocado-e-permanencia-no-corinthians",
+      "time": "22/05 · 05:08",
+      "pubDate": "Fri, 22 May 2026 02:08:18 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala/Pivô do Corinthians fala sobre a vitória sobre o Pinheiros e exalta a Fiel no Wlamir Marques",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533397/alapivo-do-corinthians-fala-sobre-a-vitoria-sobre-o-pinheiros-e-exalta-a-fiel-no-wlamir-marques",
-      "time": "21/05 · 21:32",
-      "pubDate": "Thu, 21 May 2026 18:32:00 -0300"
+      "title": "VÍDEO: Zakaria Labyad fala sobre desejo de renovação de Memphis com o Corinthians e exalta sua qualidade",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127961/zakaria-labyad-fala-sobre-desejo-de-renovacao-de-memphis-com-o-corinthians-e-exalta-sua-qualidade",
+      "time": "22/05 · 04:54",
+      "pubDate": "Fri, 22 May 2026 01:54:04 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para o Clássico Alvinegro pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533400/corinthians-esta-escalado-para-o-classico-alvinegro-pelo-paulistao-feminino",
-      "time": "21/05 · 21:16",
-      "pubDate": "Thu, 21 May 2026 18:16:00 -0300"
+      "title": "VÍDEO: Pedro Milans fala sobre volta ao Uruguai e adaptação no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127959/pedro-milans-fala-sobre-volta-ao-uruguai-e-adaptacao-no-corinthians",
+      "time": "22/05 · 04:34",
+      "pubDate": "Fri, 22 May 2026 01:34:34 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians é convocada para amistosos da Seleção Brasileira Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533421/dupla-do-corinthians-e-convocada-para-amistosos-da-selecao-brasileira-sub-17",
-      "time": "21/05 · 21:15",
-      "pubDate": "Thu, 21 May 2026 18:15:00 -0300"
+      "title": "Treinador do Corinthians justifica rotação no elenco em empate na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533457/treinador-do-corinthians-justifica-rotacao-no-elenco-em-empate-na-libertadores",
+      "time": "22/05 · 04:08",
+      "pubDate": "Fri, 22 May 2026 01:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca desempatar retrospecto contra o Peñarol e confirmar liderança na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533399/corinthians-busca-desempatar-retrospecto-contra-o-penarol-e-confirmar-lideranca-na-libertadores",
-      "time": "21/05 · 20:31",
-      "pubDate": "Thu, 21 May 2026 17:31:00 -0300"
+      "title": "Kaio César é eleito craque do Corinthians em avaliações da Fiel após empate na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533466/kaio-cesar-e-eleito-craque-do-corinthians-em-avaliacoes-da-fiel-apos-empate-na-libertadores",
+      "time": "22/05 · 04:02",
+      "pubDate": "Fri, 22 May 2026 01:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians tenta repetir feito ofensivo que não acontece há quase 18 meses; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533277/meia-do-corinthians-tenta-repetir-feito-ofensivo-que-nao-acontece-ha-quase-18-meses-saiba-qual",
-      "time": "21/05 · 19:33",
-      "pubDate": "Thu, 21 May 2026 16:33:00 -0300"
+      "title": "Técnico do Corinthians projeta retorno de Memphis Depay e pede permanência do atacante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533458/tecnico-do-corinthians-projeta-retorno-de-memphis-depay-e-pede-permanencia-do-atacante",
+      "time": "22/05 · 03:54",
+      "pubDate": "Fri, 22 May 2026 00:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gustavo Henrique lidera números defensivos do Corinthians em empate na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533444/gustavo-henrique-lidera-numeros-defensivos-do-corinthians-em-empate-na-libertadores",
+      "time": "22/05 · 03:40",
+      "pubDate": "Fri, 22 May 2026 00:40:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gustavo Henrique não se intimida e sonha com Libertadores: “Somos o Corinthians”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-nao-se-intimida-e-sonha-com-libertadores-somos-o-corinthians]]>",
+      "time": "21/05 · 21:11",
+      "pubDate": "Thu, 21 May 2026 18:11:03 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz tem dúvidas no Corinthians e Allan pode ser titular contra o Peñarol",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-tem-duvidas-no-corinthians-e-allan-pode-ser-titular-contra-o-penarol]]>",
+      "time": "21/05 · 20:11",
+      "pubDate": "Thu, 21 May 2026 17:11:52 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-bidu-depay-desfalques-penarol]]>",
       "time": "21/05 · 19:10",
       "pubDate": "Thu, 21 May 2026 16:10:16 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Campeão brasileiro pelo Corinthians exalta força da Fiel no NBB e cobra mais divulgação do basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533416/campeao-brasileiro-pelo-corinthians-exalta-forca-da-fiel-no-nbb-e-cobra-mais-divulgacao-do-basquete",
-      "time": "21/05 · 19:02",
-      "pubDate": "Thu, 21 May 2026 16:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/roberto-firmino-no-corinthians-depende-da-saida-de-yuri-alberto]]>",
       "time": "21/05 · 15:36",
       "pubDate": "Thu, 21 May 2026 12:36:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo fora da Copa e Corinthians aceita vender goleiro por 13 mi de euros",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-fora-da-copa-e-corinthians-aceita-vender-goleiro-por-13-mi-de-euros]]>",
-      "time": "21/05 · 14:20",
-      "pubDate": "Thu, 21 May 2026 11:20:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Permanência de Memphis Depay é pedida pela torcida do Corinthians nas redes sociais",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/permanencia-de-memphis-depay-e-pedida-pela-torcida-do-corinthians-nas-redes-sociais]]>",
-      "time": "20/05 · 21:39",
-      "pubDate": "Wed, 20 May 2026 18:39:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,28 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Hugo Souza fala sobre não ser convocado e permanência no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127963/hugo-souza-fala-sobre-nao-ser-convocado-e-permanencia-no-corinthians",
+      "pubDate": "Fri, 22 May 2026 02:08:18 -0300",
+      "date": "22/05 · 05:08"
+    },
+    {
+      "title": "VÍDEO: Zakaria Labyad fala sobre desejo de renovação de Memphis com o Corinthians e exalta sua qualidade",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127961/zakaria-labyad-fala-sobre-desejo-de-renovacao-de-memphis-com-o-corinthians-e-exalta-sua-qualidade",
+      "pubDate": "Fri, 22 May 2026 01:54:04 -0300",
+      "date": "22/05 · 04:54"
+    },
+    {
+      "title": "VÍDEO: Kaio César comenta mais minutagem e conversas com Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127960/kaio-cesar-comenta-mais-minutagem-e-conversas-com-fernando-diniz",
+      "pubDate": "Fri, 22 May 2026 01:49:45 -0300",
+      "date": "22/05 · 04:49"
+    },
+    {
+      "title": "VÍDEO: Pedro Milans fala sobre volta ao Uruguai e adaptação no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127959/pedro-milans-fala-sobre-volta-ao-uruguai-e-adaptacao-no-corinthians",
+      "pubDate": "Fri, 22 May 2026 01:34:34 -0300",
+      "date": "22/05 · 04:34"
+    },
+    {
+      "title": "VÍDEO: Memphis Depay, time reserva no Uruguai e atuação de Labyad: Coletiva de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127958/memphis-depay-time-reserva-no-uruguai-e-atuacao-de-labyad-coletiva-de-fernando-diniz",
+      "pubDate": "Fri, 22 May 2026 01:02:00 -0300",
+      "date": "22/05 · 04:02"
+    },
+    {
+      "title": "Zakaria Labyad celebra primeiro gol pelo Corinthians e faz apelo por permanência de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533448/zakaria-labyad-celebra-primeiro-gol-pelo-corinthians-e-faz-apelo-por-permanencia-de-memphis",
+      "pubDate": "Fri, 22 May 2026 00:06:00 -0300",
+      "date": "22/05 · 03:06"
+    },
+    {
+      "title": "Gol de marroquino e liderança garantida: Fiel repercute empate com o Peñarol na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533438/gol-de-marroquino-e-lideranca-garantida-fiel-repercute-empate-com-o-penarol-na-libertadores",
+      "pubDate": "Thu, 21 May 2026 23:30:00 -0300",
+      "date": "22/05 · 02:30"
+    },
+    {
       "title": "Saiba como comprar ingressos para assistir ao amistoso entre Corinthians e Cascavel",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533420/saiba-como-adquirir-os-ingressos-para-assistir-ao-amistoso-entre-corinthians-e-cascavel",
       "pubDate": "Thu, 21 May 2026 19:02:00 -0300",
       "date": "21/05 · 22:02"
-    },
-    {
-      "title": "Saiba onde assistir ao clássico entre Corinthians e Santos pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533322/saiba-onde-assistir-ao-classico-entre-corinthians-e-santos-pelo-paulistao-feminino",
-      "pubDate": "Thu, 21 May 2026 09:00:00 -0300",
-      "date": "21/05 · 12:00"
-    },
-    {
-      "title": "Saiba onde assistir à partida entre Corinthians e Peñarol pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533320/saiba-onde-assistir-a-partida-entre-corinthians-e-penarol-pela-libertadores",
-      "pubDate": "Thu, 21 May 2026 08:31:00 -0300",
-      "date": "21/05 · 11:31"
-    },
-    {
-      "title": "Goleada do Corinthians no Paulista de Futsal movimenta ranking de artilheiros em 2026; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533284/goleada-do-corinthians-no-paulista-de-futsal-movimenta-ranking-de-artilheiros-em-2026-confira",
-      "pubDate": "Wed, 20 May 2026 22:30:00 -0300",
-      "date": "21/05 · 01:30"
     }
   ]
 };
