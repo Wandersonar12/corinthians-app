@@ -1,7 +1,39 @@
-// Gerado automaticamente em 22/05/2026, 10:39:30
+// Gerado automaticamente em 22/05/2026, 14:08:13
 const LIVE_DATA = {
-  "updatedAt": "2026-05-22T10:39:30.014Z",
+  "updatedAt": "2026-05-22T14:08:13.745Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians altera coordenação de suporte à Fiel em jogos fora de casa após pressão política",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533492/corinthians-altera-coordenacao-de-suporte-a-fiel-em-jogos-fora-de-casa-apos-pressao-politica",
+      "time": "22/05 · 13:48",
+      "pubDate": "Fri, 22 May 2026 10:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Sócios do Corinthians entram na Justiça para garantir validade de Assembleia da reforma do Estatuto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533491/socios-do-corinthians-entram-na-justica-para-garantir-validade-de-assembleia-da-reforma-do-estatuto",
+      "time": "22/05 · 13:30",
+      "pubDate": "Fri, 22 May 2026 10:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz prioriza permanência de jogadores no Corinthians para sequência da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533461/fernando-diniz-prioriza-permanencia-de-jogadores-no-corinthians-para-sequencia-da-temporada",
+      "time": "22/05 · 12:33",
+      "pubDate": "Fri, 22 May 2026 09:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral volta a jogar pelo Corinthians após mais de um mês",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533427/lateral-volta-a-jogar-pelo-corinthians-apos-mais-de-um-mes",
+      "time": "22/05 · 11:30",
+      "pubDate": "Fri, 22 May 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -24,7 +56,15 @@ const LIVE_DATA = {
       "title": "VÍDEO: Zakaria Labyad fala sobre desejo de renovação de Memphis com o Corinthians e exalta sua qualidade",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127961/zakaria-labyad-fala-sobre-desejo-de-renovacao-de-memphis-com-o-corinthians-e-exalta-sua-qualidade",
       "time": "22/05 · 04:54",
-      "pubDate": "Fri, 22 May 2026 01:54:04 -0300"
+      "pubDate": "Fri, 22 May 2026 01:54:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto volta a se pronunciar e foge de polêmicas após declaração sobre saída do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-volta-a-se-pronunciar-e-foge-de-polemicas-apos-declaracao-sobre-saida-do-corinthians]]>",
+      "time": "22/05 · 04:42",
+      "pubDate": "Fri, 22 May 2026 01:42:54 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,100 +75,60 @@ const LIVE_DATA = {
       "pubDate": "Fri, 22 May 2026 01:34:34 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinador do Corinthians justifica rotação no elenco em empate na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533457/treinador-do-corinthians-justifica-rotacao-no-elenco-em-empate-na-libertadores",
-      "time": "22/05 · 04:08",
-      "pubDate": "Fri, 22 May 2026 01:08:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César é eleito craque do Corinthians em avaliações da Fiel após empate na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533466/kaio-cesar-e-eleito-craque-do-corinthians-em-avaliacoes-da-fiel-apos-empate-na-libertadores",
-      "time": "22/05 · 04:02",
-      "pubDate": "Fri, 22 May 2026 01:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians projeta retorno de Memphis Depay e pede permanência do atacante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533458/tecnico-do-corinthians-projeta-retorno-de-memphis-depay-e-pede-permanencia-do-atacante",
-      "time": "22/05 · 03:54",
-      "pubDate": "Fri, 22 May 2026 00:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gustavo Henrique lidera números defensivos do Corinthians em empate na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533444/gustavo-henrique-lidera-numeros-defensivos-do-corinthians-em-empate-na-libertadores",
-      "time": "22/05 · 03:40",
-      "pubDate": "Fri, 22 May 2026 00:40:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians conta com gol salvador de Labyad e segue invicto na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-conta-com-gol-salvador-de-labyad-e-segue-invicto-na-libertadores]]>",
+      "time": "22/05 · 03:35",
+      "pubDate": "Fri, 22 May 2026 00:35:39 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Gustavo Henrique não se intimida e sonha com Libertadores: “Somos o Corinthians”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-nao-se-intimida-e-sonha-com-libertadores-somos-o-corinthians]]>",
-      "time": "21/05 · 21:11",
-      "pubDate": "Thu, 21 May 2026 18:11:03 -0300"
+      "title": "Corinthians sofre gol e está perdendo para o Peñarol pela Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofre-gol-e-esta-perdendo-para-o-penarol-pela-libertadores]]>",
+      "time": "22/05 · 03:35",
+      "pubDate": "Fri, 22 May 2026 00:35:15 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Diniz tem dúvidas no Corinthians e Allan pode ser titular contra o Peñarol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-tem-duvidas-no-corinthians-e-allan-pode-ser-titular-contra-o-penarol]]>",
-      "time": "21/05 · 20:11",
-      "pubDate": "Thu, 21 May 2026 17:11:52 -0300"
+      "title": "Diniz opta por time misto, Corinthians peca nas finalizações e empata com Peñarol",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-opta-por-time-misto-corinthians-peca-nas-finalizacoes-e-empata-com-penarol]]>",
+      "time": "22/05 · 02:33",
+      "pubDate": "Thu, 21 May 2026 23:33:38 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Labyad marca primeiro gol pelo Corinthians e garante empate contra o Peñarol na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/labyad-marca-primeiro-gol-pelo-corinthians-e-garante-empate-contra-o-penarol-na-libertadores]]>",
+      "time": "22/05 · 02:25",
+      "pubDate": "Thu, 21 May 2026 23:25:43 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Depay e Matheus Bidu puxam fila de desfalques e Corinthians tem seis ausências contra o Peñarol",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-bidu-depay-desfalques-penarol]]>",
-      "time": "21/05 · 19:10",
-      "pubDate": "Thu, 21 May 2026 16:10:16 -0300"
+      "time": "22/05 · 00:35",
+      "pubDate": "Thu, 21 May 2026 21:35:21 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Arezo tem mais gols que Yuri Alberto em 2026 e esquenta duelo entre Corinthians e Peñarol na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/arezo-tem-mais-gols-que-yuri-alberto-em-2026-e-esquenta-duelo-entre-corinthians-e-penarol-na-libertadores]]>",
-      "time": "21/05 · 19:01",
-      "pubDate": "Thu, 21 May 2026 16:01:07 -0300"
+      "title": "Diniz tem dúvidas no Corinthians e Allan pode ser titular contra o Peñarol",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-tem-duvidas-no-corinthians-e-allan-pode-ser-titular-contra-o-penarol]]>",
+      "time": "22/05 · 00:34",
+      "pubDate": "Thu, 21 May 2026 21:34:47 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians promete contratação de impacto para substituir Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-promete-contratacao-de-impacto-para-substituir-memphis-depay]]>",
-      "time": "21/05 · 17:29",
-      "pubDate": "Thu, 21 May 2026 14:29:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz prepara mudanças na escalação em Peñarol x Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-prepara-mudancas-na-escalacao-em-penarol-x-corinthians]]>",
-      "time": "21/05 · 16:23",
-      "pubDate": "Thu, 21 May 2026 13:23:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians encara Peñarol que tem apenas duas vitórias nos últimos 10 jogos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encara-penarol-que-tem-apenas-duas-vitorias-nos-ultimos-10-jogos]]>",
-      "time": "21/05 · 16:03",
-      "pubDate": "Thu, 21 May 2026 13:03:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Roberto Firmino no Corinthians depende da saída de Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/roberto-firmino-no-corinthians-depende-da-saida-de-yuri-alberto]]>",
-      "time": "21/05 · 15:36",
-      "pubDate": "Thu, 21 May 2026 12:36:11 -0300"
+      "title": "Gustavo Henrique não se intimida e sonha com Libertadores: “Somos o Corinthians”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-nao-se-intimida-e-sonha-com-libertadores-somos-o-corinthians]]>",
+      "time": "22/05 · 00:34",
+      "pubDate": "Thu, 21 May 2026 21:34:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -208,7 +208,7 @@ const LIVE_DATA = {
     {
       "title": "VÍDEO: Zakaria Labyad fala sobre desejo de renovação de Memphis com o Corinthians e exalta sua qualidade",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/127961/zakaria-labyad-fala-sobre-desejo-de-renovacao-de-memphis-com-o-corinthians-e-exalta-sua-qualidade",
-      "pubDate": "Fri, 22 May 2026 01:54:04 -0300",
+      "pubDate": "Fri, 22 May 2026 01:54:00 -0300",
       "date": "22/05 · 04:54"
     },
     {
