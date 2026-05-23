@@ -1,7 +1,31 @@
-// Gerado automaticamente em 23/05/2026, 09:29:54
+// Gerado automaticamente em 23/05/2026, 12:52:36
 const LIVE_DATA = {
-  "updatedAt": "2026-05-23T09:29:54.261Z",
+  "updatedAt": "2026-05-23T12:52:36.978Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Pinheiros em busca de virar série na semifinal do NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533505/corinthians-recebe-o-pinheiros-em-busca-de-virar-serie-na-semifinal-do-nbb-saiba-tudo",
+      "time": "23/05 · 12:32",
+      "pubDate": "Sat, 23 May 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Ibrachina buscando estender campanha perfeita no Campeonato Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533510/corinthians-visita-o-ibrachina-buscando-estender-campanha-perfeita-no-campeonato-paulista-sub-17",
+      "time": "23/05 · 11:30",
+      "pubDate": "Sat, 23 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: ruptura com agente, argumento negado e data de sorteio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533529/ultimas-do-corinthians-ruptura-com-agente-argumento-negado-e-data-de-sorteio",
+      "time": "23/05 · 10:30",
+      "pubDate": "Sat, 23 May 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,28 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 22 May 2026 21:02:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Hugo Souza lamenta ausência na Copa do Mundo e agradece apoio da torcida do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533476/hugo-souza-lamenta-ausencia-na-copa-do-mundo-e-agradece-apoio-da-torcida-do-corinthians",
-      "time": "22/05 · 23:01",
-      "pubDate": "Fri, 22 May 2026 20:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians exalta atuação de Kauan Raymundo e destaca impacto defensivo do jovem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533396/tecnico-do-corinthians-exalta-atuacao-de-kauan-raymundo-e-destaca-impacto-defensivo-do-jovem",
-      "time": "22/05 · 22:35",
-      "pubDate": "Fri, 22 May 2026 19:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega a três jogos seguidos sem receber cartões na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533497/corinthians-chega-a-tres-jogos-seguidos-sem-receber-cartoes-na-libertadores",
-      "time": "22/05 · 22:08",
-      "pubDate": "Fri, 22 May 2026 19:08:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard afirma que Memphis está se esforçando para retornar ao Corinthians o quanto antes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-afirma-que-memphis-esta-se-esforcando-para-retornar-ao-corinthians-o-quanto-antes]]>",
+      "time": "22/05 · 23:17",
+      "pubDate": "Fri, 22 May 2026 20:17:53 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/alex-arce-no-corinthians-e-1a-opcao-da-torcida-no-lugar-de-yuri-alberto]]>",
       "time": "22/05 · 12:24",
       "pubDate": "Fri, 22 May 2026 09:24:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Labyad comemora gol pelo Corinthians e pede permanência de Memphis",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/labyad-comemora-gol-pelo-corinthians-e-pede-permanencia-de-memphis]]>",
-      "time": "22/05 · 12:03",
-      "pubDate": "Fri, 22 May 2026 09:03:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
