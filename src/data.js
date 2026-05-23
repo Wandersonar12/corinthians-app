@@ -1,78 +1,86 @@
-// Gerado automaticamente em 23/05/2026, 18:50:15
+// Gerado automaticamente em 23/05/2026, 22:40:16
 const LIVE_DATA = {
-  "updatedAt": "2026-05-23T18:50:15.751Z",
+  "updatedAt": "2026-05-23T22:40:16.740Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz admite dificuldade do Corinthians no Brasileirão e cobra fim das oscilações na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533462/diniz-admite-dificuldade-do-corinthians-no-brasileirao-e-cobra-fim-das-oscilacoes-na-temporada",
-      "time": "23/05 · 18:31",
-      "pubDate": "Sat, 23 May 2026 15:31:00 -0300"
+      "title": "Corinthians evita realizar feito que não aconteceu nem no ano de rebaixamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533550/corinthians-evita-realizar-feito-que-nao-aconteceu-nem-no-ano-de-rebaixamento",
+      "time": "23/05 · 22:03",
+      "pubDate": "Sat, 23 May 2026 19:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante diz que 'reencontrou' a felicidade no Corinthians e revela papo com Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533475/atacante-diz-que-reencontrou-a-felicidade-no-corinthians-e-revela-papo-com-fernando-diniz",
-      "time": "23/05 · 17:36",
-      "pubDate": "Sat, 23 May 2026 14:36:00 -0300"
+      "title": "Zagueira do Corinthians projeta Dérbi na Copa do Brasil Feminina e comenta desempenho em clássicos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533481/zagueira-do-corinthians-projeta-derbi-na-copa-do-brasil-feminina-e-comenta-desempenho-em-classicos",
+      "time": "23/05 · 21:34",
+      "pubDate": "Sat, 23 May 2026 18:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueira do Corinthians rebate rumores e nega desgaste de Emily Lima com o elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533480/zagueira-do-corinthians-rebate-rumores-e-nega-desgaste-de-emily-lima-com-o-elenco",
-      "time": "23/05 · 16:34",
-      "pubDate": "Sat, 23 May 2026 13:34:00 -0300"
+      "title": "Corinthians tenta engatar sequência positiva diante do Atlético-MG",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533548/corinthians-tenta-engatar-sequencia-positiva-diante-do-atletico-mg",
+      "time": "23/05 · 21:09",
+      "pubDate": "Sat, 23 May 2026 18:09:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem dois expulsos, é derrotado pelo Ibrachina e perde liderança no Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533536/corinthians-tem-dois-expulsos-e-derrotado-pelo-ibrachina-e-perde-lideranca-no-paulistao-sub-17",
-      "time": "23/05 · 15:48",
-      "pubDate": "Sat, 23 May 2026 12:48:00 -0300"
+      "title": "Corinthians registra seu pior início na história do Campeonato Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533527/corinthians-registra-seu-pior-inicio-na-historia-do-campeonato-paulista-feminino",
+      "time": "23/05 · 20:33",
+      "pubDate": "Sat, 23 May 2026 17:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Emily Lima comenta sobre evolução física de zagueiras lesionadas no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533487/emily-lima-comenta-sobre-evolucao-fisica-de-zagueiras-lesionadas-no-corinthians",
-      "time": "23/05 · 15:32",
-      "pubDate": "Sat, 23 May 2026 12:32:00 -0300"
+      "title": "Zagueiro do Corinthians projeta partida contra o Atlético Mineiro para sair do Z4",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533551/zagueiro-do-corinthians-projeta-partida-contra-o-atletico-mineiro-para-sair-do-z4",
+      "time": "23/05 · 20:03",
+      "pubDate": "Sat, 23 May 2026 17:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante de time sensação da Holanda revela procura e sonha com chance no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533541/atacante-de-time-sensacao-da-holanda-revela-procura-e-sonha-com-chance-no-corinthians",
-      "time": "23/05 · 15:02",
-      "pubDate": "Sat, 23 May 2026 12:02:00 -0300"
+      "title": "Corinthians encerra preparação para enfrentar o Atlético-MG pelo Brasileiro; veja provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533543/corinthians-encerra-preparacao-para-enfrentar-o-atletico-mg-pelo-brasileiro-veja-provavel-escalacao",
+      "time": "23/05 · 19:47",
+      "pubDate": "Sat, 23 May 2026 16:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-treinador revela negociações frustradas com Corinthians e explica fala polêmica sobre o clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533506/ex-treinador-revela-negociacoes-frustradas-com-corinthians-e-explica-fala-polemica-sobre-o-clube",
-      "time": "23/05 · 14:32",
-      "pubDate": "Sat, 23 May 2026 11:32:00 -0300"
+      "title": "Marroquino celebra primeiro gol pelo Corinthians e comenta sobre trabalho de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533478/marroquino-celebra-primeiro-gol-pelo-corinthians-e-comenta-sobre-trabalho-de-fernando-diniz",
+      "time": "23/05 · 19:32",
+      "pubDate": "Sat, 23 May 2026 16:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jesse Lingard defende permanência de Memphis no Corinthians e elogia atacante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533489/jesse-lingard-defende-permanencia-de-memphis-no-corinthians-e-elogia-atacante",
-      "time": "23/05 · 13:31",
-      "pubDate": "Sat, 23 May 2026 10:31:00 -0300"
+      "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o Atlético-MG pelo Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127996/provavel-escalacao-do-corinthians-para-enfrentar-o-atletico-mg-pelo-brasileirao-2026",
+      "time": "23/05 · 19:11",
+      "pubDate": "Sat, 23 May 2026 16:11:27 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vidente indica resultado positivo e leve vantagem do Corinthians contra o Atlético-MG",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-indica-resultado-positivo-e-leve-vantagem-do-corinthians-contra-o-atletico-mg]]>",
+      "time": "23/05 · 18:19",
+      "pubDate": "Sat, 23 May 2026 15:19:13 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Lingard afirma que Memphis está se esforçando para retornar ao Corinthians o quanto antes",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-afirma-que-memphis-esta-se-esforcando-para-retornar-ao-corinthians-o-quanto-antes]]>",
-      "time": "23/05 · 11:01",
-      "pubDate": "Sat, 23 May 2026 08:01:39 -0300"
+      "time": "23/05 · 13:39",
+      "pubDate": "Sat, 23 May 2026 10:39:02 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/maycon-projeta-reencontro-com-o-corinthians-e-despista-sobre-lei-do-ex-pelo-atletico-mg]]>",
       "time": "22/05 · 13:03",
       "pubDate": "Fri, 22 May 2026 10:03:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vê Diniz atingir marca histórica e ampliar sequência invicta na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-diniz-atingir-marca-historica-e-ampliar-sequencia-invicta-na-libertadores]]>",
-      "time": "22/05 · 12:27",
-      "pubDate": "Fri, 22 May 2026 09:27:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Marroquino celebra primeiro gol pelo Corinthians e comenta sobre trabalho de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533478/marroquino-celebra-primeiro-gol-pelo-corinthians-e-comenta-sobre-trabalho-de-fernando-diniz",
+      "pubDate": "Sat, 23 May 2026 16:32:00 -0300",
+      "date": "23/05 · 19:32"
+    },
+    {
+      "title": "VÍDEO: Provável escalação do Corinthians para enfrentar o Atlético-MG pelo Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/127996/provavel-escalacao-do-corinthians-para-enfrentar-o-atletico-mg-pelo-brasileirao-2026",
+      "pubDate": "Sat, 23 May 2026 16:11:27 -0300",
+      "date": "23/05 · 19:11"
+    },
     {
       "title": "Zagueira admite incômodo com gols sofridos e cobra equilíbrio defensivo no Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533479/zagueira-admite-incomodo-com-gols-sofridos-e-cobra-equilibrio-defensivo-no-corinthians",
