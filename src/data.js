@@ -1,7 +1,39 @@
-// Gerado automaticamente em 24/05/2026, 09:46:17
+// Gerado automaticamente em 24/05/2026, 12:53:09
 const LIVE_DATA = {
-  "updatedAt": "2026-05-24T09:46:17.464Z",
+  "updatedAt": "2026-05-24T12:53:09.762Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca manter sequência positiva com árbitro da partida contra o Atlético Mineiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533585/corinthians-busca-manter-sequencia-positiva-com-arbitro-da-partida-contra-o-atletico-mineiro",
+      "time": "24/05 · 12:32",
+      "pubDate": "Sun, 24 May 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta a Teal Rising Academy em busca da liderança do Paulista Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533546/corinthians-enfrenta-a-teal-rising-academy-em-busca-da-lideranca-do-paulista-feminino-sub-17",
+      "time": "24/05 · 12:00",
+      "pubDate": "Sun, 24 May 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Atlético Mineiro pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533545/saiba-onde-assistir-a-partida-entre-corinthians-e-atletico-mineiro-pelo-brasileirao",
+      "time": "24/05 · 11:30",
+      "pubDate": "Sun, 24 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: sonho de atacante no Corinthians, fala de Kaio César e provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533566/ultimas-do-corinthians-sonho-de-atacante-no-corinthians-fala-de-kaio-cesar-e-provavel-escalacao",
+      "time": "24/05 · 10:30",
+      "pubDate": "Sun, 24 May 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 23 May 2026 22:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia e atacante do Corinthians ampliam marca de assistências no ano após empate no clássico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533538/meia-e-atacante-do-corinthians-ampliam-marca-de-assistencias-no-ano-apos-empate-no-classico",
-      "time": "24/05 · 00:32",
-      "pubDate": "Sat, 23 May 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians esboça reação no fim, mas perde para o Pinheiros no terceiro jogo da semifinal do NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533552/corinthians-esboca-reacao-no-fim-mas-perde-para-o-pinheiros-no-terceiro-jogo-da-semifinal-do-nbb",
-      "time": "23/05 · 23:54",
-      "pubDate": "Sat, 23 May 2026 20:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca engatar maior sequência de vitórias em Itaquera desde ano de título brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533513/corinthians-busca-engatar-maior-sequencia-de-vitorias-em-itaquera-desde-ano-de-titulo-brasileiro",
-      "time": "23/05 · 23:33",
-      "pubDate": "Sat, 23 May 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é derrotado pelo Atlântico/Erechim na Liga Nacional de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533559/corinthians-e-derrotado-pelo-atlanticoerechim-na-liga-nacional-de-futsal",
-      "time": "23/05 · 23:10",
-      "pubDate": "Sat, 23 May 2026 20:10:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Novo Transferban por José Martínez pega membros da diretoria do Corinthians de surpresa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/novo-transferban-por-jose-martinez-pega-membros-da-diretoria-do-corinthians-de-surpresa]]>",
+      "time": "23/05 · 22:51",
+      "pubDate": "Sat, 23 May 2026 19:51:34 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-chama-fisioterapeuta-particular-para-avaliar-exames-no-corinthians]]>",
       "time": "22/05 · 15:47",
       "pubDate": "Fri, 22 May 2026 12:47:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Maycon, volante do Atlético-MG, projeta reencontro com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/maycon-volante-do-atletico-mg-projeta-reencontro-com-o-corinthians]]>",
-      "time": "22/05 · 14:53",
-      "pubDate": "Fri, 22 May 2026 11:53:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Atlético Mineiro pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533545/saiba-onde-assistir-a-partida-entre-corinthians-e-atletico-mineiro-pelo-brasileirao",
+      "pubDate": "Sun, 24 May 2026 08:30:00 -0300",
+      "date": "24/05 · 11:30"
+    },
     {
       "title": "VÍDEO: Osmar Stabile fala de dívida do Corinthians e modalidades esportivas do clube",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128003/osmar-stabile-fala-de-divida-do-corinthians-e-modalidades-esportivas-do-clube",
