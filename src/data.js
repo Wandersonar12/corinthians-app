@@ -1,86 +1,86 @@
-// Gerado automaticamente em 24/05/2026, 22:43:49
+// Gerado automaticamente em 25/05/2026, 11:40:31
 const LIVE_DATA = {
-  "updatedAt": "2026-05-24T22:43:49.559Z",
+  "updatedAt": "2026-05-25T11:40:31.583Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians derrota Teal Rising Academy e assume a liderança do grupo no Paulistão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533607/corinthians-derrota-teal-rising-academy-e-assume-a-lideranca-do-grupo-no-paulistao-feminino-sub-17",
-      "time": "24/05 · 21:20",
-      "pubDate": "Sun, 24 May 2026 18:20:00 -0300"
+      "title": "Memphis contrata profissional de marketing para ajudar Corinthians em projeto por permanência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533662/memphis-contrata-profissional-de-marketing-para-ajudar-corinthians-em-projeto-por-permanencia",
+      "time": "25/05 · 11:19",
+      "pubDate": "Mon, 25 May 2026 08:19:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vê Memphis se aproximar de patrocinadora e corre contra o tempo por renovação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533604/corinthians-ve-memphis-se-aproximar-de-patrocinadora-e-corre-contra-o-tempo-por-renovacao",
-      "time": "24/05 · 20:55",
-      "pubDate": "Sun, 24 May 2026 17:55:00 -0300"
+      "title": "Últimas do Corinthians: vitória no Brasileirão, tratativas por Memphis e recorde de público no NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533657/ultimas-do-corinthians-vitoria-no-brasileirao-tratativas-por-memphis-e-recorde-de-publico-no-nbb",
+      "time": "25/05 · 10:30",
+      "pubDate": "Mon, 25 May 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para encarar o Mixto pelo Brasileirão Feminino; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533603/corinthians-encerra-preparacao-para-encarar-o-mixto-pelo-brasileirao-feminino-veja-o-provavel-time",
-      "time": "24/05 · 20:48",
-      "pubDate": "Sun, 24 May 2026 17:48:00 -0300"
+      "title": "Corinthians recebe o Mixto em busca de retomar a liderança do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533596/corinthians-recebe-o-mixto-em-busca-de-retomar-a-lideranca-do-brasileirao-feminino",
+      "time": "25/05 · 03:01",
+      "pubDate": "Mon, 25 May 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Memphis Depay é relacionado pelo Corinthians após dois meses longe dos gramados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533602/memphis-depay-e-relacionado-pelo-corinthians-apos-dois-meses-longe-dos-gramados",
-      "time": "24/05 · 20:30",
-      "pubDate": "Sun, 24 May 2026 17:30:00 -0300"
+      "title": "Técnico do Corinthians reconhece primeiro tempo taticamente abaixo, mas elogia a segunda etapa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533639/tecnico-do-corinthians-reconhece-primeiro-tempo-taticamente-abaixo-mas-elogia-a-segunda-etapa",
+      "time": "25/05 · 02:16",
+      "pubDate": "Sun, 24 May 2026 23:16:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Atlético Mineiro pelo Brasileirão na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533591/corinthians-esta-escalado-para-enfrentar-o-atletico-mineiro-pelo-brasileirao-na-neo-quimica-arena",
-      "time": "24/05 · 20:30",
-      "pubDate": "Sun, 24 May 2026 17:30:00 -0300"
+      "title": "Técnico do Corinthians revela conversas com Memphis e reforça desejo pela permanência do holandês",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533640/tecnico-do-corinthians-revela-conversas-com-memphis-e-reforca-desejo-pela-permanencia-do-holandes",
+      "time": "25/05 · 02:02",
+      "pubDate": "Sun, 24 May 2026 23:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Em recuperação, visitante ruim e reencontro: veja como o Atlético-MG encara o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533593/em-recuperacao-visitante-ruim-e-reencontro-veja-como-o-atletico-mg-encara-o-corinthians",
-      "time": "24/05 · 19:31",
-      "pubDate": "Sun, 24 May 2026 16:31:00 -0300"
+      "title": "VÍDEO: Análise do Corinthians, gol de Zakaria e volta de Memphis: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128034/analise-do-corinthians-gol-de-zakaria-e-volta-de-memphis-coletiva-de-fernando-diniz-no-corinthians",
+      "time": "25/05 · 01:54",
+      "pubDate": "Sun, 24 May 2026 22:54:28 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca ampliar retrospecto equilibrado contra o Atlético Mineiro; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533588/corinthians-busca-ampliar-retrospecto-equilibrado-contra-o-atletico-mineiro-veja-os-numeros",
-      "time": "24/05 · 18:36",
-      "pubDate": "Sun, 24 May 2026 15:36:00 -0300"
+      "title": "Corinthians define programação para Memphis antes da Copa do Mundo em meio à indefinição contratual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533646/corinthians-define-programacao-para-memphis-antes-da-copa-do-mundo-em-meio-a-indefinicao-contratual",
+      "time": "25/05 · 01:46",
+      "pubDate": "Sun, 24 May 2026 22:46:00 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz tenta evitar saídas no elenco do Corinthians durante a Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-tenta-evitar-saidas-no-elenco-do-corinthians-durante-a-copa-do-mundo]]>",
-      "time": "24/05 · 18:19",
-      "pubDate": "Sun, 24 May 2026 15:19:12 -0300"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ganha duas posições e sai do Z4 após vitória no Brasileirão; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533614/corinthians-ganha-duas-posicoes-e-sai-do-z4-apos-vitoria-no-brasileirao-veja-a-tabela",
+      "time": "25/05 · 01:29",
+      "pubDate": "Sun, 24 May 2026 22:29:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians define minutagem de Memphis Depay contra o Atlético-MG",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-minutagem-de-memphis-depay-contra-o-atletico-mg]]>",
-      "time": "24/05 · 17:55",
-      "pubDate": "Sun, 24 May 2026 14:55:54 -0300"
+      "time": "24/05 · 20:58",
+      "pubDate": "Sun, 24 May 2026 17:58:43 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians comenta segundo quarto ruim em derrota para o Pinheiros",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533568/ala-do-corinthians-comenta-segundo-quarto-ruim-em-derrota-para-o-pinheiros",
-      "time": "24/05 · 17:31",
-      "pubDate": "Sun, 24 May 2026 14:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz tenta evitar saídas no elenco do Corinthians durante a Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-tenta-evitar-saidas-no-elenco-do-corinthians-durante-a-copa-do-mundo]]>",
+      "time": "24/05 · 20:17",
+      "pubDate": "Sun, 24 May 2026 17:17:48 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,16 +200,46 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Saiba onde assistir à partida entre Corinthians e Atlético Mineiro pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533545/saiba-onde-assistir-a-partida-entre-corinthians-e-atletico-mineiro-pelo-brasileirao",
-      "pubDate": "Sun, 24 May 2026 08:30:00 -0300",
-      "date": "24/05 · 11:30"
+      "title": "VÍDEO: Primeiro gol na Arena! Labyad fala sobre sentimento com a fiel torcida e possível titularidade",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128036/primeiro-gol-na-arena-labyad-fala-sobre-sentimento-com-a-fiel-torcida-e-possivel-titularidade",
+      "pubDate": "Sun, 24 May 2026 22:57:13 -0300",
+      "date": "25/05 · 01:57"
     },
     {
-      "title": "VÍDEO: Osmar Stabile fala de dívida do Corinthians e modalidades esportivas do clube",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128003/osmar-stabile-fala-de-divida-do-corinthians-e-modalidades-esportivas-do-clube",
-      "pubDate": "Sat, 23 May 2026 22:18:00 -0300",
-      "date": "24/05 · 01:18"
+      "title": "VÍDEO: Análise do Corinthians, gol de Zakaria e volta de Memphis: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128034/analise-do-corinthians-gol-de-zakaria-e-volta-de-memphis-coletiva-de-fernando-diniz-no-corinthians",
+      "pubDate": "Sun, 24 May 2026 22:54:28 -0300",
+      "date": "25/05 · 01:54"
+    },
+    {
+      "title": "VÍDEO: Maycon fala sobre enfrentar o Corinthians na Neo Química, cita saída sem despedida e não renovação",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128031/maycon-fala-sobre-enfrentar-o-corinthians-na-neo-quimica-cita-saida-sem-despedida-e-nao-renovacao",
+      "pubDate": "Sun, 24 May 2026 22:26:57 -0300",
+      "date": "25/05 · 01:26"
+    },
+    {
+      "title": "VÍDEO: 150 jogos pelo Corinthians, vitória importante e muito mais | zona mista de Matheus Bidu",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128026/150-jogos-pelo-corinthians-vitoria-importante-e-muito-mais-zona-mista-de-matheus-bidu",
+      "pubDate": "Sun, 24 May 2026 22:08:34 -0300",
+      "date": "25/05 · 01:08"
+    },
+    {
+      "title": "Meia-atacante do Corinthians comemora gol marcado e pede mais minutos: 'Espero merecer mais'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533632/meia-atacante-do-corinthians-comemora-gol-marcado-e-pede-mais-minutos-espero-merecer-mais",
+      "pubDate": "Sun, 24 May 2026 21:04:00 -0300",
+      "date": "25/05 · 00:04"
+    },
+    {
+      "title": "Golaço de Labyad e fora do Z4: Fiel repercute a vitória sobre o Atlético Mineiro no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533631/golaco-de-labyad-e-fora-do-z4-fiel-repercute-a-vitoria-sobre-o-atletico-mineiro-no-brasileirao",
+      "pubDate": "Sun, 24 May 2026 20:58:00 -0300",
+      "date": "24/05 · 23:58"
+    },
+    {
+      "title": "VÍDEO: Melhores momentos: Corinthians 1x0 Atlético-MG | 17ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128012/melhores-momentos-corinthians-1x0-atletico-mg-17-rodada-brasileirao-2026",
+      "pubDate": "Sun, 24 May 2026 20:48:35 -0300",
+      "date": "24/05 · 23:48"
     }
   ]
 };
