@@ -1,134 +1,134 @@
-// Gerado automaticamente em 25/05/2026, 22:49:17
+// Gerado automaticamente em 26/05/2026, 14:29:52
 const LIVE_DATA = {
-  "updatedAt": "2026-05-25T22:49:17.681Z",
+  "updatedAt": "2026-05-26T14:29:52.988Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians destaca apoio da Fiel no primeiro gol na Arena e explica comemoração com Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533665/meia-do-corinthians-destaca-apoio-da-fiel-no-primeiro-gol-na-arena-e-explica-comemoracao-com-memphis",
-      "time": "25/05 · 22:32",
-      "pubDate": "Mon, 25 May 2026 19:32:00 -0300"
+      "title": "Corinthians tem adversário definido para as oitavas de final da Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533736/corinthians-tem-adversario-definido-para-as-oitavas-de-final-da-copa-do-brasil",
+      "time": "26/05 · 14:12",
+      "pubDate": "Tue, 26 May 2026 11:12:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança para renovar com Memphis antes da Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-para-renovar-com-memphis-antes-da-copa]]>",
+      "time": "26/05 · 13:38",
+      "pubDate": "Tue, 26 May 2026 10:38:55 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians enfrenta dificuldades para encontrar parceiro para renovar com Memphis",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-dificuldades-para-encontrar-parceiro-para-renovar-com-memphis]]>",
+      "time": "26/05 · 13:35",
+      "pubDate": "Tue, 26 May 2026 10:35:50 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcedores do Corinthians protestam a favor de expulsão de Andrés Sanchez no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533690/torcedores-do-corinthians-protestam-a-favor-de-expulsao-de-andres-sanchez-no-parque-sao-jorge",
-      "time": "25/05 · 22:11",
-      "pubDate": "Mon, 25 May 2026 19:11:00 -0300"
+      "title": "Gabi Nunes acompanha partida do Corinthians no Canindé em meio à investida do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533734/gabi-nunes-acompanha-partida-do-corinthians-no-caninde-em-meio-a-investida-do-clube",
+      "time": "26/05 · 13:31",
+      "pubDate": "Tue, 26 May 2026 10:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral comemora marca de 150 jogos com a camisa do Corinthians e fala sobre seu futuro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533670/lateral-comemora-marca-de-150-jogos-com-a-camisa-do-corinthians-e-fala-sobre-seu-futuro",
-      "time": "25/05 · 22:00",
-      "pubDate": "Mon, 25 May 2026 19:00:00 -0300"
+      "title": "Corinthians visita o Pinheiros para se manter vivo no NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533685/corinthians-visita-o-pinheiros-para-se-manter-vivo-no-nbb-saiba-tudo",
+      "time": "26/05 · 12:30",
+      "pubDate": "Tue, 26 May 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vitinho vive drama sério no Corinthians com duas lesões confirmadas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vitinho-vive-drama-serio-no-corinthians-com-duas-lesoes-confirmadas]]>",
+      "time": "26/05 · 11:47",
+      "pubDate": "Tue, 26 May 2026 08:47:20 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zakaria Labyad emplaca sequência de gols e quebra marca que durava desde janeiro no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533633/zakaria-labyad-emplaca-sequencia-de-gols-e-quebra-marca-que-durava-desde-janeiro-no-corinthians",
-      "time": "25/05 · 21:34",
-      "pubDate": "Mon, 25 May 2026 18:34:00 -0300"
+      "title": "Marcelo Paz atualiza renovação de Memphis e vê atacante engajado a elevar patamar do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533731/marcelo-paz-atualiza-renovacao-de-memphis-e-ve-atacante-engajado-a-elevar-patamar-do-corinthians",
+      "time": "26/05 · 11:38",
+      "pubDate": "Tue, 26 May 2026 08:38:17 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral completa 150 jogos com a camisa do Corinthians em vitória no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533673/lateral-completa-150-jogos-com-a-camisa-do-corinthians-em-vitoria-no-brasileirao",
-      "time": "25/05 · 21:07",
-      "pubDate": "Mon, 25 May 2026 18:07:00 -0300"
+      "title": "Corinthians conhece adversário das oitavas da Copa do Brasil nesta terça-feira; veja possibilidades",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533683/corinthians-conhece-adversario-das-oitavas-da-copa-do-brasil-nesta-terca-feira-veja-possibilidades",
+      "time": "26/05 · 11:32",
+      "pubDate": "Tue, 26 May 2026 08:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians trocará gramado da Neo Química Arena após a Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-trocara-gramado-da-neo-quimica-arena-apos-a-copa-do-mundo]]>",
+      "time": "26/05 · 10:58",
+      "pubDate": "Tue, 26 May 2026 07:58:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians elogia Zakaria Labyad e fala sobre integração de elenco global",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533642/tecnico-do-corinthians-elogia-zakaria-labyad-e-fala-sobre-integracao-de-elenco-global",
-      "time": "25/05 · 20:33",
-      "pubDate": "Mon, 25 May 2026 17:33:00 -0300"
+      "title": "Últimas do Corinthians: permanência de Memphis, expulsão de Andrés e trâmites por dívida de Garro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533719/ultimas-do-corinthians-permanencia-de-memphis-expulsao-de-andres-e-tramites-por-divida-de-garro",
+      "time": "26/05 · 10:30",
+      "pubDate": "Tue, 26 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians expulsa Andrés Sanchez de quadro associativo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-expulsa-andres-sanchez-de-quadro-associativo]]>",
+      "time": "26/05 · 10:08",
+      "pubDate": "Tue, 26 May 2026 07:08:51 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Platense: onde assistir ao vivo, horário e escalações do jogo desta quarta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-platense-onde-assistir-ao-vivo-jogo-libertadores-hoje-horario-transmissao-tv-internet-streaming-escalacoes]]>",
+      "time": "26/05 · 09:55",
+      "pubDate": "Tue, 26 May 2026 06:55:28 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Matheuzinho se isola como vice-líder em assistências do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533619/matheuzinho-se-isola-como-vice-lider-em-assistencias-do-corinthians-em-2026",
-      "time": "25/05 · 19:31",
-      "pubDate": "Mon, 25 May 2026 16:31:00 -0300"
+      "title": "Corinthians destrava negociação e encaminha novo acerto de dívida com Talleres por Rodrigo Garro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533720/corinthians-destrava-negociacao-e-encaminha-novo-acerto-de-divida-com-talleres-por-rodrigo-garro",
+      "time": "26/05 · 02:09",
+      "pubDate": "Mon, 25 May 2026 23:09:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians acerta acordo em dívida por Rodrigo Garro e evita novo transfer ban",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-acordo-em-divida-por-rodrigo-garro-e-evita-novo-transfer-ban]]>",
+      "time": "26/05 · 02:03",
+      "pubDate": "Mon, 25 May 2026 23:03:45 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Memphis Depay alcança ex-atacante argentino em número de jogos pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533667/memphis-depay-alcanca-ex-atacante-argentino-em-numero-de-jogos-pelo-corinthians",
-      "time": "25/05 · 19:05",
-      "pubDate": "Mon, 25 May 2026 16:05:00 -0300"
+      "title": "Corinthians tem grande primeiro tempo, derrota o Mixto e retoma liderança do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533718/corinthians-tem-grande-primeiro-tempo-derrota-o-mixto-e-retoma-lideranca-do-brasileirao-feminino",
+      "time": "26/05 · 01:59",
+      "pubDate": "Mon, 25 May 2026 22:59:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Diniz projeta Corinthians na pausa para a Copa do Mundo e faz pedido",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-projeta-corinthians-na-pausa-para-a-copa-do-mundo-e-faz-pedido]]>",
-      "time": "25/05 · 18:58",
-      "pubDate": "Mon, 25 May 2026 15:58:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Zakaria pede mais chance após segundo gol pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-pede-mais-chance-apos-segundo-gol-pelo-corinthians]]>",
-      "time": "25/05 · 17:35",
-      "pubDate": "Mon, 25 May 2026 14:35:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians entrega proposta de renovação e aguarda resposta de Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-entrega-proposta-de-renovacao-e-aguarda-resposta-de-memphis-depay]]>",
-      "time": "25/05 · 16:36",
-      "pubDate": "Mon, 25 May 2026 13:36:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Volta de Roger Guedes ao Corinthians não deve acontecer em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-roger-guedes-ao-corinthians-nao-deve-acontecer-em-2026]]>",
-      "time": "25/05 · 14:39",
-      "pubDate": "Mon, 25 May 2026 11:39:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians ajusta planejamento para Memphis caso ele seja convocado para a Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ajusta-planejamento-para-memphis-caso-ele-seja-convocado-para-a-copa-do-mundo]]>",
-      "time": "25/05 · 13:49",
-      "pubDate": "Mon, 25 May 2026 10:49:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay aceita salário de R$ 2,5 milhões e renovação com o Corinthians esquenta",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-aceita-salario-de-r-25-milhoes-e-renovacao-com-o-corinthians-esquenta]]>",
-      "time": "25/05 · 08:04",
-      "pubDate": "Mon, 25 May 2026 05:04:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Rafael Klein causa irritação na torcida do Corinthians por pênalti não marcado contra o Atlético-MG",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/rafael-klein-causa-irritacao-na-torcida-do-corinthians-por-penalti-nao-marcado-contra-o-atletico-mg]]>",
-      "time": "25/05 · 03:01",
-      "pubDate": "Mon, 25 May 2026 00:01:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gol de Labyad salva após atuação ofensiva fraca do Corinthians de Diniz diante do Atlético Mineiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-garante-vitoria-do-corinthians-em-jogo-fraco-ofensivamente]]>",
-      "time": "24/05 · 23:30",
-      "pubDate": "Sun, 24 May 2026 20:30:56 -0300"
+      "title": "Matheuzinho chega à terceira assistência na temporada e se isola no ranking do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-chega-a-terceira-assistencia-na-temporada-e-se-isola-no-ranking-do-corinthians]]>",
+      "time": "25/05 · 22:54",
+      "pubDate": "Mon, 25 May 2026 19:54:30 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,34 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Conselheiros do Corinthians comentam decisão do Conselho que expulsou Andrés Sanchez do clube",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128067/conselheiros-do-corinthians-comentam-decisao-do-conselho-que-expulsou-andres-sanchez-do-clube",
+      "pubDate": "Mon, 25 May 2026 22:37:18 -0300",
+      "date": "26/05 · 01:37"
+    },
+    {
+      "title": "VÍDEO: Leonardo Pantaleão fala sobre possível judicialização da expulsão de Andrés Sanchez do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128064/leonardo-pantaleao-fala-sobre-possivel-judicializacao-da-expulsao-de-andres-sanchez-do-corinthians",
+      "pubDate": "Mon, 25 May 2026 22:08:18 -0300",
+      "date": "26/05 · 01:08"
+    },
+    {
+      "title": "VÍDEO: Expulsão de Andrés: presidente dos Gaviões comenta decisão do conselho deliberativo do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128062/expulsao-de-andres-presidente-dos-gavioes-comenta-decisao-do-conselho-deliberativo-do-corinthians",
+      "pubDate": "Mon, 25 May 2026 21:47:35 -0300",
+      "date": "26/05 · 00:47"
+    },
+    {
+      "title": "VÍDEO: Torcida do corinthians comemora expulsão de Andrés Sanchez do clube",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128061/torcida-do-corinthians-comemora-expulsao-de-andres-sanchez-do-clube",
+      "pubDate": "Mon, 25 May 2026 21:00:18 -0300",
+      "date": "26/05 · 00:00"
+    },
+    {
+      "title": "VÍDEO: Aberração? Vice-presidente do Corinthians fala sobre decisões de Leonardo Pantaleão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128060/aberracao-vice-presidente-do-corinthians-fala-sobre-decisoes-de-leonardo-pantaleao",
+      "pubDate": "Mon, 25 May 2026 20:42:10 -0300",
+      "date": "25/05 · 23:42"
+    },
+    {
+      "title": "VÍDEO: Gritos pela expulsão! Protestos em frente ao Parque São Jorge exigem expulsão de Andrés Sanchez",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128056/gritos-pela-expulsao-protestos-em-frente-ao-parque-sao-jorge-exigem-expulsao-de-andres-sanchez",
+      "pubDate": "Mon, 25 May 2026 19:46:59 -0300",
+      "date": "25/05 · 22:46"
+    },
+    {
       "title": "Meia do Corinthians destaca apoio da Fiel no primeiro gol na Arena e explica comemoração com Memphis",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533665/meia-do-corinthians-destaca-apoio-da-fiel-no-primeiro-gol-na-arena-e-explica-comemoracao-com-memphis",
       "pubDate": "Mon, 25 May 2026 19:32:00 -0300",
       "date": "25/05 · 22:32"
     },
     {
-      "title": "Zakaria Labyad emplaca sequência de gols e quebra marca que durava desde janeiro no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533633/zakaria-labyad-emplaca-sequencia-de-gols-e-quebra-marca-que-durava-desde-janeiro-no-corinthians",
-      "pubDate": "Mon, 25 May 2026 18:34:00 -0300",
-      "date": "25/05 · 21:34"
-    },
-    {
-      "title": "Saiba onde assistir ao jogo entre Corinthians e Mixto pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533598/saiba-onde-assistir-ao-jogo-entre-corinthians-e-mixto-pelo-brasileirao-feminino",
-      "pubDate": "Mon, 25 May 2026 10:25:00 -0300",
-      "date": "25/05 · 13:25"
-    },
-    {
-      "title": "VÍDEO: Primeiro gol na Arena! Labyad fala sobre sentimento com a fiel torcida e possível titularidade",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128036/primeiro-gol-na-arena-labyad-fala-sobre-sentimento-com-a-fiel-torcida-e-possivel-titularidade",
-      "pubDate": "Sun, 24 May 2026 22:57:13 -0300",
-      "date": "25/05 · 01:57"
-    },
-    {
-      "title": "VÍDEO: Análise do Corinthians, gol de Zakaria e volta de Memphis: coletiva de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128034/analise-do-corinthians-gol-de-zakaria-e-volta-de-memphis-coletiva-de-fernando-diniz-no-corinthians",
-      "pubDate": "Sun, 24 May 2026 22:54:28 -0300",
-      "date": "25/05 · 01:54"
+      "title": "VÍDEO: 'Andrés ladrão': Torcida protesta em frente ao Parque São Jorge pela expulsão do ex-presidente",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128054/andres-ladrao-torcida-protesta-em-frente-ao-parque-sao-jorge-pela-expulsao-do-ex-presidente",
+      "pubDate": "Mon, 25 May 2026 18:41:00 -0300",
+      "date": "25/05 · 21:41"
     }
   ]
 };
