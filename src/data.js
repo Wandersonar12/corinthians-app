@@ -1,7 +1,47 @@
-// Gerado automaticamente em 27/05/2026, 11:25:51
+// Gerado automaticamente em 27/05/2026, 14:48:01
 const LIVE_DATA = {
-  "updatedAt": "2026-05-27T11:25:51.466Z",
+  "updatedAt": "2026-05-27T14:48:01.722Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima comenta rotação no elenco e disputa pela titularidade no gol do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533749/emily-lima-comenta-rotacao-no-elenco-e-disputa-pela-titularidade-no-gol-do-corinthians",
+      "time": "27/05 · 14:32",
+      "pubDate": "Wed, 27 May 2026 11:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians receberá valor diário da Fifa por convocação de Memphis à Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533852/corinthians-recebera-valor-diario-da-fifa-por-convocacao-de-memphis-a-copa-do-mundo",
+      "time": "27/05 · 14:01",
+      "pubDate": "Wed, 27 May 2026 11:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra árbitro de quedas doloridas na Libertadores; veja a escala",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533848/corinthians-reencontra-arbitro-de-quedas-doloridas-na-libertadores-veja-a-escala",
+      "time": "27/05 · 13:34",
+      "pubDate": "Wed, 27 May 2026 10:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis Depay é convocado pela Holanda e será o único representante do Corinthians na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533847/memphis-depay-e-convocado-pela-holanda-e-sera-o-unico-representante-do-corinthians-na-copa",
+      "time": "27/05 · 12:09",
+      "pubDate": "Wed, 27 May 2026 09:09:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Platense pela Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533765/saiba-onde-assistir-a-partida-entre-corinthians-e-platense-pela-copa-libertadores",
+      "time": "27/05 · 11:33",
+      "pubDate": "Wed, 27 May 2026 08:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,20 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Tue, 26 May 2026 22:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é dominado pelo Pinheiros e dá adeus ao NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533757/corinthians-e-dominado-pelo-pinheiros-e-da-adeus-ao-nbb",
-      "time": "27/05 · 01:25",
-      "pubDate": "Tue, 26 May 2026 22:25:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vê cenário por João Paulo mudar após decisão no Santos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-cenario-por-joao-paulo-mudar-apos-decisao-no-santos]]>",
+      "time": "27/05 · 01:27",
+      "pubDate": "Tue, 26 May 2026 22:27:05 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Matheus Bidu prega foco no Corinthians em meio a rumores de desmanche no elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533671/matheus-bidu-prega-foco-no-corinthians-em-meio-a-rumores-de-desmanche-no-elenco",
-      "time": "27/05 · 00:33",
-      "pubDate": "Tue, 26 May 2026 21:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida do Corinthians critica ausência de Labyad por Marrocos na Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-critica-ausencia-de-labyad-por-marrocos-na-copa-do-mundo]]>",
+      "time": "27/05 · 00:09",
+      "pubDate": "Tue, 26 May 2026 21:09:48 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -49,30 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
       "time": "27/05 · 00:00",
       "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Memphis titular? Confira a provável escalação do Corinthians para enfrentar o Platense",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128079/memphis-titular-confira-a-provavel-escalacao-do-corinthians-para-enfrentar-o-platense",
-      "time": "26/05 · 23:35",
-      "pubDate": "Tue, 26 May 2026 20:35:01 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem nova líder de assistências no ano após goleada sobre o Mixto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533732/corinthians-tem-nova-lider-de-assistencias-no-ano-apos-goleada-sobre-o-mixto",
-      "time": "26/05 · 23:35",
-      "pubDate": "Tue, 26 May 2026 20:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians é anunciado por time de Fut7",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533772/ex-atacante-do-corinthians-e-anunciado-por-time-de-fut7",
-      "time": "26/05 · 23:06",
-      "pubDate": "Tue, 26 May 2026 20:06:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -117,14 +133,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians vê cenário por João Paulo mudar após decisão no Santos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-cenario-por-joao-paulo-mudar-apos-decisao-no-santos]]>",
-      "time": "26/05 · 20:23",
-      "pubDate": "Tue, 26 May 2026 17:23:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Roger Guedes de volta ao Corinthians acontecerá em 2027, afirma Thiago Rodrigues sobre bastidor",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-de-volta-ao-corinthians-acontecera-em-2027-afirma-thiago-rodrigues-sobre-bastidor]]>",
       "time": "26/05 · 20:20",
@@ -163,14 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians enfrenta dificuldades para encontrar parceiro para renovar com Memphis",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-enfrenta-dificuldades-para-encontrar-parceiro-para-renovar-com-memphis]]>",
-      "time": "26/05 · 13:35",
-      "pubDate": "Tue, 26 May 2026 10:35:50 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Emily Lima comenta rotação no elenco e disputa pela titularidade no gol do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533749/emily-lima-comenta-rotacao-no-elenco-e-disputa-pela-titularidade-no-gol-do-corinthians",
+      "pubDate": "Wed, 27 May 2026 11:32:00 -0300",
+      "date": "27/05 · 14:32"
+    },
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Platense pela Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533765/saiba-onde-assistir-a-partida-entre-corinthians-e-platense-pela-copa-libertadores",
+      "pubDate": "Wed, 27 May 2026 08:33:00 -0300",
+      "date": "27/05 · 11:33"
+    },
     {
       "title": "Corinthians tem primeira jogadora expulsa na temporada em goleada contra Mixto no Brasileirão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533728/corinthians-tem-primeira-jogadora-expulsa-na-temporada-em-goleada-contra-mixto-no-brasileirao",
