@@ -1,78 +1,102 @@
-// Gerado automaticamente em 27/05/2026, 14:48:01
+// Gerado automaticamente em 27/05/2026, 19:54:38
 const LIVE_DATA = {
-  "updatedAt": "2026-05-27T14:48:01.722Z",
+  "updatedAt": "2026-05-27T19:54:38.181Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Emily Lima comenta rotação no elenco e disputa pela titularidade no gol do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533749/emily-lima-comenta-rotacao-no-elenco-e-disputa-pela-titularidade-no-gol-do-corinthians",
-      "time": "27/05 · 14:32",
-      "pubDate": "Wed, 27 May 2026 11:32:00 -0300"
+      "title": "Corinthians tenta superar retrospecto ruim contra argentinos na Libertadores diante do Platense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533858/corinthians-tenta-superar-retrospecto-ruim-contra-argentinos-na-libertadores-diante-do-platense",
+      "time": "27/05 · 19:31",
+      "pubDate": "Wed, 27 May 2026 16:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians receberá valor diário da Fifa por convocação de Memphis à Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533852/corinthians-recebera-valor-diario-da-fifa-por-convocacao-de-memphis-a-copa-do-mundo",
-      "time": "27/05 · 14:01",
-      "pubDate": "Wed, 27 May 2026 11:01:00 -0300"
+      "title": "Executivo do Corinthians minimiza não convocação de Hugo Souza à Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533753/executivo-do-corinthians-minimiza-nao-convocacao-de-hugo-souza-a-selecao-brasileira",
+      "time": "27/05 · 19:05",
+      "pubDate": "Wed, 27 May 2026 16:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians reencontra árbitro de quedas doloridas na Libertadores; veja a escala",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533848/corinthians-reencontra-arbitro-de-quedas-doloridas-na-libertadores-veja-a-escala",
-      "time": "27/05 · 13:34",
-      "pubDate": "Wed, 27 May 2026 10:34:00 -0300"
+      "title": "Joia da base celebra recuperação e projeta retorno ao Corinthians no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533866/gui-amorim-celebra-recuperacao-e-projeta-retorno-ao-corinthians-no-brasileirao-sub-20",
+      "time": "27/05 · 18:41",
+      "pubDate": "Wed, 27 May 2026 15:41:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Memphis Depay é convocado pela Holanda e será o único representante do Corinthians na Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533847/memphis-depay-e-convocado-pela-holanda-e-sera-o-unico-representante-do-corinthians-na-copa",
-      "time": "27/05 · 12:09",
-      "pubDate": "Wed, 27 May 2026 09:09:00 -0300"
+      "title": "Corinthians reforma gramado da Fazendinha e estipula prazo para conclusão; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533865/corinthians-reforma-gramado-da-fazendinha-e-estipula-prazo-para-conclusao-saiba-mais",
+      "time": "27/05 · 18:27",
+      "pubDate": "Wed, 27 May 2026 15:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Platense pela Copa Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533765/saiba-onde-assistir-a-partida-entre-corinthians-e-platense-pela-copa-libertadores",
-      "time": "27/05 · 11:33",
-      "pubDate": "Wed, 27 May 2026 08:33:00 -0300"
+      "title": "Corinthians pode terminar em segundo na classificação geral da Libertadores; veja os cenários",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533853/corinthians-pode-terminar-em-segundo-na-classificacao-geral-da-libertadores-veja-os-cenarios",
+      "time": "27/05 · 17:32",
+      "pubDate": "Wed, 27 May 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: adversário na Copa do Brasil, contrato de Memphis e provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533780/ultimas-do-corinthians-adversario-na-copa-do-brasil-contrato-de-memphis-e-provavel-escalacao",
-      "time": "27/05 · 10:30",
-      "pubDate": "Wed, 27 May 2026 07:30:00 -0300"
+      "title": "Atacante do Corinthians alcança feito inédito entre jogadores do Brasileirão em Copas do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533859/atacante-do-corinthians-alcanca-feito-inedito-entre-jogadores-do-brasileirao-em-copas-do-mundo",
+      "time": "27/05 · 17:01",
+      "pubDate": "Wed, 27 May 2026 14:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Platense em despedida da fase de grupos da Libertadores; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533763/corinthians-enfrenta-o-platense-em-despedida-da-fase-de-grupos-da-libertadores-saiba-tudo",
-      "time": "27/05 · 03:01",
-      "pubDate": "Wed, 27 May 2026 00:01:00 -0300"
+      "title": "Corinthians tenta alcançar sétima vitória consecutiva na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533767/corinthians-tenta-alcancar-setima-vitoria-consecutiva-na-neo-quimica-arena",
+      "time": "27/05 · 16:33",
+      "pubDate": "Wed, 27 May 2026 13:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem primeira jogadora expulsa na temporada em goleada contra Mixto no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533728/corinthians-tem-primeira-jogadora-expulsa-na-temporada-em-goleada-contra-mixto-no-brasileirao",
-      "time": "27/05 · 01:30",
-      "pubDate": "Tue, 26 May 2026 22:30:00 -0300"
+      "title": "Corinthians tem cinco desfalques para enfrentar o Platense pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533849/corinthians-tem-cinco-desfalques-para-enfrentar-o-platense-pela-libertadores",
+      "time": "27/05 · 15:31",
+      "pubDate": "Wed, 27 May 2026 12:31:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians vê cenário por João Paulo mudar após decisão no Santos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-cenario-por-joao-paulo-mudar-apos-decisao-no-santos]]>",
-      "time": "27/05 · 01:27",
-      "pubDate": "Tue, 26 May 2026 22:27:05 -0300"
+      "title": "Ronald Koeman antecipa titularidade de Memphis Depay no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ronald-koeman-antecipa-titularidade-de-memphis-depay-no-corinthians]]>",
+      "time": "27/05 · 14:42",
+      "pubDate": "Wed, 27 May 2026 11:42:46 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians busca segunda melhor campanha da Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-segunda-melhor-campanha-da-libertadores]]>",
+      "time": "27/05 · 13:36",
+      "pubDate": "Wed, 27 May 2026 10:36:14 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Zakaria Labyad cresce no Corinthians e ganha moral nos bastidores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-cresce-no-corinthians-e-ganha-moral-nos-bastidores]]>",
+      "time": "27/05 · 12:17",
+      "pubDate": "Wed, 27 May 2026 09:17:37 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não tem negociações em andamento por Fabricio Bustos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tem-negociacoes-em-andamento-por-fabricio-bustos]]>",
+      "time": "27/05 · 11:57",
+      "pubDate": "Wed, 27 May 2026 08:57:14 -0300"
     },
     {
       "source": "Bolavip",
@@ -137,30 +161,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-de-volta-ao-corinthians-acontecera-em-2027-afirma-thiago-rodrigues-sobre-bastidor]]>",
       "time": "26/05 · 20:20",
       "pubDate": "Tue, 26 May 2026 17:20:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians venceu apenas quatro dos últimos dez jogos oficiais em casa contra times argentinos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-possui-apenas-50-contra-argentinos-recentemente-em-casa]]>",
-      "time": "26/05 · 19:29",
-      "pubDate": "Tue, 26 May 2026 16:29:01 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz afirma que Corinthians não negocia volta de Róger Guedes",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-afirma-que-corinthians-nao-negocia-volta-de-roger-guedes]]>",
-      "time": "26/05 · 18:38",
-      "pubDate": "Tue, 26 May 2026 15:38:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay aguarda convocação e pode se despedir do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-aguarda-convocacao-e-pode-se-despedir-do-corinthians]]>",
-      "time": "26/05 · 18:27",
-      "pubDate": "Tue, 26 May 2026 15:27:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -240,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533726/corinthians-tem-novo-podio-de-artilheiras-no-ano-apos-goleada-no-brasileiro-feminino-veja-o-ranking",
       "pubDate": "Tue, 26 May 2026 17:00:00 -0300",
       "date": "26/05 · 20:00"
-    },
-    {
-      "title": "Técnica cobra mais atitude do Corinthians e expõe 'sentimento de derrota' mesmo após goleada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533755/tecnica-cobra-mais-atitude-de-elenco-do-corinthians-e-expoe-sentimento-de-derrota-apos-goleada",
-      "pubDate": "Tue, 26 May 2026 13:01:00 -0300",
-      "date": "26/05 · 16:01"
     }
   ]
 };
