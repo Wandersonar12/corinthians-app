@@ -1,7 +1,47 @@
-// Gerado automaticamente em 27/05/2026, 19:54:38
+// Gerado automaticamente em 27/05/2026, 23:06:44
 const LIVE_DATA = {
-  "updatedAt": "2026-05-27T19:54:38.181Z",
+  "updatedAt": "2026-05-27T23:06:44.274Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima celebra evolução de Duda Mineira no Corinthians, em temporada com recorde de minutagem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533748/emily-lima-celebra-evolucao-de-duda-mineira-no-corinthians-em-temporada-com-recorde-de-minutagem",
+      "time": "27/05 · 22:31",
+      "pubDate": "Wed, 27 May 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz primeiro treino visando clássico contra o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533875/corinthians-faz-primeiro-treino-visando-classico-contra-o-palmeiras",
+      "time": "27/05 · 21:52",
+      "pubDate": "Wed, 27 May 2026 18:52:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Inconsistência e 'jogo da vida' na Libertadores: veja como chega o Platense contra o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533861/inconsistencia-e-jogo-da-vida-na-libertadores-veja-como-chega-o-platense-contra-o-corinthians",
+      "time": "27/05 · 21:32",
+      "pubDate": "Wed, 27 May 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians destaca força do elenco e celebra minutagem no Paulistão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533759/atacante-do-corinthians-destaca-forca-do-elenco-e-celebra-minutagem-no-paulistao",
+      "time": "27/05 · 20:33",
+      "pubDate": "Wed, 27 May 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inaugura duas novas lojas oficiais em São Paulo; confira locais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533869/corinthians-inaugura-duas-novas-lojas-oficiais-em-sao-paulo-confira-locais",
+      "time": "27/05 · 20:04",
+      "pubDate": "Wed, 27 May 2026 17:04:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,76 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 27 May 2026 15:41:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians reforma gramado da Fazendinha e estipula prazo para conclusão; saiba mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533865/corinthians-reforma-gramado-da-fazendinha-e-estipula-prazo-para-conclusao-saiba-mais",
-      "time": "27/05 · 18:27",
-      "pubDate": "Wed, 27 May 2026 15:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode terminar em segundo na classificação geral da Libertadores; veja os cenários",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533853/corinthians-pode-terminar-em-segundo-na-classificacao-geral-da-libertadores-veja-os-cenarios",
-      "time": "27/05 · 17:32",
-      "pubDate": "Wed, 27 May 2026 14:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians alcança feito inédito entre jogadores do Brasileirão em Copas do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533859/atacante-do-corinthians-alcanca-feito-inedito-entre-jogadores-do-brasileirao-em-copas-do-mundo",
-      "time": "27/05 · 17:01",
-      "pubDate": "Wed, 27 May 2026 14:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta alcançar sétima vitória consecutiva na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533767/corinthians-tenta-alcancar-setima-vitoria-consecutiva-na-neo-quimica-arena",
-      "time": "27/05 · 16:33",
-      "pubDate": "Wed, 27 May 2026 13:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem cinco desfalques para enfrentar o Platense pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533849/corinthians-tem-cinco-desfalques-para-enfrentar-o-platense-pela-libertadores",
-      "time": "27/05 · 15:31",
-      "pubDate": "Wed, 27 May 2026 12:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Ronald Koeman antecipa titularidade de Memphis Depay no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ronald-koeman-antecipa-titularidade-de-memphis-depay-no-corinthians]]>",
-      "time": "27/05 · 14:42",
-      "pubDate": "Wed, 27 May 2026 11:42:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians busca segunda melhor campanha da Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-segunda-melhor-campanha-da-libertadores]]>",
-      "time": "27/05 · 13:36",
-      "pubDate": "Wed, 27 May 2026 10:36:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Zakaria Labyad cresce no Corinthians e ganha moral nos bastidores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-cresce-no-corinthians-e-ganha-moral-nos-bastidores]]>",
-      "time": "27/05 · 12:17",
-      "pubDate": "Wed, 27 May 2026 09:17:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não tem negociações em andamento por Fabricio Bustos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tem-negociacoes-em-andamento-por-fabricio-bustos]]>",
-      "time": "27/05 · 11:57",
-      "pubDate": "Wed, 27 May 2026 08:57:14 -0300"
+      "title": "Corinthians vê cenário por João Paulo mudar após decisão no Santos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ve-cenario-por-joao-paulo-mudar-apos-decisao-no-santos]]>",
+      "time": "27/05 · 01:27",
+      "pubDate": "Tue, 26 May 2026 22:27:05 -0300"
     },
     {
       "source": "Bolavip",
@@ -161,6 +137,30 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-de-volta-ao-corinthians-acontecera-em-2027-afirma-thiago-rodrigues-sobre-bastidor]]>",
       "time": "26/05 · 20:20",
       "pubDate": "Tue, 26 May 2026 17:20:54 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians venceu apenas quatro dos últimos dez jogos oficiais em casa contra times argentinos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-possui-apenas-50-contra-argentinos-recentemente-em-casa]]>",
+      "time": "26/05 · 19:29",
+      "pubDate": "Tue, 26 May 2026 16:29:01 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz afirma que Corinthians não negocia volta de Róger Guedes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-afirma-que-corinthians-nao-negocia-volta-de-roger-guedes]]>",
+      "time": "26/05 · 18:38",
+      "pubDate": "Tue, 26 May 2026 15:38:07 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay aguarda convocação e pode se despedir do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-aguarda-convocacao-e-pode-se-despedir-do-corinthians]]>",
+      "time": "26/05 · 18:27",
+      "pubDate": "Tue, 26 May 2026 15:27:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -228,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533732/corinthians-tem-nova-lider-de-assistencias-no-ano-apos-goleada-sobre-o-mixto",
       "pubDate": "Tue, 26 May 2026 20:35:00 -0300",
       "date": "26/05 · 23:35"
-    },
-    {
-      "title": "Atacante do Corinthians celebra bom momento e destaca instabilidade do time em partidas recentes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533758/atacante-do-corinthians-celebra-bom-momento-e-destaca-instabilidade-do-time-em-partidas-recentes",
-      "pubDate": "Tue, 26 May 2026 18:36:00 -0300",
-      "date": "26/05 · 21:36"
-    },
-    {
-      "title": "Corinthians tem novo pódio de artilheiras no ano após goleada no Brasileiro Feminino; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533726/corinthians-tem-novo-podio-de-artilheiras-no-ano-apos-goleada-no-brasileiro-feminino-veja-o-ranking",
-      "pubDate": "Tue, 26 May 2026 17:00:00 -0300",
-      "date": "26/05 · 20:00"
     }
   ]
 };
