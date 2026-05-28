@@ -1,38 +1,70 @@
-// Gerado automaticamente em 28/05/2026, 14:58:57
+// Gerado automaticamente em 28/05/2026, 20:00:39
 const LIVE_DATA = {
-  "updatedAt": "2026-05-28T14:58:57.042Z",
+  "updatedAt": "2026-05-28T20:00:39.635Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians divulga informações de ingressos para visitantes diante do Grêmio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533914/corinthians-divulga-informacoes-de-ingressos-para-visitantes-diante-do-gremio",
-      "time": "28/05 · 14:28",
-      "pubDate": "Thu, 28 May 2026 11:28:00 -0300"
+      "title": "Entenda por que Memphis Depay usou faixa com número 80 em jogo do Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533952/entenda-por-que-memphis-depay-usou-faixa-com-numero-80-em-jogo-do-corinthians-na-libertadores",
+      "time": "28/05 · 19:42",
+      "pubDate": "Thu, 28 May 2026 16:42:31 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians projeta Dérbi pela Copa do Brasil e vê grupo bem preparado para decisão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533760/atacante-do-corinthians-projeta-derbi-pela-copa-do-brasil-e-ve-grupo-bem-preparado-para-decisao",
-      "time": "28/05 · 13:31",
-      "pubDate": "Thu, 28 May 2026 10:31:00 -0300"
+      "title": "Técnico do Corinthians lamenta falta de efetividade ofensiva e aponta necessidade de evolução",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533920/tecnico-do-corinthians-lamenta-falta-de-efetividade-ofensiva-e-aponta-necessidade-de-evolucao",
+      "time": "28/05 · 19:31",
+      "pubDate": "Thu, 28 May 2026 16:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Santo André para manter 100% no Paulista de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533874/corinthians-visita-o-santo-andre-para-manter-100-por-cento-no-paulista-de-futsal-saiba-tudo",
-      "time": "28/05 · 12:30",
-      "pubDate": "Thu, 28 May 2026 09:30:00 -0300"
+      "title": "Meia-atacante é liberado pelo Corinthians e vira desfalque contra o Grêmio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533950/meia-atacante-e-liberado-pelo-corinthians-e-vira-desfalque-contra-o-gremio",
+      "time": "28/05 · 19:16",
+      "pubDate": "Thu, 28 May 2026 16:16:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Red Bull Bragantino de olho no G8 do Brasileirão Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533873/corinthians-visita-o-red-bull-bragantino-de-olho-no-g8-do-brasileirao-sub-20-saiba-tudo",
-      "time": "28/05 · 11:30",
-      "pubDate": "Thu, 28 May 2026 08:30:00 -0300"
+      "title": "Corinthians conhece detalhes da disputa pelo sétimo título do Paulista de Fut7",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533864/corinthians-conhece-detalhes-da-disputa-pelo-setimo-titulo-do-paulista-de-fut7",
+      "time": "28/05 · 19:02",
+      "pubDate": "Thu, 28 May 2026 16:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gerente responsável por empresa de segurança irregular segue ativo no Corinthians; clube se defende",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533945/gerente-responsavel-por-empresa-de-seguranca-irregular-segue-ativo-no-corinthians-clube-se-defende",
+      "time": "28/05 · 18:24",
+      "pubDate": "Thu, 28 May 2026 15:24:24 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para jogo contra o Indaiatuba pelo Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533942/corinthians-inicia-venda-de-ingressos-para-jogo-contra-o-indaiatuba-pelo-paulista-de-futsal",
+      "time": "28/05 · 18:00",
+      "pubDate": "Thu, 28 May 2026 15:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece grupos e detalhes do Talentos LNF 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533939/corinthians-conhece-grupos-e-detalhes-do-talentos-lnf-2026",
+      "time": "28/05 · 17:01",
+      "pubDate": "Thu, 28 May 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians marca dois amistosos contra a seleção sub-23 dos Estados Unidos durante pausa da Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533941/corinthians-marca-dois-amistosos-contra-a-selecao-sub-23-dos-estados-unidos-durante-pausa-da-copa",
+      "time": "28/05 · 16:17",
+      "pubDate": "Thu, 28 May 2026 13:17:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -51,14 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 28 May 2026 07:59:10 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: derrota na Libertadores, convocação da Holanda e declaração de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533917/ultimas-do-corinthians-derrota-na-libertadores-convocacao-da-holanda-e-declaracao-de-memphis",
-      "time": "28/05 · 10:30",
-      "pubDate": "Thu, 28 May 2026 07:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz assume erro na Libertadores e desabafa após derrota do Corinthians",
@@ -75,36 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 28 May 2026 01:59:56 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Preocupa? Fernando Diniz avalia desempenho do Corinthians em jogo contra o Platense",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128095/preocupa-fernando-diniz-avalia-desempenho-do-corinthians-em-jogo-contra-o-platense",
-      "time": "28/05 · 04:32",
-      "pubDate": "Thu, 28 May 2026 01:32:33 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Diniz sai em defesa de Yuri Alberto após vaias ao atacante em derrota do Corinthians: “Tem casca”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-sai-em-defesa-de-yuri-alberto-apos-vaias-ao-atacante-em-derrota-do-corinthians-tem-casca]]>",
       "time": "28/05 · 04:30",
       "pubDate": "Thu, 28 May 2026 01:30:03 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians assume responsabilidade por derrota em casa e explica titularidade de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533912/tecnico-do-corinthians-assume-responsabilidade-por-derrota-em-casa-e-explica-titularidade-de-memphis",
-      "time": "28/05 · 04:15",
-      "pubDate": "Thu, 28 May 2026 01:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz comenta vaias a atacante do Corinthians após derrota na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533913/fernando-diniz-comenta-vaias-a-atacante-do-corinthians-apos-derrota-na-libertadores",
-      "time": "28/05 · 04:06",
-      "pubDate": "Thu, 28 May 2026 01:06:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Fernando Diniz sai em defesa de Hugo Souza após falhas e projeta goleiro do Corinthians na Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533922/fernando-diniz-sai-em-defesa-de-hugo-souza-apos-falhas-e-projeta-goleiro-do-corinthians-na-selecao",
+      "pubDate": "Thu, 28 May 2026 12:31:00 -0300",
+      "date": "28/05 · 15:31"
+    },
     {
       "title": "VÍDEO: Preocupa? Fernando Diniz avalia desempenho do Corinthians em jogo contra o Platense",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128095/preocupa-fernando-diniz-avalia-desempenho-do-corinthians-em-jogo-contra-o-platense",
