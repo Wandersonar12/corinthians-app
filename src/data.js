@@ -1,7 +1,63 @@
-// Gerado automaticamente em 28/05/2026, 23:04:43
+// Gerado automaticamente em 29/05/2026, 11:00:46
 const LIVE_DATA = {
-  "updatedAt": "2026-05-28T23:04:43.369Z",
+  "updatedAt": "2026-05-29T11:00:46.240Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: renuncia de Duilio, liberação de meia e ação de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533976/ultimas-do-corinthians-renuncia-de-duilio-liberacao-de-meia-e-acao-de-memphis",
+      "time": "29/05 · 10:30",
+      "pubDate": "Fri, 29 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Organizada do Corinthians se manifesta após renúncia de Duílio Monteiro Alves ao título de sócio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533975/organizada-do-corinthians-se-manifesta-apos-renuncia-de-duilio-monteiro-alves-ao-titulo-de-socio",
+      "time": "29/05 · 01:33",
+      "pubDate": "Thu, 28 May 2026 22:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians analisa tropeço na Libertadores e minimiza erros de Hugo Souza",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533930/atacante-do-corinthians-analisa-tropeco-na-libertadores-e-minimiza-erros-de-hugo-souza",
+      "time": "29/05 · 01:31",
+      "pubDate": "Thu, 28 May 2026 22:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians empata com o Santo André em jogo equilibrado pelo Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533963/corinthians-empata-com-o-santo-andre-em-jogo-equilibrado-pelo-paulista-de-futsal",
+      "time": "29/05 · 00:47",
+      "pubDate": "Thu, 28 May 2026 21:47:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians piora retrospecto contra clubes argentinos após derrota para o Platense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533902/corinthians-piora-retrospecto-contra-clubes-argentinos-apos-derrota-para-o-platense",
+      "time": "29/05 · 00:36",
+      "pubDate": "Thu, 28 May 2026 21:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz demonstra confiança na permanência de Memphis e pede reforços pontuais no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533919/fernando-diniz-demonstra-confianca-na-permanencia-de-memphis-e-pede-reforcos-pontuais-no-corinthians",
+      "time": "28/05 · 23:33",
+      "pubDate": "Thu, 28 May 2026 20:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians é convocado pelo Peru para amistosos em junho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533972/meio-campista-do-corinthians-e-convocado-pelo-peru-para-amistosos-em-junho",
+      "time": "28/05 · 23:17",
+      "pubDate": "Thu, 28 May 2026 20:17:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,76 +67,36 @@ const LIVE_DATA = {
       "pubDate": "Thu, 28 May 2026 20:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians repete feito negativo de 2006 após derrota para o Platense na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533903/corinthians-repete-feito-negativo-de-2006-apos-derrota-para-o-platense-na-neo-quimica-arena",
-      "time": "28/05 · 22:32",
-      "pubDate": "Thu, 28 May 2026 19:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis usa bandana com número 80 em jogo do Corinthians e motivo é campanha de marketing",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-usa-bandana-com-numero-80-em-jogo-do-corinthians-e-motivo-e-campanha-de-marketing]]>",
+      "time": "28/05 · 22:34",
+      "pubDate": "Thu, 28 May 2026 19:34:31 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians promove encontro sobre integridade e proteção de jovens atletas no Maio Laranja",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533956/corinthians-promove-encontro-sobre-integridade-e-protecao-de-jovens-atletas-no-maio-laranja",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Duílio Monteiro renuncia ao cargo de conselheiro do Corinthians em momento de pressão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/duilio-monteiro-renuncia-ao-cargo-de-conselheiro-do-corinthians-em-momento-de-pressao]]>",
       "time": "28/05 · 22:02",
-      "pubDate": "Thu, 28 May 2026 19:02:00 -0300"
+      "pubDate": "Thu, 28 May 2026 19:02:06 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Duilio Monteiro Alves renuncia ao título de associado do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533969/duilio-monteiro-alves-renuncia-ao-titulo-de-associado-do-corinthians",
-      "time": "28/05 · 21:52",
-      "pubDate": "Thu, 28 May 2026 18:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians negocia patrocínio que pode 'salvar' temporada do futebol feminino e outras modalidades",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533959/corinthians-negocia-patrocinio-que-pode-salvar-temporada-do-futebol-feminino-e-outras-modalidades",
-      "time": "28/05 · 21:30",
-      "pubDate": "Thu, 28 May 2026 18:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia preparação para enfrentar o Grêmio no último duelo antes da Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533962/corinthians-inicia-preparacao-para-enfrentar-o-gremio-no-ultimo-duelo-antes-da-copa-do-mundo",
-      "time": "28/05 · 21:05",
-      "pubDate": "Thu, 28 May 2026 18:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians retorna aos treinamentos com o grupo às vésperas de Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533958/dupla-do-corinthians-retorna-aos-treinamentos-com-o-grupo-as-vesperas-de-derbi",
-      "time": "28/05 · 20:07",
-      "pubDate": "Thu, 28 May 2026 17:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre empate com um a menos e gol de mão do RB Bragantino no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533944/corinthians-sofre-empate-com-um-a-menos-e-gol-de-mao-do-rb-bragantino-no-brasileiro-sub-20",
-      "time": "28/05 · 20:06",
-      "pubDate": "Thu, 28 May 2026 17:06:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians amplia problemas e perde Lingard para último jogo antes da Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-perde-lingard-para-ultimo-jogo-antes-da-copa-do-mundo]]>",
+      "time": "28/05 · 21:06",
+      "pubDate": "Thu, 28 May 2026 18:06:48 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians encaminha renovação com Memphis Depay até 2028 e anúncio pode acontecer antes da Copa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-depay-2028]]>",
-      "time": "28/05 · 20:00",
-      "pubDate": "Thu, 28 May 2026 17:00:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz assume erro na Libertadores e desabafa após derrota do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-assume-erro-na-libertadores-e-desabafa-apos-derrota-do-corinthians]]>",
-      "time": "28/05 · 16:55",
-      "pubDate": "Thu, 28 May 2026 13:55:01 -0300"
+      "time": "28/05 · 20:37",
+      "pubDate": "Thu, 28 May 2026 17:37:47 -0300"
     },
     {
       "source": "Bolavip",
@@ -109,26 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Hugo Souza recebe decisão no vestiário do Corinthians e tem apoio do elenco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-recebe-decisao-no-vestiario-do-corinthians-e-tem-apoio-do-elenco]]>",
-      "time": "28/05 · 13:39",
-      "pubDate": "Thu, 28 May 2026 10:39:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians pode receber mais de R$ 2 milhões com presença de Memphis na Copa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-receber-mais-de-r-2-milhoes-com-presenca-de-memphis-na-copa]]>",
       "time": "28/05 · 12:50",
       "pubDate": "Thu, 28 May 2026 09:50:23 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay freia animação ao falar sobre futuro no Corinthians: “Não é tão fácil”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-freia-animacao-ao-falar-sobre-futuro-no-corinthians-nao-e-tao-facil]]>",
-      "time": "28/05 · 04:59",
-      "pubDate": "Thu, 28 May 2026 01:59:56 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Sorteio das oitavas de final da Libertadores 2026: horário, onde assistir e classificados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533967/sorteio-das-oitavas-de-final-da-libertadores-2026-horario-onde-assistir-e-classificados",
+      "pubDate": "Thu, 28 May 2026 23:30:00 -0300",
+      "date": "29/05 · 02:30"
+    },
+    {
       "title": "Corinthians sofre empate com um a menos e gol de mão do RB Bragantino no Brasileiro Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533944/corinthians-sofre-empate-com-um-a-menos-e-gol-de-mao-do-rb-bragantino-no-brasileiro-sub-20",
       "pubDate": "Thu, 28 May 2026 17:06:00 -0300",
@@ -210,18 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533922/fernando-diniz-sai-em-defesa-de-hugo-souza-apos-falhas-e-projeta-goleiro-do-corinthians-na-selecao",
       "pubDate": "Thu, 28 May 2026 12:31:00 -0300",
       "date": "28/05 · 15:31"
-    },
-    {
-      "title": "VÍDEO: Preocupa? Fernando Diniz avalia desempenho do Corinthians em jogo contra o Platense",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128095/preocupa-fernando-diniz-avalia-desempenho-do-corinthians-em-jogo-contra-o-platense",
-      "pubDate": "Thu, 28 May 2026 01:32:33 -0300",
-      "date": "28/05 · 04:32"
-    },
-    {
-      "title": "VÍDEO: Memphis fica no Corinthians? Depay fala sobre seu futuro no clube e convocação para Copa do Mundo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128094/memphis-fica-no-corinthians-depay-fala-sobre-seu-futuro-no-clube-e-convocacao-para-copa-do-mundo",
-      "pubDate": "Thu, 28 May 2026 01:05:00 -0300",
-      "date": "28/05 · 04:05"
     }
   ]
 };
