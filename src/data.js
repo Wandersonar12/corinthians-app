@@ -1,7 +1,55 @@
-// Gerado automaticamente em 29/05/2026, 11:00:46
+// Gerado automaticamente em 29/05/2026, 14:32:00
 const LIVE_DATA = {
-  "updatedAt": "2026-05-29T11:00:46.240Z",
+  "updatedAt": "2026-05-29T14:32:00.118Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca melhorar retrospecto em estreias no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533960/corinthians-busca-melhorar-retrospecto-em-estreias-no-brasileiro-sub-17",
+      "time": "29/05 · 13:34",
+      "pubDate": "Fri, 29 May 2026 10:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians prega foco contra o Grêmio e sonha em disputar uma Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533931/atacante-do-corinthians-prega-foco-contra-o-gremio-e-sonha-em-disputar-uma-copa-do-mundo",
+      "time": "29/05 · 12:31",
+      "pubDate": "Fri, 29 May 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians é convocada pelo Uruguai para as rodadas finais da Nations League",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533984/atacante-do-corinthians-e-convocada-pelo-uruguai-para-as-rodadas-finais-da-nations-league",
+      "time": "29/05 · 12:15",
+      "pubDate": "Fri, 29 May 2026 09:15:03 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Vitória pela primeira rodada do Brasileirão Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533953/corinthians-visita-o-vitoria-pela-primeira-rodada-do-brasileirao-sub-17-saiba-tudo",
+      "time": "29/05 · 11:30",
+      "pubDate": "Fri, 29 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Novo transfer ban? Corinthians lida com 4 cobranças e trava em problema bancário",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/novo-transfer-ban-corinthians-lida-com-4-cobrancas-e-trava-em-problema-bancario]]>",
+      "time": "29/05 · 11:00",
+      "pubDate": "Fri, 29 May 2026 08:00:08 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians encaminha renovação com Memphis Depay até 2028 e anúncio pode acontecer antes da Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-depay-2028]]>",
+      "time": "29/05 · 10:59",
+      "pubDate": "Fri, 29 May 2026 07:59:11 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,38 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 28 May 2026 21:47:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians piora retrospecto contra clubes argentinos após derrota para o Platense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533902/corinthians-piora-retrospecto-contra-clubes-argentinos-apos-derrota-para-o-platense",
-      "time": "29/05 · 00:36",
-      "pubDate": "Thu, 28 May 2026 21:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz demonstra confiança na permanência de Memphis e pede reforços pontuais no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533919/fernando-diniz-demonstra-confianca-na-permanencia-de-memphis-e-pede-reforcos-pontuais-no-corinthians",
-      "time": "28/05 · 23:33",
-      "pubDate": "Thu, 28 May 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians é convocado pelo Peru para amistosos em junho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533972/meio-campista-do-corinthians-e-convocado-pelo-peru-para-amistosos-em-junho",
-      "time": "28/05 · 23:17",
-      "pubDate": "Thu, 28 May 2026 20:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: saiba tudo sobre a busca do Corinthians pelo Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533965/guia-do-meu-timao-saiba-tudo-sobre-a-busca-do-corinthians-pelo-campeonato-brasileiro-sub-17",
-      "time": "28/05 · 23:03",
-      "pubDate": "Thu, 28 May 2026 20:03:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis usa bandana com número 80 em jogo do Corinthians e motivo é campanha de marketing",
@@ -93,14 +109,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians encaminha renovação com Memphis Depay até 2028 e anúncio pode acontecer antes da Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-depay-2028]]>",
-      "time": "28/05 · 20:37",
-      "pubDate": "Thu, 28 May 2026 17:37:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians trata transfer bans como prioridade e busca solução imediata",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-trata-transfer-bans-como-prioridade-e-busca-solucao-imediata]]>",
       "time": "28/05 · 16:50",
@@ -113,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-gabriel-moscardo-ao-corinthians-em-2026-nao-vai-acontecer]]>",
       "time": "28/05 · 16:30",
       "pubDate": "Thu, 28 May 2026 13:30:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians decide contratar novo goleiro e Matheus Magalhães é 1ª opção",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-contratar-novo-goleiro-e-matheus-magalhaes-e-1a-opcao]]>",
-      "time": "28/05 · 15:11",
-      "pubDate": "Thu, 28 May 2026 12:11:47 -0300"
     },
     {
       "source": "Bolavip",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533944/corinthians-sofre-empate-com-um-a-menos-e-gol-de-mao-do-rb-bragantino-no-brasileiro-sub-20",
       "pubDate": "Thu, 28 May 2026 17:06:00 -0300",
       "date": "28/05 · 20:06"
-    },
-    {
-      "title": "Fernando Diniz sai em defesa de Hugo Souza após falhas e projeta goleiro do Corinthians na Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533922/fernando-diniz-sai-em-defesa-de-hugo-souza-apos-falhas-e-projeta-goleiro-do-corinthians-na-selecao",
-      "pubDate": "Thu, 28 May 2026 12:31:00 -0300",
-      "date": "28/05 · 15:31"
     }
   ]
 };
