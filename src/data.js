@@ -1,38 +1,94 @@
-// Gerado automaticamente em 29/05/2026, 14:32:00
+// Gerado automaticamente em 29/05/2026, 20:03:07
 const LIVE_DATA = {
-  "updatedAt": "2026-05-29T14:32:00.118Z",
+  "updatedAt": "2026-05-29T20:03:07.701Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca melhorar retrospecto em estreias no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533960/corinthians-busca-melhorar-retrospecto-em-estreias-no-brasileiro-sub-17",
-      "time": "29/05 · 13:34",
-      "pubDate": "Fri, 29 May 2026 10:34:00 -0300"
+      "title": "Meia brilha e Corinthians vence o Vitória na estreia do Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534002/meia-brilha-e-corinthians-vence-o-vitoria-na-estreia-do-brasileirao-sub-17",
+      "time": "29/05 · 19:57",
+      "pubDate": "Fri, 29 May 2026 16:57:01 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians prega foco contra o Grêmio e sonha em disputar uma Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533931/atacante-do-corinthians-prega-foco-contra-o-gremio-e-sonha-em-disputar-uma-copa-do-mundo",
-      "time": "29/05 · 12:31",
-      "pubDate": "Fri, 29 May 2026 09:31:00 -0300"
+      "title": "Jovem atacante busca primeira chance com Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533988/jovem-atacante-busca-primeira-chance-com-fernando-diniz-no-corinthians",
+      "time": "29/05 · 19:33",
+      "pubDate": "Fri, 29 May 2026 16:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians é convocada pelo Uruguai para as rodadas finais da Nations League",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533984/atacante-do-corinthians-e-convocada-pelo-uruguai-para-as-rodadas-finais-da-nations-league",
-      "time": "29/05 · 12:15",
-      "pubDate": "Fri, 29 May 2026 09:15:03 -0300"
+      "title": "Atacante se isola e zagueiros se destacam em artilharia do Sub-20 do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533964/atacante-se-isola-e-zagueiros-se-destacam-em-artilharia-do-sub-20-do-corinthians-em-2026",
+      "time": "29/05 · 18:33",
+      "pubDate": "Fri, 29 May 2026 15:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Vitória pela primeira rodada do Brasileirão Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533953/corinthians-visita-o-vitoria-pela-primeira-rodada-do-brasileirao-sub-17-saiba-tudo",
-      "time": "29/05 · 11:30",
-      "pubDate": "Fri, 29 May 2026 08:30:00 -0300"
+      "title": "Eliminação há mais de vinte anos: Confira o retrospecto entre Corinthians e Rosario Central",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533999/eliminacao-ha-mais-de-vinte-anos-confira-o-retrospecto-entre-corinthians-e-rosario-central",
+      "time": "29/05 · 18:31",
+      "pubDate": "Fri, 29 May 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians antecipa 'final' contra o Grêmio em duelo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534003/atacante-do-corinthians-antecipa-final-contra-o-gremio-em-duelo-pelo-brasileirao",
+      "time": "29/05 · 18:28",
+      "pubDate": "Fri, 29 May 2026 15:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra preparação para enfrentar o Grêmio pelo Brasileirão; veja a provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533989/corinthians-encerra-preparacao-para-enfrentar-o-gremio-pelo-brasileirao-veja-a-provavel-escalacao",
+      "time": "29/05 · 18:15",
+      "pubDate": "Fri, 29 May 2026 15:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Kaio César deseja sorte a Memphis na Copa do Mundo e reforça torcida por permanência no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533932/kaio-cesar-deseja-sorte-a-memphis-na-copa-do-mundo-e-reforca-torcida-por-permanencia-no-corinthians",
+      "time": "29/05 · 18:01",
+      "pubDate": "Fri, 29 May 2026 15:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca melhorar retrospecto em oitavas de final da Copa Libertadores; veja números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534000/corinthians-busca-melhorar-retrospecto-em-oitavas-de-final-da-copa-libertadores-veja-numeros",
+      "time": "29/05 · 17:32",
+      "pubDate": "Fri, 29 May 2026 14:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians define teto salarial para renovar com Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-teto-salarial-para-renovar-com-memphis-depay]]>",
+      "time": "29/05 · 12:22",
+      "pubDate": "Fri, 29 May 2026 09:22:06 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vai contratar centroavante após pedido de Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vai-contratar-centroavante-apos-pedido-de-fernando-diniz]]>",
+      "time": "29/05 · 12:11",
+      "pubDate": "Fri, 29 May 2026 09:11:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Roger Guedes visita Corinthians nas férias, mas volta ‘oficial’ só no futuro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-visita-corinthians-nas-ferias-mas-volta-oficial-so-no-futuro]]>",
+      "time": "29/05 · 11:06",
+      "pubDate": "Fri, 29 May 2026 08:06:19 -0300"
     },
     {
       "source": "Bolavip",
@@ -49,38 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-depay-2028]]>",
       "time": "29/05 · 10:59",
       "pubDate": "Fri, 29 May 2026 07:59:11 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: renuncia de Duilio, liberação de meia e ação de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533976/ultimas-do-corinthians-renuncia-de-duilio-liberacao-de-meia-e-acao-de-memphis",
-      "time": "29/05 · 10:30",
-      "pubDate": "Fri, 29 May 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Organizada do Corinthians se manifesta após renúncia de Duílio Monteiro Alves ao título de sócio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533975/organizada-do-corinthians-se-manifesta-apos-renuncia-de-duilio-monteiro-alves-ao-titulo-de-socio",
-      "time": "29/05 · 01:33",
-      "pubDate": "Thu, 28 May 2026 22:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians analisa tropeço na Libertadores e minimiza erros de Hugo Souza",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533930/atacante-do-corinthians-analisa-tropeco-na-libertadores-e-minimiza-erros-de-hugo-souza",
-      "time": "29/05 · 01:31",
-      "pubDate": "Thu, 28 May 2026 22:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians empata com o Santo André em jogo equilibrado pelo Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533963/corinthians-empata-com-o-santo-andre-em-jogo-equilibrado-pelo-paulista-de-futsal",
-      "time": "29/05 · 00:47",
-      "pubDate": "Thu, 28 May 2026 21:47:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-perde-lingard-para-ultimo-jogo-antes-da-copa-do-mundo]]>",
       "time": "28/05 · 21:06",
       "pubDate": "Thu, 28 May 2026 18:06:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians trata transfer bans como prioridade e busca solução imediata",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-trata-transfer-bans-como-prioridade-e-busca-solucao-imediata]]>",
-      "time": "28/05 · 16:50",
-      "pubDate": "Thu, 28 May 2026 13:50:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Volta de Gabriel Moscardo ao Corinthians em 2026 não vai acontecer",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/volta-de-gabriel-moscardo-ao-corinthians-em-2026-nao-vai-acontecer]]>",
-      "time": "28/05 · 16:30",
-      "pubDate": "Thu, 28 May 2026 13:30:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pode receber mais de R$ 2 milhões com presença de Memphis na Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-receber-mais-de-r-2-milhoes-com-presenca-de-memphis-na-copa]]>",
-      "time": "28/05 · 12:50",
-      "pubDate": "Thu, 28 May 2026 09:50:23 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/533967/sorteio-das-oitavas-de-final-da-libertadores-2026-horario-onde-assistir-e-classificados",
       "pubDate": "Thu, 28 May 2026 23:30:00 -0300",
       "date": "29/05 · 02:30"
-    },
-    {
-      "title": "Corinthians sofre empate com um a menos e gol de mão do RB Bragantino no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533944/corinthians-sofre-empate-com-um-a-menos-e-gol-de-mao-do-rb-bragantino-no-brasileiro-sub-20",
-      "pubDate": "Thu, 28 May 2026 17:06:00 -0300",
-      "date": "28/05 · 20:06"
     }
   ]
 };
