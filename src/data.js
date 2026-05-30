@@ -1,46 +1,70 @@
-// Gerado automaticamente em 30/05/2026, 12:56:26
+// Gerado automaticamente em 30/05/2026, 18:54:24
 const LIVE_DATA = {
-  "updatedAt": "2026-05-30T12:56:26.696Z",
+  "updatedAt": "2026-05-30T18:54:24.998Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca manter invencibilidade com árbitro da partida contra o Grêmio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534036/corinthians-busca-manter-invencibilidade-com-arbitro-da-partida-contra-o-gremio",
-      "time": "30/05 · 12:30",
-      "pubDate": "Sat, 30 May 2026 09:30:00 -0300"
+      "title": "Confronto direto, freguesia e sem Weverton: veja como chega o Grêmio para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534043/confronto-direto-freguesia-e-sem-weverton-veja-como-chega-o-gremio-para-enfrentar-o-corinthians",
+      "time": "30/05 · 18:31",
+      "pubDate": "Sat, 30 May 2026 15:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians estreia no Brasileirão Feminino Sub-17 contra equipe de Rondônia; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534034/corinthians-estreia-no-brasileirao-feminino-sub-17-contra-equipe-de-rondonia-saiba-tudo",
-      "time": "30/05 · 12:00",
-      "pubDate": "Sat, 30 May 2026 09:00:00 -0300"
+      "title": "Corinthians provoca o Palmeiras nas redes sociais após vitória na Copa do Brasil: 'Parecia maior'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534055/corinthians-provoca-o-palmeiras-nas-redes-sociais-apos-vitoria-na-copa-do-brasil-parecia-maior",
+      "time": "30/05 · 18:14",
+      "pubDate": "Sat, 30 May 2026 15:14:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Grêmio pelo Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534019/saiba-onde-assistir-ao-duelo-entre-corinthians-e-gremio-pelo-campeonato-brasileiro",
-      "time": "30/05 · 11:30",
-      "pubDate": "Sat, 30 May 2026 08:30:00 -0300"
+      "title": "Saiba quanto o Corinthians receberá de premiação com classificação na Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534051/saiba-quanto-o-corinthians-recebera-de-premiacao-com-classificacao-na-copa-do-brasil-feminina",
+      "time": "30/05 · 18:01",
+      "pubDate": "Sat, 30 May 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pela Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534010/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pela-copa-do-brasil-feminina",
-      "time": "30/05 · 11:00",
-      "pubDate": "Sat, 30 May 2026 08:00:00 -0300"
+      "title": "Corinthians busca manter invencibilidade de 14 jogos diante do Grêmio; veja o retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534042/corinthians-busca-manter-invencibilidade-de-14-jogos-diante-do-gremio-veja-o-retrospecto",
+      "time": "30/05 · 17:30",
+      "pubDate": "Sat, 30 May 2026 14:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: adversário da Libertadores, reunião da SAFiel e provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534028/ultimas-do-corinthians-adversario-da-libertadores-reuniao-da-safiel-e-provavel-escalacao",
-      "time": "30/05 · 10:30",
-      "pubDate": "Sat, 30 May 2026 07:30:00 -0300"
+      "title": "Gabi Zanotti celebra gol decisivo e classificação do Corinthians sobre o Palmeiras na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534053/gabi-zanotti-celebra-gol-decisivo-e-classificacao-do-corinthians-sobre-o-palmeiras-na-copa-do-brasil",
+      "time": "30/05 · 17:02",
+      "pubDate": "Sat, 30 May 2026 14:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode encostar no G8 do Brasileirão em caso de vitória sobre o Grêmio; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534037/corinthians-pode-encostar-no-g8-do-brasileirao-em-caso-de-vitoria-sobre-o-gremio-veja-a-tabela",
+      "time": "30/05 · 16:38",
+      "pubDate": "Sat, 30 May 2026 13:38:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Palmeiras no fim e avança para as oitavas da Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534048/corinthians-vence-o-palmeiras-no-fim-e-avanca-para-as-oitavas-da-copa-do-brasil-feminina",
+      "time": "30/05 · 16:00",
+      "pubDate": "Sat, 30 May 2026 13:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence a Seleção Liga Candanga de Futsal em amistoso festivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534033/corinthians-vence-a-selecao-liga-candanga-de-futsal-em-amistoso-festivo",
+      "time": "30/05 · 15:50",
+      "pubDate": "Sat, 30 May 2026 12:50:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -49,30 +73,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gremio-x-corinthians-vidente-crava-quem-vence-em-duelo-pela-18a-rodada-do-brasileirao]]>",
       "time": "30/05 · 04:04",
       "pubDate": "Sat, 30 May 2026 01:04:03 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Grêmio pelo Brasileirão antes da pausa para a Copa do Mundo; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534007/corinthians-visita-o-gremio-pelo-brasileirao-antes-da-pausa-para-a-copa-do-mundo-saiba-tudo",
-      "time": "30/05 · 03:01",
-      "pubDate": "Sat, 30 May 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Palmeiras pela terceira fase da Copa do Brasil Feminina; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534006/corinthians-visita-o-palmeiras-pela-terceira-fase-da-copa-do-brasil-feminina-saiba-tudo",
-      "time": "30/05 · 02:00",
-      "pubDate": "Fri, 29 May 2026 23:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vai a Brasília para amistoso contra a Seleção da Liga Candanga de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534016/corinthians-vai-a-brasilia-para-amistoso-contra-a-selecao-da-liga-candanga-de-futsal-saiba-tudo",
-      "time": "30/05 · 01:30",
-      "pubDate": "Fri, 29 May 2026 22:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Gabi Zanotti celebra gol decisivo e classificação do Corinthians sobre o Palmeiras na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534053/gabi-zanotti-celebra-gol-decisivo-e-classificacao-do-corinthians-sobre-o-palmeiras-na-copa-do-brasil",
+      "pubDate": "Sat, 30 May 2026 14:02:00 -0300",
+      "date": "30/05 · 17:02"
+    },
+    {
       "title": "Saiba onde assistir ao duelo entre Corinthians e Grêmio pelo Campeonato Brasileiro",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534019/saiba-onde-assistir-ao-duelo-entre-corinthians-e-gremio-pelo-campeonato-brasileiro",
       "pubDate": "Sat, 30 May 2026 08:30:00 -0300",
@@ -216,18 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128121/desembarque-do-corinthians-em-porto-alegre-para-partida-contra-o-gremio-pelo-brasileirao-2026",
       "pubDate": "Fri, 29 May 2026 19:15:27 -0300",
       "date": "29/05 · 22:15"
-    },
-    {
-      "title": "Edu Gaspar elege melhores contratações feitas durante sua passagem como gerente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533983/edu-gaspar-elege-melhores-contratacoes-feitas-durante-sua-passagem-como-gerente-do-corinthians",
-      "pubDate": "Fri, 29 May 2026 18:31:00 -0300",
-      "date": "29/05 · 21:31"
-    },
-    {
-      "title": "VÍDEO: Yuri Alberto segue titular? Confira a provável escalação do Corinthians para enfrentar o Grêmio",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128119/yuri-alberto-segue-titular-confira-a-provavel-escalacao-do-corinthians-para-enfrentar-o-gremio",
-      "pubDate": "Fri, 29 May 2026 17:42:00 -0300",
-      "date": "29/05 · 20:42"
     }
   ]
 };
