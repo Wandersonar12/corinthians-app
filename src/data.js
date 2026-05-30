@@ -1,7 +1,63 @@
-// Gerado automaticamente em 30/05/2026, 18:54:24
+// Gerado automaticamente em 30/05/2026, 22:44:08
 const LIVE_DATA = {
-  "updatedAt": "2026-05-30T18:54:24.998Z",
+  "updatedAt": "2026-05-30T22:44:08.347Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians atropela o Gazin Porto Velho na estreia do Brasileiro Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534032/corinthians-atropela-o-gazin-porto-velho-na-estreia-do-brasileiro-feminino-sub-17",
+      "time": "30/05 · 22:38",
+      "pubDate": "Sat, 30 May 2026 19:38:13 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ficha técnica: Grêmio 1 x 3 Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534087/ficha-tecnica-gremio-1-x-3-corinthians",
+      "time": "30/05 · 22:27",
+      "pubDate": "Sat, 30 May 2026 19:27:27 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians cresce após susto inicial e vence o Grêmio de virada no Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534056/corinthians-cresce-apos-susto-inicial-e-vence-o-gremio-de-virada-no-campeonato-brasileiro",
+      "time": "30/05 · 22:27",
+      "pubDate": "Sat, 30 May 2026 19:27:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima avalia desempenho de zagueira e valoriza trabalho coletivo do Corinthians no Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534058/emily-lima-avalia-desempenho-de-zagueira-e-valoriza-trabalho-coletivo-do-corinthians-no-derbi",
+      "time": "30/05 · 21:02",
+      "pubDate": "Sat, 30 May 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians celebra classificação na Copa do Brasil e exalta atuação coletiva no Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534062/meia-do-corinthians-celebra-classificacao-na-copa-do-brasil-e-exalta-atuacao-coletiva-no-derbi",
+      "time": "30/05 · 19:48",
+      "pubDate": "Sat, 30 May 2026 16:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro revelado pelo Corinthians conquista Liga dos Campeões e se aproxima de recorde histórico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534065/zagueiro-revelado-pelo-corinthians-conquista-liga-dos-campeoes-e-se-aproxima-de-recorde-historico",
+      "time": "30/05 · 19:45",
+      "pubDate": "Sat, 30 May 2026 16:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado para enfrentar o Grêmio pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534047/corinthians-esta-escalado-para-enfrentar-o-gremio-pelo-brasileirao",
+      "time": "30/05 · 19:30",
+      "pubDate": "Sat, 30 May 2026 16:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +67,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 30 May 2026 15:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians provoca o Palmeiras nas redes sociais após vitória na Copa do Brasil: 'Parecia maior'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534055/corinthians-provoca-o-palmeiras-nas-redes-sociais-apos-vitoria-na-copa-do-brasil-parecia-maior",
-      "time": "30/05 · 18:14",
-      "pubDate": "Sat, 30 May 2026 15:14:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Grêmio x Corinthians: Relembre duelo histórico de 2023 que terminou no placar de 4 a 4",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gremio-x-corinthians-relembre-duelo-historico-de-2023-que-terminou-no-placar-de-4-a-4]]>",
+      "time": "30/05 · 17:38",
+      "pubDate": "Sat, 30 May 2026 14:38:30 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba quanto o Corinthians receberá de premiação com classificação na Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534051/saiba-quanto-o-corinthians-recebera-de-premiacao-com-classificacao-na-copa-do-brasil-feminina",
-      "time": "30/05 · 18:01",
-      "pubDate": "Sat, 30 May 2026 15:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians define futuro de atletas em duelo decisivo contra o Grêmio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-futuro-de-atletas-em-duelo-decisivo-contra-o-gremio]]>",
+      "time": "30/05 · 16:19",
+      "pubDate": "Sat, 30 May 2026 13:19:43 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca manter invencibilidade de 14 jogos diante do Grêmio; veja o retrospecto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534042/corinthians-busca-manter-invencibilidade-de-14-jogos-diante-do-gremio-veja-o-retrospecto",
-      "time": "30/05 · 17:30",
-      "pubDate": "Sat, 30 May 2026 14:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti celebra gol decisivo e classificação do Corinthians sobre o Palmeiras na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534053/gabi-zanotti-celebra-gol-decisivo-e-classificacao-do-corinthians-sobre-o-palmeiras-na-copa-do-brasil",
-      "time": "30/05 · 17:02",
-      "pubDate": "Sat, 30 May 2026 14:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode encostar no G8 do Brasileirão em caso de vitória sobre o Grêmio; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534037/corinthians-pode-encostar-no-g8-do-brasileirao-em-caso-de-vitoria-sobre-o-gremio-veja-a-tabela",
-      "time": "30/05 · 16:38",
-      "pubDate": "Sat, 30 May 2026 13:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o Palmeiras no fim e avança para as oitavas da Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534048/corinthians-vence-o-palmeiras-no-fim-e-avanca-para-as-oitavas-da-copa-do-brasil-feminina",
-      "time": "30/05 · 16:00",
-      "pubDate": "Sat, 30 May 2026 13:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence a Seleção Liga Candanga de Futsal em amistoso festivo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534033/corinthians-vence-a-selecao-liga-candanga-de-futsal-em-amistoso-festivo",
-      "time": "30/05 · 15:50",
-      "pubDate": "Sat, 30 May 2026 12:50:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz mira sua primeira vitória como visitante no Brasileirão em Grêmio x Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-mira-sua-primeira-vitoria-como-visitante-no-brasileirao-em-gremio-x-corinthians]]>",
+      "time": "30/05 · 13:43",
+      "pubDate": "Sat, 30 May 2026 10:43:11 -0300"
     },
     {
       "source": "Bolavip",
@@ -93,14 +117,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Novo transfer ban? Corinthians lida com 4 cobranças e trava em problema bancário",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/novo-transfer-ban-corinthians-lida-com-4-cobrancas-e-trava-em-problema-bancario]]>",
-      "time": "29/05 · 14:58",
-      "pubDate": "Fri, 29 May 2026 11:58:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians amplia crise contra argentinos após nova derrota para o Platense",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amplia-crise-contra-argentinos-apos-nova-derrota-para-o-platense]]>",
       "time": "29/05 · 14:32",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-teto-salarial-para-renovar-com-memphis-depay]]>",
       "time": "29/05 · 12:22",
       "pubDate": "Fri, 29 May 2026 09:22:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vai contratar centroavante após pedido de Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vai-contratar-centroavante-apos-pedido-de-fernando-diniz]]>",
-      "time": "29/05 · 12:11",
-      "pubDate": "Fri, 29 May 2026 09:11:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Roger Guedes visita Corinthians nas férias, mas volta ‘oficial’ só no futuro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-visita-corinthians-nas-ferias-mas-volta-oficial-so-no-futuro]]>",
-      "time": "29/05 · 11:06",
-      "pubDate": "Fri, 29 May 2026 08:06:19 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira valoriza classificação sobre o Palmeiras pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534060/goleira-valoriza-classificacao-sobre-o-palmeiras-pela-copa-do-brasil-feminina",
+      "pubDate": "Sat, 30 May 2026 16:13:14 -0300",
+      "date": "30/05 · 19:13"
+    },
+    {
       "title": "Gabi Zanotti celebra gol decisivo e classificação do Corinthians sobre o Palmeiras na Copa do Brasil",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534053/gabi-zanotti-celebra-gol-decisivo-e-classificacao-do-corinthians-sobre-o-palmeiras-na-copa-do-brasil",
       "pubDate": "Sat, 30 May 2026 14:02:00 -0300",
@@ -216,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534010/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pela-copa-do-brasil-feminina",
       "pubDate": "Sat, 30 May 2026 08:00:00 -0300",
       "date": "30/05 · 11:00"
-    },
-    {
-      "title": "VÍDEO: Desembarque do Corinthians em Porto Alegre para partida contra o Grêmio pelo Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128121/desembarque-do-corinthians-em-porto-alegre-para-partida-contra-o-gremio-pelo-brasileirao-2026",
-      "pubDate": "Fri, 29 May 2026 19:15:27 -0300",
-      "date": "29/05 · 22:15"
     }
   ]
 };
