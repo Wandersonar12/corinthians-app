@@ -1,78 +1,78 @@
-// Gerado automaticamente em 29/05/2026, 23:01:18
+// Gerado automaticamente em 30/05/2026, 09:47:36
 const LIVE_DATA = {
-  "updatedAt": "2026-05-29T23:01:18.785Z",
+  "updatedAt": "2026-05-30T09:47:36.123Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fernando Diniz busca soluções para o ataque do Corinthians em duelo com o Grêmio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533986/fernando-diniz-busca-solucoes-para-o-ataque-do-corinthians-em-duelo-com-o-gremio",
-      "time": "29/05 · 22:32",
-      "pubDate": "Fri, 29 May 2026 19:32:00 -0300"
+      "title": "Corinthians visita o Grêmio pelo Brasileirão antes da pausa para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534007/corinthians-visita-o-gremio-pelo-brasileirao-antes-da-pausa-para-a-copa-do-mundo",
+      "time": "30/05 · 03:01",
+      "pubDate": "Sat, 30 May 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Desembarque do Corinthians em Porto Alegre para partida contra o Grêmio pelo Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128121/desembarque-do-corinthians-em-porto-alegre-para-partida-contra-o-gremio-pelo-brasileirao-2026",
-      "time": "29/05 · 22:15",
-      "pubDate": "Fri, 29 May 2026 19:15:27 -0300"
+      "title": "Corinthians visita o Palmeiras pela terceira fase da Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534006/corinthians-visita-o-palmeiras-pela-terceira-fase-da-copa-do-brasil-feminina",
+      "time": "30/05 · 02:00",
+      "pubDate": "Fri, 29 May 2026 23:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians desembarca em Porto Alegre com 24 jogadores para duelo contra o Grêmio pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534004/corinthians-desembarca-em-porto-alegre-com-24-jogadores-para-duelo-contra-o-gremio-pelo-brasileirao",
-      "time": "29/05 · 21:59",
-      "pubDate": "Fri, 29 May 2026 18:59:00 -0300"
+      "title": "Corinthians vai a Brasília para amistoso contra a Seleção da Liga Candanga de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534016/corinthians-vai-a-brasilia-para-amistoso-contra-a-selecao-da-liga-candanga-de-futsal",
+      "time": "30/05 · 01:30",
+      "pubDate": "Fri, 29 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians é convocada pela Colômbia para últimas rodadas da Liga das Nações",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534020/atacante-do-corinthians-e-convocada-pela-colombia-para-ultimas-rodadas-da-liga-das-nacoes",
-      "time": "29/05 · 21:49",
-      "pubDate": "Fri, 29 May 2026 18:49:58 -0300"
+      "title": "Corinthians acerta direitos de imagem atrasados com o elenco feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534026/corinthians-acerta-direitos-de-imagem-atrasados-com-o-elenco-feminino",
+      "time": "30/05 · 01:17",
+      "pubDate": "Fri, 29 May 2026 22:17:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Edu Gaspar elege melhores contratações feitas durante sua passagem como gerente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533983/edu-gaspar-elege-melhores-contratacoes-feitas-durante-sua-passagem-como-gerente-do-corinthians",
-      "time": "29/05 · 21:31",
-      "pubDate": "Fri, 29 May 2026 18:31:00 -0300"
+      "title": "Lateral emprestado pelo Corinthians completa um mês sem jogar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533987/lateral-emprestado-pelo-corinthians-completa-um-mes-sem-jogar",
+      "time": "30/05 · 00:31",
+      "pubDate": "Fri, 29 May 2026 21:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Yuri Alberto segue titular? Confira a provável escalação do Corinthians para enfrentar o Grêmio",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128119/yuri-alberto-segue-titular-confira-a-provavel-escalacao-do-corinthians-para-enfrentar-o-gremio",
-      "time": "29/05 · 20:42",
-      "pubDate": "Fri, 29 May 2026 17:42:00 -0300"
+      "title": "Corinthians encerra preparação para encarar o Palmeiras pela Copa do Brasil; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534013/corinthians-encerra-preparacao-para-encarar-o-palmeiras-pela-copa-do-brasil-veja-o-provavel-time",
+      "time": "30/05 · 00:04",
+      "pubDate": "Fri, 29 May 2026 21:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca evitar sequência inédita sem vitórias contra o Palmeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533968/corinthians-busca-evitar-sequencia-inedita-sem-vitorias-contra-o-palmeiras",
-      "time": "29/05 · 20:33",
-      "pubDate": "Fri, 29 May 2026 17:33:00 -0300"
+      "title": "Câmara Municipal de São Paulo aprova projeto de lei que propõe título histórico ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534025/camara-municipal-de-sao-paulo-aprova-projeto-de-lei-que-propoe-titulo-historico-ao-corinthians",
+      "time": "29/05 · 23:43",
+      "pubDate": "Fri, 29 May 2026 20:43:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "MP-SP cobra novas explicações do Corinthians por contratação de empresa de segurança irregular",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534011/mp-sp-cobra-novas-explicacoes-do-corinthians-por-contratacao-de-empresa-de-seguranca-irregular",
-      "time": "29/05 · 20:14",
-      "pubDate": "Fri, 29 May 2026 17:14:00 -0300"
+      "title": "Fixo marca e alcança o pódio na artilharia do futsal do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533985/fixo-marca-e-alcanca-o-podio-na-artilharia-do-futsal-do-corinthians-em-2026",
+      "time": "29/05 · 23:32",
+      "pubDate": "Fri, 29 May 2026 20:32:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians trabalha para derrubar transfer ban e sonha com Roberto Firmino e Everton Cebolinha",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-trabalha-para-derrubar-transfer-ban-e-sonha-com-roberto-firmino-e-everton-cebolinha]]>",
-      "time": "29/05 · 19:28",
-      "pubDate": "Fri, 29 May 2026 16:28:00 -0300"
+      "time": "29/05 · 21:15",
+      "pubDate": "Fri, 29 May 2026 18:15:03 -0300"
     },
     {
       "source": "Bolavip",
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128119/yuri-alberto-segue-titular-confira-a-provavel-escalacao-do-corinthians-para-enfrentar-o-gremio",
       "pubDate": "Fri, 29 May 2026 17:42:00 -0300",
       "date": "29/05 · 20:42"
-    },
-    {
-      "title": "Sorteio das oitavas de final da Libertadores 2026: horário, onde assistir e classificados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533967/sorteio-das-oitavas-de-final-da-libertadores-2026-horario-onde-assistir-e-classificados",
-      "pubDate": "Thu, 28 May 2026 23:30:00 -0300",
-      "date": "29/05 · 02:30"
     }
   ]
 };
