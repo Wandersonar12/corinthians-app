@@ -1,70 +1,78 @@
-// Gerado automaticamente em 30/05/2026, 09:47:36
+// Gerado automaticamente em 30/05/2026, 12:56:26
 const LIVE_DATA = {
-  "updatedAt": "2026-05-30T09:47:36.123Z",
+  "updatedAt": "2026-05-30T12:56:26.696Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Grêmio pelo Brasileirão antes da pausa para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534007/corinthians-visita-o-gremio-pelo-brasileirao-antes-da-pausa-para-a-copa-do-mundo",
+      "title": "Corinthians busca manter invencibilidade com árbitro da partida contra o Grêmio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534036/corinthians-busca-manter-invencibilidade-com-arbitro-da-partida-contra-o-gremio",
+      "time": "30/05 · 12:30",
+      "pubDate": "Sat, 30 May 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians estreia no Brasileirão Feminino Sub-17 contra equipe de Rondônia; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534034/corinthians-estreia-no-brasileirao-feminino-sub-17-contra-equipe-de-rondonia-saiba-tudo",
+      "time": "30/05 · 12:00",
+      "pubDate": "Sat, 30 May 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao duelo entre Corinthians e Grêmio pelo Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534019/saiba-onde-assistir-ao-duelo-entre-corinthians-e-gremio-pelo-campeonato-brasileiro",
+      "time": "30/05 · 11:30",
+      "pubDate": "Sat, 30 May 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534010/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pela-copa-do-brasil-feminina",
+      "time": "30/05 · 11:00",
+      "pubDate": "Sat, 30 May 2026 08:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: adversário da Libertadores, reunião da SAFiel e provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534028/ultimas-do-corinthians-adversario-da-libertadores-reuniao-da-safiel-e-provavel-escalacao",
+      "time": "30/05 · 10:30",
+      "pubDate": "Sat, 30 May 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Grêmio x Corinthians: vidente crava quem vence em duelo pela 18ª rodada do Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gremio-x-corinthians-vidente-crava-quem-vence-em-duelo-pela-18a-rodada-do-brasileirao]]>",
+      "time": "30/05 · 04:04",
+      "pubDate": "Sat, 30 May 2026 01:04:03 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Grêmio pelo Brasileirão antes da pausa para a Copa do Mundo; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534007/corinthians-visita-o-gremio-pelo-brasileirao-antes-da-pausa-para-a-copa-do-mundo-saiba-tudo",
       "time": "30/05 · 03:01",
       "pubDate": "Sat, 30 May 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Palmeiras pela terceira fase da Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534006/corinthians-visita-o-palmeiras-pela-terceira-fase-da-copa-do-brasil-feminina",
+      "title": "Corinthians visita o Palmeiras pela terceira fase da Copa do Brasil Feminina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534006/corinthians-visita-o-palmeiras-pela-terceira-fase-da-copa-do-brasil-feminina-saiba-tudo",
       "time": "30/05 · 02:00",
       "pubDate": "Fri, 29 May 2026 23:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vai a Brasília para amistoso contra a Seleção da Liga Candanga de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534016/corinthians-vai-a-brasilia-para-amistoso-contra-a-selecao-da-liga-candanga-de-futsal",
+      "title": "Corinthians vai a Brasília para amistoso contra a Seleção da Liga Candanga de Futsal; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534016/corinthians-vai-a-brasilia-para-amistoso-contra-a-selecao-da-liga-candanga-de-futsal-saiba-tudo",
       "time": "30/05 · 01:30",
       "pubDate": "Fri, 29 May 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians acerta direitos de imagem atrasados com o elenco feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534026/corinthians-acerta-direitos-de-imagem-atrasados-com-o-elenco-feminino",
-      "time": "30/05 · 01:17",
-      "pubDate": "Fri, 29 May 2026 22:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral emprestado pelo Corinthians completa um mês sem jogar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533987/lateral-emprestado-pelo-corinthians-completa-um-mes-sem-jogar",
-      "time": "30/05 · 00:31",
-      "pubDate": "Fri, 29 May 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para encarar o Palmeiras pela Copa do Brasil; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534013/corinthians-encerra-preparacao-para-encarar-o-palmeiras-pela-copa-do-brasil-veja-o-provavel-time",
-      "time": "30/05 · 00:04",
-      "pubDate": "Fri, 29 May 2026 21:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Câmara Municipal de São Paulo aprova projeto de lei que propõe título histórico ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534025/camara-municipal-de-sao-paulo-aprova-projeto-de-lei-que-propoe-titulo-historico-ao-corinthians",
-      "time": "29/05 · 23:43",
-      "pubDate": "Fri, 29 May 2026 20:43:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fixo marca e alcança o pódio na artilharia do futsal do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/533985/fixo-marca-e-alcanca-o-podio-na-artilharia-do-futsal-do-corinthians-em-2026",
-      "time": "29/05 · 23:32",
-      "pubDate": "Fri, 29 May 2026 20:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-visita-corinthians-nas-ferias-mas-volta-oficial-so-no-futuro]]>",
       "time": "29/05 · 11:06",
       "pubDate": "Fri, 29 May 2026 08:06:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis usa bandana com número 80 em jogo do Corinthians e motivo é campanha de marketing",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-usa-bandana-com-numero-80-em-jogo-do-corinthians-e-motivo-e-campanha-de-marketing]]>",
-      "time": "28/05 · 22:34",
-      "pubDate": "Thu, 28 May 2026 19:34:31 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir ao duelo entre Corinthians e Grêmio pelo Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534019/saiba-onde-assistir-ao-duelo-entre-corinthians-e-gremio-pelo-campeonato-brasileiro",
+      "pubDate": "Sat, 30 May 2026 08:30:00 -0300",
+      "date": "30/05 · 11:30"
+    },
+    {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534010/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pela-copa-do-brasil-feminina",
+      "pubDate": "Sat, 30 May 2026 08:00:00 -0300",
+      "date": "30/05 · 11:00"
+    },
     {
       "title": "VÍDEO: Desembarque do Corinthians em Porto Alegre para partida contra o Grêmio pelo Brasileirão 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128121/desembarque-do-corinthians-em-porto-alegre-para-partida-contra-o-gremio-pelo-brasileirao-2026",
