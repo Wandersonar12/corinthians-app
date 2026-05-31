@@ -1,78 +1,118 @@
-// Gerado automaticamente em 30/05/2026, 22:44:08
+// Gerado automaticamente em 31/05/2026, 10:05:24
 const LIVE_DATA = {
-  "updatedAt": "2026-05-30T22:44:08.347Z",
+  "updatedAt": "2026-05-31T10:05:24.893Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians atropela o Gazin Porto Velho na estreia do Brasileiro Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534032/corinthians-atropela-o-gazin-porto-velho-na-estreia-do-brasileiro-feminino-sub-17",
-      "time": "30/05 · 22:38",
-      "pubDate": "Sat, 30 May 2026 19:38:13 -0300"
+      "title": "Técnico do Corinthians enaltece coragem de sua equipe e nega polêmica com a arbitragem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534112/tecnico-do-corinthians-enaltece-coragem-de-sua-equipe-e-nega-polemica-com-a-arbitragem",
+      "time": "31/05 · 01:13",
+      "pubDate": "Sat, 30 May 2026 22:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ficha técnica: Grêmio 1 x 3 Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534087/ficha-tecnica-gremio-1-x-3-corinthians",
+      "title": "Corinthians entra na parte de cima da tabela após vitória sobre o Grêmio; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534103/corinthians-entra-na-parte-de-cima-da-tabela-apos-vitoria-sobre-o-gremio-confira",
+      "time": "31/05 · 01:00",
+      "pubDate": "Sat, 30 May 2026 22:00:17 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vitória no Brasileirão permite a Corinthians ampliar invencibilidade recente contra o Grêmio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534084/vitoria-no-brasileirao-permite-a-corinthians-ampliar-invencibilidade-recente-contra-o-gremio",
+      "time": "31/05 · 00:48",
+      "pubDate": "Sat, 30 May 2026 21:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Kaio César é eleito craque do Corinthians em avaliações da Fiel após vitória no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534121/kaio-cesar-e-eleito-craque-do-corinthians-em-avaliacoes-da-fiel-apos-vitoria-no-brasileirao",
+      "time": "31/05 · 00:45",
+      "pubDate": "Sat, 30 May 2026 21:45:36 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Melhores momentos: Grêmio 1x3 Corinthians | 18ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128143/melhores-momentos-gremio-1x3-corinthians-18-rodada-brasileirao-2026",
+      "time": "31/05 · 00:41",
+      "pubDate": "Sat, 30 May 2026 21:41:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians volta a marcar após quase dois meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534081/volante-do-corinthians-volta-a-marcar-apos-quase-dois-meses",
+      "time": "31/05 · 00:12",
+      "pubDate": "Sat, 30 May 2026 21:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians se destaca em números ofensivos e defensivos durante vitória no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534097/volante-do-corinthians-se-destaca-em-numeros-ofensivos-e-defensivos-durante-vitoria-no-brasileirao",
+      "time": "31/05 · 00:03",
+      "pubDate": "Sat, 30 May 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra jejum de mais de três meses como visitante no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534083/corinthians-encerra-jejum-de-mais-de-tres-meses-como-visitante-no-brasileirao",
+      "time": "30/05 · 23:47",
+      "pubDate": "Sat, 30 May 2026 20:47:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz mantém time, vê reação no segundo tempo e Corinthians vence o Grêmio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-mantem-time-ve-reacao-no-segundo-tempo-e-corinthians-vence-o-gremio]]>",
+      "time": "30/05 · 22:33",
+      "pubDate": "Sat, 30 May 2026 19:33:57 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vira sobre o Grêmio em Porto Alegre e vence com autoridade antes da pausa do Mundial",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reage-vira-jogo-em-porto-alegre-e-bate-o-gremio]]>",
       "time": "30/05 · 22:27",
-      "pubDate": "Sat, 30 May 2026 19:27:27 -0300"
+      "pubDate": "Sat, 30 May 2026 19:27:37 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians cresce após susto inicial e vence o Grêmio de virada no Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534056/corinthians-cresce-apos-susto-inicial-e-vence-o-gremio-de-virada-no-campeonato-brasileiro",
-      "time": "30/05 · 22:27",
-      "pubDate": "Sat, 30 May 2026 19:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily Lima avalia desempenho de zagueira e valoriza trabalho coletivo do Corinthians no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534058/emily-lima-avalia-desempenho-de-zagueira-e-valoriza-trabalho-coletivo-do-corinthians-no-derbi",
-      "time": "30/05 · 21:02",
-      "pubDate": "Sat, 30 May 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians celebra classificação na Copa do Brasil e exalta atuação coletiva no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534062/meia-do-corinthians-celebra-classificacao-na-copa-do-brasil-e-exalta-atuacao-coletiva-no-derbi",
-      "time": "30/05 · 19:48",
-      "pubDate": "Sat, 30 May 2026 16:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro revelado pelo Corinthians conquista Liga dos Campeões e se aproxima de recorde histórico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534065/zagueiro-revelado-pelo-corinthians-conquista-liga-dos-campeoes-e-se-aproxima-de-recorde-historico",
-      "time": "30/05 · 19:45",
-      "pubDate": "Sat, 30 May 2026 16:45:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Grêmio pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534047/corinthians-esta-escalado-para-enfrentar-o-gremio-pelo-brasileirao",
-      "time": "30/05 · 19:30",
-      "pubDate": "Sat, 30 May 2026 16:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Confronto direto, freguesia e sem Weverton: veja como chega o Grêmio para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534043/confronto-direto-freguesia-e-sem-weverton-veja-como-chega-o-gremio-para-enfrentar-o-corinthians",
-      "time": "30/05 · 18:31",
-      "pubDate": "Sat, 30 May 2026 15:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Garro perde a paciência com árbitro de Grêmio x Corinthians e recebe amarelo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-garro-perde-a-paciencia-com-arbitro-de-gremio-x-corinthians-e-recebe-amarelo]]>",
+      "time": "30/05 · 22:19",
+      "pubDate": "Sat, 30 May 2026 19:19:05 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Grêmio x Corinthians: Relembre duelo histórico de 2023 que terminou no placar de 4 a 4",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gremio-x-corinthians-relembre-duelo-historico-de-2023-que-terminou-no-placar-de-4-a-4]]>",
-      "time": "30/05 · 17:38",
-      "pubDate": "Sat, 30 May 2026 14:38:30 -0300"
+      "time": "30/05 · 21:38",
+      "pubDate": "Sat, 30 May 2026 18:38:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Corinthians começa mal em Porto Alegre, sofre gol cedo do Grêmio e irrita torcida nas redes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-falha-no-inicio-e-gremio-abre-o-placar-em-porto-alegre]]>",
+      "time": "30/05 · 21:37",
+      "pubDate": "Sat, 30 May 2026 18:37:54 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida do Corinthians elogia Kaio César durante primeiro tempo contra o Grêmio no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-elogia-kaio-cesar-durante-primeiro-tempo-contra-o-gremio-no-brasileirao]]>",
+      "time": "30/05 · 21:35",
+      "pubDate": "Sat, 30 May 2026 18:35:56 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,46 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-mira-sua-primeira-vitoria-como-visitante-no-brasileirao-em-gremio-x-corinthians]]>",
       "time": "30/05 · 13:43",
       "pubDate": "Sat, 30 May 2026 10:43:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Grêmio x Corinthians: vidente crava quem vence em duelo pela 18ª rodada do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gremio-x-corinthians-vidente-crava-quem-vence-em-duelo-pela-18a-rodada-do-brasileirao]]>",
-      "time": "30/05 · 04:04",
-      "pubDate": "Sat, 30 May 2026 01:04:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians trabalha para derrubar transfer ban e sonha com Roberto Firmino e Everton Cebolinha",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-trabalha-para-derrubar-transfer-ban-e-sonha-com-roberto-firmino-e-everton-cebolinha]]>",
-      "time": "29/05 · 21:15",
-      "pubDate": "Fri, 29 May 2026 18:15:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Sem Memphis Depay, confira a provável escalação do Corinthians diante do Grêmio pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/sem-memphis-depay-confira-a-provavel-escalacao-do-corinthians-diante-do-gremio-pelo-brasileirao]]>",
-      "time": "29/05 · 19:22",
-      "pubDate": "Fri, 29 May 2026 16:22:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians amplia crise contra argentinos após nova derrota para o Platense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-amplia-crise-contra-argentinos-apos-nova-derrota-para-o-platense]]>",
-      "time": "29/05 · 14:32",
-      "pubDate": "Fri, 29 May 2026 11:32:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define teto salarial para renovar com Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-teto-salarial-para-renovar-com-memphis-depay]]>",
-      "time": "29/05 · 12:22",
-      "pubDate": "Fri, 29 May 2026 09:22:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Melhores momentos: Grêmio 1x3 Corinthians | 18ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128143/melhores-momentos-gremio-1x3-corinthians-18-rodada-brasileirao-2026",
+      "pubDate": "Sat, 30 May 2026 21:41:00 -0300",
+      "date": "31/05 · 00:41"
+    },
+    {
+      "title": "VÍDEO: Diniz fala sobre balanço de seu trabalho, vitória heróica fora de casa e férias da equipe do Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128141/diniz-fala-sobre-balanco-de-seu-trabalho-vitoria-heroica-fora-de-casa-e-ferias-da-equipe-do-timao",
+      "pubDate": "Sat, 30 May 2026 21:26:00 -0300",
+      "date": "31/05 · 00:26"
+    },
+    {
+      "title": "Atacante marca primeiro gol pelo Corinthians em vitória sobre o Grêmio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534085/atacante-marca-primeiro-gol-pelo-corinthians-em-vitoria-sobre-o-gremio",
+      "pubDate": "Sat, 30 May 2026 20:10:20 -0300",
+      "date": "30/05 · 23:10"
+    },
+    {
       "title": "Goleira valoriza classificação sobre o Palmeiras pela Copa do Brasil Feminina",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534060/goleira-valoriza-classificacao-sobre-o-palmeiras-pela-copa-do-brasil-feminina",
       "pubDate": "Sat, 30 May 2026 16:13:14 -0300",
@@ -210,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534053/gabi-zanotti-celebra-gol-decisivo-e-classificacao-do-corinthians-sobre-o-palmeiras-na-copa-do-brasil",
       "pubDate": "Sat, 30 May 2026 14:02:00 -0300",
       "date": "30/05 · 17:02"
-    },
-    {
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Grêmio pelo Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534019/saiba-onde-assistir-ao-duelo-entre-corinthians-e-gremio-pelo-campeonato-brasileiro",
-      "pubDate": "Sat, 30 May 2026 08:30:00 -0300",
-      "date": "30/05 · 11:30"
-    },
-    {
-      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pela Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534010/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pela-copa-do-brasil-feminina",
-      "pubDate": "Sat, 30 May 2026 08:00:00 -0300",
-      "date": "30/05 · 11:00"
     }
   ]
 };
