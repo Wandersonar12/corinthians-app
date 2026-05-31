@@ -1,30 +1,78 @@
-// Gerado automaticamente em 31/05/2026, 13:05:17
+// Gerado automaticamente em 31/05/2026, 18:58:11
 const LIVE_DATA = {
-  "updatedAt": "2026-05-31T13:05:17.648Z",
+  "updatedAt": "2026-05-31T18:58:11.097Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jovem do Corinthians segue sem oportunidades com Fernando Diniz mesmo com ataque desfalcado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534099/jovem-do-corinthians-segue-sem-oportunidades-com-fernando-diniz-mesmo-com-ataque-desfalcado",
-      "time": "31/05 · 12:33",
-      "pubDate": "Sun, 31 May 2026 09:33:00 -0300"
+      "title": "Seleção Brasileira utilizará CT do Corinthians na preparação para amistosos contra os Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534148/selecao-brasileira-utilizara-ct-do-corinthians-na-preparacao-para-amistoso-contra-os-estados-unidos",
+      "time": "31/05 · 18:02",
+      "pubDate": "Sun, 31 May 2026 15:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleira do Corinthians vê convocação como fruto do trabalho e quer aproveitar chance na Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534061/goleira-do-corinthians-ve-convocacao-como-fruto-do-trabalho-e-quer-aproveitar-chance-na-selecao",
-      "time": "31/05 · 11:31",
-      "pubDate": "Sun, 31 May 2026 08:31:00 -0300"
+      "title": "Zanotti destaca trabalho de treinadora após classificação do Corinthians na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534063/zanotti-destaca-trabalho-de-treinadora-apos-classificacao-do-corinthians-na-copa-do-brasil",
+      "time": "31/05 · 17:32",
+      "pubDate": "Sun, 31 May 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: classificação no feminino, vitória no Brasileirão e suspensão de Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534125/ultimas-do-corinthians-classificacao-no-feminino-vitoria-no-brasileirao-e-suspensao-de-garro",
-      "time": "31/05 · 10:30",
-      "pubDate": "Sun, 31 May 2026 07:30:00 -0300"
+      "title": "Trio do Corinthians se apresenta à Seleção Brasileira para amistosos com os Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534147/trio-do-corinthians-se-apresenta-a-selecao-brasileira-para-amistosos-com-os-estados-unidos",
+      "time": "31/05 · 17:26",
+      "pubDate": "Sun, 31 May 2026 14:26:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ostenta campanha de G4 no Brasileirão desde a chegada de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534106/corinthians-ostenta-campanha-de-g4-no-brasileirao-desde-a-chegada-de-fernando-diniz",
+      "time": "31/05 · 16:35",
+      "pubDate": "Sun, 31 May 2026 13:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Organizadas do Corinthians convocam torcida para acompanhar processo de expulsão de Augusto Melo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534144/organizadas-do-corinthians-convocam-torcida-para-acompanhar-processo-de-expulsao-de-augusto-melo",
+      "time": "31/05 · 16:20",
+      "pubDate": "Sun, 31 May 2026 13:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a vencer o Palmeiras no futebol feminino após mais de cinco meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534054/corinthians-volta-a-vencer-o-palmeiras-no-futebol-feminino-apos-mais-de-cinco-meses",
+      "time": "31/05 · 15:31",
+      "pubDate": "Sun, 31 May 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Kaio César celebra primeiro gol pelo Corinthians e reforça meta da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534139/kaio-cesar-celebra-primeiro-gol-pelo-corinthians-e-reforca-objetivo-por-libertadores-na-temporada",
+      "time": "31/05 · 15:00",
+      "pubDate": "Sun, 31 May 2026 12:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "André Luiz encosta em Yuri Alberto e assume a vice-artilharia do Corinthians em 2026; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534092/andre-luiz-encosta-em-yuri-alberto-e-assume-a-vice-artilharia-do-corinthians-em-2026-veja-o-ranking",
+      "time": "31/05 · 14:36",
+      "pubDate": "Sun, 31 May 2026 11:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Matheus Bidu ressalta nova função com Fernando Diniz após vitória do Corinthians contra o Grêmio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-matheus-bidu-ressalta-nova-funcao-com-fernando-diniz-apos-vitoria-do-corinthians-contra-o-gremio]]>",
+      "time": "31/05 · 11:09",
+      "pubDate": "Sun, 31 May 2026 08:09:33 -0300"
     },
     {
       "source": "Bolavip",
@@ -33,14 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-hugo-souza-projeta-possivel-duelo-contra-flamengo-e-manda-recado-apos-vitoria-do-corinthians]]>",
       "time": "31/05 · 02:59",
       "pubDate": "Sat, 30 May 2026 23:59:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Matheus Bidu ressalta nova função com Fernando Diniz após vitória do Corinthians contra o Grêmio",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-matheus-bidu-ressalta-nova-funcao-com-fernando-diniz-apos-vitoria-do-corinthians-contra-o-gremio]]>",
-      "time": "31/05 · 02:59",
-      "pubDate": "Sat, 30 May 2026 23:59:05 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,46 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-e-garro-chamam-atencao-de-lucas-paulo-torezin-em-gremio-x-corinthians]]>",
       "time": "31/05 · 01:31",
       "pubDate": "Sat, 30 May 2026 22:31:31 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians enaltece coragem de sua equipe e nega polêmica com a arbitragem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534112/tecnico-do-corinthians-enaltece-coragem-de-sua-equipe-e-nega-polemica-com-a-arbitragem",
-      "time": "31/05 · 01:13",
-      "pubDate": "Sat, 30 May 2026 22:13:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians entra na parte de cima da tabela após vitória sobre o Grêmio; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534103/corinthians-entra-na-parte-de-cima-da-tabela-apos-vitoria-sobre-o-gremio-confira",
-      "time": "31/05 · 01:00",
-      "pubDate": "Sat, 30 May 2026 22:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vitória no Brasileirão permite a Corinthians ampliar invencibilidade recente contra o Grêmio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534084/vitoria-no-brasileirao-permite-a-corinthians-ampliar-invencibilidade-recente-contra-o-gremio",
-      "time": "31/05 · 00:48",
-      "pubDate": "Sat, 30 May 2026 21:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César é eleito craque do Corinthians em avaliações da Fiel após vitória no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534121/kaio-cesar-e-eleito-craque-do-corinthians-em-avaliacoes-da-fiel-apos-vitoria-no-brasileirao",
-      "time": "31/05 · 00:45",
-      "pubDate": "Sat, 30 May 2026 21:45:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Melhores momentos: Grêmio 1x3 Corinthians | 18ª rodada | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128143/melhores-momentos-gremio-1x3-corinthians-18-rodada-brasileirao-2026",
-      "time": "31/05 · 00:41",
-      "pubDate": "Sat, 30 May 2026 21:41:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Kaio César celebra primeiro gol pelo Corinthians e reforça meta da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534139/kaio-cesar-celebra-primeiro-gol-pelo-corinthians-e-reforca-objetivo-por-libertadores-na-temporada",
+      "pubDate": "Sun, 31 May 2026 12:00:00 -0300",
+      "date": "31/05 · 15:00"
+    },
+    {
       "title": "Goleira do Corinthians vê convocação como fruto do trabalho e quer aproveitar chance na Seleção",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534061/goleira-do-corinthians-ve-convocacao-como-fruto-do-trabalho-e-quer-aproveitar-chance-na-selecao",
       "pubDate": "Sun, 31 May 2026 08:31:00 -0300",
@@ -222,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534085/kaio-cesar-marca-primeiro-gol-pelo-corinthians-em-vitoria-sobre-o-gremio",
       "pubDate": "Sat, 30 May 2026 20:10:00 -0300",
       "date": "30/05 · 23:10"
-    },
-    {
-      "title": "Goleira do Corinthians valoriza classificação sobre o Palmeiras pela Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534060/goleira-do-corinthians-valoriza-classificacao-sobre-o-palmeiras-pela-copa-do-brasil-feminina",
-      "pubDate": "Sat, 30 May 2026 16:13:00 -0300",
-      "date": "30/05 · 19:13"
-    },
-    {
-      "title": "Gabi Zanotti celebra gol decisivo e classificação do Corinthians sobre o Palmeiras na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534053/gabi-zanotti-celebra-gol-decisivo-e-classificacao-do-corinthians-sobre-o-palmeiras-na-copa-do-brasil",
-      "pubDate": "Sat, 30 May 2026 14:02:00 -0300",
-      "date": "30/05 · 17:02"
     }
   ]
 };
