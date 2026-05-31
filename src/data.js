@@ -1,7 +1,63 @@
-// Gerado automaticamente em 31/05/2026, 18:58:11
+// Gerado automaticamente em 31/05/2026, 22:45:06
 const LIVE_DATA = {
-  "updatedAt": "2026-05-31T18:58:11.097Z",
+  "updatedAt": "2026-05-31T22:45:06.915Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Yuri Alberto valoriza vitória do Corinthians antes da parada para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534109/yuri-alberto-valoriza-vitoria-do-corinthians-antes-da-parada-para-a-copa-do-mundo",
+      "time": "31/05 · 22:37",
+      "pubDate": "Sun, 31 May 2026 19:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zanotti aprova amistosos do Corinthians contra seleção dos Estados Unidos: 'Escola diferente'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534064/zanotti-aprova-amistosos-do-corinthians-contra-selecao-dos-estados-unidos-escola-diferente",
+      "time": "31/05 · 21:34",
+      "pubDate": "Sun, 31 May 2026 18:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Nacional e assume a liderança do Campeonato Paulista de Fut7",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534151/corinthians-vence-o-nacional-e-assume-a-lideranca-do-campeonato-paulista-de-fut7",
+      "time": "31/05 · 21:03",
+      "pubDate": "Sun, 31 May 2026 18:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a vencer de virada após mais de um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534108/corinthians-volta-a-vencer-de-virada-apos-mais-de-um-ano",
+      "time": "31/05 · 20:31",
+      "pubDate": "Sun, 31 May 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians dispara no ranking de assistentes da equipe após vitória contra o Grêmio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534093/atacante-do-corinthians-dispara-no-ranking-de-assistentes-da-equipe-apos-vitoria-contra-o-gremio",
+      "time": "31/05 · 20:05",
+      "pubDate": "Sun, 31 May 2026 17:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians exalta André após atuação de destaque contra o Grêmio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534116/tecnico-do-corinthians-exalta-andre-apos-atuacao-de-destaque-contra-o-gremio",
+      "time": "31/05 · 19:32",
+      "pubDate": "Sun, 31 May 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Jaraguá e conquista título invicto da Taça Brasil Sub-17 de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534149/corinthians-vence-o-jaragua-e-conquista-titulo-invicto-da-taca-brasil-sub-17-de-futsal",
+      "time": "31/05 · 19:02",
+      "pubDate": "Sun, 31 May 2026 16:02:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 31 May 2026 15:02:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zanotti destaca trabalho de treinadora após classificação do Corinthians na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534063/zanotti-destaca-trabalho-de-treinadora-apos-classificacao-do-corinthians-na-copa-do-brasil",
-      "time": "31/05 · 17:32",
-      "pubDate": "Sun, 31 May 2026 14:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Trio do Corinthians se apresenta à Seleção Brasileira para amistosos com os Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534147/trio-do-corinthians-se-apresenta-a-selecao-brasileira-para-amistosos-com-os-estados-unidos",
-      "time": "31/05 · 17:26",
-      "pubDate": "Sun, 31 May 2026 14:26:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians ostenta campanha de G4 no Brasileirão desde a chegada de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534106/corinthians-ostenta-campanha-de-g4-no-brasileirao-desde-a-chegada-de-fernando-diniz",
-      "time": "31/05 · 16:35",
-      "pubDate": "Sun, 31 May 2026 13:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Organizadas do Corinthians convocam torcida para acompanhar processo de expulsão de Augusto Melo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534144/organizadas-do-corinthians-convocam-torcida-para-acompanhar-processo-de-expulsao-de-augusto-melo",
-      "time": "31/05 · 16:20",
-      "pubDate": "Sun, 31 May 2026 13:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a vencer o Palmeiras no futebol feminino após mais de cinco meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534054/corinthians-volta-a-vencer-o-palmeiras-no-futebol-feminino-apos-mais-de-cinco-meses",
-      "time": "31/05 · 15:31",
-      "pubDate": "Sun, 31 May 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César celebra primeiro gol pelo Corinthians e reforça meta da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534139/kaio-cesar-celebra-primeiro-gol-pelo-corinthians-e-reforca-objetivo-por-libertadores-na-temporada",
-      "time": "31/05 · 15:00",
-      "pubDate": "Sun, 31 May 2026 12:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "André Luiz encosta em Yuri Alberto e assume a vice-artilharia do Corinthians em 2026; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534092/andre-luiz-encosta-em-yuri-alberto-e-assume-a-vice-artilharia-do-corinthians-em-2026-veja-o-ranking",
-      "time": "31/05 · 14:36",
-      "pubDate": "Sun, 31 May 2026 11:36:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Na Copa do Mundo, Memphis reage a gol de André pelo Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-copa-gol-andre]]>",
+      "time": "31/05 · 14:49",
+      "pubDate": "Sun, 31 May 2026 11:49:34 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reage-vira-jogo-em-porto-alegre-e-bate-o-gremio]]>",
       "time": "30/05 · 22:27",
       "pubDate": "Sat, 30 May 2026 19:27:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Torcida do Corinthians elogia Kaio César durante primeiro tempo contra o Grêmio no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-elogia-kaio-cesar-durante-primeiro-tempo-contra-o-gremio-no-brasileirao]]>",
-      "time": "30/05 · 21:35",
-      "pubDate": "Sat, 30 May 2026 18:35:56 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -222,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128141/diniz-fala-sobre-balanco-de-seu-trabalho-vitoria-heroica-fora-de-casa-e-ferias-da-equipe-do-timao",
       "pubDate": "Sat, 30 May 2026 21:26:00 -0300",
       "date": "31/05 · 00:26"
-    },
-    {
-      "title": "Kaio César marca primeiro gol pelo Corinthians em vitória sobre o Grêmio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534085/kaio-cesar-marca-primeiro-gol-pelo-corinthians-em-vitoria-sobre-o-gremio",
-      "pubDate": "Sat, 30 May 2026 20:10:00 -0300",
-      "date": "30/05 · 23:10"
     }
   ]
 };
