@@ -1,70 +1,86 @@
-// Gerado automaticamente em 01/06/2026, 13:26:02
+// Gerado automaticamente em 01/06/2026, 21:18:58
 const LIVE_DATA = {
-  "updatedAt": "2026-06-01T13:26:02.162Z",
+  "updatedAt": "2026-06-01T21:18:58.233Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o São Paulo em busca da liderança do Brasileirão Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534152/corinthians-recebe-o-sao-paulo-em-busca-da-lideranca-do-brasileirao-sub-17-saiba-tudo",
-      "time": "01/06 · 12:30",
-      "pubDate": "Mon, 01 Jun 2026 09:30:00 -0300"
+      "title": "Augusto Melo entra com recurso para anular possível expulsão no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534192/augusto-melo-entra-com-recurso-para-anular-possivel-expulsao-no-corinthians",
+      "time": "01/06 · 20:27",
+      "pubDate": "Mon, 01 Jun 2026 17:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Conselho do Corinthians vota possível expulsão de Augusto Melo nesta segunda; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534153/conselho-do-corinthians-vota-possivel-expulsao-de-augusto-melo-nesta-segunda-saiba-tudo",
-      "time": "01/06 · 12:00",
-      "pubDate": "Mon, 01 Jun 2026 09:00:00 -0300"
+      "title": "Corinthians é condenado na Fifa por não pagar ampliação de empréstimo de Talles Magno",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534189/corinthians-e-condenado-na-fifa-por-nao-pagar-ampliacao-de-emprestimo-de-talles-magno",
+      "time": "01/06 · 19:24",
+      "pubDate": "Mon, 01 Jun 2026 16:24:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro emprestado pelo Corinthians é convocado pelo Equador para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534170/zagueiro-emprestado-pelo-corinthians-e-convocado-pelo-equador-para-a-copa-do-mundo",
-      "time": "01/06 · 11:25",
-      "pubDate": "Mon, 01 Jun 2026 08:25:00 -0300"
+      "title": "Por que Gui Negão não joga? Fernando Diniz esclarece situação do atacante no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534118/por-que-gui-negao-nao-joga-fernando-diniz-esclarece-situacao-do-atacante-no-corinthians",
+      "time": "01/06 · 18:31",
+      "pubDate": "Mon, 01 Jun 2026 15:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: campanha de G4 com Din, Seleção no CT e convocação das organizadas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534159/ultimas-do-corinthians-campanha-de-g4-com-din-selecao-no-ct-e-convocacao-das-organizadas",
-      "time": "01/06 · 10:30",
-      "pubDate": "Mon, 01 Jun 2026 07:30:00 -0300"
+      "title": "Processo de impeachment contra Stabile avança no Corinthians; presidente terá prazo para defesa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534179/processo-de-impeachment-contra-stabile-avanca-no-corinthians-presidente-tera-prazo-para-defesa",
+      "time": "01/06 · 17:52",
+      "pubDate": "Mon, 01 Jun 2026 14:52:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians ganha cinco posições e termina rodada fora da zona de risco no Brasileirão; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534160/corinthians-ganha-cinco-posicoes-e-termina-rodada-fora-da-zona-de-risco-no-brasileirao-confira",
-      "time": "01/06 · 01:38",
-      "pubDate": "Sun, 31 May 2026 22:38:00 -0300"
+      "title": "Filho de Gustavo Henrique marca hat-trick em goleada do Corinthians no Paulista Sub-11",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534174/filho-de-gustavo-henrique-marca-hat-trick-em-goleada-do-corinthians-no-paulista-sub-11",
+      "time": "01/06 · 17:29",
+      "pubDate": "Mon, 01 Jun 2026 14:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Hugo Souza comenta vitória sobre o Grêmio e destaca evolução do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534140/hugo-souza-comenta-vitoria-sobre-o-gremio-e-destaca-evolucao-do-corinthians",
-      "time": "01/06 · 01:30",
-      "pubDate": "Sun, 31 May 2026 22:30:00 -0300"
+      "title": "Auxiliar técnico do Corinthians projeta Majestoso pelo Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534175/auxiliar-tecnico-do-corinthians-projeta-majestoso-pelo-brasileirao-sub-17",
+      "time": "01/06 · 16:30",
+      "pubDate": "Mon, 01 Jun 2026 13:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Incentivo de Andressa Alves e comemoração pela vitória no Dérbi marcam bastidores do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534158/incentivo-de-andressa-alves-e-comemoracao-pela-vitoria-no-derbi-marcam-bastidores-do-corinthians",
-      "time": "01/06 · 00:51",
-      "pubDate": "Sun, 31 May 2026 21:51:00 -0300"
+      "title": "Zagueiro se destaca com atuações sólidas e é eleito o melhor jogador de maio no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534163/zagueiro-se-destaca-com-atuacoes-solidas-e-e-eleito-o-melhor-jogador-de-maio-no-corinthians",
+      "time": "01/06 · 15:30",
+      "pubDate": "Mon, 01 Jun 2026 12:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Motivação de Diniz e André 'Dembélé' marcam bastidores da vitória do Corinthians pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534157/motivacao-de-diniz-e-andre-dembele-marcam-bastidores-da-vitoria-do-corinthians-pelo-brasileirao",
-      "time": "01/06 · 00:46",
-      "pubDate": "Sun, 31 May 2026 21:46:00 -0300"
+      "title": "Técnico do Corinthians elogia partida de Yuri Alberto e projeta evolução após a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534115/tecnico-do-corinthians-elogia-partida-de-yuri-alberto-e-projeta-evolucao-apos-a-copa-do-mundo",
+      "time": "01/06 · 14:36",
+      "pubDate": "Mon, 01 Jun 2026 11:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians inicia processo de votação para expulsar Augusto Melo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-inicia-processo-de-votacao-para-expulsar-augusto-melo]]>",
+      "time": "01/06 · 12:51",
+      "pubDate": "Mon, 01 Jun 2026 09:51:01 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto vê ingratidão da Fiel e chega ao limite no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-desgaste-fiel]]>",
+      "time": "01/06 · 12:22",
+      "pubDate": "Mon, 01 Jun 2026 09:22:06 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-e-garro-chamam-atencao-de-lucas-paulo-torezin-em-gremio-x-corinthians]]>",
       "time": "31/05 · 01:31",
       "pubDate": "Sat, 30 May 2026 22:31:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz mantém time, vê reação no segundo tempo e Corinthians vence o Grêmio",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-mantem-time-ve-reacao-no-segundo-tempo-e-corinthians-vence-o-gremio]]>",
-      "time": "30/05 · 22:33",
-      "pubDate": "Sat, 30 May 2026 19:33:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vira sobre o Grêmio em Porto Alegre e vence com autoridade antes da pausa do Mundial",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reage-vira-jogo-em-porto-alegre-e-bate-o-gremio]]>",
-      "time": "30/05 · 22:27",
-      "pubDate": "Sat, 30 May 2026 19:27:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,10 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Kaio César celebra primeiro gol pelo Corinthians e reforça meta da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534139/kaio-cesar-celebra-primeiro-gol-pelo-corinthians-e-reforca-objetivo-por-libertadores-na-temporada",
-      "pubDate": "Sun, 31 May 2026 12:00:00 -0300",
-      "date": "31/05 · 15:00"
-    },
-    {
-      "title": "Goleira do Corinthians vê convocação como fruto do trabalho e quer aproveitar chance na Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534061/goleira-do-corinthians-ve-convocacao-como-fruto-do-trabalho-e-quer-aproveitar-chance-na-selecao",
-      "pubDate": "Sun, 31 May 2026 08:31:00 -0300",
-      "date": "31/05 · 11:31"
+      "title": "Filho de Gustavo Henrique marca hat-trick em goleada do Corinthians no Paulista Sub-11",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534174/filho-de-gustavo-henrique-marca-hat-trick-em-goleada-do-corinthians-no-paulista-sub-11",
+      "pubDate": "Mon, 01 Jun 2026 14:29:00 -0300",
+      "date": "01/06 · 17:29"
     }
   ]
 };
