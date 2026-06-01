@@ -1,70 +1,78 @@
-// Gerado automaticamente em 31/05/2026, 22:45:06
+// Gerado automaticamente em 01/06/2026, 13:26:02
 const LIVE_DATA = {
-  "updatedAt": "2026-05-31T22:45:06.915Z",
+  "updatedAt": "2026-06-01T13:26:02.162Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto valoriza vitória do Corinthians antes da parada para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534109/yuri-alberto-valoriza-vitoria-do-corinthians-antes-da-parada-para-a-copa-do-mundo",
-      "time": "31/05 · 22:37",
-      "pubDate": "Sun, 31 May 2026 19:37:00 -0300"
+      "title": "Corinthians recebe o São Paulo em busca da liderança do Brasileirão Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534152/corinthians-recebe-o-sao-paulo-em-busca-da-lideranca-do-brasileirao-sub-17-saiba-tudo",
+      "time": "01/06 · 12:30",
+      "pubDate": "Mon, 01 Jun 2026 09:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zanotti aprova amistosos do Corinthians contra seleção dos Estados Unidos: 'Escola diferente'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534064/zanotti-aprova-amistosos-do-corinthians-contra-selecao-dos-estados-unidos-escola-diferente",
-      "time": "31/05 · 21:34",
-      "pubDate": "Sun, 31 May 2026 18:34:00 -0300"
+      "title": "Conselho do Corinthians vota possível expulsão de Augusto Melo nesta segunda; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534153/conselho-do-corinthians-vota-possivel-expulsao-de-augusto-melo-nesta-segunda-saiba-tudo",
+      "time": "01/06 · 12:00",
+      "pubDate": "Mon, 01 Jun 2026 09:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Nacional e assume a liderança do Campeonato Paulista de Fut7",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534151/corinthians-vence-o-nacional-e-assume-a-lideranca-do-campeonato-paulista-de-fut7",
-      "time": "31/05 · 21:03",
-      "pubDate": "Sun, 31 May 2026 18:03:00 -0300"
+      "title": "Zagueiro emprestado pelo Corinthians é convocado pelo Equador para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534170/zagueiro-emprestado-pelo-corinthians-e-convocado-pelo-equador-para-a-copa-do-mundo",
+      "time": "01/06 · 11:25",
+      "pubDate": "Mon, 01 Jun 2026 08:25:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians volta a vencer de virada após mais de um ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534108/corinthians-volta-a-vencer-de-virada-apos-mais-de-um-ano",
-      "time": "31/05 · 20:31",
-      "pubDate": "Sun, 31 May 2026 17:31:00 -0300"
+      "title": "Últimas do Corinthians: campanha de G4 com Din, Seleção no CT e convocação das organizadas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534159/ultimas-do-corinthians-campanha-de-g4-com-din-selecao-no-ct-e-convocacao-das-organizadas",
+      "time": "01/06 · 10:30",
+      "pubDate": "Mon, 01 Jun 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians dispara no ranking de assistentes da equipe após vitória contra o Grêmio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534093/atacante-do-corinthians-dispara-no-ranking-de-assistentes-da-equipe-apos-vitoria-contra-o-gremio",
-      "time": "31/05 · 20:05",
-      "pubDate": "Sun, 31 May 2026 17:05:00 -0300"
+      "title": "Corinthians ganha cinco posições e termina rodada fora da zona de risco no Brasileirão; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534160/corinthians-ganha-cinco-posicoes-e-termina-rodada-fora-da-zona-de-risco-no-brasileirao-confira",
+      "time": "01/06 · 01:38",
+      "pubDate": "Sun, 31 May 2026 22:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians exalta André após atuação de destaque contra o Grêmio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534116/tecnico-do-corinthians-exalta-andre-apos-atuacao-de-destaque-contra-o-gremio",
-      "time": "31/05 · 19:32",
-      "pubDate": "Sun, 31 May 2026 16:32:00 -0300"
+      "title": "Hugo Souza comenta vitória sobre o Grêmio e destaca evolução do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534140/hugo-souza-comenta-vitoria-sobre-o-gremio-e-destaca-evolucao-do-corinthians",
+      "time": "01/06 · 01:30",
+      "pubDate": "Sun, 31 May 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Jaraguá e conquista título invicto da Taça Brasil Sub-17 de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534149/corinthians-vence-o-jaragua-e-conquista-titulo-invicto-da-taca-brasil-sub-17-de-futsal",
-      "time": "31/05 · 19:02",
-      "pubDate": "Sun, 31 May 2026 16:02:00 -0300"
+      "title": "Incentivo de Andressa Alves e comemoração pela vitória no Dérbi marcam bastidores do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534158/incentivo-de-andressa-alves-e-comemoracao-pela-vitoria-no-derbi-marcam-bastidores-do-corinthians",
+      "time": "01/06 · 00:51",
+      "pubDate": "Sun, 31 May 2026 21:51:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Seleção Brasileira utilizará CT do Corinthians na preparação para amistosos contra os Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534148/selecao-brasileira-utilizara-ct-do-corinthians-na-preparacao-para-amistoso-contra-os-estados-unidos",
-      "time": "31/05 · 18:02",
-      "pubDate": "Sun, 31 May 2026 15:02:00 -0300"
+      "title": "Motivação de Diniz e André 'Dembélé' marcam bastidores da vitória do Corinthians pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534157/motivacao-de-diniz-e-andre-dembele-marcam-bastidores-da-vitoria-do-corinthians-pelo-brasileirao",
+      "time": "01/06 · 00:46",
+      "pubDate": "Sun, 31 May 2026 21:46:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kaio César marca primeiro gol pelo Corinthians e celebra feito: “Sonhava em marcar”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-marca-primeiro-gol-pelo-corinthians-e-celebra-feito-sonhava-em-marcar]]>",
+      "time": "31/05 · 19:29",
+      "pubDate": "Sun, 31 May 2026 16:29:28 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-e-garro-chamam-atencao-de-lucas-paulo-torezin-em-gremio-x-corinthians]]>",
       "time": "31/05 · 01:31",
       "pubDate": "Sat, 30 May 2026 22:31:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Garro perde a paciência com árbitro de Grêmio x Corinthians e recebe amarelo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-garro-perde-a-paciencia-com-arbitro-de-gremio-x-corinthians-e-recebe-amarelo]]>",
-      "time": "30/05 · 23:36",
-      "pubDate": "Sat, 30 May 2026 20:36:39 -0300"
     },
     {
       "source": "Bolavip",
@@ -210,18 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534061/goleira-do-corinthians-ve-convocacao-como-fruto-do-trabalho-e-quer-aproveitar-chance-na-selecao",
       "pubDate": "Sun, 31 May 2026 08:31:00 -0300",
       "date": "31/05 · 11:31"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: Grêmio 1x3 Corinthians | 18ª rodada | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128143/melhores-momentos-gremio-1x3-corinthians-18-rodada-brasileirao-2026",
-      "pubDate": "Sat, 30 May 2026 21:41:00 -0300",
-      "date": "31/05 · 00:41"
-    },
-    {
-      "title": "VÍDEO: Diniz fala sobre balanço de seu trabalho, vitória heróica fora de casa e férias da equipe do Timão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128141/diniz-fala-sobre-balanco-de-seu-trabalho-vitoria-heroica-fora-de-casa-e-ferias-da-equipe-do-timao",
-      "pubDate": "Sat, 30 May 2026 21:26:00 -0300",
-      "date": "31/05 · 00:26"
     }
   ]
 };
