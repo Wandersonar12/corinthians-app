@@ -1,7 +1,31 @@
-// Gerado automaticamente em 01/06/2026, 21:18:58
+// Gerado automaticamente em 01/06/2026, 23:20:12
 const LIVE_DATA = {
-  "updatedAt": "2026-06-01T21:18:58.233Z",
+  "updatedAt": "2026-06-01T23:20:12.923Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians arranca empate contra o São Paulo com um a menos no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534185/corinthians-arranca-empate-contra-o-sao-paulo-com-um-a-menos-no-brasileiro-sub-17",
+      "time": "01/06 · 22:23",
+      "pubDate": "Mon, 01 Jun 2026 19:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselheiro do Corinthians pede à Justiça para suspender Assembleia Geral da reforma do Estatuto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534195/conselheiro-do-corinthians-pede-a-justica-para-suspender-assembleia-geral-da-reforma-do-estatuto",
+      "time": "01/06 · 22:01",
+      "pubDate": "Mon, 01 Jun 2026 19:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Árbitro diz que atmosfera do título do Corinthians na Libertadores foi a mais hostil da carreira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534156/arbitro-diz-que-atmosfera-do-titulo-do-corinthians-na-libertadores-foi-a-mais-hostil-da-carreira",
+      "time": "01/06 · 21:33",
+      "pubDate": "Mon, 01 Jun 2026 18:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,12 +35,44 @@ const LIVE_DATA = {
       "pubDate": "Mon, 01 Jun 2026 17:27:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marquinhos será liberado pelo PSG e Corinthians aguarda decisão oficial",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marquinhos-sera-liberado-pelo-psg-e-corinthians-aguarda-decisao-oficial]]>",
+      "time": "01/06 · 20:19",
+      "pubDate": "Mon, 01 Jun 2026 17:19:51 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ángel Romero, ex-Corinthians, desabafa e lamenta ausência na Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/angel-romero-ex-corinthians-desabafa-e-lamenta-ausencia-na-copa]]>",
+      "time": "01/06 · 20:17",
+      "pubDate": "Mon, 01 Jun 2026 17:17:10 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians é condenado na Fifa por não pagar ampliação de empréstimo de Talles Magno",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534189/corinthians-e-condenado-na-fifa-por-nao-pagar-ampliacao-de-emprestimo-de-talles-magno",
       "time": "01/06 · 19:24",
       "pubDate": "Mon, 01 Jun 2026 16:24:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians iguala campanha de 2018 e chega à pausa da Copa na décima posição do Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/como-o-corinthians-chegou-as-ultimas-pausas-de-copa-do-mundo]]>",
+      "time": "01/06 · 19:04",
+      "pubDate": "Mon, 01 Jun 2026 16:04:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "TV de Portugal diz que Benfica avança por André e o Corinthians desmente negociação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/benfica-andre-corinthians-desmente]]>",
+      "time": "01/06 · 19:01",
+      "pubDate": "Mon, 01 Jun 2026 16:01:37 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,28 +99,20 @@ const LIVE_DATA = {
       "pubDate": "Mon, 01 Jun 2026 14:29:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Auxiliar técnico do Corinthians projeta Majestoso pelo Brasileirão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534175/auxiliar-tecnico-do-corinthians-projeta-majestoso-pelo-brasileirao-sub-17",
-      "time": "01/06 · 16:30",
-      "pubDate": "Mon, 01 Jun 2026 13:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Cebolinha no Corinthians depende de proposta e aprovação do Flamengo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cebolinha-no-corinthians-depende-de-proposta-e-aprovacao-do-flamengo]]>",
+      "time": "01/06 · 16:22",
+      "pubDate": "Mon, 01 Jun 2026 13:22:44 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro se destaca com atuações sólidas e é eleito o melhor jogador de maio no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534163/zagueiro-se-destaca-com-atuacoes-solidas-e-e-eleito-o-melhor-jogador-de-maio-no-corinthians",
-      "time": "01/06 · 15:30",
-      "pubDate": "Mon, 01 Jun 2026 12:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians elogia partida de Yuri Alberto e projeta evolução após a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534115/tecnico-do-corinthians-elogia-partida-de-yuri-alberto-e-projeta-evolucao-apos-a-copa-do-mundo",
-      "time": "01/06 · 14:36",
-      "pubDate": "Mon, 01 Jun 2026 11:36:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto vê ingratidão da Fiel e chega ao limite no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-desgaste-fiel]]>",
+      "time": "01/06 · 14:58",
+      "pubDate": "Mon, 01 Jun 2026 11:58:39 -0300"
     },
     {
       "source": "Bolavip",
@@ -77,58 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Yuri Alberto vê ingratidão da Fiel e chega ao limite no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-desgaste-fiel]]>",
-      "time": "01/06 · 12:22",
-      "pubDate": "Mon, 01 Jun 2026 09:22:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Kaio César marca primeiro gol pelo Corinthians e celebra feito: “Sonhava em marcar”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-marca-primeiro-gol-pelo-corinthians-e-celebra-feito-sonhava-em-marcar]]>",
       "time": "31/05 · 19:29",
       "pubDate": "Sun, 31 May 2026 16:29:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Na Copa do Mundo, Memphis reage a gol de André pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-copa-gol-andre]]>",
-      "time": "31/05 · 14:49",
-      "pubDate": "Sun, 31 May 2026 11:49:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Matheus Bidu ressalta nova função com Fernando Diniz após vitória do Corinthians contra o Grêmio",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-matheus-bidu-ressalta-nova-funcao-com-fernando-diniz-apos-vitoria-do-corinthians-contra-o-gremio]]>",
-      "time": "31/05 · 11:09",
-      "pubDate": "Sun, 31 May 2026 08:09:33 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Hugo Souza projeta possível duelo contra Flamengo e manda recado após vitória do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-hugo-souza-projeta-possivel-duelo-contra-flamengo-e-manda-recado-apos-vitoria-do-corinthians]]>",
-      "time": "31/05 · 02:59",
-      "pubDate": "Sat, 30 May 2026 23:59:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Hugo Souza salienta importância de seu preparador de goleiros após vitória do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-hugo-souza-salienta-importancia-de-seu-preparador-de-goleiros-apos-vitoria-do-corinthians]]>",
-      "time": "31/05 · 02:42",
-      "pubDate": "Sat, 30 May 2026 23:42:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz e Garro chamam atenção de Lucas Paulo Torezin em Grêmio x Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-e-garro-chamam-atencao-de-lucas-paulo-torezin-em-gremio-x-corinthians]]>",
-      "time": "31/05 · 01:31",
-      "pubDate": "Sat, 30 May 2026 22:31:31 -0300"
     },
     {
       "source": "Gazeta Esportiva",
