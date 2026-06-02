@@ -1,7 +1,31 @@
-// Gerado automaticamente em 02/06/2026, 11:55:56
+// Gerado automaticamente em 02/06/2026, 15:51:09
 const LIVE_DATA = {
-  "updatedAt": "2026-06-02T11:55:56.696Z",
+  "updatedAt": "2026-06-02T15:51:09.125Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gaviões da Fiel celebra expulsão de Augusto Melo e promete fiscalizar atual gestão do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534226/gavioes-da-fiel-celebra-expulsao-de-augusto-melo-e-promete-fiscalizar-atual-gestao-do-corinthians",
+      "time": "02/06 · 13:28",
+      "pubDate": "Tue, 02 Jun 2026 10:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Igor Coronado relembra passagem pelo Corinthians e fala em 'sonho realizado'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534182/igor-coronado-relembra-passagem-pelo-corinthians-e-fala-em-sonho-realizado",
+      "time": "02/06 · 12:32",
+      "pubDate": "Tue, 02 Jun 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Impeachment de Osmar Stabile foi aprovado no Corinthians pela comissão de ética",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/impeachment-de-osmar-stabile-foi-aprovado-no-corinthians-pela-comissao-de-etica]]>",
+      "time": "02/06 · 11:55",
+      "pubDate": "Tue, 02 Jun 2026 08:55:19 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,6 +41,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534215/ultimas-do-corinthians-expulsao-de-augusto-melo-impeachment-de-stabile-e-zagueiro-convocado",
       "time": "02/06 · 10:30",
       "pubDate": "Tue, 02 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay critica decisões no Corinthians em recuperação de lesão e projeta Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-critica-decisoes-no-corinthians-em-recuperacao-de-lesao-e-projeta-copa-do-mundo]]>",
+      "time": "02/06 · 08:08",
+      "pubDate": "Tue, 02 Jun 2026 05:08:53 -0300"
     },
     {
       "source": "Meu Timao",
@@ -49,22 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128181/ricardo-jorge-advogado-de-melo-opina-sobre-a-decisao-que-expulsou-o-ex-presidente-do-corinthians",
       "time": "02/06 · 01:10",
       "pubDate": "Mon, 01 Jun 2026 22:10:53 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Alê, presidente dos gaviões, comenta a expulsão de Augusto Melo do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128177/ale-presidente-dos-gavioes-comenta-a-expulsao-de-augusto-melo-do-corinthians",
-      "time": "02/06 · 00:48",
-      "pubDate": "Mon, 01 Jun 2026 21:48:20 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Torcida do Corinthians comemora expulsão de Augusto Melo do clube",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128175/torcida-do-corinthians-comemora-expulsao-de-augusto-melo-do-clube",
-      "time": "02/06 · 00:33",
-      "pubDate": "Mon, 01 Jun 2026 21:33:21 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/benfica-andre-corinthians-desmente]]>",
       "time": "01/06 · 19:01",
       "pubDate": "Mon, 01 Jun 2026 16:01:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Cebolinha no Corinthians depende de proposta e aprovação do Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cebolinha-no-corinthians-depende-de-proposta-e-aprovacao-do-flamengo]]>",
-      "time": "01/06 · 16:22",
-      "pubDate": "Mon, 01 Jun 2026 13:22:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians inicia processo de votação para expulsar Augusto Melo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-inicia-processo-de-votacao-para-expulsar-augusto-melo]]>",
-      "time": "01/06 · 12:51",
-      "pubDate": "Mon, 01 Jun 2026 09:51:01 -0300"
     },
     {
       "source": "Gazeta Esportiva",
