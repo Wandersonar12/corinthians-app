@@ -1,38 +1,86 @@
-// Gerado automaticamente em 01/06/2026, 23:20:12
+// Gerado automaticamente em 02/06/2026, 11:55:56
 const LIVE_DATA = {
-  "updatedAt": "2026-06-01T23:20:12.923Z",
+  "updatedAt": "2026-06-02T11:55:56.696Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians arranca empate contra o São Paulo com um a menos no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534185/corinthians-arranca-empate-contra-o-sao-paulo-com-um-a-menos-no-brasileiro-sub-17",
-      "time": "01/06 · 22:23",
-      "pubDate": "Mon, 01 Jun 2026 19:23:00 -0300"
+      "title": "Goleiro emprestado pelo Corinthians vê temporada nos Emirados Árabes terminar sem ser utilizado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534172/goleiro-emprestado-pelo-corinthians-ve-temporada-nos-emirados-arabes-terminar-sem-ser-utilizado",
+      "time": "02/06 · 11:31",
+      "pubDate": "Tue, 02 Jun 2026 08:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Conselheiro do Corinthians pede à Justiça para suspender Assembleia Geral da reforma do Estatuto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534195/conselheiro-do-corinthians-pede-a-justica-para-suspender-assembleia-geral-da-reforma-do-estatuto",
-      "time": "01/06 · 22:01",
-      "pubDate": "Mon, 01 Jun 2026 19:01:00 -0300"
+      "title": "Últimas do Corinthians: expulsão de Augusto Melo, impeachment de Stabile e zagueiro convocado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534215/ultimas-do-corinthians-expulsao-de-augusto-melo-impeachment-de-stabile-e-zagueiro-convocado",
+      "time": "02/06 · 10:30",
+      "pubDate": "Tue, 02 Jun 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Árbitro diz que atmosfera do título do Corinthians na Libertadores foi a mais hostil da carreira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534156/arbitro-diz-que-atmosfera-do-titulo-do-corinthians-na-libertadores-foi-a-mais-hostil-da-carreira",
-      "time": "01/06 · 21:33",
-      "pubDate": "Mon, 01 Jun 2026 18:33:00 -0300"
+      "title": "VÍDEO: Conselheiros do Corinthians comentam expulsão de Augusto Melo do quadro de sócios do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128182/conselheiros-do-corinthians-comentam-expulsao-de-augusto-melo-do-quadro-de-socios-do-corinthians",
+      "time": "02/06 · 01:44",
+      "pubDate": "Mon, 01 Jun 2026 22:44:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Augusto Melo entra com recurso para anular possível expulsão no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534192/augusto-melo-entra-com-recurso-para-anular-possivel-expulsao-no-corinthians",
-      "time": "01/06 · 20:27",
-      "pubDate": "Mon, 01 Jun 2026 17:27:00 -0300"
+      "title": "Pantaleão destrincha expulsão de Augusto Melo e comenta saídas de ex-presidentes do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534214/pantaleao-destrincha-expulsao-de-augusto-melo-e-comenta-saidas-de-ex-presidentes-do-corinthians",
+      "time": "02/06 · 01:40",
+      "pubDate": "Mon, 01 Jun 2026 22:40:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians diz que tristeza pela Copa já passou e exalta preparador de goleiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534141/goleiro-do-corinthians-diz-que-tristeza-pela-copa-ja-passou-e-exalta-preparador-de-goleiros",
+      "time": "02/06 · 01:30",
+      "pubDate": "Mon, 01 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Ricardo Jorge, advogado de melo opina sobre a decisão que expulsou o ex-presidente do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128181/ricardo-jorge-advogado-de-melo-opina-sobre-a-decisao-que-expulsou-o-ex-presidente-do-corinthians",
+      "time": "02/06 · 01:10",
+      "pubDate": "Mon, 01 Jun 2026 22:10:53 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Alê, presidente dos gaviões, comenta a expulsão de Augusto Melo do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128177/ale-presidente-dos-gavioes-comenta-a-expulsao-de-augusto-melo-do-corinthians",
+      "time": "02/06 · 00:48",
+      "pubDate": "Mon, 01 Jun 2026 21:48:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Torcida do Corinthians comemora expulsão de Augusto Melo do clube",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128175/torcida-do-corinthians-comemora-expulsao-de-augusto-melo-do-clube",
+      "time": "02/06 · 00:33",
+      "pubDate": "Mon, 01 Jun 2026 21:33:21 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vai consultar valores e disputa Victor Sá com o São Paulo; Timão descarta leilão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-disputa-victor-sa-sao-paulo-evita-leilao]]>",
+      "time": "01/06 · 21:32",
+      "pubDate": "Mon, 01 Jun 2026 18:32:13 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Emprestado pelo Corinthians, Félix Torres é convocado para a Copa do Mundo e ganha destaque no Equador",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/emprestado-pelo-corinthians-felix-torres-e-convocado-para-a-copa-do-mundo-e-ganha-destaque-no-equador]]>",
+      "time": "01/06 · 21:22",
+      "pubDate": "Mon, 01 Jun 2026 18:22:18 -0300"
     },
     {
       "source": "Bolavip",
@@ -51,14 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 01 Jun 2026 17:17:10 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é condenado na Fifa por não pagar ampliação de empréstimo de Talles Magno",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534189/corinthians-e-condenado-na-fifa-por-nao-pagar-ampliacao-de-emprestimo-de-talles-magno",
-      "time": "01/06 · 19:24",
-      "pubDate": "Mon, 01 Jun 2026 16:24:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians iguala campanha de 2018 e chega à pausa da Copa na décima posição do Campeonato Brasileiro",
@@ -75,30 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 01 Jun 2026 16:01:37 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Por que Gui Negão não joga? Fernando Diniz esclarece situação do atacante no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534118/por-que-gui-negao-nao-joga-fernando-diniz-esclarece-situacao-do-atacante-no-corinthians",
-      "time": "01/06 · 18:31",
-      "pubDate": "Mon, 01 Jun 2026 15:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Processo de impeachment contra Stabile avança no Corinthians; presidente terá prazo para defesa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534179/processo-de-impeachment-contra-stabile-avanca-no-corinthians-presidente-tera-prazo-para-defesa",
-      "time": "01/06 · 17:52",
-      "pubDate": "Mon, 01 Jun 2026 14:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Filho de Gustavo Henrique marca hat-trick em goleada do Corinthians no Paulista Sub-11",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534174/filho-de-gustavo-henrique-marca-hat-trick-em-goleada-do-corinthians-no-paulista-sub-11",
-      "time": "01/06 · 17:29",
-      "pubDate": "Mon, 01 Jun 2026 14:29:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Cebolinha no Corinthians depende de proposta e aprovação do Flamengo",
@@ -109,26 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Yuri Alberto vê ingratidão da Fiel e chega ao limite no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-desgaste-fiel]]>",
-      "time": "01/06 · 14:58",
-      "pubDate": "Mon, 01 Jun 2026 11:58:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians inicia processo de votação para expulsar Augusto Melo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-inicia-processo-de-votacao-para-expulsar-augusto-melo]]>",
       "time": "01/06 · 12:51",
       "pubDate": "Mon, 01 Jun 2026 09:51:01 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kaio César marca primeiro gol pelo Corinthians e celebra feito: “Sonhava em marcar”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-marca-primeiro-gol-pelo-corinthians-e-celebra-feito-sonhava-em-marcar]]>",
-      "time": "31/05 · 19:29",
-      "pubDate": "Sun, 31 May 2026 16:29:28 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,48 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro emprestado pelo Corinthians vê temporada nos Emirados Árabes terminar sem ser utilizado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534172/goleiro-emprestado-pelo-corinthians-ve-temporada-nos-emirados-arabes-terminar-sem-ser-utilizado",
+      "pubDate": "Tue, 02 Jun 2026 08:31:00 -0300",
+      "date": "02/06 · 11:31"
+    },
+    {
+      "title": "VÍDEO: Conselheiros do Corinthians comentam expulsão de Augusto Melo do quadro de sócios do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128182/conselheiros-do-corinthians-comentam-expulsao-de-augusto-melo-do-quadro-de-socios-do-corinthians",
+      "pubDate": "Mon, 01 Jun 2026 22:44:00 -0300",
+      "date": "02/06 · 01:44"
+    },
+    {
+      "title": "Goleiro do Corinthians diz que tristeza pela Copa já passou e exalta preparador de goleiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534141/goleiro-do-corinthians-diz-que-tristeza-pela-copa-ja-passou-e-exalta-preparador-de-goleiros",
+      "pubDate": "Mon, 01 Jun 2026 22:30:00 -0300",
+      "date": "02/06 · 01:30"
+    },
+    {
+      "title": "VÍDEO: Ricardo Jorge, advogado de melo opina sobre a decisão que expulsou o ex-presidente do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128181/ricardo-jorge-advogado-de-melo-opina-sobre-a-decisao-que-expulsou-o-ex-presidente-do-corinthians",
+      "pubDate": "Mon, 01 Jun 2026 22:10:53 -0300",
+      "date": "02/06 · 01:10"
+    },
+    {
+      "title": "VÍDEO: Alê, presidente dos gaviões, comenta a expulsão de Augusto Melo do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128177/ale-presidente-dos-gavioes-comenta-a-expulsao-de-augusto-melo-do-corinthians",
+      "pubDate": "Mon, 01 Jun 2026 21:48:20 -0300",
+      "date": "02/06 · 00:48"
+    },
+    {
+      "title": "VÍDEO: Torcida do Corinthians comemora expulsão de Augusto Melo do clube",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128175/torcida-do-corinthians-comemora-expulsao-de-augusto-melo-do-clube",
+      "pubDate": "Mon, 01 Jun 2026 21:33:21 -0300",
+      "date": "02/06 · 00:33"
+    },
+    {
+      "title": "VÍDEO: Protestos da Fiel! Organizadas do Corinthians pedem a expulsão de Augusto Melo do Parque São Jorge",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128173/protestos-da-fiel-organizadas-do-corinthians-pedem-a-expulsao-de-augusto-melo-do-parque-sao-jorge",
+      "pubDate": "Mon, 01 Jun 2026 20:22:00 -0300",
+      "date": "01/06 · 23:22"
+    },
     {
       "title": "Filho de Gustavo Henrique marca hat-trick em goleada do Corinthians no Paulista Sub-11",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534174/filho-de-gustavo-henrique-marca-hat-trick-em-goleada-do-corinthians-no-paulista-sub-11",
