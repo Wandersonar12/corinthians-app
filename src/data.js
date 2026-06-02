@@ -1,7 +1,55 @@
-// Gerado automaticamente em 02/06/2026, 20:31:58
+// Gerado automaticamente em 02/06/2026, 23:25:06
 const LIVE_DATA = {
-  "updatedAt": "2026-06-02T20:31:58.763Z",
+  "updatedAt": "2026-06-02T23:25:06.089Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Sede do Corinthians recebe maior torneio amistoso de judô do Brasil com direito a recorde histórico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534244/sede-do-corinthians-recebe-maior-torneio-amistoso-de-judo-do-brasil-com-direito-a-recorde-historico",
+      "time": "02/06 · 23:03",
+      "pubDate": "Tue, 02 Jun 2026 20:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vê jejum aumentar contra o São Paulo após empate no Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534202/corinthians-ve-jejum-aumentar-contra-o-sao-paulo-apos-empate-no-brasileirao-sub-17",
+      "time": "02/06 · 22:38",
+      "pubDate": "Tue, 02 Jun 2026 19:38:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reinaugura loja oficial no Mais Shopping com novo conceito visual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534240/corinthians-reinaugura-loja-oficial-no-mais-shopping-com-novo-conceito-visual",
+      "time": "02/06 · 22:05",
+      "pubDate": "Tue, 02 Jun 2026 19:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pantaleão confirma retomada dos julgamentos no Corinthians e promete análise de todos os pareceres",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534218/pantaleao-confirma-retomada-dos-julgamentos-no-corinthians-e-promete-analise-de-todos-os-pareceres",
+      "time": "02/06 · 21:30",
+      "pubDate": "Tue, 02 Jun 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Como você avalia o primeiro semestre do Corinthians em 2026? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534243/como-voce-avalia-o-primeiro-semestre-do-corinthians-em-2026-vote-na-enquete-do-meu-timao",
+      "time": "02/06 · 21:12",
+      "pubDate": "Tue, 02 Jun 2026 18:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra um dos piores ataques de sua história nos pontos corridos do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534191/corinthians-registra-um-dos-piores-ataques-de-sua-historia-nos-pontos-corridos-do-brasileirao",
+      "time": "02/06 · 20:31",
+      "pubDate": "Tue, 02 Jun 2026 17:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +57,22 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534222/e-o-basquete-do-corinthians-gerente-demonstra-otimismo-para-o-futuro-da-modalidade-a-partir-de-2026",
       "time": "02/06 · 19:32",
       "pubDate": "Tue, 02 Jun 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Igor Coronado manda a real e desabafa sobre passagem pelo Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/igor-coronado-manda-a-real-e-desabafa-sobre-passagem-pelo-corinthians]]>",
+      "time": "02/06 · 18:22",
+      "pubDate": "Tue, 02 Jun 2026 15:22:43 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Casagrande expõe saída de Memphis do Corinthians: “Está pronto para ir embora”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/casagrande-expoe-saida-de-memphis-do-corinthians-esta-pronto-para-ir-embora]]>",
+      "time": "02/06 · 18:02",
+      "pubDate": "Tue, 02 Jun 2026 15:02:44 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,36 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 02 Jun 2026 14:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians será apresentadora na televisão durante a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534235/lateral-do-corinthians-sera-apresentadora-na-televisao-durante-a-copa-do-mundo",
-      "time": "02/06 · 17:09",
-      "pubDate": "Tue, 02 Jun 2026 14:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz atinge melhor recorde defensivo de sua carreira no comando do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534183/fernando-diniz-atinge-melhor-recorde-defensivo-de-sua-carreira-no-comando-do-corinthians",
-      "time": "02/06 · 16:29",
-      "pubDate": "Tue, 02 Jun 2026 13:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Médica anuncia saída da equipe feminina do Corinthians nas redes sociais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534233/medica-anuncia-saida-da-equipe-feminina-do-corinthians-nas-redes-sociais",
-      "time": "02/06 · 16:01",
-      "pubDate": "Tue, 02 Jun 2026 13:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians não descarta saídas de Gui Negão e Felipe Longo na janela de transferências",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-descarta-saidas-de-gui-negao-e-felipe-longo]]>",
-      "time": "02/06 · 15:49",
-      "pubDate": "Tue, 02 Jun 2026 12:49:42 -0300"
+      "time": "02/06 · 17:06",
+      "pubDate": "Tue, 02 Jun 2026 14:06:06 -0300"
     },
     {
       "source": "Bolavip",
@@ -67,36 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 02 Jun 2026 12:29:21 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gaviões da Fiel celebra expulsão de Augusto Melo e promete fiscalizar atual gestão do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534226/gavioes-da-fiel-celebra-expulsao-de-augusto-melo-e-promete-fiscalizar-atual-gestao-do-corinthians",
-      "time": "02/06 · 13:28",
-      "pubDate": "Tue, 02 Jun 2026 10:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Igor Coronado relembra passagem pelo Corinthians e fala em 'sonho realizado'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534182/igor-coronado-relembra-passagem-pelo-corinthians-e-fala-em-sonho-realizado",
-      "time": "02/06 · 12:32",
-      "pubDate": "Tue, 02 Jun 2026 09:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Impeachment de Osmar Stabile foi aprovado no Corinthians pela comissão de ética",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/impeachment-de-osmar-stabile-foi-aprovado-no-corinthians-pela-comissao-de-etica]]>",
       "time": "02/06 · 11:55",
       "pubDate": "Tue, 02 Jun 2026 08:55:19 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro emprestado pelo Corinthians vê temporada nos Emirados Árabes terminar sem ser utilizado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534172/goleiro-emprestado-pelo-corinthians-ve-temporada-nos-emirados-arabes-terminar-sem-ser-utilizado",
-      "time": "02/06 · 11:31",
-      "pubDate": "Tue, 02 Jun 2026 08:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-disputa-victor-sa-sao-paulo-evita-leilao]]>",
       "time": "01/06 · 21:32",
       "pubDate": "Mon, 01 Jun 2026 18:32:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Emprestado pelo Corinthians, Félix Torres é convocado para a Copa do Mundo e ganha destaque no Equador",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/emprestado-pelo-corinthians-felix-torres-e-convocado-para-a-copa-do-mundo-e-ganha-destaque-no-equador]]>",
-      "time": "01/06 · 21:22",
-      "pubDate": "Mon, 01 Jun 2026 18:22:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ángel Romero, ex-Corinthians, desabafa e lamenta ausência na Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/angel-romero-ex-corinthians-desabafa-e-lamenta-ausencia-na-copa]]>",
-      "time": "01/06 · 20:17",
-      "pubDate": "Mon, 01 Jun 2026 17:17:10 -0300"
     },
     {
       "source": "Gazeta Esportiva",
