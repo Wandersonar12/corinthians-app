@@ -1,7 +1,71 @@
-// Gerado automaticamente em 02/06/2026, 15:51:09
+// Gerado automaticamente em 02/06/2026, 20:31:58
 const LIVE_DATA = {
-  "updatedAt": "2026-06-02T15:51:09.125Z",
+  "updatedAt": "2026-06-02T20:31:58.763Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "E o basquete do Corinthians? Gerente demonstra otimismo para o futuro da modalidade a partir de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534222/e-o-basquete-do-corinthians-gerente-demonstra-otimismo-para-o-futuro-da-modalidade-a-partir-de-2026",
+      "time": "02/06 · 19:32",
+      "pubDate": "Tue, 02 Jun 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians valoriza pausa para a Copa e projeta sequência difícil no segundo semestre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534137/lateral-do-corinthians-valoriza-pausa-para-a-copa-e-projeta-sequencia-dificil-no-segundo-semestre",
+      "time": "02/06 · 17:33",
+      "pubDate": "Tue, 02 Jun 2026 14:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians será apresentadora na televisão durante a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534235/lateral-do-corinthians-sera-apresentadora-na-televisao-durante-a-copa-do-mundo",
+      "time": "02/06 · 17:09",
+      "pubDate": "Tue, 02 Jun 2026 14:09:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz atinge melhor recorde defensivo de sua carreira no comando do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534183/fernando-diniz-atinge-melhor-recorde-defensivo-de-sua-carreira-no-comando-do-corinthians",
+      "time": "02/06 · 16:29",
+      "pubDate": "Tue, 02 Jun 2026 13:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Médica anuncia saída da equipe feminina do Corinthians nas redes sociais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534233/medica-anuncia-saida-da-equipe-feminina-do-corinthians-nas-redes-sociais",
+      "time": "02/06 · 16:01",
+      "pubDate": "Tue, 02 Jun 2026 13:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não descarta saídas de Gui Negão e Felipe Longo na janela de transferências",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-descarta-saidas-de-gui-negao-e-felipe-longo]]>",
+      "time": "02/06 · 15:49",
+      "pubDate": "Tue, 02 Jun 2026 12:49:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Alvo do Corinthians, Cebolinha ficará no Flamengo até o fim da temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-cebolinha-ficara-no-flamengo-ate-o-fim-da-temporada]]>",
+      "time": "02/06 · 15:29",
+      "pubDate": "Tue, 02 Jun 2026 12:29:29 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians volta a avaliar Bakayoko para substituir André em possível venda",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-volta-a-avaliar-bakayoko-para-substituir-andre-em-possivel-venda]]>",
+      "time": "02/06 · 15:29",
+      "pubDate": "Tue, 02 Jun 2026 12:29:21 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,52 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 02 Jun 2026 08:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: expulsão de Augusto Melo, impeachment de Stabile e zagueiro convocado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534215/ultimas-do-corinthians-expulsao-de-augusto-melo-impeachment-de-stabile-e-zagueiro-convocado",
-      "time": "02/06 · 10:30",
-      "pubDate": "Tue, 02 Jun 2026 07:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay critica decisões no Corinthians em recuperação de lesão e projeta Copa do Mundo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-critica-decisoes-no-corinthians-em-recuperacao-de-lesao-e-projeta-copa-do-mundo]]>",
       "time": "02/06 · 08:08",
       "pubDate": "Tue, 02 Jun 2026 05:08:53 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Conselheiros do Corinthians comentam expulsão de Augusto Melo do quadro de sócios do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128182/conselheiros-do-corinthians-comentam-expulsao-de-augusto-melo-do-quadro-de-socios-do-corinthians",
-      "time": "02/06 · 01:44",
-      "pubDate": "Mon, 01 Jun 2026 22:44:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pantaleão destrincha expulsão de Augusto Melo e comenta saídas de ex-presidentes do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534214/pantaleao-destrincha-expulsao-de-augusto-melo-e-comenta-saidas-de-ex-presidentes-do-corinthians",
-      "time": "02/06 · 01:40",
-      "pubDate": "Mon, 01 Jun 2026 22:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians diz que tristeza pela Copa já passou e exalta preparador de goleiros",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534141/goleiro-do-corinthians-diz-que-tristeza-pela-copa-ja-passou-e-exalta-preparador-de-goleiros",
-      "time": "02/06 · 01:30",
-      "pubDate": "Mon, 01 Jun 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Ricardo Jorge, advogado de melo opina sobre a decisão que expulsou o ex-presidente do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128181/ricardo-jorge-advogado-de-melo-opina-sobre-a-decisao-que-expulsou-o-ex-presidente-do-corinthians",
-      "time": "02/06 · 01:10",
-      "pubDate": "Mon, 01 Jun 2026 22:10:53 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Marquinhos será liberado pelo PSG e Corinthians aguarda decisão oficial",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marquinhos-sera-liberado-pelo-psg-e-corinthians-aguarda-decisao-oficial]]>",
-      "time": "01/06 · 20:19",
-      "pubDate": "Mon, 01 Jun 2026 17:19:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Ángel Romero, ex-Corinthians, desabafa e lamenta ausência na Copa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/angel-romero-ex-corinthians-desabafa-e-lamenta-ausencia-na-copa]]>",
       "time": "01/06 · 20:17",
       "pubDate": "Mon, 01 Jun 2026 17:17:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians iguala campanha de 2018 e chega à pausa da Copa na décima posição do Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/como-o-corinthians-chegou-as-ultimas-pausas-de-copa-do-mundo]]>",
-      "time": "01/06 · 19:04",
-      "pubDate": "Mon, 01 Jun 2026 16:04:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "TV de Portugal diz que Benfica avança por André e o Corinthians desmente negociação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/benfica-andre-corinthians-desmente]]>",
-      "time": "01/06 · 19:01",
-      "pubDate": "Mon, 01 Jun 2026 16:01:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -240,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128173/protestos-da-fiel-organizadas-do-corinthians-pedem-a-expulsao-de-augusto-melo-do-parque-sao-jorge",
       "pubDate": "Mon, 01 Jun 2026 20:22:00 -0300",
       "date": "01/06 · 23:22"
-    },
-    {
-      "title": "Filho de Gustavo Henrique marca hat-trick em goleada do Corinthians no Paulista Sub-11",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534174/filho-de-gustavo-henrique-marca-hat-trick-em-goleada-do-corinthians-no-paulista-sub-11",
-      "pubDate": "Mon, 01 Jun 2026 14:29:00 -0300",
-      "date": "01/06 · 17:29"
     }
   ]
 };
