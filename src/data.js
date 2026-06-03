@@ -1,14 +1,54 @@
-// Gerado automaticamente em 03/06/2026, 20:43:57
+// Gerado automaticamente em 03/06/2026, 23:25:30
 const LIVE_DATA = {
-  "updatedAt": "2026-06-03T20:43:57.938Z",
+  "updatedAt": "2026-06-03T23:25:30.471Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians rebate pai de promessa da base do Corinthians após anúncio de saída",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534312/corinthians-rebate-pai-de-promessa-da-base-do-corinthians-apos-anuncio-de-saida",
+      "time": "03/06 · 23:20",
+      "pubDate": "Wed, 03 Jun 2026 20:20:27 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fiel aprova primeiro semestre do Corinthians e acredita que equipe poderia ser melhor",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534262/fiel-aprova-primeiro-semestre-do-corinthians-e-acredita-que-equipe-poderia-ser-melhor",
+      "time": "03/06 · 22:32",
+      "pubDate": "Wed, 03 Jun 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conmebol define datas e horários para oitavas de final do Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534305/conmebol-define-datas-e-horarios-para-oitavas-de-final-do-corinthians-na-libertadores",
+      "time": "03/06 · 22:19",
+      "pubDate": "Wed, 03 Jun 2026 19:19:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Empresa confirma negociações com Corinthians para patrocinar time feminino e esportes terrestres",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534300/empresa-confirma-negociacoes-com-corinthians-para-patrocinar-time-feminino-e-esportes-terrestres",
+      "time": "03/06 · 21:04",
+      "pubDate": "Wed, 03 Jun 2026 18:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians confirma renovação com gestora do estacionamento e prevê ampliação da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534298/corinthians-confirma-renovacao-com-gestora-do-estacionamento-e-preve-ampliacao-da-neo-quimica-arena",
+      "time": "03/06 · 20:39",
+      "pubDate": "Wed, 03 Jun 2026 17:39:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Presidente do Talleres estabelece data limite para Corinthians pagar dívida de Rodrigo Garro",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534293/presidente-do-talleres-estabelece-data-limite-para-corinthians-pagar-divida-de-rodrigo-garro",
       "time": "03/06 · 19:58",
-      "pubDate": "Wed, 03 Jun 2026 16:58:36 -0300"
+      "pubDate": "Wed, 03 Jun 2026 16:58:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,6 +59,14 @@ const LIVE_DATA = {
       "pubDate": "Wed, 03 Jun 2026 16:31:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu destaca bom momento de André no Corinthians: “Importante”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-destaca-bom-momento-de-andre-no-corinthians-importante]]>",
+      "time": "03/06 · 19:22",
+      "pubDate": "Wed, 03 Jun 2026 16:22:43 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians trabalha organização tática visando amistoso contra seleção Sub-23 dos Estados Unidos",
@@ -27,44 +75,28 @@ const LIVE_DATA = {
       "pubDate": "Wed, 03 Jun 2026 16:21:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Elenco do Corinthians curte férias em meio a denúncias e especulações",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128200/elenco-do-corinthians-curte-ferias-em-meio-a-denuncias-e-especulacoes",
-      "time": "03/06 · 19:01",
-      "pubDate": "Wed, 03 Jun 2026 16:01:42 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians avança nas conversas com a empresa Fatal Fans e detalhes são costurados",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-nas-conversas-com-a-empresa-fatal-fans-e-detalhes-sao-costurados]]>",
+      "time": "03/06 · 18:13",
+      "pubDate": "Wed, 03 Jun 2026 15:13:25 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Reforço do futsal fala pela primeira vez como atleta do Corinthians e cita sonho antigo no clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534251/reforco-do-futsal-fala-pela-primeira-vez-como-atleta-do-corinthians-e-cita-sonho-antigo-no-clube",
-      "time": "03/06 · 18:29",
-      "pubDate": "Wed, 03 Jun 2026 15:29:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians demonstra interesse em Luiz Felipe para reforçar a defesa em 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demonstra-interesse-em-luiz-felipe-para-reforcar-a-defesa-em-2026]]>",
+      "time": "03/06 · 15:01",
+      "pubDate": "Wed, 03 Jun 2026 12:01:12 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians já arrecadou quase R$ 80 milhões apenas com bilheteria e premiações em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534266/corinthians-ja-arrecadou-quase-r-80-milhoes-apenas-com-bilheteria-e-premiacoes-em-2026",
-      "time": "03/06 · 17:20",
-      "pubDate": "Wed, 03 Jun 2026 14:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Promessa da base, Flora deixa o Corinthians após desgaste nos bastidores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534274/promessa-da-base-flora-deixa-o-corinthians-apos-desgaste-nos-bastidores",
-      "time": "03/06 · 16:07",
-      "pubDate": "Wed, 03 Jun 2026 13:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Justiça paralisa procedimento na Ética contra vice do Corinthians por supostas falhas processuais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534273/justica-paralisa-procedimento-na-etica-contra-vice-do-corinthians-por-supostas-falhas-processuais",
-      "time": "03/06 · 15:59",
-      "pubDate": "Wed, 03 Jun 2026 12:59:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians deixa transfer ban de lado e prioriza dívida de R$ 42 milhões com Talleres por Garro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deixa-transfer-ban-de-lado-e-prioriza-divida-de-r-42-milhoes-com-talleres-por-garro]]>",
+      "time": "03/06 · 14:12",
+      "pubDate": "Wed, 03 Jun 2026 11:12:17 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tem-interesse-na-contratacao-de-bakayoko-revela-marcelo-paz]]>",
       "time": "03/06 · 11:53",
       "pubDate": "Wed, 03 Jun 2026 08:53:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians demonstra interesse em Luiz Felipe para reforçar a defesa em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demonstra-interesse-em-luiz-felipe-para-reforcar-a-defesa-em-2026]]>",
-      "time": "03/06 · 11:07",
-      "pubDate": "Wed, 03 Jun 2026 08:07:09 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/igor-coronado-manda-a-real-e-desabafa-sobre-passagem-pelo-corinthians]]>",
       "time": "02/06 · 18:22",
       "pubDate": "Tue, 02 Jun 2026 15:22:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Casagrande expõe saída de Memphis do Corinthians: “Está pronto para ir embora”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/casagrande-expoe-saida-de-memphis-do-corinthians-esta-pronto-para-ir-embora]]>",
-      "time": "02/06 · 18:02",
-      "pubDate": "Tue, 02 Jun 2026 15:02:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não descarta saídas de Gui Negão e Felipe Longo na janela de transferências",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-descarta-saidas-de-gui-negao-e-felipe-longo]]>",
-      "time": "02/06 · 17:06",
-      "pubDate": "Tue, 02 Jun 2026 14:06:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians volta a avaliar Bakayoko para substituir André em possível venda",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-volta-a-avaliar-bakayoko-para-substituir-andre-em-possivel-venda]]>",
-      "time": "02/06 · 15:29",
-      "pubDate": "Tue, 02 Jun 2026 12:29:21 -0300"
     },
     {
       "source": "Gazeta Esportiva",
