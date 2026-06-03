@@ -1,70 +1,94 @@
-// Gerado automaticamente em 03/06/2026, 12:27:16
+// Gerado automaticamente em 03/06/2026, 20:43:57
 const LIVE_DATA = {
-  "updatedAt": "2026-06-03T12:27:16.906Z",
+  "updatedAt": "2026-06-03T20:43:57.938Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Indaiatuba em busca da liderança do Paulista de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534236/corinthians-recebe-o-indaiatuba-em-busca-da-lideranca-do-paulista-de-futsal-saiba-tudo",
-      "time": "03/06 · 12:00",
-      "pubDate": "Wed, 03 Jun 2026 09:00:00 -0300"
+      "title": "Presidente do Talleres estabelece data limite para Corinthians pagar dívida de Rodrigo Garro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534293/presidente-do-talleres-estabelece-data-limite-para-corinthians-pagar-divida-de-rodrigo-garro",
+      "time": "03/06 · 19:58",
+      "pubDate": "Wed, 03 Jun 2026 16:58:36 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians assina novo contrato com administradora do estacionamento da Arena; veja detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534255/corinthians-assina-novo-contrato-com-administradora-do-estacionamento-da-arena-veja-detalhes",
-      "time": "03/06 · 11:32",
-      "pubDate": "Wed, 03 Jun 2026 08:32:00 -0300"
+      "title": "Título, frustrações e troca no comando: relembre como foi o primeiro semestre do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534271/titulo-frustracoes-e-troca-no-comando-tecnico-relembre-como-foi-o-semestre-do-corinthians-em-2026",
+      "time": "03/06 · 19:31",
+      "pubDate": "Wed, 03 Jun 2026 16:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: goleiro sem espaço, polêmica de presidente e lateral comentarista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534250/ultimas-do-corinthians-goleiro-sem-espaco-polemica-de-presidente-e-lateral-comentarista",
-      "time": "03/06 · 10:30",
-      "pubDate": "Wed, 03 Jun 2026 07:30:00 -0300"
+      "title": "Corinthians trabalha organização tática visando amistoso contra seleção Sub-23 dos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534291/corinthians-trabalha-organizacao-tatica-visando-amistoso-contra-selecao-sub-23-dos-estados-unidos",
+      "time": "03/06 · 19:21",
+      "pubDate": "Wed, 03 Jun 2026 16:21:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Possível novo patrocínio do Corinthians inclui valores recordes e ações sociais com o time feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534252/possivel-novo-patrocinio-do-corinthians-inclui-valores-recordes-e-acoes-sociais-com-o-time-feminino",
-      "time": "03/06 · 04:06",
-      "pubDate": "Wed, 03 Jun 2026 01:06:00 -0300"
+      "title": "VÍDEO: Elenco do Corinthians curte férias em meio a denúncias e especulações",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128200/elenco-do-corinthians-curte-ferias-em-meio-a-denuncias-e-especulacoes",
+      "time": "03/06 · 19:01",
+      "pubDate": "Wed, 03 Jun 2026 16:01:42 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians registra seu segundo pior aproveitamento em início de temporada no futebol feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534242/corinthians-registra-seu-segundo-pior-aproveitamento-em-inicio-de-temporada-no-futebol-feminino",
-      "time": "03/06 · 01:30",
-      "pubDate": "Tue, 02 Jun 2026 22:30:00 -0300"
+      "title": "Reforço do futsal fala pela primeira vez como atleta do Corinthians e cita sonho antigo no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534251/reforco-do-futsal-fala-pela-primeira-vez-como-atleta-do-corinthians-e-cita-sonho-antigo-no-clube",
+      "time": "03/06 · 18:29",
+      "pubDate": "Wed, 03 Jun 2026 15:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se une a instituto em campanha sobre doenças neurológicas sem cura",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534203/corinthians-se-une-a-instituto-em-campanha-sobre-doencas-neurologicas-sem-cura",
-      "time": "03/06 · 00:28",
-      "pubDate": "Tue, 02 Jun 2026 21:28:00 -0300"
+      "title": "Corinthians já arrecadou quase R$ 80 milhões apenas com bilheteria e premiações em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534266/corinthians-ja-arrecadou-quase-r-80-milhoes-apenas-com-bilheteria-e-premiacoes-em-2026",
+      "time": "03/06 · 17:20",
+      "pubDate": "Wed, 03 Jun 2026 14:20:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians anuncia retorno de médica ao departamento de saúde voltado ao futebol feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534247/corinthians-anuncia-retorno-de-medica-ao-departamento-de-saude-voltado-ao-futebol-feminino",
-      "time": "02/06 · 23:54",
-      "pubDate": "Tue, 02 Jun 2026 20:54:00 -0300"
+      "title": "Promessa da base, Flora deixa o Corinthians após desgaste nos bastidores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534274/promessa-da-base-flora-deixa-o-corinthians-apos-desgaste-nos-bastidores",
+      "time": "03/06 · 16:07",
+      "pubDate": "Wed, 03 Jun 2026 13:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians banca segurança particular de Osmar Stabile por empresa irregular na PF, diz portal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534246/corinthians-banca-seguranca-particular-de-osmar-stabile-por-empresa-irregular-na-pf-diz-portal",
-      "time": "02/06 · 23:41",
-      "pubDate": "Tue, 02 Jun 2026 20:41:00 -0300"
+      "title": "Justiça paralisa procedimento na Ética contra vice do Corinthians por supostas falhas processuais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534273/justica-paralisa-procedimento-na-etica-contra-vice-do-corinthians-por-supostas-falhas-processuais",
+      "time": "03/06 · 15:59",
+      "pubDate": "Wed, 03 Jun 2026 12:59:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não tem interesse na contratação de Bakayoko, revela Marcelo Paz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tem-interesse-na-contratacao-de-bakayoko-revela-marcelo-paz]]>",
+      "time": "03/06 · 11:53",
+      "pubDate": "Wed, 03 Jun 2026 08:53:59 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians demonstra interesse em Luiz Felipe para reforçar a defesa em 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demonstra-interesse-em-luiz-felipe-para-reforcar-a-defesa-em-2026]]>",
+      "time": "03/06 · 11:07",
+      "pubDate": "Wed, 03 Jun 2026 08:07:09 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu vê pausa da Copa do Mundo como oportunidade para evolução do Corinthians com Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-ve-pausa-da-copa-do-mundo-como-oportunidade-para-evolucao-do-corinthians-com-diniz]]>",
+      "time": "03/06 · 02:01",
+      "pubDate": "Tue, 02 Jun 2026 23:01:21 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Alvo do Corinthians, Cebolinha ficará no Flamengo até o fim da temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-cebolinha-ficara-no-flamengo-ate-o-fim-da-temporada]]>",
-      "time": "02/06 · 15:29",
-      "pubDate": "Tue, 02 Jun 2026 12:29:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians volta a avaliar Bakayoko para substituir André em possível venda",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-volta-a-avaliar-bakayoko-para-substituir-andre-em-possivel-venda]]>",
       "time": "02/06 · 15:29",
       "pubDate": "Tue, 02 Jun 2026 12:29:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Impeachment de Osmar Stabile foi aprovado no Corinthians pela comissão de ética",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/impeachment-de-osmar-stabile-foi-aprovado-no-corinthians-pela-comissao-de-etica]]>",
-      "time": "02/06 · 11:55",
-      "pubDate": "Tue, 02 Jun 2026 08:55:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay critica decisões no Corinthians em recuperação de lesão e projeta Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-critica-decisoes-no-corinthians-em-recuperacao-de-lesao-e-projeta-copa-do-mundo]]>",
-      "time": "02/06 · 08:08",
-      "pubDate": "Tue, 02 Jun 2026 05:08:53 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Elenco do Corinthians curte férias em meio a denúncias e especulações",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128200/elenco-do-corinthians-curte-ferias-em-meio-a-denuncias-e-especulacoes",
+      "pubDate": "Wed, 03 Jun 2026 16:01:42 -0300",
+      "date": "03/06 · 19:01"
+    },
+    {
+      "title": "Memphis entra em campo nesta quarta em amistoso da Holanda contra a Argélia; saiba onde assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534237/memphis-entra-em-campo-nesta-quarta-em-amistoso-da-holanda-contra-a-argelia-saiba-onde-assistir",
+      "pubDate": "Wed, 03 Jun 2026 09:36:00 -0300",
+      "date": "03/06 · 12:36"
+    },
+    {
       "title": "Últimas do Corinthians: goleiro sem espaço, polêmica de presidente e lateral comentarista",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534250/ultimas-do-corinthians-goleiro-sem-espaco-polemica-de-presidente-e-lateral-comentarista",
       "pubDate": "Wed, 03 Jun 2026 07:30:00 -0300",
@@ -210,18 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534142/goleiro-do-corinthians-projeta-duelo-contra-di-maria-na-libertadores-e-relembra-penalti-defendido",
       "pubDate": "Tue, 02 Jun 2026 20:29:00 -0300",
       "date": "02/06 · 23:29"
-    },
-    {
-      "title": "Goleiro emprestado pelo Corinthians vê temporada nos Emirados Árabes terminar sem ser utilizado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534172/goleiro-emprestado-pelo-corinthians-ve-temporada-nos-emirados-arabes-terminar-sem-ser-utilizado",
-      "pubDate": "Tue, 02 Jun 2026 08:31:00 -0300",
-      "date": "02/06 · 11:31"
-    },
-    {
-      "title": "VÍDEO: Conselheiros do Corinthians comentam expulsão de Augusto Melo do quadro de sócios do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128182/conselheiros-do-corinthians-comentam-expulsao-de-augusto-melo-do-quadro-de-socios-do-corinthians",
-      "pubDate": "Mon, 01 Jun 2026 22:44:00 -0300",
-      "date": "02/06 · 01:44"
     }
   ]
 };
