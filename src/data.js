@@ -1,7 +1,31 @@
-// Gerado automaticamente em 04/06/2026, 19:51:13
+// Gerado automaticamente em 04/06/2026, 22:58:58
 const LIVE_DATA = {
-  "updatedAt": "2026-06-04T19:51:13.367Z",
+  "updatedAt": "2026-06-04T22:58:58.741Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico e goleiro do Corinthians comandam bastidores da vitória sobre o Indaiatuba",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534344/tecnico-e-goleiro-do-corinthians-comandam-bastidores-da-vitoria-sobre-o-indaiatuba",
+      "time": "04/06 · 22:29",
+      "pubDate": "Thu, 04 Jun 2026 19:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Sub-20 do Corinthians marca o primeiro gol como profissional do Timão contra o Indaiatuba",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534324/ala-do-sub-20-do-corinthians-marca-o-primeiro-gol-como-profissional-do-timao-contra-o-indaiatuba",
+      "time": "04/06 · 21:31",
+      "pubDate": "Thu, 04 Jun 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Guia do Meu Timão: tudo sobre a luta do Corinthians pelo título do Campeonato Paulista Sub-20 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534337/guia-do-meu-timao-tudo-sobre-a-luta-do-corinthians-pelo-titulo-do-campeonato-paulista-sub-20-2026",
+      "time": "04/06 · 20:32",
+      "pubDate": "Thu, 04 Jun 2026 17:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +59,20 @@ const LIVE_DATA = {
       "pubDate": "Thu, 04 Jun 2026 13:32:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fabinho Soldado quer anunciar André Ramalho, do Corinthians, como novo reforço do Internacional",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fabinho-soldado-quer-anunciar-andre-ramalho-do-corinthians-como-novo-reforco-do-internacional]]>",
+      "time": "04/06 · 16:05",
+      "pubDate": "Thu, 04 Jun 2026 13:05:59 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Empresário detalha motivo que o levou a acionar o Corinthians na Justiça e critica Augusto Melo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534299/empresario-detalha-motivo-que-o-levou-a-acionar-o-corinthians-na-justica-e-critica-augusto-melo",
       "time": "04/06 · 15:29",
       "pubDate": "Thu, 04 Jun 2026 12:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Olheiro do Corinthians participa de observação de atletas no continente africano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534292/olheiro-do-corinthians-participa-de-observacao-de-atletas-no-continente-africano",
-      "time": "04/06 · 14:32",
-      "pubDate": "Thu, 04 Jun 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz treino aberto e encerra preparação para amistoso contra sub-23 dos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534330/corinthians-faz-treino-aberto-e-encerra-preparacao-para-amistoso-contra-sub-23-dos-estados-unidos",
-      "time": "04/06 · 13:32",
-      "pubDate": "Thu, 04 Jun 2026 10:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians define valor para venda de Yuri Alberto e atualiza situação de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534309/presidente-do-corinthians-define-valor-para-venda-de-yuri-alberto-e-atualiza-situacao-de-memphis",
-      "time": "04/06 · 13:31",
-      "pubDate": "Thu, 04 Jun 2026 10:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-destaca-bom-momento-de-andre-no-corinthians-importante]]>",
       "time": "03/06 · 19:22",
       "pubDate": "Wed, 03 Jun 2026 16:22:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança nas conversas com a empresa Fatal Fans e detalhes são costurados",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-nas-conversas-com-a-empresa-fatal-fans-e-detalhes-sao-costurados]]>",
-      "time": "03/06 · 18:13",
-      "pubDate": "Wed, 03 Jun 2026 15:13:25 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,10 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "VÍDEO: Elenco do Corinthians curte férias em meio a denúncias e especulações",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128200/elenco-do-corinthians-curte-ferias-em-meio-a-denuncias-e-especulacoes",
-      "pubDate": "Wed, 03 Jun 2026 16:01:42 -0300",
-      "date": "03/06 · 19:01"
+      "title": "Técnico e goleiro do Corinthians comandam bastidores da vitória sobre o Indaiatuba",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534344/tecnico-e-goleiro-do-corinthians-comandam-bastidores-da-vitoria-sobre-o-indaiatuba",
+      "pubDate": "Thu, 04 Jun 2026 19:29:00 -0300",
+      "date": "04/06 · 22:29"
+    },
+    {
+      "title": "Ala do Sub-20 do Corinthians marca o primeiro gol como profissional do Timão contra o Indaiatuba",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534324/ala-do-sub-20-do-corinthians-marca-o-primeiro-gol-como-profissional-do-timao-contra-o-indaiatuba",
+      "pubDate": "Thu, 04 Jun 2026 18:31:00 -0300",
+      "date": "04/06 · 21:31"
     }
   ]
 };
