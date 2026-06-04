@@ -1,14 +1,62 @@
-// Gerado automaticamente em 03/06/2026, 23:25:30
+// Gerado automaticamente em 04/06/2026, 10:52:52
 const LIVE_DATA = {
-  "updatedAt": "2026-06-03T23:25:30.471Z",
+  "updatedAt": "2026-06-04T10:52:52.001Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: possível novo patrocínio, caso Flora e acordo por estacionamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534321/ultimas-do-corinthians-possivel-novo-patrocinio-caso-flora-e-acordo-por-estacionamento",
+      "time": "04/06 · 10:30",
+      "pubDate": "Thu, 04 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians participa de derrota em amistoso da Seleção Feminina Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534320/dupla-do-corinthians-participa-de-derrota-em-amistoso-da-selecao-feminina-sub-20",
+      "time": "04/06 · 01:22",
+      "pubDate": "Wed, 03 Jun 2026 22:22:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians explica contratação de empresa de segurança irregular para uso particular",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534308/presidente-do-corinthians-explica-contratacao-de-empresa-de-seguranca-irregular-para-uso-particular",
+      "time": "04/06 · 00:56",
+      "pubDate": "Wed, 03 Jun 2026 21:56:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MP denuncia vice-presidente do Corinthians por quatro crimes em caso de materiais da Nike",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534317/mp-denuncia-vice-presidente-do-corinthians-por-quatro-crimes-em-caso-de-materiais-da-nike",
+      "time": "04/06 · 00:26",
+      "pubDate": "Wed, 03 Jun 2026 21:26:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians supera o Indaiatuba em casa e assume a liderança do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534249/corinthians-supera-o-indaiatuba-em-casa-e-assume-a-lideranca-do-paulista-de-futsal",
+      "time": "04/06 · 00:26",
+      "pubDate": "Wed, 03 Jun 2026 21:26:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Guerrero sugere meio-campista do Corinthians como possível reforço para clube peruano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534296/guerrero-sugere-meio-campista-do-corinthians-como-possivel-reforco-para-clube-peruano",
+      "time": "03/06 · 23:33",
+      "pubDate": "Wed, 03 Jun 2026 20:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians rebate pai de promessa da base do Corinthians após anúncio de saída",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534312/corinthians-rebate-pai-de-promessa-da-base-do-corinthians-apos-anuncio-de-saida",
       "time": "03/06 · 23:20",
-      "pubDate": "Wed, 03 Jun 2026 20:20:27 -0300"
+      "pubDate": "Wed, 03 Jun 2026 20:20:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,44 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Wed, 03 Jun 2026 19:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conmebol define datas e horários para oitavas de final do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534305/conmebol-define-datas-e-horarios-para-oitavas-de-final-do-corinthians-na-libertadores",
-      "time": "03/06 · 22:19",
-      "pubDate": "Wed, 03 Jun 2026 19:19:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recebe ultimato do Talleres em dívida por Garro: “É a data limite”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-ultimato-do-talleres-em-divida-por-garro-e-a-data-limite]]>",
+      "time": "03/06 · 20:55",
+      "pubDate": "Wed, 03 Jun 2026 17:55:43 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Empresa confirma negociações com Corinthians para patrocinar time feminino e esportes terrestres",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534300/empresa-confirma-negociacoes-com-corinthians-para-patrocinar-time-feminino-e-esportes-terrestres",
-      "time": "03/06 · 21:04",
-      "pubDate": "Wed, 03 Jun 2026 18:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians confirma renovação com gestora do estacionamento e prevê ampliação da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534298/corinthians-confirma-renovacao-com-gestora-do-estacionamento-e-preve-ampliacao-da-neo-quimica-arena",
-      "time": "03/06 · 20:39",
-      "pubDate": "Wed, 03 Jun 2026 17:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Talleres estabelece data limite para Corinthians pagar dívida de Rodrigo Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534293/presidente-do-talleres-estabelece-data-limite-para-corinthians-pagar-divida-de-rodrigo-garro",
-      "time": "03/06 · 19:58",
-      "pubDate": "Wed, 03 Jun 2026 16:58:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Título, frustrações e troca no comando: relembre como foi o primeiro semestre do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534271/titulo-frustracoes-e-troca-no-comando-tecnico-relembre-como-foi-o-semestre-do-corinthians-em-2026",
-      "time": "03/06 · 19:31",
-      "pubDate": "Wed, 03 Jun 2026 16:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gustavo Henrique fecha fase de grupos da Libertadores com destaque defensivo e ofensivo no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-fecha-fase-de-grupos-da-libertadores-com-destaque-defensivo-e-ofensivo-no-corinthians]]>",
+      "time": "03/06 · 20:54",
+      "pubDate": "Wed, 03 Jun 2026 17:54:10 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-destaca-bom-momento-de-andre-no-corinthians-importante]]>",
       "time": "03/06 · 19:22",
       "pubDate": "Wed, 03 Jun 2026 16:22:43 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians trabalha organização tática visando amistoso contra seleção Sub-23 dos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534291/corinthians-trabalha-organizacao-tatica-visando-amistoso-contra-selecao-sub-23-dos-estados-unidos",
-      "time": "03/06 · 19:21",
-      "pubDate": "Wed, 03 Jun 2026 16:21:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-ve-pausa-da-copa-do-mundo-como-oportunidade-para-evolucao-do-corinthians-com-diniz]]>",
       "time": "03/06 · 02:01",
       "pubDate": "Tue, 02 Jun 2026 23:01:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz registra no Corinthians a menor média de gols sofridos de sua carreira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-registra-no-corinthians-a-menor-media-de-gols-sofridos-de-sua-carreira]]>",
-      "time": "02/06 · 20:59",
-      "pubDate": "Tue, 02 Jun 2026 17:59:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Igor Coronado manda a real e desabafa sobre passagem pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/igor-coronado-manda-a-real-e-desabafa-sobre-passagem-pelo-corinthians]]>",
-      "time": "02/06 · 18:22",
-      "pubDate": "Tue, 02 Jun 2026 15:22:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534250/ultimas-do-corinthians-goleiro-sem-espaco-polemica-de-presidente-e-lateral-comentarista",
       "pubDate": "Wed, 03 Jun 2026 07:30:00 -0300",
       "date": "03/06 · 10:30"
-    },
-    {
-      "title": "Goleiro do Corinthians projeta duelo contra Di María na Libertadores e relembra pênalti defendido",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534142/goleiro-do-corinthians-projeta-duelo-contra-di-maria-na-libertadores-e-relembra-penalti-defendido",
-      "pubDate": "Tue, 02 Jun 2026 20:29:00 -0300",
-      "date": "02/06 · 23:29"
     }
   ]
 };
