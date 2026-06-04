@@ -1,7 +1,39 @@
-// Gerado automaticamente em 04/06/2026, 10:52:52
+// Gerado automaticamente em 04/06/2026, 14:26:09
 const LIVE_DATA = {
-  "updatedAt": "2026-06-04T10:52:52.001Z",
+  "updatedAt": "2026-06-04T14:26:09.872Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz treino aberto e encerra preparação para amistoso contra sub-23 dos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534330/corinthians-faz-treino-aberto-e-encerra-preparacao-para-amistoso-contra-sub-23-dos-estados-unidos",
+      "time": "04/06 · 13:32",
+      "pubDate": "Thu, 04 Jun 2026 10:32:46 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians define valor para venda de Yuri Alberto e atualiza situação de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534309/presidente-do-corinthians-define-valor-para-venda-de-yuri-alberto-e-atualiza-situacao-de-memphis",
+      "time": "04/06 · 13:31",
+      "pubDate": "Thu, 04 Jun 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra a terceira maior dívida líquida do futebol brasileiro em 2025; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534283/corinthians-registra-a-terceira-maior-divida-liquida-do-futebol-brasileiro-em-2025-veja-os-numeros",
+      "time": "04/06 · 12:32",
+      "pubDate": "Thu, 04 Jun 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians projeta custo milionário de ampliação da Arena bancada por gestora do estacionamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534327/corinthians-projeta-custo-milionario-de-ampliacao-da-arena-bancada-por-gestora-do-estacionamento",
+      "time": "04/06 · 11:31",
+      "pubDate": "Thu, 04 Jun 2026 08:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +41,22 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534321/ultimas-do-corinthians-possivel-novo-patrocinio-caso-flora-e-acordo-por-estacionamento",
       "time": "04/06 · 10:30",
       "pubDate": "Thu, 04 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile revela que aguarda resposta de Memphis Depay por renovação no Corinthians: “Não disse”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-revela-que-aguarda-resposta-de-memphis-depay-por-renovacao-no-corinthians-nao-disse]]>",
+      "time": "04/06 · 04:41",
+      "pubDate": "Thu, 04 Jun 2026 01:41:13 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile define preço de Yuri Alberto e crava permanência no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-define-preco-de-yuri-alberto-e-crava-permanencia-no-corinthians]]>",
+      "time": "04/06 · 02:36",
+      "pubDate": "Wed, 03 Jun 2026 23:36:59 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,36 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 03 Jun 2026 21:26:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians supera o Indaiatuba em casa e assume a liderança do Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534249/corinthians-supera-o-indaiatuba-em-casa-e-assume-a-lideranca-do-paulista-de-futsal",
-      "time": "04/06 · 00:26",
-      "pubDate": "Wed, 03 Jun 2026 21:26:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guerrero sugere meio-campista do Corinthians como possível reforço para clube peruano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534296/guerrero-sugere-meio-campista-do-corinthians-como-possivel-reforco-para-clube-peruano",
-      "time": "03/06 · 23:33",
-      "pubDate": "Wed, 03 Jun 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians rebate pai de promessa da base do Corinthians após anúncio de saída",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534312/corinthians-rebate-pai-de-promessa-da-base-do-corinthians-apos-anuncio-de-saida",
-      "time": "03/06 · 23:20",
-      "pubDate": "Wed, 03 Jun 2026 20:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel aprova primeiro semestre do Corinthians e acredita que equipe poderia ser melhor",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534262/fiel-aprova-primeiro-semestre-do-corinthians-e-acredita-que-equipe-poderia-ser-melhor",
-      "time": "03/06 · 22:32",
-      "pubDate": "Wed, 03 Jun 2026 19:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians mantém cofres aquecidos e acumula quase R$ 80 milhões antes da pausa para Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mantem-cofres-aquecidos-e-acumula-quase-r-80-milhoes-antes-da-pausa-para-copa-do-mundo]]>",
+      "time": "04/06 · 00:23",
+      "pubDate": "Wed, 03 Jun 2026 21:23:54 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians demonstra interesse em Luiz Felipe para reforçar a defesa em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demonstra-interesse-em-luiz-felipe-para-reforcar-a-defesa-em-2026]]>",
-      "time": "03/06 · 15:01",
-      "pubDate": "Wed, 03 Jun 2026 12:01:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians deixa transfer ban de lado e prioriza dívida de R$ 42 milhões com Talleres por Garro",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deixa-transfer-ban-de-lado-e-prioriza-divida-de-r-42-milhoes-com-talleres-por-garro]]>",
       "time": "03/06 · 14:12",
       "pubDate": "Wed, 03 Jun 2026 11:12:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não tem interesse na contratação de Bakayoko, revela Marcelo Paz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-tem-interesse-na-contratacao-de-bakayoko-revela-marcelo-paz]]>",
-      "time": "03/06 · 11:53",
-      "pubDate": "Wed, 03 Jun 2026 08:53:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Bidu vê pausa da Copa do Mundo como oportunidade para evolução do Corinthians com Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-ve-pausa-da-copa-do-mundo-como-oportunidade-para-evolucao-do-corinthians-com-diniz]]>",
-      "time": "03/06 · 02:01",
-      "pubDate": "Tue, 02 Jun 2026 23:01:21 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,18 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128200/elenco-do-corinthians-curte-ferias-em-meio-a-denuncias-e-especulacoes",
       "pubDate": "Wed, 03 Jun 2026 16:01:42 -0300",
       "date": "03/06 · 19:01"
-    },
-    {
-      "title": "Memphis entra em campo nesta quarta em amistoso da Holanda contra a Argélia; saiba onde assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534237/memphis-entra-em-campo-nesta-quarta-em-amistoso-da-holanda-contra-a-argelia-saiba-onde-assistir",
-      "pubDate": "Wed, 03 Jun 2026 09:36:00 -0300",
-      "date": "03/06 · 12:36"
-    },
-    {
-      "title": "Últimas do Corinthians: goleiro sem espaço, polêmica de presidente e lateral comentarista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534250/ultimas-do-corinthians-goleiro-sem-espaco-polemica-de-presidente-e-lateral-comentarista",
-      "pubDate": "Wed, 03 Jun 2026 07:30:00 -0300",
-      "date": "03/06 · 10:30"
     }
   ]
 };
