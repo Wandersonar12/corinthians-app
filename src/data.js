@@ -1,7 +1,47 @@
-// Gerado automaticamente em 05/06/2026, 19:26:38
+// Gerado automaticamente em 05/06/2026, 22:54:11
 const LIVE_DATA = {
-  "updatedAt": "2026-06-05T19:26:38.028Z",
+  "updatedAt": "2026-06-05T22:54:11.116Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians valoriza vitória sobre o Indaiatuba e relata confiança para compromisso pela LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534323/ala-do-corinthians-valoriza-vitoria-sobre-o-indaiatuba-e-relata-confianca-para-compromisso-pela-lnf",
+      "time": "05/06 · 22:33",
+      "pubDate": "Fri, 05 Jun 2026 19:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ana Vitória exalta campanha do Corinthians na Copa das Campeãs e cita evolução do futebol brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534374/ana-vitoria-exalta-campanha-do-corinthians-na-copa-das-campeas-e-cita-evolucao-do-futebol-brasileiro",
+      "time": "05/06 · 21:30",
+      "pubDate": "Fri, 05 Jun 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Auxiliar de clube europeu abre as portas para Yuri Alberto e elogia joia revelada pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534363/auxiliar-de-clube-europeu-abre-as-portas-para-yuri-alberto-e-elogia-joia-revelada-pelo-corinthians",
+      "time": "05/06 · 20:32",
+      "pubDate": "Fri, 05 Jun 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians derrota o Mirassol na estreia do Campeonato Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534371/corinthians-derrota-o-mirassol-na-estreia-do-campeonato-paulista-sub-20",
+      "time": "05/06 · 19:51",
+      "pubDate": "Fri, 05 Jun 2026 16:51:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians projeta reação no Paulista Sub-17 após primeira derrota no Estadual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534366/zagueiro-do-corinthians-projeta-reacao-no-paulista-sub-17-apos-primeira-derrota-no-estadual",
+      "time": "05/06 · 19:33",
+      "pubDate": "Fri, 05 Jun 2026 16:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +49,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534340/grupo-de-conselheiros-e-associados-solicita-impeachment-contra-vice-do-corinthians-por-caso-nike",
       "time": "05/06 · 18:53",
       "pubDate": "Fri, 05 Jun 2026 15:53:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians fecha primeiro semestre com segunda maior média de público no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fecha-primeiro-semestre-com-segunda-maior-media-de-publico-no-brasileirao]]>",
+      "time": "05/06 · 18:42",
+      "pubDate": "Fri, 05 Jun 2026 15:42:15 -0300"
     },
     {
       "source": "Meu Timao",
@@ -27,52 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 05 Jun 2026 14:29:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga detalhes da venda de ingressos para o duelo contra o Santo André pela LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534362/corinthians-divulga-detalhes-da-venda-de-ingressos-para-o-duelo-contra-o-santo-andre-pela-lnf",
-      "time": "05/06 · 16:55",
-      "pubDate": "Fri, 05 Jun 2026 13:55:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians entra em campo para manter o bom retrospecto em estreias do Paulistão Sub-20 na década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534354/corinthians-entra-em-campo-para-manter-o-bom-retrospecto-em-estreias-do-paulistao-sub-20-na-decada",
-      "time": "05/06 · 16:32",
-      "pubDate": "Fri, 05 Jun 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fecha semestre com segunda maior média de público como mandante no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534272/corinthians-fecha-semestre-com-segunda-maior-media-de-publico-como-mandante-no-brasileirao",
-      "time": "05/06 · 15:34",
-      "pubDate": "Fri, 05 Jun 2026 12:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians projeta estreia e detalha preparação para o Paulistão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534351/lateral-do-corinthians-projeta-estreia-e-detalha-preparacao-para-o-paulistao-sub-20",
-      "time": "05/06 · 14:31",
-      "pubDate": "Fri, 05 Jun 2026 11:31:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fernando Diniz monitora Iago Machado, de 17 anos, da base do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-monitora-iago-machado-de-17-anos-da-base-do-corinthians]]>",
       "time": "05/06 · 13:53",
       "pubDate": "Fri, 05 Jun 2026 10:53:31 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Relatório aponta terceiro maior valor de mercado ao Corinthians entre times brasileiros",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534287/relatorio-aponta-terceiro-maior-valor-de-mercado-ao-corinthians-entre-times-brasileiros",
-      "time": "05/06 · 13:29",
-      "pubDate": "Fri, 05 Jun 2026 10:29:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-faz-sondagem-pela-contratacao-de-bitello-e-multa-no-dinamo-moscou-e-de-r-106-milhoes]]>",
       "time": "04/06 · 12:25",
       "pubDate": "Thu, 04 Jun 2026 09:25:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile revela que aguarda resposta de Memphis Depay por renovação no Corinthians: “Não disse”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-revela-que-aguarda-resposta-de-memphis-depay-por-renovacao-no-corinthians-nao-disse]]>",
-      "time": "04/06 · 04:41",
-      "pubDate": "Thu, 04 Jun 2026 01:41:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
