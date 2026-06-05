@@ -1,7 +1,71 @@
-// Gerado automaticamente em 05/06/2026, 14:16:02
+// Gerado automaticamente em 05/06/2026, 19:26:38
 const LIVE_DATA = {
-  "updatedAt": "2026-06-05T14:16:02.739Z",
+  "updatedAt": "2026-06-05T19:26:38.028Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Grupo de conselheiros e associados solicita impeachment contra vice do Corinthians por caso Nike",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534340/grupo-de-conselheiros-e-associados-solicita-impeachment-contra-vice-do-corinthians-por-caso-nike",
+      "time": "05/06 · 18:53",
+      "pubDate": "Fri, 05 Jun 2026 15:53:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Sub-15 projeta invencibilidade do Corinthians diante do Centro Olímpico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534364/atacante-do-sub-15-projeta-invencibilidade-do-corinthians-diante-do-centro-olimpico",
+      "time": "05/06 · 18:31",
+      "pubDate": "Fri, 05 Jun 2026 15:31:06 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Portilho diz não se arrepender de críticas ao Corinthians e cita falta de profissionalismo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534356/gabi-portilho-diz-nao-se-arrepender-de-criticas-ao-corinthians-e-cita-falta-de-profissionalismo",
+      "time": "05/06 · 17:29",
+      "pubDate": "Fri, 05 Jun 2026 14:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga detalhes da venda de ingressos para o duelo contra o Santo André pela LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534362/corinthians-divulga-detalhes-da-venda-de-ingressos-para-o-duelo-contra-o-santo-andre-pela-lnf",
+      "time": "05/06 · 16:55",
+      "pubDate": "Fri, 05 Jun 2026 13:55:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians entra em campo para manter o bom retrospecto em estreias do Paulistão Sub-20 na década",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534354/corinthians-entra-em-campo-para-manter-o-bom-retrospecto-em-estreias-do-paulistao-sub-20-na-decada",
+      "time": "05/06 · 16:32",
+      "pubDate": "Fri, 05 Jun 2026 13:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians fecha semestre com segunda maior média de público como mandante no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534272/corinthians-fecha-semestre-com-segunda-maior-media-de-publico-como-mandante-no-brasileirao",
+      "time": "05/06 · 15:34",
+      "pubDate": "Fri, 05 Jun 2026 12:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians projeta estreia e detalha preparação para o Paulistão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534351/lateral-do-corinthians-projeta-estreia-e-detalha-preparacao-para-o-paulistao-sub-20",
+      "time": "05/06 · 14:31",
+      "pubDate": "Fri, 05 Jun 2026 11:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz monitora Iago Machado, de 17 anos, da base do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-monitora-iago-machado-de-17-anos-da-base-do-corinthians]]>",
+      "time": "05/06 · 13:53",
+      "pubDate": "Fri, 05 Jun 2026 10:53:31 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 05 Jun 2026 10:29:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians enfrenta adversário da Seleção Brasileira nesta sexta-feira; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534348/volante-do-corinthians-enfrenta-adversario-da-selecao-brasileira-nesta-sexta-feira-saiba-tudo",
-      "time": "05/06 · 13:01",
-      "pubDate": "Fri, 05 Jun 2026 10:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "LDU mira Félix Torres e prepara proposta ao Corinthians para levar zagueiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ldu-mira-felix-torres-e-prepara-proposta-ao-corinthians-para-levar-zagueiro]]>",
+      "time": "05/06 · 12:32",
+      "pubDate": "Fri, 05 Jun 2026 09:32:42 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Mirassol para começar a campanha no Paulista Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534338/corinthians-visita-o-mirassol-para-comecar-a-campanha-no-paulista-sub-20-saiba-tudo",
-      "time": "05/06 · 12:31",
-      "pubDate": "Fri, 05 Jun 2026 09:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians se enfrenta na penúltima rodada da Liga das Nações; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534335/dupla-do-corinthians-se-enfrenta-na-penultima-rodada-da-liga-das-nacoes-saiba-tudo",
-      "time": "05/06 · 11:32",
-      "pubDate": "Fri, 05 Jun 2026 08:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: custo de ampliação, valor de Yuri Alberto e explicações de empresário",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534347/ultimas-do-corinthians-custo-de-ampliacao-valor-de-yuri-alberto-e-explicacoes-de-empresario",
-      "time": "05/06 · 10:30",
-      "pubDate": "Fri, 05 Jun 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Funcionários do Corinthians destacam debates em Encontro de Integridade Esportiva",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534341/funcionarios-do-corinthians-destacam-debates-em-encontro-de-integridade-esportiva",
-      "time": "05/06 · 01:03",
-      "pubDate": "Thu, 04 Jun 2026 22:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Companheiro de Memphis na Holanda aparece com uniforme completo de treino do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534346/companheiro-de-memphis-na-holanda-aparece-com-uniforme-completo-de-treino-do-corinthians",
-      "time": "05/06 · 00:15",
-      "pubDate": "Thu, 04 Jun 2026 21:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia cadastramento facial dos associados no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534342/corinthians-inicia-cadastramento-facial-dos-associados-no-parque-sao-jorge",
-      "time": "04/06 · 23:00",
-      "pubDate": "Thu, 04 Jun 2026 20:00:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aceita negociar Pedro Raul e procura clubes interessados; salário de R$ 750 mil é entrave",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-negociar-pedro-raul-e-procura-clubes-interessados-salario-de-r-750-mil-e-entrave]]>",
+      "time": "05/06 · 11:04",
+      "pubDate": "Fri, 05 Jun 2026 08:04:26 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-revela-que-aguarda-resposta-de-memphis-depay-por-renovacao-no-corinthians-nao-disse]]>",
       "time": "04/06 · 04:41",
       "pubDate": "Thu, 04 Jun 2026 01:41:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile define preço de Yuri Alberto e crava permanência no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-define-preco-de-yuri-alberto-e-crava-permanencia-no-corinthians]]>",
-      "time": "04/06 · 02:36",
-      "pubDate": "Wed, 03 Jun 2026 23:36:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians mantém cofres aquecidos e acumula quase R$ 80 milhões antes da pausa para Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mantem-cofres-aquecidos-e-acumula-quase-r-80-milhoes-antes-da-pausa-para-copa-do-mundo]]>",
-      "time": "04/06 · 00:23",
-      "pubDate": "Wed, 03 Jun 2026 21:23:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians recebe ultimato do Talleres em dívida por Garro: “É a data limite”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-ultimato-do-talleres-em-divida-por-garro-e-a-data-limite]]>",
-      "time": "03/06 · 20:55",
-      "pubDate": "Wed, 03 Jun 2026 17:55:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
