@@ -1,7 +1,39 @@
-// Gerado automaticamente em 05/06/2026, 11:01:25
+// Gerado automaticamente em 05/06/2026, 14:16:02
 const LIVE_DATA = {
-  "updatedAt": "2026-06-05T11:01:25.394Z",
+  "updatedAt": "2026-06-05T14:16:02.739Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Relatório aponta terceiro maior valor de mercado ao Corinthians entre times brasileiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534287/relatorio-aponta-terceiro-maior-valor-de-mercado-ao-corinthians-entre-times-brasileiros",
+      "time": "05/06 · 13:29",
+      "pubDate": "Fri, 05 Jun 2026 10:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians enfrenta adversário da Seleção Brasileira nesta sexta-feira; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534348/volante-do-corinthians-enfrenta-adversario-da-selecao-brasileira-nesta-sexta-feira-saiba-tudo",
+      "time": "05/06 · 13:01",
+      "pubDate": "Fri, 05 Jun 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Mirassol para começar a campanha no Paulista Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534338/corinthians-visita-o-mirassol-para-comecar-a-campanha-no-paulista-sub-20-saiba-tudo",
+      "time": "05/06 · 12:31",
+      "pubDate": "Fri, 05 Jun 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians se enfrenta na penúltima rodada da Liga das Nações; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534335/dupla-do-corinthians-se-enfrenta-na-penultima-rodada-da-liga-das-nacoes-saiba-tudo",
+      "time": "05/06 · 11:32",
+      "pubDate": "Fri, 05 Jun 2026 08:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -24,7 +56,7 @@ const LIVE_DATA = {
       "title": "Companheiro de Memphis na Holanda aparece com uniforme completo de treino do Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534346/companheiro-de-memphis-na-holanda-aparece-com-uniforme-completo-de-treino-do-corinthians",
       "time": "05/06 · 00:15",
-      "pubDate": "Thu, 04 Jun 2026 21:15:50 -0300"
+      "pubDate": "Thu, 04 Jun 2026 21:15:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,44 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 04 Jun 2026 19:29:34 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico e goleiro do Corinthians comandam bastidores da vitória sobre o Indaiatuba",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534344/tecnico-e-goleiro-do-corinthians-comandam-bastidores-da-vitoria-sobre-o-indaiatuba",
-      "time": "04/06 · 22:29",
-      "pubDate": "Thu, 04 Jun 2026 19:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Sub-20 do Corinthians marca o primeiro gol como profissional do Timão contra o Indaiatuba",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534324/ala-do-sub-20-do-corinthians-marca-o-primeiro-gol-como-profissional-do-timao-contra-o-indaiatuba",
-      "time": "04/06 · 21:31",
-      "pubDate": "Thu, 04 Jun 2026 18:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: tudo sobre a luta do Corinthians pelo título do Campeonato Paulista Sub-20 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534337/guia-do-meu-timao-tudo-sobre-a-luta-do-corinthians-pelo-titulo-do-campeonato-paulista-sub-20-2026",
-      "time": "04/06 · 20:32",
-      "pubDate": "Thu, 04 Jun 2026 17:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians está entre clubes brasileiros com menos jogadores convocados para a Copa do Mundo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-esta-entre-clubes-brasileiros-com-menos-jogadores-convocados-para-a-copa-do-mundo]]>",
       "time": "04/06 · 20:05",
       "pubDate": "Thu, 04 Jun 2026 17:05:01 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vitória do Corinthians no Paulista de Futsal movimenta ranking de artilheiros da temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534322/vitoria-do-corinthians-no-paulista-de-futsal-movimenta-ranking-de-artilheiros-da-temporada",
-      "time": "04/06 · 19:34",
-      "pubDate": "Thu, 04 Jun 2026 16:34:00 -0300"
     },
     {
       "source": "Bolavip",
