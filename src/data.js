@@ -1,7 +1,47 @@
-// Gerado automaticamente em 04/06/2026, 22:58:58
+// Gerado automaticamente em 05/06/2026, 11:01:25
 const LIVE_DATA = {
-  "updatedAt": "2026-06-04T22:58:58.741Z",
+  "updatedAt": "2026-06-05T11:01:25.394Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: custo de ampliação, valor de Yuri Alberto e explicações de empresário",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534347/ultimas-do-corinthians-custo-de-ampliacao-valor-de-yuri-alberto-e-explicacoes-de-empresario",
+      "time": "05/06 · 10:30",
+      "pubDate": "Fri, 05 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Funcionários do Corinthians destacam debates em Encontro de Integridade Esportiva",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534341/funcionarios-do-corinthians-destacam-debates-em-encontro-de-integridade-esportiva",
+      "time": "05/06 · 01:03",
+      "pubDate": "Thu, 04 Jun 2026 22:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Companheiro de Memphis na Holanda aparece com uniforme completo de treino do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534346/companheiro-de-memphis-na-holanda-aparece-com-uniforme-completo-de-treino-do-corinthians",
+      "time": "05/06 · 00:15",
+      "pubDate": "Thu, 04 Jun 2026 21:15:50 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia cadastramento facial dos associados no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534342/corinthians-inicia-cadastramento-facial-dos-associados-no-parque-sao-jorge",
+      "time": "04/06 · 23:00",
+      "pubDate": "Thu, 04 Jun 2026 20:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians só aceita vender Breno Bidon ao Flamengo por no mínimo 40 milhões de euros, afirma jornalista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-so-aceita-vender-breno-bidon-ao-flamengo-por-no-minimo-40-milhoes-de-euros-afirma-jornalista]]>",
+      "time": "04/06 · 22:29",
+      "pubDate": "Thu, 04 Jun 2026 19:29:34 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,6 +67,14 @@ const LIVE_DATA = {
       "pubDate": "Thu, 04 Jun 2026 17:32:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians está entre clubes brasileiros com menos jogadores convocados para a Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-esta-entre-clubes-brasileiros-com-menos-jogadores-convocados-para-a-copa-do-mundo]]>",
+      "time": "04/06 · 20:05",
+      "pubDate": "Thu, 04 Jun 2026 17:05:01 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Vitória do Corinthians no Paulista de Futsal movimenta ranking de artilheiros da temporada",
@@ -35,44 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 04 Jun 2026 16:34:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está entre os times brasileiros com menor números de convocados nesta Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534281/corinthians-esta-entre-os-times-brasileiros-com-menor-numeros-de-convocados-nesta-copa-do-mundo",
-      "time": "04/06 · 18:32",
-      "pubDate": "Thu, 04 Jun 2026 15:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem terceiro melhor início de Paulistão da década após vencer o Indaiatuba",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534319/corinthians-tem-terceiro-melhor-inicio-de-paulistao-da-decada-apos-vencer-o-indaiatuba",
-      "time": "04/06 · 17:33",
-      "pubDate": "Thu, 04 Jun 2026 14:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Arthur Elias retorna ao CT Joaquim Grava e destaca importância do Corinthians em sua carreira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534265/arthur-elias-retorna-ao-ct-joaquim-grava-e-destaca-importancia-do-corinthians-em-sua-carreira",
-      "time": "04/06 · 16:32",
-      "pubDate": "Thu, 04 Jun 2026 13:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fabinho Soldado quer anunciar André Ramalho, do Corinthians, como novo reforço do Internacional",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fabinho-soldado-quer-anunciar-andre-ramalho-do-corinthians-como-novo-reforco-do-internacional]]>",
       "time": "04/06 · 16:05",
       "pubDate": "Thu, 04 Jun 2026 13:05:59 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Empresário detalha motivo que o levou a acionar o Corinthians na Justiça e critica Augusto Melo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534299/empresario-detalha-motivo-que-o-levou-a-acionar-o-corinthians-na-justica-e-critica-augusto-melo",
-      "time": "04/06 · 15:29",
-      "pubDate": "Thu, 04 Jun 2026 12:29:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-ultimato-do-talleres-em-divida-por-garro-e-a-data-limite]]>",
       "time": "03/06 · 20:55",
       "pubDate": "Wed, 03 Jun 2026 17:55:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gustavo Henrique fecha fase de grupos da Libertadores com destaque defensivo e ofensivo no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-fecha-fase-de-grupos-da-libertadores-com-destaque-defensivo-e-ofensivo-no-corinthians]]>",
-      "time": "03/06 · 20:54",
-      "pubDate": "Wed, 03 Jun 2026 17:54:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Bidu destaca bom momento de André no Corinthians: “Importante”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-destaca-bom-momento-de-andre-no-corinthians-importante]]>",
-      "time": "03/06 · 19:22",
-      "pubDate": "Wed, 03 Jun 2026 16:22:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
