@@ -1,14 +1,38 @@
-// Gerado automaticamente em 06/06/2026, 09:50:42
+// Gerado automaticamente em 06/06/2026, 13:00:56
 const LIVE_DATA = {
-  "updatedAt": "2026-06-06T09:50:42.205Z",
+  "updatedAt": "2026-06-06T13:00:56.900Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians entram em campo pela Seleção Feminina diante dos Estados Unidos em Itaquera",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534367/jogadoras-do-corinthians-entram-em-campo-pela-selecao-feminina-diante-dos-estados-unidos-em-itaquera",
+      "time": "06/06 · 12:00",
+      "pubDate": "Sat, 06 Jun 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Centro Olímpico em busca da liderança do Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534369/corinthians-recebe-o-centro-olimpico-em-busca-da-lideranca-do-paulista-sub-17",
+      "time": "06/06 · 11:00",
+      "pubDate": "Sat, 06 Jun 2026 08:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: Timão valorizado, elogio a atacante e pedido de afastamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534386/ultimas-do-corinthians-timao-valorizado-elogio-a-atacante-e-pedido-de-afastamento",
+      "time": "06/06 · 10:30",
+      "pubDate": "Sat, 06 Jun 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Meio-campista do Corinthians participa de vitória contra adversário do Brasil na Copa do Mundo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534385/meio-campista-do-corinthians-participa-de-vitoria-contra-adversario-do-brasil-na-copa-do-mundo",
       "time": "06/06 · 01:55",
-      "pubDate": "Fri, 05 Jun 2026 22:55:32 -0300"
+      "pubDate": "Fri, 05 Jun 2026 22:55:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,36 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 05 Jun 2026 20:35:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians valoriza vitória sobre o Indaiatuba e relata confiança para compromisso pela LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534323/ala-do-corinthians-valoriza-vitoria-sobre-o-indaiatuba-e-relata-confianca-para-compromisso-pela-lnf",
-      "time": "05/06 · 22:33",
-      "pubDate": "Fri, 05 Jun 2026 19:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ana Vitória exalta campanha do Corinthians na Copa das Campeãs e cita evolução do futebol brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534374/ana-vitoria-exalta-campanha-do-corinthians-na-copa-das-campeas-e-cita-evolucao-do-futebol-brasileiro",
-      "time": "05/06 · 21:30",
-      "pubDate": "Fri, 05 Jun 2026 18:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Gui Negão tem preço definido pelo Corinthians em 12 milhões de euros e times do Brasil sondaram situação",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-tem-preco-definido-pelo-corinthians-em-12-milhoes-de-euros-e-times-do-brasil-sondaram-situacao]]>",
       "time": "05/06 · 20:57",
       "pubDate": "Fri, 05 Jun 2026 17:57:31 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Auxiliar de clube europeu abre as portas para Yuri Alberto e elogia joia revelada pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534363/auxiliar-de-clube-europeu-abre-as-portas-para-yuri-alberto-e-elogia-joia-revelada-pelo-corinthians",
-      "time": "05/06 · 20:32",
-      "pubDate": "Fri, 05 Jun 2026 17:32:00 -0300"
     },
     {
       "source": "Bolavip",
