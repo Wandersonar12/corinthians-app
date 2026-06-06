@@ -1,70 +1,86 @@
-// Gerado automaticamente em 06/06/2026, 13:00:56
+// Gerado automaticamente em 06/06/2026, 19:00:12
 const LIVE_DATA = {
-  "updatedAt": "2026-06-06T13:00:56.900Z",
+  "updatedAt": "2026-06-06T19:00:12.002Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians entram em campo pela Seleção Feminina diante dos Estados Unidos em Itaquera",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534367/jogadoras-do-corinthians-entram-em-campo-pela-selecao-feminina-diante-dos-estados-unidos-em-itaquera",
-      "time": "06/06 · 12:00",
-      "pubDate": "Sat, 06 Jun 2026 09:00:00 -0300"
+      "title": "Ex-goleira do Corinthians destaca influência de Lelê após convocação para a Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534353/ex-goleira-do-corinthians-destaca-influencia-de-lele-apos-convocacao-para-a-selecao-brasileira",
+      "time": "06/06 · 18:01",
+      "pubDate": "Sat, 06 Jun 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Centro Olímpico em busca da liderança do Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534369/corinthians-recebe-o-centro-olimpico-em-busca-da-lideranca-do-paulista-sub-17",
-      "time": "06/06 · 11:00",
-      "pubDate": "Sat, 06 Jun 2026 08:00:00 -0300"
+      "title": "Zagueiro do Corinthians segue recuperação no CT durante férias do elenco alvinegro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534397/zagueiro-do-corinthians-segue-recuperacao-no-ct-durante-ferias-do-elenco-alvinegro",
+      "time": "06/06 · 17:32",
+      "pubDate": "Sat, 06 Jun 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: Timão valorizado, elogio a atacante e pedido de afastamento",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534386/ultimas-do-corinthians-timao-valorizado-elogio-a-atacante-e-pedido-de-afastamento",
-      "time": "06/06 · 10:30",
-      "pubDate": "Sat, 06 Jun 2026 07:30:00 -0300"
+      "title": "Zagueiro observado por Diniz assume a vice-artilharia do Sub-20 do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534372/zagueiro-observado-por-diniz-assume-a-vice-artilharia-do-sub-20-do-corinthians-em-2026",
+      "time": "06/06 · 17:03",
+      "pubDate": "Sat, 06 Jun 2026 14:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians participa de vitória contra adversário do Brasil na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534385/meio-campista-do-corinthians-participa-de-vitoria-contra-adversario-do-brasil-na-copa-do-mundo",
-      "time": "06/06 · 01:55",
-      "pubDate": "Fri, 05 Jun 2026 22:55:00 -0300"
+      "title": "Goleira do Corinthians terá trajetória retratada em museu de sua cidade natal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534286/goleira-do-corinthians-tera-trajetoria-retratada-em-museu-de-sua-cidade-natal",
+      "time": "06/06 · 16:04",
+      "pubDate": "Sat, 06 Jun 2026 13:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante da Inglaterra participa de treino para Copa do Mundo com uniforme do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534384/atacante-da-inglaterra-participa-de-treino-para-copa-do-mundo-com-uniforme-do-corinthians",
-      "time": "06/06 · 01:02",
-      "pubDate": "Fri, 05 Jun 2026 22:02:00 -0300"
+      "title": "Corinthians goleia AD Centro Olímpico pelo Campeonato Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534396/corinthians-goleia-ad-centro-olimpico-pelo-campeonato-paulista-sub-17",
+      "time": "06/06 · 16:02",
+      "pubDate": "Sat, 06 Jun 2026 13:02:48 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians marca gol decisivo e classifica a Colômbia para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534383/atacante-do-corinthians-marca-gol-decisivo-e-classifica-a-colombia-para-a-copa-do-mundo",
-      "time": "06/06 · 01:01",
-      "pubDate": "Fri, 05 Jun 2026 22:01:00 -0300"
+      "title": "Atletas do Corinthians registram números de destaque em temporada histórica no NBB; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534297/atletas-do-corinthians-registram-numeros-de-destaque-em-temporada-historica-no-nbb-confira",
+      "time": "06/06 · 15:01",
+      "pubDate": "Sat, 06 Jun 2026 12:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians celebra Dia Mundial do Meio Ambiente com campanha nas redes sociais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534360/corinthians-celebra-dia-mundial-do-meio-ambiente-com-campanha-nas-redes-sociais",
-      "time": "06/06 · 00:32",
-      "pubDate": "Fri, 05 Jun 2026 21:32:00 -0300"
+      "title": "Atacante do Corinthians se destaca em vitória da Seleção Sub-20 diante da Coreia do Sul",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534395/atacante-do-corinthians-se-destaca-em-vitoria-da-selecao-sub-20-diante-da-coreia-do-sul",
+      "time": "06/06 · 14:29",
+      "pubDate": "Sat, 06 Jun 2026 11:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Coordenador de mercado destaca foco do Corinthians na base para captação no Brasil e no exterior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534365/coordenador-de-mercado-destaca-foco-do-corinthians-na-base-para-captacao-no-brasil-e-no-exterior",
-      "time": "05/06 · 23:35",
-      "pubDate": "Fri, 05 Jun 2026 20:35:00 -0300"
+      "title": "Gaviões da Fiel cobra afastamento de vice-presidente do Corinthians após denúncia do MP no caso Nike",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534394/gavioes-da-fiel-cobra-afastamento-de-vice-presidente-do-corinthians-apos-denuncia-do-mp-no-caso-nike",
+      "time": "06/06 · 14:03",
+      "pubDate": "Sat, 06 Jun 2026 11:03:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians prioriza contratação de camisa 9 do futebol brasileiro a pedido de Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-contratacao-de-camisa-9-do-futebol-brasileiro-a-pedido-de-fernando-diniz]]>",
+      "time": "06/06 · 11:07",
+      "pubDate": "Sat, 06 Jun 2026 08:07:50 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Noni Madueke treina com a camisa do Corinthians antes da Copa do Mundo pela Inglaterra",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/noni-madueke-treina-com-a-camisa-do-corinthians-antes-da-copa-do-mundo-pela-inglaterra]]>",
+      "time": "06/06 · 10:51",
+      "pubDate": "Sat, 06 Jun 2026 07:51:07 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-so-aceita-vender-breno-bidon-ao-flamengo-por-no-minimo-40-milhoes-de-euros-afirma-jornalista]]>",
       "time": "04/06 · 22:29",
       "pubDate": "Thu, 04 Jun 2026 19:29:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians está entre clubes brasileiros com menos jogadores convocados para a Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-esta-entre-clubes-brasileiros-com-menos-jogadores-convocados-para-a-copa-do-mundo]]>",
-      "time": "04/06 · 20:05",
-      "pubDate": "Thu, 04 Jun 2026 17:05:01 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fabinho Soldado quer anunciar André Ramalho, do Corinthians, como novo reforço do Internacional",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fabinho-soldado-quer-anunciar-andre-ramalho-do-corinthians-como-novo-reforco-do-internacional]]>",
-      "time": "04/06 · 16:05",
-      "pubDate": "Thu, 04 Jun 2026 13:05:59 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,22 +200,34 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Ex-goleira do Corinthians destaca influência de Lelê após convocação para a Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534353/ex-goleira-do-corinthians-destaca-influencia-de-lele-apos-convocacao-para-a-selecao-brasileira",
+      "pubDate": "Sat, 06 Jun 2026 15:01:00 -0300",
+      "date": "06/06 · 18:01"
+    },
+    {
+      "title": "Goleira do Corinthians terá trajetória retratada em museu de sua cidade natal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534286/goleira-do-corinthians-tera-trajetoria-retratada-em-museu-de-sua-cidade-natal",
+      "pubDate": "Sat, 06 Jun 2026 13:04:00 -0300",
+      "date": "06/06 · 16:04"
+    },
+    {
+      "title": "Corinthians goleia AD Centro Olímpico pelo Campeonato Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534396/corinthians-goleia-ad-centro-olimpico-pelo-campeonato-paulista-sub-17",
+      "pubDate": "Sat, 06 Jun 2026 13:02:48 -0300",
+      "date": "06/06 · 16:02"
+    },
+    {
+      "title": "Corinthians enfrenta o Mixto após sonora goleada na estreia do Brasileirão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534370/corinthians-enfrenta-o-mixto-apos-sonora-goleada-na-estreia-do-brasileirao-feminino-sub-17",
+      "pubDate": "Sat, 06 Jun 2026 10:02:00 -0300",
+      "date": "06/06 · 13:02"
+    },
+    {
       "title": "Atacante do Corinthians marca gol decisivo e classifica a Colômbia para a Copa do Mundo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534383/atacante-do-corinthians-marca-gol-decisivo-e-classifica-a-colombia-para-a-copa-do-mundo",
       "pubDate": "Fri, 05 Jun 2026 22:01:00 -0300",
       "date": "06/06 · 01:01"
-    },
-    {
-      "title": "Técnico e goleiro do Corinthians comandam bastidores da vitória sobre o Indaiatuba",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534344/tecnico-e-goleiro-do-corinthians-comandam-bastidores-da-vitoria-sobre-o-indaiatuba",
-      "pubDate": "Thu, 04 Jun 2026 19:29:00 -0300",
-      "date": "04/06 · 22:29"
-    },
-    {
-      "title": "Ala do Sub-20 do Corinthians marca o primeiro gol como profissional do Timão contra o Indaiatuba",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534324/ala-do-sub-20-do-corinthians-marca-o-primeiro-gol-como-profissional-do-timao-contra-o-indaiatuba",
-      "pubDate": "Thu, 04 Jun 2026 18:31:00 -0300",
-      "date": "04/06 · 21:31"
     }
   ]
 };
