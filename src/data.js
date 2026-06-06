@@ -1,7 +1,39 @@
-// Gerado automaticamente em 06/06/2026, 19:00:12
+// Gerado automaticamente em 06/06/2026, 22:51:26
 const LIVE_DATA = {
-  "updatedAt": "2026-06-06T19:00:12.002Z",
+  "updatedAt": "2026-06-06T22:51:26.317Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém marca favorável em estreias do Paulista Sub-20; veja o retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534392/corinthians-mantem-marca-favoravel-em-estreias-do-paulista-sub-20-veja-o-retrospecto",
+      "time": "06/06 · 22:03",
+      "pubDate": "Sat, 06 Jun 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro emprestado pelo Corinthians conquista a Copa do Nordeste contra Filho do Terrão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534403/zagueiro-emprestado-pelo-corinthians-conquista-a-copa-do-nordeste-contra-filho-do-terrao",
+      "time": "06/06 · 21:05",
+      "pubDate": "Sat, 06 Jun 2026 18:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians atropela o Mixto e mantém invencibilidade do Brasileirão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534402/corinthians-atropela-o-mixto-e-mantem-invencibilidade-do-brasileirao-feminino-sub-17",
+      "time": "06/06 · 19:53",
+      "pubDate": "Sat, 06 Jun 2026 16:53:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians comenta sobre o gol marcado e vitória diante do Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534389/zagueiro-do-corinthians-comenta-sobre-o-gol-marcado-e-vitoria-diante-do-mirassol",
+      "time": "06/06 · 19:01",
+      "pubDate": "Sat, 06 Jun 2026 16:01:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,44 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Sat, 06 Jun 2026 13:04:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians goleia AD Centro Olímpico pelo Campeonato Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534396/corinthians-goleia-ad-centro-olimpico-pelo-campeonato-paulista-sub-17",
-      "time": "06/06 · 16:02",
-      "pubDate": "Sat, 06 Jun 2026 13:02:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atletas do Corinthians registram números de destaque em temporada histórica no NBB; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534297/atletas-do-corinthians-registram-numeros-de-destaque-em-temporada-historica-no-nbb-confira",
-      "time": "06/06 · 15:01",
-      "pubDate": "Sat, 06 Jun 2026 12:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians se destaca em vitória da Seleção Sub-20 diante da Coreia do Sul",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534395/atacante-do-corinthians-se-destaca-em-vitoria-da-selecao-sub-20-diante-da-coreia-do-sul",
-      "time": "06/06 · 14:29",
-      "pubDate": "Sat, 06 Jun 2026 11:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gaviões da Fiel cobra afastamento de vice-presidente do Corinthians após denúncia do MP no caso Nike",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534394/gavioes-da-fiel-cobra-afastamento-de-vice-presidente-do-corinthians-apos-denuncia-do-mp-no-caso-nike",
-      "time": "06/06 · 14:03",
-      "pubDate": "Sat, 06 Jun 2026 11:03:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians prioriza contratação de camisa 9 do futebol brasileiro a pedido de Fernando Diniz",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-contratacao-de-camisa-9-do-futebol-brasileiro-a-pedido-de-fernando-diniz]]>",
-      "time": "06/06 · 11:07",
-      "pubDate": "Sat, 06 Jun 2026 08:07:50 -0300"
+      "time": "06/06 · 14:27",
+      "pubDate": "Sat, 06 Jun 2026 11:27:49 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gui Negão entra no radar do Internacional e Corinthians pode negociar caso mantenha Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-entra-no-radar-do-internacional-e-corinthians-pode-negociar-caso-mantenha-yuri-alberto]]>",
+      "time": "06/06 · 14:21",
+      "pubDate": "Sat, 06 Jun 2026 11:21:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-negociar-pedro-raul-e-procura-clubes-interessados-salario-de-r-750-mil-e-entrave]]>",
       "time": "05/06 · 11:04",
       "pubDate": "Fri, 05 Jun 2026 08:04:26 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians só aceita vender Breno Bidon ao Flamengo por no mínimo 40 milhões de euros, afirma jornalista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-so-aceita-vender-breno-bidon-ao-flamengo-por-no-minimo-40-milhoes-de-euros-afirma-jornalista]]>",
-      "time": "04/06 · 22:29",
-      "pubDate": "Thu, 04 Jun 2026 19:29:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Zagueiro do Corinthians comenta sobre o gol marcado e vitória diante do Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534389/zagueiro-do-corinthians-comenta-sobre-o-gol-marcado-e-vitoria-diante-do-mirassol",
+      "pubDate": "Sat, 06 Jun 2026 16:01:00 -0300",
+      "date": "06/06 · 19:01"
+    },
     {
       "title": "Ex-goleira do Corinthians destaca influência de Lelê após convocação para a Seleção Brasileira",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534353/ex-goleira-do-corinthians-destaca-influencia-de-lele-apos-convocacao-para-a-selecao-brasileira",
