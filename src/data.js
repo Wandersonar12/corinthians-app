@@ -1,7 +1,47 @@
-// Gerado automaticamente em 05/06/2026, 22:54:11
+// Gerado automaticamente em 06/06/2026, 09:50:42
 const LIVE_DATA = {
-  "updatedAt": "2026-06-05T22:54:11.116Z",
+  "updatedAt": "2026-06-06T09:50:42.205Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians participa de vitória contra adversário do Brasil na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534385/meio-campista-do-corinthians-participa-de-vitoria-contra-adversario-do-brasil-na-copa-do-mundo",
+      "time": "06/06 · 01:55",
+      "pubDate": "Fri, 05 Jun 2026 22:55:32 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante da Inglaterra participa de treino para Copa do Mundo com uniforme do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534384/atacante-da-inglaterra-participa-de-treino-para-copa-do-mundo-com-uniforme-do-corinthians",
+      "time": "06/06 · 01:02",
+      "pubDate": "Fri, 05 Jun 2026 22:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians marca gol decisivo e classifica a Colômbia para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534383/atacante-do-corinthians-marca-gol-decisivo-e-classifica-a-colombia-para-a-copa-do-mundo",
+      "time": "06/06 · 01:01",
+      "pubDate": "Fri, 05 Jun 2026 22:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians celebra Dia Mundial do Meio Ambiente com campanha nas redes sociais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534360/corinthians-celebra-dia-mundial-do-meio-ambiente-com-campanha-nas-redes-sociais",
+      "time": "06/06 · 00:32",
+      "pubDate": "Fri, 05 Jun 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Coordenador de mercado destaca foco do Corinthians na base para captação no Brasil e no exterior",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534365/coordenador-de-mercado-destaca-foco-do-corinthians-na-base-para-captacao-no-brasil-e-no-exterior",
+      "time": "05/06 · 23:35",
+      "pubDate": "Fri, 05 Jun 2026 20:35:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,6 +59,14 @@ const LIVE_DATA = {
       "pubDate": "Fri, 05 Jun 2026 18:30:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gui Negão tem preço definido pelo Corinthians em 12 milhões de euros e times do Brasil sondaram situação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-tem-preco-definido-pelo-corinthians-em-12-milhoes-de-euros-e-times-do-brasil-sondaram-situacao]]>",
+      "time": "05/06 · 20:57",
+      "pubDate": "Fri, 05 Jun 2026 17:57:31 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Auxiliar de clube europeu abre as portas para Yuri Alberto e elogia joia revelada pelo Corinthians",
@@ -27,52 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 05 Jun 2026 17:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians derrota o Mirassol na estreia do Campeonato Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534371/corinthians-derrota-o-mirassol-na-estreia-do-campeonato-paulista-sub-20",
-      "time": "05/06 · 19:51",
-      "pubDate": "Fri, 05 Jun 2026 16:51:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians projeta reação no Paulista Sub-17 após primeira derrota no Estadual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534366/zagueiro-do-corinthians-projeta-reacao-no-paulista-sub-17-apos-primeira-derrota-no-estadual",
-      "time": "05/06 · 19:33",
-      "pubDate": "Fri, 05 Jun 2026 16:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Grupo de conselheiros e associados solicita impeachment contra vice do Corinthians por caso Nike",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534340/grupo-de-conselheiros-e-associados-solicita-impeachment-contra-vice-do-corinthians-por-caso-nike",
-      "time": "05/06 · 18:53",
-      "pubDate": "Fri, 05 Jun 2026 15:53:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians fecha primeiro semestre com segunda maior média de público no Brasileirão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fecha-primeiro-semestre-com-segunda-maior-media-de-publico-no-brasileirao]]>",
       "time": "05/06 · 18:42",
       "pubDate": "Fri, 05 Jun 2026 15:42:15 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Sub-15 projeta invencibilidade do Corinthians diante do Centro Olímpico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534364/atacante-do-sub-15-projeta-invencibilidade-do-corinthians-diante-do-centro-olimpico",
-      "time": "05/06 · 18:31",
-      "pubDate": "Fri, 05 Jun 2026 15:31:06 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Portilho diz não se arrepender de críticas ao Corinthians e cita falta de profissionalismo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534356/gabi-portilho-diz-nao-se-arrepender-de-criticas-ao-corinthians-e-cita-falta-de-profissionalismo",
-      "time": "05/06 · 17:29",
-      "pubDate": "Fri, 05 Jun 2026 14:29:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fabinho-soldado-quer-anunciar-andre-ramalho-do-corinthians-como-novo-reforco-do-internacional]]>",
       "time": "04/06 · 16:05",
       "pubDate": "Thu, 04 Jun 2026 13:05:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians faz sondagem pela contratação de Bitello e multa no Dínamo Moscou é de R$ 106 milhões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-faz-sondagem-pela-contratacao-de-bitello-e-multa-no-dinamo-moscou-e-de-r-106-milhoes]]>",
-      "time": "04/06 · 12:25",
-      "pubDate": "Thu, 04 Jun 2026 09:25:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Atacante do Corinthians marca gol decisivo e classifica a Colômbia para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534383/atacante-do-corinthians-marca-gol-decisivo-e-classifica-a-colombia-para-a-copa-do-mundo",
+      "pubDate": "Fri, 05 Jun 2026 22:01:00 -0300",
+      "date": "06/06 · 01:01"
+    },
     {
       "title": "Técnico e goleiro do Corinthians comandam bastidores da vitória sobre o Indaiatuba",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534344/tecnico-e-goleiro-do-corinthians-comandam-bastidores-da-vitoria-sobre-o-indaiatuba",
