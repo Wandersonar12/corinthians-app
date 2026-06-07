@@ -1,7 +1,79 @@
-// Gerado automaticamente em 07/06/2026, 13:13:11
+// Gerado automaticamente em 07/06/2026, 19:01:15
 const LIVE_DATA = {
-  "updatedAt": "2026-06-07T13:13:11.344Z",
+  "updatedAt": "2026-06-07T19:01:15.277Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians figura entre melhores visitantes e piores mandantes do Brasileirão antes da Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534334/corinthians-figura-entre-melhores-visitantes-e-piores-mandantes-do-brasileirao-antes-da-copa",
+      "time": "07/06 · 18:28",
+      "pubDate": "Sun, 07 Jun 2026 15:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-goleiro do Corinthians nega arrependimento e relembra passagem pelo clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534398/ex-goleiro-do-corinthians-nega-arrependimento-e-relembra-passagem-pelo-clube",
+      "time": "07/06 · 17:31",
+      "pubDate": "Sun, 07 Jun 2026 14:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-Corinthians é convocado por Ancelotti para a Copa do Mundo após corte na Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534416/ex-corinthians-e-convocado-por-ancelotti-para-a-copa-do-mundo-apos-corte-na-selecao-brasileira",
+      "time": "07/06 · 16:48",
+      "pubDate": "Sun, 07 Jun 2026 13:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians relembra ausência na Seleção por concussão e explica recuperação após susto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534377/volante-do-corinthians-relembra-ausencia-na-selecao-por-concussao-e-explica-recuperacao-apos-susto",
+      "time": "07/06 · 16:33",
+      "pubDate": "Sun, 07 Jun 2026 13:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia troca do gramado da Neo Química Arena durante pausa da Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534415/corinthians-inicia-troca-do-gramado-da-neo-quimica-arena-durante-pausa-da-copa-do-mundo",
+      "time": "07/06 · 15:23",
+      "pubDate": "Sun, 07 Jun 2026 12:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pai de Endrick revela motivo que levou Corinthians a recusar atacante na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534413/pai-de-endrick-revela-motivo-que-levou-corinthians-a-recusar-atacante-na-base",
+      "time": "07/06 · 14:29",
+      "pubDate": "Sun, 07 Jun 2026 11:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico da Seleção Brasileira exalta Lelê e explica substituição da goleira do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534411/tecnico-da-selecao-brasileira-exalta-lele-e-explica-substituicao-da-goleira-do-corinthians",
+      "time": "07/06 · 13:32",
+      "pubDate": "Sun, 07 Jun 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians fixa preço de Breno Bidon e espera até R$ 208 milhões por venda",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fixa-preco-de-breno-bidon-e-espera-ate-r-208-milhoes-por-venda]]>",
+      "time": "07/06 · 12:53",
+      "pubDate": "Sun, 07 Jun 2026 09:53:05 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vetou contratação de Endrick em 2016, admite pai do atacante do Brasil na Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vetou-contratacao-de-endrick-em-2016-admite-pai-do-atacante-do-brasil-na-copa-do-mundo]]>",
+      "time": "07/06 · 12:40",
+      "pubDate": "Sun, 07 Jun 2026 09:40:09 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,22 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534400/sub-20-do-corinthians-amplia-invencibilidade-como-visitante-no-ano-e-mira-marca-de-2023",
       "time": "07/06 · 12:32",
       "pubDate": "Sun, 07 Jun 2026 09:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quem foi o melhor jogador do Corinthians no primeiro semestre de 2026? Vote na enquete do Meu Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534401/quem-foi-o-melhor-jogador-do-corinthians-no-primeiro-semestre-de-2026-vote-na-enquete-do-meu-timao",
-      "time": "07/06 · 11:30",
-      "pubDate": "Sun, 07 Jun 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: Tchoca no CT, zagueiro campeão e organizada cobra afastamento de dirigente",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534407/ultimas-do-corinthians-tchoca-no-ct-zagueiro-campeao-e-organizada-cobra-afastamento-de-dirigente",
-      "time": "07/06 · 10:30",
-      "pubDate": "Sun, 07 Jun 2026 07:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -35,52 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 06 Jun 2026 23:04:57 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ana Vitória relembra saída do Corinthians e destaca principal momento da segunda passagem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534375/ana-vitoria-relembra-saida-do-corinthians-e-destaca-principal-momento-da-segunda-passagem",
-      "time": "07/06 · 01:00",
-      "pubDate": "Sat, 06 Jun 2026 22:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians promove encontros de combate ao racismo para as categorias de base femininas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534361/corinthians-promove-encontros-de-combate-ao-racismo-para-as-categorias-de-base-femininas",
-      "time": "07/06 · 00:02",
-      "pubDate": "Sat, 06 Jun 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Trio do Corinthians é titular em vitória do Brasil sobre os Estados Unidos na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534405/trio-do-corinthians-e-titular-em-vitoria-do-brasil-sobre-os-estados-unidos-na-neo-quimica-arena",
-      "time": "06/06 · 23:41",
-      "pubDate": "Sat, 06 Jun 2026 20:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians enxerga evolução no futebol brasileiro e brinca com possível retorno de dupla",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534381/volante-do-corinthians-enxerga-evolucao-no-futebol-brasileiro-e-brinca-com-possivel-retorno-de-dupla",
-      "time": "06/06 · 23:03",
-      "pubDate": "Sat, 06 Jun 2026 20:03:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Zenit conversa com Corinthians por Yuri Alberto, mas acha valor alto para acordo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/zenit-conversa-com-corinthians-por-yuri-alberto-mas-acha-valor-alto-para-acordo]]>",
       "time": "06/06 · 22:35",
       "pubDate": "Sat, 06 Jun 2026 19:35:34 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém marca favorável em estreias do Paulista Sub-20; veja o retrospecto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534392/corinthians-mantem-marca-favoravel-em-estreias-do-paulista-sub-20-veja-o-retrospecto",
-      "time": "06/06 · 22:03",
-      "pubDate": "Sat, 06 Jun 2026 19:03:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-entra-no-radar-do-internacional-e-corinthians-pode-negociar-caso-mantenha-yuri-alberto]]>",
       "time": "06/06 · 14:21",
       "pubDate": "Sat, 06 Jun 2026 11:21:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Noni Madueke treina com a camisa do Corinthians antes da Copa do Mundo pela Inglaterra",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/noni-madueke-treina-com-a-camisa-do-corinthians-antes-da-copa-do-mundo-pela-inglaterra]]>",
-      "time": "06/06 · 10:51",
-      "pubDate": "Sat, 06 Jun 2026 07:51:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gui Negão tem preço definido pelo Corinthians em 12 milhões de euros e times do Brasil sondaram situação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-tem-preco-definido-pelo-corinthians-em-12-milhoes-de-euros-e-times-do-brasil-sondaram-situacao]]>",
-      "time": "05/06 · 20:57",
-      "pubDate": "Fri, 05 Jun 2026 17:57:31 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians figura entre melhores visitantes e piores mandantes do Brasileirão antes da Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534334/corinthians-figura-entre-melhores-visitantes-e-piores-mandantes-do-brasileirao-antes-da-copa",
+      "pubDate": "Sun, 07 Jun 2026 15:28:00 -0300",
+      "date": "07/06 · 18:28"
+    },
+    {
+      "title": "Ex-goleiro do Corinthians nega arrependimento e relembra passagem pelo clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534398/ex-goleiro-do-corinthians-nega-arrependimento-e-relembra-passagem-pelo-clube",
+      "pubDate": "Sun, 07 Jun 2026 14:31:00 -0300",
+      "date": "07/06 · 17:31"
+    },
+    {
+      "title": "Técnico da Seleção Brasileira exalta Lelê e explica substituição da goleira do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534411/tecnico-da-selecao-brasileira-exalta-lele-e-explica-substituicao-da-goleira-do-corinthians",
+      "pubDate": "Sun, 07 Jun 2026 10:32:00 -0300",
+      "date": "07/06 · 13:32"
+    },
+    {
       "title": "Ana Vitória relembra saída do Corinthians e destaca principal momento da segunda passagem",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534375/ana-vitoria-relembra-saida-do-corinthians-e-destaca-principal-momento-da-segunda-passagem",
       "pubDate": "Sat, 06 Jun 2026 22:00:00 -0300",
@@ -228,18 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534396/corinthians-goleia-ad-centro-olimpico-pelo-campeonato-paulista-sub-17",
       "pubDate": "Sat, 06 Jun 2026 13:02:48 -0300",
       "date": "06/06 · 16:02"
-    },
-    {
-      "title": "Corinthians enfrenta o Mixto após sonora goleada na estreia do Brasileirão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534370/corinthians-enfrenta-o-mixto-apos-sonora-goleada-na-estreia-do-brasileirao-feminino-sub-17",
-      "pubDate": "Sat, 06 Jun 2026 10:02:00 -0300",
-      "date": "06/06 · 13:02"
-    },
-    {
-      "title": "Atacante do Corinthians marca gol decisivo e classifica a Colômbia para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534383/atacante-do-corinthians-marca-gol-decisivo-e-classifica-a-colombia-para-a-copa-do-mundo",
-      "pubDate": "Fri, 05 Jun 2026 22:01:00 -0300",
-      "date": "06/06 · 01:01"
     }
   ]
 };
