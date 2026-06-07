@@ -1,7 +1,39 @@
-// Gerado automaticamente em 07/06/2026, 10:18:47
+// Gerado automaticamente em 07/06/2026, 13:13:11
 const LIVE_DATA = {
-  "updatedAt": "2026-06-07T10:18:47.226Z",
+  "updatedAt": "2026-06-07T13:13:11.344Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Sub-20 do Corinthians amplia invencibilidade como visitante no ano e mira marca de 2023",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534400/sub-20-do-corinthians-amplia-invencibilidade-como-visitante-no-ano-e-mira-marca-de-2023",
+      "time": "07/06 · 12:32",
+      "pubDate": "Sun, 07 Jun 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quem foi o melhor jogador do Corinthians no primeiro semestre de 2026? Vote na enquete do Meu Timão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534401/quem-foi-o-melhor-jogador-do-corinthians-no-primeiro-semestre-de-2026-vote-na-enquete-do-meu-timao",
+      "time": "07/06 · 11:30",
+      "pubDate": "Sun, 07 Jun 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: Tchoca no CT, zagueiro campeão e organizada cobra afastamento de dirigente",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534407/ultimas-do-corinthians-tchoca-no-ct-zagueiro-campeao-e-organizada-cobra-afastamento-de-dirigente",
+      "time": "07/06 · 10:30",
+      "pubDate": "Sun, 07 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Além do Internacional, Gui Negão também é monitorado pelo Galatasaray e Corinthians aguarda ofertas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/alem-do-internacional-gui-negao-tambem-e-monitorado-pelo-galatasaray-e-corinthians-aguarda-ofertas]]>",
+      "time": "07/06 · 02:04",
+      "pubDate": "Sat, 06 Jun 2026 23:04:57 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -51,14 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 06 Jun 2026 19:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro emprestado pelo Corinthians conquista a Copa do Nordeste contra Filho do Terrão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534403/zagueiro-emprestado-pelo-corinthians-conquista-a-copa-do-nordeste-contra-filho-do-terrao",
-      "time": "06/06 · 21:05",
-      "pubDate": "Sat, 06 Jun 2026 18:05:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "André Carrillo, meio-campista do Corinthians, participa da virada do Peru contra a seleção do Haiti",
@@ -67,28 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 06 Jun 2026 17:40:31 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians atropela o Mixto e mantém invencibilidade do Brasileirão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534402/corinthians-atropela-o-mixto-e-mantem-invencibilidade-do-brasileirao-feminino-sub-17",
-      "time": "06/06 · 19:53",
-      "pubDate": "Sat, 06 Jun 2026 16:53:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "João Pedro Tchoca avança recuperação física e realiza atividades durante férias do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-avanca-recuperacao-fisica-e-realiza-atividades-durante-ferias-do-corinthians]]>",
       "time": "06/06 · 19:19",
       "pubDate": "Sat, 06 Jun 2026 16:19:27 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians comenta sobre o gol marcado e vitória diante do Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534389/zagueiro-do-corinthians-comenta-sobre-o-gol-marcado-e-vitoria-diante-do-mirassol",
-      "time": "06/06 · 19:01",
-      "pubDate": "Sat, 06 Jun 2026 16:01:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-tem-preco-definido-pelo-corinthians-em-12-milhoes-de-euros-e-times-do-brasil-sondaram-situacao]]>",
       "time": "05/06 · 20:57",
       "pubDate": "Fri, 05 Jun 2026 17:57:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians fecha primeiro semestre com segunda maior média de público no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fecha-primeiro-semestre-com-segunda-maior-media-de-publico-no-brasileirao]]>",
-      "time": "05/06 · 18:42",
-      "pubDate": "Fri, 05 Jun 2026 15:42:15 -0300"
     },
     {
       "source": "Gazeta Esportiva",
