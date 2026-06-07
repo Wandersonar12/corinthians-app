@@ -1,7 +1,39 @@
-// Gerado automaticamente em 07/06/2026, 19:01:15
+// Gerado automaticamente em 07/06/2026, 22:52:12
 const LIVE_DATA = {
-  "updatedAt": "2026-06-07T19:01:15.277Z",
+  "updatedAt": "2026-06-07T22:52:12.792Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians valoriza marca com a Seleção e comemora bom público na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534412/volante-do-corinthians-valoriza-marca-com-a-selecao-e-comemora-bom-publico-na-neo-quimica-arena",
+      "time": "07/06 · 22:03",
+      "pubDate": "Sun, 07 Jun 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians é titular em goleada da Seleção Sub-17 contra os Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534422/goleiro-do-corinthians-e-titular-em-goleada-da-selecao-sub-17-contra-os-estados-unidos",
+      "time": "07/06 · 21:00",
+      "pubDate": "Sun, 07 Jun 2026 18:00:43 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleira do Corinthians destaca aprendizado na Seleção Sub-20 e celebra convocação para a principal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534418/goleira-do-corinthians-destaca-aprendizado-na-selecao-sub-20-e-celebra-convocacao-para-a-principal",
+      "time": "07/06 · 20:32",
+      "pubDate": "Sun, 07 Jun 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians fala sobre troca no comando técnico e rejeita favoritismo absoluto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534378/volante-do-corinthians-fala-sobre-troca-no-comando-tecnico-e-rejeita-favoritismo-absoluto",
+      "time": "07/06 · 19:33",
+      "pubDate": "Sun, 07 Jun 2026 16:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,52 +67,28 @@ const LIVE_DATA = {
       "pubDate": "Sun, 07 Jun 2026 13:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia troca do gramado da Neo Química Arena durante pausa da Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534415/corinthians-inicia-troca-do-gramado-da-neo-quimica-arena-durante-pausa-da-copa-do-mundo",
-      "time": "07/06 · 15:23",
-      "pubDate": "Sun, 07 Jun 2026 12:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pai de Endrick revela motivo que levou Corinthians a recusar atacante na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534413/pai-de-endrick-revela-motivo-que-levou-corinthians-a-recusar-atacante-na-base",
-      "time": "07/06 · 14:29",
-      "pubDate": "Sun, 07 Jun 2026 11:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico da Seleção Brasileira exalta Lelê e explica substituição da goleira do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534411/tecnico-da-selecao-brasileira-exalta-lele-e-explica-substituicao-da-goleira-do-corinthians",
-      "time": "07/06 · 13:32",
-      "pubDate": "Sun, 07 Jun 2026 10:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians fixa preço de Breno Bidon e espera até R$ 208 milhões por venda",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fixa-preco-de-breno-bidon-e-espera-ate-r-208-milhoes-por-venda]]>",
-      "time": "07/06 · 12:53",
-      "pubDate": "Sun, 07 Jun 2026 09:53:05 -0300"
+      "time": "07/06 · 16:25",
+      "pubDate": "Sun, 07 Jun 2026 13:25:44 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians vetou contratação de Endrick em 2016, admite pai do atacante do Brasil na Copa do Mundo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vetou-contratacao-de-endrick-em-2016-admite-pai-do-atacante-do-brasil-na-copa-do-mundo]]>",
-      "time": "07/06 · 12:40",
-      "pubDate": "Sun, 07 Jun 2026 09:40:09 -0300"
+      "time": "07/06 · 16:25",
+      "pubDate": "Sun, 07 Jun 2026 13:25:24 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Sub-20 do Corinthians amplia invencibilidade como visitante no ano e mira marca de 2023",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534400/sub-20-do-corinthians-amplia-invencibilidade-como-visitante-no-ano-e-mira-marca-de-2023",
-      "time": "07/06 · 12:32",
-      "pubDate": "Sun, 07 Jun 2026 09:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians deve ter retorno do lateral Hugo no segundo semestre e time planeja primeiros planos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deve-ter-retorno-do-lateral-hugo-no-segundo-semestre-e-time-planeja-primeiros-planos]]>",
+      "time": "07/06 · 13:59",
+      "pubDate": "Sun, 07 Jun 2026 10:59:42 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-avanca-recuperacao-fisica-e-realiza-atividades-durante-ferias-do-corinthians]]>",
       "time": "06/06 · 19:19",
       "pubDate": "Sat, 06 Jun 2026 16:19:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians prioriza contratação de camisa 9 do futebol brasileiro a pedido de Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-contratacao-de-camisa-9-do-futebol-brasileiro-a-pedido-de-fernando-diniz]]>",
-      "time": "06/06 · 14:27",
-      "pubDate": "Sat, 06 Jun 2026 11:27:49 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians é titular em goleada da Seleção Sub-17 contra os Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534422/goleiro-do-corinthians-e-titular-em-goleada-da-selecao-sub-17-contra-os-estados-unidos",
+      "pubDate": "Sun, 07 Jun 2026 18:00:43 -0300",
+      "date": "07/06 · 21:00"
+    },
+    {
+      "title": "Goleira do Corinthians destaca aprendizado na Seleção Sub-20 e celebra convocação para a principal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534418/goleira-do-corinthians-destaca-aprendizado-na-selecao-sub-20-e-celebra-convocacao-para-a-principal",
+      "pubDate": "Sun, 07 Jun 2026 17:32:00 -0300",
+      "date": "07/06 · 20:32"
+    },
+    {
       "title": "Corinthians figura entre melhores visitantes e piores mandantes do Brasileirão antes da Copa",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534334/corinthians-figura-entre-melhores-visitantes-e-piores-mandantes-do-brasileirao-antes-da-copa",
       "pubDate": "Sun, 07 Jun 2026 15:28:00 -0300",
@@ -234,18 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534353/ex-goleira-do-corinthians-destaca-influencia-de-lele-apos-convocacao-para-a-selecao-brasileira",
       "pubDate": "Sat, 06 Jun 2026 15:01:00 -0300",
       "date": "06/06 · 18:01"
-    },
-    {
-      "title": "Goleira do Corinthians terá trajetória retratada em museu de sua cidade natal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534286/goleira-do-corinthians-tera-trajetoria-retratada-em-museu-de-sua-cidade-natal",
-      "pubDate": "Sat, 06 Jun 2026 13:04:00 -0300",
-      "date": "06/06 · 16:04"
-    },
-    {
-      "title": "Corinthians goleia AD Centro Olímpico pelo Campeonato Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534396/corinthians-goleia-ad-centro-olimpico-pelo-campeonato-paulista-sub-17",
-      "pubDate": "Sat, 06 Jun 2026 13:02:48 -0300",
-      "date": "06/06 · 16:02"
     }
   ]
 };
