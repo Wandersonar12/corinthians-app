@@ -1,7 +1,47 @@
-// Gerado automaticamente em 06/06/2026, 22:51:26
+// Gerado automaticamente em 07/06/2026, 10:18:47
 const LIVE_DATA = {
-  "updatedAt": "2026-06-06T22:51:26.317Z",
+  "updatedAt": "2026-06-07T10:18:47.226Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ana Vitória relembra saída do Corinthians e destaca principal momento da segunda passagem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534375/ana-vitoria-relembra-saida-do-corinthians-e-destaca-principal-momento-da-segunda-passagem",
+      "time": "07/06 · 01:00",
+      "pubDate": "Sat, 06 Jun 2026 22:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians promove encontros de combate ao racismo para as categorias de base femininas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534361/corinthians-promove-encontros-de-combate-ao-racismo-para-as-categorias-de-base-femininas",
+      "time": "07/06 · 00:02",
+      "pubDate": "Sat, 06 Jun 2026 21:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians é titular em vitória do Brasil sobre os Estados Unidos na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534405/trio-do-corinthians-e-titular-em-vitoria-do-brasil-sobre-os-estados-unidos-na-neo-quimica-arena",
+      "time": "06/06 · 23:41",
+      "pubDate": "Sat, 06 Jun 2026 20:41:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians enxerga evolução no futebol brasileiro e brinca com possível retorno de dupla",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534381/volante-do-corinthians-enxerga-evolucao-no-futebol-brasileiro-e-brinca-com-possivel-retorno-de-dupla",
+      "time": "06/06 · 23:03",
+      "pubDate": "Sat, 06 Jun 2026 20:03:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Zenit conversa com Corinthians por Yuri Alberto, mas acha valor alto para acordo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/zenit-conversa-com-corinthians-por-yuri-alberto-mas-acha-valor-alto-para-acordo]]>",
+      "time": "06/06 · 22:35",
+      "pubDate": "Sat, 06 Jun 2026 19:35:34 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,6 +59,14 @@ const LIVE_DATA = {
       "pubDate": "Sat, 06 Jun 2026 18:05:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André Carrillo, meio-campista do Corinthians, participa da virada do Peru contra a seleção do Haiti",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-carrillo-meio-campista-do-corinthians-participa-da-virada-do-peru-contra-a-selecao-do-haiti]]>",
+      "time": "06/06 · 20:40",
+      "pubDate": "Sat, 06 Jun 2026 17:40:31 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians atropela o Mixto e mantém invencibilidade do Brasileirão Feminino Sub-17",
@@ -27,44 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Sat, 06 Jun 2026 16:53:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "João Pedro Tchoca avança recuperação física e realiza atividades durante férias do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-avanca-recuperacao-fisica-e-realiza-atividades-durante-ferias-do-corinthians]]>",
+      "time": "06/06 · 19:19",
+      "pubDate": "Sat, 06 Jun 2026 16:19:27 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Zagueiro do Corinthians comenta sobre o gol marcado e vitória diante do Mirassol",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534389/zagueiro-do-corinthians-comenta-sobre-o-gol-marcado-e-vitoria-diante-do-mirassol",
       "time": "06/06 · 19:01",
       "pubDate": "Sat, 06 Jun 2026 16:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-goleira do Corinthians destaca influência de Lelê após convocação para a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534353/ex-goleira-do-corinthians-destaca-influencia-de-lele-apos-convocacao-para-a-selecao-brasileira",
-      "time": "06/06 · 18:01",
-      "pubDate": "Sat, 06 Jun 2026 15:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians segue recuperação no CT durante férias do elenco alvinegro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534397/zagueiro-do-corinthians-segue-recuperacao-no-ct-durante-ferias-do-elenco-alvinegro",
-      "time": "06/06 · 17:32",
-      "pubDate": "Sat, 06 Jun 2026 14:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro observado por Diniz assume a vice-artilharia do Sub-20 do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534372/zagueiro-observado-por-diniz-assume-a-vice-artilharia-do-sub-20-do-corinthians-em-2026",
-      "time": "06/06 · 17:03",
-      "pubDate": "Sat, 06 Jun 2026 14:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleira do Corinthians terá trajetória retratada em museu de sua cidade natal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534286/goleira-do-corinthians-tera-trajetoria-retratada-em-museu-de-sua-cidade-natal",
-      "time": "06/06 · 16:04",
-      "pubDate": "Sat, 06 Jun 2026 13:04:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fecha-primeiro-semestre-com-segunda-maior-media-de-publico-no-brasileirao]]>",
       "time": "05/06 · 18:42",
       "pubDate": "Fri, 05 Jun 2026 15:42:15 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz monitora Iago Machado, de 17 anos, da base do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-monitora-iago-machado-de-17-anos-da-base-do-corinthians]]>",
-      "time": "05/06 · 13:53",
-      "pubDate": "Fri, 05 Jun 2026 10:53:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "LDU mira Félix Torres e prepara proposta ao Corinthians para levar zagueiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ldu-mira-felix-torres-e-prepara-proposta-ao-corinthians-para-levar-zagueiro]]>",
-      "time": "05/06 · 12:32",
-      "pubDate": "Fri, 05 Jun 2026 09:32:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aceita negociar Pedro Raul e procura clubes interessados; salário de R$ 750 mil é entrave",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-negociar-pedro-raul-e-procura-clubes-interessados-salario-de-r-750-mil-e-entrave]]>",
-      "time": "05/06 · 11:04",
-      "pubDate": "Fri, 05 Jun 2026 08:04:26 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Ana Vitória relembra saída do Corinthians e destaca principal momento da segunda passagem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534375/ana-vitoria-relembra-saida-do-corinthians-e-destaca-principal-momento-da-segunda-passagem",
+      "pubDate": "Sat, 06 Jun 2026 22:00:00 -0300",
+      "date": "07/06 · 01:00"
+    },
     {
       "title": "Zagueiro do Corinthians comenta sobre o gol marcado e vitória diante do Mirassol",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534389/zagueiro-do-corinthians-comenta-sobre-o-gol-marcado-e-vitoria-diante-do-mirassol",
