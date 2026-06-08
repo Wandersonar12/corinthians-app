@@ -1,7 +1,71 @@
-// Gerado automaticamente em 08/06/2026, 19:56:49
+// Gerado automaticamente em 08/06/2026, 23:05:24
 const LIVE_DATA = {
-  "updatedAt": "2026-06-08T19:56:49.583Z",
+  "updatedAt": "2026-06-08T23:05:24.163Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians destaca preparação e projeta duelo contra o Grêmio pelo Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534458/meia-do-corinthians-destaca-preparacao-e-projeta-duelo-contra-o-gremio-pelo-brasileiro-sub-17",
+      "time": "08/06 · 22:34",
+      "pubDate": "Mon, 08 Jun 2026 19:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Armando Mendonça pede afastamento da vice-presidência do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534461/armando-mendonca-pede-afastamento-da-vice-presidencia-do-corinthians",
+      "time": "08/06 · 22:26",
+      "pubDate": "Mon, 08 Jun 2026 19:26:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians Feminino faz último treino antes de amistoso e pausa para a Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534460/corinthians-feminino-faz-ultimo-treino-antes-de-amistoso-e-pausa-para-a-copa",
+      "time": "08/06 · 22:03",
+      "pubDate": "Mon, 08 Jun 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians celebra sexto título no Campeonato Brasileiro de Futebol de Amputados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534455/corinthians-celebra-sexto-titulo-no-campeonato-brasileiro-de-futebol-de-amputados",
+      "time": "08/06 · 21:33",
+      "pubDate": "Mon, 08 Jun 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Justiça concede liminar para associados recentes participarem de votação do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534459/justica-concede-liminar-para-associados-recentes-participarem-de-votacao-do-estatuto-do-corinthians",
+      "time": "08/06 · 21:27",
+      "pubDate": "Mon, 08 Jun 2026 18:27:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians não sai do banco em vitória da Holanda em amistoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534432/atacante-do-corinthians-nao-sai-do-banco-em-vitoria-da-holanda-em-amistoso",
+      "time": "08/06 · 21:07",
+      "pubDate": "Mon, 08 Jun 2026 18:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Patrocinadora do time feminino do Corinthians faz campanha para lançamento de produto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534451/patrocinadora-do-time-feminino-do-corinthians-faz-campanha-para-lancamento-de-produto",
+      "time": "08/06 · 20:32",
+      "pubDate": "Mon, 08 Jun 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kaio César soma quatro pré-assistências e amplia participação ofensiva no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-soma-quatro-pre-assistencias-e-amplia-participacao-ofensiva-no-corinthians]]>",
+      "time": "08/06 · 19:54",
+      "pubDate": "Mon, 08 Jun 2026 16:54:46 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +75,52 @@ const LIVE_DATA = {
       "pubDate": "Mon, 08 Jun 2026 16:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians dá férias de 15 dias ao elenco feminino em pausa para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534446/corinthians-da-ferias-de-15-dias-ao-elenco-feminino-em-pausa-para-a-copa-do-mundo",
-      "time": "08/06 · 19:09",
-      "pubDate": "Mon, 08 Jun 2026 16:09:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kaio César, Labyad e +8 nomes podem deixar o Corinthians em dezembro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-labyad-e-8-nomes-podem-deixar-o-corinthians-em-dezembro]]>",
+      "time": "08/06 · 16:46",
+      "pubDate": "Mon, 08 Jun 2026 13:46:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta evitar pior sequência na LNF desde 2023 diante do Santo André",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534434/corinthians-tenta-evitar-pior-sequencia-na-lnf-desde-2023-diante-do-santo-andre",
-      "time": "08/06 · 18:31",
-      "pubDate": "Mon, 08 Jun 2026 15:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians decide não pressionar Memphis Depay por resposta de renovação durante a Copa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-nao-pressionar-memphis-depay-por-resposta-de-renovacao-durante-a-copa]]>",
+      "time": "08/06 · 15:05",
+      "pubDate": "Mon, 08 Jun 2026 12:05:30 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians lidera ranking de pré-assistências do time no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534399/atacante-do-corinthians-lidera-ranking-de-pre-assistencias-do-time-no-ano",
-      "time": "08/06 · 18:00",
-      "pubDate": "Mon, 08 Jun 2026 15:00:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aguarda posicionamento de Memphis após formalizar proposta de renovação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-posicionamento-de-memphis-apos-formalizar-proposta-de-renovacao]]>",
+      "time": "08/06 · 14:25",
+      "pubDate": "Mon, 08 Jun 2026 11:25:06 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Você aprova o patrocínio da Fatal Fans no Corinthians? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534441/voce-aprova-o-patrocinio-da-fatal-fans-no-corinthians-vote-na-enquete-do-meu-timao",
-      "time": "08/06 · 17:30",
-      "pubDate": "Mon, 08 Jun 2026 14:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians lucrará com venda de Felipe Augusto ao Zenit",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-lucrara-com-venda-de-felipe-augusto-ao-zenit]]>",
+      "time": "08/06 · 13:18",
+      "pubDate": "Mon, 08 Jun 2026 10:18:53 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "SAFiel apresenta nova proposta bilionária para transformar o Corinthians em SAF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534444/safiel-apresenta-nova-proposta-bilionaria-para-transformar-o-corinthians-em-saf",
-      "time": "08/06 · 17:01",
-      "pubDate": "Mon, 08 Jun 2026 14:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recebe boa proposta pela venda de Rodrigo Garro e diretoria decide não aceitar",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-boa-proposta-pela-venda-de-rodrigo-garro-e-diretoria-decide-nao-aceitar]]>",
+      "time": "08/06 · 13:06",
+      "pubDate": "Mon, 08 Jun 2026 10:06:04 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians repete goleada histórica de 2025 em vitória no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534423/corinthians-goleia-no-paulista-sub-17-e-repete-placar-historico-de-2025",
-      "time": "08/06 · 16:34",
-      "pubDate": "Mon, 08 Jun 2026 13:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro é eleito o melhor jogador do Corinthians no primeiro semestre; veja o resultado da enquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534428/zagueiro-e-eleito-o-melhor-jogador-do-corinthians-no-primeiro-semestre-veja-o-resultado-da-enquete",
-      "time": "08/06 · 15:31",
-      "pubDate": "Mon, 08 Jun 2026 12:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians só aceita vender Yuri Alberto por proposta considerada irrecusável",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-so-aceita-vender-yuri-alberto-por-proposta-considerada-irrecusavel]]>",
+      "time": "08/06 · 12:40",
+      "pubDate": "Mon, 08 Jun 2026 09:40:57 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,62 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-milans-perde-espaco-com-diniz-por-questao-tatica-no-corinthians]]>",
       "time": "08/06 · 12:14",
       "pubDate": "Mon, 08 Jun 2026 09:14:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay, do Corinthians, será reserva da Holanda em amistoso contra o Uzbequistão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-do-corinthians-sera-reserva-da-holanda-em-amistoso-contra-o-uzbequistao]]>",
-      "time": "08/06 · 11:31",
-      "pubDate": "Mon, 08 Jun 2026 08:31:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians coloca permanência de Yuri Alberto à frente da renovação de Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-coloca-permanencia-de-yuri-alberto-a-frente-da-renovacao-de-memphis-depay]]>",
-      "time": "08/06 · 11:01",
-      "pubDate": "Mon, 08 Jun 2026 08:01:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians prioriza reforços para o ataque e evitar problemas no elenco no 2° semestre",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-reforcos-para-o-ataque-e-evitar-problemas-no-elenco-no-2-semestre]]>",
-      "time": "07/06 · 23:02",
-      "pubDate": "Sun, 07 Jun 2026 20:02:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Alvo do Corinthians, Neto pode ter contrato rescindido com o Botafogo e ficar livre no mercado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-neto-pode-ter-contrato-rescindido-com-o-botafogo-e-ficar-livre-no-mercado]]>",
-      "time": "07/06 · 21:00",
-      "pubDate": "Sun, 07 Jun 2026 18:00:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians fixa preço de Breno Bidon e espera até R$ 208 milhões por venda",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fixa-preco-de-breno-bidon-e-espera-ate-r-208-milhoes-por-venda]]>",
-      "time": "07/06 · 16:25",
-      "pubDate": "Sun, 07 Jun 2026 13:25:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vetou contratação de Endrick em 2016, admite pai do atacante do Brasil na Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vetou-contratacao-de-endrick-em-2016-admite-pai-do-atacante-do-brasil-na-copa-do-mundo]]>",
-      "time": "07/06 · 16:25",
-      "pubDate": "Sun, 07 Jun 2026 13:25:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians deve ter retorno do lateral Hugo no segundo semestre e time planeja primeiros planos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deve-ter-retorno-do-lateral-hugo-no-segundo-semestre-e-time-planeja-primeiros-planos]]>",
-      "time": "07/06 · 13:59",
-      "pubDate": "Sun, 07 Jun 2026 10:59:42 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -234,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534334/corinthians-figura-entre-melhores-visitantes-e-piores-mandantes-do-brasileirao-antes-da-copa",
       "pubDate": "Sun, 07 Jun 2026 15:28:00 -0300",
       "date": "07/06 · 18:28"
-    },
-    {
-      "title": "Ex-goleiro do Corinthians nega arrependimento e relembra passagem pelo clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534398/ex-goleiro-do-corinthians-nega-arrependimento-e-relembra-passagem-pelo-clube",
-      "pubDate": "Sun, 07 Jun 2026 14:31:00 -0300",
-      "date": "07/06 · 17:31"
-    },
-    {
-      "title": "Técnico da Seleção Brasileira exalta Lelê e explica substituição da goleira do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534411/tecnico-da-selecao-brasileira-exalta-lele-e-explica-substituicao-da-goleira-do-corinthians",
-      "pubDate": "Sun, 07 Jun 2026 10:32:00 -0300",
-      "date": "07/06 · 13:32"
     }
   ]
 };
