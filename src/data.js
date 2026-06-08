@@ -1,7 +1,39 @@
-// Gerado automaticamente em 07/06/2026, 22:52:12
+// Gerado automaticamente em 08/06/2026, 12:18:33
 const LIVE_DATA = {
-  "updatedAt": "2026-06-07T22:52:12.792Z",
+  "updatedAt": "2026-06-08T12:18:33.941Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: ex-Timão convocado, revelação sobre Endrick e troca no gramado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534425/ultimas-do-corinthians-ex-timao-convocado-revelacao-sobre-endrick-e-troca-no-gramado",
+      "time": "08/06 · 10:30",
+      "pubDate": "Mon, 08 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Novo reforço do Corinthians 'cobra' regularização para estrear na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534414/novo-reforco-do-corinthians-cobra-regularizacao-para-estrear-na-lnf",
+      "time": "08/06 · 01:00",
+      "pubDate": "Sun, 07 Jun 2026 22:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleira do Corinthians comenta importância de seu irmão gêmeo para trajetória no futebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534393/goleira-do-corinthians-comenta-importancia-de-seu-irmao-gemeo-para-trajetoria-no-futebol",
+      "time": "08/06 · 00:04",
+      "pubDate": "Sun, 07 Jun 2026 21:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante assume artilharia do Sub-17 do Corinthians em 2026; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534410/atacante-assume-artilharia-do-sub-17-do-corinthians-em-2026-veja-o-ranking",
+      "time": "07/06 · 23:01",
+      "pubDate": "Sun, 07 Jun 2026 20:01:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,12 +43,20 @@ const LIVE_DATA = {
       "pubDate": "Sun, 07 Jun 2026 19:03:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Alvo do Corinthians, Neto pode ter contrato rescindido com o Botafogo e ficar livre no mercado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-neto-pode-ter-contrato-rescindido-com-o-botafogo-e-ficar-livre-no-mercado]]>",
+      "time": "07/06 · 21:00",
+      "pubDate": "Sun, 07 Jun 2026 18:00:13 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Goleiro do Corinthians é titular em goleada da Seleção Sub-17 contra os Estados Unidos",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534422/goleiro-do-corinthians-e-titular-em-goleada-da-selecao-sub-17-contra-os-estados-unidos",
       "time": "07/06 · 21:00",
-      "pubDate": "Sun, 07 Jun 2026 18:00:43 -0300"
+      "pubDate": "Sun, 07 Jun 2026 18:00:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -33,38 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534378/volante-do-corinthians-fala-sobre-troca-no-comando-tecnico-e-rejeita-favoritismo-absoluto",
       "time": "07/06 · 19:33",
       "pubDate": "Sun, 07 Jun 2026 16:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians figura entre melhores visitantes e piores mandantes do Brasileirão antes da Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534334/corinthians-figura-entre-melhores-visitantes-e-piores-mandantes-do-brasileirao-antes-da-copa",
-      "time": "07/06 · 18:28",
-      "pubDate": "Sun, 07 Jun 2026 15:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-goleiro do Corinthians nega arrependimento e relembra passagem pelo clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534398/ex-goleiro-do-corinthians-nega-arrependimento-e-relembra-passagem-pelo-clube",
-      "time": "07/06 · 17:31",
-      "pubDate": "Sun, 07 Jun 2026 14:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-Corinthians é convocado por Ancelotti para a Copa do Mundo após corte na Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534416/ex-corinthians-e-convocado-por-ancelotti-para-a-copa-do-mundo-apos-corte-na-selecao-brasileira",
-      "time": "07/06 · 16:48",
-      "pubDate": "Sun, 07 Jun 2026 13:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians relembra ausência na Seleção por concussão e explica recuperação após susto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534377/volante-do-corinthians-relembra-ausencia-na-selecao-por-concussao-e-explica-recuperacao-apos-susto",
-      "time": "07/06 · 16:33",
-      "pubDate": "Sun, 07 Jun 2026 13:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-avanca-recuperacao-fisica-e-realiza-atividades-durante-ferias-do-corinthians]]>",
       "time": "06/06 · 19:19",
       "pubDate": "Sat, 06 Jun 2026 16:19:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gui Negão entra no radar do Internacional e Corinthians pode negociar caso mantenha Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-entra-no-radar-do-internacional-e-corinthians-pode-negociar-caso-mantenha-yuri-alberto]]>",
-      "time": "06/06 · 14:21",
-      "pubDate": "Sat, 06 Jun 2026 11:21:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,9 +200,15 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira do Corinthians comenta importância de seu irmão gêmeo para trajetória no futebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534393/goleira-do-corinthians-comenta-importancia-de-seu-irmao-gemeo-para-trajetoria-no-futebol",
+      "pubDate": "Sun, 07 Jun 2026 21:04:00 -0300",
+      "date": "08/06 · 00:04"
+    },
+    {
       "title": "Goleiro do Corinthians é titular em goleada da Seleção Sub-17 contra os Estados Unidos",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534422/goleiro-do-corinthians-e-titular-em-goleada-da-selecao-sub-17-contra-os-estados-unidos",
-      "pubDate": "Sun, 07 Jun 2026 18:00:43 -0300",
+      "pubDate": "Sun, 07 Jun 2026 18:00:00 -0300",
       "date": "07/06 · 21:00"
     },
     {
@@ -240,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534389/zagueiro-do-corinthians-comenta-sobre-o-gol-marcado-e-vitoria-diante-do-mirassol",
       "pubDate": "Sat, 06 Jun 2026 16:01:00 -0300",
       "date": "06/06 · 19:01"
-    },
-    {
-      "title": "Ex-goleira do Corinthians destaca influência de Lelê após convocação para a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534353/ex-goleira-do-corinthians-destaca-influencia-de-lele-apos-convocacao-para-a-selecao-brasileira",
-      "pubDate": "Sat, 06 Jun 2026 15:01:00 -0300",
-      "date": "06/06 · 18:01"
     }
   ]
 };
