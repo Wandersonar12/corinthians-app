@@ -1,7 +1,55 @@
-// Gerado automaticamente em 09/06/2026, 10:49:42
+// Gerado automaticamente em 09/06/2026, 14:14:22
 const LIVE_DATA = {
-  "updatedAt": "2026-06-09T10:49:42.697Z",
+  "updatedAt": "2026-06-09T14:14:22.249Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians entra em campo pela última rodada da Liga das Nações; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534447/trio-do-corinthians-entra-em-campo-pela-ultima-rodada-da-liga-das-nacoes-saiba-tudo",
+      "time": "09/06 · 14:01",
+      "pubDate": "Tue, 09 Jun 2026 11:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians entra em campo no segundo amistoso do Brasil contra os EUA; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534445/trio-do-corinthians-entra-em-campo-no-segundo-amistoso-do-brasil-contra-os-eua-saiba-tudo",
+      "time": "09/06 · 13:29",
+      "pubDate": "Tue, 09 Jun 2026 10:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians participa de derrota do Peru para a Espanha em amistoso antes da Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534433/peru-e-derrotado-pela-espanha-com-volante-do-corinthians-entrando-no-segundo-tempo",
+      "time": "09/06 · 12:31",
+      "pubDate": "Tue, 09 Jun 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Pantaleão comenta expulsão de mais 3 sócios do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128257/pantaleao-comenta-expulsao-de-mais-3-socios-do-corinthians",
+      "time": "09/06 · 12:20",
+      "pubDate": "Tue, 09 Jun 2026 09:20:43 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MP inclui presidente do Corinthians como investigado em apuração sobre empresa de segurança",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534474/mp-inclui-presidente-do-corinthians-como-investigado-em-apuracao-sobre-empresa-de-seguranca",
+      "time": "09/06 · 12:14",
+      "pubDate": "Tue, 09 Jun 2026 09:14:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Grêmio em busca de manter invencibilidade no Brasileiro Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534449/corinthians-recebe-o-gremio-em-busca-de-manter-invencibilidade-no-brasileiro-sub-17-saiba-tudo",
+      "time": "09/06 · 11:30",
+      "pubDate": "Tue, 09 Jun 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,52 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Mon, 08 Jun 2026 22:34:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueira do Corinthians completa meio ano sem jogar e mira retorno após a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534429/zagueira-do-corinthians-completa-meio-ano-sem-jogar-e-mira-retorno-apos-a-copa-do-mundo",
-      "time": "09/06 · 01:30",
-      "pubDate": "Mon, 08 Jun 2026 22:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians alia força fora de casa a dificuldades como mandante no Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-alia-forca-fora-de-casa-a-dificuldades-como-mandante-no-campeonato-brasileiro]]>",
+      "time": "09/06 · 01:18",
+      "pubDate": "Mon, 08 Jun 2026 22:18:50 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde muitas chances e fica no empate com o Santo André na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534456/corinthians-perde-muitas-chances-e-fica-no-empate-com-o-santo-andre-na-lnf",
-      "time": "09/06 · 00:49",
-      "pubDate": "Mon, 08 Jun 2026 21:49:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadores do Corinthians apontam campeões, surpresas e decepções da Copa em brincadeira no CT",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534437/jogadores-do-corinthians-apontam-campeoes-surpresas-e-decepcoes-da-copa-em-brincadeira-no-ct",
-      "time": "09/06 · 00:31",
-      "pubDate": "Mon, 08 Jun 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante fala sobre expectativa de atuar pela primeira vez na Neo Química Arena pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534379/volante-do-corinthians-fala-sobre-a-expectativa-de-estrear-na-neo-quimica-arena-pelo-timao",
-      "time": "08/06 · 23:32",
-      "pubDate": "Mon, 08 Jun 2026 20:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians destaca preparação e projeta duelo contra o Grêmio pelo Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534458/meia-do-corinthians-destaca-preparacao-e-projeta-duelo-contra-o-gremio-pelo-brasileiro-sub-17",
-      "time": "08/06 · 22:34",
-      "pubDate": "Mon, 08 Jun 2026 19:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Armando Mendonça pede afastamento da vice-presidência do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534461/armando-mendonca-pede-afastamento-da-vice-presidencia-do-corinthians",
-      "time": "08/06 · 22:26",
-      "pubDate": "Mon, 08 Jun 2026 19:26:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pedro Milans tem menor minutagem entre reservas do Corinthians na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-milans-tem-menor-minutagem-entre-reservas-do-corinthians-na-temporada]]>",
+      "time": "08/06 · 23:09",
+      "pubDate": "Mon, 08 Jun 2026 20:09:29 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-posicionamento-de-memphis-apos-formalizar-proposta-de-renovacao]]>",
       "time": "08/06 · 14:25",
       "pubDate": "Mon, 08 Jun 2026 11:25:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians lucrará com venda de Felipe Augusto ao Zenit",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-lucrara-com-venda-de-felipe-augusto-ao-zenit]]>",
-      "time": "08/06 · 13:18",
-      "pubDate": "Mon, 08 Jun 2026 10:18:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians recebe boa proposta pela venda de Rodrigo Garro e diretoria decide não aceitar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-boa-proposta-pela-venda-de-rodrigo-garro-e-diretoria-decide-nao-aceitar]]>",
-      "time": "08/06 · 13:06",
-      "pubDate": "Mon, 08 Jun 2026 10:06:04 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Pantaleão comenta expulsão de mais 3 sócios do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128257/pantaleao-comenta-expulsao-de-mais-3-socios-do-corinthians",
+      "pubDate": "Tue, 09 Jun 2026 09:20:43 -0300",
+      "date": "09/06 · 12:20"
+    },
+    {
       "title": "Corinthians repete goleada histórica de 2025 em vitória no Paulista Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534423/corinthians-goleia-no-paulista-sub-17-e-repete-placar-historico-de-2025",
       "pubDate": "Mon, 08 Jun 2026 13:34:00 -0300",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128251/novo-gramado-da-arena-engenheiro-agronomo-explica-a-nova-grama-do-estadio-do-corinthians",
       "pubDate": "Mon, 08 Jun 2026 10:34:00 -0300",
       "date": "08/06 · 13:34"
-    },
-    {
-      "title": "Goleira do Corinthians comenta importância de seu irmão gêmeo para trajetória no futebol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534393/goleira-do-corinthians-comenta-importancia-de-seu-irmao-gemeo-para-trajetoria-no-futebol",
-      "pubDate": "Sun, 07 Jun 2026 21:04:00 -0300",
-      "date": "08/06 · 00:04"
     }
   ]
 };
