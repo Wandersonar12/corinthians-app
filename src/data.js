@@ -1,7 +1,39 @@
-// Gerado automaticamente em 09/06/2026, 19:51:54
+// Gerado automaticamente em 09/06/2026, 23:07:21
 const LIVE_DATA = {
-  "updatedAt": "2026-06-09T19:51:54.884Z",
+  "updatedAt": "2026-06-09T23:07:21.729Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians iguala sequência negativa na LNF depois de três anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534464/corinthians-iguala-sequencia-negativa-na-lnf-depois-de-tres-anos",
+      "time": "09/06 · 23:02",
+      "pubDate": "Tue, 09 Jun 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante revela conversas com o Corinthians antes de retorno ao futebol brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534491/atacante-revela-conversas-com-o-corinthians-antes-de-retorno-ao-futebol-brasileiro",
+      "time": "09/06 · 22:01",
+      "pubDate": "Tue, 09 Jun 2026 19:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é derrotado pela seleção sub-23 dos Estados Unidos em amistosos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534497/corinthians-e-derrotado-pela-selecao-sub-23-dos-estados-unidos-em-amistosos",
+      "time": "09/06 · 21:08",
+      "pubDate": "Tue, 09 Jun 2026 18:08:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Auxiliar do Corinthians valoriza vitória no Paulista e mira recuperação no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534496/auxiliar-do-corinthians-valoriza-vitoria-no-paulista-e-mira-recuperacao-no-brasileiro-sub-20",
+      "time": "09/06 · 20:58",
+      "pubDate": "Tue, 09 Jun 2026 17:58:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 09 Jun 2026 15:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians participa de vitória em amistoso da Seleção Brasileira Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534448/atacante-do-corinthians-participa-de-vitoria-em-amistoso-da-selecao-brasileira-sub-20",
-      "time": "09/06 · 18:00",
-      "pubDate": "Tue, 09 Jun 2026 15:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Martínez fala pela primeira vez sobre lesão sofrida no Corinthians antes de sua rescisão contratual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534481/martinez-fala-pela-primeira-vez-sobre-lesao-sofrida-no-corinthians-antes-de-sua-rescisao-contratual",
-      "time": "09/06 · 17:37",
-      "pubDate": "Tue, 09 Jun 2026 14:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-dirigentes da base do Corinthians são expulsos do clube pela Comissão de Ética dos Associados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534479/ex-dirigentes-da-base-do-corinthians-sao-expulsos-do-clube-pela-comissao-de-etica-dos-associados",
-      "time": "09/06 · 16:31",
-      "pubDate": "Tue, 09 Jun 2026 13:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Justiça rejeita pedido liminar de conselheiros vitalícios do Corinthians para suspender Assembleia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534478/justica-rejeita-pedido-liminar-de-conselheiros-vitalicios-do-corinthians-para-suspender-assembleia",
-      "time": "09/06 · 15:59",
-      "pubDate": "Tue, 09 Jun 2026 12:59:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vidente prevê cenário agitado no Corinthians e indica saídas importantes no 2º semestre",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-preve-cenario-agitado-no-corinthians-e-indica-saidas-importantes-no-2o-semestre]]>",
+      "time": "09/06 · 17:53",
+      "pubDate": "Tue, 09 Jun 2026 14:53:06 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/durante-pausa-para-copa-corinthians-comeca-processo-de-renovacao-do-gramado-da-neo-quimica-arena]]>",
       "time": "08/06 · 21:28",
       "pubDate": "Mon, 08 Jun 2026 18:28:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kaio César soma quatro pré-assistências e amplia participação ofensiva no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-soma-quatro-pre-assistencias-e-amplia-participacao-ofensiva-no-corinthians]]>",
-      "time": "08/06 · 19:54",
-      "pubDate": "Mon, 08 Jun 2026 16:54:46 -0300"
     },
     {
       "source": "Gazeta Esportiva",
