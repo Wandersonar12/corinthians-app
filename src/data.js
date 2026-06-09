@@ -1,70 +1,94 @@
-// Gerado automaticamente em 09/06/2026, 14:14:22
+// Gerado automaticamente em 09/06/2026, 19:51:54
 const LIVE_DATA = {
-  "updatedAt": "2026-06-09T14:14:22.249Z",
+  "updatedAt": "2026-06-09T19:51:54.884Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Trio do Corinthians entra em campo pela última rodada da Liga das Nações; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534447/trio-do-corinthians-entra-em-campo-pela-ultima-rodada-da-liga-das-nacoes-saiba-tudo",
-      "time": "09/06 · 14:01",
-      "pubDate": "Tue, 09 Jun 2026 11:01:00 -0300"
+      "title": "Corinthians não toma conhecimento e passa o trator sobre o Grêmio pelo Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534483/corinthians-nao-toma-conhecimento-e-passa-o-trator-sobre-o-gremio-pelo-brasileiro-sub-17",
+      "time": "09/06 · 19:48",
+      "pubDate": "Tue, 09 Jun 2026 16:48:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Trio do Corinthians entra em campo no segundo amistoso do Brasil contra os EUA; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534445/trio-do-corinthians-entra-em-campo-no-segundo-amistoso-do-brasil-contra-os-eua-saiba-tudo",
-      "time": "09/06 · 13:29",
-      "pubDate": "Tue, 09 Jun 2026 10:29:00 -0300"
+      "title": "Corinthians atrasa salários de elenco e comissão técnica pelo segundo mês consecutivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534485/corinthians-atrasa-salarios-de-elenco-e-comissao-tecnica-pelo-segundo-mes-consecutivo",
+      "time": "09/06 · 19:46",
+      "pubDate": "Tue, 09 Jun 2026 16:46:09 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians participa de derrota do Peru para a Espanha em amistoso antes da Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534433/peru-e-derrotado-pela-espanha-com-volante-do-corinthians-entrando-no-segundo-tempo",
-      "time": "09/06 · 12:31",
-      "pubDate": "Tue, 09 Jun 2026 09:31:00 -0300"
+      "title": "Atacante emprestada pelo Corinthians acumula mais de nove meses sem gols",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534358/atacante-emprestada-pelo-corinthians-acumula-mais-de-nove-meses-sem-gols",
+      "time": "09/06 · 19:29",
+      "pubDate": "Tue, 09 Jun 2026 16:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Pantaleão comenta expulsão de mais 3 sócios do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128257/pantaleao-comenta-expulsao-de-mais-3-socios-do-corinthians",
-      "time": "09/06 · 12:20",
-      "pubDate": "Tue, 09 Jun 2026 09:20:43 -0300"
+      "title": "Fiel aprova patrocínio da Fatal Fans no Corinthians; confira o resultado da enquete do Meu Timão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534471/fiel-aprova-patrocinio-da-fatal-fans-no-corinthians-confira-o-resultado-da-enquete-do-meu-timao",
+      "time": "09/06 · 18:32",
+      "pubDate": "Tue, 09 Jun 2026 15:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "MP inclui presidente do Corinthians como investigado em apuração sobre empresa de segurança",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534474/mp-inclui-presidente-do-corinthians-como-investigado-em-apuracao-sobre-empresa-de-seguranca",
+      "title": "Atacante do Corinthians participa de vitória em amistoso da Seleção Brasileira Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534448/atacante-do-corinthians-participa-de-vitoria-em-amistoso-da-selecao-brasileira-sub-20",
+      "time": "09/06 · 18:00",
+      "pubDate": "Tue, 09 Jun 2026 15:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Martínez fala pela primeira vez sobre lesão sofrida no Corinthians antes de sua rescisão contratual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534481/martinez-fala-pela-primeira-vez-sobre-lesao-sofrida-no-corinthians-antes-de-sua-rescisao-contratual",
+      "time": "09/06 · 17:37",
+      "pubDate": "Tue, 09 Jun 2026 14:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-dirigentes da base do Corinthians são expulsos do clube pela Comissão de Ética dos Associados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534479/ex-dirigentes-da-base-do-corinthians-sao-expulsos-do-clube-pela-comissao-de-etica-dos-associados",
+      "time": "09/06 · 16:31",
+      "pubDate": "Tue, 09 Jun 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Justiça rejeita pedido liminar de conselheiros vitalícios do Corinthians para suspender Assembleia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534478/justica-rejeita-pedido-liminar-de-conselheiros-vitalicios-do-corinthians-para-suspender-assembleia",
+      "time": "09/06 · 15:59",
+      "pubDate": "Tue, 09 Jun 2026 12:59:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians prioriza camisa 9 e evita pagar taxas por reforços",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-camisa-9-e-evita-pagar-taxas-por-reforcos]]>",
+      "time": "09/06 · 12:30",
+      "pubDate": "Tue, 09 Jun 2026 09:30:13 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem veredito sobre contratação de Gustavo Scarpa e recua pelo meio-campista do Atlético-MG",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-veredito-sobre-contratacao-de-gustavo-scarpa-e-recua-pelo-meio-campista-do-atletico-mg]]>",
       "time": "09/06 · 12:14",
-      "pubDate": "Tue, 09 Jun 2026 09:14:00 -0300"
+      "pubDate": "Tue, 09 Jun 2026 09:14:43 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Grêmio em busca de manter invencibilidade no Brasileiro Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534449/corinthians-recebe-o-gremio-em-busca-de-manter-invencibilidade-no-brasileiro-sub-17-saiba-tudo",
-      "time": "09/06 · 11:30",
-      "pubDate": "Tue, 09 Jun 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: proposta da SAFiel, expulsão de conselheiros e afastamento de vice",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534467/ultimas-do-corinthians-proposta-da-safiel-expulsao-de-conselheiros-e-afastamento-de-vice",
-      "time": "09/06 · 10:30",
-      "pubDate": "Tue, 09 Jun 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselho do Corinthians expulsa três envolvidos em tentativa de invasão do Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534465/conselho-do-corinthians-expulsa-tres-envolvidos-em-tentativa-de-invasao-do-parque-sao-jorge",
-      "time": "09/06 · 01:34",
-      "pubDate": "Mon, 08 Jun 2026 22:34:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Félix Torres ganha moral no Equador e busca recuperação após críticas no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/felix-torres-ganha-moral-no-equador-e-busca-recuperacao-apos-criticas-no-corinthians]]>",
+      "time": "09/06 · 11:13",
+      "pubDate": "Tue, 09 Jun 2026 08:13:52 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-soma-quatro-pre-assistencias-e-amplia-participacao-ofensiva-no-corinthians]]>",
       "time": "08/06 · 19:54",
       "pubDate": "Mon, 08 Jun 2026 16:54:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kaio César, Labyad e +8 nomes podem deixar o Corinthians em dezembro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-labyad-e-8-nomes-podem-deixar-o-corinthians-em-dezembro]]>",
-      "time": "08/06 · 16:46",
-      "pubDate": "Mon, 08 Jun 2026 13:46:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians decide não pressionar Memphis Depay por resposta de renovação durante a Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-decide-nao-pressionar-memphis-depay-por-resposta-de-renovacao-durante-a-copa]]>",
-      "time": "08/06 · 15:05",
-      "pubDate": "Mon, 08 Jun 2026 12:05:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aguarda posicionamento de Memphis após formalizar proposta de renovação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-posicionamento-de-memphis-apos-formalizar-proposta-de-renovacao]]>",
-      "time": "08/06 · 14:25",
-      "pubDate": "Mon, 08 Jun 2026 11:25:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,22 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Atacante emprestada pelo Corinthians acumula mais de nove meses sem gols",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534358/atacante-emprestada-pelo-corinthians-acumula-mais-de-nove-meses-sem-gols",
+      "pubDate": "Tue, 09 Jun 2026 16:29:00 -0300",
+      "date": "09/06 · 19:29"
+    },
+    {
       "title": "VÍDEO: Pantaleão comenta expulsão de mais 3 sócios do Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128257/pantaleao-comenta-expulsao-de-mais-3-socios-do-corinthians",
       "pubDate": "Tue, 09 Jun 2026 09:20:43 -0300",
       "date": "09/06 · 12:20"
-    },
-    {
-      "title": "Corinthians repete goleada histórica de 2025 em vitória no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534423/corinthians-goleia-no-paulista-sub-17-e-repete-placar-historico-de-2025",
-      "pubDate": "Mon, 08 Jun 2026 13:34:00 -0300",
-      "date": "08/06 · 16:34"
-    },
-    {
-      "title": "VÍDEO: Novo gramado da Arena: engenheiro agrônomo explica a nova grama do estádio do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128251/novo-gramado-da-arena-engenheiro-agronomo-explica-a-nova-grama-do-estadio-do-corinthians",
-      "pubDate": "Mon, 08 Jun 2026 10:34:00 -0300",
-      "date": "08/06 · 13:34"
     }
   ]
 };
