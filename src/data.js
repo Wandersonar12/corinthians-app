@@ -1,7 +1,55 @@
-// Gerado automaticamente em 08/06/2026, 23:05:24
+// Gerado automaticamente em 09/06/2026, 10:49:42
 const LIVE_DATA = {
-  "updatedAt": "2026-06-08T23:05:24.163Z",
+  "updatedAt": "2026-06-09T10:49:42.697Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: proposta da SAFiel, expulsão de conselheiros e afastamento de vice",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534467/ultimas-do-corinthians-proposta-da-safiel-expulsao-de-conselheiros-e-afastamento-de-vice",
+      "time": "09/06 · 10:30",
+      "pubDate": "Tue, 09 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselho do Corinthians expulsa três envolvidos em tentativa de invasão do Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534465/conselho-do-corinthians-expulsa-tres-envolvidos-em-tentativa-de-invasao-do-parque-sao-jorge",
+      "time": "09/06 · 01:34",
+      "pubDate": "Mon, 08 Jun 2026 22:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueira do Corinthians completa meio ano sem jogar e mira retorno após a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534429/zagueira-do-corinthians-completa-meio-ano-sem-jogar-e-mira-retorno-apos-a-copa-do-mundo",
+      "time": "09/06 · 01:30",
+      "pubDate": "Mon, 08 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde muitas chances e fica no empate com o Santo André na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534456/corinthians-perde-muitas-chances-e-fica-no-empate-com-o-santo-andre-na-lnf",
+      "time": "09/06 · 00:49",
+      "pubDate": "Mon, 08 Jun 2026 21:49:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadores do Corinthians apontam campeões, surpresas e decepções da Copa em brincadeira no CT",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534437/jogadores-do-corinthians-apontam-campeoes-surpresas-e-decepcoes-da-copa-em-brincadeira-no-ct",
+      "time": "09/06 · 00:31",
+      "pubDate": "Mon, 08 Jun 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante fala sobre expectativa de atuar pela primeira vez na Neo Química Arena pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534379/volante-do-corinthians-fala-sobre-a-expectativa-de-estrear-na-neo-quimica-arena-pelo-timao",
+      "time": "08/06 · 23:32",
+      "pubDate": "Mon, 08 Jun 2026 20:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,44 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Mon, 08 Jun 2026 19:26:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians Feminino faz último treino antes de amistoso e pausa para a Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534460/corinthians-feminino-faz-ultimo-treino-antes-de-amistoso-e-pausa-para-a-copa",
-      "time": "08/06 · 22:03",
-      "pubDate": "Mon, 08 Jun 2026 19:03:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz completou dois meses com números sólidos e evolução técnica no comando do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-completou-dois-meses-com-bons-numeros-no-corinthians]]>",
+      "time": "08/06 · 22:01",
+      "pubDate": "Mon, 08 Jun 2026 19:01:31 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians celebra sexto título no Campeonato Brasileiro de Futebol de Amputados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534455/corinthians-celebra-sexto-titulo-no-campeonato-brasileiro-de-futebol-de-amputados",
-      "time": "08/06 · 21:33",
-      "pubDate": "Mon, 08 Jun 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Justiça concede liminar para associados recentes participarem de votação do Estatuto do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534459/justica-concede-liminar-para-associados-recentes-participarem-de-votacao-do-estatuto-do-corinthians",
-      "time": "08/06 · 21:27",
-      "pubDate": "Mon, 08 Jun 2026 18:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians não sai do banco em vitória da Holanda em amistoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534432/atacante-do-corinthians-nao-sai-do-banco-em-vitoria-da-holanda-em-amistoso",
-      "time": "08/06 · 21:07",
-      "pubDate": "Mon, 08 Jun 2026 18:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Patrocinadora do time feminino do Corinthians faz campanha para lançamento de produto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534451/patrocinadora-do-time-feminino-do-corinthians-faz-campanha-para-lancamento-de-produto",
-      "time": "08/06 · 20:32",
-      "pubDate": "Mon, 08 Jun 2026 17:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Durante pausa para Copa, Corinthians começa processo de renovação do gramado da Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/durante-pausa-para-copa-corinthians-comeca-processo-de-renovacao-do-gramado-da-neo-quimica-arena]]>",
+      "time": "08/06 · 21:28",
+      "pubDate": "Mon, 08 Jun 2026 18:28:59 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-soma-quatro-pre-assistencias-e-amplia-participacao-ofensiva-no-corinthians]]>",
       "time": "08/06 · 19:54",
       "pubDate": "Mon, 08 Jun 2026 16:54:46 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral uruguaio aparece como o reserva menos utilizado pelo Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534421/lateral-uruguaio-foi-o-reserva-menos-utilizado-pelo-corinthians-em-2026",
-      "time": "08/06 · 19:33",
-      "pubDate": "Mon, 08 Jun 2026 16:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-boa-proposta-pela-venda-de-rodrigo-garro-e-diretoria-decide-nao-aceitar]]>",
       "time": "08/06 · 13:06",
       "pubDate": "Mon, 08 Jun 2026 10:06:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians só aceita vender Yuri Alberto por proposta considerada irrecusável",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-so-aceita-vender-yuri-alberto-por-proposta-considerada-irrecusavel]]>",
-      "time": "08/06 · 12:40",
-      "pubDate": "Mon, 08 Jun 2026 09:40:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Pedro Milans perde espaço com Diniz por questão tática no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-milans-perde-espaco-com-diniz-por-questao-tatica-no-corinthians]]>",
-      "time": "08/06 · 12:14",
-      "pubDate": "Mon, 08 Jun 2026 09:14:49 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,24 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534393/goleira-do-corinthians-comenta-importancia-de-seu-irmao-gemeo-para-trajetoria-no-futebol",
       "pubDate": "Sun, 07 Jun 2026 21:04:00 -0300",
       "date": "08/06 · 00:04"
-    },
-    {
-      "title": "Goleiro do Corinthians é titular em goleada da Seleção Sub-17 contra os Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534422/goleiro-do-corinthians-e-titular-em-goleada-da-selecao-sub-17-contra-os-estados-unidos",
-      "pubDate": "Sun, 07 Jun 2026 18:00:00 -0300",
-      "date": "07/06 · 21:00"
-    },
-    {
-      "title": "Goleira do Corinthians destaca aprendizado na Seleção Sub-20 e celebra convocação para a principal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534418/goleira-do-corinthians-destaca-aprendizado-na-selecao-sub-20-e-celebra-convocacao-para-a-principal",
-      "pubDate": "Sun, 07 Jun 2026 17:32:00 -0300",
-      "date": "07/06 · 20:32"
-    },
-    {
-      "title": "Corinthians figura entre melhores visitantes e piores mandantes do Brasileirão antes da Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534334/corinthians-figura-entre-melhores-visitantes-e-piores-mandantes-do-brasileirao-antes-da-copa",
-      "pubDate": "Sun, 07 Jun 2026 15:28:00 -0300",
-      "date": "07/06 · 18:28"
     }
   ]
 };
