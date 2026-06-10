@@ -1,19 +1,51 @@
-// Gerado automaticamente em 10/06/2026, 11:28:30
+// Gerado automaticamente em 10/06/2026, 14:44:24
 const LIVE_DATA = {
-  "updatedAt": "2026-06-10T11:28:30.340Z",
+  "updatedAt": "2026-06-10T14:44:24.219Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: explicação de Martínez, goleada no Sub-17 e salários pendentes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534503/ultimas-do-corinthians-explicacao-de-martinez-goleada-no-sub-17-e-salarios-pendentes",
+      "title": "Yuri Alberto é o único jogador presente em todos os jogos de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534450/yuri-alberto-e-o-unico-jogador-presente-em-todos-os-jogos-de-fernando-diniz-no-corinthians",
+      "time": "10/06 · 14:31",
+      "pubDate": "Wed, 10 Jun 2026 11:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta evitar maior sequência sem vitórias no Brasileiro Sub-20 em quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534499/corinthians-tenta-evitar-maior-sequencia-sem-vitorias-no-brasileiro-sub-20-em-quase-um-ano",
+      "time": "10/06 · 13:31",
+      "pubDate": "Wed, 10 Jun 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fifa destaca ídolo do Corinthians por número histórico em Copas do Mundo; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534498/fifa-destaca-idolo-do-corinthians-por-numero-historico-em-copas-do-mundo-confira",
+      "time": "10/06 · 12:30",
+      "pubDate": "Wed, 10 Jun 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Avaí em busca de recuperação no Brasileirão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534489/corinthians-recebe-o-avai-em-busca-de-recuperacao-no-brasileirao-sub-20-saiba-tudo",
+      "time": "10/06 · 11:30",
+      "pubDate": "Wed, 10 Jun 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: salários atrasados, explicação de Martínez e goleada no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534503/ultimas-do-corinthians-goleada-no-sub-17-salarios-atrasados-e-explicacao-de-martinez",
       "time": "10/06 · 10:30",
       "pubDate": "Wed, 10 Jun 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians entra durante amistoso da Seleção Brasileira; zagueira não saiu do banco",
+      "title": "Volante do Corinthians entra em derrota da Seleção Brasileira para os EUA; zagueira fica no banco",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534504/volante-do-corinthians-entra-durante-amistoso-da-selecao-brasileira-zagueira-nao-saiu-do-banco",
       "time": "10/06 · 02:43",
       "pubDate": "Tue, 09 Jun 2026 23:43:00 -0300"
@@ -33,38 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534502/tres-jogadoras-do-corinthians-sao-titulares-na-ultima-rodada-da-liga-das-nacoes-da-conmebol",
       "time": "10/06 · 01:01",
       "pubDate": "Tue, 09 Jun 2026 22:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians avalia mudança de função na temporada e celebra retorno à Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534426/lateral-do-corinthians-avalia-mudanca-de-funcao-na-temporada-e-celebra-retorno-a-selecao-brasileira",
-      "time": "10/06 · 00:04",
-      "pubDate": "Tue, 09 Jun 2026 21:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians iguala sequência negativa na LNF depois de três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534464/corinthians-iguala-sequencia-negativa-na-lnf-depois-de-tres-anos",
-      "time": "09/06 · 23:02",
-      "pubDate": "Tue, 09 Jun 2026 20:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante revela conversas com o Corinthians antes de retorno ao futebol brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534491/atacante-revela-conversas-com-o-corinthians-antes-de-retorno-ao-futebol-brasileiro",
-      "time": "09/06 · 22:01",
-      "pubDate": "Tue, 09 Jun 2026 19:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é derrotado pela seleção sub-23 dos Estados Unidos em amistosos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534497/corinthians-e-derrotado-pela-selecao-sub-23-dos-estados-unidos-em-amistosos",
-      "time": "09/06 · 21:08",
-      "pubDate": "Tue, 09 Jun 2026 18:08:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,8 +200,8 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Últimas do Corinthians: explicação de Martínez, goleada no Sub-17 e salários pendentes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534503/ultimas-do-corinthians-explicacao-de-martinez-goleada-no-sub-17-e-salarios-pendentes",
+      "title": "Últimas do Corinthians: salários atrasados, explicação de Martínez e goleada no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534503/ultimas-do-corinthians-goleada-no-sub-17-salarios-atrasados-e-explicacao-de-martinez",
       "pubDate": "Wed, 10 Jun 2026 07:30:00 -0300",
       "date": "10/06 · 10:30"
     },
