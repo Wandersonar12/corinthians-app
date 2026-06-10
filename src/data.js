@@ -1,7 +1,47 @@
-// Gerado automaticamente em 09/06/2026, 23:07:21
+// Gerado automaticamente em 10/06/2026, 11:28:30
 const LIVE_DATA = {
-  "updatedAt": "2026-06-09T23:07:21.729Z",
+  "updatedAt": "2026-06-10T11:28:30.340Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: explicação de Martínez, goleada no Sub-17 e salários pendentes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534503/ultimas-do-corinthians-explicacao-de-martinez-goleada-no-sub-17-e-salarios-pendentes",
+      "time": "10/06 · 10:30",
+      "pubDate": "Wed, 10 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians entra durante amistoso da Seleção Brasileira; zagueira não saiu do banco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534504/volante-do-corinthians-entra-durante-amistoso-da-selecao-brasileira-zagueira-nao-saiu-do-banco",
+      "time": "10/06 · 02:43",
+      "pubDate": "Tue, 09 Jun 2026 23:43:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians destaca falta de pontaria em empate pela LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534487/ala-do-corinthians-destaca-falta-de-pontaria-em-empate-pela-lnf",
+      "time": "10/06 · 01:05",
+      "pubDate": "Tue, 09 Jun 2026 22:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Três jogadoras do Corinthians são titulares na última rodada da Liga das Nações da Conmebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534502/tres-jogadoras-do-corinthians-sao-titulares-na-ultima-rodada-da-liga-das-nacoes-da-conmebol",
+      "time": "10/06 · 01:01",
+      "pubDate": "Tue, 09 Jun 2026 22:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians avalia mudança de função na temporada e celebra retorno à Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534426/lateral-do-corinthians-avalia-mudanca-de-funcao-na-temporada-e-celebra-retorno-a-selecao-brasileira",
+      "time": "10/06 · 00:04",
+      "pubDate": "Tue, 09 Jun 2026 21:04:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -25,46 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534497/corinthians-e-derrotado-pela-selecao-sub-23-dos-estados-unidos-em-amistosos",
       "time": "09/06 · 21:08",
       "pubDate": "Tue, 09 Jun 2026 18:08:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Auxiliar do Corinthians valoriza vitória no Paulista e mira recuperação no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534496/auxiliar-do-corinthians-valoriza-vitoria-no-paulista-e-mira-recuperacao-no-brasileiro-sub-20",
-      "time": "09/06 · 20:58",
-      "pubDate": "Tue, 09 Jun 2026 17:58:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians não toma conhecimento e passa o trator sobre o Grêmio pelo Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534483/corinthians-nao-toma-conhecimento-e-passa-o-trator-sobre-o-gremio-pelo-brasileiro-sub-17",
-      "time": "09/06 · 19:48",
-      "pubDate": "Tue, 09 Jun 2026 16:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians atrasa salários de elenco e comissão técnica pelo segundo mês consecutivo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534485/corinthians-atrasa-salarios-de-elenco-e-comissao-tecnica-pelo-segundo-mes-consecutivo",
-      "time": "09/06 · 19:46",
-      "pubDate": "Tue, 09 Jun 2026 16:46:09 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante emprestada pelo Corinthians acumula mais de nove meses sem gols",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534358/atacante-emprestada-pelo-corinthians-acumula-mais-de-nove-meses-sem-gols",
-      "time": "09/06 · 19:29",
-      "pubDate": "Tue, 09 Jun 2026 16:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel aprova patrocínio da Fatal Fans no Corinthians; confira o resultado da enquete do Meu Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534471/fiel-aprova-patrocinio-da-fatal-fans-no-corinthians-confira-o-resultado-da-enquete-do-meu-timao",
-      "time": "09/06 · 18:32",
-      "pubDate": "Tue, 09 Jun 2026 15:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Últimas do Corinthians: explicação de Martínez, goleada no Sub-17 e salários pendentes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534503/ultimas-do-corinthians-explicacao-de-martinez-goleada-no-sub-17-e-salarios-pendentes",
+      "pubDate": "Wed, 10 Jun 2026 07:30:00 -0300",
+      "date": "10/06 · 10:30"
+    },
     {
       "title": "Atacante emprestada pelo Corinthians acumula mais de nove meses sem gols",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534358/atacante-emprestada-pelo-corinthians-acumula-mais-de-nove-meses-sem-gols",
