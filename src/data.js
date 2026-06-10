@@ -1,7 +1,47 @@
-// Gerado automaticamente em 10/06/2026, 20:03:42
+// Gerado automaticamente em 10/06/2026, 23:16:55
 const LIVE_DATA = {
-  "updatedAt": "2026-06-10T20:03:42.797Z",
+  "updatedAt": "2026-06-10T23:16:55.026Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico da Holanda ressalta importância de Memphis na Copa do Mundo e relembra visita ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534527/tecnico-da-holanda-ressalta-importancia-de-memphis-na-copa-do-mundo-e-relembra-visita-ao-corinthians",
+      "time": "10/06 · 22:46",
+      "pubDate": "Wed, 10 Jun 2026 19:46:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians realiza palestra com jogadoras das categorias de base sobre violência contra a mulher",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534516/corinthians-realiza-palestra-com-jogadoras-das-categorias-de-base-sobre-violencia-contra-a-mulher",
+      "time": "10/06 · 22:32",
+      "pubDate": "Wed, 10 Jun 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "SAFiel lança site para mobilizar torcida do Corinthians em nova proposta bilionária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534520/safiel-lanca-site-para-mobilizar-torcida-do-corinthians-em-nova-proposta-bilionaria",
+      "time": "10/06 · 21:35",
+      "pubDate": "Wed, 10 Jun 2026 18:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Elenco campeão da Taça Brasil Sub-17 visita presidente do Corinthians no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534507/elenco-campeao-da-taca-brasil-sub-17-visita-presidente-do-corinthians-no-parque-sao-jorge",
+      "time": "10/06 · 20:29",
+      "pubDate": "Wed, 10 Jun 2026 17:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay celebrará acerto com o Corinthians após a Copa do Mundo e vencimentos serão pagos pelo clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-celebrara-acerto-com-o-corinthians-apos-a-copa-do-mundo-e-vencimentos-serao-pagos-pelo-clube]]>",
+      "time": "10/06 · 19:59",
+      "pubDate": "Wed, 10 Jun 2026 16:59:26 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +75,28 @@ const LIVE_DATA = {
       "pubDate": "Wed, 10 Jun 2026 15:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilharia do Corinthians Sub-17 conta com mudanças após goleada no Brasileirão; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534495/artilharia-do-corinthians-sub-17-conta-com-mudancas-apos-goleada-no-brasileirao-veja-o-ranking",
-      "time": "10/06 · 17:33",
-      "pubDate": "Wed, 10 Jun 2026 14:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians já definiu que novo centroavante contratado no mercado da bola não será Germán Cano",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-definiu-que-novo-centroavante-contratado-no-mercado-da-bola-nao-ser-german-cano]]>",
+      "time": "10/06 · 17:54",
+      "pubDate": "Wed, 10 Jun 2026 14:54:39 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Sem patrocinadores, Corinthians envia proposta a Memphis e vê futuras vendas no elenco como trunfo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534512/sem-patrocinadores-corinthians-envia-proposta-a-memphis-e-ve-futuras-vendas-no-elenco-como-trunfo",
-      "time": "10/06 · 16:32",
-      "pubDate": "Wed, 10 Jun 2026 13:32:46 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Roni desabafa sobre pressão da torcida do Corinthians: “Nunca tinha visto aquilo”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/roni-desabafa-sobre-pressao-da-torcida-do-corinthians-nunca-tinha-visto-aquilo]]>",
+      "time": "10/06 · 16:28",
+      "pubDate": "Wed, 10 Jun 2026 13:28:02 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fixo do Corinthians avalia empate contra o Santo André e comenta risco de rebaixamento na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534486/fixo-do-corinthians-avalia-empate-contra-o-santo-andre-e-comenta-risco-de-rebaixamento-na-lnf",
-      "time": "10/06 · 15:30",
-      "pubDate": "Wed, 10 Jun 2026 12:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto é o único jogador presente em todos os jogos de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534450/yuri-alberto-e-o-unico-jogador-presente-em-todos-os-jogos-de-fernando-diniz-no-corinthians",
-      "time": "10/06 · 14:31",
-      "pubDate": "Wed, 10 Jun 2026 11:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians sondou zagueiro Lucas Fasson para fazer sombra para titulares na defesa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sondou-zagueiro-lucas-fasson-para-fazer-sombra-para-titulares-na-defesa]]>",
+      "time": "10/06 · 16:08",
+      "pubDate": "Wed, 10 Jun 2026 13:08:37 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-preve-cenario-agitado-no-corinthians-e-indica-saidas-importantes-no-2o-semestre]]>",
       "time": "09/06 · 17:53",
       "pubDate": "Tue, 09 Jun 2026 14:53:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians prioriza camisa 9 e evita pagar taxas por reforços",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-camisa-9-e-evita-pagar-taxas-por-reforcos]]>",
-      "time": "09/06 · 12:30",
-      "pubDate": "Tue, 09 Jun 2026 09:30:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem veredito sobre contratação de Gustavo Scarpa e recua pelo meio-campista do Atlético-MG",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-veredito-sobre-contratacao-de-gustavo-scarpa-e-recua-pelo-meio-campista-do-atletico-mg]]>",
-      "time": "09/06 · 12:14",
-      "pubDate": "Tue, 09 Jun 2026 09:14:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Félix Torres ganha moral no Equador e busca recuperação após críticas no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/felix-torres-ganha-moral-no-equador-e-busca-recuperacao-apos-criticas-no-corinthians]]>",
-      "time": "09/06 · 11:13",
-      "pubDate": "Tue, 09 Jun 2026 08:13:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians alia força fora de casa a dificuldades como mandante no Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-alia-forca-fora-de-casa-a-dificuldades-como-mandante-no-campeonato-brasileiro]]>",
-      "time": "09/06 · 01:18",
-      "pubDate": "Mon, 08 Jun 2026 22:18:50 -0300"
     },
     {
       "source": "Gazeta Esportiva",
