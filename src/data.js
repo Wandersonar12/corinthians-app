@@ -1,70 +1,78 @@
-// Gerado automaticamente em 11/06/2026, 12:01:07
+// Gerado automaticamente em 11/06/2026, 20:05:03
 const LIVE_DATA = {
-  "updatedAt": "2026-06-11T12:01:07.030Z",
+  "updatedAt": "2026-06-11T20:05:03.999Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba quais jogadores do Corinthians estão impedidos de defender outros times no Brasileirão de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534511/saiba-quais-jogadores-do-corinthians-estao-impedidos-de-defender-outros-times-no-brasileirao-de-2026",
-      "time": "11/06 · 11:30",
-      "pubDate": "Thu, 11 Jun 2026 08:30:00 -0300"
+      "title": "Corinthians detalha processo de renovação completa do gramado da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534548/corinthians-detalha-processo-de-renovacao-completa-do-gramado-da-neo-quimica-arena",
+      "time": "11/06 · 20:03",
+      "pubDate": "Thu, 11 Jun 2026 17:03:15 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: proposta a atacante, site da SAFiel e goleada na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534530/ultimas-do-corinthians-proposta-a-atacante-site-da-safiel-e-goleada-na-base",
-      "time": "11/06 · 10:30",
-      "pubDate": "Thu, 11 Jun 2026 07:30:00 -0300"
+      "title": "Meio-campista do Corinthians acompanha cerimônia de abertura da Copa do Mundo no México",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534540/meio-campista-do-corinthians-acompanha-cerimonia-de-abertura-da-copa-do-mundo-no-mexico",
+      "time": "11/06 · 19:37",
+      "pubDate": "Thu, 11 Jun 2026 16:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inaugura nova loja oficial em São Bernardo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534525/corinthians-inaugura-nova-loja-oficial-em-sao-bernardo",
-      "time": "11/06 · 01:29",
-      "pubDate": "Wed, 10 Jun 2026 22:29:00 -0300"
+      "title": "Corinthians conhece data e horário de sorteio das oitavas de final da Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534545/corinthians-conhece-data-e-horario-de-sorteio-das-oitavas-de-final-da-copa-do-brasil-feminina",
+      "time": "11/06 · 19:23",
+      "pubDate": "Thu, 11 Jun 2026 16:23:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla entra no top-3 e ala amplia vantagem na artilharia do Corinthians após empate pela LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534509/dupla-entra-no-top-3-e-ala-amplia-vantagem-na-artilharia-do-corinthians-apos-empate-pela-lnf",
-      "time": "11/06 · 00:32",
-      "pubDate": "Wed, 10 Jun 2026 21:32:00 -0300"
+      "title": "Corinthians detalha cronograma para implantação da biometria facial no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534541/corinthians-detalha-cronograma-para-implantacao-da-biometria-facial-no-parque-sao-jorge",
+      "time": "11/06 · 18:31",
+      "pubDate": "Thu, 11 Jun 2026 15:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians anuncia renovação de patrocínio para equipe de futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534513/corinthians-anuncia-renovacao-de-patrocinio-para-equipe-de-futsal",
-      "time": "11/06 · 00:01",
-      "pubDate": "Wed, 10 Jun 2026 21:01:00 -0300"
+      "title": "Atacante chega ao dígito duplo e vê artilharia se movimentar após goleada do Sub-20 do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534524/atacante-chega-ao-digito-duplo-e-ve-artilharia-se-movimentar-apos-goleada-do-sub-20-do-corinthians",
+      "time": "11/06 · 17:32",
+      "pubDate": "Thu, 11 Jun 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Roni relembra passagem pelo Corinthians e revela bastidor sobre classificação contra o Boca em 2022",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534506/roni-relembra-passagem-pelo-corinthians-e-revela-bastidor-sobre-classificacao-contra-o-boca-em-2022",
-      "time": "10/06 · 23:33",
-      "pubDate": "Wed, 10 Jun 2026 20:33:00 -0300"
+      "title": "Corinthians fecha semestre com desempenho intermediário na Neo Química Arena nesta década",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534501/corinthians-fecha-semestre-com-desempenho-intermediario-na-neo-quimica-arena-nesta-decada",
+      "time": "11/06 · 16:32",
+      "pubDate": "Thu, 11 Jun 2026 13:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico da Holanda ressalta importância de Memphis na Copa do Mundo e relembra visita ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534527/tecnico-da-holanda-ressalta-importancia-de-memphis-na-copa-do-mundo-e-relembra-visita-ao-corinthians",
-      "time": "10/06 · 22:46",
-      "pubDate": "Wed, 10 Jun 2026 19:46:00 -0300"
+      "title": "Corinthians abre negociações para renovar contrato de uma das principais joias da base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534538/corinthians-abre-negociacoes-para-renovar-contrato-de-uma-das-principais-joias-da-base",
+      "time": "11/06 · 15:36",
+      "pubDate": "Thu, 11 Jun 2026 12:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians realiza palestra com jogadoras das categorias de base sobre violência contra a mulher",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534516/corinthians-realiza-palestra-com-jogadoras-das-categorias-de-base-sobre-violencia-contra-a-mulher",
-      "time": "10/06 · 22:32",
-      "pubDate": "Wed, 10 Jun 2026 19:32:00 -0300"
+      "title": "Dupla volta a ganhar minutos em amistosos e deve reforçar o Corinthians após a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534535/dupla-volta-a-ganhar-minutos-em-amistosos-e-deve-reforcar-o-corinthians-apos-a-copa-do-mundo",
+      "time": "11/06 · 14:35",
+      "pubDate": "Thu, 11 Jun 2026 11:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "José Martínez desabafa e diz que voltaria ao Corinthians: “Peço desculpas à torcida”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jose-martinez-desabafa-e-diz-que-voltaria-ao-corinthians-peco-desculpas-a-torcida]]>",
+      "time": "11/06 · 02:40",
+      "pubDate": "Wed, 10 Jun 2026 23:40:29 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sondou-zagueiro-lucas-fasson-para-fazer-sombra-para-titulares-na-defesa]]>",
       "time": "10/06 · 16:08",
       "pubDate": "Wed, 10 Jun 2026 13:08:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "André sente pressão após negócio frustrado e Corinthians admite venda por oferta menor",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-sente-pressao-apos-negocio-frustrado-e-corinthians-admite-venda-por-oferta-menor]]>",
-      "time": "10/06 · 12:21",
-      "pubDate": "Wed, 10 Jun 2026 09:21:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,7 +200,19 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Últimas do Corinthians: proposta a atacante, site da SAFiel e goleada na base",
+      "title": "Atacante chega ao dígito duplo e vê artilharia se movimentar após goleada do Sub-20 do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534524/atacante-chega-ao-digito-duplo-e-ve-artilharia-se-movimentar-apos-goleada-do-sub-20-do-corinthians",
+      "pubDate": "Thu, 11 Jun 2026 14:32:00 -0300",
+      "date": "11/06 · 17:32"
+    },
+    {
+      "title": "Corinthians é o quinto clube brasileiro com mais jogadores que marcaram gols em Copas do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534494/corinthians-e-o-quinto-clube-brasileiro-com-mais-jogadores-que-marcaram-gols-em-copas-do-mundo",
+      "pubDate": "Thu, 11 Jun 2026 09:33:00 -0300",
+      "date": "11/06 · 12:33"
+    },
+    {
+      "title": "Últimas do Corinthians: proposta a atacante, site da SAFiel e goleada no Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534530/ultimas-do-corinthians-proposta-a-atacante-site-da-safiel-e-goleada-na-base",
       "pubDate": "Thu, 11 Jun 2026 07:30:00 -0300",
       "date": "11/06 · 10:30"
@@ -216,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534495/artilharia-do-corinthians-sub-17-conta-com-mudancas-apos-goleada-no-brasileirao-veja-o-ranking",
       "pubDate": "Wed, 10 Jun 2026 14:33:00 -0300",
       "date": "10/06 · 17:33"
-    },
-    {
-      "title": "Últimas do Corinthians: salários atrasados, explicação de Martínez e goleada no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534503/ultimas-do-corinthians-goleada-no-sub-17-salarios-atrasados-e-explicacao-de-martinez",
-      "pubDate": "Wed, 10 Jun 2026 07:30:00 -0300",
-      "date": "10/06 · 10:30"
-    },
-    {
-      "title": "VÍDEO: OSMAR STABILE VIRA ALVO DO MP-SP | ELENCO NÃO RECEBE SALÁRIO NO DIA COMBINADO",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128264/osmar-stabile-vira-alvo-do-mp-sp-elenco-nao-recebe-salario-no-dia-combinado",
-      "pubDate": "Tue, 09 Jun 2026 18:27:49 -0300",
-      "date": "09/06 · 21:27"
     }
   ]
 };
