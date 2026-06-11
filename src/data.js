@@ -1,7 +1,39 @@
-// Gerado automaticamente em 11/06/2026, 20:05:03
+// Gerado automaticamente em 11/06/2026, 23:12:59
 const LIVE_DATA = {
-  "updatedAt": "2026-06-11T20:05:03.999Z",
+  "updatedAt": "2026-06-11T23:12:59.712Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conquista 11 medalhas e termina Brasileiro Júnior de Inverno na sexta colocação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534542/corinthians-conquista-11-medalhas-e-termina-brasileiro-junior-de-inverno-na-sexta-colocacao",
+      "time": "11/06 · 22:31",
+      "pubDate": "Thu, 11 Jun 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "SAFiel apresenta projeto e debate proposta com presidente do Conselho Deliberativo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534552/safiel-apresenta-projeto-e-debate-proposta-com-presidente-do-conselho-deliberativo-do-corinthians",
+      "time": "11/06 · 21:43",
+      "pubDate": "Thu, 11 Jun 2026 18:43:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quem foi a melhor jogadora do Corinthians até a parada para a Copa? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534533/quem-foi-a-melhor-jogadora-do-corinthians-ate-a-parada-para-a-copa-vote-na-enquete-do-meu-timao",
+      "time": "11/06 · 21:33",
+      "pubDate": "Thu, 11 Jun 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians libera atacante da base para time da Série B; saiba os detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534549/corinthians-libera-atacante-da-base-para-time-da-serie-b-saiba-os-detalhes",
+      "time": "11/06 · 20:35",
+      "pubDate": "Thu, 11 Jun 2026 17:35:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Thu, 11 Jun 2026 15:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante chega ao dígito duplo e vê artilharia se movimentar após goleada do Sub-20 do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534524/atacante-chega-ao-digito-duplo-e-ve-artilharia-se-movimentar-apos-goleada-do-sub-20-do-corinthians",
-      "time": "11/06 · 17:32",
-      "pubDate": "Thu, 11 Jun 2026 14:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians considera salários acima do limite e decide não insistir pela contratação de Arthur Cabral",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-considera-salarios-acima-do-limite-e-decide-nao-insistir-pela-contratacao-de-arthur-cabral]]>",
+      "time": "11/06 · 12:25",
+      "pubDate": "Thu, 11 Jun 2026 09:25:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fecha semestre com desempenho intermediário na Neo Química Arena nesta década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534501/corinthians-fecha-semestre-com-desempenho-intermediario-na-neo-quimica-arena-nesta-decada",
-      "time": "11/06 · 16:32",
-      "pubDate": "Thu, 11 Jun 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre negociações para renovar contrato de uma das principais joias da base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534538/corinthians-abre-negociacoes-para-renovar-contrato-de-uma-das-principais-joias-da-base",
-      "time": "11/06 · 15:36",
-      "pubDate": "Thu, 11 Jun 2026 12:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla volta a ganhar minutos em amistosos e deve reforçar o Corinthians após a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534535/dupla-volta-a-ganhar-minutos-em-amistosos-e-deve-reforcar-o-corinthians-apos-a-copa-do-mundo",
-      "time": "11/06 · 14:35",
-      "pubDate": "Thu, 11 Jun 2026 11:35:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis entra em seleta lista de estrangeiros do Corinthians convocados para a Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-entra-em-seleta-lista-de-estrangeiros-do-corinthians-convocados-para-a-copa-do-mundo]]>",
+      "time": "11/06 · 12:18",
+      "pubDate": "Thu, 11 Jun 2026 09:18:58 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-definiu-que-novo-centroavante-contratado-no-mercado-da-bola-nao-ser-german-cano]]>",
       "time": "10/06 · 17:54",
       "pubDate": "Wed, 10 Jun 2026 14:54:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Roni desabafa sobre pressão da torcida do Corinthians: “Nunca tinha visto aquilo”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/roni-desabafa-sobre-pressao-da-torcida-do-corinthians-nunca-tinha-visto-aquilo]]>",
-      "time": "10/06 · 16:28",
-      "pubDate": "Wed, 10 Jun 2026 13:28:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians sondou zagueiro Lucas Fasson para fazer sombra para titulares na defesa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sondou-zagueiro-lucas-fasson-para-fazer-sombra-para-titulares-na-defesa]]>",
-      "time": "10/06 · 16:08",
-      "pubDate": "Wed, 10 Jun 2026 13:08:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
