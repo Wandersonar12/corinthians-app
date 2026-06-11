@@ -1,7 +1,55 @@
-// Gerado automaticamente em 10/06/2026, 23:16:55
+// Gerado automaticamente em 11/06/2026, 12:01:07
 const LIVE_DATA = {
-  "updatedAt": "2026-06-10T23:16:55.026Z",
+  "updatedAt": "2026-06-11T12:01:07.030Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba quais jogadores do Corinthians estão impedidos de defender outros times no Brasileirão de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534511/saiba-quais-jogadores-do-corinthians-estao-impedidos-de-defender-outros-times-no-brasileirao-de-2026",
+      "time": "11/06 · 11:30",
+      "pubDate": "Thu, 11 Jun 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: proposta a atacante, site da SAFiel e goleada na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534530/ultimas-do-corinthians-proposta-a-atacante-site-da-safiel-e-goleada-na-base",
+      "time": "11/06 · 10:30",
+      "pubDate": "Thu, 11 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inaugura nova loja oficial em São Bernardo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534525/corinthians-inaugura-nova-loja-oficial-em-sao-bernardo",
+      "time": "11/06 · 01:29",
+      "pubDate": "Wed, 10 Jun 2026 22:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla entra no top-3 e ala amplia vantagem na artilharia do Corinthians após empate pela LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534509/dupla-entra-no-top-3-e-ala-amplia-vantagem-na-artilharia-do-corinthians-apos-empate-pela-lnf",
+      "time": "11/06 · 00:32",
+      "pubDate": "Wed, 10 Jun 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians anuncia renovação de patrocínio para equipe de futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534513/corinthians-anuncia-renovacao-de-patrocinio-para-equipe-de-futsal",
+      "time": "11/06 · 00:01",
+      "pubDate": "Wed, 10 Jun 2026 21:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Roni relembra passagem pelo Corinthians e revela bastidor sobre classificação contra o Boca em 2022",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534506/roni-relembra-passagem-pelo-corinthians-e-revela-bastidor-sobre-classificacao-contra-o-boca-em-2022",
+      "time": "10/06 · 23:33",
+      "pubDate": "Wed, 10 Jun 2026 20:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,20 +67,28 @@ const LIVE_DATA = {
       "pubDate": "Wed, 10 Jun 2026 19:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "SAFiel lança site para mobilizar torcida do Corinthians em nova proposta bilionária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534520/safiel-lanca-site-para-mobilizar-torcida-do-corinthians-em-nova-proposta-bilionaria",
-      "time": "10/06 · 21:35",
-      "pubDate": "Wed, 10 Jun 2026 18:35:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem melhor defesa desde 2022, mas registra pior média de gols das últimas temporadas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-melhor-defesa-desde-2022-mas-registra-pior-media-de-gols-das-ultimas-temporadas]]>",
+      "time": "10/06 · 22:07",
+      "pubDate": "Wed, 10 Jun 2026 19:07:17 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Elenco campeão da Taça Brasil Sub-17 visita presidente do Corinthians no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534507/elenco-campeao-da-taca-brasil-sub-17-visita-presidente-do-corinthians-no-parque-sao-jorge",
-      "time": "10/06 · 20:29",
-      "pubDate": "Wed, 10 Jun 2026 17:29:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Koeman elogia o Corinthians ao falar de Memphis Depay e destaca o Brasileirão: “Campeonato forte”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/koeman-elogia-o-corinthians-ao-falar-de-memphis-depay-e-destaca-o-brasileirao-campeonato-forte]]>",
+      "time": "10/06 · 21:05",
+      "pubDate": "Wed, 10 Jun 2026 18:05:52 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto mantém sequência perfeita e participa de todos os jogos do Corinthians com Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-mantem-sequencia-perfeita-e-participa-de-todos-os-jogos-do-corinthians-com-diniz]]>",
+      "time": "10/06 · 20:47",
+      "pubDate": "Wed, 10 Jun 2026 17:47:26 -0300"
     },
     {
       "source": "Bolavip",
@@ -41,38 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-celebrara-acerto-com-o-corinthians-apos-a-copa-do-mundo-e-vencimentos-serao-pagos-pelo-clube]]>",
       "time": "10/06 · 19:59",
       "pubDate": "Wed, 10 Jun 2026 16:59:26 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians goleia o Avaí e se aproxima do G8 no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534514/corinthians-goleia-o-avai-e-se-aproxima-do-g8-no-brasileiro-sub-20",
-      "time": "10/06 · 19:52",
-      "pubDate": "Wed, 10 Jun 2026 16:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians lança body splash inspirado no elenco feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534518/corinthians-lanca-body-splash-inspirado-no-elenco-feminino",
-      "time": "10/06 · 19:30",
-      "pubDate": "Wed, 10 Jun 2026 16:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece os detalhes do clássico diante da Ferroviária pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534515/corinthians-conhece-os-detalhes-do-classico-diante-da-ferroviaria-pelo-paulistao-feminino",
-      "time": "10/06 · 18:44",
-      "pubDate": "Wed, 10 Jun 2026 15:44:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra o primeiro semestre com a melhor defesa e o pior ataque dos últimos cinco anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534443/corinthians-encerra-o-primeiro-semestre-com-a-melhor-defesa-e-o-pior-ataque-dos-ultimos-cinco-anos",
-      "time": "10/06 · 18:33",
-      "pubDate": "Wed, 10 Jun 2026 15:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Tomás Pochettino vai sair do Fortaleza e está livre para assinar com Marcelo Paz no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/tomas-pochettino-vai-sair-do-fortaleza-e-esta-livre-para-assinar-com-marcelo-paz-no-corinthians]]>",
-      "time": "10/06 · 14:19",
-      "pubDate": "Wed, 10 Jun 2026 11:19:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "André sente pressão após negócio frustrado e Corinthians admite venda por oferta menor",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-sente-pressao-apos-negocio-frustrado-e-corinthians-admite-venda-por-oferta-menor]]>",
       "time": "10/06 · 12:21",
       "pubDate": "Wed, 10 Jun 2026 09:21:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis terá na Copa sequência que ainda não conseguiu pelo Corinthians em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-tera-na-copa-sequencia-que-ainda-nao-conseguiu-pelo-corinthians-em-2026]]>",
-      "time": "10/06 · 11:52",
-      "pubDate": "Wed, 10 Jun 2026 08:52:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vidente prevê cenário agitado no Corinthians e indica saídas importantes no 2º semestre",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/vidente-preve-cenario-agitado-no-corinthians-e-indica-saidas-importantes-no-2o-semestre]]>",
-      "time": "09/06 · 17:53",
-      "pubDate": "Tue, 09 Jun 2026 14:53:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Últimas do Corinthians: proposta a atacante, site da SAFiel e goleada na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534530/ultimas-do-corinthians-proposta-a-atacante-site-da-safiel-e-goleada-na-base",
+      "pubDate": "Thu, 11 Jun 2026 07:30:00 -0300",
+      "date": "11/06 · 10:30"
+    },
+    {
       "title": "Corinthians goleia o Avaí e se aproxima do G8 no Brasileiro Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534514/corinthians-goleia-o-avai-e-se-aproxima-do-g8-no-brasileiro-sub-20",
       "pubDate": "Wed, 10 Jun 2026 16:52:00 -0300",
@@ -222,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128264/osmar-stabile-vira-alvo-do-mp-sp-elenco-nao-recebe-salario-no-dia-combinado",
       "pubDate": "Tue, 09 Jun 2026 18:27:49 -0300",
       "date": "09/06 · 21:27"
-    },
-    {
-      "title": "Atacante emprestada pelo Corinthians acumula mais de nove meses sem gols",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534358/atacante-emprestada-pelo-corinthians-acumula-mais-de-nove-meses-sem-gols",
-      "pubDate": "Tue, 09 Jun 2026 16:29:00 -0300",
-      "date": "09/06 · 19:29"
     }
   ]
 };
