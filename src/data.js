@@ -1,7 +1,55 @@
-// Gerado automaticamente em 12/06/2026, 14:26:59
+// Gerado automaticamente em 12/06/2026, 19:48:27
 const LIVE_DATA = {
-  "updatedAt": "2026-06-12T14:26:59.902Z",
+  "updatedAt": "2026-06-12T19:48:27.707Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do CD do Corinthians detalha andamento do caso Nike e comenta reunião com a SAFiel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534562/presidente-do-cd-do-corinthians-detalha-andamento-do-caso-nike-e-comenta-reuniao-com-a-safiel",
+      "time": "12/06 · 19:31",
+      "pubDate": "Fri, 12 Jun 2026 16:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians iguala número de gols da última temporada e vive ano de destaque",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534543/atacante-do-corinthians-iguala-numero-de-gols-da-ultima-temporada-e-vive-ano-de-destaque",
+      "time": "12/06 · 18:33",
+      "pubDate": "Fri, 12 Jun 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conselheiros vitalícios pedem que TJ-SP suspenda a Assembleia de reforma estatutária do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534568/conselheiros-vitalicios-pedem-que-tj-sp-suspenda-a-assembleia-de-reforma-estatutaria-do-corinthians",
+      "time": "12/06 · 17:35",
+      "pubDate": "Fri, 12 Jun 2026 14:35:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a vencer em casa no Sub-20 após mais de três meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534523/corinthians-volta-a-vencer-em-casa-no-sub-20-apos-mais-de-tres-meses",
+      "time": "12/06 · 16:32",
+      "pubDate": "Fri, 12 Jun 2026 13:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ganha novo prazo e se aproxima de acordo com Talleres por dívida envolvendo Garro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534564/corinthians-ganha-novo-prazo-e-se-aproxima-de-acordo-com-talleres-por-divida-envolvendo-garro",
+      "time": "12/06 · 15:37",
+      "pubDate": "Fri, 12 Jun 2026 12:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians comenta momento negativo na LNF e projeta impacto de novo reforço",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534493/goleiro-do-corinthians-comenta-momento-negativo-na-lnf-e-projeta-impacto-de-novo-reforco",
+      "time": "12/06 · 14:32",
+      "pubDate": "Fri, 12 Jun 2026 11:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +57,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534488/meia-do-corinthians-e-destaque-em-ranking-de-criacao-de-chances-pelo-clube-desde-2024-no-brasileirao",
       "time": "12/06 · 13:32",
       "pubDate": "Fri, 12 Jun 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Alvo do Corinthians, Gabriel Strefezza entra na mira do Torino; brasileiro foi revelado pelo Timão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-gabriel-strefezza-entra-na-mira-do-torino-brasileiro-foi-revelado-pelo-timao]]>",
+      "time": "12/06 · 12:35",
+      "pubDate": "Fri, 12 Jun 2026 09:35:26 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,28 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 12 Jun 2026 09:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians corre contra o tempo para quitar dívida com Talleres por Rodrigo Garro nesta sexta-feira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534510/corinthians-corre-contra-o-tempo-para-quitar-divida-com-talleres-por-rodrigo-garro-nesta-sexta-feira",
-      "time": "12/06 · 11:30",
-      "pubDate": "Fri, 12 Jun 2026 08:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vai vender Matheus Bidu apenas com proposta irrecusável; lateral recebe contatos da Europa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vai-vender-matheus-bidu-apenas-com-proposta-irrecusavel-lateral-recebe-contatos-da-europa]]>",
+      "time": "12/06 · 12:18",
+      "pubDate": "Fri, 12 Jun 2026 09:18:53 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Alvo do Corinthians, Gabriel Strefezza entra na mira do Torino; brasileiro foi revelado pelo Timão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-gabriel-strefezza-entra-na-mira-do-torino-brasileiro-foi-revelado-pelo-timao]]>",
-      "time": "12/06 · 10:36",
-      "pubDate": "Fri, 12 Jun 2026 07:36:35 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: reforma do gramado, reunião com SAFiel e negociações por renovação de joia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534557/ultimas-do-corinthians-reforma-do-gramado-reuniao-com-safiel-e-negociacoes-por-renovacao-de-joia",
-      "time": "12/06 · 10:30",
-      "pubDate": "Fri, 12 Jun 2026 07:30:00 -0300"
+      "title": "Carrillo aponta rivalidade entre Corinthians e Palmeiras como motivo de camisa branca na torcida do México",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/carrillo-aponta-rivalidade-entre-corinthians-e-palmeiras-como-motivo-de-camisa-branca-na-torcida-do-mexico]]>",
+      "time": "12/06 · 11:57",
+      "pubDate": "Fri, 12 Jun 2026 08:57:55 -0300"
     },
     {
       "source": "Bolavip",
@@ -49,38 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/craque-neto-avalia-situacao-de-memphis-depay-com-corinthians-apos-a-copa-esta-dificil]]>",
       "time": "12/06 · 01:42",
       "pubDate": "Thu, 11 Jun 2026 22:42:20 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians estreia como comentarista em programa sobre a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534553/lateral-do-corinthians-estreia-como-comentarista-em-programa-sobre-a-copa-do-mundo",
-      "time": "12/06 · 01:40",
-      "pubDate": "Thu, 11 Jun 2026 22:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a vencer no Brasileiro Sub-20 depois de quase um mês",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534522/corinthians-volta-a-vencer-no-brasileiro-sub-20-depois-de-quase-um-mes",
-      "time": "12/06 · 00:31",
-      "pubDate": "Thu, 11 Jun 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians viaja aos Estados Unidos para evento de imersão da CBF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534555/presidente-do-corinthians-viaja-aos-estados-unidos-para-evento-de-imersao-da-cbf",
-      "time": "11/06 · 23:36",
-      "pubDate": "Thu, 11 Jun 2026 20:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conquista 11 medalhas e termina Brasileiro Júnior de Inverno na sexta colocação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534542/corinthians-conquista-11-medalhas-e-termina-brasileiro-junior-de-inverno-na-sexta-colocacao",
-      "time": "11/06 · 22:31",
-      "pubDate": "Thu, 11 Jun 2026 19:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-melhor-defesa-desde-2022-mas-registra-pior-media-de-gols-das-ultimas-temporadas]]>",
       "time": "10/06 · 22:07",
       "pubDate": "Wed, 10 Jun 2026 19:07:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Koeman elogia o Corinthians ao falar de Memphis Depay e destaca o Brasileirão: “Campeonato forte”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/koeman-elogia-o-corinthians-ao-falar-de-memphis-depay-e-destaca-o-brasileirao-campeonato-forte]]>",
-      "time": "10/06 · 21:05",
-      "pubDate": "Wed, 10 Jun 2026 18:05:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto mantém sequência perfeita e participa de todos os jogos do Corinthians com Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-mantem-sequencia-perfeita-e-participa-de-todos-os-jogos-do-corinthians-com-diniz]]>",
-      "time": "10/06 · 20:47",
-      "pubDate": "Wed, 10 Jun 2026 17:47:26 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Atacante do Corinthians iguala número de gols da última temporada e vive ano de destaque",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534543/atacante-do-corinthians-iguala-numero-de-gols-da-ultima-temporada-e-vive-ano-de-destaque",
+      "pubDate": "Fri, 12 Jun 2026 15:33:00 -0300",
+      "date": "12/06 · 18:33"
+    },
+    {
+      "title": "Goleiro do Corinthians comenta momento negativo na LNF e projeta impacto de novo reforço",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534493/goleiro-do-corinthians-comenta-momento-negativo-na-lnf-e-projeta-impacto-de-novo-reforco",
+      "pubDate": "Fri, 12 Jun 2026 11:32:00 -0300",
+      "date": "12/06 · 14:32"
+    },
     {
       "title": "Atacante chega ao dígito duplo e vê artilharia se movimentar após goleada do Sub-20 do Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534524/atacante-chega-ao-digito-duplo-e-ve-artilharia-se-movimentar-apos-goleada-do-sub-20-do-corinthians",
