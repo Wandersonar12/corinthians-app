@@ -1,7 +1,55 @@
-// Gerado automaticamente em 12/06/2026, 19:48:27
+// Gerado automaticamente em 12/06/2026, 23:05:25
 const LIVE_DATA = {
-  "updatedAt": "2026-06-12T19:48:27.707Z",
+  "updatedAt": "2026-06-12T23:05:25.782Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians revela cronograma de treinamento durante férias do elenco feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534582/lateral-do-corinthians-revela-cronograma-de-treinamento-durante-ferias-do-elenco-feminino",
+      "time": "12/06 · 22:32",
+      "pubDate": "Fri, 12 Jun 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians projeta partida pelo Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534587/volante-do-corinthians-projeta-partida-pelo-paulista-sub-20",
+      "time": "12/06 · 21:56",
+      "pubDate": "Fri, 12 Jun 2026 18:56:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Justiça torna sem efeito ata de reunião que afastou presidente do Conselho do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534585/justica-torna-sem-efeito-ata-de-reuniao-que-afastou-presidente-do-conselho-do-corinthians",
+      "time": "12/06 · 21:30",
+      "pubDate": "Fri, 12 Jun 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba como adquirir os ingressos para Corinthians e Portuguesa Santista pelo Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534581/saiba-como-adquirir-os-ingressos-para-corinthians-e-portuguesa-santista-pelo-paulista-sub-20",
+      "time": "12/06 · 21:02",
+      "pubDate": "Fri, 12 Jun 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Esposa de Gabriel Magalhães detalha amor do jogador pelo Corinthians e sonho em defender clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534560/esposa-de-gabriel-magalhaes-detalha-amor-do-jogador-pelo-corinthians-e-sonho-em-defender-clube",
+      "time": "12/06 · 20:29",
+      "pubDate": "Fri, 12 Jun 2026 17:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde cestinha do NBB e revelação da base para próxima temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534573/corinthians-perde-cestinha-do-nbb-e-revelacao-da-base-para-proxima-temporada",
+      "time": "12/06 · 19:59",
+      "pubDate": "Fri, 12 Jun 2026 16:59:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,60 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 12 Jun 2026 15:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselheiros vitalícios pedem que TJ-SP suspenda a Assembleia de reforma estatutária do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534568/conselheiros-vitalicios-pedem-que-tj-sp-suspenda-a-assembleia-de-reforma-estatutaria-do-corinthians",
-      "time": "12/06 · 17:35",
-      "pubDate": "Fri, 12 Jun 2026 14:35:45 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a vencer em casa no Sub-20 após mais de três meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534523/corinthians-volta-a-vencer-em-casa-no-sub-20-apos-mais-de-tres-meses",
-      "time": "12/06 · 16:32",
-      "pubDate": "Fri, 12 Jun 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians ganha novo prazo e se aproxima de acordo com Talleres por dívida envolvendo Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534564/corinthians-ganha-novo-prazo-e-se-aproxima-de-acordo-com-talleres-por-divida-envolvendo-garro",
-      "time": "12/06 · 15:37",
-      "pubDate": "Fri, 12 Jun 2026 12:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians comenta momento negativo na LNF e projeta impacto de novo reforço",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534493/goleiro-do-corinthians-comenta-momento-negativo-na-lnf-e-projeta-impacto-de-novo-reforco",
-      "time": "12/06 · 14:32",
-      "pubDate": "Fri, 12 Jun 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians é destaque em ranking de criação de chances pelo clube desde 2024 no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534488/meia-do-corinthians-e-destaque-em-ranking-de-criacao-de-chances-pelo-clube-desde-2024-no-brasileirao",
-      "time": "12/06 · 13:32",
-      "pubDate": "Fri, 12 Jun 2026 10:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Alvo do Corinthians, Gabriel Strefezza entra na mira do Torino; brasileiro foi revelado pelo Timão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-gabriel-strefezza-entra-na-mira-do-torino-brasileiro-foi-revelado-pelo-timao]]>",
       "time": "12/06 · 12:35",
       "pubDate": "Fri, 12 Jun 2026 09:35:26 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians possui oito jogadores emprestados nesta temporada; veja situação de cada um",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534526/corinthians-possui-oito-jogadores-emprestados-nesta-temporada-veja-situacao-de-cada-um",
-      "time": "12/06 · 12:31",
-      "pubDate": "Fri, 12 Jun 2026 09:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -216,18 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534524/atacante-chega-ao-digito-duplo-e-ve-artilharia-se-movimentar-apos-goleada-do-sub-20-do-corinthians",
       "pubDate": "Thu, 11 Jun 2026 14:32:00 -0300",
       "date": "11/06 · 17:32"
-    },
-    {
-      "title": "Corinthians é o quinto clube brasileiro com mais jogadores que marcaram gols em Copas do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534494/corinthians-e-o-quinto-clube-brasileiro-com-mais-jogadores-que-marcaram-gols-em-copas-do-mundo",
-      "pubDate": "Thu, 11 Jun 2026 09:33:00 -0300",
-      "date": "11/06 · 12:33"
-    },
-    {
-      "title": "Últimas do Corinthians: proposta a atacante, site da SAFiel e goleada no Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534530/ultimas-do-corinthians-proposta-a-atacante-site-da-safiel-e-goleada-na-base",
-      "pubDate": "Thu, 11 Jun 2026 07:30:00 -0300",
-      "date": "11/06 · 10:30"
     }
   ]
 };
