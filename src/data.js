@@ -1,7 +1,47 @@
-// Gerado automaticamente em 11/06/2026, 23:12:59
+// Gerado automaticamente em 12/06/2026, 11:32:29
 const LIVE_DATA = {
-  "updatedAt": "2026-06-11T23:12:59.712Z",
+  "updatedAt": "2026-06-12T11:32:29.296Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians corre contra o tempo para quitar dívida com Talleres por Rodrigo Garro nesta sexta-feira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534510/corinthians-corre-contra-o-tempo-para-quitar-divida-com-talleres-por-rodrigo-garro-nesta-sexta-feira",
+      "time": "12/06 · 11:30",
+      "pubDate": "Fri, 12 Jun 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: reforma do gramado, reunião com SAFiel e negociações por renovação de joia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534557/ultimas-do-corinthians-reforma-do-gramado-reuniao-com-safiel-e-negociacoes-por-renovacao-de-joia",
+      "time": "12/06 · 10:30",
+      "pubDate": "Fri, 12 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians estreia como comentarista em programa sobre a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534553/lateral-do-corinthians-estreia-como-comentarista-em-programa-sobre-a-copa-do-mundo",
+      "time": "12/06 · 01:40",
+      "pubDate": "Thu, 11 Jun 2026 22:40:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a vencer no Brasileiro Sub-20 depois de quase um mês",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534522/corinthians-volta-a-vencer-no-brasileiro-sub-20-depois-de-quase-um-mes",
+      "time": "12/06 · 00:31",
+      "pubDate": "Thu, 11 Jun 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians viaja aos Estados Unidos para evento de imersão da CBF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534555/presidente-do-corinthians-viaja-aos-estados-unidos-para-evento-de-imersao-da-cbf",
+      "time": "11/06 · 23:36",
+      "pubDate": "Thu, 11 Jun 2026 20:36:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -25,46 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534533/quem-foi-a-melhor-jogadora-do-corinthians-ate-a-parada-para-a-copa-vote-na-enquete-do-meu-timao",
       "time": "11/06 · 21:33",
       "pubDate": "Thu, 11 Jun 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians libera atacante da base para time da Série B; saiba os detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534549/corinthians-libera-atacante-da-base-para-time-da-serie-b-saiba-os-detalhes",
-      "time": "11/06 · 20:35",
-      "pubDate": "Thu, 11 Jun 2026 17:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians detalha processo de renovação completa do gramado da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534548/corinthians-detalha-processo-de-renovacao-completa-do-gramado-da-neo-quimica-arena",
-      "time": "11/06 · 20:03",
-      "pubDate": "Thu, 11 Jun 2026 17:03:15 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians acompanha cerimônia de abertura da Copa do Mundo no México",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534540/meio-campista-do-corinthians-acompanha-cerimonia-de-abertura-da-copa-do-mundo-no-mexico",
-      "time": "11/06 · 19:37",
-      "pubDate": "Thu, 11 Jun 2026 16:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece data e horário de sorteio das oitavas de final da Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534545/corinthians-conhece-data-e-horario-de-sorteio-das-oitavas-de-final-da-copa-do-brasil-feminina",
-      "time": "11/06 · 19:23",
-      "pubDate": "Thu, 11 Jun 2026 16:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians detalha cronograma para implantação da biometria facial no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534541/corinthians-detalha-cronograma-para-implantacao-da-biometria-facial-no-parque-sao-jorge",
-      "time": "11/06 · 18:31",
-      "pubDate": "Thu, 11 Jun 2026 15:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -222,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534514/corinthians-goleia-o-avai-e-se-aproxima-do-g8-no-brasileiro-sub-20",
       "pubDate": "Wed, 10 Jun 2026 16:52:00 -0300",
       "date": "10/06 · 19:52"
-    },
-    {
-      "title": "Artilharia do Corinthians Sub-17 conta com mudanças após goleada no Brasileirão; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534495/artilharia-do-corinthians-sub-17-conta-com-mudancas-apos-goleada-no-brasileirao-veja-o-ranking",
-      "pubDate": "Wed, 10 Jun 2026 14:33:00 -0300",
-      "date": "10/06 · 17:33"
     }
   ]
 };
