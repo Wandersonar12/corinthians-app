@@ -1,7 +1,23 @@
-// Gerado automaticamente em 12/06/2026, 11:32:29
+// Gerado automaticamente em 12/06/2026, 14:26:59
 const LIVE_DATA = {
-  "updatedAt": "2026-06-12T11:32:29.296Z",
+  "updatedAt": "2026-06-12T14:26:59.902Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians é destaque em ranking de criação de chances pelo clube desde 2024 no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534488/meia-do-corinthians-e-destaque-em-ranking-de-criacao-de-chances-pelo-clube-desde-2024-no-brasileirao",
+      "time": "12/06 · 13:32",
+      "pubDate": "Fri, 12 Jun 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians possui oito jogadores emprestados nesta temporada; veja situação de cada um",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534526/corinthians-possui-oito-jogadores-emprestados-nesta-temporada-veja-situacao-de-cada-um",
+      "time": "12/06 · 12:31",
+      "pubDate": "Fri, 12 Jun 2026 09:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,12 +27,28 @@ const LIVE_DATA = {
       "pubDate": "Fri, 12 Jun 2026 08:30:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Alvo do Corinthians, Gabriel Strefezza entra na mira do Torino; brasileiro foi revelado pelo Timão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-gabriel-strefezza-entra-na-mira-do-torino-brasileiro-foi-revelado-pelo-timao]]>",
+      "time": "12/06 · 10:36",
+      "pubDate": "Fri, 12 Jun 2026 07:36:35 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Últimas do Corinthians: reforma do gramado, reunião com SAFiel e negociações por renovação de joia",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534557/ultimas-do-corinthians-reforma-do-gramado-reuniao-com-safiel-e-negociacoes-por-renovacao-de-joia",
       "time": "12/06 · 10:30",
       "pubDate": "Fri, 12 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Craque Neto avalia situação de Memphis Depay com Corinthians após a Copa: “Está difícil”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/craque-neto-avalia-situacao-de-memphis-depay-com-corinthians-apos-a-copa-esta-dificil]]>",
+      "time": "12/06 · 01:42",
+      "pubDate": "Thu, 11 Jun 2026 22:42:20 -0300"
     },
     {
       "source": "Meu Timao",
@@ -49,22 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534542/corinthians-conquista-11-medalhas-e-termina-brasileiro-junior-de-inverno-na-sexta-colocacao",
       "time": "11/06 · 22:31",
       "pubDate": "Thu, 11 Jun 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "SAFiel apresenta projeto e debate proposta com presidente do Conselho Deliberativo do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534552/safiel-apresenta-projeto-e-debate-proposta-com-presidente-do-conselho-deliberativo-do-corinthians",
-      "time": "11/06 · 21:43",
-      "pubDate": "Thu, 11 Jun 2026 18:43:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quem foi a melhor jogadora do Corinthians até a parada para a Copa? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534533/quem-foi-a-melhor-jogadora-do-corinthians-ate-a-parada-para-a-copa-vote-na-enquete-do-meu-timao",
-      "time": "11/06 · 21:33",
-      "pubDate": "Thu, 11 Jun 2026 18:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-mantem-sequencia-perfeita-e-participa-de-todos-os-jogos-do-corinthians-com-diniz]]>",
       "time": "10/06 · 20:47",
       "pubDate": "Wed, 10 Jun 2026 17:47:26 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay celebrará acerto com o Corinthians após a Copa do Mundo e vencimentos serão pagos pelo clube",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-celebrara-acerto-com-o-corinthians-apos-a-copa-do-mundo-e-vencimentos-serao-pagos-pelo-clube]]>",
-      "time": "10/06 · 19:59",
-      "pubDate": "Wed, 10 Jun 2026 16:59:26 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians já definiu que novo centroavante contratado no mercado da bola não será Germán Cano",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-definiu-que-novo-centroavante-contratado-no-mercado-da-bola-nao-ser-german-cano]]>",
-      "time": "10/06 · 17:54",
-      "pubDate": "Wed, 10 Jun 2026 14:54:39 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534530/ultimas-do-corinthians-proposta-a-atacante-site-da-safiel-e-goleada-na-base",
       "pubDate": "Thu, 11 Jun 2026 07:30:00 -0300",
       "date": "11/06 · 10:30"
-    },
-    {
-      "title": "Corinthians goleia o Avaí e se aproxima do G8 no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534514/corinthians-goleia-o-avai-e-se-aproxima-do-g8-no-brasileiro-sub-20",
-      "pubDate": "Wed, 10 Jun 2026 16:52:00 -0300",
-      "date": "10/06 · 19:52"
     }
   ]
 };
