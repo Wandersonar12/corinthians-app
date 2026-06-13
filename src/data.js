@@ -1,7 +1,39 @@
-// Gerado automaticamente em 13/06/2026, 10:19:01
+// Gerado automaticamente em 13/06/2026, 13:16:56
 const LIVE_DATA = {
-  "updatedAt": "2026-06-13T10:19:01.754Z",
+  "updatedAt": "2026-06-13T13:16:56.238Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe a Portuguesa Santista para manter invencibilidade no Paulista Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534578/corinthians-recebe-a-portuguesa-santista-para-manter-invencibilidade-no-paulista-sub-20-saiba-tudo",
+      "time": "13/06 · 12:34",
+      "pubDate": "Sat, 13 Jun 2026 09:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o São Lourenço em busca de vaga nas quartas da Copa LNF; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534574/corinthians-visita-o-sao-lourenco-em-busca-de-vaga-nas-quartas-da-copa-lnf-saiba-tudo",
+      "time": "13/06 · 12:02",
+      "pubDate": "Sat, 13 Jun 2026 09:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o São Caetano de olho na liderança do Paulistão Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534580/corinthians-visita-o-sao-caetano-de-olho-na-lideranca-do-paulistao-sub-17-saiba-tudo",
+      "time": "13/06 · 11:30",
+      "pubDate": "Sat, 13 Jun 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novo prazo por dívida, jogadores emprestados e pedido de conselheiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534590/ultimas-do-corinthians-novo-prazo-por-divida-jogadores-emprestados-e-pedido-de-conselheiros",
+      "time": "13/06 · 10:30",
+      "pubDate": "Sat, 13 Jun 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -33,38 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534589/ala-norte-americano-se-despede-do-basquete-do-corinthians",
       "time": "12/06 · 23:32",
       "pubDate": "Fri, 12 Jun 2026 20:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians revela cronograma de treinamento durante férias do elenco feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534582/lateral-do-corinthians-revela-cronograma-de-treinamento-durante-ferias-do-elenco-feminino",
-      "time": "12/06 · 22:32",
-      "pubDate": "Fri, 12 Jun 2026 19:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians projeta partida pelo Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534587/volante-do-corinthians-projeta-partida-pelo-paulista-sub-20",
-      "time": "12/06 · 21:56",
-      "pubDate": "Fri, 12 Jun 2026 18:56:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Justiça torna sem efeito ata de reunião que afastou presidente do Conselho do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534585/justica-torna-sem-efeito-ata-de-reuniao-que-afastou-presidente-do-conselho-do-corinthians",
-      "time": "12/06 · 21:30",
-      "pubDate": "Fri, 12 Jun 2026 18:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba como adquirir os ingressos para Corinthians e Portuguesa Santista pelo Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534581/saiba-como-adquirir-os-ingressos-para-corinthians-e-portuguesa-santista-pelo-paulista-sub-20",
-      "time": "12/06 · 21:02",
-      "pubDate": "Fri, 12 Jun 2026 18:02:00 -0300"
     },
     {
       "source": "Bolavip",
