@@ -1,7 +1,39 @@
-// Gerado automaticamente em 12/06/2026, 23:05:25
+// Gerado automaticamente em 13/06/2026, 10:19:01
 const LIVE_DATA = {
-  "updatedAt": "2026-06-12T23:05:25.782Z",
+  "updatedAt": "2026-06-13T10:19:01.754Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Sub-20 do Corinthians volta a sequenciar vitórias na temporada após quase dois meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534546/sub-20-do-corinthians-volta-a-sequenciar-vitorias-na-temporada-apos-quase-dois-meses",
+      "time": "13/06 · 01:30",
+      "pubDate": "Fri, 12 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleira do Corinthians se forma em Educação Física e celebra persistência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534588/goleira-do-corinthians-se-forma-em-educacao-fisica-e-celebra-persistencia",
+      "time": "13/06 · 00:32",
+      "pubDate": "Fri, 12 Jun 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians Sub-20 volta a marcar seis gols em um único jogo após mais de dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534521/corinthians-sub-20-volta-a-marcar-seis-gols-em-um-unico-jogo-apos-mais-de-dois-anos",
+      "time": "12/06 · 23:36",
+      "pubDate": "Fri, 12 Jun 2026 20:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala norte-americano se despede do basquete do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534589/ala-norte-americano-se-despede-do-basquete-do-corinthians",
+      "time": "12/06 · 23:32",
+      "pubDate": "Fri, 12 Jun 2026 20:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -33,38 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534581/saiba-como-adquirir-os-ingressos-para-corinthians-e-portuguesa-santista-pelo-paulista-sub-20",
       "time": "12/06 · 21:02",
       "pubDate": "Fri, 12 Jun 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Esposa de Gabriel Magalhães detalha amor do jogador pelo Corinthians e sonho em defender clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534560/esposa-de-gabriel-magalhaes-detalha-amor-do-jogador-pelo-corinthians-e-sonho-em-defender-clube",
-      "time": "12/06 · 20:29",
-      "pubDate": "Fri, 12 Jun 2026 17:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde cestinha do NBB e revelação da base para próxima temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534573/corinthians-perde-cestinha-do-nbb-e-revelacao-da-base-para-proxima-temporada",
-      "time": "12/06 · 19:59",
-      "pubDate": "Fri, 12 Jun 2026 16:59:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do CD do Corinthians detalha andamento do caso Nike e comenta reunião com a SAFiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534562/presidente-do-cd-do-corinthians-detalha-andamento-do-caso-nike-e-comenta-reuniao-com-a-safiel",
-      "time": "12/06 · 19:31",
-      "pubDate": "Fri, 12 Jun 2026 16:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians iguala número de gols da última temporada e vive ano de destaque",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534543/atacante-do-corinthians-iguala-numero-de-gols-da-ultima-temporada-e-vive-ano-de-destaque",
-      "time": "12/06 · 18:33",
-      "pubDate": "Fri, 12 Jun 2026 15:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira do Corinthians se forma em Educação Física e celebra persistência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534588/goleira-do-corinthians-se-forma-em-educacao-fisica-e-celebra-persistencia",
+      "pubDate": "Fri, 12 Jun 2026 21:32:00 -0300",
+      "date": "13/06 · 00:32"
+    },
+    {
+      "title": "Corinthians Sub-20 volta a marcar seis gols em um único jogo após mais de dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534521/corinthians-sub-20-volta-a-marcar-seis-gols-em-um-unico-jogo-apos-mais-de-dois-anos",
+      "pubDate": "Fri, 12 Jun 2026 20:36:00 -0300",
+      "date": "12/06 · 23:36"
+    },
+    {
       "title": "Atacante do Corinthians iguala número de gols da última temporada e vive ano de destaque",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534543/atacante-do-corinthians-iguala-numero-de-gols-da-ultima-temporada-e-vive-ano-de-destaque",
       "pubDate": "Fri, 12 Jun 2026 15:33:00 -0300",
@@ -210,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534493/goleiro-do-corinthians-comenta-momento-negativo-na-lnf-e-projeta-impacto-de-novo-reforco",
       "pubDate": "Fri, 12 Jun 2026 11:32:00 -0300",
       "date": "12/06 · 14:32"
-    },
-    {
-      "title": "Atacante chega ao dígito duplo e vê artilharia se movimentar após goleada do Sub-20 do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534524/atacante-chega-ao-digito-duplo-e-ve-artilharia-se-movimentar-apos-goleada-do-sub-20-do-corinthians",
-      "pubDate": "Thu, 11 Jun 2026 14:32:00 -0300",
-      "date": "11/06 · 17:32"
     }
   ]
 };
