@@ -1,70 +1,78 @@
-// Gerado automaticamente em 13/06/2026, 19:03:09
+// Gerado automaticamente em 13/06/2026, 22:51:43
 const LIVE_DATA = {
-  "updatedAt": "2026-06-13T19:03:09.989Z",
+  "updatedAt": "2026-06-13T22:51:43.692Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Cori aprova negociação do Corinthians com empresa para quitar dívida com o Talleres",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534586/cori-aprova-negociacao-do-corinthians-com-empresa-para-quitar-divida-com-o-talleres",
-      "time": "13/06 · 18:19",
-      "pubDate": "Sat, 13 Jun 2026 15:19:13 -0300"
+      "title": "'Irmão' africano e cor de rival: conheça o Corinthians de São Vicente, time de país caçula na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534577/irmao-africano-e-cor-de-rival-conheca-o-corinthians-de-sao-vicente-time-de-pais-cacula-na-copa",
+      "time": "13/06 · 22:32",
+      "pubDate": "Sat, 13 Jun 2026 19:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcida do Corinthians provoca o Paraguai após goleada sem Romero na Copa: 'Todo castigo é pouco'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534600/torcida-do-corinthians-provoca-o-paraguai-apos-goleada-sem-romero-na-copa-todo-castigo-e-pouco",
-      "time": "13/06 · 17:33",
-      "pubDate": "Sat, 13 Jun 2026 14:33:00 -0300"
+      "title": "Presidente do Corinthians participa de encontro da CBF com representantes da MLS nos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534603/presidente-do-corinthians-participa-de-encontro-da-cbf-com-representantes-da-mls-nos-estados-unidos",
+      "time": "13/06 · 21:32",
+      "pubDate": "Sat, 13 Jun 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians coloca invencibilidade em jogo diante do São Lourenço em decisão da Copa LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534559/corinthians-coloca-invencibilidade-em-jogo-diante-do-sao-lourenco-em-decisao-da-copa-lnf",
-      "time": "13/06 · 16:20",
-      "pubDate": "Sat, 13 Jun 2026 13:20:00 -0300"
+      "title": "Organizada do Corinthians marca presença em estreia da Seleção Brasileira na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534614/organizada-do-corinthians-marca-presenca-em-estreia-da-selecao-brasileira-na-copa-do-mundo",
+      "time": "13/06 · 21:18",
+      "pubDate": "Sat, 13 Jun 2026 18:18:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca empate diante do São Caetano e se mantém na vice-liderança do Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534601/corinthians-busca-empate-diante-do-sao-caetano-e-se-mantem-na-vice-lideranca-do-paulista-sub-17",
-      "time": "13/06 · 15:52",
-      "pubDate": "Sat, 13 Jun 2026 12:52:00 -0300"
+      "title": "Goleiro do Corinthians lamenta eliminação na Copa LNF e promete reação na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534609/goleiro-do-corinthians-lamenta-eliminacao-na-copa-lnf-e-promete-reacao-na-temporada",
+      "time": "13/06 · 21:01",
+      "pubDate": "Sat, 13 Jun 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Cédula da Assembleia de reforma do Estatuto do Corinthians terá 11 questões; confira quais são",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534599/cedula-da-assembleia-de-reforma-do-estatuto-do-corinthians-tera-11-questoes-confira-quais-sao",
-      "time": "13/06 · 15:25",
-      "pubDate": "Sat, 13 Jun 2026 12:25:00 -0300"
+      "title": "Corinthians aproveita superioridade numérica e vence a Portuguesa Santista no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534554/corinthians-aproveita-superioridade-numerica-e-vence-a-portuguesa-santista-no-paulista-sub-20",
+      "time": "13/06 · 19:57",
+      "pubDate": "Sat, 13 Jun 2026 16:57:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians recebe homenagem em sua cidade natal após conquista da Taça Brasil de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534565/ala-do-corinthians-recebe-homenagem-em-sua-cidade-natal-apos-conquista-da-taca-brasil-de-futsal",
-      "time": "13/06 · 14:30",
-      "pubDate": "Sat, 13 Jun 2026 11:30:00 -0300"
+      "title": "Zakaria Labyad comenta adaptação ao Corinthians e projeta duelo entre Marrocos e Brasil na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534596/zakaria-labyad-comenta-adaptacao-ao-corinthians-e-projeta-duelo-entre-marrocos-e-brasil",
+      "time": "13/06 · 19:30",
+      "pubDate": "Sat, 13 Jun 2026 16:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está entre os clubes da Série A do Brasileirão com mais jogos disputados na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534532/corinthians-esta-entre-os-clubes-da-serie-a-do-brasileirao-com-mais-jogos-disputados-na-temporada",
-      "time": "13/06 · 13:34",
-      "pubDate": "Sat, 13 Jun 2026 10:34:00 -0300"
+      "title": "Corinthians sofre virada do São Lourenço e é eliminado da Copa LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534606/corinthians-sofre-virada-do-sao-lourenco-e-e-eliminado-da-copa-lnf",
+      "time": "13/06 · 19:15",
+      "pubDate": "Sat, 13 Jun 2026 16:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe a Portuguesa Santista para manter invencibilidade no Paulista Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534578/corinthians-recebe-a-portuguesa-santista-para-manter-invencibilidade-no-paulista-sub-20-saiba-tudo",
-      "time": "13/06 · 12:34",
-      "pubDate": "Sat, 13 Jun 2026 09:34:00 -0300"
+      "title": "Corinthians decide manter basquete, mas reduz investimentos para a próxima temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534602/corinthians-decide-manter-basquete-mas-reduz-investimentos-para-a-proxima-temporada",
+      "time": "13/06 · 19:05",
+      "pubDate": "Sat, 13 Jun 2026 16:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Zakaria Labyad, do Corinthians, revela dica a defensor de Marrocos para duelo com a Seleção Brasileira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-do-corinthians-revela-dica-a-defensor-de-marrocos-para-duelo-com-a-selecao-brasileira]]>",
+      "time": "13/06 · 17:13",
+      "pubDate": "Sat, 13 Jun 2026 14:13:55 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/jose-martinez-desabafa-e-diz-que-voltaria-ao-corinthians-peco-desculpas-a-torcida]]>",
       "time": "11/06 · 02:40",
       "pubDate": "Wed, 10 Jun 2026 23:40:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem melhor defesa desde 2022, mas registra pior média de gols das últimas temporadas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-melhor-defesa-desde-2022-mas-registra-pior-media-de-gols-das-ultimas-temporadas]]>",
-      "time": "10/06 · 22:07",
-      "pubDate": "Wed, 10 Jun 2026 19:07:17 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians lamenta eliminação na Copa LNF e promete reação na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534609/goleiro-do-corinthians-lamenta-eliminacao-na-copa-lnf-e-promete-reacao-na-temporada",
+      "pubDate": "Sat, 13 Jun 2026 18:01:00 -0300",
+      "date": "13/06 · 21:01"
+    },
+    {
       "title": "Torcida do Corinthians provoca o Paraguai após goleada sem Romero na Copa: 'Todo castigo é pouco'",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534600/torcida-do-corinthians-provoca-o-paraguai-apos-goleada-sem-romero-na-copa-todo-castigo-e-pouco",
       "pubDate": "Sat, 13 Jun 2026 14:33:00 -0300",
@@ -216,18 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534521/corinthians-sub-20-volta-a-marcar-seis-gols-em-um-unico-jogo-apos-mais-de-dois-anos",
       "pubDate": "Fri, 12 Jun 2026 20:36:00 -0300",
       "date": "12/06 · 23:36"
-    },
-    {
-      "title": "Atacante do Corinthians iguala número de gols da última temporada e vive ano de destaque",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534543/atacante-do-corinthians-iguala-numero-de-gols-da-ultima-temporada-e-vive-ano-de-destaque",
-      "pubDate": "Fri, 12 Jun 2026 15:33:00 -0300",
-      "date": "12/06 · 18:33"
-    },
-    {
-      "title": "Goleiro do Corinthians comenta momento negativo na LNF e projeta impacto de novo reforço",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534493/goleiro-do-corinthians-comenta-momento-negativo-na-lnf-e-projeta-impacto-de-novo-reforco",
-      "pubDate": "Fri, 12 Jun 2026 11:32:00 -0300",
-      "date": "12/06 · 14:32"
     }
   ]
 };
