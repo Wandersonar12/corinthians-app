@@ -1,7 +1,55 @@
-// Gerado automaticamente em 14/06/2026, 13:22:07
+// Gerado automaticamente em 14/06/2026, 19:03:02
 const LIVE_DATA = {
-  "updatedAt": "2026-06-14T13:22:07.084Z",
+  "updatedAt": "2026-06-14T19:03:02.796Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians acompanha final da NBA e revela seu time ideal de todos os tempos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534625/tecnico-do-corinthians-acompanha-final-da-nba-e-revela-seu-time-ideal-de-todos-os-tempos",
+      "time": "14/06 · 18:31",
+      "pubDate": "Sun, 14 Jun 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vitória diante da Portuguesa Santista movimenta ranking de artilheiros do Corinthians na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534611/vitoria-diante-da-portuguesa-santista-movimenta-ranking-de-artilheiros-do-corinthians-na-temporada",
+      "time": "14/06 · 17:34",
+      "pubDate": "Sun, 14 Jun 2026 14:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians acompanha estreia do Brasil na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534623/volante-do-corinthians-acompanha-estreia-do-brasil-na-copa-do-mundo",
+      "time": "14/06 · 16:32",
+      "pubDate": "Sun, 14 Jun 2026 13:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians emenda terceira vitória seguida pela primeira vez na temporada no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534610/corinthians-emenda-terceira-vitoria-seguida-pela-primeira-vez-na-temporada-no-sub-20",
+      "time": "14/06 · 15:33",
+      "pubDate": "Sun, 14 Jun 2026 12:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians explica viagem aos Estados Unidos durante a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534631/presidente-do-corinthians-explica-viagem-aos-estados-unidos-durante-a-copa-do-mundo",
+      "time": "14/06 · 14:54",
+      "pubDate": "Sun, 14 Jun 2026 11:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians relembra carinho da torcida e celebra homenagem com busto no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534550/idolo-do-corinthians-relembra-carinho-da-torcida-e-celebra-homenagem-com-busto-no-parque-sao-jorge",
+      "time": "14/06 · 13:29",
+      "pubDate": "Sun, 14 Jun 2026 10:29:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,54 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534619/ultimas-do-corinthians-negociacao-da-divida-com-o-talleres-fiel-na-copa-e-vitoria-do-timaozinho",
       "time": "14/06 · 10:30",
       "pubDate": "Sun, 14 Jun 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Armador do Corinthians é o líder de assistências da NBB pelo quinto ano seguido",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534563/armador-do-corinthians-e-o-lider-de-assistencias-da-nbb-pelo-quinto-ano-seguido",
-      "time": "14/06 · 01:30",
-      "pubDate": "Sat, 13 Jun 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico da Holanda atualiza condição física de Memphis e relembra visita ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534618/tecnico-da-holanda-atualiza-condicao-fisica-de-memphis-e-relembra-visita-ao-corinthians",
-      "time": "14/06 · 01:16",
-      "pubDate": "Sat, 13 Jun 2026 22:16:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians relembra rotina e emoções de disputar uma Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534583/idolo-do-corinthians-relembra-rotina-e-emocoes-de-disputar-uma-copa-do-mundo",
-      "time": "14/06 · 00:30",
-      "pubDate": "Sat, 13 Jun 2026 21:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Zanotti é eleita a melhor jogadora do Corinthians no primeiro semestre de 2026; veja a enquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534592/gabi-zanotti-e-eleita-a-melhor-jogadora-do-corinthians-no-primeiro-semestre-de-2026-veja-a-enquete",
-      "time": "13/06 · 23:33",
-      "pubDate": "Sat, 13 Jun 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "'Irmão' africano e cor de rival: conheça o Corinthians de São Vicente, time de país caçula na Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534577/irmao-africano-e-cor-de-rival-conheca-o-corinthians-de-sao-vicente-time-de-pais-cacula-na-copa",
-      "time": "13/06 · 22:32",
-      "pubDate": "Sat, 13 Jun 2026 19:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians participa de encontro da CBF com representantes da MLS nos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534603/presidente-do-corinthians-participa-de-encontro-da-cbf-com-representantes-da-mls-nos-estados-unidos",
-      "time": "13/06 · 21:32",
-      "pubDate": "Sat, 13 Jun 2026 18:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -202,18 +202,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534600/torcida-do-corinthians-provoca-o-paraguai-apos-goleada-sem-romero-na-copa-todo-castigo-e-pouco",
       "pubDate": "Sat, 13 Jun 2026 14:33:00 -0300",
       "date": "13/06 · 17:33"
-    },
-    {
-      "title": "Goleira do Corinthians se forma em Educação Física e celebra persistência",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534588/goleira-do-corinthians-se-forma-em-educacao-fisica-e-celebra-persistencia",
-      "pubDate": "Fri, 12 Jun 2026 21:32:00 -0300",
-      "date": "13/06 · 00:32"
-    },
-    {
-      "title": "Corinthians Sub-20 volta a marcar seis gols em um único jogo após mais de dois anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534521/corinthians-sub-20-volta-a-marcar-seis-gols-em-um-unico-jogo-apos-mais-de-dois-anos",
-      "pubDate": "Fri, 12 Jun 2026 20:36:00 -0300",
-      "date": "12/06 · 23:36"
     }
   ]
 };
