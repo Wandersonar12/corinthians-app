@@ -1,7 +1,47 @@
-// Gerado automaticamente em 14/06/2026, 19:03:02
+// Gerado automaticamente em 14/06/2026, 22:57:00
 const LIVE_DATA = {
-  "updatedAt": "2026-06-14T19:03:02.796Z",
+  "updatedAt": "2026-06-14T22:57:00.999Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians celebra legado de Rivellino em ação especial do Departamento Cultural",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534616/corinthians-celebra-legado-de-rivellino-em-acao-especial-do-departamento-cultural",
+      "time": "14/06 · 22:31",
+      "pubDate": "Sun, 14 Jun 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra um dos maiores públicos da edição 2025/26 do NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534604/corinthians-registra-um-dos-maiores-publicos-da-edicao-202526-do-nbb",
+      "time": "14/06 · 21:32",
+      "pubDate": "Sun, 14 Jun 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadores do Corinthians compartilham viagens e atividades de férias nas redes sociais; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534638/jogadores-do-corinthians-compartilham-viagens-e-atividades-de-ferias-nas-redes-sociais-confira",
+      "time": "14/06 · 20:36",
+      "pubDate": "Sun, 14 Jun 2026 17:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vira sobre a UDA e assume a liderança isolada de seu grupo no Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534639/corinthians-vira-sobre-a-uda-e-assume-a-lideranca-isolada-de-seu-grupo-no-brasileirao-sub-17",
+      "time": "14/06 · 20:01",
+      "pubDate": "Sun, 14 Jun 2026 17:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra primeira sequência positiva na Fazendinha em vitória no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534612/corinthians-registra-primeira-sequencia-positiva-na-fazendinha-em-vitoria-no-paulista-sub-20",
+      "time": "14/06 · 19:32",
+      "pubDate": "Sun, 14 Jun 2026 16:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -25,46 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534623/volante-do-corinthians-acompanha-estreia-do-brasil-na-copa-do-mundo",
       "time": "14/06 · 16:32",
       "pubDate": "Sun, 14 Jun 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians emenda terceira vitória seguida pela primeira vez na temporada no Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534610/corinthians-emenda-terceira-vitoria-seguida-pela-primeira-vez-na-temporada-no-sub-20",
-      "time": "14/06 · 15:33",
-      "pubDate": "Sun, 14 Jun 2026 12:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians explica viagem aos Estados Unidos durante a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534631/presidente-do-corinthians-explica-viagem-aos-estados-unidos-durante-a-copa-do-mundo",
-      "time": "14/06 · 14:54",
-      "pubDate": "Sun, 14 Jun 2026 11:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians relembra carinho da torcida e celebra homenagem com busto no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534550/idolo-do-corinthians-relembra-carinho-da-torcida-e-celebra-homenagem-com-busto-no-parque-sao-jorge",
-      "time": "14/06 · 13:29",
-      "pubDate": "Sun, 14 Jun 2026 10:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o UDA em busca de manter a liderança do Brasileirão Feminino Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534598/corinthians-recebe-o-uda-em-busca-de-manter-a-lideranca-do-brasileirao-feminino-sub-17-saiba-tudo",
-      "time": "14/06 · 12:30",
-      "pubDate": "Sun, 14 Jun 2026 09:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: negociação da dívida com o Talleres, Fiel na Copa e vitória do Timãozinho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534619/ultimas-do-corinthians-negociacao-da-divida-com-o-talleres-fiel-na-copa-e-vitoria-do-timaozinho",
-      "time": "14/06 · 10:30",
-      "pubDate": "Sun, 14 Jun 2026 07:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -196,12 +196,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534609/goleiro-do-corinthians-lamenta-eliminacao-na-copa-lnf-e-promete-reacao-na-temporada",
       "pubDate": "Sat, 13 Jun 2026 18:01:00 -0300",
       "date": "13/06 · 21:01"
-    },
-    {
-      "title": "Torcida do Corinthians provoca o Paraguai após goleada sem Romero na Copa: 'Todo castigo é pouco'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534600/torcida-do-corinthians-provoca-o-paraguai-apos-goleada-sem-romero-na-copa-todo-castigo-e-pouco",
-      "pubDate": "Sat, 13 Jun 2026 14:33:00 -0300",
-      "date": "13/06 · 17:33"
     }
   ]
 };
