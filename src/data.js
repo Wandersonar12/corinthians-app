@@ -1,7 +1,15 @@
-// Gerado automaticamente em 14/06/2026, 10:41:31
+// Gerado automaticamente em 14/06/2026, 13:22:07
 const LIVE_DATA = {
-  "updatedAt": "2026-06-14T10:41:31.352Z",
+  "updatedAt": "2026-06-14T13:22:07.084Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o UDA em busca de manter a liderança do Brasileirão Feminino Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534598/corinthians-recebe-o-uda-em-busca-de-manter-a-lideranca-do-brasileirao-feminino-sub-17-saiba-tudo",
+      "time": "14/06 · 12:30",
+      "pubDate": "Sun, 14 Jun 2026 09:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -59,14 +67,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 13 Jun 2026 18:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Organizada do Corinthians marca presença em estreia da Seleção Brasileira na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534614/organizada-do-corinthians-marca-presenca-em-estreia-da-selecao-brasileira-na-copa-do-mundo",
-      "time": "13/06 · 21:18",
-      "pubDate": "Sat, 13 Jun 2026 18:18:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Zakaria Labyad, do Corinthians, revela dica a defensor de Marrocos para duelo com a Seleção Brasileira",
@@ -121,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-entra-em-seleta-lista-de-estrangeiros-do-corinthians-convocados-para-a-copa-do-mundo]]>",
       "time": "11/06 · 12:18",
       "pubDate": "Thu, 11 Jun 2026 09:18:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "José Martínez desabafa e diz que voltaria ao Corinthians: “Peço desculpas à torcida”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/jose-martinez-desabafa-e-diz-que-voltaria-ao-corinthians-peco-desculpas-a-torcida]]>",
-      "time": "11/06 · 02:40",
-      "pubDate": "Wed, 10 Jun 2026 23:40:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
