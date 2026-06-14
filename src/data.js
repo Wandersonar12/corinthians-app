@@ -1,7 +1,47 @@
-// Gerado automaticamente em 13/06/2026, 22:51:43
+// Gerado automaticamente em 14/06/2026, 10:41:31
 const LIVE_DATA = {
-  "updatedAt": "2026-06-13T22:51:43.692Z",
+  "updatedAt": "2026-06-14T10:41:31.352Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: negociação da dívida com o Talleres, Fiel na Copa e vitória do Timãozinho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534619/ultimas-do-corinthians-negociacao-da-divida-com-o-talleres-fiel-na-copa-e-vitoria-do-timaozinho",
+      "time": "14/06 · 10:30",
+      "pubDate": "Sun, 14 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Armador do Corinthians é o líder de assistências da NBB pelo quinto ano seguido",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534563/armador-do-corinthians-e-o-lider-de-assistencias-da-nbb-pelo-quinto-ano-seguido",
+      "time": "14/06 · 01:30",
+      "pubDate": "Sat, 13 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico da Holanda atualiza condição física de Memphis e relembra visita ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534618/tecnico-da-holanda-atualiza-condicao-fisica-de-memphis-e-relembra-visita-ao-corinthians",
+      "time": "14/06 · 01:16",
+      "pubDate": "Sat, 13 Jun 2026 22:16:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians relembra rotina e emoções de disputar uma Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534583/idolo-do-corinthians-relembra-rotina-e-emocoes-de-disputar-uma-copa-do-mundo",
+      "time": "14/06 · 00:30",
+      "pubDate": "Sat, 13 Jun 2026 21:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti é eleita a melhor jogadora do Corinthians no primeiro semestre de 2026; veja a enquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534592/gabi-zanotti-e-eleita-a-melhor-jogadora-do-corinthians-no-primeiro-semestre-de-2026-veja-a-enquete",
+      "time": "13/06 · 23:33",
+      "pubDate": "Sat, 13 Jun 2026 20:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -25,46 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534614/organizada-do-corinthians-marca-presenca-em-estreia-da-selecao-brasileira-na-copa-do-mundo",
       "time": "13/06 · 21:18",
       "pubDate": "Sat, 13 Jun 2026 18:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians lamenta eliminação na Copa LNF e promete reação na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534609/goleiro-do-corinthians-lamenta-eliminacao-na-copa-lnf-e-promete-reacao-na-temporada",
-      "time": "13/06 · 21:01",
-      "pubDate": "Sat, 13 Jun 2026 18:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aproveita superioridade numérica e vence a Portuguesa Santista no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534554/corinthians-aproveita-superioridade-numerica-e-vence-a-portuguesa-santista-no-paulista-sub-20",
-      "time": "13/06 · 19:57",
-      "pubDate": "Sat, 13 Jun 2026 16:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zakaria Labyad comenta adaptação ao Corinthians e projeta duelo entre Marrocos e Brasil na Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534596/zakaria-labyad-comenta-adaptacao-ao-corinthians-e-projeta-duelo-entre-marrocos-e-brasil",
-      "time": "13/06 · 19:30",
-      "pubDate": "Sat, 13 Jun 2026 16:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre virada do São Lourenço e é eliminado da Copa LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534606/corinthians-sofre-virada-do-sao-lourenco-e-e-eliminado-da-copa-lnf",
-      "time": "13/06 · 19:15",
-      "pubDate": "Sat, 13 Jun 2026 16:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians decide manter basquete, mas reduz investimentos para a próxima temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534602/corinthians-decide-manter-basquete-mas-reduz-investimentos-para-a-proxima-temporada",
-      "time": "13/06 · 19:05",
-      "pubDate": "Sat, 13 Jun 2026 16:05:00 -0300"
     },
     {
       "source": "Bolavip",
