@@ -1,14 +1,62 @@
-// Gerado automaticamente em 16/06/2026, 20:33:48
+// Gerado automaticamente em 16/06/2026, 23:16:29
 const LIVE_DATA = {
-  "updatedAt": "2026-06-16T20:33:48.665Z",
+  "updatedAt": "2026-06-16T23:16:29.824Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Vitória: saiba onde assistir ao duelo pelo Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-vitoria-saiba-onde-assistir-ao-duelo-pelo-brasileiro-sub-20/",
+      "time": "16/06 · 23:00",
+      "pubDate": "Tue, 16 Jun 2026 23:00:50 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcedor de Cabo Verde se declara ao Corinthians antes da estreia do país na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534709/torcedor-de-cabo-verde-se-declara-ao-corinthians-antes-da-estreia-do-pais-na-copa-do-mundo",
+      "time": "16/06 · 22:31",
+      "pubDate": "Tue, 16 Jun 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians libera zagueiro do Sub-20 e aumenta dispensas na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534719/corinthians-libera-zagueiro-do-sub-20-e-aumenta-dispensas-na-base",
+      "time": "16/06 · 21:47",
+      "pubDate": "Tue, 16 Jun 2026 18:47:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians destaca preparação e projeta sequência positiva no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534713/atacante-do-corinthians-destaca-preparacao-e-projeta-sequencia-positiva-no-brasileiro-sub-20",
+      "time": "16/06 · 21:33",
+      "pubDate": "Tue, 16 Jun 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fiel coloca zagueiro como melhor contratação do Corinthians no primeiro semestre; veja a enquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534697/fiel-coloca-zagueiro-como-melhor-contratacao-do-corinthians-no-primeiro-semestre-veja-a-enquete",
+      "time": "16/06 · 20:33",
+      "pubDate": "Tue, 16 Jun 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "De virada, Corinthians perde do Cruzeiro pelo Brasileiro sub-17",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/de-virada-corinthians-perde-do-cruzeiro-pelo-brasileiro-sub-17/",
+      "time": "16/06 · 20:32",
+      "pubDate": "Tue, 16 Jun 2026 20:32:15 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians sofre com nova expulsão e leva virada do Cruzeiro no Brasileiro Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534707/corinthians-sofre-com-nova-expulsao-e-leva-virada-do-cruzeiro-no-brasileiro-sub-17",
       "time": "16/06 · 20:18",
-      "pubDate": "Tue, 16 Jun 2026 17:18:20 -0300"
+      "pubDate": "Tue, 16 Jun 2026 17:18:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,44 +83,52 @@ const LIVE_DATA = {
       "pubDate": "Tue, 16 Jun 2026 14:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians evita projetar possível duelo contra o Brasil na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534668/atacante-do-corinthians-evita-projetar-possivel-duelo-contra-o-brasil-na-copa-do-mundo",
-      "time": "16/06 · 16:31",
-      "pubDate": "Tue, 16 Jun 2026 13:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians participará de transmissão na estreia da Áustria na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534704/zagueiro-do-corinthians-participara-de-transmissao-na-estreia-da-austria-na-copa-do-mundo",
-      "time": "16/06 · 15:29",
-      "pubDate": "Tue, 16 Jun 2026 12:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "[Maria Beatriz de Teves] O 'não' do Corinthians para Yasmim faz sentido",
-      "url": "https://www.meutimao.com.br/coluna/maria_beatriz_de_teves/4238/o-nao-do-corinthians-para-yasmim-faz-sentido/",
-      "time": "16/06 · 15:03",
-      "pubDate": "Tue, 16 Jun 2026 12:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinadora do Corinthians participa de mentoria da Fifa na Espanha durante pausa do calendário",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534684/treinadora-do-corinthians-participa-de-mentoria-da-fifa-na-espanha-durante-pausa-do-calendario",
-      "time": "16/06 · 14:33",
-      "pubDate": "Tue, 16 Jun 2026 11:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Destaque na Copa, Vozinha foi contratado pelo Chaves para substituir Hugo Souza, hoje no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/destaque-na-copa-vozinha-foi-contratado-pelo-chaves-para-substituir-hugo-souza-hoje-no-corinthians]]>",
-      "time": "16/06 · 00:58",
-      "pubDate": "Mon, 15 Jun 2026 21:58:48 -0300"
+      "time": "16/06 · 17:11",
+      "pubDate": "Tue, 16 Jun 2026 14:11:25 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians estuda anunciar contratação de graça do zagueiro Samir, do Al Najmah, da Arábia Saudita",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-anunciar-contratacao-de-graca-do-zagueiro-samir-do-al-najmah-da-arabia-saudita]]>",
+      "time": "16/06 · 13:02",
+      "pubDate": "Tue, 16 Jun 2026 10:02:29 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians entra em &#8216;dia D&#8217; para quitar dívida com o Talleres por Garro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-entra-em-dia-d-para-quitar-divida-com-o-talleres/",
+      "time": "16/06 · 08:00",
+      "pubDate": "Tue, 16 Jun 2026 08:00:48 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Cruzeiro x Corinthians: veja onde assistir ao jogo do Brasileiro sub-17",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/cruzeiro-x-corinthians-veja-onde-assistir-ao-jogo-do-brasileiro-sub-17/",
+      "time": "15/06 · 23:00",
+      "pubDate": "Mon, 15 Jun 2026 23:00:07 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Justiça volta atrás e mantém discussão sobre afastamento de Romeu Tuma no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-volta-atras-e-mantem-discussao-sobre-afastamento-de-romeu-no-corinthians/",
+      "time": "15/06 · 17:53",
+      "pubDate": "Mon, 15 Jun 2026 17:53:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Romeu Toma Jr. volta à presidência do Conselho do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/romeu-toma-jr-volta-a-presidencia-do-conselho-do-corinthians/",
+      "time": "15/06 · 16:08",
+      "pubDate": "Mon, 15 Jun 2026 16:08:41 +0000"
     },
     {
       "source": "Bolavip",
@@ -83,6 +139,14 @@ const LIVE_DATA = {
       "pubDate": "Mon, 15 Jun 2026 11:36:59 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja jogadores do Corinthians que ainda não completaram 12 jogos no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-jogadores-do-corinthians-que-ainda-nao-completaram-12-jogos-no-brasileiro/",
+      "time": "15/06 · 10:00",
+      "pubDate": "Mon, 15 Jun 2026 10:00:58 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Osmar Stabile, presidente do Corinthians, se pronuncia sobre viagem aos EUA durante a Copa: “Vim a New York a trabalho”",
@@ -91,76 +155,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 14 Jun 2026 17:53:45 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Zakaria Labyad, do Corinthians, revela dica a defensor de Marrocos para duelo com a Seleção Brasileira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-do-corinthians-revela-dica-a-defensor-de-marrocos-para-duelo-com-a-selecao-brasileira]]>",
-      "time": "13/06 · 17:13",
-      "pubDate": "Sat, 13 Jun 2026 14:13:55 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
+      "title": "Dupla do Corinthians se encontra em viagem de férias para a Grécia",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/dupla-do-corinthians-se-encontra-em-viagem-de-ferias-para-a-grecia/",
+      "time": "14/06 · 20:13",
+      "pubDate": "Sun, 14 Jun 2026 20:13:09 +0000"
     }
   ],
   "upcoming": [],
@@ -190,12 +190,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534675/goleiro-destaque-contra-espanha-assumiu-vaga-em-time-portugues-por-ida-de-hugo-souza-ao-corinthians",
       "pubDate": "Mon, 15 Jun 2026 15:53:00 -0300",
       "date": "15/06 · 18:53"
-    },
-    {
-      "title": "Firmino aparece com camisa da atual temporada do Corinthians em vídeo nas redes sociais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534667/firmino-aparece-com-camisa-da-atual-temporada-do-corinthians-em-video-nas-redes-sociais",
-      "pubDate": "Mon, 15 Jun 2026 15:00:00 -0300",
-      "date": "15/06 · 18:00"
     }
   ]
 };
