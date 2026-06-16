@@ -1,78 +1,78 @@
-// Gerado automaticamente em 16/06/2026, 12:43:31
+// Gerado automaticamente em 16/06/2026, 20:33:48
 const LIVE_DATA = {
-  "updatedAt": "2026-06-16T12:43:31.391Z",
+  "updatedAt": "2026-06-16T20:33:48.665Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Diadema em busca da liderança do Paulista de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534674/corinthians-visita-o-diadema-mirando-lideranca-do-paulista-de-futsal-saiba-tudo",
-      "time": "16/06 · 12:30",
-      "pubDate": "Tue, 16 Jun 2026 09:30:00 -0300"
+      "title": "Corinthians sofre com nova expulsão e leva virada do Cruzeiro no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534707/corinthians-sofre-com-nova-expulsao-e-leva-virada-do-cruzeiro-no-brasileiro-sub-17",
+      "time": "16/06 · 20:18",
+      "pubDate": "Tue, 16 Jun 2026 17:18:20 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Cruzeiro em busca da liderança do Brasileiro Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534673/corinthians-visita-o-cruzeiro-em-busca-da-lideranca-do-brasileiro-sub-17-saiba-tudo",
-      "time": "16/06 · 11:30",
-      "pubDate": "Tue, 16 Jun 2026 08:30:00 -0300"
+      "title": "Pantaleão pede que Stabile explique fala sobre conselheiros e contratos no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534708/pantaleao-pede-que-stabile-explique-fala-sobre-conselheiros-e-contratos-no-corinthians",
+      "time": "16/06 · 19:35",
+      "pubDate": "Tue, 16 Jun 2026 16:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: retorno de presidente, lateral recusada e salários pagos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534687/ultimas-do-corinthians-retorno-de-presidente-lateral-recusada-e-salarios-pagos",
-      "time": "16/06 · 10:30",
-      "pubDate": "Tue, 16 Jun 2026 07:30:00 -0300"
+      "title": "Corinthians celebra aniversário do Maracanã e relembra conquistas históricas no estádio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534705/corinthians-celebra-aniversario-do-maracana-e-relembra-conquistas-historicas-no-estadio",
+      "time": "16/06 · 18:32",
+      "pubDate": "Tue, 16 Jun 2026 15:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Levantamento destaca versatilidade de volante do Corinthians em campo na atual temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534594/levantamento-destaca-versatilidade-de-volante-do-corinthians-em-campo-na-atual-temporada",
-      "time": "16/06 · 01:00",
-      "pubDate": "Mon, 15 Jun 2026 22:00:00 -0300"
+      "title": "Corinthians Feminino foi visitante em 87,5% dos sorteios da CBF desde 2024",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534699/corinthians-feminino-foi-visitante-em-875-por-cento-dos-sorteios-da-cbf-desde-2024",
+      "time": "16/06 · 17:32",
+      "pubDate": "Tue, 16 Jun 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Pivô do Corinthians consolida vice-liderança em ranking de artilharia com gol em derrota na Copa LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534627/pivo-do-corinthians-consolida-vice-lideranca-em-ranking-de-artilharia-com-gol-em-derrota-na-copa-lnf",
-      "time": "16/06 · 00:03",
-      "pubDate": "Mon, 15 Jun 2026 21:03:00 -0300"
+      "title": "Atacante do Corinthians evita projetar possível duelo contra o Brasil na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534668/atacante-do-corinthians-evita-projetar-possivel-duelo-contra-o-brasil-na-copa-do-mundo",
+      "time": "16/06 · 16:31",
+      "pubDate": "Tue, 16 Jun 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians participará de transmissão na estreia da Áustria na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534704/zagueiro-do-corinthians-participara-de-transmissao-na-estreia-da-austria-na-copa-do-mundo",
+      "time": "16/06 · 15:29",
+      "pubDate": "Tue, 16 Jun 2026 12:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "[Maria Beatriz de Teves] O 'não' do Corinthians para Yasmim faz sentido",
+      "url": "https://www.meutimao.com.br/coluna/maria_beatriz_de_teves/4238/o-nao-do-corinthians-para-yasmim-faz-sentido/",
+      "time": "16/06 · 15:03",
+      "pubDate": "Tue, 16 Jun 2026 12:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Treinadora do Corinthians participa de mentoria da Fifa na Espanha durante pausa do calendário",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534684/treinadora-do-corinthians-participa-de-mentoria-da-fifa-na-espanha-durante-pausa-do-calendario",
+      "time": "16/06 · 14:33",
+      "pubDate": "Tue, 16 Jun 2026 11:33:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Destaque na Copa, Vozinha foi contratado pelo Chaves para substituir Hugo Souza, hoje no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/destaque-na-copa-vozinha-foi-contratado-pelo-chaves-para-substituir-hugo-souza-hoje-no-corinthians]]>",
-      "time": "15/06 · 23:06",
-      "pubDate": "Mon, 15 Jun 2026 20:06:09 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral registra maior número de ações com a bola entre jogadores do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534508/lateral-registra-maior-numero-de-acoes-com-a-bola-entre-jogadores-do-corinthians-em-2026",
-      "time": "15/06 · 23:04",
-      "pubDate": "Mon, 15 Jun 2026 20:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians quita salários de parte dos funcionários do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534683/corinthians-quita-salarios-de-parte-dos-funcionarios-do-clube",
-      "time": "15/06 · 22:50",
-      "pubDate": "Mon, 15 Jun 2026 19:50:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians marca seu primeiro gol na vitória contra a Portuguesa Santista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534628/zagueiro-do-corinthians-marca-seu-primeiro-gol-na-vitoria-contra-a-portuguesa-santista",
-      "time": "15/06 · 22:02",
-      "pubDate": "Mon, 15 Jun 2026 19:02:00 -0300"
+      "time": "16/06 · 00:58",
+      "pubDate": "Mon, 15 Jun 2026 21:58:48 -0300"
     },
     {
       "source": "Bolavip",
@@ -196,12 +196,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534667/firmino-aparece-com-camisa-da-atual-temporada-do-corinthians-em-video-nas-redes-sociais",
       "pubDate": "Mon, 15 Jun 2026 15:00:00 -0300",
       "date": "15/06 · 18:00"
-    },
-    {
-      "title": "Atacante do Corinthians supera marca de gols da última temporada com quase metade dos jogos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534630/atacante-do-corinthians-supera-marca-de-gols-da-ultima-temporada-com-quase-metade-dos-jogos",
-      "pubDate": "Mon, 15 Jun 2026 12:31:00 -0300",
-      "date": "15/06 · 15:31"
     }
   ]
 };
