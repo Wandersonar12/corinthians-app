@@ -1,22 +1,70 @@
-// Gerado automaticamente em 17/06/2026, 12:08:17
+// Gerado automaticamente em 17/06/2026, 19:53:47
 const LIVE_DATA = {
-  "updatedAt": "2026-06-17T12:08:17.060Z",
+  "updatedAt": "2026-06-17T19:53:47.006Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Vitória visando subir na tabela do Brasileirão Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534712/corinthians-recebe-o-vitoria-visando-subir-na-tabela-do-brasileirao-sub-20-saiba-tudo",
-      "time": "17/06 · 11:30",
-      "pubDate": "Wed, 17 Jun 2026 08:30:00 -0300"
+      "title": "Corinthians vence o Vitória com gol no fim e entra no G8 do Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534740/corinthians-vence-o-vitoria-com-gol-no-fim-e-entra-no-g8-do-brasileiro-sub-20",
+      "time": "17/06 · 19:52",
+      "pubDate": "Wed, 17 Jun 2026 16:52:52 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: falta de pagamento, reunião suspensa e zagueiro comentarista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534729/ultimas-do-corinthians-falta-de-pagamento-reuniao-suspensa-e-zagueiro-comentarista",
-      "time": "17/06 · 10:30",
-      "pubDate": "Wed, 17 Jun 2026 07:30:00 -0300"
+      "title": "Ex-United sugere meia do Corinthians como possível técnico do clube inglês no futuro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534720/ex-united-sugere-meia-do-corinthians-como-possivel-tecnico-do-clube-ingles-no-futuro",
+      "time": "17/06 · 19:31",
+      "pubDate": "Wed, 17 Jun 2026 16:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians será o único brasileiro em torneio internacional Sub-13 na República Dominicana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534739/corinthians-sera-o-unico-brasileiro-em-torneio-internacional-sub-13-na-republica-dominicana",
+      "time": "17/06 · 18:28",
+      "pubDate": "Wed, 17 Jun 2026 15:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-diretor revela como Corinthians chegou a Memphis após negócios frustrados com Balotelli e Gabigol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534741/ex-diretor-revela-como-corinthians-chegou-a-memphis-apos-negocios-frustrados-com-balotelli-e-gabigol",
+      "time": "17/06 · 17:45",
+      "pubDate": "Wed, 17 Jun 2026 14:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians rejeita nova investida do exterior por atacante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534744/corinthians-rejeita-nova-investida-do-exterior-por-atacante",
+      "time": "17/06 · 17:15",
+      "pubDate": "Wed, 17 Jun 2026 14:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece datas e horários de clássicos contra Santos e Palmeiras pelo Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534743/corinthians-conhece-datas-e-horarios-de-classicos-contra-santos-e-palmeiras-pelo-brasileiro-sub-17",
+      "time": "17/06 · 16:25",
+      "pubDate": "Wed, 17 Jun 2026 13:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta alcançar maior sequência de vitórias no Sub-20 após mais de dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534714/corinthians-tenta-alcancar-maior-sequencia-de-vitorias-no-sub-20-apos-mais-de-dois-anos",
+      "time": "17/06 · 16:00",
+      "pubDate": "Wed, 17 Jun 2026 13:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia-atacante do Corinthians comenta sensação de retornar ao interior paulista com a Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534728/atacante-do-corinthians-comenta-sensacao-de-retornar-ao-interior-paulista-com-a-selecao-brasileira",
+      "time": "17/06 · 15:37",
+      "pubDate": "Wed, 17 Jun 2026 12:37:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -25,54 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tem-12-atletas-que-nao-podem-mais-trocar-de-clube-no-brasileirao-veja-lista/",
       "time": "17/06 · 10:00",
       "pubDate": "Wed, 17 Jun 2026 10:00:25 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gui Negão relembra primeira convocação para jogo do time profissional do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534706/gui-negao-relembra-primeira-convocacao-para-jogo-do-time-profissional-do-corinthians",
-      "time": "17/06 · 01:30",
-      "pubDate": "Tue, 16 Jun 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians derrota o Diadema e assume liderança do Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534726/corinthians-derrota-o-diadema-e-assume-lideranca-do-paulista-de-futsal",
-      "time": "17/06 · 00:29",
-      "pubDate": "Tue, 16 Jun 2026 21:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Menor país a participar de uma Copa do Mundo também foi goleado pelo Corinthians em 1981; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534711/menor-pais-a-participar-de-uma-copa-do-mundo-tambem-foi-goleado-pelo-corinthians-em-1981-relembre",
-      "time": "17/06 · 00:29",
-      "pubDate": "Tue, 16 Jun 2026 21:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Justiça de São Paulo suspende Assembleia da reforma estatutária do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534723/justica-de-sao-paulo-suspende-assembleia-da-reforma-estatutaria-do-corinthians",
-      "time": "16/06 · 23:33",
-      "pubDate": "Tue, 16 Jun 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde prazo e aguarda conclusão burocrática para encerrar impasse com Talleres",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534722/corinthians-perde-prazo-e-aguarda-conclusao-burocratica-para-encerrar-impasse-com-talleres",
-      "time": "16/06 · 23:33",
-      "pubDate": "Tue, 16 Jun 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: saiba tudo sobre a busca do Corinthians pelo título do Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534717/guia-do-meu-timao-saiba-tudo-sobre-a-busca-do-corinthians-pelo-titulo-do-paulista-feminino-sub-20",
-      "time": "16/06 · 23:33",
-      "pubDate": "Tue, 16 Jun 2026 20:33:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -168,22 +168,22 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians vence o Vitória com gol no fim e entra no G8 do Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534740/corinthians-vence-o-vitoria-com-gol-no-fim-e-entra-no-g8-do-brasileiro-sub-20",
+      "pubDate": "Wed, 17 Jun 2026 16:52:52 -0300",
+      "date": "17/06 · 19:52"
+    },
+    {
+      "title": "Ex-diretor revela como Corinthians chegou a Memphis após negócios frustrados com Balotelli e Gabigol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534741/ex-diretor-revela-como-corinthians-chegou-a-memphis-apos-negocios-frustrados-com-balotelli-e-gabigol",
+      "pubDate": "Wed, 17 Jun 2026 14:45:00 -0300",
+      "date": "17/06 · 17:45"
+    },
+    {
       "title": "Menor país a participar de uma Copa do Mundo também foi goleado pelo Corinthians em 1981; relembre",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534711/menor-pais-a-participar-de-uma-copa-do-mundo-tambem-foi-goleado-pelo-corinthians-em-1981-relembre",
       "pubDate": "Tue, 16 Jun 2026 21:29:00 -0300",
       "date": "17/06 · 00:29"
-    },
-    {
-      "title": "Pivô do Corinthians consolida vice-liderança em ranking de artilharia com gol em derrota na Copa LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534627/pivo-do-corinthians-consolida-vice-lideranca-em-ranking-de-artilharia-com-gol-em-derrota-na-copa-lnf",
-      "pubDate": "Mon, 15 Jun 2026 21:03:00 -0300",
-      "date": "16/06 · 00:03"
-    },
-    {
-      "title": "Zagueiro do Corinthians marca seu primeiro gol na vitória contra a Portuguesa Santista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534628/zagueiro-do-corinthians-marca-seu-primeiro-gol-na-vitoria-contra-a-portuguesa-santista",
-      "pubDate": "Mon, 15 Jun 2026 19:02:00 -0300",
-      "date": "15/06 · 22:02"
     }
   ]
 };
