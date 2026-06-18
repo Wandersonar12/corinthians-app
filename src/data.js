@@ -1,12 +1,44 @@
-// Gerado automaticamente em 18/06/2026, 11:41:34
+// Gerado automaticamente em 18/06/2026, 14:37:51
 const LIVE_DATA = {
-  "updatedAt": "2026-06-18T11:41:34.292Z",
+  "updatedAt": "2026-06-18T14:37:51.865Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: oferta por jovem, bastidores de contratação e críticas de Organizada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534760/ultimas-do-corinthians-oferta-por-jovem-bastidores-de-contratacao-e-criticas-de-organizada",
+      "title": "Equipe máster do Corinthians disputa amistoso solidário em Campinas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534700/equipe-master-do-corinthians-disputa-amistoso-solidario-em-campinas",
+      "time": "18/06 · 13:31",
+      "pubDate": "Thu, 18 Jun 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians vira alvo de novo pedido de impeachment por defesa em caso Nike",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534773/presidente-do-corinthians-vira-alvo-de-novo-pedido-de-impeachment-por-defesa-em-caso-nike",
+      "time": "18/06 · 12:35",
+      "pubDate": "Thu, 18 Jun 2026 09:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Sub-20 avalia evolução de dupla e comenta chances no profissional do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534758/tecnico-do-sub-20-avalia-evolucao-de-dupla-e-comenta-chances-no-profissional-do-corinthians",
+      "time": "18/06 · 12:31",
+      "pubDate": "Thu, 18 Jun 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra primeiro semestre como um dos times mais indisciplinados do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534753/corinthians-encerra-primeiro-semestre-como-um-dos-times-mais-indisciplinados-do-brasileirao",
+      "time": "18/06 · 11:33",
+      "pubDate": "Thu, 18 Jun 2026 08:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: oferta por jovem, bastidores de contratação e críticas da organizada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534760/ultimas-do-corinthians-oferta-por-jovem-bastidores-de-contratacao-e-criticas-da-organizada",
       "time": "18/06 · 10:30",
       "pubDate": "Thu, 18 Jun 2026 07:30:00 -0300"
     },
@@ -19,12 +51,36 @@ const LIVE_DATA = {
       "pubDate": "Thu, 18 Jun 2026 10:00:37 +0000"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Talles Magno enaltece a torcida do Corinthians ao relembrar passagem pelo clube: “É surreal”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/talles-magno-enaltece-a-torcida-do-corinthians-ao-relembrar-passagem-pelo-clube-e-surreal]]>",
+      "time": "18/06 · 04:42",
+      "pubDate": "Thu, 18 Jun 2026 01:42:02 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians fecha primeiro quadrimestre com resultado negativo em R$ 168 milhões",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534759/corinthians-fecha-primeiro-quadrimestre-com-resultado-negativo-em-r-168-milhoes",
       "time": "18/06 · 03:47",
       "pubDate": "Thu, 18 Jun 2026 00:47:55 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Copa do Mundo: Luis Díaz no Corinthians quase foi realidade, revela Elias",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/copa-do-mundo-luis-diaz-no-corinthians-quase-foi-realidade-revela-elias]]>",
+      "time": "18/06 · 03:41",
+      "pubDate": "Thu, 18 Jun 2026 00:41:16 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz pede e Corinthians mira contratação de Matheus França, que pertence ao Crystal Palace",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-pede-e-corinthians-mira-contratacao-de-matheus-franca-que-pertence-ao-crystal-palace]]>",
+      "time": "18/06 · 01:54",
+      "pubDate": "Wed, 17 Jun 2026 22:54:59 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 17 Jun 2026 20:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians exalta a Fiel e diferencia trabalho de treinadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534742/ex-atacante-do-corinthians-exalta-a-fiel-e-diferencia-trabalho-de-treinadores",
-      "time": "17/06 · 22:29",
-      "pubDate": "Wed, 17 Jun 2026 19:29:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Ceará rescinde com atacante ex-Corinthians",
       "url": "https://www.gazetaesportiva.com/times/ceara/ceara-rescinde-com-atacante-ex-corinthians/",
       "time": "17/06 · 22:25",
       "pubDate": "Wed, 17 Jun 2026 22:25:06 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians celebra aniversário do departamento de esportes radicais e skatepark no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534721/corinthians-celebra-aniversario-do-departamento-de-esportes-radicais-e-skatepark-no-parque-sao-jorge",
-      "time": "17/06 · 21:30",
-      "pubDate": "Wed, 17 Jun 2026 18:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Organizada critica conselheiros por suspensão de Assembleia da reforma estatuária do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534752/organizada-critica-conselheiros-por-suspensao-de-assembleia-da-reforma-estatuaria-do-corinthians",
-      "time": "17/06 · 20:37",
-      "pubDate": "Wed, 17 Jun 2026 17:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Qual foi a melhor contratação do Corinthians Feminino no primeiro semestre? Vote na enquete!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534735/qual-foi-a-melhor-contratacao-do-corinthians-feminino-no-primeiro-semestre-vote-na-enquete",
-      "time": "17/06 · 20:28",
-      "pubDate": "Wed, 17 Jun 2026 17:28:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -161,14 +185,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-veredito-apos-contatos-e-vai-garantir-permanencia-de-hugo-souza-ate-o-fim-de-2026]]>",
       "time": "15/06 · 14:36",
       "pubDate": "Mon, 15 Jun 2026 11:36:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile, presidente do Corinthians, se pronuncia sobre viagem aos EUA durante a Copa: “Vim a New York a trabalho”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-presidente-do-corinthians-se-pronuncia-sobre-viagem-aos-eua-durante-a-copa-vim-a-new-york-a-trabalho]]>",
-      "time": "14/06 · 20:53",
-      "pubDate": "Sun, 14 Jun 2026 17:53:45 -0300"
     }
   ],
   "upcoming": [],
@@ -186,12 +202,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534741/ex-diretor-revela-como-corinthians-chegou-a-memphis-apos-negocios-frustrados-com-balotelli-e-gabigol",
       "pubDate": "Wed, 17 Jun 2026 14:45:00 -0300",
       "date": "17/06 · 17:45"
-    },
-    {
-      "title": "Menor país a participar de uma Copa do Mundo também foi goleado pelo Corinthians em 1981; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534711/menor-pais-a-participar-de-uma-copa-do-mundo-tambem-foi-goleado-pelo-corinthians-em-1981-relembre",
-      "pubDate": "Tue, 16 Jun 2026 21:29:00 -0300",
-      "date": "17/06 · 00:29"
     }
   ]
 };
