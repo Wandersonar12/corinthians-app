@@ -1,7 +1,63 @@
-// Gerado automaticamente em 18/06/2026, 23:26:51
+// Gerado automaticamente em 19/06/2026, 11:56:47
 const LIVE_DATA = {
-  "updatedAt": "2026-06-18T23:26:51.826Z",
+  "updatedAt": "2026-06-19T11:56:47.226Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Campeão do tetra com a Seleção Brasileira reafirma vontade de ter jogado no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534784/campeao-do-tetra-com-a-selecao-brasileira-reafirma-vontade-de-ter-jogado-no-corinthians",
+      "time": "19/06 · 11:36",
+      "pubDate": "Fri, 19 Jun 2026 08:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: balancete, manifestação de presidente da Gaviões e pedido de impeachment",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534793/ultimas-do-corinthians-balancete-manifestacao-de-presidente-da-gavioes-e-pedido-de-impeachment",
+      "time": "19/06 · 10:30",
+      "pubDate": "Fri, 19 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja os maiores públicos do Corinthians no primeiro semestre de 2026",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-maiores-publicos-do-corinthians-no-primeiro-semestre-de-2026/",
+      "time": "19/06 · 10:00",
+      "pubDate": "Fri, 19 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante sobe na lista de artilheiros do Corinthians após vitória no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534755/volante-sobe-na-lista-de-artilheiros-do-corinthians-apos-vitoria-no-brasileiro-sub-20",
+      "time": "19/06 · 01:30",
+      "pubDate": "Thu, 18 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians prepara homenagem ao prefeito de Nova York após elogios à Democracia Corinthiana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534785/corinthians-prepara-homenagem-ao-prefeito-de-nova-york-apos-elogios-a-democracia-corinthiana",
+      "time": "19/06 · 01:15",
+      "pubDate": "Thu, 18 Jun 2026 22:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fixo do Corinthians avalia vitória no Paulista de Futsal e cita 'final' na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534750/fixo-do-corinthians-avalia-vitoria-no-paulista-de-futsal-e-cita-final-na-lnf",
+      "time": "19/06 · 00:28",
+      "pubDate": "Thu, 18 Jun 2026 21:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem sete jogadoras com mais de 1000 minutos em campo no primeiro semestre de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534745/corinthians-tem-sete-jogadoras-com-mais-de-1000-minutos-em-campo-no-primeiro-semestre-de-2026",
+      "time": "18/06 · 23:32",
+      "pubDate": "Thu, 18 Jun 2026 20:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,44 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 18 Jun 2026 18:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante é escolhida pela Fiel como a melhor contratação do Corinthians no primeiro semestre de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534769/atacante-e-escolhida-pela-fiel-como-a-melhor-contratacao-do-corinthians-no-primeiro-semestre-de-2026",
-      "time": "18/06 · 20:35",
-      "pubDate": "Thu, 18 Jun 2026 17:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "União e bom momento na temporada pautam bastidores da vitória do Corinthians no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534783/uniao-e-bom-momento-na-temporada-pautam-bastidores-da-vitoria-do-corinthians-no-brasileiro-sub-20",
-      "time": "18/06 · 20:03",
-      "pubDate": "Thu, 18 Jun 2026 17:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Destaque da base exalta vitória no Paulista e celebra primeiro gol no profissional do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534751/destaque-da-base-exalta-vitoria-no-paulista-e-celebra-primeiro-gol-no-profissional-do-corinthians",
-      "time": "18/06 · 19:33",
-      "pubDate": "Thu, 18 Jun 2026 16:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico da base do Corinthians conta como foi trabalhar com destaque da seleção da Coreia do Sul",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534772/tecnico-da-base-do-corinthians-conta-como-foi-trabalhar-com-destaque-da-selecao-da-coreia-do-sul",
-      "time": "18/06 · 18:32",
-      "pubDate": "Thu, 18 Jun 2026 15:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Ex-diretor do Corinthians revela que Memphis Depay foi 3ª opção buscada após Gabigol e Mario Balotelli",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/ex-diretor-do-corinthians-revela-que-memphis-depay-foi-3a-opcao-buscada-apos-gabigol-e-mario-balotelli]]>",
-      "time": "18/06 · 18:29",
-      "pubDate": "Thu, 18 Jun 2026 15:29:24 -0300"
+      "time": "18/06 · 20:23",
+      "pubDate": "Thu, 18 Jun 2026 17:23:05 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -65,22 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-fecha-abril-com-deficit-de-r-168-milhoes-e-aposta-em-vendas-na-janela/",
       "time": "18/06 · 18:00",
       "pubDate": "Thu, 18 Jun 2026 18:00:12 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante se isola no pódio da artilharia do Sub-17 do Corinthians; meia amplia liderança",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534757/atacante-se-isola-no-podio-da-artilharia-do-sub-17-do-corinthians-meia-amplia-lideranca",
-      "time": "18/06 · 17:37",
-      "pubDate": "Thu, 18 Jun 2026 14:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente da Gaviões declara apoio à intervenção no Corinthians e desafia diretoria sobre SAFiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534780/presidente-da-gavioes-declara-apoio-a-intervencao-no-corinthians-e-desafia-diretoria-sobre-safiel",
-      "time": "18/06 · 17:25",
-      "pubDate": "Thu, 18 Jun 2026 14:25:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-anunciar-contratacao-de-graca-do-zagueiro-samir-do-al-najmah-da-arabia-saudita]]>",
       "time": "16/06 · 13:02",
       "pubDate": "Tue, 16 Jun 2026 10:02:29 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians entra em &#8216;dia D&#8217; para quitar dívida com o Talleres por Garro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-entra-em-dia-d-para-quitar-divida-com-o-talleres/",
-      "time": "16/06 · 08:00",
-      "pubDate": "Tue, 16 Jun 2026 08:00:48 +0000"
     }
   ],
   "upcoming": [],
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534751/destaque-da-base-exalta-vitoria-no-paulista-e-celebra-primeiro-gol-no-profissional-do-corinthians",
       "pubDate": "Thu, 18 Jun 2026 16:33:00 -0300",
       "date": "18/06 · 19:33"
-    },
-    {
-      "title": "Corinthians vence o Vitória com gol no fim e entra no G8 do Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534740/corinthians-vence-o-vitoria-com-gol-no-fim-e-entra-no-g8-do-brasileiro-sub-20",
-      "pubDate": "Wed, 17 Jun 2026 16:52:00 -0300",
-      "date": "17/06 · 19:52"
     }
   ]
 };
