@@ -1,7 +1,63 @@
-// Gerado automaticamente em 20/06/2026, 13:19:16
+// Gerado automaticamente em 20/06/2026, 19:04:43
 const LIVE_DATA = {
-  "updatedAt": "2026-06-20T13:19:16.846Z",
+  "updatedAt": "2026-06-20T19:04:43.744Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcedora do Corinthians faz história como única mulher a chefiar departamento médico na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534830/torcedora-do-corinthians-faz-historia-como-unica-mulher-a-chefiar-departamento-medico-na-copa",
+      "time": "20/06 · 18:02",
+      "pubDate": "Sat, 20 Jun 2026 15:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians celebra fase artilheira no Sub-20 e mira oportunidade no time profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534839/atacante-do-corinthians-celebra-fase-artilheira-no-sub-20-e-mira-oportunidade-no-time-profissional",
+      "time": "20/06 · 17:33",
+      "pubDate": "Sat, 20 Jun 2026 14:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca repetir feito no Sub-17 que não acontece há três anos; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534819/corinthians-busca-repetir-feito-no-sub-17-que-nao-acontece-ha-tres-anos-saiba-qual",
+      "time": "20/06 · 16:35",
+      "pubDate": "Sat, 20 Jun 2026 13:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia sequência decisiva por vaga nas quartas de final do Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534805/corinthians-inicia-sequencia-decisiva-por-vaga-nas-quartas-de-final-do-brasileirao-sub-20",
+      "time": "20/06 · 15:30",
+      "pubDate": "Sat, 20 Jun 2026 12:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a atrasar direitos de imagem do elenco feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534836/corinthians-volta-a-atrasar-direitos-de-imagem-do-elenco-feminino",
+      "time": "20/06 · 15:02",
+      "pubDate": "Sat, 20 Jun 2026 12:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta alcançar maior sequência de vitórias no Sub-20 desde último título da Copinha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534811/corinthians-tenta-alcancar-maior-sequencia-de-vitorias-no-sub-20-desde-ultimo-titulo-da-copinha",
+      "time": "20/06 · 14:31",
+      "pubDate": "Sat, 20 Jun 2026 11:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita UDA em busca de manter embalo no Brasileiro Feminino Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534817/corinthians-visita-uda-em-busca-de-manter-embalo-no-brasileiro-feminino-sub-17-saiba-tudo",
+      "time": "20/06 · 13:33",
+      "pubDate": "Sat, 20 Jun 2026 10:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,22 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534802/corinthians-visita-o-cruzeiro-para-manter-a-boa-sequencia-no-brasileirao-sub-20-saiba-tudo",
       "time": "20/06 · 12:32",
       "pubDate": "Sat, 20 Jun 2026 09:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encaminha permanência de líderes do elenco e acelera busca por reforços no basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534831/corinthians-encaminha-permanencia-de-lideres-do-elenco-e-acelera-busca-por-reforcos-no-basquete",
-      "time": "20/06 · 12:10",
-      "pubDate": "Sat, 20 Jun 2026 09:10:47 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: dívida paga, declaração de cria da base e votação suspensa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534822/ultimas-do-corinthians-divida-paga-declaracao-de-cria-da-base-e-votacao-suspensa",
-      "time": "20/06 · 10:30",
-      "pubDate": "Sat, 20 Jun 2026 07:30:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -43,30 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 20 Jun 2026 02:36:21 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians Sub-20 pode alcançar maior série invicta como visitante desde 2023",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534808/corinthians-sub-20-pode-alcancar-maior-serie-invicta-como-visitante-desde-2023",
-      "time": "20/06 · 01:02",
-      "pubDate": "Fri, 19 Jun 2026 22:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians destaca boa fase e projeta duelo contra o Cruzeiro no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534820/zagueiro-do-corinthians-destaca-boa-fase-e-projeta-duelo-contra-o-cruzeiro-no-brasileiro-sub-20",
-      "time": "20/06 · 00:02",
-      "pubDate": "Fri, 19 Jun 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians revela motivo de fracasso de parceria com clube europeu",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534796/ex-atacante-do-corinthians-revela-motivo-de-fracasso-de-parceria-com-clube-europeu",
-      "time": "19/06 · 23:01",
-      "pubDate": "Fri, 19 Jun 2026 20:01:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Cruzeiro x Corinthians: veja informações e onde assistir ao jogo pelo Brasileiro sub-20",
@@ -81,22 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-concretiza-pagamento-e-encerra-divida-com-o-talleres-por-garro]]>",
       "time": "19/06 · 22:16",
       "pubDate": "Fri, 19 Jun 2026 19:16:09 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Coletivo protocola pedido de afastamento de irmão de Duilio do Conselho do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534814/coletivo-protocola-pedido-de-afastamento-de-irmao-de-duilio-do-conselho-do-corinthians",
-      "time": "19/06 · 21:54",
-      "pubDate": "Fri, 19 Jun 2026 18:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians volta a entrar em campo dois meses após cirurgia no braço",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534782/meio-campista-do-corinthians-volta-a-entrar-em-campo-dois-meses-apos-cirurgia-no-braco",
-      "time": "19/06 · 21:32",
-      "pubDate": "Fri, 19 Jun 2026 18:32:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,18 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534795/ex-corinthians-exalta-zagueiro-formado-no-terrao-e-o-aponta-como-um-dos-melhores-do-mundo",
       "pubDate": "Fri, 19 Jun 2026 10:32:00 -0300",
       "date": "19/06 · 13:32"
-    },
-    {
-      "title": "União e bom momento na temporada pautam bastidores da vitória do Corinthians no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534783/uniao-e-bom-momento-na-temporada-pautam-bastidores-da-vitoria-do-corinthians-no-brasileiro-sub-20",
-      "pubDate": "Thu, 18 Jun 2026 17:03:00 -0300",
-      "date": "18/06 · 20:03"
-    },
-    {
-      "title": "Destaque da base exalta vitória no Paulista e celebra primeiro gol no profissional do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534751/destaque-da-base-exalta-vitoria-no-paulista-e-celebra-primeiro-gol-no-profissional-do-corinthians",
-      "pubDate": "Thu, 18 Jun 2026 16:33:00 -0300",
-      "date": "18/06 · 19:33"
     }
   ]
 };
