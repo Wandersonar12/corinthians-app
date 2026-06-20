@@ -1,7 +1,31 @@
-// Gerado automaticamente em 20/06/2026, 10:23:54
+// Gerado automaticamente em 20/06/2026, 13:19:16
 const LIVE_DATA = {
-  "updatedAt": "2026-06-20T10:23:54.459Z",
+  "updatedAt": "2026-06-20T13:19:16.846Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Cruzeiro para manter a boa sequência no Brasileirão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534802/corinthians-visita-o-cruzeiro-para-manter-a-boa-sequencia-no-brasileirao-sub-20-saiba-tudo",
+      "time": "20/06 · 12:32",
+      "pubDate": "Sat, 20 Jun 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encaminha permanência de líderes do elenco e acelera busca por reforços no basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534831/corinthians-encaminha-permanencia-de-lideres-do-elenco-e-acelera-busca-por-reforcos-no-basquete",
+      "time": "20/06 · 12:10",
+      "pubDate": "Sat, 20 Jun 2026 09:10:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: dívida paga, declaração de cria da base e votação suspensa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534822/ultimas-do-corinthians-divida-paga-declaracao-de-cria-da-base-e-votacao-suspensa",
+      "time": "20/06 · 10:30",
+      "pubDate": "Sat, 20 Jun 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -9,6 +33,14 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-menores-publicos-do-corinthians-no-primeiro-semestre-de-2026/",
       "time": "20/06 · 10:00",
       "pubDate": "Sat, 20 Jun 2026 10:00:04 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gabriel Magalhães, ex-Corinthians, brilha na vitória do Brasil sobre o Haiti pela Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-magalhaes-ex-corinthians-brilha-na-vitoria-do-brasil-sobre-o-haiti-pela-copa-do-mundo]]>",
+      "time": "20/06 · 05:36",
+      "pubDate": "Sat, 20 Jun 2026 02:36:21 -0300"
     },
     {
       "source": "Meu Timao",
@@ -75,14 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 19 Jun 2026 21:19:46 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians quita dívida com Talleres e evita novo transfer ban",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534812/corinthians-quita-divida-com-talleres-e-evita-novo-transfer-ban",
-      "time": "19/06 · 21:12",
-      "pubDate": "Fri, 19 Jun 2026 18:12:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Róger Guedes, ex-Corinthians, pode disputar a Copa de 2030 pelo Catar, revela Elias",
@@ -91,28 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 19 Jun 2026 17:28:41 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Qual seria a baixa mais sentida para o Corinthians em caso de venda na janela? Vote na enquete!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534806/qual-seria-a-baixa-mais-sentida-para-o-corinthians-em-caso-de-venda-na-janela-vote-na-enquete",
-      "time": "19/06 · 20:28",
-      "pubDate": "Fri, 19 Jun 2026 17:28:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Stabile faz reflexão sobre déficit do Corinthians e reforça confiança na diretoria",
       "url": "https://www.gazetaesportiva.com/times/corinthians/stabile-faz-reflexao-sobre-deficit-do-corinthians-e-reforca-confianca-na-diretoria/",
       "time": "19/06 · 20:10",
       "pubDate": "Fri, 19 Jun 2026 20:10:36 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselho do Corinthians confirma suspensão da Assembleia Geral para reforma estatutária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534810/conselho-do-corinthians-confirma-suspensao-da-assembleia-geral-para-reforma-estatutaria",
-      "time": "19/06 · 19:25",
-      "pubDate": "Fri, 19 Jun 2026 16:25:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/copa-do-mundo-luis-diaz-no-corinthians-quase-foi-realidade-revela-elias]]>",
       "time": "18/06 · 03:41",
       "pubDate": "Thu, 18 Jun 2026 00:41:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz pede e Corinthians mira contratação de Matheus França, que pertence ao Crystal Palace",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-pede-e-corinthians-mira-contratacao-de-matheus-franca-que-pertence-ao-crystal-palace]]>",
-      "time": "18/06 · 01:54",
-      "pubDate": "Wed, 17 Jun 2026 22:54:59 -0300"
     }
   ],
   "upcoming": [],
