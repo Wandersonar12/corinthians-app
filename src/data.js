@@ -1,7 +1,55 @@
-// Gerado automaticamente em 20/06/2026, 22:55:27
+// Gerado automaticamente em 21/06/2026, 10:57:10
 const LIVE_DATA = {
-  "updatedAt": "2026-06-20T22:55:27.585Z",
+  "updatedAt": "2026-06-21T10:57:10.953Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: assistência holandesa, triunfo no Sub-20 e nova pendência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534861/ultimas-do-corinthians-assistencia-holandesa-triunfo-no-sub-20-e-nova-pendencia",
+      "time": "21/06 · 10:30",
+      "pubDate": "Sun, 21 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja os jogadores que mais evoluíram no Corinthians no primeiro semestre",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-jogadores-que-mais-evoluiram-no-corinthians-no-primeiro-semestre/",
+      "time": "21/06 · 09:00",
+      "pubDate": "Sun, 21 Jun 2026 09:00:17 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians diverte crianças com visita a barbearia infantil em Curitiba",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534828/atacante-do-corinthians-diverte-criancas-com-visita-a-barbearia-infantil-em-curitiba",
+      "time": "21/06 · 01:00",
+      "pubDate": "Sat, 20 Jun 2026 22:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dez jogadores do Corinthians atingiram 2000 minutos em campo no primeiro semestre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534803/dez-jogadores-do-corinthians-atingiram-2000-minutos-em-campo-no-primeiro-semestre-confira-lista",
+      "time": "21/06 · 00:02",
+      "pubDate": "Sat, 20 Jun 2026 21:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians presenteia prefeito de Nova York após fala sobre Sócrates",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534855/idolo-do-corinthians-presenteia-prefeito-de-nova-york-apos-fala-sobre-socrates",
+      "time": "20/06 · 23:31",
+      "pubDate": "Sat, 20 Jun 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta evitar pior sequência na LNF desde 2023 diante do Campo Mourão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534809/corinthians-tenta-evitar-pior-sequencia-na-lnf-desde-2023-diante-do-campo-mourao",
+      "time": "20/06 · 23:04",
+      "pubDate": "Sat, 20 Jun 2026 20:04:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,44 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Sat, 20 Jun 2026 17:04:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians bate o Cruzeiro fora de casa e entra no G6 no Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534840/corinthians-bate-o-cruzeiro-fora-de-casa-e-entra-no-g6-no-brasileirao-sub-20",
-      "time": "20/06 · 20:01",
-      "pubDate": "Sat, 20 Jun 2026 17:01:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians bate o Cruzeiro e vence a terceira seguida no Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-o-cruzeiro-e-vence-a-terceira-seguida-no-brasileiro-sub-20/",
+      "time": "20/06 · 20:02",
+      "pubDate": "Sat, 20 Jun 2026 20:02:11 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians sai do banco e dá assistência em goleada da Holanda na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534834/atacante-do-corinthians-sai-do-banco-e-da-assistencia-em-goleada-da-holanda-na-copa-do-mundo",
-      "time": "20/06 · 19:00",
-      "pubDate": "Sat, 20 Jun 2026 16:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcedora do Corinthians faz história como única mulher a chefiar departamento médico na Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534830/torcedora-do-corinthians-faz-historia-como-unica-mulher-a-chefiar-departamento-medico-na-copa",
-      "time": "20/06 · 18:02",
-      "pubDate": "Sat, 20 Jun 2026 15:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians celebra fase artilheira no Sub-20 e mira oportunidade no time profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534839/atacante-do-corinthians-celebra-fase-artilheira-no-sub-20-e-mira-oportunidade-no-time-profissional",
-      "time": "20/06 · 17:33",
-      "pubDate": "Sat, 20 Jun 2026 14:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca repetir feito no Sub-17 que não acontece há três anos; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534819/corinthians-busca-repetir-feito-no-sub-17-que-nao-acontece-ha-tres-anos-saiba-qual",
-      "time": "20/06 · 16:35",
-      "pubDate": "Sat, 20 Jun 2026 13:35:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja os menores públicos do Corinthians no primeiro semestre de 2026",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-menores-publicos-do-corinthians-no-primeiro-semestre-de-2026/",
+      "time": "20/06 · 10:00",
+      "pubDate": "Sat, 20 Jun 2026 10:00:04 +0000"
     },
     {
       "source": "Bolavip",
@@ -75,12 +99,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 20 Jun 2026 02:36:21 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Cruzeiro x Corinthians: veja informações e onde assistir ao jogo pelo Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/cruzeiro-x-corinthians-veja-informacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
+      "time": "19/06 · 23:00",
+      "pubDate": "Fri, 19 Jun 2026 23:00:47 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians concretiza pagamento e encerra dívida com o Talleres por Garro",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-concretiza-pagamento-e-encerra-divida-com-o-talleres-por-garro]]>",
       "time": "19/06 · 22:16",
       "pubDate": "Fri, 19 Jun 2026 19:16:09 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians quita dívida com o Talleres pela contratação de Garro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-quita-divida-com-o-talleres-pela-contratacao-de-garro/",
+      "time": "19/06 · 21:19",
+      "pubDate": "Fri, 19 Jun 2026 21:19:46 +0000"
     },
     {
       "source": "Bolavip",
@@ -91,12 +131,36 @@ const LIVE_DATA = {
       "pubDate": "Fri, 19 Jun 2026 17:28:41 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Stabile faz reflexão sobre déficit do Corinthians e reforça confiança na diretoria",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/stabile-faz-reflexao-sobre-deficit-do-corinthians-e-reforca-confianca-na-diretoria/",
+      "time": "19/06 · 20:10",
+      "pubDate": "Fri, 19 Jun 2026 20:10:36 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Volante Charles completa 35 anos; relembre sua chegada no Corinthians",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/volante-charles-completa-35-anos-relembre-sua-chegada-no-corinthians/",
+      "time": "19/06 · 13:07",
+      "pubDate": "Fri, 19 Jun 2026 13:07:37 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians aceita vender Yuri Alberto por menos de R$ 118 milhões e aguarda proposta oficial chegar",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-yuri-alberto-por-menos-de-r-118-milhoes-e-aguarda-proposta-oficial-chegar]]>",
       "time": "19/06 · 12:21",
       "pubDate": "Fri, 19 Jun 2026 09:21:47 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja os maiores públicos do Corinthians no primeiro semestre de 2026",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-maiores-publicos-do-corinthians-no-primeiro-semestre-de-2026/",
+      "time": "19/06 · 10:00",
+      "pubDate": "Fri, 19 Jun 2026 10:00:00 +0000"
     },
     {
       "source": "Bolavip",
@@ -129,70 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/copa-do-mundo-luis-diaz-no-corinthians-quase-foi-realidade-revela-elias]]>",
       "time": "18/06 · 03:41",
       "pubDate": "Thu, 18 Jun 2026 00:41:16 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
