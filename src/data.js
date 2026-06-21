@@ -1,7 +1,55 @@
-// Gerado automaticamente em 21/06/2026, 13:29:19
+// Gerado automaticamente em 21/06/2026, 19:09:04
 const LIVE_DATA = {
-  "updatedAt": "2026-06-21T13:29:19.821Z",
+  "updatedAt": "2026-06-21T19:09:04.507Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians terá confronto direto por vaga no mata-mata do Basileirão Sub-20; veja tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534869/corinthians-tera-confronto-direto-por-vaga-no-mata-mata-do-basileirao-sub-20-veja-tabela",
+      "time": "21/06 · 18:03",
+      "pubDate": "Sun, 21 Jun 2026 15:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-fixo do Corinthians relembra passagem pelo clube e destaca impacto da Fiel em sua família",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534827/ex-fixo-do-corinthians-relembra-passagem-pelo-clube-e-destaca-impacto-da-fiel-em-sua-familia",
+      "time": "21/06 · 17:01",
+      "pubDate": "Sun, 21 Jun 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Sub-20 Corinthians Feminino alcança maior invencibilidade da história da categoria",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534818/sub-20-corinthians-feminino-alcanca-maior-invencibilidade-da-historia-da-categoria",
+      "time": "21/06 · 16:01",
+      "pubDate": "Sun, 21 Jun 2026 13:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é derrotado pelo Campo Mourão pela Liga Nacional de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534870/corinthians-e-derrotado-pelo-campo-mourao-pela-liga-nacional-de-futsal",
+      "time": "21/06 · 15:38",
+      "pubDate": "Sun, 21 Jun 2026 12:38:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Como você avalia o trabalho de Fernando Diniz no Corinthians? Vote na enquete do Meu Timão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534833/como-voce-avalia-o-trabalho-de-fernando-diniz-no-corinthians-vote-na-enquete-do-meu-timao",
+      "time": "21/06 · 15:03",
+      "pubDate": "Sun, 21 Jun 2026 12:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians celebra vitória na Copa do Mundo e compara comemoração com 'Porópópó'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534854/atacante-do-corinthians-celebra-vitoria-na-copa-do-mundo-e-compara-comemoracao-com-poropopo",
+      "time": "21/06 · 14:02",
+      "pubDate": "Sun, 21 Jun 2026 11:02:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,54 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534832/corinthians-chega-a-um-mes-de-transfer-ban-as-vesperas-de-nova-janela-de-transferencias",
       "time": "21/06 · 12:30",
       "pubDate": "Sun, 21 Jun 2026 09:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita o Campo Mourão em busca de recuperação na LNF; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534842/corinthians-visita-o-campo-mourao-em-busca-de-recuperacao-na-lnf-saiba-tudo",
-      "time": "21/06 · 11:30",
-      "pubDate": "Sun, 21 Jun 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: assistência holandesa, triunfo no Sub-20 e nova pendência",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534861/ultimas-do-corinthians-assistencia-holandesa-triunfo-no-sub-20-e-nova-pendencia",
-      "time": "21/06 · 10:30",
-      "pubDate": "Sun, 21 Jun 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians diverte crianças com visita a barbearia infantil em Curitiba",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534828/atacante-do-corinthians-diverte-criancas-com-visita-a-barbearia-infantil-em-curitiba",
-      "time": "21/06 · 01:00",
-      "pubDate": "Sat, 20 Jun 2026 22:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dez jogadores do Corinthians atingiram 2000 minutos em campo no primeiro semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534803/dez-jogadores-do-corinthians-atingiram-2000-minutos-em-campo-no-primeiro-semestre-confira-lista",
-      "time": "21/06 · 00:02",
-      "pubDate": "Sat, 20 Jun 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians presenteia prefeito de Nova York após fala sobre Sócrates",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534855/idolo-do-corinthians-presenteia-prefeito-de-nova-york-apos-fala-sobre-socrates",
-      "time": "20/06 · 23:31",
-      "pubDate": "Sat, 20 Jun 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta evitar pior sequência na LNF desde 2023 diante do Campo Mourão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534809/corinthians-tenta-evitar-pior-sequencia-na-lnf-desde-2023-diante-do-campo-mourao",
-      "time": "20/06 · 23:04",
-      "pubDate": "Sat, 20 Jun 2026 20:04:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/talles-magno-enaltece-a-torcida-do-corinthians-ao-relembrar-passagem-pelo-clube-e-surreal]]>",
       "time": "18/06 · 04:42",
       "pubDate": "Thu, 18 Jun 2026 01:42:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Copa do Mundo: Luis Díaz no Corinthians quase foi realidade, revela Elias",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/copa-do-mundo-luis-diaz-no-corinthians-quase-foi-realidade-revela-elias]]>",
-      "time": "18/06 · 03:41",
-      "pubDate": "Thu, 18 Jun 2026 00:41:16 -0300"
     },
     {
       "source": "Gazeta Esportiva",
