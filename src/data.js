@@ -1,70 +1,78 @@
-// Gerado automaticamente em 21/06/2026, 22:56:20
+// Gerado automaticamente em 22/06/2026, 13:24:18
 const LIVE_DATA = {
-  "updatedAt": "2026-06-21T22:56:20.652Z",
+  "updatedAt": "2026-06-22T13:24:18.067Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante e atacante do Corinthians registram números de destaque em duelos individuais no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534678/volante-e-atacante-do-corinthians-registram-numeros-de-destaque-em-duelos-individuais-no-ano",
-      "time": "21/06 · 22:04",
-      "pubDate": "Sun, 21 Jun 2026 19:04:00 -0300"
+      "title": "Corinthians domina o Cruzeiro e larga com vitória na edição de 2026 da LDB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534890/corinthians-domina-o-cruzeiro-e-larga-com-vitoria-na-edicao-de-2026-da-ldb",
+      "time": "22/06 · 12:28",
+      "pubDate": "Mon, 22 Jun 2026 09:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians repete feito no Sub-20 que não acontecia desde o título da Copinha; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534845/corinthians-repete-feito-no-sub-20-que-nao-acontecia-desde-o-titulo-da-copinha-saiba-qual",
-      "time": "21/06 · 21:06",
-      "pubDate": "Sun, 21 Jun 2026 18:06:00 -0300"
+      "title": "[Daniel Keppler] A inesperada herança que a Assembleia Geral suspensa pode deixar ao Corinthians",
+      "url": "https://www.meutimao.com.br/coluna/daniel_keppler/4239/a-inesperada-heranca-que-a-assembleia-geral-suspensa-pode-deixar-ao-corinthians/",
+      "time": "22/06 · 12:00",
+      "pubDate": "Mon, 22 Jun 2026 09:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogador do Corinthians é elogiado pelo rei da Holanda após vitória na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534875/jogador-do-corinthians-e-elogiado-pelo-rei-da-holanda-apos-vitoria-na-copa-do-mundo",
-      "time": "21/06 · 20:04",
-      "pubDate": "Sun, 21 Jun 2026 17:04:00 -0300"
+      "title": "Memphis entra em lista de jogadores do Corinthians que deram assistência em uma Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534857/memphis-entra-em-lista-de-jogadores-do-corinthians-que-deram-assistencia-em-uma-copa-do-mundo",
+      "time": "22/06 · 11:30",
+      "pubDate": "Mon, 22 Jun 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians terá confronto direto por vaga no mata-mata do Basileirão Sub-20; veja tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534869/corinthians-tera-confronto-direto-por-vaga-no-mata-mata-do-basileirao-sub-20-veja-tabela",
-      "time": "21/06 · 18:03",
-      "pubDate": "Sun, 21 Jun 2026 15:03:00 -0300"
+      "title": "Últimas do Corinthians: um mês de transfer ban, elogio de rei e derrota no futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534880/ultimas-do-corinthians-um-mes-de-transfer-ban-elogio-de-rei-e-derrota-no-futsal",
+      "time": "22/06 · 10:30",
+      "pubDate": "Mon, 22 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja os jogadores mais criticados do Corinthians no 1º semestre de 2026",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-jogadores-mais-criticados-do-corinthians-no-1o-semestre-de-2026/",
+      "time": "22/06 · 09:00",
+      "pubDate": "Mon, 22 Jun 2026 09:00:26 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-fixo do Corinthians relembra passagem pelo clube e destaca impacto da Fiel em sua família",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534827/ex-fixo-do-corinthians-relembra-passagem-pelo-clube-e-destaca-impacto-da-fiel-em-sua-familia",
-      "time": "21/06 · 17:01",
-      "pubDate": "Sun, 21 Jun 2026 14:01:00 -0300"
+      "title": "Vitória do Corinthians Sub-20 sobre o Cruzeiro movimenta ranking de artilharia do time; veja",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534848/vitoria-do-corinthians-sub-20-sobre-o-cruzeiro-movimenta-ranking-de-artilharia-do-time-veja",
+      "time": "22/06 · 01:00",
+      "pubDate": "Sun, 21 Jun 2026 22:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Sub-20 Corinthians Feminino alcança maior invencibilidade da história da categoria",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534818/sub-20-corinthians-feminino-alcanca-maior-invencibilidade-da-historia-da-categoria",
-      "time": "21/06 · 16:01",
-      "pubDate": "Sun, 21 Jun 2026 13:01:00 -0300"
+      "title": "Lucidez e 'coração a mil' marcam bastidores do Corinthians na vitória sobre o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534881/lucidez-e-coracao-a-mil-marcam-bastidores-do-corinthians-na-vitoria-sobre-o-cruzeiro",
+      "time": "22/06 · 00:30",
+      "pubDate": "Sun, 21 Jun 2026 21:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é derrotado pelo Campo Mourão pela Liga Nacional de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534870/corinthians-e-derrotado-pelo-campo-mourao-pela-liga-nacional-de-futsal",
-      "time": "21/06 · 15:38",
-      "pubDate": "Sun, 21 Jun 2026 12:38:00 -0300"
+      "title": "Sub-17 feminino do Corinthians atinge invencibilidade histórica após vitória no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534859/sub-17-feminino-do-corinthians-atinge-invencibilidade-historica-apos-vitoria-no-brasileirao",
+      "time": "22/06 · 00:06",
+      "pubDate": "Sun, 21 Jun 2026 21:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Como você avalia o trabalho de Fernando Diniz no Corinthians? Vote na enquete do Meu Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534833/como-voce-avalia-o-trabalho-de-fernando-diniz-no-corinthians-vote-na-enquete-do-meu-timao",
-      "time": "21/06 · 15:03",
-      "pubDate": "Sun, 21 Jun 2026 12:03:00 -0300"
+      "title": "Zagueiro do Corinthians Sub-20 marca seu primeiro gol com a camisa alvinegra sobre o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534856/zagueiro-do-corinthians-sub-20-marca-seu-primeiro-gol-com-a-camisa-alvinegra-sobre-o-cruzeiro",
+      "time": "21/06 · 23:02",
+      "pubDate": "Sun, 21 Jun 2026 20:02:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -155,14 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 19 Jun 2026 09:21:47 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja os maiores públicos do Corinthians no primeiro semestre de 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-maiores-publicos-do-corinthians-no-primeiro-semestre-de-2026/",
-      "time": "19/06 · 10:00",
-      "pubDate": "Fri, 19 Jun 2026 10:00:00 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Ex-diretor do Corinthians revela que Memphis Depay foi 3ª opção buscada após Gabigol e Mario Balotelli",
@@ -192,16 +192,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Zagueiro do Corinthians Sub-20 marca seu primeiro gol com a camisa alvinegra sobre o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534856/zagueiro-do-corinthians-sub-20-marca-seu-primeiro-gol-com-a-camisa-alvinegra-sobre-o-cruzeiro",
+      "pubDate": "Sun, 21 Jun 2026 20:02:00 -0300",
+      "date": "21/06 · 23:02"
+    },
+    {
       "title": "Fiel aponta goleiro como maior baixa em caso de venda do Corinthians; veja o resultado da enquete",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534807/fiel-aponta-goleiro-como-maior-baixa-em-caso-de-venda-do-corinthians-veja-o-resultado-da-enquete",
       "pubDate": "Sat, 20 Jun 2026 18:03:00 -0300",
       "date": "20/06 · 21:03"
-    },
-    {
-      "title": "Atacante do Corinthians sai do banco e dá assistência em goleada da Holanda na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534834/atacante-do-corinthians-sai-do-banco-e-da-assistencia-em-goleada-da-holanda-na-copa-do-mundo",
-      "pubDate": "Sat, 20 Jun 2026 16:00:00 -0300",
-      "date": "20/06 · 19:00"
     }
   ]
 };
