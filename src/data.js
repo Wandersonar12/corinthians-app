@@ -1,7 +1,55 @@
-// Gerado automaticamente em 23/06/2026, 22:56:42
+// Gerado automaticamente em 24/06/2026, 10:38:26
 const LIVE_DATA = {
-  "updatedAt": "2026-06-23T22:56:42.165Z",
+  "updatedAt": "2026-06-24T10:38:26.097Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja as lesões que mais impactaram o Corinthians no primeiro semestre",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/lesoes-impactaram-corinthians-primeiro-semestre-2026/",
+      "time": "24/06 · 10:00",
+      "pubDate": "Wed, 24 Jun 2026 10:00:18 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Caso Nike: Vice-presidente do Corinthians vira réu após Justiça aceitar denúncia do MP",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/caso-nike-armando-mendonca-reu-corinthians/",
+      "time": "24/06 · 01:32",
+      "pubDate": "Wed, 24 Jun 2026 01:32:51 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Campeão brasileiro pelo Corinthians relembra quando Vicente Matheus barrou ida a rivais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534926/campeao-brasileiro-pelo-corinthians-relembra-quando-vicente-matheus-barrou-ida-a-rivais",
+      "time": "24/06 · 01:30",
+      "pubDate": "Tue, 23 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atletas da base são maioria entre os menos utilizados pelo Corinthians no primeiro semestre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534928/atletas-da-base-sao-maioria-entre-os-menos-utilizados-pelo-corinthians-no-primeiro-semestre",
+      "time": "24/06 · 00:33",
+      "pubDate": "Tue, 23 Jun 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vice-presidente do Corinthians se torna réu em investigação de materiais esportivos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534958/vice-presidente-do-corinthians-se-torna-reu-em-investigacao-de-materiais-esportivos",
+      "time": "24/06 · 00:29",
+      "pubDate": "Tue, 23 Jun 2026 21:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians está perto de quebrar recorde na carreira; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534924/zagueiro-do-corinthians-esta-perto-de-quebrar-recorde-na-carreira-entenda",
+      "time": "23/06 · 23:32",
+      "pubDate": "Tue, 23 Jun 2026 20:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,6 +67,14 @@ const LIVE_DATA = {
       "pubDate": "Tue, 23 Jun 2026 19:02:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians demonstra interesse no empréstimo de Gabriel Moscardo e o volante prioriza ficar na Europa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-interesse-moscardo]]>",
+      "time": "23/06 · 22:01",
+      "pubDate": "Tue, 23 Jun 2026 19:01:49 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians tem atletas estrangeiras e vindas da base entre as menos utilizadas no primeiro semestre",
@@ -33,38 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534936/marcelo-paz-elogia-presidente-do-corinthians-e-revela-desejo-em-renovar-contrato-com-o-clube",
       "time": "23/06 · 21:00",
       "pubDate": "Tue, 23 Jun 2026 18:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo contra o Tubarão pela LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534948/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-tubarao-pela-lnf",
-      "time": "23/06 · 20:33",
-      "pubDate": "Tue, 23 Jun 2026 17:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians pede adiamento de oitiva no MP sobre caso das empresas de segurança",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534940/presidente-do-corinthians-pede-adiamento-de-oitiva-no-mp-sobre-caso-das-empresas-de-seguranca",
-      "time": "23/06 · 20:20",
-      "pubDate": "Tue, 23 Jun 2026 17:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians supera Minas na prorrogação e mantém invencibilidade na LDB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534946/corinthians-supera-minas-na-prorrogacao-e-mantem-invencibilidade-na-ldb",
-      "time": "23/06 · 20:11",
-      "pubDate": "Tue, 23 Jun 2026 17:11:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians desfila em campo e goleia o Botafogo no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534931/corinthians-desfila-em-campo-e-goleia-o-botafogo-no-brasileiro-sub-17",
-      "time": "23/06 · 19:54",
-      "pubDate": "Tue, 23 Jun 2026 16:54:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -145,38 +169,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/cruzeiro-x-corinthians-veja-informacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-20/",
       "time": "19/06 · 23:00",
       "pubDate": "Fri, 19 Jun 2026 23:00:47 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians concretiza pagamento e encerra dívida com o Talleres por Garro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-concretiza-pagamento-e-encerra-divida-com-o-talleres-por-garro]]>",
-      "time": "19/06 · 22:16",
-      "pubDate": "Fri, 19 Jun 2026 19:16:09 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians quita dívida com o Talleres pela contratação de Garro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-quita-divida-com-o-talleres-pela-contratacao-de-garro/",
-      "time": "19/06 · 21:19",
-      "pubDate": "Fri, 19 Jun 2026 21:19:46 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Róger Guedes, ex-Corinthians, pode disputar a Copa de 2030 pelo Catar, revela Elias",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-ex-corinthians-pode-disputar-a-copa-de-2030-pelo-catar-revela-elias]]>",
-      "time": "19/06 · 20:28",
-      "pubDate": "Fri, 19 Jun 2026 17:28:41 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Stabile faz reflexão sobre déficit do Corinthians e reforça confiança na diretoria",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/stabile-faz-reflexao-sobre-deficit-do-corinthians-e-reforca-confianca-na-diretoria/",
-      "time": "19/06 · 20:10",
-      "pubDate": "Fri, 19 Jun 2026 20:10:36 +0000"
     }
   ],
   "upcoming": [],
@@ -194,18 +186,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534876/atacante-com-passagem-pela-selecao-brasileira-sub-17-marca-primeiro-gol-pelo-corinthians",
       "pubDate": "Mon, 22 Jun 2026 22:30:00 -0300",
       "date": "23/06 · 01:30"
-    },
-    {
-      "title": "Goleiro ídolo do Corinthians e do penta da Seleção Brasileira revela torcida pelo Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534864/goleiro-idolo-do-corinthians-e-do-penta-da-selecao-brasileira-revela-torcida-pelo-timao",
-      "pubDate": "Mon, 22 Jun 2026 18:33:00 -0300",
-      "date": "22/06 · 21:33"
-    },
-    {
-      "title": "Dupla soma gols e movimenta artilharia do Corinthians na temporada do futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534873/dupla-soma-gols-e-movimenta-artilharia-do-corinthians-na-temporada-do-futsal",
-      "pubDate": "Mon, 22 Jun 2026 17:28:00 -0300",
-      "date": "22/06 · 20:28"
     }
   ]
 };
