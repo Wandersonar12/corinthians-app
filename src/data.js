@@ -1,7 +1,39 @@
-// Gerado automaticamente em 25/06/2026, 10:31:31
+// Gerado automaticamente em 25/06/2026, 13:55:32
 const LIVE_DATA = {
-  "updatedAt": "2026-06-25T10:31:31.214Z",
+  "updatedAt": "2026-06-25T13:55:32.621Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diretora da Fifa enaltece torcida do Corinthians e cita impacto em evento da Copa do Mundo Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534984/diretora-da-fifa-enaltece-torcida-do-corinthians-e-cita-impacto-em-evento-da-copa-do-mundo-feminina",
+      "time": "25/06 · 13:33",
+      "pubDate": "Thu, 25 Jun 2026 10:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Elenco do Corinthians se reapresenta para sequência da temporada e atende torcedores no CT",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534995/elenco-do-corinthians-se-reapresenta-para-sequencia-da-temporada-e-atende-torcedores-no-ct",
+      "time": "25/06 · 12:44",
+      "pubDate": "Thu, 25 Jun 2026 09:44:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians entra em campo nesta quinta em busca da liderança em grupo da Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534975/atacante-do-corinthians-entra-em-campo-nesta-quinta-em-busca-da-lideranca-em-grupo-da-copa-do-mundo",
+      "time": "25/06 · 12:28",
+      "pubDate": "Thu, 25 Jun 2026 09:28:35 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Flamengo em busca de carimbar classificação no Brasileiro Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534974/corinthians-recebe-o-flamengo-em-busca-de-carimbar-classificacao-no-brasileiro-sub-20-saiba-tudo",
+      "time": "25/06 · 11:30",
+      "pubDate": "Thu, 25 Jun 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +41,22 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/534987/ultimas-do-corinthians-retorno-de-diniz-chance-de-dupla-e-encontro-de-torcedores",
       "time": "25/06 · 10:30",
       "pubDate": "Thu, 25 Jun 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians volta aos treinos nesta quinta após 25 dias de férias",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-volta-aos-treinos-nesta-quinta-apos-25-dias-de-ferias/",
+      "time": "25/06 · 07:00",
+      "pubDate": "Thu, 25 Jun 2026 07:00:33 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vozinha é oferecido ao Corinthians, mas não há negociação entre as partes no momento, diz jornalista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vozinha-e-oferecido-ao-corinthians-mas-nao-ha-negociacao-entre-as-partes-no-momento-diz-jornalista]]>",
+      "time": "25/06 · 05:19",
+      "pubDate": "Thu, 25 Jun 2026 02:19:38 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,44 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 24 Jun 2026 20:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Cantor britânico veste camisa retrô do Corinthians em loja especializada nos Estados Unidos; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534981/cantor-britanico-veste-camisa-retro-do-corinthians-em-loja-especializada-nos-estados-unidos-confira",
-      "time": "24/06 · 23:03",
-      "pubDate": "Wed, 24 Jun 2026 20:03:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians x Flamengo: veja onde assistir e informações do jogo pelo Brasileirão sub-20",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-flamengo-sub-20-onde-assistir/",
       "time": "24/06 · 23:00",
       "pubDate": "Wed, 24 Jun 2026 23:00:57 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta emplacar maior sequência de vitórias no Sub-20 após três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534943/corinthians-tenta-emplacar-maior-sequencia-de-vitorias-no-sub-20-apos-tres-anos",
-      "time": "24/06 · 22:34",
-      "pubDate": "Wed, 24 Jun 2026 19:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians projeta duelo contra o Flamengo e mira classificação no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534976/zagueiro-do-corinthians-projeta-duelo-contra-o-flamengo-e-mira-classificacao-no-brasileiro-sub-20",
-      "time": "24/06 · 22:02",
-      "pubDate": "Wed, 24 Jun 2026 19:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Leonardo Pantaleão explica como funcionaria uma intervenção judicial no Corinthians; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534965/leonardo-pantaleao-explica-como-funcionaria-uma-intervencao-judicial-no-corinthians-entenda",
-      "time": "24/06 · 21:30",
-      "pubDate": "Wed, 24 Jun 2026 18:30:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -161,14 +177,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-jogadores-que-mais-evoluiram-no-corinthians-no-primeiro-semestre/",
       "time": "21/06 · 09:00",
       "pubDate": "Sun, 21 Jun 2026 09:00:17 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians bate o Cruzeiro e vence a terceira seguida no Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-o-cruzeiro-e-vence-a-terceira-seguida-no-brasileiro-sub-20/",
-      "time": "20/06 · 20:02",
-      "pubDate": "Sat, 20 Jun 2026 20:02:11 +0000"
     }
   ],
   "upcoming": [],
