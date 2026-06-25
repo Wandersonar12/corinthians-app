@@ -1,30 +1,94 @@
-// Gerado automaticamente em 25/06/2026, 19:42:12
+// Gerado automaticamente em 25/06/2026, 23:05:06
 const LIVE_DATA = {
-  "updatedAt": "2026-06-25T19:42:12.437Z",
+  "updatedAt": "2026-06-25T23:05:06.258Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians atropela Basquete Cearense e segue com 100% de aproveitamento na LDB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535010/corinthians-atropela-basquete-cearense-e-segue-com-100-por-cento-de-aproveitamento-na-ldb",
-      "time": "25/06 · 18:55",
-      "pubDate": "Thu, 25 Jun 2026 15:55:00 -0300"
+      "title": "Escalação de ex-atacante do Corinthians provoca eliminação polêmica de clube amador",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535004/escalacao-de-ex-atacante-do-corinthians-provoca-eliminacao-polemica-de-clube-amador",
+      "time": "25/06 · 22:30",
+      "pubDate": "Thu, 25 Jun 2026 19:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lingard não participa de reapresentação de elenco do Corinthians no CT; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535008/lingard-nao-participa-de-reapresentacao-de-elenco-do-corinthians-no-ct-entenda",
-      "time": "25/06 · 18:50",
-      "pubDate": "Thu, 25 Jun 2026 15:50:00 -0300"
+      "title": "Zagueiro emprestado pelo Corinthians ganha primeiros minutos na Copa em vitória sobre a Alemanha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535033/zagueiro-emprestado-pelo-corinthians-ganha-primeiros-minutos-na-copa-em-vitoria-sobre-a-alemanha",
+      "time": "25/06 · 22:11",
+      "pubDate": "Thu, 25 Jun 2026 19:11:44 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians atrasa pagamento de ajuda de custo para atletas das categorias de base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535006/corinthians-atrasa-pagamento-de-ajuda-de-custo-para-atletas-das-categorias-de-base",
-      "time": "25/06 · 18:30",
-      "pubDate": "Thu, 25 Jun 2026 15:30:19 -0300"
+      "title": "Memphis Depay destaca adaptação ao Brasil e revela desafios no Corinthians antes da Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534997/memphis-depay-destaca-adaptacao-ao-brasil-e-revela-desafios-no-corinthians-antes-da-copa",
+      "time": "25/06 · 21:34",
+      "pubDate": "Thu, 25 Jun 2026 18:34:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos da reapresentação do Corinthians nesta quinta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-da-reapresentacao-do-corinthians-nesta-quinta-feira-2/",
+      "time": "25/06 · 21:27",
+      "pubDate": "Thu, 25 Jun 2026 21:27:30 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com desfalques, Corinthians se reapresenta e abre intertemporada durante a Copa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-desfalques-corinthians-se-reapresenta-e-abre-intertemporada-durante-a-copa/",
+      "time": "25/06 · 21:22",
+      "pubDate": "Thu, 25 Jun 2026 21:22:11 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians valoriza retorno aos treinos e projeta segundo semestre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535028/volante-do-corinthians-valoriza-retorno-aos-treinos-e-projeta-segundo-semestre",
+      "time": "25/06 · 21:21",
+      "pubDate": "Thu, 25 Jun 2026 18:21:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Veja como foi o primeiro treino do Corinthians de olho no segundo semestre da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535026/veja-como-foi-o-primeiro-treino-do-corinthians-de-olho-no-segundo-semestre-da-temporada",
+      "time": "25/06 · 21:06",
+      "pubDate": "Thu, 25 Jun 2026 18:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se solidariza após mortes e destruição causadas por terremotos na Venezuela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535025/corinthians-se-solidariza-apos-mortes-e-destruicao-causadas-por-terremotos-na-venezuela",
+      "time": "25/06 · 21:02",
+      "pubDate": "Thu, 25 Jun 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Comissão técnica e dirigentes acompanham jogo do Corinthians Sub-20 na Fazendinha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535021/comissao-tecnica-e-dirigentes-acompanham-jogo-do-corinthians-sub-20-na-fazendinha",
+      "time": "25/06 · 21:01",
+      "pubDate": "Thu, 25 Jun 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians é convocado para período de treinos Seleção Brasileira Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535024/zagueiro-do-corinthians-e-convocado-para-periodo-de-treinos-selecao-brasileira-sub-17",
+      "time": "25/06 · 20:56",
+      "pubDate": "Thu, 25 Jun 2026 17:56:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians busca empate no fim contra o Flamengo no Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-busca-empate-no-fim-contra-o-flamengo-no-brasileiro-sub-20/",
+      "time": "25/06 · 19:56",
+      "pubDate": "Thu, 25 Jun 2026 19:56:25 +0000"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 25 Jun 2026 18:11:22 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians confirma amistoso com time paranaense antes de retorno ao Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535005/corinthians-confirma-amistoso-com-time-paranaense-antes-de-retorno-ao-brasileirao",
-      "time": "25/06 · 18:07",
-      "pubDate": "Thu, 25 Jun 2026 15:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Sub-13 do Corinthians recebe enxovais de viagem de 2026/27 para disputa de torneio internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534991/sub-13-do-corinthians-recebe-enxovais-de-viagem-de-202627-para-disputa-de-torneio-internacional",
-      "time": "25/06 · 17:31",
-      "pubDate": "Thu, 25 Jun 2026 14:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz e Marcelo Paz comandam preleção na reapresentação do Corinthians no CT",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535000/fernando-diniz-e-marcelo-paz-comandam-prelecao-na-reapresentacao-do-corinthians-no-ct",
-      "time": "25/06 · 16:32",
-      "pubDate": "Thu, 25 Jun 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians acerta salários do elenco e mantém atraso nos direitos de imagem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534999/corinthians-acerta-salarios-do-elenco-e-mantem-atraso-nos-direitos-de-imagem",
-      "time": "25/06 · 15:23",
-      "pubDate": "Thu, 25 Jun 2026 12:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Veja o que o Corinthians precisa para se classificar ao mata-mata do Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534977/veja-o-que-o-corinthians-precisa-para-se-classificar-ao-mata-mata-do-brasileiro-sub-20",
-      "time": "25/06 · 14:36",
-      "pubDate": "Thu, 25 Jun 2026 11:36:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay, do Corinthians, será novamente reserva com Ronald Koeman na Holanda pela Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-do-corinthians-sera-novamente-reserva-com-ronald-koeman-na-holanda-pela-copa-do-mundo]]>",
+      "time": "25/06 · 17:47",
+      "pubDate": "Thu, 25 Jun 2026 14:47:08 -0300"
     },
     {
       "source": "Bolavip",
@@ -123,28 +155,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 24 Jun 2026 10:00:18 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Caso Nike: Vice-presidente do Corinthians vira réu após Justiça aceitar denúncia do MP",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/caso-nike-armando-mendonca-reu-corinthians/",
-      "time": "24/06 · 01:32",
-      "pubDate": "Wed, 24 Jun 2026 01:32:51 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians demonstra interesse no empréstimo de Gabriel Moscardo e o volante prioriza ficar na Europa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-interesse-moscardo]]>",
       "time": "23/06 · 22:01",
       "pubDate": "Tue, 23 Jun 2026 19:01:49 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja o desempenho dos principais jogadores emprestados pelo Corinthians em 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-o-desempenho-dos-principais-jogadores-emprestados-pelo-corinthians-em-2026/",
-      "time": "23/06 · 10:00",
-      "pubDate": "Tue, 23 Jun 2026 10:00:46 +0000"
     },
     {
       "source": "Bolavip",
@@ -169,14 +185,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-90-de-breno-bidon-por-r-150-milhoes-e-espera-propostas-pos-copa-do-mundo]]>",
       "time": "22/06 · 14:25",
       "pubDate": "Mon, 22 Jun 2026 11:25:57 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja os jogadores mais criticados do Corinthians no 1º semestre de 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-os-jogadores-mais-criticados-do-corinthians-no-1o-semestre-de-2026/",
-      "time": "22/06 · 09:00",
-      "pubDate": "Mon, 22 Jun 2026 09:00:26 +0000"
     }
   ],
   "upcoming": [],
@@ -188,12 +196,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128379/reapresentacao-do-elenco-do-corinthians-para-a-temporada-pos-copa",
       "pubDate": "Thu, 25 Jun 2026 10:52:05 -0300",
       "date": "25/06 · 13:52"
-    },
-    {
-      "title": "Lateral do Corinthians exalta goleada e mantém confiança na briga pelo Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534957/lateral-do-corinthians-exalta-goleada-e-mantem-confianca-na-briga-pelo-brasileiro-sub-17",
-      "pubDate": "Wed, 24 Jun 2026 16:32:00 -0300",
-      "date": "24/06 · 19:32"
     }
   ]
 };
