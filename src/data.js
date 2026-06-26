@@ -1,7 +1,63 @@
-// Gerado automaticamente em 26/06/2026, 13:53:44
+// Gerado automaticamente em 26/06/2026, 19:25:14
 const LIVE_DATA = {
-  "updatedAt": "2026-06-26T13:53:44.719Z",
+  "updatedAt": "2026-06-26T19:25:14.830Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lingard retorna ao CT do Corinthians após problema logístico na reapresentação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535061/lingard-retorna-ao-ct-do-corinthians-apos-problema-logistico-na-reapresentacao",
+      "time": "26/06 · 18:30",
+      "pubDate": "Fri, 26 Jun 2026 15:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadores do Corinthians passam por bateria de exames médicos no CT Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535060/jogadores-do-corinthians-passam-por-bateria-de-exames-medicos-no-ct-joaquim-grava",
+      "time": "26/06 · 18:20",
+      "pubDate": "Fri, 26 Jun 2026 15:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians passeia diante do Brasília e segue com campanha perfeita na LDB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535058/corinthians-passeia-diante-do-brasilia-e-segue-com-campanha-perfeita-na-ldb",
+      "time": "26/06 · 17:35",
+      "pubDate": "Fri, 26 Jun 2026 14:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "MTST cancela evento na sede social do Corinthians que contaria com presença de Lula",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535057/mtst-cancela-evento-na-sede-social-do-corinthians-que-contaria-com-presenca-de-lula",
+      "time": "26/06 · 16:27",
+      "pubDate": "Fri, 26 Jun 2026 13:27:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians conquista feito histórico em Copas do Mundo; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535040/atacante-do-corinthians-conquista-feito-historico-em-copas-do-mundo-saiba-qual",
+      "time": "26/06 · 15:31",
+      "pubDate": "Fri, 26 Jun 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para duelo diante do Wimpro/Guarulhos pelo Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535055/corinthians-inicia-venda-de-ingressos-para-duelo-diante-do-wimproguarulhos-pelo-paulista-de-futsal",
+      "time": "26/06 · 14:25",
+      "pubDate": "Fri, 26 Jun 2026 11:25:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida do Corinthians repercute entrada de Félix Torres em Equador x Alemanha: “Faria muito sucesso”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-repercute-entrada-de-felix-torres-em-equador-x-alemanha-faria-muito-sucesso]]>",
+      "time": "26/06 · 13:41",
+      "pubDate": "Fri, 26 Jun 2026 10:41:49 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,54 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535048/corinthians-divulga-nota-de-repudio-apos-ameaca-com-bomba-a-familia-do-presidente-do-ceara",
       "time": "26/06 · 12:20",
       "pubDate": "Fri, 26 Jun 2026 09:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Retorno a Cascavel: relembre o último amistoso disputado pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535015/retorno-a-cascavel-relembre-o-ultimo-amistoso-disputado-pelo-corinthians",
-      "time": "26/06 · 11:30",
-      "pubDate": "Fri, 26 Jun 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: atraso em voo, pagamento parcial e amistoso confirmado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535039/ultimas-do-corinthians-atraso-em-voo-pagamento-parcial-e-amistoso-confirmado",
-      "time": "26/06 · 10:30",
-      "pubDate": "Fri, 26 Jun 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla movimenta artilharia do Corinthians na temporada do Sub-20 após empate no Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535018/dupla-movimenta-artilharia-do-corinthians-na-temporada-do-sub-20-apos-empate-no-brasileiro",
-      "time": "26/06 · 01:31",
-      "pubDate": "Thu, 25 Jun 2026 22:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians ganha minutos em vitória da Holanda na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535014/atacante-do-corinthians-ganha-minutos-em-vitoria-da-holanda-na-copa-do-mundo",
-      "time": "26/06 · 00:54",
-      "pubDate": "Thu, 25 Jun 2026 21:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians Feminino chega a 12 jogos sem vencer o São Paulo pelo Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534982/corinthians-feminino-chega-a-12-jogos-sem-vencer-o-sao-paulo-pelo-sub-20",
-      "time": "26/06 · 00:32",
-      "pubDate": "Thu, 25 Jun 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabi Nunes publica vídeo com jaqueta do Corinthians em meio a negociações",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535030/gabi-nunes-publica-video-com-jaqueta-do-corinthians-em-meio-a-negociacoes",
-      "time": "26/06 · 00:03",
-      "pubDate": "Thu, 25 Jun 2026 21:03:00 -0300"
     },
     {
       "source": "Bolavip",
