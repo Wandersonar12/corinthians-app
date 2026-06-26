@@ -1,54 +1,70 @@
-// Gerado automaticamente em 26/06/2026, 19:25:14
+// Gerado automaticamente em 26/06/2026, 22:57:27
 const LIVE_DATA = {
-  "updatedAt": "2026-06-26T19:25:14.830Z",
+  "updatedAt": "2026-06-26T22:57:27.563Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lingard retorna ao CT do Corinthians após problema logístico na reapresentação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535061/lingard-retorna-ao-ct-do-corinthians-apos-problema-logistico-na-reapresentacao",
-      "time": "26/06 · 18:30",
-      "pubDate": "Fri, 26 Jun 2026 15:30:00 -0300"
+      "title": "Lateral da Holanda expõe bastidores e diz que Memphis leva o Corinthians ao vestiário da seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535053/lateral-da-holanda-expoe-bastidores-e-diz-que-memphis-leva-o-corinthians-ao-vestiario-da-selecao",
+      "time": "26/06 · 22:32",
+      "pubDate": "Fri, 26 Jun 2026 19:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogadores do Corinthians passam por bateria de exames médicos no CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535060/jogadores-do-corinthians-passam-por-bateria-de-exames-medicos-no-ct-joaquim-grava",
-      "time": "26/06 · 18:20",
-      "pubDate": "Fri, 26 Jun 2026 15:20:00 -0300"
+      "title": "Volante do Corinthians mobiliza apoio após terremoto na Venezuela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535075/volante-do-corinthians-mobiliza-apoio-apos-terremoto-na-venezuela",
+      "time": "26/06 · 22:04",
+      "pubDate": "Fri, 26 Jun 2026 19:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians passeia diante do Brasília e segue com campanha perfeita na LDB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535058/corinthians-passeia-diante-do-brasilia-e-segue-com-campanha-perfeita-na-ldb",
-      "time": "26/06 · 17:35",
-      "pubDate": "Fri, 26 Jun 2026 14:35:00 -0300"
+      "title": "Técnico do Corinthians valoriza disputa do Paulista Sub-17 e projeta duelo com o Terceiro Milênio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535072/tecnico-do-corinthians-valoriza-disputa-do-paulista-sub-17-e-projeta-duelo-com-o-terceiro-milenio",
+      "time": "26/06 · 22:03",
+      "pubDate": "Fri, 26 Jun 2026 19:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "MTST cancela evento na sede social do Corinthians que contaria com presença de Lula",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535057/mtst-cancela-evento-na-sede-social-do-corinthians-que-contaria-com-presenca-de-lula",
-      "time": "26/06 · 16:27",
-      "pubDate": "Fri, 26 Jun 2026 13:27:00 -0300"
+      "title": "Técnico do Corinthians analisa empate contra o Flamengo e brinca com lei do ex",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535049/tecnico-do-corinthians-analisa-empate-contra-o-flamengo-e-brinca-com-lei-do-ex",
+      "time": "26/06 · 21:31",
+      "pubDate": "Fri, 26 Jun 2026 18:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians conquista feito histórico em Copas do Mundo; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535040/atacante-do-corinthians-conquista-feito-historico-em-copas-do-mundo-saiba-qual",
-      "time": "26/06 · 15:31",
-      "pubDate": "Fri, 26 Jun 2026 12:31:00 -0300"
+      "title": "Sub-13 do Corinthians se classifica como líder de grupo em torneio internacional com goleadas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535069/sub-13-do-corinthians-se-classifica-como-lider-de-grupo-em-torneio-internacional-com-goleadas",
+      "time": "26/06 · 21:06",
+      "pubDate": "Fri, 26 Jun 2026 18:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo diante do Wimpro/Guarulhos pelo Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535055/corinthians-inicia-venda-de-ingressos-para-duelo-diante-do-wimproguarulhos-pelo-paulista-de-futsal",
-      "time": "26/06 · 14:25",
-      "pubDate": "Fri, 26 Jun 2026 11:25:00 -0300"
+      "title": "Tévez relembra passagem marcante pelo Corinthians e revela desejo de retornar como treinador",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535045/tevez-relembra-passagem-marcante-pelo-corinthians-e-revela-desejo-de-retornar-como-treinador",
+      "time": "26/06 · 20:33",
+      "pubDate": "Fri, 26 Jun 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Médico do Corinthians detalha exames de check-up do elenco em intertemporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535066/medico-do-corinthians-detalha-exames-de-check-up-do-elenco-em-intertemporada",
+      "time": "26/06 · 20:02",
+      "pubDate": "Fri, 26 Jun 2026 17:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Clube turco encaminha venda de ex-Corinthians ao futebol russo; saiba quanto o Timão pode receber",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535065/clube-turco-encaminha-venda-de-ex-corinthians-ao-futebol-russo-saiba-quanto-o-timao-pode-receber",
+      "time": "26/06 · 19:35",
+      "pubDate": "Fri, 26 Jun 2026 16:35:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,22 +73,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-repercute-entrada-de-felix-torres-em-equador-x-alemanha-faria-muito-sucesso]]>",
       "time": "26/06 · 13:41",
       "pubDate": "Fri, 26 Jun 2026 10:41:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Veja cenários para o Corinthians se garantir no mata-mata do Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535023/veja-cenarios-para-o-corinthians-se-garantir-no-mata-mata-do-brasileirao-sub-20",
-      "time": "26/06 · 13:31",
-      "pubDate": "Fri, 26 Jun 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga nota de repúdio após ameaça com bomba à família do presidente do Ceará",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535048/corinthians-divulga-nota-de-repudio-apos-ameaca-com-bomba-a-familia-do-presidente-do-ceara",
-      "time": "26/06 · 12:20",
-      "pubDate": "Fri, 26 Jun 2026 09:20:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -191,6 +191,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Sub-13 do Corinthians se classifica como líder de grupo em torneio internacional com goleadas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535069/sub-13-do-corinthians-se-classifica-como-lider-de-grupo-em-torneio-internacional-com-goleadas",
+      "pubDate": "Fri, 26 Jun 2026 18:06:00 -0300",
+      "date": "26/06 · 21:06"
+    },
     {
       "title": "Gabi Nunes publica vídeo com jaqueta do Corinthians em meio a negociações",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535030/gabi-nunes-publica-video-com-jaqueta-do-corinthians-em-meio-a-negociacoes",
