@@ -1,7 +1,63 @@
-// Gerado automaticamente em 26/06/2026, 22:57:27
+// Gerado automaticamente em 27/06/2026, 09:54:09
 const LIVE_DATA = {
-  "updatedAt": "2026-06-26T22:57:27.563Z",
+  "updatedAt": "2026-06-27T09:54:09.178Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra maior sequência de vitórias em dois anos após empate no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535019/corinthians-encerra-maior-sequencia-de-vitorias-em-dois-anos-apos-empate-no-brasileiro-sub-20",
+      "time": "27/06 · 01:30",
+      "pubDate": "Fri, 26 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Clássico entre Corinthians e Palmeiras pelo Sub-17 receberá teste de impedimento semiautomático",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535082/classico-entre-corinthians-e-palmeiras-pelo-sub-17-recebera-teste-de-impedimento-semiautomatico",
+      "time": "27/06 · 00:49",
+      "pubDate": "Fri, 26 Jun 2026 21:49:55 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians explica escolha pelo Brasil mesmo podendo defender Alemanha e Itália",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535056/lateral-do-corinthians-explica-escolha-pelo-brasil-mesmo-podendo-defender-alemanha-e-italia",
+      "time": "27/06 · 00:32",
+      "pubDate": "Fri, 26 Jun 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vira alvo de representação no MPF por possíveis irregularidades financeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535081/corinthians-vira-alvo-de-representacao-no-mpf-por-possiveis-irregularidades-financeiras",
+      "time": "26/06 · 23:34",
+      "pubDate": "Fri, 26 Jun 2026 20:34:46 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians relembra trabalho com Rayan e destaca participação em seu desenvolvimento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535051/tecnico-do-corinthians-relembra-trabalho-com-rayan-e-destaca-participacao-em-seu-desenvolvimento",
+      "time": "26/06 · 23:31",
+      "pubDate": "Fri, 26 Jun 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "CBF abre janela extraordinária antes de retorno do Brasileirão; Corinthians segue com transfer ban",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535080/cbf-abre-janela-extraordinaria-antes-de-retorno-do-brasileirao-corinthians-segue-com-transfer-ban",
+      "time": "26/06 · 23:02",
+      "pubDate": "Fri, 26 Jun 2026 20:02:14 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians realizam segundo treino após período de férias",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535079/jogadoras-do-corinthians-realizam-segundo-treino-apos-periodo-de-ferias",
+      "time": "26/06 · 22:57",
+      "pubDate": "Fri, 26 Jun 2026 19:57:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,62 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535053/lateral-da-holanda-expoe-bastidores-e-diz-que-memphis-leva-o-corinthians-ao-vestiario-da-selecao",
       "time": "26/06 · 22:32",
       "pubDate": "Fri, 26 Jun 2026 19:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians mobiliza apoio após terremoto na Venezuela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535075/volante-do-corinthians-mobiliza-apoio-apos-terremoto-na-venezuela",
-      "time": "26/06 · 22:04",
-      "pubDate": "Fri, 26 Jun 2026 19:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians valoriza disputa do Paulista Sub-17 e projeta duelo com o Terceiro Milênio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535072/tecnico-do-corinthians-valoriza-disputa-do-paulista-sub-17-e-projeta-duelo-com-o-terceiro-milenio",
-      "time": "26/06 · 22:03",
-      "pubDate": "Fri, 26 Jun 2026 19:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians analisa empate contra o Flamengo e brinca com lei do ex",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535049/tecnico-do-corinthians-analisa-empate-contra-o-flamengo-e-brinca-com-lei-do-ex",
-      "time": "26/06 · 21:31",
-      "pubDate": "Fri, 26 Jun 2026 18:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Sub-13 do Corinthians se classifica como líder de grupo em torneio internacional com goleadas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535069/sub-13-do-corinthians-se-classifica-como-lider-de-grupo-em-torneio-internacional-com-goleadas",
-      "time": "26/06 · 21:06",
-      "pubDate": "Fri, 26 Jun 2026 18:06:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Tévez relembra passagem marcante pelo Corinthians e revela desejo de retornar como treinador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535045/tevez-relembra-passagem-marcante-pelo-corinthians-e-revela-desejo-de-retornar-como-treinador",
-      "time": "26/06 · 20:33",
-      "pubDate": "Fri, 26 Jun 2026 17:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Médico do Corinthians detalha exames de check-up do elenco em intertemporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535066/medico-do-corinthians-detalha-exames-de-check-up-do-elenco-em-intertemporada",
-      "time": "26/06 · 20:02",
-      "pubDate": "Fri, 26 Jun 2026 17:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Clube turco encaminha venda de ex-Corinthians ao futebol russo; saiba quanto o Timão pode receber",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535065/clube-turco-encaminha-venda-de-ex-corinthians-ao-futebol-russo-saiba-quanto-o-timao-pode-receber",
-      "time": "26/06 · 19:35",
-      "pubDate": "Fri, 26 Jun 2026 16:35:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-nao-responde-corinthians-copa]]>",
       "time": "22/06 · 21:56",
       "pubDate": "Mon, 22 Jun 2026 18:56:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay alcança marca histórica e entra para seleto grupo do Corinthians em Copas do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-alcanca-marca-historica-e-entra-para-seleto-grupo-do-corinthians-em-copas-do-mundo]]>",
-      "time": "22/06 · 20:41",
-      "pubDate": "Mon, 22 Jun 2026 17:41:57 -0300"
     },
     {
       "source": "Gazeta Esportiva",
