@@ -1,7 +1,31 @@
-// Gerado automaticamente em 27/06/2026, 09:54:09
+// Gerado automaticamente em 27/06/2026, 13:02:11
 const LIVE_DATA = {
-  "updatedAt": "2026-06-27T09:54:09.178Z",
+  "updatedAt": "2026-06-27T13:02:11.066Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Tubarão buscando subir na tabela da LNF; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535062/corinthians-recebe-o-tubarao-buscando-subir-na-tabela-da-lnf-saiba-tudo",
+      "time": "27/06 · 12:30",
+      "pubDate": "Sat, 27 Jun 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Terceiro Milênio para se aproximar da liderança do Paulista Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535064/corinthians-visita-o-terceiro-milenio-para-se-aproximar-da-lideranca-do-paulista-sub-17-saiba-tudo",
+      "time": "27/06 · 11:30",
+      "pubDate": "Sat, 27 Jun 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: cria da base vendida, dinheiro da Fifa e inglês de volta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535083/ultimas-do-corinthians-cria-da-base-vendida-dinheiro-da-fifa-e-ingles-de-volta",
+      "time": "27/06 · 10:30",
+      "pubDate": "Sat, 27 Jun 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +33,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535019/corinthians-encerra-maior-sequencia-de-vitorias-em-dois-anos-apos-empate-no-brasileiro-sub-20",
       "time": "27/06 · 01:30",
       "pubDate": "Fri, 26 Jun 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dumfries revela elogios de Memphis Depay ao Corinthians durante a Copa do Mundo: “Conta histórias incríveis”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dumfries-revela-elogios-de-memphis-depay-ao-corinthians-durante-a-copa-do-mundo-conta-historias-incriveis]]>",
+      "time": "27/06 · 01:00",
+      "pubDate": "Fri, 26 Jun 2026 22:00:29 -0300"
     },
     {
       "source": "Meu Timao",
@@ -41,30 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535051/tecnico-do-corinthians-relembra-trabalho-com-rayan-e-destaca-participacao-em-seu-desenvolvimento",
       "time": "26/06 · 23:31",
       "pubDate": "Fri, 26 Jun 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "CBF abre janela extraordinária antes de retorno do Brasileirão; Corinthians segue com transfer ban",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535080/cbf-abre-janela-extraordinaria-antes-de-retorno-do-brasileirao-corinthians-segue-com-transfer-ban",
-      "time": "26/06 · 23:02",
-      "pubDate": "Fri, 26 Jun 2026 20:02:14 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians realizam segundo treino após período de férias",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535079/jogadoras-do-corinthians-realizam-segundo-treino-apos-periodo-de-ferias",
-      "time": "26/06 · 22:57",
-      "pubDate": "Fri, 26 Jun 2026 19:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral da Holanda expõe bastidores e diz que Memphis leva o Corinthians ao vestiário da seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535053/lateral-da-holanda-expoe-bastidores-e-diz-que-memphis-leva-o-corinthians-ao-vestiario-da-selecao",
-      "time": "26/06 · 22:32",
-      "pubDate": "Fri, 26 Jun 2026 19:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-interesse-moscardo]]>",
       "time": "23/06 · 22:01",
       "pubDate": "Tue, 23 Jun 2026 19:01:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay não responde oferta do Corinthians e deixa definição do futuro após a Copa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-nao-responde-corinthians-copa]]>",
-      "time": "22/06 · 21:56",
-      "pubDate": "Mon, 22 Jun 2026 18:56:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -188,12 +188,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535069/sub-13-do-corinthians-se-classifica-como-lider-de-grupo-em-torneio-internacional-com-goleadas",
       "pubDate": "Fri, 26 Jun 2026 18:06:00 -0300",
       "date": "26/06 · 21:06"
-    },
-    {
-      "title": "Gabi Nunes publica vídeo com jaqueta do Corinthians em meio a negociações",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535030/gabi-nunes-publica-video-com-jaqueta-do-corinthians-em-meio-a-negociacoes",
-      "pubDate": "Thu, 25 Jun 2026 21:03:00 -0300",
-      "date": "26/06 · 00:03"
     }
   ]
 };
