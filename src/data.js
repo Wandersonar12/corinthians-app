@@ -1,7 +1,47 @@
-// Gerado automaticamente em 27/06/2026, 18:58:48
+// Gerado automaticamente em 27/06/2026, 22:50:04
 const LIVE_DATA = {
-  "updatedAt": "2026-06-27T18:58:48.108Z",
+  "updatedAt": "2026-06-27T22:50:04.012Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde chance de repetir feito que não acontece há três anos na Fazendinha; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535020/corinthians-perde-chance-de-repetir-feito-que-nao-acontece-ha-tres-anos-na-fazendinha-saiba-qual",
+      "time": "27/06 · 22:31",
+      "pubDate": "Sat, 27 Jun 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas sessões de 'Os Fundadores' reúne Gaviões da Fiel e encerra temporada no Teatro Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535117/ultimas-sessoes-de-os-fundadores-reune-gavioes-da-fiel-e-encerra-temporada-no-teatro-corinthians",
+      "time": "27/06 · 21:32",
+      "pubDate": "Sat, 27 Jun 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra terceiro dia de intertemporada com foco em criação ofensiva e pressão pós-perda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535121/corinthians-encerra-terceiro-dia-de-intertemporada-com-foco-em-criacao-ofensiva-e-pressao-pos-perda",
+      "time": "27/06 · 20:33",
+      "pubDate": "Sat, 27 Jun 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians celebra novo patrocínio e destaca importância para os esportes terrestres",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535113/presidente-do-corinthians-celebra-novo-patrocinio-e-destaca-importancia-para-os-esportes-terrestres",
+      "time": "27/06 · 20:32",
+      "pubDate": "Sat, 27 Jun 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta evitar pior sequência na Liga Nacional de Futsal após 18 anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535076/corinthians-tenta-evitar-pior-sequencia-na-liga-nacional-de-futsal-apos-18-anos",
+      "time": "27/06 · 19:33",
+      "pubDate": "Sat, 27 Jun 2026 16:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,70 +67,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 27 Jun 2026 14:41:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fecha patrocínio com a Fatal Fans; modalidades receberão valores recordes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535070/corinthians-fecha-patrocinio-com-a-fatal-fans-modalidades-receberao-valores-recordes",
-      "time": "27/06 · 17:39",
-      "pubDate": "Sat, 27 Jun 2026 14:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fecha primeira semana da intertemporada com treino tático no CT",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535104/corinthians-encerra-semana-de-treinos-com-atividades-de-abordagem-contencao-e-mudanca-de-setor",
-      "time": "27/06 · 17:33",
-      "pubDate": "Sat, 27 Jun 2026 14:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians notifica FFU e Sports Media para prestar esclarecimentos após decisão de órgão federal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535101/corinthians-notifica-ffu-e-sports-media-para-prestar-esclarecimentos-apos-decisao-de-orgao-federal",
-      "time": "27/06 · 16:58",
-      "pubDate": "Sat, 27 Jun 2026 13:58:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians confirma renovação com joia da base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535103/corinthians-confirma-renovacao-com-joia-da-base",
-      "time": "27/06 · 16:49",
-      "pubDate": "Sat, 27 Jun 2026 13:49:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians anuncia renovação de contrato com Gui Amorim, promessa da base",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-anuncia-renovacao-de-contrato-com-gui-amorim-promessa-da-base/",
-      "time": "27/06 · 16:21",
-      "pubDate": "Sat, 27 Jun 2026 16:21:45 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca reação no fim e vence o Terceiro Milênio pelo Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535100/corinthians-busca-reacao-no-fim-e-vence-o-terceiro-milenio-pelo-paulistao-sub-17",
-      "time": "27/06 · 15:51",
-      "pubDate": "Sat, 27 Jun 2026 12:51:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Há 14 anos, Romarinho salvava o Corinthians em La Bombonera na final da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-14-anos-romarinho-salvava-o-corinthians-em-la-bombonera-na-final-da-libertadores/",
-      "time": "27/06 · 13:19",
-      "pubDate": "Sat, 27 Jun 2026 13:19:17 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atacante do Corinthians, Memphis nunca perdeu um jogo de Copa do Mundo com a Holanda",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atacante-do-corinthians-memphis-nunca-perdeu-um-jogo-de-copa-do-mundo-com-a-holanda/",
-      "time": "27/06 · 10:00",
-      "pubDate": "Sat, 27 Jun 2026 10:00:00 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Dumfries revela elogios de Memphis Depay ao Corinthians durante a Copa do Mundo: “Conta histórias incríveis”",
@@ -99,52 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 26 Jun 2026 22:00:29 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos dos jogadores do Corinthians nos exames desta sexta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-dos-jogadores-do-corinthians-nos-exames-desta-sexta-feira/",
-      "time": "26/06 · 19:29",
-      "pubDate": "Fri, 26 Jun 2026 19:29:38 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Jogadores do Corinthians passam por exames para início de intertemporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/jogadores-do-corinthians-passam-por-exames-para-inicio-de-intertemporada/",
-      "time": "26/06 · 19:24",
-      "pubDate": "Fri, 26 Jun 2026 19:24:53 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Torcida do Corinthians repercute entrada de Félix Torres em Equador x Alemanha: “Faria muito sucesso”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-repercute-entrada-de-felix-torres-em-equador-x-alemanha-faria-muito-sucesso]]>",
       "time": "26/06 · 13:41",
       "pubDate": "Fri, 26 Jun 2026 10:41:49 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja as revelações do Corinthians que se destacaram no primeiro semestre",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-as-revelacoes-do-corinthians-que-se-destacaram-no-primeiro-semestre/",
-      "time": "26/06 · 10:00",
-      "pubDate": "Fri, 26 Jun 2026 10:00:03 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians volta aos trabalhos e vai a campo no CT Dr. Joaquim Grava",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-volta-aos-trabalhos-e-vai-a-campo-no-ct-dr-joaquim-grava/",
-      "time": "26/06 · 01:11",
-      "pubDate": "Fri, 26 Jun 2026 01:11:52 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos da reapresentação do Corinthians nesta quinta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-da-reapresentacao-do-corinthians-nesta-quinta-feira-2/",
-      "time": "25/06 · 21:27",
-      "pubDate": "Thu, 25 Jun 2026 21:27:30 +0000"
     },
     {
       "source": "Bolavip",
@@ -177,6 +113,70 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-interesse-moscardo]]>",
       "time": "23/06 · 22:01",
       "pubDate": "Tue, 23 Jun 2026 19:01:49 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -188,12 +188,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535108/corinthians-goleia-donos-da-casa-e-avanca-a-semifinal-de-torneio-internacional-sub-13",
       "pubDate": "Sat, 27 Jun 2026 15:14:00 -0300",
       "date": "27/06 · 18:14"
-    },
-    {
-      "title": "Sub-13 do Corinthians se classifica como líder de grupo em torneio internacional com goleadas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535069/sub-13-do-corinthians-se-classifica-como-lider-de-grupo-em-torneio-internacional-com-goleadas",
-      "pubDate": "Fri, 26 Jun 2026 18:06:00 -0300",
-      "date": "26/06 · 21:06"
     }
   ]
 };
