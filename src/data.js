@@ -1,7 +1,31 @@
-// Gerado automaticamente em 28/06/2026, 10:18:04
+// Gerado automaticamente em 28/06/2026, 13:07:13
 const LIVE_DATA = {
-  "updatedAt": "2026-06-28T10:18:04.989Z",
+  "updatedAt": "2026-06-28T13:07:13.111Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Mixto para garantir liderança no Brasileirão Feminino Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535123/corinthians-visita-o-mixto-para-garantir-lideranca-no-brasileirao-feminino-sub-17-saiba-tudo",
+      "time": "28/06 · 12:32",
+      "pubDate": "Sun, 28 Jun 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Santos em busca de manter campanha 100% no Paulistão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535119/corinthians-visita-o-santos-em-busca-de-manter-campanha-100-por-cento-no-paulistao-sub-20-saiba-tudo",
+      "time": "28/06 · 11:30",
+      "pubDate": "Sun, 28 Jun 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novo patrocínio, renovação de joia da base e notificação contra a FFU",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535131/ultimas-do-corinthians-novo-patrocinio-renovacao-de-joia-da-base-e-notificacao-contra-a-ffu",
+      "time": "28/06 · 10:30",
+      "pubDate": "Sun, 28 Jun 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -21,8 +45,8 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians derrota Tubarão Futsal e volta a vencer na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535130/corinthians-derrota-tubarao-futsal-e-volta-a-vencer-na-lnf",
+      "title": "Corinthians vence o Tubarão Futsal e ganha fôlego na luta contra o rebaixamento da LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535130/corinthians-vence-o-tubarao-futsal-e-ganha-folego-na-luta-contra-o-rebaixamento-da-lnf",
       "time": "28/06 · 00:51",
       "pubDate": "Sat, 27 Jun 2026 21:51:00 -0300"
     },
@@ -51,22 +75,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 27 Jun 2026 20:35:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde chance de repetir feito que não acontece há três anos na Fazendinha; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535020/corinthians-perde-chance-de-repetir-feito-que-nao-acontece-ha-tres-anos-na-fazendinha-saiba-qual",
-      "time": "27/06 · 22:31",
-      "pubDate": "Sat, 27 Jun 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas sessões de 'Os Fundadores' reúne Gaviões da Fiel e encerra temporada no Teatro Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535117/ultimas-sessoes-de-os-fundadores-reune-gavioes-da-fiel-e-encerra-temporada-no-teatro-corinthians",
-      "time": "27/06 · 21:32",
-      "pubDate": "Sat, 27 Jun 2026 18:32:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians fecha patrocínio de até R$ 31 milhões com site de acompanhantes",
@@ -89,14 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-das-atividades-do-corinthians-neste-sabado/",
       "time": "27/06 · 21:11",
       "pubDate": "Sat, 27 Jun 2026 21:11:01 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra terceiro dia de intertemporada com foco em criação ofensiva e pressão pós-perda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535121/corinthians-encerra-terceiro-dia-de-intertemporada-com-foco-em-criacao-ofensiva-e-pressao-pos-perda",
-      "time": "27/06 · 20:33",
-      "pubDate": "Sat, 27 Jun 2026 17:33:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
