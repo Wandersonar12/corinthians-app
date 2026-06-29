@@ -1,70 +1,70 @@
-// Gerado automaticamente em 29/06/2026, 12:19:32
+// Gerado automaticamente em 29/06/2026, 19:28:58
 const LIVE_DATA = {
-  "updatedAt": "2026-06-29T12:19:32.729Z",
+  "updatedAt": "2026-06-29T19:28:58.054Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians busca classificação às oitavas da Copa do Mundo nesta segunda-feira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535153/atacante-do-corinthians-busca-classificacao-as-oitavas-da-copa-do-mundo-nesta-segunda-feira",
-      "time": "29/06 · 11:30",
-      "pubDate": "Mon, 29 Jun 2026 08:30:00 -0300"
+      "title": "Corinthians trabalha ajustes defensivos e ofensivos em início da segunda semana da intertemporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535181/corinthians-trabalha-ajustes-defensivos-e-ofensivos-em-inicio-da-segunda-semana-da-intertemporada",
+      "time": "29/06 · 19:13",
+      "pubDate": "Mon, 29 Jun 2026 16:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: explicações da SAFiel, atividade tática e título internacional na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535165/ultimas-do-corinthians-explicacoes-da-safiel-atividade-tatica-e-titulo-internacional-na-base",
-      "time": "29/06 · 10:30",
-      "pubDate": "Mon, 29 Jun 2026 07:30:00 -0300"
+      "title": "Corinthians iguala maior sequência invicta do Sub-20 em dois anos após empate no Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535158/corinthians-iguala-maior-sequencia-invicta-do-sub-20-em-dois-anos-apos-empate-no-paulista",
+      "time": "29/06 · 18:35",
+      "pubDate": "Mon, 29 Jun 2026 15:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conclui primeira etapa da LDB 2026 com campanha perfeita e liderança isolada do grupo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535151/corinthians-conclui-primeira-etapa-da-ldb-2026-com-campanha-perfeita-e-lideranca-isolada-do-grupo",
-      "time": "29/06 · 01:00",
-      "pubDate": "Sun, 28 Jun 2026 22:00:00 -0300"
+      "title": "Lateral do Corinthians tem futuro indefinido em meio ao último mês de empréstimo no Criciúma",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535174/lateral-do-corinthians-tem-futuro-indefinido-em-meio-ao-ultimo-mes-de-emprestimo-no-criciuma",
+      "time": "29/06 · 17:34",
+      "pubDate": "Mon, 29 Jun 2026 14:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians conquista terceiro título pela Seleção Brasileira em menos de um ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535152/dupla-do-corinthians-conquista-terceiro-titulo-pela-selecao-brasileira-em-menos-de-um-ano",
-      "time": "29/06 · 00:03",
-      "pubDate": "Sun, 28 Jun 2026 21:03:00 -0300"
+      "title": "Base do Corinthians foi responsável por mais da metade dos gols da equipe na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535154/base-do-corinthians-foi-responsavel-por-mais-da-metade-dos-gols-da-equipe-na-temporada",
+      "time": "29/06 · 16:34",
+      "pubDate": "Mon, 29 Jun 2026 13:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians Sub-17 detalha como aplica o jogo funcional junto ao seu elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535149/tecnico-do-corinthians-sub-17-detalha-como-aplica-o-jogo-funcional-junto-ao-seu-elenco",
-      "time": "28/06 · 23:05",
-      "pubDate": "Sun, 28 Jun 2026 20:05:00 -0300"
+      "title": "Corinthians encerra quinto dia da intertemporada com volante reapresentado e novidade na comissão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535177/corinthians-encerra-quinto-dia-da-intertemporada-com-volante-reapresentado-e-novidade-na-comissao",
+      "time": "29/06 · 15:27",
+      "pubDate": "Mon, 29 Jun 2026 12:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Como era o Corinthians na última vez em que o Brasil conquistou a Copa do Mundo?",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535145/como-era-o-corinthians-na-ultima-vez-em-que-o-brasil-conquistou-a-copa-do-mundo",
-      "time": "28/06 · 22:03",
-      "pubDate": "Sun, 28 Jun 2026 19:03:00 -0300"
+      "title": "Corinthians anuncia preparador físico que trabalhou com Fernando Diniz no Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535176/corinthians-anuncia-preparador-fisico-que-trabalhou-com-fernando-diniz-no-vasco",
+      "time": "29/06 · 15:26",
+      "pubDate": "Mon, 29 Jun 2026 12:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians lança videoclipe como encerramento da peça sobre a história da fundação do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535159/corinthians-lanca-videoclipe-como-encerramento-da-peca-sobre-a-historia-da-fundacao-do-clube",
-      "time": "28/06 · 21:32",
-      "pubDate": "Sun, 28 Jun 2026 18:32:00 -0300"
+      "title": "Goleiro do Corinthians renova empréstimo nos Emirados Árabes e aguarda documentação para poder atuar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534284/goleiro-do-corinthians-renova-emprestimo-nos-emirados-arabes-e-aguarda-documentacao-para-poder-atuar",
+      "time": "29/06 · 14:28",
+      "pubDate": "Mon, 29 Jun 2026 11:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Vitória do Corinthians na LNF atualiza ranking de artilheiros do Timão no futsal; veja lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535133/vitoria-do-corinthians-na-lnf-atualiza-ranking-de-artilheiros-do-timao-no-futsal-veja-lista",
-      "time": "28/06 · 21:01",
-      "pubDate": "Sun, 28 Jun 2026 18:01:00 -0300"
+      "title": "Corinthians tem semana decisiva no Brasileirão, busca por lideranças do Estadual e disputa na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535169/corinthians-tem-semana-decisiva-no-brasileirao-busca-por-liderancas-do-estadual-e-disputa-na-lnf",
+      "time": "29/06 · 13:30",
+      "pubDate": "Mon, 29 Jun 2026 10:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -183,6 +183,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Base do Corinthians foi responsável por mais da metade dos gols da equipe na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535154/base-do-corinthians-foi-responsavel-por-mais-da-metade-dos-gols-da-equipe-na-temporada",
+      "pubDate": "Mon, 29 Jun 2026 13:34:00 -0300",
+      "date": "29/06 · 16:34"
+    },
+    {
+      "title": "Goleiro do Corinthians renova empréstimo nos Emirados Árabes e aguarda documentação para poder atuar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534284/goleiro-do-corinthians-renova-emprestimo-nos-emirados-arabes-e-aguarda-documentacao-para-poder-atuar",
+      "pubDate": "Mon, 29 Jun 2026 11:28:00 -0300",
+      "date": "29/06 · 14:28"
+    },
     {
       "title": "Corinthians lança videoclipe como encerramento da peça sobre a história da fundação do clube",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535159/corinthians-lanca-videoclipe-como-encerramento-da-peca-sobre-a-historia-da-fundacao-do-clube",
