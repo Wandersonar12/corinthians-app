@@ -1,7 +1,55 @@
-// Gerado automaticamente em 29/06/2026, 19:28:58
+// Gerado automaticamente em 29/06/2026, 22:44:23
 const LIVE_DATA = {
-  "updatedAt": "2026-06-29T19:28:58.054Z",
+  "updatedAt": "2026-06-29T22:44:23.673Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians destaca união do elenco e revela lacuna deixada com a saída de Deives",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535163/goleiro-do-corinthians-destaca-uniao-do-elenco-e-revela-lacuna-deixada-com-a-saida-de-deives",
+      "time": "29/06 · 22:29",
+      "pubDate": "Mon, 29 Jun 2026 19:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante revelado pelo Corinthians celebra chegada em novo clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535187/atacante-revelado-pelo-corinthians-celebra-chegada-em-novo-clube",
+      "time": "29/06 · 22:05",
+      "pubDate": "Mon, 29 Jun 2026 19:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Nova lesão de Lelê amplia sequência de problemas físicos desde retorno ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535172/nova-lesao-de-lele-amplia-sequencia-de-problemas-fisicos-desde-retorno-ao-corinthians",
+      "time": "29/06 · 21:33",
+      "pubDate": "Mon, 29 Jun 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians destaca fim do jejum na LNF e comenta pressão na luta contra o rebaixamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535161/ala-do-corinthians-destaca-fim-do-jejum-na-lnf-e-comenta-pressao-na-luta-contra-o-rebaixamento",
+      "time": "29/06 · 20:34",
+      "pubDate": "Mon, 29 Jun 2026 17:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Astro argentino renova contrato com adversário do Corinthians na Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535185/astro-argentino-renova-contrato-com-adversario-do-corinthians-na-copa-libertadores",
+      "time": "29/06 · 20:10",
+      "pubDate": "Mon, 29 Jun 2026 17:10:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians brinca com 'estrela' de Filho do Terrão que classificou a Seleção Brasileira na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535183/corinthians-brinca-com-estrela-de-filho-do-terrao-que-classificou-a-selecao-brasileira-na-copa",
+      "time": "29/06 · 19:34",
+      "pubDate": "Mon, 29 Jun 2026 16:34:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,52 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Mon, 29 Jun 2026 15:35:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians tem futuro indefinido em meio ao último mês de empréstimo no Criciúma",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535174/lateral-do-corinthians-tem-futuro-indefinido-em-meio-ao-ultimo-mes-de-emprestimo-no-criciuma",
-      "time": "29/06 · 17:34",
-      "pubDate": "Mon, 29 Jun 2026 14:34:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians acerta contratação de Marlon Muniz, ex-Vasco; preparador físico já trabalhou com Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-contratacao-de-marlon-muniz-ex-vasco-preparador-fisico-ja-trabalhou-com-diniz]]>",
+      "time": "29/06 · 16:55",
+      "pubDate": "Mon, 29 Jun 2026 13:55:34 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Base do Corinthians foi responsável por mais da metade dos gols da equipe na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535154/base-do-corinthians-foi-responsavel-por-mais-da-metade-dos-gols-da-equipe-na-temporada",
-      "time": "29/06 · 16:34",
-      "pubDate": "Mon, 29 Jun 2026 13:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra quinto dia da intertemporada com volante reapresentado e novidade na comissão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535177/corinthians-encerra-quinto-dia-da-intertemporada-com-volante-reapresentado-e-novidade-na-comissao",
-      "time": "29/06 · 15:27",
-      "pubDate": "Mon, 29 Jun 2026 12:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia preparador físico que trabalhou com Fernando Diniz no Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535176/corinthians-anuncia-preparador-fisico-que-trabalhou-com-fernando-diniz-no-vasco",
-      "time": "29/06 · 15:26",
-      "pubDate": "Mon, 29 Jun 2026 12:26:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians renova empréstimo nos Emirados Árabes e aguarda documentação para poder atuar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534284/goleiro-do-corinthians-renova-emprestimo-nos-emirados-arabes-e-aguarda-documentacao-para-poder-atuar",
-      "time": "29/06 · 14:28",
-      "pubDate": "Mon, 29 Jun 2026 11:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem semana decisiva no Brasileirão, busca por lideranças do Estadual e disputa na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535169/corinthians-tem-semana-decisiva-no-brasileirao-busca-por-liderancas-do-estadual-e-disputa-na-lnf",
-      "time": "29/06 · 13:30",
-      "pubDate": "Mon, 29 Jun 2026 10:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não trabalha com troca envolvendo Mantuan por Matheuzinho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-trabalha-com-troca-envolvendo-mantuan-por-matheuzinho]]>",
+      "time": "29/06 · 12:24",
+      "pubDate": "Mon, 29 Jun 2026 09:24:38 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,22 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/vozinha-e-oferecido-ao-corinthians-mas-nao-ha-negociacao-entre-as-partes-no-momento-diz-jornalista]]>",
       "time": "25/06 · 13:42",
       "pubDate": "Thu, 25 Jun 2026 10:42:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vai contratar novo reforço midiático apenas com negativa sobre renovação com Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vai-contratar-novo-reforco-midiatico-apenas-com-negativa-sobre-renovacao-com-memphis-depay]]>",
-      "time": "24/06 · 14:15",
-      "pubDate": "Wed, 24 Jun 2026 11:15:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians demonstra interesse no empréstimo de Gabriel Moscardo e o volante prioriza ficar na Europa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-interesse-moscardo]]>",
-      "time": "23/06 · 22:01",
-      "pubDate": "Tue, 23 Jun 2026 19:01:49 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -183,6 +183,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro do Corinthians destaca união do elenco e revela lacuna deixada com a saída de Deives",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535163/goleiro-do-corinthians-destaca-uniao-do-elenco-e-revela-lacuna-deixada-com-a-saida-de-deives",
+      "pubDate": "Mon, 29 Jun 2026 19:29:00 -0300",
+      "date": "29/06 · 22:29"
+    },
     {
       "title": "Base do Corinthians foi responsável por mais da metade dos gols da equipe na temporada",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535154/base-do-corinthians-foi-responsavel-por-mais-da-metade-dos-gols-da-equipe-na-temporada",
