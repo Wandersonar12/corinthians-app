@@ -1,70 +1,70 @@
-// Gerado automaticamente em 30/06/2026, 13:48:24
+// Gerado automaticamente em 30/06/2026, 19:27:23
 const LIVE_DATA = {
-  "updatedAt": "2026-06-30T13:48:24.494Z",
+  "updatedAt": "2026-06-30T19:27:23.677Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Wimpro para se aproximar da liderança no Paulista de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535178/corinthians-enfrenta-o-wimpro-guarulhos-para-se-aproximar-da-lideranca-no-paulista-de-futsal",
-      "time": "30/06 · 13:35",
-      "pubDate": "Tue, 30 Jun 2026 10:35:00 -0300"
+      "title": "Corinthians encerra sexto dia da intertemporda com atividades em dois períodos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535228/corinthians-encerra-sexto-dia-da-intertemporda-com-atividades-em-dois-periodos",
+      "time": "30/06 · 19:06",
+      "pubDate": "Tue, 30 Jun 2026 16:06:32 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians programa férias a Memphis após eliminação na Copa; prazo ainda será definido",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535204/corinthians-programa-ferias-a-memphis-apos-eliminacao-na-copa-prazo-ainda-sera-definido",
-      "time": "30/06 · 12:27",
-      "pubDate": "Tue, 30 Jun 2026 09:27:00 -0300"
+      "title": "Corinthians libera Jesse Lingard para acompanhar funeral do avô na Inglaterra",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535226/corinthians-libera-jesse-lingard-para-acompanhar-funeral-do-avo-na-inglaterra",
+      "time": "30/06 · 18:52",
+      "pubDate": "Tue, 30 Jun 2026 15:52:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Santos pelo segundo clássico no Brasileirão Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535180/corinthians-visita-o-santos-pelo-segundo-classico-no-brasileirao-sub-17",
-      "time": "30/06 · 11:30",
-      "pubDate": "Tue, 30 Jun 2026 08:30:00 -0300"
+      "title": "Você daria uma nova chance a Léo Mana no Corinthians? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535210/voce-daria-uma-nova-chance-a-leo-mana-no-corinthians-vote-na-enquete-do-meu-timao",
+      "time": "30/06 · 18:32",
+      "pubDate": "Tue, 30 Jun 2026 15:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: novo empréstimo, volante de volta e chegada de preparador físico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535196/ultimas-do-corinthians-novo-emprestimo-volante-de-volta-e-chegada-de-preparador-fisico",
-      "time": "30/06 · 10:30",
-      "pubDate": "Tue, 30 Jun 2026 07:30:00 -0300"
+      "title": "Corinthians busca voltar a emplacar sequência de vitórias no futsal após quase três meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535160/corinthians-busca-voltar-a-emplacar-sequencia-de-vitorias-no-futsal-apos-quase-tres-meses",
+      "time": "30/06 · 17:28",
+      "pubDate": "Tue, 30 Jun 2026 14:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians não sai do banco em eliminação da Holanda na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535197/atacante-do-corinthians-nao-sai-do-banco-em-eliminacao-da-holanda-na-copa-do-mundo",
-      "time": "30/06 · 03:58",
-      "pubDate": "Tue, 30 Jun 2026 00:58:00 -0300"
+      "title": "Quarteto do Corinthians é convocado pela Seleção para treinos visando à Copa do Mundo Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535219/quarteto-do-corinthians-e-convocado-pela-selecao-para-treinos-visando-a-copa-do-mundo-sub-17",
+      "time": "30/06 · 17:09",
+      "pubDate": "Tue, 30 Jun 2026 14:09:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fixo do Corinthians destaca vitória importante na LNF e projeta os próximos passos na competição",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535164/fixo-do-corinthians-destaca-vitoria-importante-na-lnf-e-projeta-os-proximos-passos-na-competicao",
-      "time": "30/06 · 01:30",
-      "pubDate": "Mon, 29 Jun 2026 22:30:00 -0300"
+      "title": "Torcida do Corinthians detona técnico da Holanda após deixar Memphis no banco em eliminação na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535206/torcida-do-corinthians-detona-tecnico-da-holanda-apos-deixar-memphis-no-banco-em-eliminacao-na-copa",
+      "time": "30/06 · 16:35",
+      "pubDate": "Tue, 30 Jun 2026 13:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians negocia atacante do time Sub-20 com clube da primeira divisão de Portugal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535179/corinthians-negocia-atacante-do-time-sub-20-com-clube-da-primeira-divisao-de-portugal",
-      "time": "30/06 · 00:30",
-      "pubDate": "Mon, 29 Jun 2026 21:30:00 -0300"
+      "title": "VÍDEO: Jogadores da Copa que serviriam para o Corinthians após a Copa",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128413/jogadores-da-copa-que-serviriam-para-o-corinthians-apos-a-copa",
+      "time": "30/06 · 16:22",
+      "pubDate": "Tue, 30 Jun 2026 13:22:51 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Conselheiros protocolam pedido de expulsão de neta de ex-presidente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535193/conselheiros-protocolam-pedido-de-expulsao-de-neta-de-ex-presidente-do-corinthians",
-      "time": "29/06 · 23:53",
-      "pubDate": "Mon, 29 Jun 2026 20:53:00 -0300"
+      "title": "Corinthians quita ajuda de custo da base e mantém pendência com elencos profissionais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535216/corinthians-quita-ajuda-de-custo-da-base-e-mantem-pendencia-com-elencos-profissionais",
+      "time": "30/06 · 15:57",
+      "pubDate": "Tue, 30 Jun 2026 12:57:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -176,6 +176,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Jogadores da Copa que serviriam para o Corinthians após a Copa",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128413/jogadores-da-copa-que-serviriam-para-o-corinthians-apos-a-copa",
+      "pubDate": "Tue, 30 Jun 2026 13:22:51 -0300",
+      "date": "30/06 · 16:22"
+    },
+    {
       "title": "Volante do Corinthians destaca bom momento antes de clássico contra o Santos pelo Brasileiro Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535192/volante-do-corinthians-destaca-bom-momento-antes-de-classico-contra-o-santos-pelo-brasileiro-sub-17",
       "pubDate": "Mon, 29 Jun 2026 20:03:00 -0300",
@@ -192,12 +198,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535154/base-do-corinthians-foi-responsavel-por-mais-da-metade-dos-gols-da-equipe-na-temporada",
       "pubDate": "Mon, 29 Jun 2026 13:34:00 -0300",
       "date": "29/06 · 16:34"
-    },
-    {
-      "title": "Goleiro do Corinthians renova empréstimo nos Emirados Árabes e aguarda documentação para poder atuar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/534284/goleiro-do-corinthians-renova-emprestimo-nos-emirados-arabes-e-aguarda-documentacao-para-poder-atuar",
-      "pubDate": "Mon, 29 Jun 2026 11:28:00 -0300",
-      "date": "29/06 · 14:28"
     }
   ]
 };
