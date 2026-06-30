@@ -1,70 +1,118 @@
-// Gerado automaticamente em 30/06/2026, 19:27:23
+// Gerado automaticamente em 30/06/2026, 23:00:55
 const LIVE_DATA = {
-  "updatedAt": "2026-06-30T19:27:23.677Z",
+  "updatedAt": "2026-06-30T23:00:55.994Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians exalta apoio da torcida alvinegra e comenta sobre Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535235/idolo-do-corinthians-exalta-apoio-da-torcida-alvinegra-e-comenta-sobre-selecao-brasileira",
+      "time": "30/06 · 22:32",
+      "pubDate": "Tue, 30 Jun 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians renova empréstimo de goleiro a clube árabe",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-emprestimo-matheus-donelli/",
+      "time": "30/06 · 22:13",
+      "pubDate": "Tue, 30 Jun 2026 22:13:39 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians aposta em maior série invicta como visitante para avançar no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535190/corinthians-aposta-em-maior-serie-invicta-como-visitante-para-avancar-no-brasileiro-sub-20",
+      "time": "30/06 · 22:04",
+      "pubDate": "Tue, 30 Jun 2026 19:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece data e horário da oitavas de final da Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535239/corinthians-conhece-data-e-horario-da-oitavas-de-final-da-copa-do-brasil-feminina",
+      "time": "30/06 · 21:57",
+      "pubDate": "Tue, 30 Jun 2026 18:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memorial do Corinthians exibe acervo histórico de atletas do clube em Copas pela Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535234/memorial-do-corinthians-exibe-acervo-historico-de-atletas-do-clube-em-copas-pela-selecao-brasileira",
+      "time": "30/06 · 21:33",
+      "pubDate": "Tue, 30 Jun 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde chance de faturar grana extra com eliminação da Holanda na Copa; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535205/corinthians-perde-chance-de-faturar-grana-extra-com-eliminacao-da-holanda-na-copa-entenda",
+      "time": "30/06 · 21:06",
+      "pubDate": "Tue, 30 Jun 2026 18:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians Sub-17 busca campanha perfeita inédita no Brasileirão Feminino da categoria",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535189/corinthians-sub-17-busca-campanha-perfeita-inedita-no-brasileirao-feminino-da-categoria",
+      "time": "30/06 · 20:02",
+      "pubDate": "Tue, 30 Jun 2026 17:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians joga quase toda a partida com um a menos e perde para o Santos no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535220/corinthians-joga-quase-toda-a-partida-com-um-a-menos-e-perde-para-o-santos-no-brasileiro-sub-17",
+      "time": "30/06 · 20:00",
+      "pubDate": "Tue, 30 Jun 2026 17:00:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians libera Lingard para funeral de avô e define data de volta",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-libera-jesse-lingard-funeral-avo-retorno/",
+      "time": "30/06 · 19:48",
+      "pubDate": "Tue, 30 Jun 2026 19:48:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians intensifica intertemporada e treina em dois períodos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intensifica-intertemporada-e-treina-em-dois-periodos/",
+      "time": "30/06 · 19:14",
+      "pubDate": "Tue, 30 Jun 2026 19:14:47 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians encerra sexto dia da intertemporda com atividades em dois períodos",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535228/corinthians-encerra-sexto-dia-da-intertemporda-com-atividades-em-dois-periodos",
       "time": "30/06 · 19:06",
-      "pubDate": "Tue, 30 Jun 2026 16:06:32 -0300"
+      "pubDate": "Tue, 30 Jun 2026 16:06:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians libera Jesse Lingard para acompanhar funeral do avô na Inglaterra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535226/corinthians-libera-jesse-lingard-para-acompanhar-funeral-do-avo-na-inglaterra",
-      "time": "30/06 · 18:52",
-      "pubDate": "Tue, 30 Jun 2026 15:52:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Confira as fotos do treino do Corinthians desta terça-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-do-treino-do-corinthians-desta-terca-feira-6/",
+      "time": "30/06 · 18:47",
+      "pubDate": "Tue, 30 Jun 2026 18:47:49 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Você daria uma nova chance a Léo Mana no Corinthians? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535210/voce-daria-uma-nova-chance-a-leo-mana-no-corinthians-vote-na-enquete-do-meu-timao",
-      "time": "30/06 · 18:32",
-      "pubDate": "Tue, 30 Jun 2026 15:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay recebe 10 dias de férias do Corinthians antes de reapresentação e provável renovação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-recebe-10-dias-de-ferias-do-corinthians-antes-de-reapresentacao-e-provavel-renovacao]]>",
+      "time": "30/06 · 17:26",
+      "pubDate": "Tue, 30 Jun 2026 14:26:21 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca voltar a emplacar sequência de vitórias no futsal após quase três meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535160/corinthians-busca-voltar-a-emplacar-sequencia-de-vitorias-no-futsal-apos-quase-tres-meses",
-      "time": "30/06 · 17:28",
-      "pubDate": "Tue, 30 Jun 2026 14:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quarteto do Corinthians é convocado pela Seleção para treinos visando à Copa do Mundo Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535219/quarteto-do-corinthians-e-convocado-pela-selecao-para-treinos-visando-a-copa-do-mundo-sub-17",
-      "time": "30/06 · 17:09",
-      "pubDate": "Tue, 30 Jun 2026 14:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcida do Corinthians detona técnico da Holanda após deixar Memphis no banco em eliminação na Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535206/torcida-do-corinthians-detona-tecnico-da-holanda-apos-deixar-memphis-no-banco-em-eliminacao-na-copa",
-      "time": "30/06 · 16:35",
-      "pubDate": "Tue, 30 Jun 2026 13:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Jogadores da Copa que serviriam para o Corinthians após a Copa",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128413/jogadores-da-copa-que-serviriam-para-o-corinthians-apos-a-copa",
-      "time": "30/06 · 16:22",
-      "pubDate": "Tue, 30 Jun 2026 13:22:51 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians quita ajuda de custo da base e mantém pendência com elencos profissionais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535216/corinthians-quita-ajuda-de-custo-da-base-e-mantem-pendencia-com-elencos-profissionais",
-      "time": "30/06 · 15:57",
-      "pubDate": "Tue, 30 Jun 2026 12:57:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Perto do 100º jogo, Carrillo se reapresenta em reta final de contrato com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/perto-do-100o-jogo-carrillo-se-reapresenta-em-reta-final-de-contrato-com-o-corinthians/",
+      "time": "30/06 · 10:00",
+      "pubDate": "Tue, 30 Jun 2026 10:00:16 +0000"
     },
     {
       "source": "Bolavip",
@@ -81,6 +129,30 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-contratacao-de-marlon-muniz-ex-vasco-preparador-fisico-ja-trabalhou-com-diniz]]>",
       "time": "29/06 · 16:55",
       "pubDate": "Mon, 29 Jun 2026 13:55:34 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com Carrillo, Corinthians faz treino focado em defesa em 5º dia de intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-carrillo-corinthians-faz-treino-focado-em-defesa/",
+      "time": "29/06 · 15:58",
+      "pubDate": "Mon, 29 Jun 2026 15:58:23 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians anuncia a contratação de novo preparador físico, ex-Vasco",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-anuncia-a-contratacao-de-novo-preparador-fisico-ex-vasco/",
+      "time": "29/06 · 15:55",
+      "pubDate": "Mon, 29 Jun 2026 15:55:35 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Elenco do Corinthians realiza exames cardiológicos no CT",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/elenco-do-corinthians-realiza-exames-cardiologicos-no-ct/",
+      "time": "29/06 · 15:07",
+      "pubDate": "Mon, 29 Jun 2026 15:07:24 +0000"
     },
     {
       "source": "Bolavip",
@@ -105,70 +177,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-repercute-entrada-de-felix-torres-em-equador-x-alemanha-faria-muito-sucesso]]>",
       "time": "26/06 · 13:41",
       "pubDate": "Fri, 26 Jun 2026 10:41:49 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -192,12 +200,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535163/goleiro-do-corinthians-destaca-uniao-do-elenco-e-revela-lacuna-deixada-com-a-saida-de-deives",
       "pubDate": "Mon, 29 Jun 2026 19:29:00 -0300",
       "date": "29/06 · 22:29"
-    },
-    {
-      "title": "Base do Corinthians foi responsável por mais da metade dos gols da equipe na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535154/base-do-corinthians-foi-responsavel-por-mais-da-metade-dos-gols-da-equipe-na-temporada",
-      "pubDate": "Mon, 29 Jun 2026 13:34:00 -0300",
-      "date": "29/06 · 16:34"
     }
   ]
 };
