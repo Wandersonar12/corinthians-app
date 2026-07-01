@@ -1,7 +1,79 @@
-// Gerado automaticamente em 30/06/2026, 23:00:55
+// Gerado automaticamente em 01/07/2026, 10:59:31
 const LIVE_DATA = {
-  "updatedAt": "2026-06-30T23:00:55.994Z",
+  "updatedAt": "2026-07-01T10:59:31.017Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: férias de Memphis, zagueiro afastado e liberação de meia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535246/ultimas-do-corinthians-ferias-de-memphis-zagueiro-afastado-e-liberacao-de-meia",
+      "time": "01/07 · 10:30",
+      "pubDate": "Wed, 01 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians terá mês de julho com amistoso e três jogos pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-mes-de-julho-com-amistoso-e-tres-jogos-pelo-brasileirao/",
+      "time": "01/07 · 10:00",
+      "pubDate": "Wed, 01 Jul 2026 10:00:22 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians anuncia atrações musicais e detalhes da quermesse no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535211/corinthians-anuncia-atracoes-musicais-e-detalhes-da-quermesse-no-parque-sao-jorge",
+      "time": "01/07 · 01:04",
+      "pubDate": "Tue, 30 Jun 2026 22:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Capitã do Corinthians critica CBF por horário de jogo do Corinthians na Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535244/capita-do-corinthians-critica-cbf-por-horario-de-jogo-do-corinthians-na-copa-do-brasil-feminina",
+      "time": "01/07 · 00:40",
+      "pubDate": "Tue, 30 Jun 2026 21:40:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians atropela Wimpro Guarulhos e encosta na liderança do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535231/corinthians-atropela-wimpro-guarulhos-e-encosta-na-lideranca-do-paulista-de-futsal",
+      "time": "01/07 · 00:22",
+      "pubDate": "Tue, 30 Jun 2026 21:22:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Eliminação precoce da Holanda amplia tabu do Corinthians na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535209/eliminacao-precoce-da-holanda-amplia-tabu-do-corinthians-na-copa-do-mundo",
+      "time": "01/07 · 00:05",
+      "pubDate": "Tue, 30 Jun 2026 21:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians intensifica trabalhos com foco em transições no quinto dia de intertemporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535241/corinthians-intensifica-trabalhos-com-foco-em-transicoes-no-quinto-dia-de-intertemporada",
+      "time": "30/06 · 23:21",
+      "pubDate": "Tue, 30 Jun 2026 20:21:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Neo Química Arena informa mudança de funcionamento devido à festa de organizada do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535232/neo-quimica-arena-informa-mudanca-de-funcionamento-devido-a-festa-de-organizada-do-corinthians",
+      "time": "30/06 · 23:01",
+      "pubDate": "Tue, 30 Jun 2026 20:01:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Juventude x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-onde-assistir-escalacoes-brasileiro-sub-20/",
+      "time": "30/06 · 23:00",
+      "pubDate": "Tue, 30 Jun 2026 23:00:05 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +83,20 @@ const LIVE_DATA = {
       "pubDate": "Tue, 30 Jun 2026 19:32:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Eliminação da Holanda e ausência de Memphis Depay movimentam torcida do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/eliminacao-da-holanda-e-ausencia-de-memphis-depay-movimentam-torcida-do-corinthians]]>",
+      "time": "30/06 · 22:14",
+      "pubDate": "Tue, 30 Jun 2026 19:14:51 -0300"
+    },
+    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians renova empréstimo de goleiro a clube árabe",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-emprestimo-matheus-donelli/",
       "time": "30/06 · 22:13",
       "pubDate": "Tue, 30 Jun 2026 22:13:39 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aposta em maior série invicta como visitante para avançar no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535190/corinthians-aposta-em-maior-serie-invicta-como-visitante-para-avancar-no-brasileiro-sub-20",
-      "time": "30/06 · 22:04",
-      "pubDate": "Tue, 30 Jun 2026 19:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece data e horário da oitavas de final da Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535239/corinthians-conhece-data-e-horario-da-oitavas-de-final-da-copa-do-brasil-feminina",
-      "time": "30/06 · 21:57",
-      "pubDate": "Tue, 30 Jun 2026 18:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memorial do Corinthians exibe acervo histórico de atletas do clube em Copas pela Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535234/memorial-do-corinthians-exibe-acervo-historico-de-atletas-do-clube-em-copas-pela-selecao-brasileira",
-      "time": "30/06 · 21:33",
-      "pubDate": "Tue, 30 Jun 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde chance de faturar grana extra com eliminação da Holanda na Copa; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535205/corinthians-perde-chance-de-faturar-grana-extra-com-eliminacao-da-holanda-na-copa-entenda",
-      "time": "30/06 · 21:06",
-      "pubDate": "Tue, 30 Jun 2026 18:06:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians Sub-17 busca campanha perfeita inédita no Brasileirão Feminino da categoria",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535189/corinthians-sub-17-busca-campanha-perfeita-inedita-no-brasileirao-feminino-da-categoria",
-      "time": "30/06 · 20:02",
-      "pubDate": "Tue, 30 Jun 2026 17:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians joga quase toda a partida com um a menos e perde para o Santos no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535220/corinthians-joga-quase-toda-a-partida-com-um-a-menos-e-perde-para-o-santos-no-brasileiro-sub-17",
-      "time": "30/06 · 20:00",
-      "pubDate": "Tue, 30 Jun 2026 17:00:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -81,14 +113,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intensifica-intertemporada-e-treina-em-dois-periodos/",
       "time": "30/06 · 19:14",
       "pubDate": "Tue, 30 Jun 2026 19:14:47 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra sexto dia da intertemporda com atividades em dois períodos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535228/corinthians-encerra-sexto-dia-da-intertemporda-com-atividades-em-dois-periodos",
-      "time": "30/06 · 19:06",
-      "pubDate": "Tue, 30 Jun 2026 16:06:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -139,22 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 29 Jun 2026 15:58:23 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians anuncia a contratação de novo preparador físico, ex-Vasco",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-anuncia-a-contratacao-de-novo-preparador-fisico-ex-vasco/",
-      "time": "29/06 · 15:55",
-      "pubDate": "Mon, 29 Jun 2026 15:55:35 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Elenco do Corinthians realiza exames cardiológicos no CT",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/elenco-do-corinthians-realiza-exames-cardiologicos-no-ct/",
-      "time": "29/06 · 15:07",
-      "pubDate": "Mon, 29 Jun 2026 15:07:24 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians não trabalha com troca envolvendo Mantuan por Matheuzinho",
@@ -188,18 +196,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128413/jogadores-da-copa-que-serviriam-para-o-corinthians-apos-a-copa",
       "pubDate": "Tue, 30 Jun 2026 13:22:51 -0300",
       "date": "30/06 · 16:22"
-    },
-    {
-      "title": "Volante do Corinthians destaca bom momento antes de clássico contra o Santos pelo Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535192/volante-do-corinthians-destaca-bom-momento-antes-de-classico-contra-o-santos-pelo-brasileiro-sub-17",
-      "pubDate": "Mon, 29 Jun 2026 20:03:00 -0300",
-      "date": "29/06 · 23:03"
-    },
-    {
-      "title": "Goleiro do Corinthians destaca união do elenco e revela lacuna deixada com a saída de Deives",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535163/goleiro-do-corinthians-destaca-uniao-do-elenco-e-revela-lacuna-deixada-com-a-saida-de-deives",
-      "pubDate": "Mon, 29 Jun 2026 19:29:00 -0300",
-      "date": "29/06 · 22:29"
     }
   ]
 };
