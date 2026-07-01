@@ -1,7 +1,79 @@
-// Gerado automaticamente em 01/07/2026, 19:26:24
+// Gerado automaticamente em 01/07/2026, 22:59:34
 const LIVE_DATA = {
-  "updatedAt": "2026-07-01T19:26:24.789Z",
+  "updatedAt": "2026-07-01T22:59:34.891Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians celebra gol marcado e destaca início avassalador em goleada no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535245/ala-do-corinthians-celebra-gol-marcado-e-destaca-inicio-avassalador-em-goleada-no-paulista-de-futsal",
+      "time": "01/07 · 22:36",
+      "pubDate": "Wed, 01 Jul 2026 19:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diretoria de futebol marca presença em goleada do Corinthians no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535282/diretoria-de-futebol-marca-presenca-em-goleada-do-corinthians-no-paulista-de-futsal",
+      "time": "01/07 · 22:33",
+      "pubDate": "Wed, 01 Jul 2026 19:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Corinthians inicia limpeza da área externa da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128430/corinthians-inicia-limpeza-da-area-externa-da-neo-quimica-arena",
+      "time": "01/07 · 21:58",
+      "pubDate": "Wed, 01 Jul 2026 18:58:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "SAFiel cria portal voltado a sanar dúvidas de associados do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535280/safiel-cria-portal-voltado-a-sanar-duvidas-de-associados-do-corinthians",
+      "time": "01/07 · 21:44",
+      "pubDate": "Wed, 01 Jul 2026 18:44:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "O Corinthians deve renovar com André Carrillo para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535262/o-corinthians-deve-renovar-com-andre-carrillo-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "01/07 · 21:33",
+      "pubDate": "Wed, 01 Jul 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encara o Palmeiras pelas quartas de final do Campeonato Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535277/corinthians-encara-o-palmeiras-pelas-quartas-de-final-do-campeonato-brasileiro-sub-20",
+      "time": "01/07 · 20:57",
+      "pubDate": "Wed, 01 Jul 2026 17:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a emendar sequência de vitórias no futsal após quase três meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535243/corinthians-volta-a-emendar-sequencia-de-vitorias-no-futsal-apos-quase-tres-meses",
+      "time": "01/07 · 20:35",
+      "pubDate": "Wed, 01 Jul 2026 17:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians sofre com uma a menos e perde para a Ferroviária no Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535266/corinthians-sofre-com-uma-a-menos-e-perde-para-a-ferroviaria-no-paulista-feminino-sub-20",
+      "time": "01/07 · 20:24",
+      "pubDate": "Wed, 01 Jul 2026 17:24:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians perde do Juventude, mas avança às quartas e pega o Palmeiras no Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-do-juventude-mas-avanca-as-quartas-e-pega-o-palmeiras-no-brasileiro-sub-20/",
+      "time": "01/07 · 20:02",
+      "pubDate": "Wed, 01 Jul 2026 20:02:00 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -19,36 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 01 Jul 2026 18:25:58 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza sétimo treino da intertemporada com foco físico e tático",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535269/corinthians-realiza-setimo-treino-da-intertemporada-com-foco-fisico-e-tatico",
-      "time": "01/07 · 18:22",
-      "pubDate": "Wed, 01 Jul 2026 15:22:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians avança na recuperação e faz trabalhos no gramado com a fisioterapia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535268/dupla-do-corinthians-avanca-na-recuperacao-e-faz-trabalhos-no-gramado-com-a-fisioterapia",
-      "time": "01/07 · 18:11",
-      "pubDate": "Wed, 01 Jul 2026 15:11:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians dá início ao processo de limpeza da Neo Química Arena; veja prazo",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-da-inicio-ao-processo-de-limpeza-da-neo-quimica-arena-veja-prazo/",
       "time": "01/07 · 18:03",
       "pubDate": "Wed, 01 Jul 2026 18:03:07 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians começa limpeza da fachada da Neo Química Arena; veja imagens",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535267/corinthians-comeca-limpeza-da-fachada-da-neo-quimica-arena-veja-imagens",
-      "time": "01/07 · 17:49",
-      "pubDate": "Wed, 01 Jul 2026 14:49:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -59,44 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 01 Jul 2026 17:30:53 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode voltar ao mata-mata do Brasileirão Sub-20 pela primeira vez em três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535238/corinthians-busca-voltar-ao-mata-mata-do-brasileiro-sub-20-apos-tres-anos-relembre-a-ultima-vez",
-      "time": "01/07 · 17:20",
-      "pubDate": "Wed, 01 Jul 2026 14:20:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians contrata ex-preparador físico do Palmeiras para a base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535257/corinthians-contrata-ex-preparador-fisico-do-palmeiras-para-a-base",
-      "time": "01/07 · 16:31",
-      "pubDate": "Wed, 01 Jul 2026 13:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "[Maria Beatriz de Teves] Quem o Corinthians já pode contratar de graça pensando em 2027?",
-      "url": "https://www.meutimao.com.br/coluna/maria_beatriz_de_teves/4241/quem-o-corinthians-ja-pode-contratar-de-graca-pensando-em-2027/",
-      "time": "01/07 · 16:05",
-      "pubDate": "Wed, 01 Jul 2026 13:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians detalha preparação para decisão no Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535256/atacante-do-corinthians-detalha-preparacao-para-decisao-no-brasileirao-sub-20",
-      "time": "01/07 · 15:32",
-      "pubDate": "Wed, 01 Jul 2026 12:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Principal torcida organizada do Corinthians completa 57 anos e prepara festa na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535258/principal-torcida-organizada-do-corinthians-completa-57-anos-e-prepara-festa-na-neo-quimica-arena",
-      "time": "01/07 · 14:34",
-      "pubDate": "Wed, 01 Jul 2026 11:34:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Queda da Holanda amplia tabu do Corinthians em Copas do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/queda-da-holanda-amplia-tabu-do-corinthians-em-copas-do-mundo]]>",
+      "time": "01/07 · 15:21",
+      "pubDate": "Wed, 01 Jul 2026 12:21:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -147,14 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 30 Jun 2026 22:13:39 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians libera Lingard para funeral de avô e define data de volta",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-libera-jesse-lingard-funeral-avo-retorno/",
-      "time": "30/06 · 19:48",
-      "pubDate": "Tue, 30 Jun 2026 19:48:51 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay recebe 10 dias de férias do Corinthians antes de reapresentação e provável renovação",
@@ -185,19 +193,30 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-trabalha-com-troca-envolvendo-mantuan-por-matheuzinho]]>",
       "time": "29/06 · 12:24",
       "pubDate": "Mon, 29 Jun 2026 09:24:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dumfries revela elogios de Memphis Depay ao Corinthians durante a Copa do Mundo: “Conta histórias incríveis”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dumfries-revela-elogios-de-memphis-depay-ao-corinthians-durante-a-copa-do-mundo-conta-historias-incriveis]]>",
-      "time": "27/06 · 01:00",
-      "pubDate": "Fri, 26 Jun 2026 22:00:29 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": []
+  "highlights": [
+    {
+      "title": "Ala do Corinthians celebra gol marcado e destaca início avassalador em goleada no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535245/ala-do-corinthians-celebra-gol-marcado-e-destaca-inicio-avassalador-em-goleada-no-paulista-de-futsal",
+      "pubDate": "Wed, 01 Jul 2026 19:36:00 -0300",
+      "date": "01/07 · 22:36"
+    },
+    {
+      "title": "Diretoria de futebol marca presença em goleada do Corinthians no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535282/diretoria-de-futebol-marca-presenca-em-goleada-do-corinthians-no-paulista-de-futsal",
+      "pubDate": "Wed, 01 Jul 2026 19:33:00 -0300",
+      "date": "01/07 · 22:33"
+    },
+    {
+      "title": "VÍDEO: Corinthians inicia limpeza da área externa da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128430/corinthians-inicia-limpeza-da-area-externa-da-neo-quimica-arena",
+      "pubDate": "Wed, 01 Jul 2026 18:58:00 -0300",
+      "date": "01/07 · 21:58"
+    }
+  ]
 };
 export default LIVE_DATA;
