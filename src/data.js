@@ -1,46 +1,110 @@
-// Gerado automaticamente em 01/07/2026, 13:59:33
+// Gerado automaticamente em 01/07/2026, 19:26:24
 const LIVE_DATA = {
-  "updatedAt": "2026-07-01T13:59:33.436Z",
+  "updatedAt": "2026-07-01T19:26:24.789Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians visita a Ferroviária mirando liderança do Paulista Feminino Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535225/corinthians-visita-ferroviaria-mirando-lideranca-do-paulista-feminino-sub-20-saiba-tudo",
-      "time": "01/07 · 13:30",
-      "pubDate": "Wed, 01 Jul 2026 10:30:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians nesta quarta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-nesta-quarta-feira-10/",
+      "time": "01/07 · 18:30",
+      "pubDate": "Wed, 01 Jul 2026 18:30:58 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Dupla avança em recuperação, e Corinthians faz treino-tático em intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/dupla-avanca-em-recuperacao-e-corinthians-faz-treino-tatico-em-intertemporada/",
+      "time": "01/07 · 18:25",
+      "pubDate": "Wed, 01 Jul 2026 18:25:58 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro emprestado pelo Corinthians se despede da Copa do Mundo após eliminação para o México",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535255/zagueiro-emprestado-pelo-corinthians-se-despede-da-copa-do-mundo-apos-eliminacao-para-o-mexico",
-      "time": "01/07 · 13:01",
-      "pubDate": "Wed, 01 Jul 2026 10:01:00 -0300"
+      "title": "Corinthians realiza sétimo treino da intertemporada com foco físico e tático",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535269/corinthians-realiza-setimo-treino-da-intertemporada-com-foco-fisico-e-tatico",
+      "time": "01/07 · 18:22",
+      "pubDate": "Wed, 01 Jul 2026 15:22:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "De Lingard a Vic: veja atletas do Corinthians que já podem assinar pré-contrato com outro clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535217/de-lingard-a-vic-veja-atletas-do-corinthians-que-ja-podem-assinar-pre-contrato-com-outro-clube",
-      "time": "01/07 · 12:25",
-      "pubDate": "Wed, 01 Jul 2026 09:25:00 -0300"
+      "title": "Dupla do Corinthians avança na recuperação e faz trabalhos no gramado com a fisioterapia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535268/dupla-do-corinthians-avanca-na-recuperacao-e-faz-trabalhos-no-gramado-com-a-fisioterapia",
+      "time": "01/07 · 18:11",
+      "pubDate": "Wed, 01 Jul 2026 15:11:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians dá início ao processo de limpeza da Neo Química Arena; veja prazo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-da-inicio-ao-processo-de-limpeza-da-neo-quimica-arena-veja-prazo/",
+      "time": "01/07 · 18:03",
+      "pubDate": "Wed, 01 Jul 2026 18:03:07 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca vaga no mata-mata do Brasileirão Sub-20 contra o Juventude; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535224/corinthians-busca-vaga-no-mata-mata-do-brasileirao-sub-20-contra-o-juventude-saiba-tudo",
-      "time": "01/07 · 11:30",
-      "pubDate": "Wed, 01 Jul 2026 08:30:00 -0300"
+      "title": "Corinthians começa limpeza da fachada da Neo Química Arena; veja imagens",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535267/corinthians-comeca-limpeza-da-fachada-da-neo-quimica-arena-veja-imagens",
+      "time": "01/07 · 17:49",
+      "pubDate": "Wed, 01 Jul 2026 14:49:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Ex-Corinthians e Flamengo, Vítor Pereira anuncia saída de clube inglês",
+      "url": "https://www.gazetaesportiva.com/campeonatos/premier-league/ex-corinthians-e-flamengo-vitor-pereira-pode-deixar-comando-de-clube-ingles/",
+      "time": "01/07 · 17:30",
+      "pubDate": "Wed, 01 Jul 2026 17:30:53 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: férias de Memphis, zagueiro afastado e liberação de meia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535246/ultimas-do-corinthians-ferias-de-memphis-zagueiro-afastado-e-liberacao-de-meia",
-      "time": "01/07 · 10:30",
-      "pubDate": "Wed, 01 Jul 2026 07:30:00 -0300"
+      "title": "Corinthians pode voltar ao mata-mata do Brasileirão Sub-20 pela primeira vez em três anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535238/corinthians-busca-voltar-ao-mata-mata-do-brasileiro-sub-20-apos-tres-anos-relembre-a-ultima-vez",
+      "time": "01/07 · 17:20",
+      "pubDate": "Wed, 01 Jul 2026 14:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians contrata ex-preparador físico do Palmeiras para a base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535257/corinthians-contrata-ex-preparador-fisico-do-palmeiras-para-a-base",
+      "time": "01/07 · 16:31",
+      "pubDate": "Wed, 01 Jul 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "[Maria Beatriz de Teves] Quem o Corinthians já pode contratar de graça pensando em 2027?",
+      "url": "https://www.meutimao.com.br/coluna/maria_beatriz_de_teves/4241/quem-o-corinthians-ja-pode-contratar-de-graca-pensando-em-2027/",
+      "time": "01/07 · 16:05",
+      "pubDate": "Wed, 01 Jul 2026 13:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians detalha preparação para decisão no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535256/atacante-do-corinthians-detalha-preparacao-para-decisao-no-brasileirao-sub-20",
+      "time": "01/07 · 15:32",
+      "pubDate": "Wed, 01 Jul 2026 12:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Principal torcida organizada do Corinthians completa 57 anos e prepara festa na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535258/principal-torcida-organizada-do-corinthians-completa-57-anos-e-prepara-festa-na-neo-quimica-arena",
+      "time": "01/07 · 14:34",
+      "pubDate": "Wed, 01 Jul 2026 11:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Atalanta-ITA quer contratar Breno Bidon, do Corinthians, como substituto imediato do volante Éderson",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/atalanta-ita-quer-contratar-breno-bidon-do-corinthians-como-substituto-imediato-do-volante-ederson]]>",
+      "time": "01/07 · 12:10",
+      "pubDate": "Wed, 01 Jul 2026 09:10:14 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -57,30 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-venda-de-breno-bidon-ou-andre-luiz-em-busca-de-reequilibrio-financeiro]]>",
       "time": "01/07 · 03:34",
       "pubDate": "Wed, 01 Jul 2026 00:34:54 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia atrações musicais e detalhes da quermesse no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535211/corinthians-anuncia-atracoes-musicais-e-detalhes-da-quermesse-no-parque-sao-jorge",
-      "time": "01/07 · 01:04",
-      "pubDate": "Tue, 30 Jun 2026 22:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Capitã do Corinthians critica CBF por horário de jogo do Corinthians na Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535244/capita-do-corinthians-critica-cbf-por-horario-de-jogo-do-corinthians-na-copa-do-brasil-feminina",
-      "time": "01/07 · 00:40",
-      "pubDate": "Tue, 30 Jun 2026 21:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians atropela Wimpro Guarulhos e encosta na liderança do Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535231/corinthians-atropela-wimpro-guarulhos-e-encosta-na-lideranca-do-paulista-de-futsal",
-      "time": "01/07 · 00:22",
-      "pubDate": "Tue, 30 Jun 2026 21:22:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -115,36 +155,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 30 Jun 2026 19:48:51 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians intensifica intertemporada e treina em dois períodos",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intensifica-intertemporada-e-treina-em-dois-periodos/",
-      "time": "30/06 · 19:14",
-      "pubDate": "Tue, 30 Jun 2026 19:14:47 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Confira as fotos do treino do Corinthians desta terça-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-do-treino-do-corinthians-desta-terca-feira-6/",
-      "time": "30/06 · 18:47",
-      "pubDate": "Tue, 30 Jun 2026 18:47:49 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay recebe 10 dias de férias do Corinthians antes de reapresentação e provável renovação",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-recebe-10-dias-de-ferias-do-corinthians-antes-de-reapresentacao-e-provavel-renovacao]]>",
       "time": "30/06 · 17:26",
       "pubDate": "Tue, 30 Jun 2026 14:26:21 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Perto do 100º jogo, Carrillo se reapresenta em reta final de contrato com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/perto-do-100o-jogo-carrillo-se-reapresenta-em-reta-final-de-contrato-com-o-corinthians/",
-      "time": "30/06 · 10:00",
-      "pubDate": "Tue, 30 Jun 2026 10:00:16 +0000"
     },
     {
       "source": "Bolavip",
@@ -161,14 +177,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-contratacao-de-marlon-muniz-ex-vasco-preparador-fisico-ja-trabalhou-com-diniz]]>",
       "time": "29/06 · 16:55",
       "pubDate": "Mon, 29 Jun 2026 13:55:34 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Carrillo, Corinthians faz treino focado em defesa em 5º dia de intertemporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-carrillo-corinthians-faz-treino-focado-em-defesa/",
-      "time": "29/06 · 15:58",
-      "pubDate": "Mon, 29 Jun 2026 15:58:23 +0000"
     },
     {
       "source": "Bolavip",
@@ -190,13 +198,6 @@ const LIVE_DATA = {
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": [
-    {
-      "title": "VÍDEO: Jogadores da Copa que serviriam para o Corinthians após a Copa",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128413/jogadores-da-copa-que-serviriam-para-o-corinthians-apos-a-copa",
-      "pubDate": "Tue, 30 Jun 2026 13:22:51 -0300",
-      "date": "30/06 · 16:22"
-    }
-  ]
+  "highlights": []
 };
 export default LIVE_DATA;
