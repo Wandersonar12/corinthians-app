@@ -1,7 +1,39 @@
-// Gerado automaticamente em 01/07/2026, 10:59:31
+// Gerado automaticamente em 01/07/2026, 13:59:33
 const LIVE_DATA = {
-  "updatedAt": "2026-07-01T10:59:31.017Z",
+  "updatedAt": "2026-07-01T13:59:33.436Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita a Ferroviária mirando liderança do Paulista Feminino Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535225/corinthians-visita-ferroviaria-mirando-lideranca-do-paulista-feminino-sub-20-saiba-tudo",
+      "time": "01/07 · 13:30",
+      "pubDate": "Wed, 01 Jul 2026 10:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro emprestado pelo Corinthians se despede da Copa do Mundo após eliminação para o México",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535255/zagueiro-emprestado-pelo-corinthians-se-despede-da-copa-do-mundo-apos-eliminacao-para-o-mexico",
+      "time": "01/07 · 13:01",
+      "pubDate": "Wed, 01 Jul 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "De Lingard a Vic: veja atletas do Corinthians que já podem assinar pré-contrato com outro clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535217/de-lingard-a-vic-veja-atletas-do-corinthians-que-ja-podem-assinar-pre-contrato-com-outro-clube",
+      "time": "01/07 · 12:25",
+      "pubDate": "Wed, 01 Jul 2026 09:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca vaga no mata-mata do Brasileirão Sub-20 contra o Juventude; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535224/corinthians-busca-vaga-no-mata-mata-do-brasileirao-sub-20-contra-o-juventude-saiba-tudo",
+      "time": "01/07 · 11:30",
+      "pubDate": "Wed, 01 Jul 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,6 +49,14 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-mes-de-julho-com-amistoso-e-tres-jogos-pelo-brasileirao/",
       "time": "01/07 · 10:00",
       "pubDate": "Wed, 01 Jul 2026 10:00:22 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians planeja venda de Breno Bidon ou André Luiz em busca de reequilíbrio financeiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-venda-de-breno-bidon-ou-andre-luiz-em-busca-de-reequilibrio-financeiro]]>",
+      "time": "01/07 · 03:34",
+      "pubDate": "Wed, 01 Jul 2026 00:34:54 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,44 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 30 Jun 2026 21:22:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eliminação precoce da Holanda amplia tabu do Corinthians na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535209/eliminacao-precoce-da-holanda-amplia-tabu-do-corinthians-na-copa-do-mundo",
-      "time": "01/07 · 00:05",
-      "pubDate": "Tue, 30 Jun 2026 21:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians intensifica trabalhos com foco em transições no quinto dia de intertemporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535241/corinthians-intensifica-trabalhos-com-foco-em-transicoes-no-quinto-dia-de-intertemporada",
-      "time": "30/06 · 23:21",
-      "pubDate": "Tue, 30 Jun 2026 20:21:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Neo Química Arena informa mudança de funcionamento devido à festa de organizada do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535232/neo-quimica-arena-informa-mudanca-de-funcionamento-devido-a-festa-de-organizada-do-corinthians",
-      "time": "30/06 · 23:01",
-      "pubDate": "Tue, 30 Jun 2026 20:01:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Juventude x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
       "url": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-onde-assistir-escalacoes-brasileiro-sub-20/",
       "time": "30/06 · 23:00",
       "pubDate": "Tue, 30 Jun 2026 23:00:05 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians exalta apoio da torcida alvinegra e comenta sobre Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535235/idolo-do-corinthians-exalta-apoio-da-torcida-alvinegra-e-comenta-sobre-selecao-brasileira",
-      "time": "30/06 · 22:32",
-      "pubDate": "Tue, 30 Jun 2026 19:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -177,14 +185,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/dumfries-revela-elogios-de-memphis-depay-ao-corinthians-durante-a-copa-do-mundo-conta-historias-incriveis]]>",
       "time": "27/06 · 01:00",
       "pubDate": "Fri, 26 Jun 2026 22:00:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Torcida do Corinthians repercute entrada de Félix Torres em Equador x Alemanha: “Faria muito sucesso”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-repercute-entrada-de-felix-torres-em-equador-x-alemanha-faria-muito-sucesso]]>",
-      "time": "26/06 · 13:41",
-      "pubDate": "Fri, 26 Jun 2026 10:41:49 -0300"
     }
   ],
   "upcoming": [],
