@@ -1,7 +1,39 @@
-// Gerado automaticamente em 02/07/2026, 10:25:22
+// Gerado automaticamente em 02/07/2026, 13:23:42
 const LIVE_DATA = {
-  "updatedAt": "2026-07-02T10:25:22.663Z",
+  "updatedAt": "2026-07-02T13:23:42.079Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz testa Labyad no lugar de Garro para jogo do Corinthians contra o Remo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535291/fernando-diniz-testa-labyad-no-lugar-de-garro-para-jogo-do-corinthians-contra-o-remo",
+      "time": "02/07 · 12:28",
+      "pubDate": "Thu, 02 Jul 2026 09:28:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians dá sequência aos trabalhos na intertemporada",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-da-sequencia-aos-trabalhos-na-intertemporada/",
+      "time": "02/07 · 11:33",
+      "pubDate": "Thu, 02 Jul 2026 11:33:57 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-Corinthians relembra bastidores da base e exalta talentos que se destacaram no futebol europeu",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535240/ex-corinthians-relembra-bastidores-da-base-e-exalta-talentos-que-se-destacaram-no-futebol-europeu",
+      "time": "02/07 · 11:30",
+      "pubDate": "Thu, 02 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: manutenção na Arena, pré-contratos e evolução de dupla",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535287/ultimas-do-corinthians-manutencao-na-arena-pre-contratos-e-evolucao-de-dupla",
+      "time": "02/07 · 10:30",
+      "pubDate": "Thu, 02 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -49,30 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535283/corinthians-realiza-trabalhos-taticos-e-de-enfrentamento-de-olho-em-retomada-da-temporada",
       "time": "01/07 · 22:57",
       "pubDate": "Wed, 01 Jul 2026 19:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians celebra gol marcado e destaca início avassalador em goleada no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535245/ala-do-corinthians-celebra-gol-marcado-e-destaca-inicio-avassalador-em-goleada-no-paulista-de-futsal",
-      "time": "01/07 · 22:36",
-      "pubDate": "Wed, 01 Jul 2026 19:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretoria de futebol marca presença em goleada do Corinthians no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535282/diretoria-de-futebol-marca-presenca-em-goleada-do-corinthians-no-paulista-de-futsal",
-      "time": "01/07 · 22:33",
-      "pubDate": "Wed, 01 Jul 2026 19:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Corinthians inicia limpeza da área externa da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128430/corinthians-inicia-limpeza-da-area-externa-da-neo-quimica-arena",
-      "time": "01/07 · 21:58",
-      "pubDate": "Wed, 01 Jul 2026 18:58:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -153,14 +161,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-venda-de-breno-bidon-ou-andre-luiz-em-busca-de-reequilibrio-financeiro]]>",
       "time": "01/07 · 03:34",
       "pubDate": "Wed, 01 Jul 2026 00:34:54 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Juventude x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-onde-assistir-escalacoes-brasileiro-sub-20/",
-      "time": "30/06 · 23:00",
-      "pubDate": "Tue, 30 Jun 2026 23:00:05 +0000"
     },
     {
       "source": "Bolavip",
