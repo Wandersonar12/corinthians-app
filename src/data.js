@@ -1,7 +1,47 @@
-// Gerado automaticamente em 02/07/2026, 19:04:19
+// Gerado automaticamente em 02/07/2026, 22:53:33
 const LIVE_DATA = {
-  "updatedAt": "2026-07-02T19:04:19.977Z",
+  "updatedAt": "2026-07-02T22:53:33.261Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "O Corinthians deve renovar com André Ramalho para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535293/o-corinthians-deve-renovar-com-andre-ramalho-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "02/07 · 22:30",
+      "pubDate": "Thu, 02 Jul 2026 19:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra duas grandes sequências invictas após derrota no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535276/corinthians-encerra-duas-grandes-sequencias-invictas-apos-derrota-no-brasileiro-sub-20",
+      "time": "02/07 · 21:31",
+      "pubDate": "Thu, 02 Jul 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians celebra dois anos de Hugo Souza com balanço de títulos e protagonismo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535305/corinthians-celebra-dois-anos-de-hugo-souza-com-balanco-de-titulos-e-protagonismo",
+      "time": "02/07 · 20:33",
+      "pubDate": "Thu, 02 Jul 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fiel aprova renovação de volante peruano para a próxima temporada do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535292/fiel-aprova-renovacao-de-volante-peruano-para-a-proxima-temporada-do-corinthians",
+      "time": "02/07 · 19:31",
+      "pubDate": "Thu, 02 Jul 2026 16:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians recebe visita de técnico da Seleção sub-20 e dá sequência à intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-recebe-visita-de-tecnico-da-selecao-sub-20-e-da-sequencia-a-intertemporada/",
+      "time": "02/07 · 19:07",
+      "pubDate": "Thu, 02 Jul 2026 19:07:31 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -43,44 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 02 Jul 2026 13:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro titular deve ser desfalque do Corinthians em Dérbi decisivo no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535279/zagueiro-titular-do-sub-20-deve-ser-desfalque-do-corinthians-em-derbi-decisivo-no-brasileiro-sub-20",
-      "time": "02/07 · 15:34",
-      "pubDate": "Thu, 02 Jul 2026 12:34:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Há 2 anos, Hugo Souza era anunciado como reforço do Corinthians; relembre sua chegada",
       "url": "https://www.gazetaesportiva.com/times/corinthians/ha-2-anos-hugo-souza-era-anunciado-como-reforco-do-corinthians-relembre-sua-chegada/",
       "time": "02/07 · 15:07",
       "pubDate": "Thu, 02 Jul 2026 15:07:18 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante revelado pelo Corinthians comemora chegada em clube da Tailândia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535272/atacante-revelado-pelo-corinthians-comemora-chegada-em-clube-da-tailandia",
-      "time": "02/07 · 14:34",
-      "pubDate": "Thu, 02 Jul 2026 11:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleada do Corinthians movimenta ranking de artilheiros do futsal em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535254/goleada-do-corinthians-movimenta-ranking-de-artilheiros-da-equipe-em-2026",
-      "time": "02/07 · 13:31",
-      "pubDate": "Thu, 02 Jul 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz testa Labyad no lugar de Garro para jogo do Corinthians contra o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535291/fernando-diniz-testa-labyad-no-lugar-de-garro-para-jogo-do-corinthians-contra-o-remo",
-      "time": "02/07 · 12:28",
-      "pubDate": "Thu, 02 Jul 2026 09:28:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -129,14 +137,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/dupla-avanca-em-recuperacao-e-corinthians-faz-treino-tatico-em-intertemporada/",
       "time": "01/07 · 18:25",
       "pubDate": "Wed, 01 Jul 2026 18:25:58 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians dá início ao processo de limpeza da Neo Química Arena; veja prazo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-da-inicio-ao-processo-de-limpeza-da-neo-quimica-arena-veja-prazo/",
-      "time": "01/07 · 18:03",
-      "pubDate": "Wed, 01 Jul 2026 18:03:07 +0000"
     },
     {
       "source": "Bolavip",
