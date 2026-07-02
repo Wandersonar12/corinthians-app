@@ -1,7 +1,55 @@
-// Gerado automaticamente em 01/07/2026, 22:59:34
+// Gerado automaticamente em 02/07/2026, 10:25:22
 const LIVE_DATA = {
-  "updatedAt": "2026-07-01T22:59:34.891Z",
+  "updatedAt": "2026-07-02T10:25:22.663Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Confira jogadores que entram em reta final de contrato com o Corinthians em julho",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-jogadores-que-entram-em-reta-final-de-contrato-com-o-corinthians-em-julho/",
+      "time": "02/07 · 10:00",
+      "pubDate": "Thu, 02 Jul 2026 10:00:13 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volantes lideram lista de mais advertidos com cartões no elenco do Corinthians no ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535208/volantes-lideram-lista-de-mais-advertidos-com-cartoes-no-elenco-do-corinthians-no-ano",
+      "time": "02/07 · 01:30",
+      "pubDate": "Wed, 01 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians dispensa atacante e chega a 37 saídas na base em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535286/corinthians-dispensa-atacante-e-chega-a-37-saidas-na-base-em-2026",
+      "time": "02/07 · 01:05",
+      "pubDate": "Wed, 01 Jul 2026 22:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem dois representantes em quinteto ideal da primeira etapa da LDB 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535275/corinthians-tem-dois-representantes-em-quinteto-ideal-da-primeira-etapa-da-ldb-2026",
+      "time": "02/07 · 00:33",
+      "pubDate": "Wed, 01 Jul 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians ironiza ausência de Memphis de jogo decisivo da Holanda na Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535251/idolo-do-corinthians-ironiza-ausencia-de-memphis-de-jogo-decisivo-da-holanda-na-copa-do-mundo",
+      "time": "01/07 · 23:27",
+      "pubDate": "Wed, 01 Jul 2026 20:27:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians realiza trabalhos táticos e de enfrentamento de olho em retomada da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535283/corinthians-realiza-trabalhos-taticos-e-de-enfrentamento-de-olho-em-retomada-da-temporada",
+      "time": "01/07 · 22:57",
+      "pubDate": "Wed, 01 Jul 2026 19:57:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,52 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Wed, 01 Jul 2026 18:58:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "SAFiel cria portal voltado a sanar dúvidas de associados do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535280/safiel-cria-portal-voltado-a-sanar-duvidas-de-associados-do-corinthians",
-      "time": "01/07 · 21:44",
-      "pubDate": "Wed, 01 Jul 2026 18:44:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com André Carrillo para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535262/o-corinthians-deve-renovar-com-andre-carrillo-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "01/07 · 21:33",
-      "pubDate": "Wed, 01 Jul 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encara o Palmeiras pelas quartas de final do Campeonato Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535277/corinthians-encara-o-palmeiras-pelas-quartas-de-final-do-campeonato-brasileiro-sub-20",
-      "time": "01/07 · 20:57",
-      "pubDate": "Wed, 01 Jul 2026 17:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a emendar sequência de vitórias no futsal após quase três meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535243/corinthians-volta-a-emendar-sequencia-de-vitorias-no-futsal-apos-quase-tres-meses",
-      "time": "01/07 · 20:35",
-      "pubDate": "Wed, 01 Jul 2026 17:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre com uma a menos e perde para a Ferroviária no Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535266/corinthians-sofre-com-uma-a-menos-e-perde-para-a-ferroviaria-no-paulista-feminino-sub-20",
-      "time": "01/07 · 20:24",
-      "pubDate": "Wed, 01 Jul 2026 17:24:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians perde do Juventude, mas avança às quartas e pega o Palmeiras no Brasileiro sub-20",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-do-juventude-mas-avanca-as-quartas-e-pega-o-palmeiras-no-brasileiro-sub-20/",
       "time": "01/07 · 20:02",
       "pubDate": "Wed, 01 Jul 2026 20:02:00 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians entra na disputa, mas Internacional avança por zagueiro livre no mercado para reforçar defesa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-entra-na-disputa-mas-internacional-avanca-por-zagueiro-livre-no-mercado-para-reforcar-defesa]]>",
+      "time": "01/07 · 19:55",
+      "pubDate": "Wed, 01 Jul 2026 16:55:03 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -155,14 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 30 Jun 2026 19:14:51 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians renova empréstimo de goleiro a clube árabe",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-emprestimo-matheus-donelli/",
-      "time": "30/06 · 22:13",
-      "pubDate": "Tue, 30 Jun 2026 22:13:39 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay recebe 10 dias de férias do Corinthians antes de reapresentação e provável renovação",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-contratacao-de-marlon-muniz-ex-vasco-preparador-fisico-ja-trabalhou-com-diniz]]>",
       "time": "29/06 · 16:55",
       "pubDate": "Mon, 29 Jun 2026 13:55:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não trabalha com troca envolvendo Mantuan por Matheuzinho",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-trabalha-com-troca-envolvendo-mantuan-por-matheuzinho]]>",
-      "time": "29/06 · 12:24",
-      "pubDate": "Mon, 29 Jun 2026 09:24:38 -0300"
     }
   ],
   "upcoming": [],
