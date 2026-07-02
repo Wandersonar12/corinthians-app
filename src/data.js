@@ -1,7 +1,79 @@
-// Gerado automaticamente em 02/07/2026, 13:23:42
+// Gerado automaticamente em 02/07/2026, 19:04:19
 const LIVE_DATA = {
-  "updatedAt": "2026-07-02T13:23:42.079Z",
+  "updatedAt": "2026-07-02T19:04:19.977Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians desta quinta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-quinta-feira-31/",
+      "time": "02/07 · 18:41",
+      "pubDate": "Thu, 02 Jul 2026 18:41:52 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe visita de técnico das Seleções Sub-20 e Sub-23 durante treino no CT Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535300/corinthians-recebe-visita-de-tecnico-das-selecoes-sub-20-e-sub-23-durante-treino-no-ct-joaquim-grava",
+      "time": "02/07 · 18:20",
+      "pubDate": "Thu, 02 Jul 2026 15:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem dia de finalizações e controle técnico sob comando de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535301/corinthians-tem-dia-de-finalizacoes-e-controle-tecnico-sob-comando-de-fernando-diniz",
+      "time": "02/07 · 17:48",
+      "pubDate": "Thu, 02 Jul 2026 14:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Conselho suspende expulsões de ex-dirigentes da base do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535298/presidente-do-conselho-suspende-expulsoes-de-ex-dirigentes-da-base-do-corinthians",
+      "time": "02/07 · 17:30",
+      "pubDate": "Thu, 02 Jul 2026 14:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Patrocinadora do Corinthians prepara lançamento de novo produto oficial do clube; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535295/patrocinadora-do-corinthians-prepara-lancamento-de-novo-produto-oficial-do-clube-saiba-mais",
+      "time": "02/07 · 16:31",
+      "pubDate": "Thu, 02 Jul 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro titular deve ser desfalque do Corinthians em Dérbi decisivo no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535279/zagueiro-titular-do-sub-20-deve-ser-desfalque-do-corinthians-em-derbi-decisivo-no-brasileiro-sub-20",
+      "time": "02/07 · 15:34",
+      "pubDate": "Thu, 02 Jul 2026 12:34:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Há 2 anos, Hugo Souza era anunciado como reforço do Corinthians; relembre sua chegada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-2-anos-hugo-souza-era-anunciado-como-reforco-do-corinthians-relembre-sua-chegada/",
+      "time": "02/07 · 15:07",
+      "pubDate": "Thu, 02 Jul 2026 15:07:18 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante revelado pelo Corinthians comemora chegada em clube da Tailândia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535272/atacante-revelado-pelo-corinthians-comemora-chegada-em-clube-da-tailandia",
+      "time": "02/07 · 14:34",
+      "pubDate": "Thu, 02 Jul 2026 11:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleada do Corinthians movimenta ranking de artilheiros do futsal em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535254/goleada-do-corinthians-movimenta-ranking-de-artilheiros-da-equipe-em-2026",
+      "time": "02/07 · 13:31",
+      "pubDate": "Thu, 02 Jul 2026 10:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,68 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 02 Jul 2026 11:33:57 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-Corinthians relembra bastidores da base e exalta talentos que se destacaram no futebol europeu",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535240/ex-corinthians-relembra-bastidores-da-base-e-exalta-talentos-que-se-destacaram-no-futebol-europeu",
-      "time": "02/07 · 11:30",
-      "pubDate": "Thu, 02 Jul 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: manutenção na Arena, pré-contratos e evolução de dupla",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535287/ultimas-do-corinthians-manutencao-na-arena-pre-contratos-e-evolucao-de-dupla",
-      "time": "02/07 · 10:30",
-      "pubDate": "Thu, 02 Jul 2026 07:30:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Confira jogadores que entram em reta final de contrato com o Corinthians em julho",
       "url": "https://www.gazetaesportiva.com/times/corinthians/confira-jogadores-que-entram-em-reta-final-de-contrato-com-o-corinthians-em-julho/",
       "time": "02/07 · 10:00",
       "pubDate": "Thu, 02 Jul 2026 10:00:13 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volantes lideram lista de mais advertidos com cartões no elenco do Corinthians no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535208/volantes-lideram-lista-de-mais-advertidos-com-cartoes-no-elenco-do-corinthians-no-ano",
-      "time": "02/07 · 01:30",
-      "pubDate": "Wed, 01 Jul 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians dispensa atacante e chega a 37 saídas na base em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535286/corinthians-dispensa-atacante-e-chega-a-37-saidas-na-base-em-2026",
-      "time": "02/07 · 01:05",
-      "pubDate": "Wed, 01 Jul 2026 22:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem dois representantes em quinteto ideal da primeira etapa da LDB 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535275/corinthians-tem-dois-representantes-em-quinteto-ideal-da-primeira-etapa-da-ldb-2026",
-      "time": "02/07 · 00:33",
-      "pubDate": "Wed, 01 Jul 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians ironiza ausência de Memphis de jogo decisivo da Holanda na Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535251/idolo-do-corinthians-ironiza-ausencia-de-memphis-de-jogo-decisivo-da-holanda-na-copa-do-mundo",
-      "time": "01/07 · 23:27",
-      "pubDate": "Wed, 01 Jul 2026 20:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza trabalhos táticos e de enfrentamento de olho em retomada da temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535283/corinthians-realiza-trabalhos-taticos-e-de-enfrentamento-de-olho-em-retomada-da-temporada",
-      "time": "01/07 · 22:57",
-      "pubDate": "Wed, 01 Jul 2026 19:57:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -123,14 +139,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 01 Jul 2026 18:03:07 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ex-Corinthians e Flamengo, Vítor Pereira anuncia saída de clube inglês",
-      "url": "https://www.gazetaesportiva.com/campeonatos/premier-league/ex-corinthians-e-flamengo-vitor-pereira-pode-deixar-comando-de-clube-ingles/",
-      "time": "01/07 · 17:30",
-      "pubDate": "Wed, 01 Jul 2026 17:30:53 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Queda da Holanda amplia tabu do Corinthians em Copas do Mundo",
@@ -145,14 +153,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/atalanta-ita-quer-contratar-breno-bidon-do-corinthians-como-substituto-imediato-do-volante-ederson]]>",
       "time": "01/07 · 12:10",
       "pubDate": "Wed, 01 Jul 2026 09:10:14 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá mês de julho com amistoso e três jogos pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-mes-de-julho-com-amistoso-e-tres-jogos-pelo-brasileirao/",
-      "time": "01/07 · 10:00",
-      "pubDate": "Wed, 01 Jul 2026 10:00:22 +0000"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleada do Corinthians movimenta ranking de artilheiros do futsal em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535254/goleada-do-corinthians-movimenta-ranking-de-artilheiros-da-equipe-em-2026",
+      "pubDate": "Thu, 02 Jul 2026 10:31:00 -0300",
+      "date": "02/07 · 13:31"
+    },
     {
       "title": "Ala do Corinthians celebra gol marcado e destaca início avassalador em goleada no Paulista de Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535245/ala-do-corinthians-celebra-gol-marcado-e-destaca-inicio-avassalador-em-goleada-no-paulista-de-futsal",
