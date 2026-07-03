@@ -1,7 +1,39 @@
-// Gerado automaticamente em 02/07/2026, 22:53:33
+// Gerado automaticamente em 03/07/2026, 10:23:48
 const LIVE_DATA = {
-  "updatedAt": "2026-07-02T22:53:33.261Z",
+  "updatedAt": "2026-07-03T10:23:48.626Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Dentro de casa, Corinthians tem o pior ataque do Campeonato Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/dentro-de-casa-corinthians-tem-o-oitavo-pior-ataque-do-campeonato-brasileiro/",
+      "time": "03/07 · 10:00",
+      "pubDate": "Fri, 03 Jul 2026 10:00:31 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians promove tour acessível para crianças com deficiência visual na sede do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535307/corinthians-promove-tour-acessivel-para-criancas-com-deficiencia-visual-na-sede-do-clube",
+      "time": "03/07 · 01:30",
+      "pubDate": "Thu, 02 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Joia do Corinthians celebra conquista da Nations League Sub-17 com a Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535304/joia-do-corinthians-celebra-conquista-da-nations-league-sub-17-com-a-selecao-brasileira",
+      "time": "03/07 · 00:34",
+      "pubDate": "Thu, 02 Jul 2026 21:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vê maior sequência invicta chegar ao fim após derrota no Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535285/corinthians-vemaior-sequencia-invicta-chegar-ao-fim-apos-derrota-no-paulista-feminino-sub-20",
+      "time": "02/07 · 23:35",
+      "pubDate": "Thu, 02 Jul 2026 20:35:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -59,30 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 02 Jul 2026 15:20:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem dia de finalizações e controle técnico sob comando de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535301/corinthians-tem-dia-de-finalizacoes-e-controle-tecnico-sob-comando-de-fernando-diniz",
-      "time": "02/07 · 17:48",
-      "pubDate": "Thu, 02 Jul 2026 14:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Conselho suspende expulsões de ex-dirigentes da base do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535298/presidente-do-conselho-suspende-expulsoes-de-ex-dirigentes-da-base-do-corinthians",
-      "time": "02/07 · 17:30",
-      "pubDate": "Thu, 02 Jul 2026 14:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Patrocinadora do Corinthians prepara lançamento de novo produto oficial do clube; saiba mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535295/patrocinadora-do-corinthians-prepara-lancamento-de-novo-produto-oficial-do-clube-saiba-mais",
-      "time": "02/07 · 16:31",
-      "pubDate": "Thu, 02 Jul 2026 13:31:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Há 2 anos, Hugo Souza era anunciado como reforço do Corinthians; relembre sua chegada",
@@ -129,14 +137,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-nesta-quarta-feira-10/",
       "time": "01/07 · 18:30",
       "pubDate": "Wed, 01 Jul 2026 18:30:58 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Dupla avança em recuperação, e Corinthians faz treino-tático em intertemporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/dupla-avanca-em-recuperacao-e-corinthians-faz-treino-tatico-em-intertemporada/",
-      "time": "01/07 · 18:25",
-      "pubDate": "Wed, 01 Jul 2026 18:25:58 +0000"
     },
     {
       "source": "Bolavip",
