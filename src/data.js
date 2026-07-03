@@ -1,14 +1,30 @@
-// Gerado automaticamente em 03/07/2026, 10:23:48
+// Gerado automaticamente em 03/07/2026, 13:26:45
 const LIVE_DATA = {
-  "updatedAt": "2026-07-03T10:23:48.626Z",
+  "updatedAt": "2026-07-03T13:26:45.675Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Dentro de casa, Corinthians tem o pior ataque do Campeonato Brasileiro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/dentro-de-casa-corinthians-tem-o-oitavo-pior-ataque-do-campeonato-brasileiro/",
-      "time": "03/07 · 10:00",
-      "pubDate": "Fri, 03 Jul 2026 10:00:31 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians cancela viagem para o Mato Grosso e muda planos para intertemporada do time feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535322/corinthians-cancela-viagem-para-o-mato-grosso-e-muda-planos-para-intertemporada-do-time-feminino",
+      "time": "03/07 · 12:32",
+      "pubDate": "Fri, 03 Jul 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Conselho do Corinthians pede reunião com Cori para debater reforma do Estatuto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535308/presidente-do-conselho-do-corinthians-pede-reuniao-com-cori-para-debater-reforma-do-estatuto",
+      "time": "03/07 · 11:30",
+      "pubDate": "Fri, 03 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: teste no time titular, efeito suspensivo e novo produto da patrocinadora",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535314/ultimas-do-corinthians-teste-no-time-titular-efeito-suspensivo-e-novo-produto-da-patrocinadora",
+      "time": "03/07 · 10:30",
+      "pubDate": "Fri, 03 Jul 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -51,92 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 02 Jul 2026 18:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians celebra dois anos de Hugo Souza com balanço de títulos e protagonismo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535305/corinthians-celebra-dois-anos-de-hugo-souza-com-balanco-de-titulos-e-protagonismo",
-      "time": "02/07 · 20:33",
-      "pubDate": "Thu, 02 Jul 2026 17:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel aprova renovação de volante peruano para a próxima temporada do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535292/fiel-aprova-renovacao-de-volante-peruano-para-a-proxima-temporada-do-corinthians",
-      "time": "02/07 · 19:31",
-      "pubDate": "Thu, 02 Jul 2026 16:31:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians recebe visita de técnico da Seleção sub-20 e dá sequência à intertemporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-recebe-visita-de-tecnico-da-selecao-sub-20-e-da-sequencia-a-intertemporada/",
-      "time": "02/07 · 19:07",
-      "pubDate": "Thu, 02 Jul 2026 19:07:31 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians desta quinta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-quinta-feira-31/",
-      "time": "02/07 · 18:41",
-      "pubDate": "Thu, 02 Jul 2026 18:41:52 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe visita de técnico das Seleções Sub-20 e Sub-23 durante treino no CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535300/corinthians-recebe-visita-de-tecnico-das-selecoes-sub-20-e-sub-23-durante-treino-no-ct-joaquim-grava",
-      "time": "02/07 · 18:20",
-      "pubDate": "Thu, 02 Jul 2026 15:20:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Há 2 anos, Hugo Souza era anunciado como reforço do Corinthians; relembre sua chegada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-2-anos-hugo-souza-era-anunciado-como-reforco-do-corinthians-relembre-sua-chegada/",
-      "time": "02/07 · 15:07",
-      "pubDate": "Thu, 02 Jul 2026 15:07:18 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians dá sequência aos trabalhos na intertemporada",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-da-sequencia-aos-trabalhos-na-intertemporada/",
-      "time": "02/07 · 11:33",
-      "pubDate": "Thu, 02 Jul 2026 11:33:57 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Confira jogadores que entram em reta final de contrato com o Corinthians em julho",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-jogadores-que-entram-em-reta-final-de-contrato-com-o-corinthians-em-julho/",
-      "time": "02/07 · 10:00",
-      "pubDate": "Thu, 02 Jul 2026 10:00:13 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians perde do Juventude, mas avança às quartas e pega o Palmeiras no Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-do-juventude-mas-avanca-as-quartas-e-pega-o-palmeiras-no-brasileiro-sub-20/",
-      "time": "01/07 · 20:02",
-      "pubDate": "Wed, 01 Jul 2026 20:02:00 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians entra na disputa, mas Internacional avança por zagueiro livre no mercado para reforçar defesa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-entra-na-disputa-mas-internacional-avanca-por-zagueiro-livre-no-mercado-para-reforcar-defesa]]>",
       "time": "01/07 · 19:55",
       "pubDate": "Wed, 01 Jul 2026 16:55:03 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians nesta quarta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-nesta-quarta-feira-10/",
-      "time": "01/07 · 18:30",
-      "pubDate": "Wed, 01 Jul 2026 18:30:58 +0000"
     },
     {
       "source": "Bolavip",
@@ -193,6 +129,70 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-contratacao-de-marlon-muniz-ex-vasco-preparador-fisico-ja-trabalhou-com-diniz]]>",
       "time": "29/06 · 16:55",
       "pubDate": "Mon, 29 Jun 2026 13:55:34 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
