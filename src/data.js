@@ -1,7 +1,55 @@
-// Gerado automaticamente em 03/07/2026, 13:26:45
+// Gerado automaticamente em 03/07/2026, 18:56:28
 const LIVE_DATA = {
-  "updatedAt": "2026-07-03T13:26:45.675Z",
+  "updatedAt": "2026-07-03T18:56:28.317Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcida do Corinthians se posiciona contra renovação de zagueiro para 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535320/torcida-do-corinthians-se-posiciona-contra-renovacao-de-zagueiro-para-2027",
+      "time": "03/07 · 18:33",
+      "pubDate": "Fri, 03 Jul 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece formato e adversários do Campeonato Paulista de Basquete de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535332/corinthians-conhece-formato-e-adversarios-do-campeonato-paulista-de-basquete-de-2026",
+      "time": "03/07 · 17:33",
+      "pubDate": "Fri, 03 Jul 2026 14:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "CBF altera horário de duas partidas do Corinthians pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535323/cbf-altera-horario-de-duas-partidas-do-corinthians-pelo-brasileirao-feminino",
+      "time": "03/07 · 16:20",
+      "pubDate": "Fri, 03 Jul 2026 13:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians integra trio da base à intertemporada do profissional no CT Dr. Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535326/corinthians-integra-trio-da-base-a-intertemporada-do-profissional-no-ct-dr-joaquim-grava",
+      "time": "03/07 · 15:23",
+      "pubDate": "Fri, 03 Jul 2026 12:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia venda de ingressos para duelo diante do Minas pela Liga Nacional de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535324/corinthians-inicia-venda-de-ingressos-para-duelo-diante-do-minas-pela-liga-nacional-de-futsal",
+      "time": "03/07 · 14:31",
+      "pubDate": "Fri, 03 Jul 2026 11:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Tite relembra resistência interna e explica aposta em Emerson Sheik no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535312/tite-relembra-resistencia-interna-e-explica-aposta-em-emerson-sheik-no-corinthians",
+      "time": "03/07 · 13:34",
+      "pubDate": "Fri, 03 Jul 2026 10:34:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,54 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535308/presidente-do-conselho-do-corinthians-pede-reuniao-com-cori-para-debater-reforma-do-estatuto",
       "time": "03/07 · 11:30",
       "pubDate": "Fri, 03 Jul 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: teste no time titular, efeito suspensivo e novo produto da patrocinadora",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535314/ultimas-do-corinthians-teste-no-time-titular-efeito-suspensivo-e-novo-produto-da-patrocinadora",
-      "time": "03/07 · 10:30",
-      "pubDate": "Fri, 03 Jul 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians promove tour acessível para crianças com deficiência visual na sede do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535307/corinthians-promove-tour-acessivel-para-criancas-com-deficiencia-visual-na-sede-do-clube",
-      "time": "03/07 · 01:30",
-      "pubDate": "Thu, 02 Jul 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Joia do Corinthians celebra conquista da Nations League Sub-17 com a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535304/joia-do-corinthians-celebra-conquista-da-nations-league-sub-17-com-a-selecao-brasileira",
-      "time": "03/07 · 00:34",
-      "pubDate": "Thu, 02 Jul 2026 21:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vê maior sequência invicta chegar ao fim após derrota no Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535285/corinthians-vemaior-sequencia-invicta-chegar-ao-fim-apos-derrota-no-paulista-feminino-sub-20",
-      "time": "02/07 · 23:35",
-      "pubDate": "Thu, 02 Jul 2026 20:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com André Ramalho para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535293/o-corinthians-deve-renovar-com-andre-ramalho-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "02/07 · 22:30",
-      "pubDate": "Thu, 02 Jul 2026 19:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra duas grandes sequências invictas após derrota no Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535276/corinthians-encerra-duas-grandes-sequencias-invictas-apos-derrota-no-brasileiro-sub-20",
-      "time": "02/07 · 21:31",
-      "pubDate": "Thu, 02 Jul 2026 18:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -204,24 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535254/goleada-do-corinthians-movimenta-ranking-de-artilheiros-da-equipe-em-2026",
       "pubDate": "Thu, 02 Jul 2026 10:31:00 -0300",
       "date": "02/07 · 13:31"
-    },
-    {
-      "title": "Ala do Corinthians celebra gol marcado e destaca início avassalador em goleada no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535245/ala-do-corinthians-celebra-gol-marcado-e-destaca-inicio-avassalador-em-goleada-no-paulista-de-futsal",
-      "pubDate": "Wed, 01 Jul 2026 19:36:00 -0300",
-      "date": "01/07 · 22:36"
-    },
-    {
-      "title": "Diretoria de futebol marca presença em goleada do Corinthians no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535282/diretoria-de-futebol-marca-presenca-em-goleada-do-corinthians-no-paulista-de-futsal",
-      "pubDate": "Wed, 01 Jul 2026 19:33:00 -0300",
-      "date": "01/07 · 22:33"
-    },
-    {
-      "title": "VÍDEO: Corinthians inicia limpeza da área externa da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128430/corinthians-inicia-limpeza-da-area-externa-da-neo-quimica-arena",
-      "pubDate": "Wed, 01 Jul 2026 18:58:00 -0300",
-      "date": "01/07 · 21:58"
     }
   ]
 };
