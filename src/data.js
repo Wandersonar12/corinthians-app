@@ -1,7 +1,71 @@
-// Gerado automaticamente em 03/07/2026, 18:56:28
+// Gerado automaticamente em 03/07/2026, 22:50:38
 const LIVE_DATA = {
-  "updatedAt": "2026-07-03T18:56:28.317Z",
+  "updatedAt": "2026-07-03T22:50:38.599Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com Corinthians, Palmeiras e Santos, CBF detalha tabela das quartas do Brasileirão sub-20",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/brasileirao-sub-20-quartas-de-final/",
+      "time": "03/07 · 22:48",
+      "pubDate": "Fri, 03 Jul 2026 22:48:55 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca melhorar desempenho ofensivo jogando em casa na sequência do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535318/corinthians-busca-melhorar-desempenho-ofensivo-jogando-em-casa-na-sequencia-do-brasileirao",
+      "time": "03/07 · 22:32",
+      "pubDate": "Fri, 03 Jul 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians intensifica movimentações ofensivas durante intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intensifica-movimentacoes-ofensivas-durante-intertemporada/",
+      "time": "03/07 · 21:23",
+      "pubDate": "Fri, 03 Jul 2026 21:23:24 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadores da base do Corinthians projetam duelos contra o Juventus pelo Campeonato Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535338/jogadores-da-base-do-corinthians-projetam-duelos-contra-o-juventus-pelo-paulista",
+      "time": "03/07 · 21:02",
+      "pubDate": "Fri, 03 Jul 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "O Corinthians deve renovar com Fabrizio Angileri para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535321/o-corinthians-deve-renovar-com-fabrizio-angileri-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "03/07 · 20:32",
+      "pubDate": "Fri, 03 Jul 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians treinam com foco em organização e transição defensiva",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535337/elenco-das-brabas-treina-com-foco-em-organizacao-e-transicao-defensiva",
+      "time": "03/07 · 20:12",
+      "pubDate": "Fri, 03 Jul 2026 17:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians finaliza sexta-feira com atividades de enfrentamento e força em treinamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535336/corinthians-finaliza-sexta-feira-com-atividades-de-enfrentamento-e-forca-em-treinamento",
+      "time": "03/07 · 20:07",
+      "pubDate": "Fri, 03 Jul 2026 17:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca emendar terceira vitória seguida pela primeira vez na temporada do futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535309/corinthians-busca-emendar-terceira-vitoria-seguida-pela-primeira-vez-na-temporada-do-futsal",
+      "time": "03/07 · 19:34",
+      "pubDate": "Fri, 03 Jul 2026 16:34:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +73,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535320/torcida-do-corinthians-se-posiciona-contra-renovacao-de-zagueiro-para-2027",
       "time": "03/07 · 18:33",
       "pubDate": "Fri, 03 Jul 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay faz exigências e “trava” renovação no Corinthians; holandês quer R$ 50 milhões por ano",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-exigencias-e-trava-renovacao-no-corinthians-holandes-quer-r-50-milhoes-por-ano]]>",
+      "time": "03/07 · 17:58",
+      "pubDate": "Fri, 03 Jul 2026 14:58:08 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,52 +91,52 @@ const LIVE_DATA = {
       "pubDate": "Fri, 03 Jul 2026 14:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "CBF altera horário de duas partidas do Corinthians pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535323/cbf-altera-horario-de-duas-partidas-do-corinthians-pelo-brasileirao-feminino",
-      "time": "03/07 · 16:20",
-      "pubDate": "Fri, 03 Jul 2026 13:20:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians desta sexta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-sexta-feira-33/",
+      "time": "03/07 · 17:26",
+      "pubDate": "Fri, 03 Jul 2026 17:26:13 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians integra trio da base à intertemporada do profissional no CT Dr. Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535326/corinthians-integra-trio-da-base-a-intertemporada-do-profissional-no-ct-dr-joaquim-grava",
-      "time": "03/07 · 15:23",
-      "pubDate": "Fri, 03 Jul 2026 12:23:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Dentro de casa, Corinthians tem o pior ataque do Campeonato Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/dentro-de-casa-corinthians-tem-o-oitavo-pior-ataque-do-campeonato-brasileiro/",
+      "time": "03/07 · 10:00",
+      "pubDate": "Fri, 03 Jul 2026 10:00:31 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo diante do Minas pela Liga Nacional de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535324/corinthians-inicia-venda-de-ingressos-para-duelo-diante-do-minas-pela-liga-nacional-de-futsal",
-      "time": "03/07 · 14:31",
-      "pubDate": "Fri, 03 Jul 2026 11:31:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians recebe visita de técnico da Seleção sub-20 e dá sequência à intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-recebe-visita-de-tecnico-da-selecao-sub-20-e-da-sequencia-a-intertemporada/",
+      "time": "02/07 · 19:07",
+      "pubDate": "Thu, 02 Jul 2026 19:07:31 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Tite relembra resistência interna e explica aposta em Emerson Sheik no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535312/tite-relembra-resistencia-interna-e-explica-aposta-em-emerson-sheik-no-corinthians",
-      "time": "03/07 · 13:34",
-      "pubDate": "Fri, 03 Jul 2026 10:34:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians desta quinta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-quinta-feira-31/",
+      "time": "02/07 · 18:41",
+      "pubDate": "Thu, 02 Jul 2026 18:41:52 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians cancela viagem para o Mato Grosso e muda planos para intertemporada do time feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535322/corinthians-cancela-viagem-para-o-mato-grosso-e-muda-planos-para-intertemporada-do-time-feminino",
-      "time": "03/07 · 12:32",
-      "pubDate": "Fri, 03 Jul 2026 09:32:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Há 2 anos, Hugo Souza era anunciado como reforço do Corinthians; relembre sua chegada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-2-anos-hugo-souza-era-anunciado-como-reforco-do-corinthians-relembre-sua-chegada/",
+      "time": "02/07 · 15:07",
+      "pubDate": "Thu, 02 Jul 2026 15:07:18 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Conselho do Corinthians pede reunião com Cori para debater reforma do Estatuto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535308/presidente-do-conselho-do-corinthians-pede-reuniao-com-cori-para-debater-reforma-do-estatuto",
-      "time": "03/07 · 11:30",
-      "pubDate": "Fri, 03 Jul 2026 08:30:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians dá sequência aos trabalhos na intertemporada",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-da-sequencia-aos-trabalhos-na-intertemporada/",
+      "time": "02/07 · 11:33",
+      "pubDate": "Thu, 02 Jul 2026 11:33:57 +0000"
     },
     {
       "source": "Bolavip",
@@ -121,78 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-volta-a-se-interessar-por-andre-e-pode-oferecer-arthur-em-troca-com-corinthians]]>",
       "time": "29/06 · 20:19",
       "pubDate": "Mon, 29 Jun 2026 17:19:15 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians acerta contratação de Marlon Muniz, ex-Vasco; preparador físico já trabalhou com Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acerta-contratacao-de-marlon-muniz-ex-vasco-preparador-fisico-ja-trabalhou-com-diniz]]>",
-      "time": "29/06 · 16:55",
-      "pubDate": "Mon, 29 Jun 2026 13:55:34 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
