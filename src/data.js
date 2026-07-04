@@ -1,70 +1,70 @@
-// Gerado automaticamente em 04/07/2026, 12:52:58
+// Gerado automaticamente em 04/07/2026, 18:49:27
 const LIVE_DATA = {
-  "updatedAt": "2026-07-04T12:52:58.332Z",
+  "updatedAt": "2026-07-04T18:49:27.755Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Umuarama para se afastar da zona de rebaixamento da LNF; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535335/corinthians-enfrenta-o-umuarama-para-se-afastar-da-zona-de-rebaixamento-da-lnf-saiba-tudo",
-      "time": "04/07 · 12:32",
-      "pubDate": "Sat, 04 Jul 2026 09:32:00 -0300"
+      "title": "Corinthians busca primeira vitória fora de casa na LNF após quase oito meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535331/corinthians-busca-primeira-vitoria-fora-de-casa-na-lnf-apos-quase-oito-meses",
+      "time": "04/07 · 18:31",
+      "pubDate": "Sat, 04 Jul 2026 15:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Gazin Porto Velho para fechar a primeira fase do Brasileirão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535342/corinthians-recebe-o-gazin-porto-velho-para-fechar-a-primeira-fase-do-brasileirao-feminino-sub-17",
-      "time": "04/07 · 12:00",
-      "pubDate": "Sat, 04 Jul 2026 09:00:00 -0300"
+      "title": "Corinthians finaliza semana de treinos no feminino com trabalhos físicos e táticos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535369/corinthians-finaliza-semana-de-treinos-no-feminino-com-trabalhos-fisicos-e-taticos",
+      "time": "04/07 · 17:32",
+      "pubDate": "Sat, 04 Jul 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Juventus em busca de subir na tabela do Paulista Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535333/corinthians-recebe-o-juventus-em-busca-de-subir-na-tabela-do-paulista-sub-17-saiba-tudo",
-      "time": "04/07 · 11:30",
-      "pubDate": "Sat, 04 Jul 2026 08:30:00 -0300"
+      "title": "Corinthians completa décimo dia seguido de treinamento com atividades no CT",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535367/corinthians-completa-decimo-dia-seguido-de-treinamento-com-atividades-no-ct",
+      "time": "04/07 · 17:18",
+      "pubDate": "Sat, 04 Jul 2026 14:18:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: integração de atletas da base, pedido de reunião e rejeição da torcida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535350/ultimas-do-corinthians-integracao-de-atletas-da-base-pedido-de-reuniao-e-rejeicao-da-torcida",
-      "time": "04/07 · 10:30",
-      "pubDate": "Sat, 04 Jul 2026 07:30:00 -0300"
+      "title": "Corinthians anuncia Fatal Fans como novo patrocinador",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535363/corinthians-anuncia-fatal-fans-como-novo-patrocinador",
+      "time": "04/07 · 16:15",
+      "pubDate": "Sat, 04 Jul 2026 13:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece datas e horários de Dérbis decisivos pelo Campeonato Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535349/corinthians-conhece-datas-e-horarios-de-derbis-decisivos-pelo-campeonato-brasileiro-sub-20",
-      "time": "04/07 · 01:30",
-      "pubDate": "Fri, 03 Jul 2026 22:30:00 -0300"
+      "title": "Corinthians vence duelo direto contra o Juventus e sobe na tabela do Paulistão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535361/corinthians-vence-duelo-direto-contra-o-juventus-e-sobe-na-tabela-do-paulistao-sub-17",
+      "time": "04/07 · 15:41",
+      "pubDate": "Sat, 04 Jul 2026 12:41:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-técnico do Corinthians exalta passagens no clube e revela melhor jogador que treinou",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535334/ex-tecnico-do-corinthians-exalta-passagens-no-clube-e-revela-melhor-jogador-que-treinou",
-      "time": "04/07 · 00:36",
-      "pubDate": "Fri, 03 Jul 2026 21:36:00 -0300"
+      "title": "Atacante revelada pelo Corinthians é anunciada por equipe universitária dos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535360/atacante-revelada-pelo-corinthians-e-anunciada-por-equipe-universitaria-dos-estados-unidos",
+      "time": "04/07 · 15:15",
+      "pubDate": "Sat, 04 Jul 2026 12:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians Sub-20 participam de tour em Itaquera e recebem brindes de patrocinadora",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535346/jogadoras-do-corinthians-sub-20-participam-de-tour-em-itaquera-e-recebem-brindes-de-patrocinadora",
-      "time": "03/07 · 23:32",
-      "pubDate": "Fri, 03 Jul 2026 20:32:00 -0300"
+      "title": "Organizadas do Corinthians e do Boca Juniors se reúnem para discutir ações no combate ao racismo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535347/organizadas-do-corinthians-e-do-boca-juniors-se-reunem-para-discutir-acoes-no-combate-ao-racismo",
+      "time": "04/07 · 14:31",
+      "pubDate": "Sat, 04 Jul 2026 11:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro fala sobre seus dois anos no Corinthians e se declara ao clube: 'Mudaram minha vida'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535344/goleiro-fala-sobre-seus-dois-anos-no-corinthians-e-se-declara-ao-clube-mudaram-minha-vida",
-      "time": "03/07 · 23:16",
-      "pubDate": "Fri, 03 Jul 2026 20:16:00 -0300"
+      "title": "Você sabia? Haaland jogou ao lado de André Ramalho e já vestiu a camisa do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535328/voce-sabia-haaland-jogou-ao-lado-de-andre-ramalho-e-ja-vestiu-a-camisa-do-corinthians",
+      "time": "04/07 · 13:36",
+      "pubDate": "Sat, 04 Jul 2026 10:36:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: 10 maiores vendas da história do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128448/10-maiores-vendas-da-historia-do-corinthians",
+      "pubDate": "Sat, 04 Jul 2026 09:43:00 -0300",
+      "date": "04/07 · 12:43"
+    },
     {
       "title": "Goleiro fala sobre seus dois anos no Corinthians e se declara ao clube: 'Mudaram minha vida'",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535344/goleiro-fala-sobre-seus-dois-anos-no-corinthians-e-se-declara-ao-clube-mudaram-minha-vida",
