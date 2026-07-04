@@ -1,7 +1,39 @@
-// Gerado automaticamente em 03/07/2026, 22:50:38
+// Gerado automaticamente em 04/07/2026, 09:56:58
 const LIVE_DATA = {
-  "updatedAt": "2026-07-03T22:50:38.599Z",
+  "updatedAt": "2026-07-04T09:56:58.744Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece datas e horários de Dérbis decisivos pelo Campeonato Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535349/corinthians-conhece-datas-e-horarios-de-derbis-decisivos-pelo-campeonato-brasileiro-sub-20",
+      "time": "04/07 · 01:30",
+      "pubDate": "Fri, 03 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-técnico do Corinthians exalta passagens no clube e revela melhor jogador que treinou",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535334/ex-tecnico-do-corinthians-exalta-passagens-no-clube-e-revela-melhor-jogador-que-treinou",
+      "time": "04/07 · 00:36",
+      "pubDate": "Fri, 03 Jul 2026 21:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians Sub-20 participam de tour em Itaquera e recebem brindes de patrocinadora",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535346/jogadoras-do-corinthians-sub-20-participam-de-tour-em-itaquera-e-recebem-brindes-de-patrocinadora",
+      "time": "03/07 · 23:32",
+      "pubDate": "Fri, 03 Jul 2026 20:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro fala sobre seus dois anos no Corinthians e se declara ao clube: 'Mudaram minha vida'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535344/goleiro-fala-sobre-seus-dois-anos-no-corinthians-e-se-declara-ao-clube-mudaram-minha-vida",
+      "time": "03/07 · 23:16",
+      "pubDate": "Fri, 03 Jul 2026 20:16:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -35,6 +67,14 @@ const LIVE_DATA = {
       "pubDate": "Fri, 03 Jul 2026 18:02:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians envia representantes para a Copa do Mundo a pedido de Diniz para ir em busca de opções",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-envia-representantes-para-a-copa-do-mundo-a-pedido-de-diniz-para-ir-em-busca-de-opcoes]]>",
+      "time": "03/07 · 21:00",
+      "pubDate": "Fri, 03 Jul 2026 18:00:36 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "O Corinthians deve renovar com Fabrizio Angileri para 2027? Vote na enquete do Meu Timão!",
@@ -51,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 03 Jul 2026 17:12:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians finaliza sexta-feira com atividades de enfrentamento e força em treinamento",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535336/corinthians-finaliza-sexta-feira-com-atividades-de-enfrentamento-e-forca-em-treinamento",
-      "time": "03/07 · 20:07",
-      "pubDate": "Fri, 03 Jul 2026 17:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca emendar terceira vitória seguida pela primeira vez na temporada do futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535309/corinthians-busca-emendar-terceira-vitoria-seguida-pela-primeira-vez-na-temporada-do-futsal",
-      "time": "03/07 · 19:34",
-      "pubDate": "Fri, 03 Jul 2026 16:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcida do Corinthians se posiciona contra renovação de zagueiro para 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535320/torcida-do-corinthians-se-posiciona-contra-renovacao-de-zagueiro-para-2027",
-      "time": "03/07 · 18:33",
-      "pubDate": "Fri, 03 Jul 2026 15:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay faz exigências e “trava” renovação no Corinthians; holandês quer R$ 50 milhões por ano",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-exigencias-e-trava-renovacao-no-corinthians-holandes-quer-r-50-milhoes-por-ano]]>",
       "time": "03/07 · 17:58",
       "pubDate": "Fri, 03 Jul 2026 14:58:08 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece formato e adversários do Campeonato Paulista de Basquete de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535332/corinthians-conhece-formato-e-adversarios-do-campeonato-paulista-de-basquete-de-2026",
-      "time": "03/07 · 17:33",
-      "pubDate": "Fri, 03 Jul 2026 14:33:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-recebe-10-dias-de-ferias-do-corinthians-antes-de-reapresentacao-e-provavel-renovacao]]>",
       "time": "30/06 · 17:26",
       "pubDate": "Tue, 30 Jun 2026 14:26:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Juventus volta a se interessar por André e pode oferecer Arthur em troca com Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-volta-a-se-interessar-por-andre-e-pode-oferecer-arthur-em-troca-com-corinthians]]>",
-      "time": "29/06 · 20:19",
-      "pubDate": "Mon, 29 Jun 2026 17:19:15 -0300"
     }
   ],
   "upcoming": [],
@@ -200,10 +200,10 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Goleada do Corinthians movimenta ranking de artilheiros do futsal em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535254/goleada-do-corinthians-movimenta-ranking-de-artilheiros-da-equipe-em-2026",
-      "pubDate": "Thu, 02 Jul 2026 10:31:00 -0300",
-      "date": "02/07 · 13:31"
+      "title": "Goleiro fala sobre seus dois anos no Corinthians e se declara ao clube: 'Mudaram minha vida'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535344/goleiro-fala-sobre-seus-dois-anos-no-corinthians-e-se-declara-ao-clube-mudaram-minha-vida",
+      "pubDate": "Fri, 03 Jul 2026 20:16:00 -0300",
+      "date": "03/07 · 23:16"
     }
   ]
 };
