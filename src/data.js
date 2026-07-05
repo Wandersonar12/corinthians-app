@@ -1,7 +1,31 @@
-// Gerado automaticamente em 05/07/2026, 10:00:49
+// Gerado automaticamente em 05/07/2026, 13:00:34
 const LIVE_DATA = {
-  "updatedAt": "2026-07-05T10:00:49.523Z",
+  "updatedAt": "2026-07-05T13:00:34.577Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis pode receber mais R$ 3 milhões por atingir meta de partidas no Corinthians; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535359/memphis-pode-receber-mais-r-3-milhoes-por-atingir-meta-de-partidas-no-corinthians-entenda",
+      "time": "05/07 · 12:31",
+      "pubDate": "Sun, 05 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Sertãozinho em busca de manter invencibilidade no Paulista Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535372/corinthians-recebe-o-sertaozinho-em-busca-de-manter-invencibilidade-no-paulista-sub-20-saiba-tudo",
+      "time": "05/07 · 11:30",
+      "pubDate": "Sun, 05 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novo patrocinador, parceria de zagueiro com Haaland e saída de atacante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535377/ultimas-do-corinthians-novo-patrocinador-parceria-de-zagueiro-com-haaland-e-saida-de-atacante",
+      "time": "05/07 · 10:30",
+      "pubDate": "Sun, 05 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -9,6 +33,14 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-folga-em-meio-a-intertemporada-antes-de-se-preparar-para-amistoso/",
       "time": "05/07 · 09:00",
       "pubDate": "Sun, 05 Jul 2026 09:00:45 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pedro Raul é oferecido ao León, do México e Corinthians planeja negociar o atacante nesta janela",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-e-oferecido-ao-leon-do-mexico-e-corinthians-planeja-negociar-o-atacante-nesta-janela]]>",
+      "time": "05/07 · 01:44",
+      "pubDate": "Sat, 04 Jul 2026 22:44:21 -0300"
     },
     {
       "source": "Meu Timao",
@@ -49,30 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535362/corinthians-e-o-clube-com-o-menor-patrimonio-liquido-da-serie-a-do-brasileirao",
       "time": "04/07 · 22:02",
       "pubDate": "Sat, 04 Jul 2026 19:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilheiro do Sub-15 projeta título do Campeonato Paulista pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535357/artilheiro-do-sub-15-projeta-titulo-do-campeonato-paulista-pelo-corinthians",
-      "time": "04/07 · 21:32",
-      "pubDate": "Sat, 04 Jul 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence Gazin Porto Velho e garante 100% de aproveitamento no Brasileirão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535374/corinthians-vence-gazin-porto-velho-e-garante-100-por-cento-de-aproveitamento-no-brasileirao-sub-17",
-      "time": "04/07 · 19:57",
-      "pubDate": "Sat, 04 Jul 2026 16:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pivô supera marca de gols da temporada passada e assume protagonismo no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535311/pivo-supera-marca-de-gols-da-temporada-passada-e-assume-protagonismo-no-corinthians",
-      "time": "04/07 · 19:32",
-      "pubDate": "Sat, 04 Jul 2026 16:32:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/eliminacao-da-holanda-e-ausencia-de-memphis-depay-movimentam-torcida-do-corinthians]]>",
       "time": "30/06 · 22:14",
       "pubDate": "Tue, 30 Jun 2026 19:14:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay recebe 10 dias de férias do Corinthians antes de reapresentação e provável renovação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-recebe-10-dias-de-ferias-do-corinthians-antes-de-reapresentacao-e-provavel-renovacao]]>",
-      "time": "30/06 · 17:26",
-      "pubDate": "Tue, 30 Jun 2026 14:26:21 -0300"
     }
   ],
   "upcoming": [],
