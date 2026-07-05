@@ -1,7 +1,39 @@
-// Gerado automaticamente em 05/07/2026, 18:54:51
+// Gerado automaticamente em 05/07/2026, 22:45:24
 const LIVE_DATA = {
-  "updatedAt": "2026-07-05T18:54:51.616Z",
+  "updatedAt": "2026-07-05T22:45:24.931Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fiel se mostra contra a renovação de lateral do Corinthians para 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535394/fiel-se-mostra-contra-a-renovacao-de-lateral-do-corinthians-para-2027",
+      "time": "05/07 · 22:31",
+      "pubDate": "Sun, 05 Jul 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde na LNF e fica próximo da zona de rebaixamento; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535382/corinthians-perde-na-lnf-e-fica-proximo-da-zona-de-rebaixamento-veja-a-tabela",
+      "time": "05/07 · 21:33",
+      "pubDate": "Sun, 05 Jul 2026 18:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians avalia derrota na LNF e minimiza dores no joelho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535383/ala-do-corinthians-avalia-derrota-na-lnf-e-minimiza-dores-no-joelho",
+      "time": "05/07 · 20:32",
+      "pubDate": "Sun, 05 Jul 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Clube alemão reúne nomes ligados ao Corinthians em encontro especial em São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535388/clube-alemao-reune-nomes-ligados-ao-corinthians-em-encontro-especial-em-sao-paulo",
+      "time": "05/07 · 19:34",
+      "pubDate": "Sun, 05 Jul 2026 16:34:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 05 Jul 2026 13:02:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral busca confiança de Diniz para ganhar minutos no Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535375/lateral-busca-confianca-de-diniz-para-ganhar-minutos-no-corinthians-em-2026",
-      "time": "05/07 · 15:35",
-      "pubDate": "Sun, 05 Jul 2026 12:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Principal torcida organizada do Corinthians lota Neo Química Arena para celebração dos seus 57 anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535384/principal-torcida-organizada-do-corinthians-lota-neo-quimica-arena-para-celebracao-dos-seus-57-anos",
-      "time": "05/07 · 14:31",
-      "pubDate": "Sun, 05 Jul 2026 11:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Armador do Corinthians fica no banco em vitória da Seleção Brasileira de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535380/armador-do-corinthians-fica-no-banco-em-vitoria-da-selecao-brasileira-de-basquete",
-      "time": "05/07 · 13:32",
-      "pubDate": "Sun, 05 Jul 2026 10:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis pode receber mais R$ 3 milhões por atingir meta de partidas no Corinthians; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535359/memphis-pode-receber-mais-r-3-milhoes-por-atingir-meta-de-partidas-no-corinthians-entenda",
-      "time": "05/07 · 12:31",
-      "pubDate": "Sun, 05 Jul 2026 09:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Martinelli foi alvo de 25 clubes quando defendia o Ituano depois de deixar a base do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/martinelli-foi-alvo-de-25-clubes-quando-defendia-o-ituano-depois-de-deixar-a-base-do-corinthians]]>",
+      "time": "05/07 · 13:59",
+      "pubDate": "Sun, 05 Jul 2026 10:59:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-venda-de-breno-bidon-ou-andre-luiz-em-busca-de-reequilibrio-financeiro]]>",
       "time": "01/07 · 03:34",
       "pubDate": "Wed, 01 Jul 2026 00:34:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Eliminação da Holanda e ausência de Memphis Depay movimentam torcida do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/eliminacao-da-holanda-e-ausencia-de-memphis-depay-movimentam-torcida-do-corinthians]]>",
-      "time": "30/06 · 22:14",
-      "pubDate": "Tue, 30 Jun 2026 19:14:51 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535311/pivo-supera-marca-de-gols-da-temporada-passada-e-assume-protagonismo-no-corinthians",
       "pubDate": "Sat, 04 Jul 2026 16:32:00 -0300",
       "date": "04/07 · 19:32"
-    },
-    {
-      "title": "VÍDEO: 10 maiores vendas da história do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128448/10-maiores-vendas-da-historia-do-corinthians",
-      "pubDate": "Sat, 04 Jul 2026 09:43:00 -0300",
-      "date": "04/07 · 12:43"
     }
   ]
 };
