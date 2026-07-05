@@ -1,7 +1,47 @@
-// Gerado automaticamente em 04/07/2026, 22:43:29
+// Gerado automaticamente em 05/07/2026, 10:00:49
 const LIVE_DATA = {
-  "updatedAt": "2026-07-04T22:43:29.739Z",
+  "updatedAt": "2026-07-05T10:00:49.523Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians folga em meio à intertemporada antes de se preparar para amistoso",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-folga-em-meio-a-intertemporada-antes-de-se-preparar-para-amistoso/",
+      "time": "05/07 · 09:00",
+      "pubDate": "Sun, 05 Jul 2026 09:00:45 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "O Corinthians deve renovar com o lateral Hugo para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535329/o-corinthians-deve-renovar-com-o-lateral-hugo-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "05/07 · 01:00",
+      "pubDate": "Sat, 04 Jul 2026 22:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleada do Corinthians sobre o Juventus movimenta artilharia do Sub-17; confira a lista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535365/goleada-do-corinthians-sobre-o-juventus-movimenta-artilharia-do-sub-17-confira-a-lista",
+      "time": "05/07 · 00:04",
+      "pubDate": "Sat, 04 Jul 2026 21:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde para o Umuarama e volta a flertar com rebaixamento na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535379/corinthians-perde-para-o-umuarama-e-volta-a-flertar-com-rebaixamento-na-lnf",
+      "time": "05/07 · 00:03",
+      "pubDate": "Sat, 04 Jul 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians celebra 14 anos de título da Copa Libertadores; relembre a campanha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535366/corinthians-celebra-14-anos-de-titulo-da-copa-libertadores-relembre-a-campanha",
+      "time": "04/07 · 23:03",
+      "pubDate": "Sat, 04 Jul 2026 20:03:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,14 +75,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Jul 2026 16:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca primeira vitória fora de casa na LNF após quase oito meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535331/corinthians-busca-primeira-vitoria-fora-de-casa-na-lnf-apos-quase-oito-meses",
-      "time": "04/07 · 18:31",
-      "pubDate": "Sat, 04 Jul 2026 15:31:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians conclui décimo dia de intertemporada com ajustes táticos de Diniz",
@@ -59,14 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Jul 2026 17:38:04 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians finaliza semana de treinos no feminino com trabalhos físicos e táticos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535369/corinthians-finaliza-semana-de-treinos-no-feminino-com-trabalhos-fisicos-e-taticos",
-      "time": "04/07 · 17:32",
-      "pubDate": "Sat, 04 Jul 2026 14:32:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Romero completa 34 anos; relembre gols do paraguaio pelo Corinthians na Neo Química Arena",
@@ -75,28 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 04 Jul 2026 17:23:31 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians completa décimo dia seguido de treinamento com atividades no CT",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535367/corinthians-completa-decimo-dia-seguido-de-treinamento-com-atividades-no-ct",
-      "time": "04/07 · 17:18",
-      "pubDate": "Sat, 04 Jul 2026 14:18:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Há 14 anos, Corinthians conquistava a Libertadores; relembre gols da campanha invicta",
       "url": "https://www.gazetaesportiva.com/times/corinthians/ha-14-anos-corinthians-conquistava-a-libertadores-relembre-gols-da-campanha-invicta/",
       "time": "04/07 · 17:09",
       "pubDate": "Sat, 04 Jul 2026 17:09:49 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia Fatal Fans como novo patrocinador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535363/corinthians-anuncia-fatal-fans-como-novo-patrocinador",
-      "time": "04/07 · 16:15",
-      "pubDate": "Sat, 04 Jul 2026 13:15:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -137,14 +145,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-exigencias-e-trava-renovacao-no-corinthians-holandes-quer-r-50-milhoes-por-ano]]>",
       "time": "03/07 · 17:58",
       "pubDate": "Fri, 03 Jul 2026 14:58:08 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians desta sexta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-sexta-feira-33/",
-      "time": "03/07 · 17:26",
-      "pubDate": "Fri, 03 Jul 2026 17:26:13 +0000"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleada do Corinthians sobre o Juventus movimenta artilharia do Sub-17; confira a lista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535365/goleada-do-corinthians-sobre-o-juventus-movimenta-artilharia-do-sub-17-confira-a-lista",
+      "pubDate": "Sat, 04 Jul 2026 21:04:00 -0300",
+      "date": "05/07 · 00:04"
+    },
     {
       "title": "Pivô supera marca de gols da temporada passada e assume protagonismo no Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535311/pivo-supera-marca-de-gols-da-temporada-passada-e-assume-protagonismo-no-corinthians",
