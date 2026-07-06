@@ -1,7 +1,31 @@
-// Gerado automaticamente em 06/07/2026, 11:52:39
+// Gerado automaticamente em 06/07/2026, 14:49:07
 const LIVE_DATA = {
-  "updatedAt": "2026-07-06T11:52:39.218Z",
+  "updatedAt": "2026-07-06T14:49:07.184Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vê jejum aumentar após nova derrota fora de casa na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535381/corinthians-ve-jejum-aumentar-apos-nova-derrota-fora-de-casa-na-lnf",
+      "time": "06/07 · 14:36",
+      "pubDate": "Mon, 06 Jul 2026 11:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians terá semana com amistoso pelo profissional e Dérbi duplo nas categorias de base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535410/corinthians-tera-semana-com-amistoso-pelo-profissional-e-derbi-duplo-nas-categorias-de-base",
+      "time": "06/07 · 13:31",
+      "pubDate": "Mon, 06 Jul 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante marca pela primeira vez e entra na lista de artilheiros do Corinthians Sub-20; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535397/atacante-marca-pela-primeira-vez-e-entra-na-lista-de-artilheiros-do-corinthians-sub-20-confira",
+      "time": "06/07 · 12:32",
+      "pubDate": "Mon, 06 Jul 2026 09:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -13,7 +37,7 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: bônus a atacante, Arena em festa e buscando minutos",
+      "title": "Últimas do Corinthians: bônus a Memphis, festa da organizada e lateral em busca de oportunidades",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535402/ultimas-do-corinthians-bonus-a-atacante-arena-em-festa-e-buscando-minutos",
       "time": "06/07 · 10:30",
       "pubDate": "Mon, 06 Jul 2026 07:30:00 -0300"
@@ -49,30 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535400/ex-zagueiro-do-corinthians-desabafa-em-tom-de-despedida-apos-eliminacao-da-selecao-brasileira",
       "time": "05/07 · 23:44",
       "pubDate": "Sun, 05 Jul 2026 20:44:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel se mostra contra a renovação de lateral do Corinthians para 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535394/fiel-se-mostra-contra-a-renovacao-de-lateral-do-corinthians-para-2027",
-      "time": "05/07 · 22:31",
-      "pubDate": "Sun, 05 Jul 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde na LNF e fica próximo da zona de rebaixamento; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535382/corinthians-perde-na-lnf-e-fica-proximo-da-zona-de-rebaixamento-veja-a-tabela",
-      "time": "05/07 · 21:33",
-      "pubDate": "Sun, 05 Jul 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians avalia derrota na LNF e minimiza dores no joelho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535383/ala-do-corinthians-avalia-derrota-na-lnf-e-minimiza-dores-no-joelho",
-      "time": "05/07 · 20:32",
-      "pubDate": "Sun, 05 Jul 2026 17:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535365/goleada-do-corinthians-sobre-o-juventus-movimenta-artilharia-do-sub-17-confira-a-lista",
       "pubDate": "Sat, 04 Jul 2026 21:04:00 -0300",
       "date": "05/07 · 00:04"
-    },
-    {
-      "title": "Pivô supera marca de gols da temporada passada e assume protagonismo no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535311/pivo-supera-marca-de-gols-da-temporada-passada-e-assume-protagonismo-no-corinthians",
-      "pubDate": "Sat, 04 Jul 2026 16:32:00 -0300",
-      "date": "04/07 · 19:32"
     }
   ]
 };
