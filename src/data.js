@@ -1,7 +1,31 @@
-// Gerado automaticamente em 07/07/2026, 10:42:23
+// Gerado automaticamente em 07/07/2026, 13:59:38
 const LIVE_DATA = {
-  "updatedAt": "2026-07-07T10:42:23.362Z",
+  "updatedAt": "2026-07-07T13:59:38.043Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians convoca a Fiel para duelo decisivo contra o Minas pela LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535441/idolo-do-corinthians-convoca-fiel-para-duelo-decisivo-contra-o-minas-pela-lnf",
+      "time": "07/07 · 13:32",
+      "pubDate": "Tue, 07 Jul 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Relatório contratado pelo Corinthians recomenda demolição parcial da Fazendinha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535419/relatorio-contratado-pelo-corinthians-recomenda-demolicao-parcial-da-fazendinha",
+      "time": "07/07 · 12:31",
+      "pubDate": "Tue, 07 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Palmeiras para voltar a vencer no Brasileiro Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535416/corinthians-recebe-o-palmeiras-para-voltar-a-vencer-no-brasileiro-sub-17-saiba-tudo",
+      "time": "07/07 · 11:30",
+      "pubDate": "Tue, 07 Jul 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +33,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535432/ultimas-do-corinthians-agenda-cheia-destaque-na-selecao-e-rejeicao-a-vitinho",
       "time": "07/07 · 10:30",
       "pubDate": "Tue, 07 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com quem o Corinthians não pode deixar de renovar para 2027? Vote!",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-qual-jogador-o-corinthians-nao-deve-deixar-de-renovar-o-contrato-para-2027-vote/",
+      "time": "07/07 · 10:00",
+      "pubDate": "Tue, 07 Jul 2026 10:00:18 +0000"
     },
     {
       "source": "Meu Timao",
@@ -35,6 +67,14 @@ const LIVE_DATA = {
       "pubDate": "Mon, 06 Jul 2026 22:03:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians observa Cristian Martínez, titular do Panamá na Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-observa-cristian-martinez-titular-do-panama-na-copa-do-mundo]]>",
+      "time": "07/07 · 00:56",
+      "pubDate": "Mon, 06 Jul 2026 21:56:25 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Zagueiro do Grêmio exalta ex-atacante do Corinthians e relembra confrontos",
@@ -43,28 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 06 Jul 2026 21:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians volta a treinar com o grupo após viagem à Inglaterra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535430/meia-do-corinthians-volta-a-treinar-com-o-grupo-apos-viagem-a-inglaterra",
-      "time": "06/07 · 23:46",
-      "pubDate": "Mon, 06 Jul 2026 20:46:40 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians projeta Dérbi pelo Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535415/goleiro-do-corinthians-projeta-derbi-pelo-campeonato-brasileiro-sub-17",
-      "time": "06/07 · 23:32",
-      "pubDate": "Mon, 06 Jul 2026 20:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Justiça suspende reunião que afastou Romeu Tuma Júnior da presidência do Conselho do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535428/justica-suspende-reuniao-que-afastou-romeu-tuma-junior-da-presidencia-do-conselho-do-corinthians",
-      "time": "06/07 · 23:25",
-      "pubDate": "Mon, 06 Jul 2026 20:25:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Palmeiras: saiba onde assistir ao clássico pelo Brasileiro sub-17",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-x-palmeiras-saiba-onde-assistir-ao-classico-pelo-brasileiro-sub-17/",
+      "time": "06/07 · 23:00",
+      "pubDate": "Mon, 06 Jul 2026 23:00:22 +0000"
     },
     {
       "source": "Bolavip",
@@ -75,6 +99,38 @@ const LIVE_DATA = {
       "pubDate": "Mon, 06 Jul 2026 19:42:54 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians desta segunda-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-segunda-feira-21/",
+      "time": "06/07 · 19:30",
+      "pubDate": "Mon, 06 Jul 2026 19:30:01 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se reapresenta com treino técnico-tático em 11º dia de intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-com-treino-tecnico-tatico-em-11o-dia-de-intertemporada/",
+      "time": "06/07 · 19:27",
+      "pubDate": "Mon, 06 Jul 2026 19:27:27 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians chega ao 10º dia de intertemporada com ajustes táticos de Fernando Diniz",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-chega-ao-10o-dia-de-intertemporada-com-ajustes-taticos-de-fernando-diniz/",
+      "time": "06/07 · 18:08",
+      "pubDate": "Mon, 06 Jul 2026 18:08:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians abre semana de preparação para amistoso em meio à intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-abre-semana-de-preparacao-para-amistoso-em-meio-a-intertemporada/",
+      "time": "06/07 · 10:00",
+      "pubDate": "Mon, 06 Jul 2026 10:00:59 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Martinelli foi alvo de 25 clubes quando defendia o Ituano depois de deixar a base do Corinthians",
@@ -83,12 +139,28 @@ const LIVE_DATA = {
       "pubDate": "Sun, 05 Jul 2026 10:59:40 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians folga em meio à intertemporada antes de se preparar para amistoso",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-folga-em-meio-a-intertemporada-antes-de-se-preparar-para-amistoso/",
+      "time": "05/07 · 09:00",
+      "pubDate": "Sun, 05 Jul 2026 09:00:45 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Pedro Raul é oferecido ao León, do México e Corinthians planeja negociar o atacante nesta janela",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-e-oferecido-ao-leon-do-mexico-e-corinthians-planeja-negociar-o-atacante-nesta-janela]]>",
       "time": "05/07 · 01:44",
       "pubDate": "Sat, 04 Jul 2026 22:44:21 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians conclui décimo dia de intertemporada com ajustes táticos de Diniz",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treino-fernando-diniz-intertemporada/",
+      "time": "04/07 · 18:13",
+      "pubDate": "Sat, 04 Jul 2026 18:13:57 +0000"
     },
     {
       "source": "Bolavip",
@@ -121,78 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/queda-da-holanda-amplia-tabu-do-corinthians-em-copas-do-mundo]]>",
       "time": "01/07 · 15:21",
       "pubDate": "Wed, 01 Jul 2026 12:21:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Atalanta-ITA quer contratar Breno Bidon, do Corinthians, como substituto imediato do volante Éderson",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/atalanta-ita-quer-contratar-breno-bidon-do-corinthians-como-substituto-imediato-do-volante-ederson]]>",
-      "time": "01/07 · 12:10",
-      "pubDate": "Wed, 01 Jul 2026 09:10:14 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
