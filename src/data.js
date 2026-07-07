@@ -1,38 +1,110 @@
-// Gerado automaticamente em 07/07/2026, 19:28:48
+// Gerado automaticamente em 07/07/2026, 22:48:45
 const LIVE_DATA = {
-  "updatedAt": "2026-07-07T19:28:48.033Z",
+  "updatedAt": "2026-07-07T22:48:45.966Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians de Diniz segue trabalho forte visando o segundo semestre",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-de-diniz-segue-trabalho-forte-visando-o-segundo-semestre/",
+      "time": "07/07 · 22:40",
+      "pubDate": "Tue, 07 Jul 2026 22:40:30 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Coletivo Voz Corinthiana anuncia suspensão das atividades no dia a dia do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535465/coletivo-voz-corinthiana-anuncia-suspensao-das-atividades-no-dia-a-dia-do-corinthians",
+      "time": "07/07 · 22:30",
+      "pubDate": "Tue, 07 Jul 2026 19:30:18 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians é convocada para Sul-Americano Sub-17 de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535466/dupla-do-corinthians-e-convocada-para-sul-americano-sub-17-de-futsal",
+      "time": "07/07 · 22:22",
+      "pubDate": "Tue, 07 Jul 2026 19:22:54 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta encerrar jejum de seis anos sem vencer o Palmeiras no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535442/corinthians-tenta-encerrar-jejum-de-seis-anos-sem-vencer-o-palmeiras-no-sub-20",
+      "time": "07/07 · 22:06",
+      "pubDate": "Tue, 07 Jul 2026 19:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "CBF altera data e horário de duelo entre Corinthians e Ferroviária pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535464/cbf-altera-data-e-horario-de-duelo-entre-corinthians-e-ferroviaria-pela-copa-do-brasil-feminina",
+      "time": "07/07 · 21:12",
+      "pubDate": "Tue, 07 Jul 2026 18:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcida do Corinthians se mostra favorável à renovação de meia inglês para 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535436/torcida-do-corinthians-se-mostra-favoravel-a-renovacao-de-meia-ingles-para-2027",
+      "time": "07/07 · 21:02",
+      "pubDate": "Tue, 07 Jul 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Internautas apontam joia do Corinthians como parte da renovação da Seleção para a Copa de 2030",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535443/internautas-apontam-joia-do-corinthians-como-parte-da-renovacao-da-selecao-para-a-copa-de-2030",
+      "time": "07/07 · 20:05",
+      "pubDate": "Tue, 07 Jul 2026 17:05:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence e quebra invencibilidade do líder Palmeiras pelo Brasileirão sub-17",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-e-quebra-invencibilidade-do-lider-palmeiras-pelo-brasileirao-sub-17/",
+      "time": "07/07 · 19:57",
+      "pubDate": "Tue, 07 Jul 2026 19:57:30 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é letal no segundo tempo e vence o Palmeiras no Campeonato Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535447/corinthians-e-letal-no-segundo-tempo-e-vence-o-palmeiras-no-campeonato-brasileiro-sub-17",
+      "time": "07/07 · 19:55",
+      "pubDate": "Tue, 07 Jul 2026 16:55:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz aprovou contratação de Arthur Melo no Corinthians; salário é entrave pela assinatura",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-aprovou-contratacao-de-arthur-melo-no-corinthians-salario-e-entrave-pela-assinatura]]>",
+      "time": "07/07 · 19:28",
+      "pubDate": "Tue, 07 Jul 2026 16:28:36 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Diretoria e meio-campista do Corinthians acompanham clássico pelo Sub-17 na Fazendinha",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535458/diretoria-e-meio-campista-do-corinthians-acompanham-classico-pelo-sub-17-na-fazendinha",
       "time": "07/07 · 19:19",
-      "pubDate": "Tue, 07 Jul 2026 16:19:28 -0300"
+      "pubDate": "Tue, 07 Jul 2026 16:19:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ética do Corinthians conclui mais quatro denúncias contra dirigentes; confira recomendações feitas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535455/etica-do-corinthians-conclui-mais-quatro-denuncias-contra-dirigentes-confira-recomendacoes-feitas",
-      "time": "07/07 · 19:02",
-      "pubDate": "Tue, 07 Jul 2026 16:02:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians reduziu drasticamente gols sofridos em bolas paradas e corrige problema da última temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reduziu-gols-sofridos-em-bolas-paradas-em-2026]]>",
+      "time": "07/07 · 19:17",
+      "pubDate": "Tue, 07 Jul 2026 16:17:40 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aprimora construção ofensiva e bolas paradas em novo dia de preparação no CT",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535456/corinthians-aprimora-construcao-ofensiva-e-bolas-paradas-em-novo-dia-de-preparacao-no-ct",
-      "time": "07/07 · 18:52",
-      "pubDate": "Tue, 07 Jul 2026 15:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians prioriza vendas na janela para reduzir dívida e abrir espaço para reforços",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535446/corinthians-prioriza-vendas-na-janela-para-reduzir-divida-e-abrir-espaco-para-reforcos",
-      "time": "07/07 · 18:02",
-      "pubDate": "Tue, 07 Jul 2026 15:02:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fortaleza se interessa na contratação de Pedro Raul, do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fortaleza-se-interessa-na-contratacao-de-pedro-raul-do-corinthians]]>",
+      "time": "07/07 · 18:04",
+      "pubDate": "Tue, 07 Jul 2026 15:04:23 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -51,36 +123,28 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 17:04:50 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians dá sequência à intertemporada com ajustes técnicos e táticos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535450/corinthians-da-sequencia-a-intertemporada-com-ajustes-tecnicos-e-taticos",
-      "time": "07/07 · 17:01",
-      "pubDate": "Tue, 07 Jul 2026 14:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Alvo do Corinthians, Arthur supera Breno Bidon e André em assistências nesta temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-arthur-supera-breno-bidon-e-andre-em-assistencias-nesta-temporada]]>",
+      "time": "07/07 · 16:39",
+      "pubDate": "Tue, 07 Jul 2026 13:39:37 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians quita direitos de imagem do elenco feminino após atraso de 22 dias",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535448/corinthians-quita-direitos-de-imagem-do-elenco-feminino-apos-atraso-de-22-dias",
-      "time": "07/07 · 16:17",
-      "pubDate": "Tue, 07 Jul 2026 13:17:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians observa Cristian Martínez, titular do Panamá na Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-observa-cristian-martinez-titular-do-panama-na-copa-do-mundo]]>",
+      "time": "07/07 · 15:40",
+      "pubDate": "Tue, 07 Jul 2026 12:40:43 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca melhorar retrospecto recente contra o Palmeiras no Sub-17; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535423/corinthians-busca-melhorar-retrospecto-recente-contra-o-palmeiras-no-sub-17-saiba-qual",
-      "time": "07/07 · 16:05",
-      "pubDate": "Tue, 07 Jul 2026 13:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Arthur é desejo de Fernando Diniz, mas Corinthians esbarra em pedida salarial",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535429/arthur-e-desejo-de-fernando-diniz-mas-corinthians-esbarra-em-pedida-salarial",
-      "time": "07/07 · 14:58",
-      "pubDate": "Tue, 07 Jul 2026 11:58:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pedro Raul é oferecido ao León, do México e Corinthians planeja negociar o atacante nesta janela",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-e-oferecido-ao-leon-do-mexico-e-corinthians-planeja-negociar-o-atacante-nesta-janela]]>",
+      "time": "07/07 · 14:55",
+      "pubDate": "Tue, 07 Jul 2026 11:55:25 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -89,14 +153,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/com-qual-jogador-o-corinthians-nao-deve-deixar-de-renovar-o-contrato-para-2027-vote/",
       "time": "07/07 · 10:00",
       "pubDate": "Tue, 07 Jul 2026 10:00:18 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians observa Cristian Martínez, titular do Panamá na Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-observa-cristian-martinez-titular-do-panama-na-copa-do-mundo]]>",
-      "time": "07/07 · 00:56",
-      "pubDate": "Mon, 06 Jul 2026 21:56:25 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -131,68 +187,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 06 Jul 2026 19:27:27 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians chega ao 10º dia de intertemporada com ajustes táticos de Fernando Diniz",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-chega-ao-10o-dia-de-intertemporada-com-ajustes-taticos-de-fernando-diniz/",
-      "time": "06/07 · 18:08",
-      "pubDate": "Mon, 06 Jul 2026 18:08:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians abre semana de preparação para amistoso em meio à intertemporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-abre-semana-de-preparacao-para-amistoso-em-meio-a-intertemporada/",
-      "time": "06/07 · 10:00",
-      "pubDate": "Mon, 06 Jul 2026 10:00:59 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Martinelli foi alvo de 25 clubes quando defendia o Ituano depois de deixar a base do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/martinelli-foi-alvo-de-25-clubes-quando-defendia-o-ituano-depois-de-deixar-a-base-do-corinthians]]>",
       "time": "05/07 · 13:59",
       "pubDate": "Sun, 05 Jul 2026 10:59:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Pedro Raul é oferecido ao León, do México e Corinthians planeja negociar o atacante nesta janela",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-e-oferecido-ao-leon-do-mexico-e-corinthians-planeja-negociar-o-atacante-nesta-janela]]>",
-      "time": "05/07 · 01:44",
-      "pubDate": "Sat, 04 Jul 2026 22:44:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians envia representantes para a Copa do Mundo a pedido de Diniz para ir em busca de opções",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-envia-representantes-para-a-copa-do-mundo-a-pedido-de-diniz-para-ir-em-busca-de-opcoes]]>",
-      "time": "03/07 · 21:00",
-      "pubDate": "Fri, 03 Jul 2026 18:00:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay faz exigências e “trava” renovação no Corinthians; holandês quer R$ 50 milhões por ano",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-exigencias-e-trava-renovacao-no-corinthians-holandes-quer-r-50-milhoes-por-ano]]>",
-      "time": "03/07 · 17:58",
-      "pubDate": "Fri, 03 Jul 2026 14:58:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians entra na disputa, mas Internacional avança por zagueiro livre no mercado para reforçar defesa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-entra-na-disputa-mas-internacional-avanca-por-zagueiro-livre-no-mercado-para-reforcar-defesa]]>",
-      "time": "01/07 · 19:55",
-      "pubDate": "Wed, 01 Jul 2026 16:55:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Queda da Holanda amplia tabu do Corinthians em Copas do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/queda-da-holanda-amplia-tabu-do-corinthians-em-copas-do-mundo]]>",
-      "time": "01/07 · 15:21",
-      "pubDate": "Wed, 01 Jul 2026 12:21:40 -0300"
     }
   ],
   "upcoming": [],
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535415/goleiro-do-corinthians-projeta-derbi-pelo-campeonato-brasileiro-sub-17",
       "pubDate": "Mon, 06 Jul 2026 20:32:00 -0300",
       "date": "06/07 · 23:32"
-    },
-    {
-      "title": "VÍDEO: Aprenda como se tornar sócio do Corinthians (PSJ e Fiel Torcedor)",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128463/aprenda-como-se-tornar-socio-do-corinthians-psj-e-fiel-torcedor",
-      "pubDate": "Mon, 06 Jul 2026 15:08:03 -0300",
-      "date": "06/07 · 18:08"
     }
   ]
 };
