@@ -1,38 +1,86 @@
-// Gerado automaticamente em 07/07/2026, 13:59:38
+// Gerado automaticamente em 07/07/2026, 19:28:48
 const LIVE_DATA = {
-  "updatedAt": "2026-07-07T13:59:38.043Z",
+  "updatedAt": "2026-07-07T19:28:48.033Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians convoca a Fiel para duelo decisivo contra o Minas pela LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535441/idolo-do-corinthians-convoca-fiel-para-duelo-decisivo-contra-o-minas-pela-lnf",
-      "time": "07/07 · 13:32",
-      "pubDate": "Tue, 07 Jul 2026 10:32:00 -0300"
+      "title": "Diretoria e meio-campista do Corinthians acompanham clássico pelo Sub-17 na Fazendinha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535458/diretoria-e-meio-campista-do-corinthians-acompanham-classico-pelo-sub-17-na-fazendinha",
+      "time": "07/07 · 19:19",
+      "pubDate": "Tue, 07 Jul 2026 16:19:28 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Relatório contratado pelo Corinthians recomenda demolição parcial da Fazendinha",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535419/relatorio-contratado-pelo-corinthians-recomenda-demolicao-parcial-da-fazendinha",
-      "time": "07/07 · 12:31",
-      "pubDate": "Tue, 07 Jul 2026 09:31:00 -0300"
+      "title": "Ética do Corinthians conclui mais quatro denúncias contra dirigentes; confira recomendações feitas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535455/etica-do-corinthians-conclui-mais-quatro-denuncias-contra-dirigentes-confira-recomendacoes-feitas",
+      "time": "07/07 · 19:02",
+      "pubDate": "Tue, 07 Jul 2026 16:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Palmeiras para voltar a vencer no Brasileiro Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535416/corinthians-recebe-o-palmeiras-para-voltar-a-vencer-no-brasileiro-sub-17-saiba-tudo",
-      "time": "07/07 · 11:30",
-      "pubDate": "Tue, 07 Jul 2026 08:30:00 -0300"
+      "title": "Corinthians aprimora construção ofensiva e bolas paradas em novo dia de preparação no CT",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535456/corinthians-aprimora-construcao-ofensiva-e-bolas-paradas-em-novo-dia-de-preparacao-no-ct",
+      "time": "07/07 · 18:52",
+      "pubDate": "Tue, 07 Jul 2026 15:52:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: agenda cheia, destaque na Seleção e rejeição a Vitinho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535432/ultimas-do-corinthians-agenda-cheia-destaque-na-selecao-e-rejeicao-a-vitinho",
-      "time": "07/07 · 10:30",
-      "pubDate": "Tue, 07 Jul 2026 07:30:00 -0300"
+      "title": "Corinthians prioriza vendas na janela para reduzir dívida e abrir espaço para reforços",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535446/corinthians-prioriza-vendas-na-janela-para-reduzir-divida-e-abrir-espaco-para-reforcos",
+      "time": "07/07 · 18:02",
+      "pubDate": "Tue, 07 Jul 2026 15:02:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians realiza treino técnico e tático em 12º dia da intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-realiza-treino-tecnico-e-tatico-em-12o-dia-da-intertemporada/",
+      "time": "07/07 · 17:36",
+      "pubDate": "Tue, 07 Jul 2026 17:36:08 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians desta terça-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-terca-feira-26/",
+      "time": "07/07 · 17:04",
+      "pubDate": "Tue, 07 Jul 2026 17:04:50 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians dá sequência à intertemporada com ajustes técnicos e táticos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535450/corinthians-da-sequencia-a-intertemporada-com-ajustes-tecnicos-e-taticos",
+      "time": "07/07 · 17:01",
+      "pubDate": "Tue, 07 Jul 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians quita direitos de imagem do elenco feminino após atraso de 22 dias",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535448/corinthians-quita-direitos-de-imagem-do-elenco-feminino-apos-atraso-de-22-dias",
+      "time": "07/07 · 16:17",
+      "pubDate": "Tue, 07 Jul 2026 13:17:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca melhorar retrospecto recente contra o Palmeiras no Sub-17; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535423/corinthians-busca-melhorar-retrospecto-recente-contra-o-palmeiras-no-sub-17-saiba-qual",
+      "time": "07/07 · 16:05",
+      "pubDate": "Tue, 07 Jul 2026 13:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Arthur é desejo de Fernando Diniz, mas Corinthians esbarra em pedida salarial",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535429/arthur-e-desejo-de-fernando-diniz-mas-corinthians-esbarra-em-pedida-salarial",
+      "time": "07/07 · 14:58",
+      "pubDate": "Tue, 07 Jul 2026 11:58:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -43,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 10:00:18 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Armador do Corinthians ganha minutos em atropelo da Seleção Brasileira de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535433/armador-do-corinthians-ganha-minutos-em-atropelo-da-selecao-brasileira-de-basquete",
-      "time": "07/07 · 02:13",
-      "pubDate": "Mon, 06 Jul 2026 23:13:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians recebe troféu conquistado pelo Sub-13 em torneio internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535424/presidente-do-corinthians-recebe-trofeu-conquistado-pelo-sub-13-em-torneio-internacional",
-      "time": "07/07 · 01:30",
-      "pubDate": "Mon, 06 Jul 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-volante do Corinthians relembra bastidores de saída do clube após polêmica com presidente",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535413/ex-volante-do-corinthians-relembra-bastidores-de-saida-do-clube-apos-polemica-com-presidente",
-      "time": "07/07 · 01:03",
-      "pubDate": "Mon, 06 Jul 2026 22:03:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians observa Cristian Martínez, titular do Panamá na Copa do Mundo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-observa-cristian-martinez-titular-do-panama-na-copa-do-mundo]]>",
       "time": "07/07 · 00:56",
       "pubDate": "Mon, 06 Jul 2026 21:56:25 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Grêmio exalta ex-atacante do Corinthians e relembra confrontos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535420/zagueiro-do-gremio-exalta-ex-atacante-do-corinthians-e-relembra-confrontos",
-      "time": "07/07 · 00:33",
-      "pubDate": "Mon, 06 Jul 2026 21:33:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -139,28 +155,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 05 Jul 2026 10:59:40 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians folga em meio à intertemporada antes de se preparar para amistoso",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-folga-em-meio-a-intertemporada-antes-de-se-preparar-para-amistoso/",
-      "time": "05/07 · 09:00",
-      "pubDate": "Sun, 05 Jul 2026 09:00:45 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Pedro Raul é oferecido ao León, do México e Corinthians planeja negociar o atacante nesta janela",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-e-oferecido-ao-leon-do-mexico-e-corinthians-planeja-negociar-o-atacante-nesta-janela]]>",
       "time": "05/07 · 01:44",
       "pubDate": "Sat, 04 Jul 2026 22:44:21 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians conclui décimo dia de intertemporada com ajustes táticos de Diniz",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treino-fernando-diniz-intertemporada/",
-      "time": "04/07 · 18:13",
-      "pubDate": "Sat, 04 Jul 2026 18:13:57 +0000"
     },
     {
       "source": "Bolavip",
