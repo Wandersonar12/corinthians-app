@@ -1,46 +1,86 @@
-// Gerado automaticamente em 08/07/2026, 13:21:06
+// Gerado automaticamente em 08/07/2026, 19:00:33
 const LIVE_DATA = {
-  "updatedAt": "2026-07-08T13:21:06.714Z",
+  "updatedAt": "2026-07-08T19:00:33.485Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Top 10 jogadores com mais títulos da história do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128479/top-10-jogadores-com-mais-titulos-da-historia-do-corinthians",
-      "time": "08/07 · 13:03",
-      "pubDate": "Wed, 08 Jul 2026 10:03:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Wesley, ex-Corinthians, está de volta ao Brasil e vai jogar pelo Cruzeiro; acordo é sem nenhum custo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/wesley-ex-corinthians-esta-de-volta-ao-brasil-e-vai-jogar-pelo-cruzeiro-acordo-e-sem-nenhum-custo]]>",
-      "time": "08/07 · 12:40",
-      "pubDate": "Wed, 08 Jul 2026 09:40:58 -0300"
+      "title": "Lateral emprestado pelo Corinthians atua como titular pela primeira vez em quase nove meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535495/lateral-emprestado-pelo-corinthians-atua-como-titular-pela-primeira-vez-em-quase-nove-meses",
+      "time": "08/07 · 18:39",
+      "pubDate": "Wed, 08 Jul 2026 15:39:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Brothers buscando voltar a vencer no Paulista Feminino Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535457/corinthians-recebe-o-brothers-buscando-voltar-a-vencer-no-paulista-feminino-sub-20",
-      "time": "08/07 · 12:31",
-      "pubDate": "Wed, 08 Jul 2026 09:31:00 -0300"
+      "title": "Fernando Diniz acompanha decisão do Corinthians contra o Palmeiras no Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535499/fernando-diniz-acompanha-decisao-do-corinthians-contra-o-palmeiras-no-brasileirao-sub-20",
+      "time": "08/07 · 18:12",
+      "pubDate": "Wed, 08 Jul 2026 15:12:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz consulta por Arthur, mas esbarra em alta pedida salarial",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-consulta-por-arthur-mas-esbarra-em-alta-pedida-salarial/",
+      "time": "08/07 · 18:01",
+      "pubDate": "Wed, 08 Jul 2026 18:01:45 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Palmeiras para primeiro duelo das quartas do Brasileiro Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535454/corinthians-recebe-o-palmeiras-para-primeiro-duelo-das-quartas-do-brasileiro-sub-20-saiba-tudo",
-      "time": "08/07 · 11:30",
-      "pubDate": "Wed, 08 Jul 2026 08:30:00 -0300"
+      "title": "Corinthians quebra jejum em clássicos no Sub-17 após quase um ano; relembre a sequência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535461/corinthians-quebra-jejum-em-classicos-no-sub-17-apos-quase-um-ano-relembre-a-sequencia",
+      "time": "08/07 · 17:33",
+      "pubDate": "Wed, 08 Jul 2026 14:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "PSG empresta Gabriel Moscardo, ex-Corinthians, ao Espanyol",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/gabriel-moscardo-emprestimo-espanyol-psg/",
+      "time": "08/07 · 17:26",
+      "pubDate": "Wed, 08 Jul 2026 17:26:39 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: entrave por volante, vítoria no Dérbi e demolição parcial de estádio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535475/ultimas-do-corinthians-entrave-por-volante-vitoria-no-derbi-e-demolicao-parcial-de-estadio",
-      "time": "08/07 · 10:30",
-      "pubDate": "Wed, 08 Jul 2026 07:30:00 -0300"
+      "title": "Dupla do Corinthians conquista Mundial Universitário de Futsal com a Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535482/dupla-do-corinthians-conquista-mundial-universitario-de-futsal-com-a-selecao-brasileira",
+      "time": "08/07 · 16:36",
+      "pubDate": "Wed, 08 Jul 2026 13:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-Corinthians é anunciado por clube espanhol em terceiro empréstimo desde transferência ao PSG",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535490/ex-corinthians-e-anunciado-por-clube-espanhol-em-terceiro-emprestimo-desde-transferencia-ao-psg",
+      "time": "08/07 · 15:30",
+      "pubDate": "Wed, 08 Jul 2026 12:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians terá 'reforços' do profissional em Dérbi decisivo pelo Brasileirão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535489/corinthians-tera-reforcos-do-profissional-em-derbi-decisivo-pelo-brasileirao-sub-20",
+      "time": "08/07 · 15:15",
+      "pubDate": "Wed, 08 Jul 2026 12:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians avalia Dérbi vencido no Sub-17 e explica mudanças durante o clássico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535470/tecnico-do-corinthians-avalia-vitoria-e-explica-mudancas-para-o-derbi",
+      "time": "08/07 · 14:34",
+      "pubDate": "Wed, 08 Jul 2026 11:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca manter bom desempenho defensivo em bolas paradas na sequência da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535438/corinthians-busca-manter-bom-desempenho-defensivo-em-bolas-paradas-na-sequencia-da-temporada",
+      "time": "08/07 · 13:32",
+      "pubDate": "Wed, 08 Jul 2026 10:32:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -51,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 08 Jul 2026 10:00:39 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Estádio do Corinthians recebe nova edição de evento para adoção de cães e gatos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535444/estadio-do-corinthians-recebe-nova-edicao-de-evento-para-adocao-de-caes-e-gatos",
-      "time": "08/07 · 01:01",
-      "pubDate": "Tue, 07 Jul 2026 22:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians faz lista de nomes para substituir Depay e pode buscar medalhão que atua na Europa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-nome-peso-depay]]>",
       "time": "08/07 · 00:46",
       "pubDate": "Tue, 07 Jul 2026 21:46:02 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Grupo de música japonês realiza tour na Neo Química Arena e ensaia um 'vai, Corinthians'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535462/grupo-de-musica-japones-realiza-tour-na-neo-quimica-arena-e-ensaia-um-vai-corinthians",
-      "time": "08/07 · 00:01",
-      "pubDate": "Tue, 07 Jul 2026 21:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians elogia preparação para primeiro Dérbi no mata-mata do Brasileiro Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535469/meia-do-corinthians-elogia-preparacao-para-primeiro-derbi-no-mata-mata-do-brasileiro-sub-20",
-      "time": "07/07 · 23:19",
-      "pubDate": "Tue, 07 Jul 2026 20:19:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com Labyad para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535437/o-corinthians-deve-renovar-com-labyad-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "07/07 · 23:05",
-      "pubDate": "Tue, 07 Jul 2026 20:05:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -179,20 +187,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 12:40:43 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com quem o Corinthians não pode deixar de renovar para 2027? Vote!",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-qual-jogador-o-corinthians-nao-deve-deixar-de-renovar-o-contrato-para-2027-vote/",
-      "time": "07/07 · 10:00",
-      "pubDate": "Tue, 07 Jul 2026 10:00:18 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Palmeiras: saiba onde assistir ao clássico pelo Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-x-palmeiras-saiba-onde-assistir-ao-classico-pelo-brasileiro-sub-17/",
-      "time": "06/07 · 23:00",
-      "pubDate": "Mon, 06 Jul 2026 23:00:22 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians negocia a contratação de Arthur Melo e a Juventus pode fazer investida por André",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-negocia-arthur-melo-juventus]]>",
+      "time": "06/07 · 22:42",
+      "pubDate": "Mon, 06 Jul 2026 19:42:54 -0300"
     }
   ],
   "upcoming": [],
