@@ -1,7 +1,47 @@
-// Gerado automaticamente em 08/07/2026, 10:02:38
+// Gerado automaticamente em 08/07/2026, 13:21:06
 const LIVE_DATA = {
-  "updatedAt": "2026-07-08T10:02:38.566Z",
+  "updatedAt": "2026-07-08T13:21:06.714Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Top 10 jogadores com mais títulos da história do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128479/top-10-jogadores-com-mais-titulos-da-historia-do-corinthians",
+      "time": "08/07 · 13:03",
+      "pubDate": "Wed, 08 Jul 2026 10:03:27 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Wesley, ex-Corinthians, está de volta ao Brasil e vai jogar pelo Cruzeiro; acordo é sem nenhum custo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/wesley-ex-corinthians-esta-de-volta-ao-brasil-e-vai-jogar-pelo-cruzeiro-acordo-e-sem-nenhum-custo]]>",
+      "time": "08/07 · 12:40",
+      "pubDate": "Wed, 08 Jul 2026 09:40:58 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Brothers buscando voltar a vencer no Paulista Feminino Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535457/corinthians-recebe-o-brothers-buscando-voltar-a-vencer-no-paulista-feminino-sub-20",
+      "time": "08/07 · 12:31",
+      "pubDate": "Wed, 08 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Palmeiras para primeiro duelo das quartas do Brasileiro Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535454/corinthians-recebe-o-palmeiras-para-primeiro-duelo-das-quartas-do-brasileiro-sub-20-saiba-tudo",
+      "time": "08/07 · 11:30",
+      "pubDate": "Wed, 08 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: entrave por volante, vítoria no Dérbi e demolição parcial de estádio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535475/ultimas-do-corinthians-entrave-por-volante-vitoria-no-derbi-e-demolicao-parcial-de-estadio",
+      "time": "08/07 · 10:30",
+      "pubDate": "Wed, 08 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -67,44 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 22:40:30 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Coletivo Voz Corinthiana anuncia suspensão das atividades no dia a dia do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535465/coletivo-voz-corinthiana-anuncia-suspensao-das-atividades-no-dia-a-dia-do-corinthians",
-      "time": "07/07 · 22:30",
-      "pubDate": "Tue, 07 Jul 2026 19:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians é convocada para Sul-Americano Sub-17 de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535466/dupla-do-corinthians-e-convocada-para-sul-americano-sub-17-de-futsal",
-      "time": "07/07 · 22:22",
-      "pubDate": "Tue, 07 Jul 2026 19:22:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta encerrar jejum de seis anos sem vencer o Palmeiras no Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535442/corinthians-tenta-encerrar-jejum-de-seis-anos-sem-vencer-o-palmeiras-no-sub-20",
-      "time": "07/07 · 22:06",
-      "pubDate": "Tue, 07 Jul 2026 19:06:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians terá sequência decisiva e calendário cheio após o retorno da Copa do Mundo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-sequencia-decisiva-e-calendario-cheio-apos-o-retorno-da-copa-do-mundo]]>",
       "time": "07/07 · 21:32",
       "pubDate": "Tue, 07 Jul 2026 18:32:27 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "CBF altera data e horário de duelo entre Corinthians e Ferroviária pela Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535464/cbf-altera-data-e-horario-de-duelo-entre-corinthians-e-ferroviaria-pela-copa-do-brasil-feminina",
-      "time": "07/07 · 21:12",
-      "pubDate": "Tue, 07 Jul 2026 18:12:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -185,19 +193,18 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-x-palmeiras-saiba-onde-assistir-ao-classico-pelo-brasileiro-sub-17/",
       "time": "06/07 · 23:00",
       "pubDate": "Mon, 06 Jul 2026 23:00:22 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians negocia a contratação de Arthur Melo e a Juventus pode fazer investida por André",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-negocia-arthur-melo-juventus]]>",
-      "time": "06/07 · 22:42",
-      "pubDate": "Mon, 06 Jul 2026 19:42:54 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": []
+  "highlights": [
+    {
+      "title": "VÍDEO: Top 10 jogadores com mais títulos da história do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128479/top-10-jogadores-com-mais-titulos-da-historia-do-corinthians",
+      "pubDate": "Wed, 08 Jul 2026 10:03:27 -0300",
+      "date": "08/07 · 13:03"
+    }
+  ]
 };
 export default LIVE_DATA;
