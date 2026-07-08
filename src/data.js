@@ -1,7 +1,63 @@
-// Gerado automaticamente em 07/07/2026, 22:48:45
+// Gerado automaticamente em 08/07/2026, 10:02:38
 const LIVE_DATA = {
-  "updatedAt": "2026-07-07T22:48:45.966Z",
+  "updatedAt": "2026-07-08T10:02:38.566Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Gustavo Henrique lidera Corinthians em ações defensivas no Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/gustavo-henrique-lidera-corinthians-em-acoes-defensivas-no-brasileirao/",
+      "time": "08/07 · 10:00",
+      "pubDate": "Wed, 08 Jul 2026 10:00:39 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Estádio do Corinthians recebe nova edição de evento para adoção de cães e gatos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535444/estadio-do-corinthians-recebe-nova-edicao-de-evento-para-adocao-de-caes-e-gatos",
+      "time": "08/07 · 01:01",
+      "pubDate": "Tue, 07 Jul 2026 22:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians faz lista de nomes para substituir Depay e pode buscar medalhão que atua na Europa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-nome-peso-depay]]>",
+      "time": "08/07 · 00:46",
+      "pubDate": "Tue, 07 Jul 2026 21:46:02 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Grupo de música japonês realiza tour na Neo Química Arena e ensaia um 'vai, Corinthians'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535462/grupo-de-musica-japones-realiza-tour-na-neo-quimica-arena-e-ensaia-um-vai-corinthians",
+      "time": "08/07 · 00:01",
+      "pubDate": "Tue, 07 Jul 2026 21:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians elogia preparação para primeiro Dérbi no mata-mata do Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535469/meia-do-corinthians-elogia-preparacao-para-primeiro-derbi-no-mata-mata-do-brasileiro-sub-20",
+      "time": "07/07 · 23:19",
+      "pubDate": "Tue, 07 Jul 2026 20:19:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "O Corinthians deve renovar com Labyad para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535437/o-corinthians-deve-renovar-com-labyad-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "07/07 · 23:05",
+      "pubDate": "Tue, 07 Jul 2026 20:05:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Palmeiras: saiba onde assistir ao jogo de ida das quartas do Brasileiro sub-20",
+      "url": "https://www.gazetaesportiva.com/futebol/corinthians-x-palmeiras-saiba-onde-assistir-ao-jogo-de-ida-das-quartas-do-brasileiro-sub-20/",
+      "time": "07/07 · 23:00",
+      "pubDate": "Tue, 07 Jul 2026 23:00:50 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -16,7 +72,7 @@ const LIVE_DATA = {
       "title": "Coletivo Voz Corinthiana anuncia suspensão das atividades no dia a dia do Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535465/coletivo-voz-corinthiana-anuncia-suspensao-das-atividades-no-dia-a-dia-do-corinthians",
       "time": "07/07 · 22:30",
-      "pubDate": "Tue, 07 Jul 2026 19:30:18 -0300"
+      "pubDate": "Tue, 07 Jul 2026 19:30:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -24,7 +80,7 @@ const LIVE_DATA = {
       "title": "Dupla do Corinthians é convocada para Sul-Americano Sub-17 de Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535466/dupla-do-corinthians-e-convocada-para-sul-americano-sub-17-de-futsal",
       "time": "07/07 · 22:22",
-      "pubDate": "Tue, 07 Jul 2026 19:22:54 -0300"
+      "pubDate": "Tue, 07 Jul 2026 19:22:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,28 +91,20 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 19:06:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians terá sequência decisiva e calendário cheio após o retorno da Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-sequencia-decisiva-e-calendario-cheio-apos-o-retorno-da-copa-do-mundo]]>",
+      "time": "07/07 · 21:32",
+      "pubDate": "Tue, 07 Jul 2026 18:32:27 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "CBF altera data e horário de duelo entre Corinthians e Ferroviária pela Copa do Brasil Feminina",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535464/cbf-altera-data-e-horario-de-duelo-entre-corinthians-e-ferroviaria-pela-copa-do-brasil-feminina",
       "time": "07/07 · 21:12",
       "pubDate": "Tue, 07 Jul 2026 18:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcida do Corinthians se mostra favorável à renovação de meia inglês para 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535436/torcida-do-corinthians-se-mostra-favoravel-a-renovacao-de-meia-ingles-para-2027",
-      "time": "07/07 · 21:02",
-      "pubDate": "Tue, 07 Jul 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Internautas apontam joia do Corinthians como parte da renovação da Seleção para a Copa de 2030",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535443/internautas-apontam-joia-do-corinthians-como-parte-da-renovacao-da-selecao-para-a-copa-de-2030",
-      "time": "07/07 · 20:05",
-      "pubDate": "Tue, 07 Jul 2026 17:05:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -67,28 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 19:57:30 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é letal no segundo tempo e vence o Palmeiras no Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535447/corinthians-e-letal-no-segundo-tempo-e-vence-o-palmeiras-no-campeonato-brasileiro-sub-17",
-      "time": "07/07 · 19:55",
-      "pubDate": "Tue, 07 Jul 2026 16:55:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fernando Diniz aprovou contratação de Arthur Melo no Corinthians; salário é entrave pela assinatura",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-aprovou-contratacao-de-arthur-melo-no-corinthians-salario-e-entrave-pela-assinatura]]>",
       "time": "07/07 · 19:28",
       "pubDate": "Tue, 07 Jul 2026 16:28:36 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretoria e meio-campista do Corinthians acompanham clássico pelo Sub-17 na Fazendinha",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535458/diretoria-e-meio-campista-do-corinthians-acompanham-classico-pelo-sub-17-na-fazendinha",
-      "time": "07/07 · 19:19",
-      "pubDate": "Tue, 07 Jul 2026 16:19:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -139,14 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 12:40:43 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Pedro Raul é oferecido ao León, do México e Corinthians planeja negociar o atacante nesta janela",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-e-oferecido-ao-leon-do-mexico-e-corinthians-planeja-negociar-o-atacante-nesta-janela]]>",
-      "time": "07/07 · 14:55",
-      "pubDate": "Tue, 07 Jul 2026 11:55:25 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Com quem o Corinthians não pode deixar de renovar para 2027? Vote!",
@@ -169,42 +193,11 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-negocia-arthur-melo-juventus]]>",
       "time": "06/07 · 22:42",
       "pubDate": "Mon, 06 Jul 2026 19:42:54 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians desta segunda-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-segunda-feira-21/",
-      "time": "06/07 · 19:30",
-      "pubDate": "Mon, 06 Jul 2026 19:30:01 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians se reapresenta com treino técnico-tático em 11º dia de intertemporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-com-treino-tecnico-tatico-em-11o-dia-de-intertemporada/",
-      "time": "06/07 · 19:27",
-      "pubDate": "Mon, 06 Jul 2026 19:27:27 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Martinelli foi alvo de 25 clubes quando defendia o Ituano depois de deixar a base do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/martinelli-foi-alvo-de-25-clubes-quando-defendia-o-ituano-depois-de-deixar-a-base-do-corinthians]]>",
-      "time": "05/07 · 13:59",
-      "pubDate": "Sun, 05 Jul 2026 10:59:40 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": [
-    {
-      "title": "Goleiro do Corinthians projeta Dérbi pelo Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535415/goleiro-do-corinthians-projeta-derbi-pelo-campeonato-brasileiro-sub-17",
-      "pubDate": "Mon, 06 Jul 2026 20:32:00 -0300",
-      "date": "06/07 · 23:32"
-    }
-  ]
+  "highlights": []
 };
 export default LIVE_DATA;
