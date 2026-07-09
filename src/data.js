@@ -1,7 +1,31 @@
-// Gerado automaticamente em 09/07/2026, 10:47:27
+// Gerado automaticamente em 09/07/2026, 14:22:08
 const LIVE_DATA = {
-  "updatedAt": "2026-07-09T10:47:27.863Z",
+  "updatedAt": "2026-07-09T14:22:08.975Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Você sabia? Corinthians já enfrentou a seleção de Marrocos na década de 1970",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535481/voce-sabia-corinthians-ja-enfrentou-a-selecao-de-marrocos-na-decada-de-1970",
+      "time": "09/07 · 13:33",
+      "pubDate": "Thu, 09 Jul 2026 10:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians avança por renovação de artilheiro do Sub-20; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535513/corinthians-avanca-por-renovacao-de-artilheiro-do-sub-20-confira",
+      "time": "09/07 · 12:30",
+      "pubDate": "Thu, 09 Jul 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians não deve contar com Memphis Depay antes de acordo para renovação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535512/corinthians-nao-deve-contar-com-memphis-depay-antes-de-acordo-para-renovacao",
+      "time": "09/07 · 11:30",
+      "pubDate": "Thu, 09 Jul 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,6 +59,14 @@ const LIVE_DATA = {
       "pubDate": "Wed, 08 Jul 2026 22:30:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Juventus realiza primeiro contato oficial com o Corinthians pela contratação de André, afirma jornalista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-realiza-primeiro-contato-oficial-com-o-corinthians-pela-contratacao-de-andre-afirma-jornalista]]>",
+      "time": "09/07 · 00:44",
+      "pubDate": "Wed, 08 Jul 2026 21:44:41 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Técnico destaca união entre categorias de base do Corinthians após vitória no Brasileirão Sub-17",
@@ -51,28 +83,20 @@ const LIVE_DATA = {
       "pubDate": "Wed, 08 Jul 2026 20:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista dispara na artilharia do Corinthians após Dérbi pelo Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535491/meio-campista-dispara-na-artilharia-do-corinthians-apos-derbi-pelo-brasileiro-sub-17",
-      "time": "08/07 · 22:29",
-      "pubDate": "Wed, 08 Jul 2026 19:29:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Especulado no Corinthians, Malcom deve sair do Al-Hilal e reforçar o Fenerbahçe, da Turquia",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/especulado-no-corinthians-malcom-deve-sair-do-al-hilal-e-reforcar-o-fenerbahce-da-turquia]]>",
+      "time": "08/07 · 22:55",
+      "pubDate": "Wed, 08 Jul 2026 19:55:16 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro lida com desconforto e pode ser desfalque em amistoso do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535508/zagueiro-lida-com-desconforto-e-pode-ser-desfalque-em-amistoso-do-corinthians",
-      "time": "08/07 · 22:09",
-      "pubDate": "Wed, 08 Jul 2026 19:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians goleia o Brothers e volta a vencer no Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535504/corinthians-goleia-o-brothers-e-volta-a-vencer-no-paulista-feminino-sub-20",
-      "time": "08/07 · 21:43",
-      "pubDate": "Wed, 08 Jul 2026 18:43:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay faz post misterioso em meio ao processo de renovação com o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-post-misterioso-em-meio-ao-processo-de-renovacao-com-o-corinthians]]>",
+      "time": "08/07 · 20:51",
+      "pubDate": "Wed, 08 Jul 2026 17:51:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -165,34 +189,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Fernando Diniz aprovou contratação de Arthur Melo no Corinthians; salário é entrave pela assinatura",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-aprovou-contratacao-de-arthur-melo-no-corinthians-salario-e-entrave-pela-assinatura]]>",
-      "time": "07/07 · 19:28",
-      "pubDate": "Tue, 07 Jul 2026 16:28:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians reduziu drasticamente gols sofridos em bolas paradas e corrige problema da última temporada",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reduziu-gols-sofridos-em-bolas-paradas-em-2026]]>",
       "time": "07/07 · 19:17",
       "pubDate": "Tue, 07 Jul 2026 16:17:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fortaleza se interessa na contratação de Pedro Raul, do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fortaleza-se-interessa-na-contratacao-de-pedro-raul-do-corinthians]]>",
-      "time": "07/07 · 18:04",
-      "pubDate": "Tue, 07 Jul 2026 15:04:23 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Alvo do Corinthians, Arthur supera Breno Bidon e André em assistências nesta temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/alvo-do-corinthians-arthur-supera-breno-bidon-e-andre-em-assistencias-nesta-temporada]]>",
-      "time": "07/07 · 16:39",
-      "pubDate": "Tue, 07 Jul 2026 13:39:37 -0300"
     }
   ],
   "upcoming": [],
