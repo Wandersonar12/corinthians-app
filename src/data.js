@@ -1,78 +1,70 @@
-// Gerado automaticamente em 09/07/2026, 19:16:09
+// Gerado automaticamente em 09/07/2026, 23:00:21
 const LIVE_DATA = {
-  "updatedAt": "2026-07-09T19:16:09.558Z",
+  "updatedAt": "2026-07-09T23:00:21.392Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians analisa derrota no Dérbi e projeta postura ofensiva para o jogo de volta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535509/tecnico-do-corinthians-analisa-derrota-no-derbi-e-projeta-postura-ofensiva-para-o-jogo-de-volta",
+      "time": "09/07 · 22:35",
+      "pubDate": "Thu, 09 Jul 2026 19:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece detalhes do mata-mata do Brasileirão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535542/corinthians-conhece-detalhes-do-mata-mata-do-brasileirao-feminino-sub-17",
+      "time": "09/07 · 21:42",
+      "pubDate": "Thu, 09 Jul 2026 18:42:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "O Corinthians deve renovar com Ana Morganti para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535492/o-corinthians-deve-renovar-com-ana-morganti-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "09/07 · 21:31",
+      "pubDate": "Thu, 09 Jul 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Executivo da Fatal Fans confirma primeiro pagamento ao Corinthians e dá detalhes sobre parceria",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535529/executivo-da-fatal-fans-confirma-primeiro-pagamento-ao-corinthians-e-da-detalhes-sobre-parceria",
+      "time": "09/07 · 21:01",
+      "pubDate": "Thu, 09 Jul 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Treinador do Corinthians Sub-17 fala sobre seu maior desafio na equipe: 'Resgate da liberdade'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535472/treinador-do-corinthians-sub-17-fala-sobre-seu-maior-desafio-na-equipe-resgate-da-liberdade",
+      "time": "09/07 · 20:36",
+      "pubDate": "Thu, 09 Jul 2026 17:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians abre negociações para renovar contrato de atacante das Brabas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535534/corinthians-abre-negociacoes-para-renovar-contrato-de-atacante-das-brabas",
+      "time": "09/07 · 20:02",
+      "pubDate": "Thu, 09 Jul 2026 17:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcida do Corinthians se mostra contra renovação de zagueira argentina para 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535493/torcida-do-corinthians-se-mostra-contra-renovacao-de-zagueira-argentina-para-2027",
+      "time": "09/07 · 19:32",
+      "pubDate": "Thu, 09 Jul 2026 16:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians realiza treino tático durante sequência da intertemporada",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535536/corinthians-realiza-treino-tatico-durante-sequencia-da-intertemporada",
       "time": "09/07 · 19:05",
-      "pubDate": "Thu, 09 Jul 2026 16:05:42 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Executivo da Fatal Fans detalha parceria com o Corinthians e analisa rejeição de parte da Fiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535527/executivo-da-fatal-fans-detalha-parceria-com-o-corinthians-e-analisa-rejeicao-de-parte-da-fiel",
-      "time": "09/07 · 18:35",
-      "pubDate": "Thu, 09 Jul 2026 15:35:08 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Sub-20 do Corinthians rasga elogios a dupla profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535510/tecnico-do-sub-20-do-corinthians-rasga-elogios-a-dupla-profissional",
-      "time": "09/07 · 18:33",
-      "pubDate": "Thu, 09 Jul 2026 15:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians valoriza temporada artilheira e elogia trabalho de novo técnico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535473/meio-campista-do-corinthians-valoriza-temporada-artilheira-e-elogia-trabalho-de-novo-tecnico",
-      "time": "09/07 · 17:29",
-      "pubDate": "Thu, 09 Jul 2026 14:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians teve quatro capitães em 2026 até definir Rodrigo Garro como líder da equipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535480/corinthians-teve-quatro-capitaes-em-2026-ate-definir-rodrigo-garro-como-lider-da-equipe",
-      "time": "09/07 · 16:34",
-      "pubDate": "Thu, 09 Jul 2026 13:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém ritmo de treinos de olho nas decisões do segundo semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535531/corinthians-mantem-ritmo-de-treinos-de-olho-nas-decisoes-do-segundo-semestre",
-      "time": "09/07 · 16:10",
-      "pubDate": "Thu, 09 Jul 2026 13:10:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians celebra atuação decisiva em vitória sobre o Palmeiras no Brasileirão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535487/atacante-do-corinthians-celebra-atuacao-decisiva-em-vitoria-sobre-o-palmeiras-no-brasileirao-sub-17",
-      "time": "09/07 · 15:31",
-      "pubDate": "Thu, 09 Jul 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga avanço da limpeza da fachada da Neo Química Arena; veja fotos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535526/corinthians-divulga-avanco-da-limpeza-da-fachada-da-neo-quimica-arena-veja-fotos",
-      "time": "09/07 · 15:08",
-      "pubDate": "Thu, 09 Jul 2026 12:08:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza, do Corinthians, está nos planos de Carlo Ancelotti no Brasil para a Copa do Mundo de 2030",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-do-corinthians-esta-nos-planos-de-carlo-ancelotti-no-brasil-para-a-copa-do-mundo-de-2030]]>",
-      "time": "09/07 · 12:24",
-      "pubDate": "Thu, 09 Jul 2026 09:24:43 -0300"
+      "pubDate": "Thu, 09 Jul 2026 16:05:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -129,6 +121,14 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-sequencia-decisiva-e-calendario-cheio-apos-o-retorno-da-copa-do-mundo]]>",
       "time": "07/07 · 21:32",
       "pubDate": "Tue, 07 Jul 2026 18:32:27 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians reduziu drasticamente gols sofridos em bolas paradas e corrige problema da última temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reduziu-gols-sofridos-em-bolas-paradas-em-2026]]>",
+      "time": "07/07 · 19:17",
+      "pubDate": "Tue, 07 Jul 2026 16:17:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
