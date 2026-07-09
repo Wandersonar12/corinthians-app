@@ -1,62 +1,78 @@
-// Gerado automaticamente em 09/07/2026, 14:22:08
+// Gerado automaticamente em 09/07/2026, 19:16:09
 const LIVE_DATA = {
-  "updatedAt": "2026-07-09T14:22:08.975Z",
+  "updatedAt": "2026-07-09T19:16:09.558Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Você sabia? Corinthians já enfrentou a seleção de Marrocos na década de 1970",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535481/voce-sabia-corinthians-ja-enfrentou-a-selecao-de-marrocos-na-decada-de-1970",
-      "time": "09/07 · 13:33",
-      "pubDate": "Thu, 09 Jul 2026 10:33:00 -0300"
+      "title": "Corinthians realiza treino tático durante sequência da intertemporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535536/corinthians-realiza-treino-tatico-durante-sequencia-da-intertemporada",
+      "time": "09/07 · 19:05",
+      "pubDate": "Thu, 09 Jul 2026 16:05:42 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians avança por renovação de artilheiro do Sub-20; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535513/corinthians-avanca-por-renovacao-de-artilheiro-do-sub-20-confira",
-      "time": "09/07 · 12:30",
-      "pubDate": "Thu, 09 Jul 2026 09:30:00 -0300"
+      "title": "Executivo da Fatal Fans detalha parceria com o Corinthians e analisa rejeição de parte da Fiel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535527/executivo-da-fatal-fans-detalha-parceria-com-o-corinthians-e-analisa-rejeicao-de-parte-da-fiel",
+      "time": "09/07 · 18:35",
+      "pubDate": "Thu, 09 Jul 2026 15:35:08 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians não deve contar com Memphis Depay antes de acordo para renovação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535512/corinthians-nao-deve-contar-com-memphis-depay-antes-de-acordo-para-renovacao",
-      "time": "09/07 · 11:30",
-      "pubDate": "Thu, 09 Jul 2026 08:30:00 -0300"
+      "title": "Técnico do Sub-20 do Corinthians rasga elogios a dupla profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535510/tecnico-do-sub-20-do-corinthians-rasga-elogios-a-dupla-profissional",
+      "time": "09/07 · 18:33",
+      "pubDate": "Thu, 09 Jul 2026 15:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: novo clube de Filho do Terrão, Diniz de olho na base e zagueiro desfalque",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535516/ultimas-do-corinthians-novo-clube-de-filho-do-terrao-diniz-de-olho-na-base-e-zagueiro-desfalque",
-      "time": "09/07 · 10:30",
-      "pubDate": "Thu, 09 Jul 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Vale a investida? Veja números de Arthur, alvo do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/vale-a-investida-veja-numeros-de-arthur-alvo-do-corinthians/",
-      "time": "09/07 · 08:00",
-      "pubDate": "Thu, 09 Jul 2026 08:00:24 +0000"
+      "title": "Meio-campista do Corinthians valoriza temporada artilheira e elogia trabalho de novo técnico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535473/meio-campista-do-corinthians-valoriza-temporada-artilheira-e-elogia-trabalho-de-novo-tecnico",
+      "time": "09/07 · 17:29",
+      "pubDate": "Thu, 09 Jul 2026 14:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto celebra quatro anos de chegada ao Corinthians e reforça gratidão ao clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535515/yuri-alberto-celebra-quatro-anos-de-chegada-ao-corinthians-e-reforca-gratidao-ao-clube",
-      "time": "09/07 · 01:32",
-      "pubDate": "Wed, 08 Jul 2026 22:32:00 -0300"
+      "title": "Corinthians teve quatro capitães em 2026 até definir Rodrigo Garro como líder da equipe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535480/corinthians-teve-quatro-capitaes-em-2026-ate-definir-rodrigo-garro-como-lider-da-equipe",
+      "time": "09/07 · 16:34",
+      "pubDate": "Thu, 09 Jul 2026 13:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente e atletas do Corinthians recebem delegação do Futsal Down antes da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535498/presidente-e-atletas-do-corinthians-recebem-delegacao-do-futsal-down-antes-da-copa-do-brasil",
-      "time": "09/07 · 01:30",
-      "pubDate": "Wed, 08 Jul 2026 22:30:00 -0300"
+      "title": "Corinthians mantém ritmo de treinos de olho nas decisões do segundo semestre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535531/corinthians-mantem-ritmo-de-treinos-de-olho-nas-decisoes-do-segundo-semestre",
+      "time": "09/07 · 16:10",
+      "pubDate": "Thu, 09 Jul 2026 13:10:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians celebra atuação decisiva em vitória sobre o Palmeiras no Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535487/atacante-do-corinthians-celebra-atuacao-decisiva-em-vitoria-sobre-o-palmeiras-no-brasileirao-sub-17",
+      "time": "09/07 · 15:31",
+      "pubDate": "Thu, 09 Jul 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga avanço da limpeza da fachada da Neo Química Arena; veja fotos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535526/corinthians-divulga-avanco-da-limpeza-da-fachada-da-neo-quimica-arena-veja-fotos",
+      "time": "09/07 · 15:08",
+      "pubDate": "Thu, 09 Jul 2026 12:08:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hugo Souza, do Corinthians, está nos planos de Carlo Ancelotti no Brasil para a Copa do Mundo de 2030",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-do-corinthians-esta-nos-planos-de-carlo-ancelotti-no-brasil-para-a-copa-do-mundo-de-2030]]>",
+      "time": "09/07 · 12:24",
+      "pubDate": "Thu, 09 Jul 2026 09:24:43 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,22 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-realiza-primeiro-contato-oficial-com-o-corinthians-pela-contratacao-de-andre-afirma-jornalista]]>",
       "time": "09/07 · 00:44",
       "pubDate": "Wed, 08 Jul 2026 21:44:41 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico destaca união entre categorias de base do Corinthians após vitória no Brasileirão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535471/tecnico-do-sub-17-destaca-uniao-entre-categorias-de-base-do-corinthians-apos-vitoria-no-brasileirao",
-      "time": "09/07 · 00:28",
-      "pubDate": "Wed, 08 Jul 2026 21:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inaugura nova loja oficial em Diadema",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535500/corinthians-inaugura-nova-loja-oficial-em-diadema",
-      "time": "08/07 · 23:31",
-      "pubDate": "Wed, 08 Jul 2026 20:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -99,54 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 08 Jul 2026 17:51:44 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis faz post enigmático em meio a impasse contratual com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-faz-post-enigmatico-em-meio-a-impasse-contratual-com-o-corinthians/",
-      "time": "08/07 · 20:18",
-      "pubDate": "Wed, 08 Jul 2026 20:18:46 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com gol no fim, Palmeiras vence o Corinthians e abre vantagem nas quartas do Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/com-gol-no-fim-palmeiras-vence-o-corinthians-e-abre-vantagem-nas-quartas-do-brasileiro-sub-20/",
-      "time": "08/07 · 19:55",
-      "pubDate": "Wed, 08 Jul 2026 19:55:57 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians treina em dois períodos e tem palestra sobre antidoping no CT",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treina-em-dois-periodos-e-tem-palestra-sobre-antidoping-no-ct/",
-      "time": "08/07 · 19:28",
-      "pubDate": "Wed, 08 Jul 2026 19:28:26 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta quarta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quarta-feira-17/",
-      "time": "08/07 · 19:24",
-      "pubDate": "Wed, 08 Jul 2026 19:24:59 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz consulta por Arthur, mas esbarra em alta pedida salarial",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-consulta-por-arthur-mas-esbarra-em-alta-pedida-salarial/",
-      "time": "08/07 · 18:01",
-      "pubDate": "Wed, 08 Jul 2026 18:01:45 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "PSG empresta Gabriel Moscardo, ex-Corinthians, ao Espanyol",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gabriel-moscardo-emprestimo-espanyol-psg/",
-      "time": "08/07 · 17:26",
-      "pubDate": "Wed, 08 Jul 2026 17:26:39 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Oferecido ao Corinthians, Vozinha tem acordo avançado para jogar com Messi e Casemiro no Inter Miami",
@@ -161,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/wesley-ex-corinthians-esta-de-volta-ao-brasil-e-vai-jogar-pelo-cruzeiro-acordo-e-sem-nenhum-custo]]>",
       "time": "08/07 · 12:40",
       "pubDate": "Wed, 08 Jul 2026 09:40:58 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Gustavo Henrique lidera Corinthians em ações defensivas no Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gustavo-henrique-lidera-corinthians-em-acoes-defensivas-no-brasileirao/",
-      "time": "08/07 · 10:00",
-      "pubDate": "Wed, 08 Jul 2026 10:00:39 +0000"
     },
     {
       "source": "Bolavip",
@@ -187,12 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Tue, 07 Jul 2026 18:32:27 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians reduziu drasticamente gols sofridos em bolas paradas e corrige problema da última temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-reduziu-gols-sofridos-em-bolas-paradas-em-2026]]>",
-      "time": "07/07 · 19:17",
-      "pubDate": "Tue, 07 Jul 2026 16:17:40 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535496/corinthians-leva-gol-no-fim-e-sai-atras-no-derbi-das-quartas-de-final-do-brasileiro-sub-20",
       "pubDate": "Wed, 08 Jul 2026 16:54:00 -0300",
       "date": "08/07 · 19:54"
-    },
-    {
-      "title": "VÍDEO: Top 10 jogadores com mais títulos da história do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128479/top-10-jogadores-com-mais-titulos-da-historia-do-corinthians",
-      "pubDate": "Wed, 08 Jul 2026 10:03:27 -0300",
-      "date": "08/07 · 13:03"
     }
   ]
 };
