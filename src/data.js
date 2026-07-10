@@ -1,7 +1,47 @@
-// Gerado automaticamente em 10/07/2026, 10:41:37
+// Gerado automaticamente em 10/07/2026, 13:48:36
 const LIVE_DATA = {
-  "updatedAt": "2026-07-10T10:41:37.123Z",
+  "updatedAt": "2026-07-10T13:48:36.740Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians minimiza tabu contra rival e aponta dificuldades vividas pelo Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535511/tecnico-do-corinthians-minimiza-tabu-contra-rival-e-aponta-dificuldades-vividas-pelo-sub-20-no-ano",
+      "time": "10/07 · 13:33",
+      "pubDate": "Fri, 10 Jul 2026 10:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Gabriel completa 34 anos; relembre o gol do volante no empate do Corinthians com o Palmeiras",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/gabriel-completa-34-anos-relembre-o-gol-do-volante-no-empate-do-corinthians-com-o-palmeiras/",
+      "time": "10/07 · 13:26",
+      "pubDate": "Fri, 10 Jul 2026 13:26:59 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Executivo da Fatal Fans fala sobre patrocínio no Corinthians e renovação de Memphis Depay",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128509/executivo-da-fatal-fans-fala-sobre-patrocinio-no-corinthians-e-renovacao-de-memphis-depay",
+      "time": "10/07 · 13:04",
+      "pubDate": "Fri, 10 Jul 2026 10:04:17 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Tigres monitora Memphis enquanto Corinthians busca acordo por renovação, diz imprensa mexicana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535553/tigres-monitora-memphis-enquanto-corinthians-busca-acordo-por-renovacao-diz-imprensa-mexicana",
+      "time": "10/07 · 12:31",
+      "pubDate": "Fri, 10 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Minas em busca de se distanciar da zona de rebaixamento da LNF; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535532/corinthians-recebe-o-minas-em-busca-de-se-distanciar-da-zona-de-rebaixamento-da-lnf-saiba-tudo",
+      "time": "10/07 · 11:30",
+      "pubDate": "Fri, 10 Jul 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,6 +57,14 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-por-que-renovacao-de-memphis-com-o-corinthians-ainda-nao-avancou/",
       "time": "10/07 · 08:00",
       "pubDate": "Fri, 10 Jul 2026 08:00:37 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Com futuro incerto no Corinthians, Memphis Depay entra na mira do Tigres, do México",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-futuro-incerto-no-corinthians-memphis-depay-entra-na-mira-do-tigres-do-mexico]]>",
+      "time": "10/07 · 02:52",
+      "pubDate": "Thu, 09 Jul 2026 23:52:07 -0300"
     },
     {
       "source": "Meu Timao",
@@ -41,38 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535546/atacante-revelado-pelo-corinthians-e-oferecido-ao-clube-timao-analisa-condicoes",
       "time": "10/07 · 00:27",
       "pubDate": "Thu, 09 Jul 2026 21:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueira da base volta a entrar em campo pelo Corinthians depois de um ano após cirugia de LCA",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535514/zagueira-da-base-volta-a-entrar-em-campo-pelo-corinthians-depois-de-um-ano-apos-cirugia-de-lca",
-      "time": "09/07 · 23:31",
-      "pubDate": "Thu, 09 Jul 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encaminha saída de goleiro de 18 anos para o futebol italiano; saiba os detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535541/corinthians-encaminha-saida-de-goleiro-de-18-anos-para-o-futebol-italiano-saiba-os-detalhes",
-      "time": "09/07 · 23:05",
-      "pubDate": "Thu, 09 Jul 2026 20:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Veja os possíveis 'reforços' do Corinthians após a pausa para a Copa",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128506/veja-os-possiveis-reforcos-do-corinthians-apos-a-pausa-para-a-copa",
-      "time": "09/07 · 23:01",
-      "pubDate": "Thu, 09 Jul 2026 20:01:32 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians analisa derrota no Dérbi e projeta postura ofensiva para o jogo de volta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535509/tecnico-do-corinthians-analisa-derrota-no-derbi-e-projeta-postura-ofensiva-para-o-jogo-de-volta",
-      "time": "09/07 · 22:35",
-      "pubDate": "Thu, 09 Jul 2026 19:35:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -177,28 +193,18 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/palmeiras/com-gol-no-fim-palmeiras-vence-o-corinthians-e-abre-vantagem-nas-quartas-do-brasileiro-sub-20/",
       "time": "08/07 · 19:55",
       "pubDate": "Wed, 08 Jul 2026 19:55:57 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians treina em dois períodos e tem palestra sobre antidoping no CT",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treina-em-dois-periodos-e-tem-palestra-sobre-antidoping-no-ct/",
-      "time": "08/07 · 19:28",
-      "pubDate": "Wed, 08 Jul 2026 19:28:26 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Oferecido ao Corinthians, Vozinha tem acordo avançado para jogar com Messi e Casemiro no Inter Miami",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/oferecido-ao-corinthians-vozinha-tem-acordo-avancado-para-jogar-com-messi-e-casemiro-no-inter-miami]]>",
-      "time": "08/07 · 14:27",
-      "pubDate": "Wed, 08 Jul 2026 11:27:03 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Executivo da Fatal Fans fala sobre patrocínio no Corinthians e renovação de Memphis Depay",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128509/executivo-da-fatal-fans-fala-sobre-patrocinio-no-corinthians-e-renovacao-de-memphis-depay",
+      "pubDate": "Fri, 10 Jul 2026 10:04:17 -0300",
+      "date": "10/07 · 13:04"
+    },
     {
       "title": "Corinthians encaminha saída de goleiro de 18 anos para o futebol italiano; saiba os detalhes",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535541/corinthians-encaminha-saida-de-goleiro-de-18-anos-para-o-futebol-italiano-saiba-os-detalhes",
