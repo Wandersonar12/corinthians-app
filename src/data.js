@@ -1,7 +1,79 @@
-// Gerado automaticamente em 10/07/2026, 13:48:36
+// Gerado automaticamente em 10/07/2026, 19:11:30
 const LIVE_DATA = {
-  "updatedAt": "2026-07-10T13:48:36.740Z",
+  "updatedAt": "2026-07-10T19:11:30.210Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians nesta sexta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-nesta-sexta-feira-22/",
+      "time": "10/07 · 18:51",
+      "pubDate": "Fri, 10 Jul 2026 18:51:27 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians foca em organização defensiva no penúltimo treino antes de amistoso no Paraná",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535567/corinthians-foca-em-organizacao-defensiva-no-penultimo-treino-antes-de-amistoso-no-parana",
+      "time": "10/07 · 18:32",
+      "pubDate": "Fri, 10 Jul 2026 15:32:49 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Wesley é oferecido ao Corinthians; veja detalhes",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/wesley-e-oferecido-ao-corinthians-veja-detalhes/",
+      "time": "10/07 · 18:01",
+      "pubDate": "Fri, 10 Jul 2026 18:01:32 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra negociações com Gabi Nunes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535558/corinthians-encerra-negociacoes-com-gabi-nunes",
+      "time": "10/07 · 18:00",
+      "pubDate": "Fri, 10 Jul 2026 15:00:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians começa a retirar cadeiras do setor sul da Arena",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-comeca-a-retirar-cadeiras-do-setor-sul-da-arena/",
+      "time": "10/07 · 16:57",
+      "pubDate": "Fri, 10 Jul 2026 16:57:45 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra semana de treinamentos com atividade em campo reduzido",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535560/corinthians-encerra-semana-de-treinamentos-com-atividade-em-campo-reduzido",
+      "time": "10/07 · 16:29",
+      "pubDate": "Fri, 10 Jul 2026 13:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia retirada das cadeiras do setor Sul da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535561/corinthians-inicia-retirada-das-cadeiras-do-setor-sul-da-neo-quimica-arena",
+      "time": "10/07 · 16:27",
+      "pubDate": "Fri, 10 Jul 2026 13:27:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vê tabu contra o Palmeiras aumentar após nova derrota no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535520/corinthians-ve-tabu-contra-o-palmeiras-aumentar-apos-nova-derrota-no-sub-20",
+      "time": "10/07 · 15:31",
+      "pubDate": "Fri, 10 Jul 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia-atacante do Corinthians pode ter temporada mais participativa pelo clube no segundo semestre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535557/meia-atacante-do-corinthians-pode-ter-temporada-mais-participativa-pelo-clube-no-segundo-semestre",
+      "time": "10/07 · 14:31",
+      "pubDate": "Fri, 10 Jul 2026 11:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,68 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Jul 2026 10:04:17 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Tigres monitora Memphis enquanto Corinthians busca acordo por renovação, diz imprensa mexicana",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535553/tigres-monitora-memphis-enquanto-corinthians-busca-acordo-por-renovacao-diz-imprensa-mexicana",
-      "time": "10/07 · 12:31",
-      "pubDate": "Fri, 10 Jul 2026 09:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Minas em busca de se distanciar da zona de rebaixamento da LNF; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535532/corinthians-recebe-o-minas-em-busca-de-se-distanciar-da-zona-de-rebaixamento-da-lnf-saiba-tudo",
-      "time": "10/07 · 11:30",
-      "pubDate": "Fri, 10 Jul 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: retorno incerto de atacante, limpeza na Arena e cria da base oferecida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535547/ultimas-do-corinthians-retorno-incerto-de-atacante-limpeza-na-arena-e-cria-da-base-oferecida",
-      "time": "10/07 · 10:30",
-      "pubDate": "Fri, 10 Jul 2026 07:30:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Entenda por que renovação de Memphis com o Corinthians ainda não avançou",
       "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-por-que-renovacao-de-memphis-com-o-corinthians-ainda-nao-avancou/",
       "time": "10/07 · 08:00",
       "pubDate": "Fri, 10 Jul 2026 08:00:37 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Com futuro incerto no Corinthians, Memphis Depay entra na mira do Tigres, do México",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-futuro-incerto-no-corinthians-memphis-depay-entra-na-mira-do-tigres-do-mexico]]>",
-      "time": "10/07 · 02:52",
-      "pubDate": "Thu, 09 Jul 2026 23:52:07 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico da Ferroviária exalta hegemonia do Corinthians e projeta duelo pela Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535522/tecnico-da-ferroviaria-exalta-hegemonia-do-corinthians-e-projeta-duelo-pela-copa-do-brasil",
-      "time": "10/07 · 01:30",
-      "pubDate": "Thu, 09 Jul 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante revelado pelo Corinthians marca em estreia por time russo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535533/atacante-revelado-pelo-corinthians-marca-em-estreia-por-time-russo",
-      "time": "10/07 · 00:29",
-      "pubDate": "Thu, 09 Jul 2026 21:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante revelado pelo Corinthians é oferecido ao clube; Timão analisa condições",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535546/atacante-revelado-pelo-corinthians-e-oferecido-ao-clube-timao-analisa-condicoes",
-      "time": "10/07 · 00:27",
-      "pubDate": "Thu, 09 Jul 2026 21:27:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -147,14 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 09 Jul 2026 09:24:43 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Vale a investida? Veja números de Arthur, alvo do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/vale-a-investida-veja-numeros-de-arthur-alvo-do-corinthians/",
-      "time": "09/07 · 08:00",
-      "pubDate": "Thu, 09 Jul 2026 08:00:24 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Juventus realiza primeiro contato oficial com o Corinthians pela contratação de André, afirma jornalista",
@@ -179,20 +187,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 08 Jul 2026 17:51:44 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis faz post enigmático em meio a impasse contratual com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-faz-post-enigmatico-em-meio-a-impasse-contratual-com-o-corinthians/",
-      "time": "08/07 · 20:18",
-      "pubDate": "Wed, 08 Jul 2026 20:18:46 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com gol no fim, Palmeiras vence o Corinthians e abre vantagem nas quartas do Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/com-gol-no-fim-palmeiras-vence-o-corinthians-e-abre-vantagem-nas-quartas-do-brasileiro-sub-20/",
-      "time": "08/07 · 19:55",
-      "pubDate": "Wed, 08 Jul 2026 19:55:57 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Oferecido ao Corinthians, Vozinha tem acordo avançado para jogar com Messi e Casemiro no Inter Miami",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/oferecido-ao-corinthians-vozinha-tem-acordo-avancado-para-jogar-com-messi-e-casemiro-no-inter-miami]]>",
+      "time": "08/07 · 14:27",
+      "pubDate": "Wed, 08 Jul 2026 11:27:03 -0300"
     }
   ],
   "upcoming": [],
