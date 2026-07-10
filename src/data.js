@@ -1,7 +1,55 @@
-// Gerado automaticamente em 10/07/2026, 19:11:30
+// Gerado automaticamente em 10/07/2026, 22:45:52
 const LIVE_DATA = {
-  "updatedAt": "2026-07-10T19:11:30.210Z",
+  "updatedAt": "2026-07-10T22:45:52.504Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Destaque do Sub-17 celebra sequência positiva pelo Corinthians após vitória no Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535540/destaque-do-sub-17-celebra-sequencia-positiva-pelo-corinthians-apos-vitoria-no-derbi",
+      "time": "10/07 · 22:03",
+      "pubDate": "Fri, 10 Jul 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcida aprova permanência de jovem goleira do Corinthians para 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535551/torcida-aprova-permanencia-de-jovem-goleira-do-corinthians-para-2027",
+      "time": "10/07 · 21:02",
+      "pubDate": "Fri, 10 Jul 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Corinthians retira cadeiras do setor Sul da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128517/corinthians-retira-cadeiras-do-setor-sul-da-neo-quimica-arena",
+      "time": "10/07 · 20:57",
+      "pubDate": "Fri, 10 Jul 2026 17:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians deixa de ganhar bolada com recuo de clube de inglês por ex-jogador; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535572/corinthians-deixa-de-ganhar-bolada-com-recuo-de-clube-de-ingles-por-ex-jogador-entenda",
+      "time": "10/07 · 20:14",
+      "pubDate": "Fri, 10 Jul 2026 17:14:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista do Corinthians celebra bom momento no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535539/meio-campista-do-corinthians-celebra-bom-momento-no-sub-17",
+      "time": "10/07 · 19:33",
+      "pubDate": "Fri, 10 Jul 2026 16:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians realiza treino técnico e tático em 15º dia da intertemporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-realiza-treino-tecnico-e-tatico-em-15o-dia-da-intertemporada/",
+      "time": "10/07 · 19:10",
+      "pubDate": "Fri, 10 Jul 2026 19:10:44 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -35,6 +83,14 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Jul 2026 15:00:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians prepara “chapéu” no Cruzeiro e avança nas conversas pela contratação do atacante Wesley",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prepara-chapeu-no-cruzeiro-e-avanca-nas-conversas-pela-contratacao-do-atacante-wesley]]>",
+      "time": "10/07 · 17:29",
+      "pubDate": "Fri, 10 Jul 2026 14:29:01 -0300"
+    },
+    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians começa a retirar cadeiras do setor sul da Arena",
@@ -51,36 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Jul 2026 13:29:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia retirada das cadeiras do setor Sul da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535561/corinthians-inicia-retirada-das-cadeiras-do-setor-sul-da-neo-quimica-arena",
-      "time": "10/07 · 16:27",
-      "pubDate": "Fri, 10 Jul 2026 13:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vê tabu contra o Palmeiras aumentar após nova derrota no Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535520/corinthians-ve-tabu-contra-o-palmeiras-aumentar-apos-nova-derrota-no-sub-20",
-      "time": "10/07 · 15:31",
-      "pubDate": "Fri, 10 Jul 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia-atacante do Corinthians pode ter temporada mais participativa pelo clube no segundo semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535557/meia-atacante-do-corinthians-pode-ter-temporada-mais-participativa-pelo-clube-no-segundo-semestre",
-      "time": "10/07 · 14:31",
-      "pubDate": "Fri, 10 Jul 2026 11:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians minimiza tabu contra rival e aponta dificuldades vividas pelo Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535511/tecnico-do-corinthians-minimiza-tabu-contra-rival-e-aponta-dificuldades-vividas-pelo-sub-20-no-ano",
-      "time": "10/07 · 13:33",
-      "pubDate": "Fri, 10 Jul 2026 10:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay, do Corinthians, é especulado como substituto imediato de Gignac no Tigres, do México",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-do-corinthians-e-especulado-como-substituto-imediato-de-gignac-no-tigres-do-mexico]]>",
+      "time": "10/07 · 15:25",
+      "pubDate": "Fri, 10 Jul 2026 12:25:54 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -91,20 +123,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 10 Jul 2026 13:26:59 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Executivo da Fatal Fans fala sobre patrocínio no Corinthians e renovação de Memphis Depay",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128509/executivo-da-fatal-fans-fala-sobre-patrocinio-no-corinthians-e-renovacao-de-memphis-depay",
-      "time": "10/07 · 13:04",
-      "pubDate": "Fri, 10 Jul 2026 10:04:17 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Entenda por que renovação de Memphis com o Corinthians ainda não avançou",
       "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-por-que-renovacao-de-memphis-com-o-corinthians-ainda-nao-avancou/",
       "time": "10/07 · 08:00",
       "pubDate": "Fri, 10 Jul 2026 08:00:37 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Com futuro incerto no Corinthians, Memphis Depay entra na mira do Tigres, do México",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/com-futuro-incerto-no-corinthians-memphis-depay-entra-na-mira-do-tigres-do-mexico]]>",
+      "time": "10/07 · 02:52",
+      "pubDate": "Thu, 09 Jul 2026 23:52:07 -0300"
     },
     {
       "source": "Bolavip",
@@ -129,14 +161,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-faz-ajustes-defensivos-no-corinthians-visando-amistoso/",
       "time": "09/07 · 19:05",
       "pubDate": "Thu, 09 Jul 2026 19:05:08 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta quinta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quinta-feira-8/",
-      "time": "09/07 · 19:02",
-      "pubDate": "Thu, 09 Jul 2026 19:02:05 +0000"
     },
     {
       "source": "Bolavip",
@@ -169,36 +193,30 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-realiza-primeiro-contato-oficial-com-o-corinthians-pela-contratacao-de-andre-afirma-jornalista]]>",
       "time": "09/07 · 00:44",
       "pubDate": "Wed, 08 Jul 2026 21:44:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Especulado no Corinthians, Malcom deve sair do Al-Hilal e reforçar o Fenerbahçe, da Turquia",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/especulado-no-corinthians-malcom-deve-sair-do-al-hilal-e-reforcar-o-fenerbahce-da-turquia]]>",
-      "time": "08/07 · 22:55",
-      "pubDate": "Wed, 08 Jul 2026 19:55:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay faz post misterioso em meio ao processo de renovação com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-faz-post-misterioso-em-meio-ao-processo-de-renovacao-com-o-corinthians]]>",
-      "time": "08/07 · 20:51",
-      "pubDate": "Wed, 08 Jul 2026 17:51:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Oferecido ao Corinthians, Vozinha tem acordo avançado para jogar com Messi e Casemiro no Inter Miami",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/oferecido-ao-corinthians-vozinha-tem-acordo-avancado-para-jogar-com-messi-e-casemiro-no-inter-miami]]>",
-      "time": "08/07 · 14:27",
-      "pubDate": "Wed, 08 Jul 2026 11:27:03 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Torcida aprova permanência de jovem goleira do Corinthians para 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535551/torcida-aprova-permanencia-de-jovem-goleira-do-corinthians-para-2027",
+      "pubDate": "Fri, 10 Jul 2026 18:02:00 -0300",
+      "date": "10/07 · 21:02"
+    },
+    {
+      "title": "VÍDEO: Corinthians retira cadeiras do setor Sul da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128517/corinthians-retira-cadeiras-do-setor-sul-da-neo-quimica-arena",
+      "pubDate": "Fri, 10 Jul 2026 17:57:00 -0300",
+      "date": "10/07 · 20:57"
+    },
+    {
+      "title": "Meio-campista do Corinthians celebra bom momento no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535539/meio-campista-do-corinthians-celebra-bom-momento-no-sub-17",
+      "pubDate": "Fri, 10 Jul 2026 16:33:00 -0300",
+      "date": "10/07 · 19:33"
+    },
     {
       "title": "VÍDEO: Executivo da Fatal Fans fala sobre patrocínio no Corinthians e renovação de Memphis Depay",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128509/executivo-da-fatal-fans-fala-sobre-patrocinio-no-corinthians-e-renovacao-de-memphis-depay",
