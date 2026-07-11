@@ -1,14 +1,30 @@
-// Gerado automaticamente em 11/07/2026, 09:12:46
+// Gerado automaticamente em 11/07/2026, 12:44:32
 const LIVE_DATA = {
-  "updatedAt": "2026-07-11T09:12:46.050Z",
+  "updatedAt": "2026-07-11T12:44:32.393Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vê cenário complicado em renovação de atacante a 50 dias do fim do vínculo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535571/corinthians-ve-cenario-complicado-em-renovacao-de-atacante-a-50-dias-do-fim-do-vinculo",
+      "time": "11/07 · 11:30",
+      "pubDate": "Sat, 11 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: retirada de cadeiras, Memphis na mira de mexicanos e fim de negociação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535582/ultimas-do-corinthians-retirada-de-cadeiras-memphis-na-mira-de-mexicanos-e-fim-de-negociacao",
+      "time": "11/07 · 10:30",
+      "pubDate": "Sat, 11 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians conquista título da Copa São Paulo de Basquete com elenco Sub-22",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535581/corinthians-conquista-titulo-da-copa-sao-paulo-de-basquete-com-elenco-sub-22",
       "time": "11/07 · 01:05",
-      "pubDate": "Fri, 10 Jul 2026 22:05:13 -0300"
+      "pubDate": "Fri, 10 Jul 2026 22:05:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -49,22 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535551/torcida-aprova-permanencia-de-jovem-goleira-do-corinthians-para-2027",
       "time": "10/07 · 21:02",
       "pubDate": "Fri, 10 Jul 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Corinthians retira cadeiras do setor Sul da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128517/corinthians-retira-cadeiras-do-setor-sul-da-neo-quimica-arena",
-      "time": "10/07 · 20:57",
-      "pubDate": "Fri, 10 Jul 2026 17:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians deixa de ganhar bolada com recuo de clube de inglês por ex-jogador; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535572/corinthians-deixa-de-ganhar-bolada-com-recuo-de-clube-de-ingles-por-ex-jogador-entenda",
-      "time": "10/07 · 20:14",
-      "pubDate": "Fri, 10 Jul 2026 17:14:00 -0300"
     },
     {
       "source": "Bolavip",
