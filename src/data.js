@@ -1,70 +1,78 @@
-// Gerado automaticamente em 11/07/2026, 12:44:32
+// Gerado automaticamente em 11/07/2026, 18:40:20
 const LIVE_DATA = {
-  "updatedAt": "2026-07-11T12:44:32.393Z",
+  "updatedAt": "2026-07-11T18:40:20.705Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vê cenário complicado em renovação de atacante a 50 dias do fim do vínculo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535571/corinthians-ve-cenario-complicado-em-renovacao-de-atacante-a-50-dias-do-fim-do-vinculo",
-      "time": "11/07 · 11:30",
-      "pubDate": "Sat, 11 Jul 2026 08:30:00 -0300"
+      "title": "Lateral-esquerdo comenta importância de amistoso para o Corinthians durante intertemporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535654/lateral-esquerdo-comenta-importancia-de-amistoso-para-o-corinthians-durante-intertemporada",
+      "time": "11/07 · 18:09",
+      "pubDate": "Sat, 11 Jul 2026 15:09:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: retirada de cadeiras, Memphis na mira de mexicanos e fim de negociação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535582/ultimas-do-corinthians-retirada-de-cadeiras-memphis-na-mira-de-mexicanos-e-fim-de-negociacao",
-      "time": "11/07 · 10:30",
-      "pubDate": "Sat, 11 Jul 2026 07:30:00 -0300"
+      "title": "Corinthians encerra preparação para amistoso contra o FC Cascavel; veja a provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535650/corinthians-encerra-preparacao-para-amistoso-contra-o-fc-cascavel-veja-a-provavel-escalacao",
+      "time": "11/07 · 17:58",
+      "pubDate": "Sat, 11 Jul 2026 14:58:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conquista título da Copa São Paulo de Basquete com elenco Sub-22",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535581/corinthians-conquista-titulo-da-copa-sao-paulo-de-basquete-com-elenco-sub-22",
-      "time": "11/07 · 01:05",
-      "pubDate": "Fri, 10 Jul 2026 22:05:00 -0300"
+      "title": "Corinthians vence o Velo Clube e se classifica para a semifinal da Paulista Cup Sub-18",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535647/corinthians-vence-o-velo-clube-e-se-classifica-para-a-semifinal-da-paulista-cup",
+      "time": "11/07 · 17:31",
+      "pubDate": "Sat, 11 Jul 2026 14:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Minas dentro de casa e ganha fôlego contra o rebaixamento na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535576/corinthians-vence-o-minas-dentro-de-casa-e-ganha-folego-contra-o-rebaixamento-na-lnf",
-      "time": "11/07 · 00:10",
-      "pubDate": "Fri, 10 Jul 2026 21:10:00 -0300"
+      "title": "Goleiro do Corinthians nega dificuldades na saída com os pés e pondera sobre erros cometidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535641/goleiro-do-corinthians-nega-dificuldades-na-saida-com-os-pes-e-pondera-sobre-erros-cometidos",
+      "time": "11/07 · 16:33",
+      "pubDate": "Sat, 11 Jul 2026 13:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com Ariel Godoi para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535552/o-corinthians-deve-renovar-com-ariel-godoi-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "11/07 · 00:00",
-      "pubDate": "Fri, 10 Jul 2026 21:00:00 -0300"
+      "title": "Trio do Corinthians marca em vitória na LNF e movimenta artilharia do futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535580/trio-do-corinthians-marca-em-vitoria-na-lnf-e-movimenta-artilharia-do-futsal",
+      "time": "11/07 · 15:35",
+      "pubDate": "Sat, 11 Jul 2026 12:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Patrocinadora estreia em uniforme do Corinthians durante jogo da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535577/patrocinadora-estreia-em-uniforme-do-corinthians-durante-jogo-da-lnf",
-      "time": "10/07 · 22:53",
-      "pubDate": "Fri, 10 Jul 2026 19:53:00 -0300"
+      "title": "Zagueiro do Corinthians coloca Yuri Alberto acima de Haaland em seleção com os melhores do mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535640/zagueiro-do-corinthians-coloca-yuri-alberto-acima-de-haaland-em-selecao-com-os-melhores-do-mundo",
+      "time": "11/07 · 14:31",
+      "pubDate": "Sat, 11 Jul 2026 11:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Destaque do Sub-17 celebra sequência positiva pelo Corinthians após vitória no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535540/destaque-do-sub-17-celebra-sequencia-positiva-pelo-corinthians-apos-vitoria-no-derbi",
-      "time": "10/07 · 22:03",
-      "pubDate": "Fri, 10 Jul 2026 19:03:00 -0300"
+      "title": "Corinthians Steamrollers conhece adversários da fase de grupos da Superliga",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535569/corinthians-steamrollers-conhece-adversarios-da-fase-de-grupos-da-superliga",
+      "time": "11/07 · 13:31",
+      "pubDate": "Sat, 11 Jul 2026 10:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcida aprova permanência de jovem goleira do Corinthians para 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535551/torcida-aprova-permanencia-de-jovem-goleira-do-corinthians-para-2027",
-      "time": "10/07 · 21:02",
-      "pubDate": "Fri, 10 Jul 2026 18:02:00 -0300"
+      "title": "Relembre os últimos amistosos do Corinthians durante a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535568/relembre-os-ultimos-amistosos-do-corinthians-durante-a-copa-do-mundo",
+      "time": "11/07 · 12:36",
+      "pubDate": "Sat, 11 Jul 2026 09:36:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida do Corinthians aprova saída de Memphis Depay após novela no fim do contrato: “Seria bom”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-aprova-saida-de-memphis-depay-apos-novela-no-fim-do-contrato-seria-bom]]>",
+      "time": "11/07 · 11:33",
+      "pubDate": "Sat, 11 Jul 2026 08:33:16 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-oferece-pedro-raul-para-varios-clubes-e-exige-pagamento-integral-do-salario-de-r-750-mil]]>",
       "time": "09/07 · 14:47",
       "pubDate": "Thu, 09 Jul 2026 11:47:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza, do Corinthians, está nos planos de Carlo Ancelotti no Brasil para a Copa do Mundo de 2030",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-do-corinthians-esta-nos-planos-de-carlo-ancelotti-no-brasil-para-a-copa-do-mundo-de-2030]]>",
-      "time": "09/07 · 12:24",
-      "pubDate": "Thu, 09 Jul 2026 09:24:43 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians nega dificuldades na saída com os pés e pondera sobre erros cometidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535641/goleiro-do-corinthians-nega-dificuldades-na-saida-com-os-pes-e-pondera-sobre-erros-cometidos",
+      "pubDate": "Sat, 11 Jul 2026 13:33:00 -0300",
+      "date": "11/07 · 16:33"
+    },
+    {
+      "title": "Zagueiro do Corinthians coloca Yuri Alberto acima de Haaland em seleção com os melhores do mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535640/zagueiro-do-corinthians-coloca-yuri-alberto-acima-de-haaland-em-selecao-com-os-melhores-do-mundo",
+      "pubDate": "Sat, 11 Jul 2026 11:31:00 -0300",
+      "date": "11/07 · 14:31"
+    },
+    {
       "title": "Torcida aprova permanência de jovem goleira do Corinthians para 2027",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535551/torcida-aprova-permanencia-de-jovem-goleira-do-corinthians-para-2027",
       "pubDate": "Fri, 10 Jul 2026 18:02:00 -0300",
@@ -222,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128509/executivo-da-fatal-fans-fala-sobre-patrocinio-no-corinthians-e-renovacao-de-memphis-depay",
       "pubDate": "Fri, 10 Jul 2026 10:04:17 -0300",
       "date": "10/07 · 13:04"
-    },
-    {
-      "title": "Corinthians encaminha saída de goleiro de 18 anos para o futebol italiano; saiba os detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535541/corinthians-encaminha-saida-de-goleiro-de-18-anos-para-o-futebol-italiano-saiba-os-detalhes",
-      "pubDate": "Thu, 09 Jul 2026 20:05:00 -0300",
-      "date": "09/07 · 23:05"
-    },
-    {
-      "title": "VÍDEO: Veja os possíveis 'reforços' do Corinthians após a pausa para a Copa",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128506/veja-os-possiveis-reforcos-do-corinthians-apos-a-pausa-para-a-copa",
-      "pubDate": "Thu, 09 Jul 2026 20:01:32 -0300",
-      "date": "09/07 · 23:01"
     }
   ]
 };
