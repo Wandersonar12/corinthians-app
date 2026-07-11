@@ -1,7 +1,39 @@
-// Gerado automaticamente em 11/07/2026, 18:40:20
+// Gerado automaticamente em 11/07/2026, 22:34:19
 const LIVE_DATA = {
-  "updatedAt": "2026-07-11T18:40:20.705Z",
+  "updatedAt": "2026-07-11T22:34:19.142Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians celebra título da Copa São Paulo de Basquete com elenco Sub-22",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535583/tecnico-do-corinthians-celebra-titulo-da-copa-sao-paulo-de-basquete-com-elenco-sub-22",
+      "time": "11/07 · 21:30",
+      "pubDate": "Sat, 11 Jul 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Enquete aponta divisão, mas maioria é contra renovação de atacante com o Corinthians para 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535637/enquete-aponta-divisao-mas-maioria-e-contra-renovacao-de-atacante-com-o-corinthians-para-2027",
+      "time": "11/07 · 20:31",
+      "pubDate": "Sat, 11 Jul 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians iguala melhor começo de temporada após goleada pelo Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535578/corinthians-iguala-melhor-comeco-de-temporada-apos-goleada-pelo-paulista-feminino-sub-20",
+      "time": "11/07 · 19:35",
+      "pubDate": "Sat, 11 Jul 2026 16:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-capitão do Corinthians visita CT e é homenageado com camisa personalizada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535653/ex-capitao-do-corinthians-visita-ct-e-e-homenageado-com-camisa-personalizada",
+      "time": "11/07 · 18:31",
+      "pubDate": "Sat, 11 Jul 2026 15:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,6 +59,14 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Jul 2026 14:31:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Cascavel x Corinthians: onde assistir ao vivo, horário e prováveis escalações",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cascavel-x-corinthians-onde-assistir-ao-vivo-horario-escalacoes-amistoso-2026]]>",
+      "time": "11/07 · 17:20",
+      "pubDate": "Sat, 11 Jul 2026 14:20:42 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Goleiro do Corinthians nega dificuldades na saída com os pés e pondera sobre erros cometidos",
@@ -35,44 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Jul 2026 13:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Trio do Corinthians marca em vitória na LNF e movimenta artilharia do futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535580/trio-do-corinthians-marca-em-vitoria-na-lnf-e-movimenta-artilharia-do-futsal",
-      "time": "11/07 · 15:35",
-      "pubDate": "Sat, 11 Jul 2026 12:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians coloca Yuri Alberto acima de Haaland em seleção com os melhores do mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535640/zagueiro-do-corinthians-coloca-yuri-alberto-acima-de-haaland-em-selecao-com-os-melhores-do-mundo",
-      "time": "11/07 · 14:31",
-      "pubDate": "Sat, 11 Jul 2026 11:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians Steamrollers conhece adversários da fase de grupos da Superliga",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535569/corinthians-steamrollers-conhece-adversarios-da-fase-de-grupos-da-superliga",
-      "time": "11/07 · 13:31",
-      "pubDate": "Sat, 11 Jul 2026 10:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Relembre os últimos amistosos do Corinthians durante a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535568/relembre-os-ultimos-amistosos-do-corinthians-durante-a-copa-do-mundo",
-      "time": "11/07 · 12:36",
-      "pubDate": "Sat, 11 Jul 2026 09:36:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Torcida do Corinthians aprova saída de Memphis Depay após novela no fim do contrato: “Seria bom”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-aprova-saida-de-memphis-depay-apos-novela-no-fim-do-contrato-seria-bom]]>",
-      "time": "11/07 · 11:33",
-      "pubDate": "Sat, 11 Jul 2026 08:33:16 -0300"
+      "time": "11/07 · 14:19",
+      "pubDate": "Sat, 11 Jul 2026 11:19:48 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-rodrigo-garro-como-capitao-apos-rodizio-em-2026]]>",
       "time": "09/07 · 17:47",
       "pubDate": "Thu, 09 Jul 2026 14:47:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians oferece Pedro Raul para vários clubes e exige pagamento integral do salário de R$ 750 mil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-oferece-pedro-raul-para-varios-clubes-e-exige-pagamento-integral-do-salario-de-r-750-mil]]>",
-      "time": "09/07 · 14:47",
-      "pubDate": "Thu, 09 Jul 2026 11:47:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians iguala melhor começo de temporada após goleada pelo Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535578/corinthians-iguala-melhor-comeco-de-temporada-apos-goleada-pelo-paulista-feminino-sub-20",
+      "pubDate": "Sat, 11 Jul 2026 16:35:00 -0300",
+      "date": "11/07 · 19:35"
+    },
+    {
       "title": "Goleiro do Corinthians nega dificuldades na saída com os pés e pondera sobre erros cometidos",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535641/goleiro-do-corinthians-nega-dificuldades-na-saida-com-os-pes-e-pondera-sobre-erros-cometidos",
       "pubDate": "Sat, 11 Jul 2026 13:33:00 -0300",
@@ -228,12 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535539/meio-campista-do-corinthians-celebra-bom-momento-no-sub-17",
       "pubDate": "Fri, 10 Jul 2026 16:33:00 -0300",
       "date": "10/07 · 19:33"
-    },
-    {
-      "title": "VÍDEO: Executivo da Fatal Fans fala sobre patrocínio no Corinthians e renovação de Memphis Depay",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128509/executivo-da-fatal-fans-fala-sobre-patrocinio-no-corinthians-e-renovacao-de-memphis-depay",
-      "pubDate": "Fri, 10 Jul 2026 10:04:17 -0300",
-      "date": "10/07 · 13:04"
     }
   ]
 };
