@@ -1,70 +1,86 @@
-// Gerado automaticamente em 12/07/2026, 18:43:56
+// Gerado automaticamente em 12/07/2026, 22:34:51
 const LIVE_DATA = {
-  "updatedAt": "2026-07-12T18:43:56.741Z",
+  "updatedAt": "2026-07-12T22:34:51.514Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com Lelê para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535685/o-corinthians-deve-renovar-com-lele-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "12/07 · 18:34",
-      "pubDate": "Sun, 12 Jul 2026 15:34:00 -0300"
+      "title": "Amistoso entre Corinthians e Cascavel é marcado por confusão e lance envolvendo André Ramalho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535713/amistoso-entre-corinthians-e-cascavel-e-marcado-por-confusao-e-lance-envolvendo-andre-ramalho",
+      "time": "12/07 · 22:15",
+      "pubDate": "Sun, 12 Jul 2026 19:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians atualiza situação de desfalques antes de amistoso contra o FC Cascavel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535704/corinthians-atualiza-situacao-de-desfalques-antes-de-amistoso-contra-o-fc-cascavel",
-      "time": "12/07 · 18:28",
-      "pubDate": "Sun, 12 Jul 2026 15:28:46 -0300"
+      "title": "Ídolo do Corinthians é presentado com camisa do clube e manda recado para a Fiel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535706/idolo-do-corinthians-e-presentado-com-camisa-do-clube-e-manda-recado-para-a-fiel",
+      "time": "12/07 · 21:57",
+      "pubDate": "Sun, 12 Jul 2026 18:57:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para amistoso contra o FC Cascavel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535665/corinthians-esta-escalado-para-amistoso-contra-o-fc-cascavel",
-      "time": "12/07 · 18:00",
-      "pubDate": "Sun, 12 Jul 2026 15:00:00 -0300"
+      "title": "Ex-capitão é homenageado pelo Corinthians antes de amistoso diante do FC Cascavel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535708/ex-capitao-e-homenageado-pelo-corinthians-antes-de-amistoso-diante-do-fc-cascavel",
+      "time": "12/07 · 21:47",
+      "pubDate": "Sun, 12 Jul 2026 18:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Estadual difícil e eliminado no Brasileirão: veja como o Cascavel recebe o Corinthians para amistoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535668/estadual-dificil-e-eliminado-no-brasileirao-veja-como-o-cascavel-recebe-o-corinthians-para-amistoso",
-      "time": "12/07 · 17:33",
-      "pubDate": "Sun, 12 Jul 2026 14:33:00 -0300"
+      "title": "VÍDEO: Melhores momentos: Cascavel 1x1 Corinthians | Amistoso 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128532/melhores-momentos-cascavel-1x1-corinthians-amistoso-2026",
+      "time": "12/07 · 21:27",
+      "pubDate": "Sun, 12 Jul 2026 18:27:58 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Pivô do Corinthians vê trabalho recompensado e mira classificação aos playoffs da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535644/pivo-do-corinthians-ve-trabalho-recompensado-e-mira-classificacao-aos-playoffs-da-lnf",
-      "time": "12/07 · 17:05",
-      "pubDate": "Sun, 12 Jul 2026 14:05:00 -0300"
+      "title": "Volante do Corinthians valoriza o primeiro gol marcado em seu retorno e diminui o impacto do gramado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535724/volante-do-corinthians-valoriza-o-primeiro-gol-marcado-em-seu-retorno-e-diminui-o-impacto-do-gramado",
+      "time": "12/07 · 21:26",
+      "pubDate": "Sun, 12 Jul 2026 18:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians leva histórico favorável em amistosos para duelo contra o FC Cascavel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535664/corinthians-leva-historico-favoravel-em-amistosos-para-duelo-contra-o-fc-cascavel",
-      "time": "12/07 · 16:33",
-      "pubDate": "Sun, 12 Jul 2026 13:33:00 -0300"
+      "title": "Fiel critica atuação do Corinthians em empate com o Cascavel e reclama de gramado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535722/fiel-critica-atuacao-do-corinthians-em-empate-com-o-cascavel-e-reclama-de-gramado",
+      "time": "12/07 · 21:15",
+      "pubDate": "Sun, 12 Jul 2026 18:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gerente do Corinthians confirma condição para retorno de Memphis e explica papel nas contratações",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535694/gerente-do-corinthians-confirma-condicao-para-retorno-de-memphis-e-explica-papel-nas-contratacoes",
-      "time": "12/07 · 15:36",
-      "pubDate": "Sun, 12 Jul 2026 12:36:00 -0300"
+      "title": "Ficha técnica: FC Cascavel 1 x 1 Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535717/ficha-tecnica-fc-cascavel-1-x-1-corinthians",
+      "time": "12/07 · 21:00",
+      "pubDate": "Sun, 12 Jul 2026 18:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence a Portuguesa e sobe para a vice-liderança do grupo no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535692/corinthians-vence-a-portuguesa-e-sobe-para-a-vice-lideranca-do-grupo-no-paulista-sub-20",
-      "time": "12/07 · 15:00",
-      "pubDate": "Sun, 12 Jul 2026 12:00:00 -0300"
+      "title": "Corinthians é pouco eficaz e apenas empata com o Cascavel em amistoso de intertemporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535718/corinthians-e-pouco-eficaz-e-apenas-empata-com-o-cascavel-em-amistoso-de-intertemporada",
+      "time": "12/07 · 20:59",
+      "pubDate": "Sun, 12 Jul 2026 17:59:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ao Vivo | Cascavel x Corinthians: acompanhe de graça o jogo em tempo real | Amistoso",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ao-vivo-cascavel-x-corinthians-acompanhe-de-graca-o-jogo-em-tempo-real-amistoso]]>",
+      "time": "12/07 · 18:43",
+      "pubDate": "Sun, 12 Jul 2026 15:43:11 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Cascavel x Corinthians: onde assistir ao vivo, horário e prováveis escalações",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cascavel-x-corinthians-onde-assistir-ao-vivo-horario-escalacoes-amistoso-2026]]>",
+      "time": "12/07 · 13:56",
+      "pubDate": "Sun, 12 Jul 2026 10:56:54 -0300"
     },
     {
       "source": "Bolavip",
@@ -93,18 +109,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Fernando Diniz faz pedido ao Corinthians e prioridade é a contrataç��o de um primeiro volante",
+      "title": "Fernando Diniz faz pedido ao Corinthians e prioridade é a contratação de um primeiro volante",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-faz-pedido-ao-corinthians-e-prioridade-e-a-contratacao-de-um-primeiro-volante]]>",
       "time": "11/07 · 21:09",
       "pubDate": "Sat, 11 Jul 2026 18:09:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Cascavel x Corinthians: onde assistir ao vivo, horário e prováveis escalações",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cascavel-x-corinthians-onde-assistir-ao-vivo-horario-escalacoes-amistoso-2026]]>",
-      "time": "11/07 · 17:20",
-      "pubDate": "Sat, 11 Jul 2026 14:20:42 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-fecha-novo-acordo-com-o-shabab-al-ahli-e-matheus-donelli-fica-ate-o-fim-de-2026]]>",
       "time": "10/07 · 19:33",
       "pubDate": "Fri, 10 Jul 2026 16:33:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians prepara “chapéu” no Cruzeiro e avança nas conversas pela contratação do atacante Wesley",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prepara-chapeu-no-cruzeiro-e-avanca-nas-conversas-pela-contratacao-do-atacante-wesley]]>",
-      "time": "10/07 · 17:29",
-      "pubDate": "Fri, 10 Jul 2026 14:29:01 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Melhores momentos: Cascavel 1x1 Corinthians | Amistoso 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128532/melhores-momentos-cascavel-1x1-corinthians-amistoso-2026",
+      "pubDate": "Sun, 12 Jul 2026 18:27:58 -0300",
+      "date": "12/07 · 21:27"
+    },
+    {
+      "title": "Volante do Corinthians valoriza o primeiro gol marcado em seu retorno e diminui o impacto do gramado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535724/volante-do-corinthians-valoriza-o-primeiro-gol-marcado-em-seu-retorno-e-diminui-o-impacto-do-gramado",
+      "pubDate": "Sun, 12 Jul 2026 18:26:00 -0300",
+      "date": "12/07 · 21:26"
+    },
+    {
       "title": "Saiba onde assistir ao amistoso entre Corinthians e FC Cascavel",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535658/saiba-onde-assistir-ao-amistoso-entre-corinthians-e-fc-cascavel",
       "pubDate": "Sun, 12 Jul 2026 08:30:00 -0300",
@@ -216,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535643/goleiro-do-corinthians-faz-pedido-a-fiel-apos-vitoria-dentro-de-casa-na-lnf",
       "pubDate": "Sat, 11 Jul 2026 21:33:00 -0300",
       "date": "12/07 · 00:33"
-    },
-    {
-      "title": "Corinthians iguala melhor começo de temporada após goleada pelo Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535578/corinthians-iguala-melhor-comeco-de-temporada-apos-goleada-pelo-paulista-feminino-sub-20",
-      "pubDate": "Sat, 11 Jul 2026 16:35:00 -0300",
-      "date": "11/07 · 19:35"
-    },
-    {
-      "title": "Goleiro do Corinthians nega dificuldades na saída com os pés e pondera sobre erros cometidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535641/goleiro-do-corinthians-nega-dificuldades-na-saida-com-os-pes-e-pondera-sobre-erros-cometidos",
-      "pubDate": "Sat, 11 Jul 2026 13:33:00 -0300",
-      "date": "11/07 · 16:33"
     }
   ]
 };
