@@ -1,7 +1,95 @@
-// Gerado automaticamente em 11/07/2026, 22:34:19
+// Gerado automaticamente em 12/07/2026, 09:39:37
 const LIVE_DATA = {
-  "updatedAt": "2026-07-11T22:34:19.142Z",
+  "updatedAt": "2026-07-12T09:39:37.726Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o FC Cascavel em único amistoso durante a pausa para a Copa; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535657/corinthians-enfrenta-o-fc-cascavel-em-unico-amistoso-durante-a-pausa-para-a-copa-saiba-tudo",
+      "time": "12/07 · 03:01",
+      "pubDate": "Sun, 12 Jul 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians mostra otimismo para jogo contra a Portuguesa pelo Paulistão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535651/goleiro-do-corinthians-mostra-otimismo-para-jogo-contra-a-portuguesa-pelo-paulistao-sub-20",
+      "time": "12/07 · 01:30",
+      "pubDate": "Sat, 11 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém conversas por Arthur Melo e vê Fernando Diniz como trunfo na negociação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535674/corinthians-mantem-conversas-por-arthur-melo-e-ve-fernando-diniz-como-trunfo-na-negociacao",
+      "time": "12/07 · 00:43",
+      "pubDate": "Sat, 11 Jul 2026 21:43:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians faz pedido à Fiel após vitória dentro de casa na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535643/goleiro-do-corinthians-faz-pedido-a-fiel-apos-vitoria-dentro-de-casa-na-lnf",
+      "time": "12/07 · 00:33",
+      "pubDate": "Sat, 11 Jul 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians desembarca no Paraná com 26 jogadores para enfrentar o FC Cascavel; veja relacionados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535671/corinthians-desembarca-no-parana-com-26-jogadores-para-enfrentar-o-fc-cascavel-veja-relacionados",
+      "time": "11/07 · 23:49",
+      "pubDate": "Sat, 11 Jul 2026 20:49:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians relaciona zagueiro do Sub-20 pela primeira vez na equipe profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535670/corinthians-relaciona-zagueiro-do-sub-20-pela-primeira-vez-na-equipe-profissional",
+      "time": "11/07 · 23:28",
+      "pubDate": "Sat, 11 Jul 2026 20:28:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Cascavel x Corinthians em amistoso: prováveis escalações e onde assistir",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/cascavel-x-corinthians-em-amistoso-provaveis-escalacoes-e-onde-assistir/",
+      "time": "11/07 · 23:00",
+      "pubDate": "Sat, 11 Jul 2026 23:00:10 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians desembarca no Paraná para amistoso contra o Cascavel",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-desembarca-no-parana-para-amistoso-contra-o-cascavel/",
+      "time": "11/07 · 22:48",
+      "pubDate": "Sat, 11 Jul 2026 22:48:36 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino técnico e tático de olho no Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tecnico-e-tatico-de-olho-no-brasileirao/",
+      "time": "11/07 · 22:36",
+      "pubDate": "Sat, 11 Jul 2026 22:36:02 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "O Corinthians deve renovar com Carol Nogueira para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535638/o-corinthians-deve-renovar-com-carol-nogueira-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "11/07 · 22:32",
+      "pubDate": "Sat, 11 Jul 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu destaca preparação do Corinthians e mira amistoso antes da retomada do Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-destaca-preparacao-do-corinthians-e-mira-amistoso-antes-da-retomada-do-brasileirao]]>",
+      "time": "11/07 · 22:00",
+      "pubDate": "Sat, 11 Jul 2026 19:00:59 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,52 +99,36 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Jul 2026 18:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Enquete aponta divisão, mas maioria é contra renovação de atacante com o Corinthians para 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535637/enquete-aponta-divisao-mas-maioria-e-contra-renovacao-de-atacante-com-o-corinthians-para-2027",
-      "time": "11/07 · 20:31",
-      "pubDate": "Sat, 11 Jul 2026 17:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz faz pedido ao Corinthians e prioridade é a contratação de um primeiro volante",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-faz-pedido-ao-corinthians-e-prioridade-e-a-contratacao-de-um-primeiro-volante]]>",
+      "time": "11/07 · 21:09",
+      "pubDate": "Sat, 11 Jul 2026 18:09:48 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians iguala melhor começo de temporada após goleada pelo Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535578/corinthians-iguala-melhor-comeco-de-temporada-apos-goleada-pelo-paulista-feminino-sub-20",
-      "time": "11/07 · 19:35",
-      "pubDate": "Sat, 11 Jul 2026 16:35:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Bidu exalta intensidade da intertemporada no Corinthians e celebra amistoso: &#8220;Competir é sempre bom&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/bidu-exalta-intensidade-da-intertemporada-no-corinthians-e-celebra-amistoso-competir-e-sempre-bom/",
+      "time": "11/07 · 20:30",
+      "pubDate": "Sat, 11 Jul 2026 20:30:41 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-capitão do Corinthians visita CT e é homenageado com camisa personalizada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535653/ex-capitao-do-corinthians-visita-ct-e-e-homenageado-com-camisa-personalizada",
-      "time": "11/07 · 18:31",
-      "pubDate": "Sat, 11 Jul 2026 15:31:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Cascavel",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-cascavel/",
+      "time": "11/07 · 18:44",
+      "pubDate": "Sat, 11 Jul 2026 18:44:37 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral-esquerdo comenta importância de amistoso para o Corinthians durante intertemporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535654/lateral-esquerdo-comenta-importancia-de-amistoso-para-o-corinthians-durante-intertemporada",
-      "time": "11/07 · 18:09",
-      "pubDate": "Sat, 11 Jul 2026 15:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para amistoso contra o FC Cascavel; veja a provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535650/corinthians-encerra-preparacao-para-amistoso-contra-o-fc-cascavel-veja-a-provavel-escalacao",
-      "time": "11/07 · 17:58",
-      "pubDate": "Sat, 11 Jul 2026 14:58:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o Velo Clube e se classifica para a semifinal da Paulista Cup Sub-18",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535647/corinthians-vence-o-velo-clube-e-se-classifica-para-a-semifinal-da-paulista-cup",
-      "time": "11/07 · 17:31",
-      "pubDate": "Sat, 11 Jul 2026 14:31:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz trabalho tático e encerra preparação para amistoso contra Cascavel",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-trabalho-tatico-e-encerra-preparacao-para-amistoso-contra-o-cascavel/",
+      "time": "11/07 · 18:05",
+      "pubDate": "Sat, 11 Jul 2026 18:05:47 +0000"
     },
     {
       "source": "Bolavip",
@@ -67,20 +139,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Jul 2026 14:20:42 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians nega dificuldades na saída com os pés e pondera sobre erros cometidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535641/goleiro-do-corinthians-nega-dificuldades-na-saida-com-os-pes-e-pondera-sobre-erros-cometidos",
-      "time": "11/07 · 16:33",
-      "pubDate": "Sat, 11 Jul 2026 13:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Torcida do Corinthians aprova saída de Memphis Depay após novela no fim do contrato: “Seria bom”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-aprova-saida-de-memphis-depay-apos-novela-no-fim-do-contrato-seria-bom]]>",
       "time": "11/07 · 14:19",
       "pubDate": "Sat, 11 Jul 2026 11:19:48 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Vale a investida? Veja números de Wesley, oferecido ao Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/vale-a-investida-veja-numeros-de-wesley-jogador-oferecido-ao-corinthians/",
+      "time": "11/07 · 10:00",
+      "pubDate": "Sat, 11 Jul 2026 10:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Imprensa mexicana coloca Memphis, do Corinthians, no radar do Tigres",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/imprensa-mexicana-coloca-memphis-do-corinthians-no-radar-do-tigres/",
+      "time": "10/07 · 23:25",
+      "pubDate": "Fri, 10 Jul 2026 23:25:28 +0000"
     },
     {
       "source": "Bolavip",
@@ -113,92 +193,24 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/com-futuro-incerto-no-corinthians-memphis-depay-entra-na-mira-do-tigres-do-mexico]]>",
       "time": "10/07 · 02:52",
       "pubDate": "Thu, 09 Jul 2026 23:52:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Empresários de Yuri Alberto apresentam ofertas de R$ 176 milhões, e saída do Corinthians ganha força",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/empresarios-de-yuri-alberto-apresentam-ofertas-de-r-176-milhoes-e-saida-do-corinthians-ganha-forca]]>",
-      "time": "09/07 · 22:30",
-      "pubDate": "Thu, 09 Jul 2026 19:30:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define Rodrigo Garro como capitão após rodízio em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-rodrigo-garro-como-capitao-apos-rodizio-em-2026]]>",
-      "time": "09/07 · 17:47",
-      "pubDate": "Thu, 09 Jul 2026 14:47:37 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro do Corinthians mostra otimismo para jogo contra a Portuguesa pelo Paulistão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535651/goleiro-do-corinthians-mostra-otimismo-para-jogo-contra-a-portuguesa-pelo-paulistao-sub-20",
+      "pubDate": "Sat, 11 Jul 2026 22:30:00 -0300",
+      "date": "12/07 · 01:30"
+    },
+    {
+      "title": "Goleiro do Corinthians faz pedido à Fiel após vitória dentro de casa na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535643/goleiro-do-corinthians-faz-pedido-a-fiel-apos-vitoria-dentro-de-casa-na-lnf",
+      "pubDate": "Sat, 11 Jul 2026 21:33:00 -0300",
+      "date": "12/07 · 00:33"
+    },
     {
       "title": "Corinthians iguala melhor começo de temporada após goleada pelo Paulista Feminino Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535578/corinthians-iguala-melhor-comeco-de-temporada-apos-goleada-pelo-paulista-feminino-sub-20",
