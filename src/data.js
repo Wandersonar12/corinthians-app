@@ -1,7 +1,39 @@
-// Gerado automaticamente em 12/07/2026, 09:39:37
+// Gerado automaticamente em 12/07/2026, 12:45:31
 const LIVE_DATA = {
-  "updatedAt": "2026-07-12T09:39:37.726Z",
+  "updatedAt": "2026-07-12T12:45:31.142Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita a Portuguesa em busca da vice-liderança do Campeonato Paulista; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535660/corinthians-visita-a-portuguesa-em-busca-da-vice-lideranca-do-campeonato-paulista-saiba-tudo",
+      "time": "12/07 · 12:31",
+      "pubDate": "Sun, 12 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao amistoso entre Corinthians e FC Cascavel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535658/saiba-onde-assistir-ao-amistoso-entre-corinthians-e-fc-cascavel",
+      "time": "12/07 · 11:30",
+      "pubDate": "Sun, 12 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: provável escalação, Yuri na frente de Haaland e impasse em renovação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535675/ultimas-do-corinthians-provavel-escalacao-yuri-na-frente-de-haaland-e-impasse-em-renovacao",
+      "time": "12/07 · 10:30",
+      "pubDate": "Sun, 12 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians volta a jogar em Cascavel após dois anos; relembre",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-volta-a-jogar-em-cascavel-apos-dois-anos-relembre/",
+      "time": "12/07 · 10:00",
+      "pubDate": "Sun, 12 Jul 2026 10:00:26 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,14 +75,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Jul 2026 20:49:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians relaciona zagueiro do Sub-20 pela primeira vez na equipe profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535670/corinthians-relaciona-zagueiro-do-sub-20-pela-primeira-vez-na-equipe-profissional",
-      "time": "11/07 · 23:28",
-      "pubDate": "Sat, 11 Jul 2026 20:28:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Cascavel x Corinthians em amistoso: prováveis escalações e onde assistir",
@@ -75,28 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Jul 2026 22:36:02 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com Carol Nogueira para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535638/o-corinthians-deve-renovar-com-carol-nogueira-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "11/07 · 22:32",
-      "pubDate": "Sat, 11 Jul 2026 19:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Matheus Bidu destaca preparação do Corinthians e mira amistoso antes da retomada do Brasileirão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-destaca-preparacao-do-corinthians-e-mira-amistoso-antes-da-retomada-do-brasileirao]]>",
       "time": "11/07 · 22:00",
       "pubDate": "Sat, 11 Jul 2026 19:00:59 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians celebra título da Copa São Paulo de Basquete com elenco Sub-22",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535583/tecnico-do-corinthians-celebra-titulo-da-copa-sao-paulo-de-basquete-com-elenco-sub-22",
-      "time": "11/07 · 21:30",
-      "pubDate": "Sat, 11 Jul 2026 18:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -155,14 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 11 Jul 2026 10:00:32 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Imprensa mexicana coloca Memphis, do Corinthians, no radar do Tigres",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/imprensa-mexicana-coloca-memphis-do-corinthians-no-radar-do-tigres/",
-      "time": "10/07 · 23:25",
-      "pubDate": "Fri, 10 Jul 2026 23:25:28 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians fecha novo acordo com o Shabab Al Ahli e Matheus Donelli fica até o fim de 2026",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Saiba onde assistir ao amistoso entre Corinthians e FC Cascavel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535658/saiba-onde-assistir-ao-amistoso-entre-corinthians-e-fc-cascavel",
+      "pubDate": "Sun, 12 Jul 2026 08:30:00 -0300",
+      "date": "12/07 · 11:30"
+    },
+    {
       "title": "Goleiro do Corinthians mostra otimismo para jogo contra a Portuguesa pelo Paulistão Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535651/goleiro-do-corinthians-mostra-otimismo-para-jogo-contra-a-portuguesa-pelo-paulistao-sub-20",
       "pubDate": "Sat, 11 Jul 2026 22:30:00 -0300",
@@ -234,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535551/torcida-aprova-permanencia-de-jovem-goleira-do-corinthians-para-2027",
       "pubDate": "Fri, 10 Jul 2026 18:02:00 -0300",
       "date": "10/07 · 21:02"
-    },
-    {
-      "title": "VÍDEO: Corinthians retira cadeiras do setor Sul da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128517/corinthians-retira-cadeiras-do-setor-sul-da-neo-quimica-arena",
-      "pubDate": "Fri, 10 Jul 2026 17:57:00 -0300",
-      "date": "10/07 · 20:57"
-    },
-    {
-      "title": "Meio-campista do Corinthians celebra bom momento no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535539/meio-campista-do-corinthians-celebra-bom-momento-no-sub-17",
-      "pubDate": "Fri, 10 Jul 2026 16:33:00 -0300",
-      "date": "10/07 · 19:33"
     }
   ]
 };
