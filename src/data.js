@@ -1,7 +1,39 @@
-// Gerado automaticamente em 14/07/2026, 09:42:29
+// Gerado automaticamente em 14/07/2026, 12:58:42
 const LIVE_DATA = {
-  "updatedAt": "2026-07-14T09:42:29.629Z",
+  "updatedAt": "2026-07-14T12:58:42.643Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians projeta novo ciclo da Seleção Brasileira e foca em trabalho no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535762/goleiro-do-corinthians-projeta-novo-ciclo-da-selecao-brasileira-e-foca-em-trabalho-no-clube",
+      "time": "14/07 · 12:32",
+      "pubDate": "Tue, 14 Jul 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-dirigente do Corinthians pede paz política no clube e alerta para impacto da crise no futebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535764/ex-dirigente-do-corinthians-pede-paz-politica-no-clube-e-alerta-para-impacto-da-crise-no-futebol",
+      "time": "14/07 · 11:30",
+      "pubDate": "Tue, 14 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novo transferban, auxílio saudita e esperança de Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535787/ultimas-do-corinthians-novo-transferban-auxilio-saudita-e-esperanca-de-diniz",
+      "time": "14/07 · 10:30",
+      "pubDate": "Tue, 14 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz quer Arthur no Corinthians respaldado por precisão surpreendente no Grêmio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-quer-arthur-no-corinthians-respaldado-por-precisao-surpreendente-nos-passes-no-gremio]]>",
+      "time": "14/07 · 05:59",
+      "pubDate": "Tue, 14 Jul 2026 02:59:18 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,12 +51,28 @@ const LIVE_DATA = {
       "pubDate": "Mon, 13 Jul 2026 21:29:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Ferroviária: saiba como comprar ingressos para as oitavas da Copa do Brasil Feminina",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-ferroviaria-saiba-como-comprar-ingressos-para-as-oitavas-da-copa-do-brasil-feminina]]>",
+      "time": "14/07 · 00:24",
+      "pubDate": "Mon, 13 Jul 2026 21:24:51 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Hugo Souza valoriza intertemporada do Corinthians e explica importância dos treinos com Diniz",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535760/hugo-souza-valoriza-intertemporada-do-corinthians-e-explica-importancia-dos-treinos-com-diniz",
       "time": "13/07 · 23:28",
       "pubDate": "Mon, 13 Jul 2026 20:28:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Emily Lima detalha preparação do Corinthians para sequência da temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/emily-lima-detalha-preparacao-do-corinthians-para-sequencia-da-temporada]]>",
+      "time": "13/07 · 22:45",
+      "pubDate": "Mon, 13 Jul 2026 19:45:32 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,36 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 13 Jul 2026 19:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com Thaís Regina para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535767/o-corinthians-deve-renovar-com-thais-regina-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "13/07 · 21:28",
-      "pubDate": "Mon, 13 Jul 2026 18:28:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Charles voltou a atuar pelo Corinthians após mais de três meses em amistoso contra o Cascavel",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/charles-volta-ao-corinthians-apos-mais-de-tres-meses-fora]]>",
       "time": "13/07 · 20:43",
       "pubDate": "Mon, 13 Jul 2026 17:43:45 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinadora do Corinthians detalha preparação da intertemporada antes de encarar a Ferroviária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535784/treinadora-do-corinthians-detalha-preparacao-da-intertemporada-antes-de-encarar-a-ferroviaria",
-      "time": "13/07 · 20:38",
-      "pubDate": "Mon, 13 Jul 2026 17:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians rescinde com atacante da base e chega a 38 dispensas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535783/corinthians-rescinde-com-atacante-da-base-e-chega-a-38-dispensas",
-      "time": "13/07 · 20:35",
-      "pubDate": "Mon, 13 Jul 2026 17:35:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-lamenta-pagamentos-atrasados-no-corinthians-mas-destaca-confianca-na-diretoria]]>",
       "time": "13/07 · 14:36",
       "pubDate": "Mon, 13 Jul 2026 11:36:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz abre o jogo sobre permanência de Memphis no Corinthians: “Foge das minhas mãos”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-abre-o-jogo-sobre-permanencia-de-memphis-no-corinthians-foge-das-minhas-maos]]>",
-      "time": "13/07 · 12:44",
-      "pubDate": "Mon, 13 Jul 2026 09:44:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem caminho livre para contratar Wesley após Grêmio e Cruzeiro desistirem do atacante",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-caminho-livre-para-contratar-wesley-apos-gremio-e-cruzeiro-desistirem-do-atacante]]>",
-      "time": "12/07 · 22:28",
-      "pubDate": "Sun, 12 Jul 2026 19:28:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Pereira marca, mas Corinthians apenas empata em amistoso contra o Cascavel",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-pereira-marca-mas-corinthians-apenas-empata-em-amistoso-contra-o-cascavel]]>",
-      "time": "12/07 · 21:46",
-      "pubDate": "Sun, 12 Jul 2026 18:46:07 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians projeta novo ciclo da Seleção Brasileira e foca em trabalho no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535762/goleiro-do-corinthians-projeta-novo-ciclo-da-selecao-brasileira-e-foca-em-trabalho-no-clube",
+      "pubDate": "Tue, 14 Jul 2026 09:32:00 -0300",
+      "date": "14/07 · 12:32"
+    },
+    {
       "title": "Atacante do Corinthians celebra gol no Paulista Sub-20 e oportunidade de atuar pelo clube",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535696/atacante-do-corinthians-celebra-gol-no-paulista-sub-20-e-oportunidade-de-atuar-pelo-clube",
       "pubDate": "Mon, 13 Jul 2026 22:30:00 -0300",
@@ -234,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128535/diniz-fala-sobre-empate-do-corinthians-comenta-charles-de-zagueiro-e-planeja-o-resto-da-temporada",
       "pubDate": "Sun, 12 Jul 2026 19:52:29 -0300",
       "date": "12/07 · 22:52"
-    },
-    {
-      "title": "VÍDEO: 'Uma estrutura que não nos ajudou, mas não podemos nos apegar nisso': zona mista de Hugo Souza",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128534/uma-estrutura-que-nao-nos-ajudou-mas-nao-podemos-nos-apegar-nisso-zona-mista-de-hugo-souza",
-      "pubDate": "Sun, 12 Jul 2026 19:47:50 -0300",
-      "date": "12/07 · 22:47"
-    },
-    {
-      "title": "Volante marca primeiro gol pelo Corinthians em amistoso contra o FC Cascavel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535714/volante-marca-primeiro-gol-pelo-corinthians-em-amistoso-contra-o-fc-cascavel",
-      "pubDate": "Sun, 12 Jul 2026 19:32:00 -0300",
-      "date": "12/07 · 22:32"
     }
   ]
 };
