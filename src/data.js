@@ -1,14 +1,62 @@
-// Gerado automaticamente em 14/07/2026, 18:56:14
+// Gerado automaticamente em 14/07/2026, 22:43:29
 const LIVE_DATA = {
-  "updatedAt": "2026-07-14T18:56:14.563Z",
+  "updatedAt": "2026-07-14T22:43:29.427Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Preparadores do Corinthians projetam segundo semestre em alta intensidade para as Brabas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535800/preparadores-do-corinthians-projetam-segundo-semestre-em-alta-intensidade-para-as-brabas",
+      "time": "14/07 · 22:33",
+      "pubDate": "Tue, 14 Jul 2026 19:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians renova com goleiro por mais duas temporadas e amplia contrato até 2031",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535818/corinthians-renova-com-goleiro-por-mais-duas-temporadas-e-amplia-contrato-ate-2031",
+      "time": "14/07 · 21:42",
+      "pubDate": "Tue, 14 Jul 2026 18:42:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-meia da Holanda aprova Memphis no Corinthians, mas critica presença na Copa de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535802/ex-meia-da-holanda-aprova-memphis-no-corinthians-mas-critica-presenca-na-copa-de-2026",
+      "time": "14/07 · 21:32",
+      "pubDate": "Tue, 14 Jul 2026 18:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem maior participação de gols da base na década após gol de Filho do Terrão em amistoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535798/corinthians-tem-maior-participacao-de-gols-da-base-na-decada-apos-gol-de-filho-do-terrao-em-amistoso",
+      "time": "14/07 · 20:30",
+      "pubDate": "Tue, 14 Jul 2026 17:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians publica rescisão de contrato com lateral vendido ao Chelsea",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535815/corinthians-publica-rescisao-de-contrato-com-lateral-vendido-ao-chelsea",
+      "time": "14/07 · 20:14",
+      "pubDate": "Tue, 14 Jul 2026 17:14:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Executivo do Corinthians detalha interesse em Arthur e atualiza negociação por renovação de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535808/executivo-do-corinthians-detalha-interesse-em-arthur-e-atualiza-negociacao-por-renovacao-de-memphis",
+      "time": "14/07 · 19:32",
+      "pubDate": "Tue, 14 Jul 2026 16:32:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians conhece detalhes de Dérbi e da sexta rodada pelo Paulistão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535809/corinthians-conhece-detalhes-de-derbi-e-da-sexta-rodada-pelo-paulistao-feminino",
       "time": "14/07 · 18:44",
-      "pubDate": "Tue, 14 Jul 2026 15:44:38 -0300"
+      "pubDate": "Tue, 14 Jul 2026 15:44:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,22 +67,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 14 Jul 2026 15:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Com retorno de goleira, Corinthians intensifica preparação de olho na Ferroviária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535806/com-retorno-de-goleira-corinthians-intensifica-preparacao-de-olho-na-ferroviaria",
-      "time": "14/07 · 18:22",
-      "pubDate": "Tue, 14 Jul 2026 15:22:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians relembra primeiro gol no profissional e destaca sonho europeu",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535786/meia-do-corinthians-relembra-primeiro-gol-no-profissional-e-destaca-sonho-europeu",
-      "time": "14/07 · 17:35",
-      "pubDate": "Tue, 14 Jul 2026 14:35:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Palmeiras x Corinthians: decisão das quartas do Brasileiro sub-20 terá ingressos gratuitos",
@@ -43,36 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 14 Jul 2026 17:30:06 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Executivo do Corinthians projeta fim do transfer ban e detalha reunião com elenco por atrasos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535803/executivo-do-corinthians-projeta-fim-do-transfer-ban-e-detalha-reuniao-com-elenco-por-atrasos",
-      "time": "14/07 · 17:17",
-      "pubDate": "Tue, 14 Jul 2026 14:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém retrospecto positivo em amistosos com empate diante do Cascavel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535782/corinthians-mantem-retrospecto-positivo-em-amistosos-com-empate-diante-do-cascavel",
-      "time": "14/07 · 16:32",
-      "pubDate": "Tue, 14 Jul 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro entra no top-5 da artilharia do Corinthians e atacante estreia na lista do Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535770/zagueiro-entra-no-top-5-da-artilharia-do-corinthians-e-atacante-estreia-na-lista-do-sub-20",
-      "time": "14/07 · 15:34",
-      "pubDate": "Tue, 14 Jul 2026 12:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians domina o pódio de maiores pontuadores da Copa São Paulo de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535792/corinthians-domina-o-podio-de-maiores-pontuadores-da-copa-sao-paulo-de-basquete",
-      "time": "14/07 · 14:33",
-      "pubDate": "Tue, 14 Jul 2026 11:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile planeja reunião com elenco após atraso no pagamento dos direitos de imagem no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-planeja-reuniao-com-elenco-apos-atraso-no-pagamento-dos-direitos-de-imagem-no-corinthians]]>",
+      "time": "14/07 · 13:58",
+      "pubDate": "Tue, 14 Jul 2026 10:58:47 -0300"
     },
     {
       "source": "Bolavip",
@@ -155,14 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 13 Jul 2026 18:18:41 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Chelo Torres, do Gimnasia-ARG, é opção analisada pelo Corinthians como ‘sombra’ para Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/chelo-torres-do-gimnasia-arg-e-opcao-analisada-pelo-corinthians-como-sombra-para-yuri-alberto]]>",
-      "time": "13/07 · 16:40",
-      "pubDate": "Mon, 13 Jul 2026 13:40:21 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Diniz torce por ‘desfecho positivo’ e volta de Memphis ao Corinthians",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians renova com goleiro por mais duas temporadas e amplia contrato até 2031",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535818/corinthians-renova-com-goleiro-por-mais-duas-temporadas-e-amplia-contrato-ate-2031",
+      "pubDate": "Tue, 14 Jul 2026 18:42:00 -0300",
+      "date": "14/07 · 21:42"
+    },
+    {
+      "title": "Corinthians tem maior participação de gols da base na década após gol de Filho do Terrão em amistoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535798/corinthians-tem-maior-participacao-de-gols-da-base-na-decada-apos-gol-de-filho-do-terrao-em-amistoso",
+      "pubDate": "Tue, 14 Jul 2026 17:30:00 -0300",
+      "date": "14/07 · 20:30"
+    },
+    {
       "title": "Goleira do Corinthians inicia período de transição após lesão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535807/goleira-do-corinthians-inicia-periodo-de-transicao-apos-lesao",
       "pubDate": "Tue, 14 Jul 2026 15:33:00 -0300",
@@ -234,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535766/fiel-aprova-permanencia-de-goleira-historica-do-corinthians-para-a-temporada-de-2027",
       "pubDate": "Mon, 13 Jul 2026 16:34:00 -0300",
       "date": "13/07 · 19:34"
-    },
-    {
-      "title": "Goleiro do Corinthians agradece torcida em Cascavel e faz crítica ao gramado após amistoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535761/goleiro-do-corinthians-agradece-torcida-em-cascavel-e-faz-critica-ao-gramado-apos-amistoso",
-      "pubDate": "Mon, 13 Jul 2026 12:31:00 -0300",
-      "date": "13/07 · 15:31"
     }
   ]
 };
