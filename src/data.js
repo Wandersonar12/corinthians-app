@@ -1,70 +1,78 @@
-// Gerado automaticamente em 15/07/2026, 18:49:50
+// Gerado automaticamente em 15/07/2026, 22:44:51
 const LIVE_DATA = {
-  "updatedAt": "2026-07-15T18:49:50.921Z",
+  "updatedAt": "2026-07-15T22:44:51.130Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Organizada do Corinthians revela reuniões com promotores e confirma nova sabatina com SAFiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535869/organizada-do-corinthians-revela-reunioes-com-promotores-e-confirma-nova-sabatina-com-safiel",
-      "time": "15/07 · 18:26",
-      "pubDate": "Wed, 15 Jul 2026 15:26:29 -0300"
+      "title": "Lateral do Corinthians valoriza união da equipe em vitória sobre o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535856/lateral-do-corinthians-valoriza-uniao-da-equipe-em-vitoria-por-3-a-0-sobre-o-vasco",
+      "time": "15/07 · 22:32",
+      "pubDate": "Wed, 15 Jul 2026 19:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians retoma treinos e inicia preparação para maratona no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535868/corinthians-retoma-treinos-e-inicia-preparacao-para-maratona-no-brasileirao",
-      "time": "15/07 · 18:14",
-      "pubDate": "Wed, 15 Jul 2026 15:14:00 -0300"
+      "title": "Técnico do Corinthians acredita em classificação sobre o Palmeiras no Brasileiro Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535881/tecnico-do-corinthians-acredita-em-classificacao-sobre-o-palmeiras-no-brasileiro-sub-20",
+      "time": "15/07 · 22:06",
+      "pubDate": "Wed, 15 Jul 2026 19:06:53 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla inicia transição física e fica próxima de retorno no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535866/dupla-inicia-transicao-fisica-e-fica-proxima-de-retorno-no-corinthians",
-      "time": "15/07 · 18:09",
-      "pubDate": "Wed, 15 Jul 2026 15:09:00 -0300"
+      "title": "Corinthians faz treino ofensivo de olho no duelo contra a Ferroviária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535879/corinthians-faz-treino-ofensivo-de-olho-no-duelo-contra-a-ferroviaria",
+      "time": "15/07 · 21:44",
+      "pubDate": "Wed, 15 Jul 2026 18:44:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians detalha venda de ingressos para duelo contra o Remo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535863/corinthians-detalha-venda-de-ingressos-para-duelo-contra-o-remo-pelo-brasileirao",
-      "time": "15/07 · 18:00",
-      "pubDate": "Wed, 15 Jul 2026 15:00:00 -0300"
+      "title": "O Corinthians deve renovar com Vic Albuquerque para 2027? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535839/o-corinthians-deve-renovar-com-vic-albuquerque-para-2027-vote-na-enquete-do-meu-timao",
+      "time": "15/07 · 21:32",
+      "pubDate": "Wed, 15 Jul 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Hugo Souza filma rotina no Corinthians em vídeo marcado por treinos e resenha com companheiros",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535851/hugo-souza-filma-rotina-no-corinthians-em-video-marcado-por-treinos-e-resenha-com-companheiros",
-      "time": "15/07 · 17:05",
-      "pubDate": "Wed, 15 Jul 2026 14:05:00 -0300"
+      "title": "Departamento médico do Corinthians participa de seminário no CT Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535865/departamento-medico-do-corinthians-participa-de-seminario-no-ct-joaquim-grava",
+      "time": "15/07 · 20:30",
+      "pubDate": "Wed, 15 Jul 2026 17:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians domina o Vasco e entra no G4 do Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535852/corinthians-domina-o-vasco-e-entra-no-g4-do-campeonato-brasileiro-sub-17",
-      "time": "15/07 · 15:54",
-      "pubDate": "Wed, 15 Jul 2026 12:54:00 -0300"
+      "title": "Goleira brilha, meia faz dois golaços e Corinthians vence o Palmeiras no Paulistão Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535828/goleira-brilha-meia-faz-dois-golacos-e-corinthians-vence-o-palmeiras-no-paulistao-feminino-sub-20",
+      "time": "15/07 · 20:02",
+      "pubDate": "Wed, 15 Jul 2026 17:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo diante da AABB pelo Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535848/corinthians-inicia-venda-de-ingressos-para-duelo-diante-da-aabb-pelo-paulista-de-futsal",
-      "time": "15/07 · 14:27",
-      "pubDate": "Wed, 15 Jul 2026 11:27:00 -0300"
+      "title": "Torcida do Corinthians aprova permanência de zagueira para 2027; veja o resultado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535838/torcida-do-corinthians-aprova-permanencia-de-zagueira-para-2027-veja-o-resultado",
+      "time": "15/07 · 19:36",
+      "pubDate": "Wed, 15 Jul 2026 16:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Memphis faz trabalho particular com ex-preparador físico do Corinthians enquanto define futuro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535844/memphis-faz-trabalho-particular-com-ex-preparador-fisico-do-corinthians-enquanto-define-futuro",
-      "time": "15/07 · 14:21",
-      "pubDate": "Wed, 15 Jul 2026 11:21:00 -0300"
+      "title": "Justiça torna quatro ex-integrantes do Corinthians réus em caso de suposto desvio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535860/justica-torna-quatro-ex-integrantes-do-corinthians-reus-em-caso-de-suposto-desvio",
+      "time": "15/07 · 18:57",
+      "pubDate": "Wed, 15 Jul 2026 15:57:25 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não é culpado e Rafael van der Vaart reprova convocação de Memphis Depay na Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-e-culpado-e-rafael-van-der-vaart-reprova-convocacao-de-memphis-depay-na-copa-do-mundo]]>",
+      "time": "15/07 · 15:15",
+      "pubDate": "Wed, 15 Jul 2026 12:15:03 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-ferroviaria-saiba-como-comprar-ingressos-para-as-oitavas-da-copa-do-brasil-feminina]]>",
       "time": "14/07 · 00:24",
       "pubDate": "Mon, 13 Jul 2026 21:24:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Emily Lima detalha preparação do Corinthians para sequência da temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/emily-lima-detalha-preparacao-do-corinthians-para-sequencia-da-temporada]]>",
-      "time": "13/07 · 22:45",
-      "pubDate": "Mon, 13 Jul 2026 19:45:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira brilha, meia faz dois golaços e Corinthians vence o Palmeiras no Paulistão Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535828/goleira-brilha-meia-faz-dois-golacos-e-corinthians-vence-o-palmeiras-no-paulistao-feminino-sub-20",
+      "pubDate": "Wed, 15 Jul 2026 17:02:00 -0300",
+      "date": "15/07 · 20:02"
+    },
+    {
       "title": "Hugo Souza filma rotina no Corinthians em vídeo marcado por treinos e resenha com companheiros",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535851/hugo-souza-filma-rotina-no-corinthians-em-video-marcado-por-treinos-e-resenha-com-companheiros",
       "pubDate": "Wed, 15 Jul 2026 14:05:00 -0300",
@@ -228,24 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535798/corinthians-tem-maior-participacao-de-gols-da-base-na-decada-apos-gol-de-filho-do-terrao-em-amistoso",
       "pubDate": "Tue, 14 Jul 2026 17:30:00 -0300",
       "date": "14/07 · 20:30"
-    },
-    {
-      "title": "Goleira do Corinthians inicia período de transição após lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535807/goleira-do-corinthians-inicia-periodo-de-transicao-apos-lesao",
-      "pubDate": "Tue, 14 Jul 2026 15:33:00 -0300",
-      "date": "14/07 · 18:33"
-    },
-    {
-      "title": "Com retorno de goleira, Corinthians intensifica preparação de olho na Ferroviária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535806/com-retorno-de-goleira-corinthians-intensifica-preparacao-de-olho-na-ferroviaria",
-      "pubDate": "Tue, 14 Jul 2026 15:22:00 -0300",
-      "date": "14/07 · 18:22"
-    },
-    {
-      "title": "Meia do Corinthians relembra primeiro gol no profissional e destaca sonho europeu",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535786/meia-do-corinthians-relembra-primeiro-gol-no-profissional-e-destaca-sonho-europeu",
-      "pubDate": "Tue, 14 Jul 2026 14:35:00 -0300",
-      "date": "14/07 · 17:35"
     }
   ]
 };
