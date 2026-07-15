@@ -1,7 +1,31 @@
-// Gerado automaticamente em 15/07/2026, 09:45:37
+// Gerado automaticamente em 15/07/2026, 13:01:56
 const LIVE_DATA = {
-  "updatedAt": "2026-07-15T09:45:37.617Z",
+  "updatedAt": "2026-07-15T13:01:56.343Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Palmeiras pelo Campeonato Paulista Feminino Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535824/corinthians-recebe-o-palmeiras-pelo-campeonato-paulista-feminino-sub-20-saiba-tudo",
+      "time": "15/07 · 12:30",
+      "pubDate": "Wed, 15 Jul 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o Vasco em busca se aproximar da liderança do Brasileiro Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535812/corinthians-enfrenta-o-vasco-em-busca-se-aproximar-da-lideranca-do-brasileiro-sub-17-saiba-tudo",
+      "time": "15/07 · 11:30",
+      "pubDate": "Wed, 15 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: renovação de goleiro, rescisão de lateral e palavras de executivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535826/ultimas-do-corinthians-renovacao-de-goleiro-rescisao-de-lateral-e-palavras-de-executivo",
+      "time": "15/07 · 10:30",
+      "pubDate": "Wed, 15 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -49,30 +73,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535818/corinthians-renova-com-goleiro-por-mais-duas-temporadas-e-amplia-contrato-ate-2031",
       "time": "14/07 · 21:42",
       "pubDate": "Tue, 14 Jul 2026 18:42:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-meia da Holanda aprova Memphis no Corinthians, mas critica presença na Copa de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535802/ex-meia-da-holanda-aprova-memphis-no-corinthians-mas-critica-presenca-na-copa-de-2026",
-      "time": "14/07 · 21:32",
-      "pubDate": "Tue, 14 Jul 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem maior participação de gols da base na década após gol de Filho do Terrão em amistoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535798/corinthians-tem-maior-participacao-de-gols-da-base-na-decada-apos-gol-de-filho-do-terrao-em-amistoso",
-      "time": "14/07 · 20:30",
-      "pubDate": "Tue, 14 Jul 2026 17:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians publica rescisão de contrato com lateral vendido ao Chelsea",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535815/corinthians-publica-rescisao-de-contrato-com-lateral-vendido-ao-chelsea",
-      "time": "14/07 · 20:14",
-      "pubDate": "Tue, 14 Jul 2026 17:14:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Últimas do Corinthians: renovação de goleiro, rescisão de lateral e palavras de executivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535826/ultimas-do-corinthians-renovacao-de-goleiro-rescisao-de-lateral-e-palavras-de-executivo",
+      "pubDate": "Wed, 15 Jul 2026 07:30:00 -0300",
+      "date": "15/07 · 10:30"
+    },
     {
       "title": "Corinthians renova com goleiro por mais duas temporadas e amplia contrato até 2031",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535818/corinthians-renova-com-goleiro-por-mais-duas-temporadas-e-amplia-contrato-ate-2031",
