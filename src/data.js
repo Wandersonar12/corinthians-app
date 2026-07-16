@@ -1,7 +1,31 @@
-// Gerado automaticamente em 16/07/2026, 09:51:41
+// Gerado automaticamente em 16/07/2026, 13:09:49
 const LIVE_DATA = {
-  "updatedAt": "2026-07-16T09:51:41.815Z",
+  "updatedAt": "2026-07-16T13:09:49.409Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Palmeiras em duelo por vaga na semifinal do Brasileiro Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535872/corinthians-visita-o-palmeiras-em-duelo-por-vaga-na-semifinal-do-brasileiro-sub-20-saiba-tudo",
+      "time": "16/07 · 12:28",
+      "pubDate": "Thu, 16 Jul 2026 09:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians gastou mais de R$ 170 milhões com dívidas na Fifa e outras pendências nacionais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535885/corinthians-gastou-mais-de-r-170-milhoes-desde-2025-com-dividas-na-fifa-e-renegociacoes-de-acordos",
+      "time": "16/07 · 11:30",
+      "pubDate": "Thu, 16 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: ingressos graduais, preparação individual e retorno de dupla",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535886/ultimas-do-corinthians-ingressos-graduais-preparacao-individual-e-retorno-de-dupla",
+      "time": "16/07 · 10:30",
+      "pubDate": "Thu, 16 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -27,12 +51,28 @@ const LIVE_DATA = {
       "pubDate": "Wed, 15 Jul 2026 21:29:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aposta em invencibilidade no Dérbi para entrar no G4 do Paulistão F Sub-20",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aposta-em-invencibilidade-no-derbi-para-entrar-no-g4-do-paulistao-f-sub-20]]>",
+      "time": "15/07 · 23:24",
+      "pubDate": "Wed, 15 Jul 2026 20:24:05 -0300"
+    },
+    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Palmeiras x Corinthians: saiba onde assistir ao jogo de volta das quartas do Brasileiro sub-20",
       "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-corinthians-saiba-onde-assistir-ao-jogo-de-volta-das-quartas-do-brasileiro-sub-20/",
       "time": "15/07 · 23:00",
       "pubDate": "Wed, 15 Jul 2026 23:00:44 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ferroviária inicia sequência contra o Corinthians e Nicoly destaca confiança para confrontos decisivos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ferroviaria-inicia-sequencia-contra-o-corinthians-e-nicoly-destaca-confianca-para-confrontos-decisivos]]>",
+      "time": "15/07 · 22:55",
+      "pubDate": "Wed, 15 Jul 2026 19:55:29 -0300"
     },
     {
       "source": "Meu Timao",
@@ -67,36 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 15 Jul 2026 18:44:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "O Corinthians deve renovar com Vic Albuquerque para 2027? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535839/o-corinthians-deve-renovar-com-vic-albuquerque-para-2027-vote-na-enquete-do-meu-timao",
-      "time": "15/07 · 21:32",
-      "pubDate": "Wed, 15 Jul 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Departamento médico do Corinthians participa de seminário no CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535865/departamento-medico-do-corinthians-participa-de-seminario-no-ct-joaquim-grava",
-      "time": "15/07 · 20:30",
-      "pubDate": "Wed, 15 Jul 2026 17:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians chega a acordo verbal com Wesley e tenta fim do transfer bans para fechar contratação",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-chega-a-acordo-verbal-com-wesley-e-tenta-fim-do-transfer-bans-para-fechar-contratacao]]>",
       "time": "15/07 · 20:19",
       "pubDate": "Wed, 15 Jul 2026 17:19:15 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleira brilha, meia faz dois golaços e Corinthians vence o Palmeiras no Paulistão Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535828/goleira-brilha-meia-faz-dois-golacos-e-corinthians-vence-o-palmeiras-no-paulistao-feminino-sub-20",
-      "time": "15/07 · 20:02",
-      "pubDate": "Wed, 15 Jul 2026 17:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -177,22 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-intensifica-preparacao-para-enfrentar-a-ferroviaria-pelo-paulistao-f]]>",
       "time": "14/07 · 22:09",
       "pubDate": "Tue, 14 Jul 2026 19:09:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile planeja reunião com elenco após atraso no pagamento dos direitos de imagem no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-planeja-reuniao-com-elenco-apos-atraso-no-pagamento-dos-direitos-de-imagem-no-corinthians]]>",
-      "time": "14/07 · 13:58",
-      "pubDate": "Tue, 14 Jul 2026 10:58:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians ganha caminho livre e avança para repatriar Wesley",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ganha-caminho-livre-e-avanca-para-repatriar-wesley]]>",
-      "time": "14/07 · 12:12",
-      "pubDate": "Tue, 14 Jul 2026 09:12:52 -0300"
     }
   ],
   "upcoming": [],
