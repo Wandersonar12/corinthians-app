@@ -1,7 +1,55 @@
-// Gerado automaticamente em 17/07/2026, 12:55:16
+// Gerado automaticamente em 17/07/2026, 18:47:15
 const LIVE_DATA = {
-  "updatedAt": "2026-07-17T12:55:16.051Z",
+  "updatedAt": "2026-07-17T18:47:15.270Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca primeira vitória fora de casa na LNF após quase nove meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535903/corinthians-busca-primeira-vitoria-fora-de-casa-na-lnf-apos-quase-nove-meses",
+      "time": "17/07 · 18:37",
+      "pubDate": "Fri, 17 Jul 2026 15:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode aumentar invencibilidade de 12 jogos contra a Ferroviária após compromisso duplo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535893/corinthians-pode-aumentar-invencibilidade-de-12-jogos-contra-a-ferroviaria-apos-compromisso-duplo",
+      "time": "17/07 · 17:32",
+      "pubDate": "Fri, 17 Jul 2026 14:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians segue na cobertura da Copa e fica fora de jogo contra a Ferroviária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535960/lateral-do-corinthians-segue-na-cobertura-da-copa-e-fica-fora-de-jogo-contra-a-ferroviaria",
+      "time": "17/07 · 15:30",
+      "pubDate": "Fri, 17 Jul 2026 12:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians banca permanência de técnico do Sub-20 mesmo após eliminação no Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535952/corinthians-banca-permanencia-de-tecnico-do-sub-20-mesmo-apos-eliminacao-no-brasileiro",
+      "time": "17/07 · 14:25",
+      "pubDate": "Fri, 17 Jul 2026 11:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Ferroviária pelo Campeonato Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535915/saiba-onde-assistir-ao-classico-entre-corinthians-e-ferroviaria-pelo-campeonato-paulista",
+      "time": "17/07 · 13:37",
+      "pubDate": "Fri, 17 Jul 2026 10:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians traça projeto e fica perto de assinar primeiro contrato profissional com joia do Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535953/corinthians-traca-projeto-e-fica-perto-de-assinar-primeiro-contrato-profissional-com-meia-do-sub-17",
+      "time": "17/07 · 13:02",
+      "pubDate": "Fri, 17 Jul 2026 10:02:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,54 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535935/corinthians-estuda-treinos-na-arena-para-testar-novo-gramado-antes-da-retomada-da-temporada",
       "time": "17/07 · 12:00",
       "pubDate": "Fri, 17 Jul 2026 09:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe a Ferroviária pela quarta rodada do Paulistão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535916/corinthians-recebe-a-ferroviaria-pela-quarta-rodada-do-paulistao-feminino-saiba-tudo",
-      "time": "17/07 · 11:30",
-      "pubDate": "Fri, 17 Jul 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: sondagem por volante, interesse gaúcho em atacante e mais gastos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535943/ultimas-do-corinthians-sondagem-por-volante-interesse-gaucho-em-atacante-e-mais-gastos",
-      "time": "17/07 · 10:30",
-      "pubDate": "Fri, 17 Jul 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Promessa do Corinthians volta a jogar em vitória do Sub-17 após lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535884/promessa-volta-a-jogar-em-vitoria-do-sub-17-do-corinthians-apos-lesao",
-      "time": "17/07 · 01:31",
-      "pubDate": "Thu, 16 Jul 2026 22:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o São José podendo sequenciar vitórias na LNF pela primeira vez no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535899/corinthians-enfrenta-o-sao-jose-podendo-sequenciar-vitorias-na-lnf-pela-primeira-vez-no-ano",
-      "time": "17/07 · 00:33",
-      "pubDate": "Thu, 16 Jul 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Psicóloga do Corinthians explica trabalho mental realizado na intertemporada das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535936/psicologa-do-corinthians-explica-trabalho-mental-realizado-na-intertemporada-das-brabas",
-      "time": "17/07 · 00:02",
-      "pubDate": "Thu, 16 Jul 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Relembre os últimos jogos do Corinthians após pausas no calendário do futebol feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535896/relembre-os-ultimos-jogos-do-corinthians-apos-pausas-no-calendario-do-futebol-feminino",
-      "time": "16/07 · 23:32",
-      "pubDate": "Thu, 16 Jul 2026 20:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Ferroviária pelo Campeonato Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535915/saiba-onde-assistir-ao-classico-entre-corinthians-e-ferroviaria-pelo-campeonato-paulista",
+      "pubDate": "Fri, 17 Jul 2026 10:37:00 -0300",
+      "date": "17/07 · 13:37"
+    },
     {
       "title": "Goleiro liberado pelo Corinthians é anunciado por time da Itália",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535933/goleiro-liberado-pelo-corinthians-e-anunciado-por-time-da-italia",
