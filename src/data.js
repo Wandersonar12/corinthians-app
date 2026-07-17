@@ -1,7 +1,47 @@
-// Gerado automaticamente em 16/07/2026, 22:44:18
+// Gerado automaticamente em 17/07/2026, 09:42:25
 const LIVE_DATA = {
-  "updatedAt": "2026-07-16T22:44:18.878Z",
+  "updatedAt": "2026-07-17T09:42:25.275Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Promessa do Corinthians volta a jogar em vitória do Sub-17 após lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535884/promessa-volta-a-jogar-em-vitoria-do-sub-17-do-corinthians-apos-lesao",
+      "time": "17/07 · 01:31",
+      "pubDate": "Thu, 16 Jul 2026 22:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o São José podendo sequenciar vitórias na LNF pela primeira vez no ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535899/corinthians-enfrenta-o-sao-jose-podendo-sequenciar-vitorias-na-lnf-pela-primeira-vez-no-ano",
+      "time": "17/07 · 00:33",
+      "pubDate": "Thu, 16 Jul 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Psicóloga do Corinthians explica trabalho mental realizado na intertemporada das Brabas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535936/psicologa-do-corinthians-explica-trabalho-mental-realizado-na-intertemporada-das-brabas",
+      "time": "17/07 · 00:02",
+      "pubDate": "Thu, 16 Jul 2026 21:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Relembre os últimos jogos do Corinthians após pausas no calendário do futebol feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535896/relembre-os-ultimos-jogos-do-corinthians-apos-pausas-no-calendario-do-futebol-feminino",
+      "time": "16/07 · 23:32",
+      "pubDate": "Thu, 16 Jul 2026 20:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Hugo Souza relembra dois anos da estreia pelo Corinthians e projeta futuro ambicioso no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535934/hugo-souza-relembra-dois-anos-da-estreia-pelo-corinthians-e-projeta-futuro-ambicioso-no-clube",
+      "time": "16/07 · 23:01",
+      "pubDate": "Thu, 16 Jul 2026 20:01:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -16,7 +56,7 @@ const LIVE_DATA = {
       "title": "Goleiro liberado pelo Corinthians é anunciado por time da Itália",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535933/goleiro-liberado-pelo-corinthians-e-anunciado-por-time-da-italia",
       "time": "16/07 · 22:07",
-      "pubDate": "Thu, 16 Jul 2026 19:07:38 -0300"
+      "pubDate": "Thu, 16 Jul 2026 19:07:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -27,14 +67,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 16 Jul 2026 18:29:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians projeta duelo contra a Ferroviária e exalta preparação das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535928/atacante-do-corinthians-projeta-duelo-contra-a-ferroviaria-e-exalta-preparacao-das-brabas",
-      "time": "16/07 · 21:02",
-      "pubDate": "Thu, 16 Jul 2026 18:02:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Palmeiras vence o Corinthians de virada e vai à semi do Brasileiro sub-20",
@@ -43,44 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 16 Jul 2026 20:52:31 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre virada do Palmeiras e dá adeus ao Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535846/corinthians-sofre-virada-do-palmeiras-e-da-adeus-ao-brasileirao-sub-20",
-      "time": "16/07 · 20:51",
-      "pubDate": "Thu, 16 Jul 2026 17:51:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fecha preparação para encarar a Ferroviária pelo Paulista Feminino; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535907/corinthians-fecha-preparacao-para-encarar-a-ferroviaria-pelo-paulista-feminino-veja-o-provavel-time",
-      "time": "16/07 · 20:38",
-      "pubDate": "Thu, 16 Jul 2026 17:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselhos do Corinthians estabelecem diretrizes para regularização de sócios para eleição de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535927/conselhos-do-corinthians-estabelecem-diretrizes-para-regularizacao-de-socios-para-eleicao-de-2026",
-      "time": "16/07 · 20:29",
-      "pubDate": "Thu, 16 Jul 2026 17:29:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Juventus demonstra interesse no volante André, do Corinthians",
       "url": "https://www.gazetaesportiva.com/times/corinthians/juventus-demonstra-interesse-no-volante-andre-do-corinthians/",
       "time": "16/07 · 19:52",
       "pubDate": "Thu, 16 Jul 2026 19:52:17 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel vota a favor da renovação de meia-atacante do Corinthians para 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535892/fiel-vota-a-favor-da-renovacao-de-meia-atacante-do-corinthians-para-2027",
-      "time": "16/07 · 19:36",
-      "pubDate": "Thu, 16 Jul 2026 16:36:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -202,7 +202,7 @@ const LIVE_DATA = {
     {
       "title": "Goleiro liberado pelo Corinthians é anunciado por time da Itália",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535933/goleiro-liberado-pelo-corinthians-e-anunciado-por-time-da-italia",
-      "pubDate": "Thu, 16 Jul 2026 19:07:38 -0300",
+      "pubDate": "Thu, 16 Jul 2026 19:07:00 -0300",
       "date": "16/07 · 22:07"
     },
     {
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535876/timao-conquista-copa-do-brasil-de-futsal-down-com-destaques-individuais-e-goleada-na-final",
       "pubDate": "Wed, 15 Jul 2026 20:33:00 -0300",
       "date": "15/07 · 23:33"
-    },
-    {
-      "title": "Goleira brilha, meia faz dois golaços e Corinthians vence o Palmeiras no Paulistão Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535828/goleira-brilha-meia-faz-dois-golacos-e-corinthians-vence-o-palmeiras-no-paulistao-feminino-sub-20",
-      "pubDate": "Wed, 15 Jul 2026 17:02:00 -0300",
-      "date": "15/07 · 20:02"
     }
   ]
 };
