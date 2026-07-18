@@ -1,30 +1,102 @@
-// Gerado automaticamente em 18/07/2026, 12:42:25
+// Gerado automaticamente em 18/07/2026, 18:41:26
 const LIVE_DATA = {
-  "updatedAt": "2026-07-18T12:42:25.867Z",
+  "updatedAt": "2026-07-18T18:41:26.374Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe a Portuguesa em rodada atrasada do Paulista Feminino Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535965/corinthians-recebe-a-portuguesa-em-rodada-atrasada-do-paulista-feminino-sub-20-saiba-tudo",
-      "time": "18/07 · 12:00",
-      "pubDate": "Sat, 18 Jul 2026 09:00:00 -0300"
+      "title": "Atacante do Corinthians figura entre principais promessas da posição fora das grandes ligas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535968/atacante-do-corinthians-figura-entre-principais-promessas-da-posicao-fora-das-grandes-ligas",
+      "time": "18/07 · 18:33",
+      "pubDate": "Sat, 18 Jul 2026 15:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Barcelona Capela para encostar na liderança do Paulistão Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535964/corinthians-visita-o-barcelona-capela-para-encostar-na-lideranca-do-paulistao-sub-17-saiba-tudo",
-      "time": "18/07 · 11:00",
-      "pubDate": "Sat, 18 Jul 2026 08:00:00 -0300"
+      "title": "Vice-presidente do Corinthians pede suspeição de promotor e anulação de denúncia no MP",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536013/vice-presidente-do-corinthians-pede-suspeicao-de-promotor-e-anulacao-de-denuncia-no-mp",
+      "time": "18/07 · 17:56",
+      "pubDate": "Sat, 18 Jul 2026 14:56:57 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória das Brabas, contrato para joia e saída de volante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535990/ultimas-do-corinthians-vitoria-das-brabas-contrato-para-joia-e-saida-de-volante",
-      "time": "18/07 · 10:30",
-      "pubDate": "Sat, 18 Jul 2026 07:30:00 -0300"
+      "title": "Corinthians volta a ter sequência sem ser vazado após vitória sobre a Ferroviária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535983/corinthians-volta-a-ter-sequencia-sem-ser-vazado-apos-vitoria-sobre-a-ferroviaria",
+      "time": "18/07 · 17:33",
+      "pubDate": "Sat, 18 Jul 2026 14:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz faz testes em treino do Corinthians visando jogo contra o Remo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-faz-testes-em-treino-do-corinthians-visando-jogo-contra-o-remo/",
+      "time": "18/07 · 17:19",
+      "pubDate": "Sat, 18 Jul 2026 17:19:48 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do treino do Corinthians neste sábado",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-neste-sabado-9/",
+      "time": "18/07 · 17:15",
+      "pubDate": "Sat, 18 Jul 2026 17:15:48 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz treino coletivo visando retorno do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536010/corinthians-faz-treino-coletivo-visando-retorno-do-brasileirao",
+      "time": "18/07 · 17:00",
+      "pubDate": "Sat, 18 Jul 2026 14:00:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians sofre novo transfer ban por atraso em parcela da CNRD",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-novo-transfer-ban-por-atraso-em-parcela-da-cnrd/",
+      "time": "18/07 · 16:45",
+      "pubDate": "Sat, 18 Jul 2026 16:45:05 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians domina a partida e vence o Barcelona Esportivo pelo Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536007/corinthians-domina-a-partida-e-vence-o-barcelona-esportivo-pelo-paulista-sub-17",
+      "time": "18/07 · 16:03",
+      "pubDate": "Sat, 18 Jul 2026 13:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians goleia a Portuguesa e soma mais três pontos no Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535999/corinthians-goleia-a-portuguesa-e-soma-mais-tres-pontos-no-paulista-feminino-sub-20",
+      "time": "18/07 · 15:26",
+      "pubDate": "Sat, 18 Jul 2026 12:26:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians descumpre prazo estatutário para revisar orçamento; órgãos internos do clube comentam",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535981/corinthians-descumpre-prazo-estatutario-para-revisar-orcamento-orgaos-internos-do-clube-comentam",
+      "time": "18/07 · 14:01",
+      "pubDate": "Sat, 18 Jul 2026 11:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians sofre novo transfer ban após atraso em pagamento à CNRD",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536002/corinthians-sofre-novo-transfer-ban-apos-atraso-em-pagamento-a-cnrd",
+      "time": "18/07 · 13:16",
+      "pubDate": "Sat, 18 Jul 2026 10:16:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz faz teste inédito com Raniele nos treinos e prepara mudanças no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-faz-teste-inedito-com-raniele-nos-treinos-e-prepara-mudancas-no-corinthians]]>",
+      "time": "18/07 · 12:33",
+      "pubDate": "Sat, 18 Jul 2026 09:33:20 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,52 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 18 Jul 2026 10:00:49 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Remo prega cautela e respeito antes de jogo contra o Corinthians pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535962/atacante-do-remo-prega-cautela-e-respeito-antes-de-jogo-contra-o-corinthians-pelo-brasileirao",
-      "time": "18/07 · 01:30",
-      "pubDate": "Fri, 17 Jul 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do CD do Corinthians busca destravar reforma do Estatuto com apoio do Cori",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535987/presidente-do-cd-do-corinthians-busca-destravar-reforma-do-estatuto-com-apoio-do-cori",
-      "time": "18/07 · 01:17",
-      "pubDate": "Fri, 17 Jul 2026 22:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jhonson celebra prêmio de melhor em campo e projeta novo duelo do Corinthians contra a Ferroviária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535984/jhonson-celebra-premio-de-melhor-em-campo-e-projeta-novo-duelo-do-corinthians-contra-a-ferroviaria",
-      "time": "18/07 · 00:31",
-      "pubDate": "Fri, 17 Jul 2026 21:31:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians vence Ferroviária e assume a vice-liderança do Paulista feminino",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-ferroviaria-e-assume-a-vice-lideranca-do-paulista-feminino/",
       "time": "18/07 · 00:02",
       "pubDate": "Sat, 18 Jul 2026 00:02:32 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence a Ferroviária em casa e encosta na liderança do Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535940/corinthians-vence-a-ferroviaria-em-casa-e-encosta-na-lideranca-do-paulistao-feminino",
-      "time": "18/07 · 00:02",
-      "pubDate": "Fri, 17 Jul 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians leva empate no apagar das luzes e desperdiça chance de subir na tabela na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535939/corinthians-leva-empate-no-apagar-das-luzes-e-desperdica-chance-de-subir-na-tabela-na-lnf",
-      "time": "17/07 · 23:53",
-      "pubDate": "Fri, 17 Jul 2026 20:53:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -131,30 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 17 Jul 2026 17:32:54 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Há 13 anos, Corinthians batia o São Paulo e conquistava a Recopa Sul-Americana",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-13-anos-corinthians-batia-o-sao-paulo-e-conquistava-a-recopa-sul-americana/",
-      "time": "17/07 · 14:17",
-      "pubDate": "Fri, 17 Jul 2026 14:17:38 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Especulado na Juventus, André tem bons números pelo Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/especulado-na-juventus-andre-tem-bons-numeros-pelo-corinthians/",
-      "time": "17/07 · 10:00",
-      "pubDate": "Fri, 17 Jul 2026 10:00:11 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras vence o Corinthians de virada e vai à semi do Brasileiro sub-20",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-corinthians-brasileirao-sub-20/",
-      "time": "16/07 · 20:52",
-      "pubDate": "Thu, 16 Jul 2026 20:52:31 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Após renovação, Kauê supera João Pedro e passa a ter o contrato mais longo do elenco do Corinthians",
@@ -185,20 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/preparadores-do-corinthians-projetam-segundo-semestre-de-alta-intensidade-para-as-brabas]]>",
       "time": "15/07 · 21:56",
       "pubDate": "Wed, 15 Jul 2026 18:56:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians chega a acordo verbal com Wesley e tenta fim do transfer bans para fechar contratação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-chega-a-acordo-verbal-com-wesley-e-tenta-fim-do-transfer-bans-para-fechar-contratacao]]>",
-      "time": "15/07 · 20:19",
-      "pubDate": "Wed, 15 Jul 2026 17:19:15 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians goleia a Portuguesa e soma mais três pontos no Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535999/corinthians-goleia-a-portuguesa-e-soma-mais-tres-pontos-no-paulista-feminino-sub-20",
+      "pubDate": "Sat, 18 Jul 2026 12:26:00 -0300",
+      "date": "18/07 · 15:26"
+    },
     {
       "title": "Goleira do Corinthians relembra trajetória vitoriosa e sonha com vaga na Copa do Mundo de 2027",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535929/goleira-do-corinthians-relembra-trajetoria-vitoriosa-e-sonha-com-vaga-na-copa-do-mundo-de-2027",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535931/meia-atacante-do-corinthians-enfrenta-maior-vitima-em-busca-de-encerrar-jejum-de-gols",
       "pubDate": "Fri, 17 Jul 2026 16:30:00 -0300",
       "date": "17/07 · 19:30"
-    },
-    {
-      "title": "Saiba onde assistir ao clássico entre Corinthians e Ferroviária pelo Campeonato Paulista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535915/saiba-onde-assistir-ao-classico-entre-corinthians-e-ferroviaria-pelo-campeonato-paulista",
-      "pubDate": "Fri, 17 Jul 2026 10:37:00 -0300",
-      "date": "17/07 · 13:37"
     }
   ]
 };
