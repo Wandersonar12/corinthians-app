@@ -1,7 +1,87 @@
-// Gerado automaticamente em 17/07/2026, 22:35:59
+// Gerado automaticamente em 18/07/2026, 09:13:29
 const LIVE_DATA = {
-  "updatedAt": "2026-07-17T22:35:59.484Z",
+  "updatedAt": "2026-07-18T09:13:29.482Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Remo prega cautela e respeito antes de jogo contra o Corinthians pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535962/atacante-do-remo-prega-cautela-e-respeito-antes-de-jogo-contra-o-corinthians-pelo-brasileirao",
+      "time": "18/07 · 01:30",
+      "pubDate": "Fri, 17 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do CD do Corinthians busca destravar reforma do Estatuto com apoio do Cori",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535987/presidente-do-cd-do-corinthians-busca-destravar-reforma-do-estatuto-com-apoio-do-cori",
+      "time": "18/07 · 01:17",
+      "pubDate": "Fri, 17 Jul 2026 22:17:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jhonson celebra prêmio de melhor em campo e projeta novo duelo do Corinthians contra a Ferroviária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535984/jhonson-celebra-premio-de-melhor-em-campo-e-projeta-novo-duelo-do-corinthians-contra-a-ferroviaria",
+      "time": "18/07 · 00:31",
+      "pubDate": "Fri, 17 Jul 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Ferroviária e assume a vice-liderança do Paulista feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-ferroviaria-e-assume-a-vice-lideranca-do-paulista-feminino/",
+      "time": "18/07 · 00:02",
+      "pubDate": "Sat, 18 Jul 2026 00:02:32 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence a Ferroviária em casa e encosta na liderança do Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535940/corinthians-vence-a-ferroviaria-em-casa-e-encosta-na-lideranca-do-paulistao-feminino",
+      "time": "18/07 · 00:02",
+      "pubDate": "Fri, 17 Jul 2026 21:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians leva empate no apagar das luzes e desperdiça chance de subir na tabela na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535939/corinthians-leva-empate-no-apagar-das-luzes-e-desperdica-chance-de-subir-na-tabela-na-lnf",
+      "time": "17/07 · 23:53",
+      "pubDate": "Fri, 17 Jul 2026 20:53:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quarteto do Corinthians finaliza período com Seleção Sub-17 e volta a ser opção na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535966/quarteto-do-corinthians-finaliza-periodo-com-selecao-sub-17-e-volta-a-ser-opcao-na-temporada",
+      "time": "17/07 · 23:31",
+      "pubDate": "Fri, 17 Jul 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians fará treino na Neo Química Arena antes de jogo com o Remo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-fara-treino-na-neo-quimica-arena-antes-de-jogo-com-o-remo/",
+      "time": "17/07 · 23:20",
+      "pubDate": "Fri, 17 Jul 2026 23:20:44 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians confirma treino na Neo Química Arena antes de enfrentar o Remo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535976/corinthians-confirma-treino-na-neo-quimica-arena-antes-de-enfrentar-o-remo",
+      "time": "17/07 · 22:59",
+      "pubDate": "Fri, 17 Jul 2026 19:59:51 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Tocantins é contratada pelo Corinthians para as categorias de base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535963/dupla-do-tocantins-e-contratada-pelo-corinthians-para-as-categorias-de-base",
+      "time": "17/07 · 22:32",
+      "pubDate": "Fri, 17 Jul 2026 19:32:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -19,68 +99,28 @@ const LIVE_DATA = {
       "pubDate": "Fri, 17 Jul 2026 22:31:24 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza novo treino tático em preparação para duelo contra o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535972/corinthians-realiza-novo-treino-tatico-em-preparacao-para-duelo-contra-o-remo",
-      "time": "17/07 · 22:18",
-      "pubDate": "Fri, 17 Jul 2026 19:18:58 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians pode ampliar invencibilidade diante da Ferroviária em sequência de dois confrontos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-ampliar-invencibilidade-diante-da-ferroviaria-em-sequencia-de-dois-confrontos]]>",
+      "time": "17/07 · 21:54",
+      "pubDate": "Fri, 17 Jul 2026 18:54:56 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jesse Lingard acompanha jogo do Corinthians no Paulistão Feminino ao lado da filha",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535971/jesse-lingard-acompanha-jogo-do-corinthians-no-paulistao-feminino-ao-lado-da-filha",
-      "time": "17/07 · 22:00",
-      "pubDate": "Fri, 17 Jul 2026 19:00:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Tamires segue na cobertura da Copa e desfalca o Corinthians contra a Ferroviária pelo Paulistão F",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/tamires-segue-na-cobertura-da-copa-e-desfalca-o-corinthians-contra-a-ferroviaria-pelo-paulistao-f]]>",
+      "time": "17/07 · 20:58",
+      "pubDate": "Fri, 17 Jul 2026 17:58:01 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleira do Corinthians relembra trajetória vitoriosa e sonha com vaga na Copa do Mundo de 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535929/goleira-do-corinthians-relembra-trajetoria-vitoriosa-e-sonha-com-vaga-na-copa-do-mundo-de-2027",
-      "time": "17/07 · 21:32",
-      "pubDate": "Fri, 17 Jul 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar a Ferroviária pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535954/corinthians-esta-escalado-para-enfrentar-a-ferroviaria-pelo-paulistao-feminino",
-      "time": "17/07 · 21:03",
-      "pubDate": "Fri, 17 Jul 2026 18:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César projeta retorno do Corinthians e destaca treinos de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535970/kaio-cesar-projeta-retorno-do-corinthians-e-destaca-treinos-de-fernando-diniz",
-      "time": "17/07 · 20:41",
-      "pubDate": "Fri, 17 Jul 2026 17:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians acerta liberação de volante para clube de Santa Catarina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535969/corinthians-acerta-liberacao-de-volante-para-clube-de-santa-catarina",
-      "time": "17/07 · 20:38",
-      "pubDate": "Fri, 17 Jul 2026 17:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia-atacante do Corinthians enfrenta maior vítima em busca de encerrar jejum de gols",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535931/meia-atacante-do-corinthians-enfrenta-maior-vitima-em-busca-de-encerrar-jejum-de-gols",
-      "time": "17/07 · 19:30",
-      "pubDate": "Fri, 17 Jul 2026 16:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca primeira vitória fora de casa na LNF após quase nove meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535903/corinthians-busca-primeira-vitoria-fora-de-casa-na-lnf-apos-quase-nove-meses",
-      "time": "17/07 · 18:37",
-      "pubDate": "Fri, 17 Jul 2026 15:37:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Ferroviária: saiba onde assistir ao clássico pelo Paulistão F",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-ferroviaria-saiba-onde-assistir-ao-classico-pelo-paulistao-f]]>",
+      "time": "17/07 · 20:32",
+      "pubDate": "Fri, 17 Jul 2026 17:32:54 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -113,22 +153,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/juventus-demonstra-interesse-no-volante-andre-do-corinthians/",
       "time": "16/07 · 19:52",
       "pubDate": "Thu, 16 Jul 2026 19:52:17 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians dá sequência à intertemporada com treino tático",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-da-sequencia-a-intertemporada-com-treino-tatico/",
-      "time": "16/07 · 18:50",
-      "pubDate": "Thu, 16 Jul 2026 18:50:18 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians desta quinta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-quinta-feira-32/",
-      "time": "16/07 · 18:34",
-      "pubDate": "Thu, 16 Jul 2026 18:34:33 +0000"
     },
     {
       "source": "Bolavip",
@@ -169,30 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-chega-a-acordo-verbal-com-wesley-e-tenta-fim-do-transfer-bans-para-fechar-contratacao]]>",
       "time": "15/07 · 20:19",
       "pubDate": "Wed, 15 Jul 2026 17:19:15 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians estabelece novo recorde de participação da base nos gols da equipe em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estabelece-novo-recorde-de-participacao-da-base-nos-gols-da-equipe-em-2026]]>",
-      "time": "15/07 · 19:57",
-      "pubDate": "Wed, 15 Jul 2026 16:57:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não é culpado e Rafael van der Vaart reprova convocação de Memphis Depay na Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-e-culpado-e-rafael-van-der-vaart-reprova-convocacao-de-memphis-depay-na-copa-do-mundo]]>",
-      "time": "15/07 · 15:15",
-      "pubDate": "Wed, 15 Jul 2026 12:15:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Rodrigo Dourado é oferecido, mas Corinthians descarta contratação e prioriza Arthur Melo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-dourado-e-oferecido-mas-corinthians-descarta-contratacao-e-prioriza-arthur-melo]]>",
-      "time": "15/07 · 11:19",
-      "pubDate": "Wed, 15 Jul 2026 08:19:53 -0300"
     }
   ],
   "upcoming": [],
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535915/saiba-onde-assistir-ao-classico-entre-corinthians-e-ferroviaria-pelo-campeonato-paulista",
       "pubDate": "Fri, 17 Jul 2026 10:37:00 -0300",
       "date": "17/07 · 13:37"
-    },
-    {
-      "title": "Goleiro liberado pelo Corinthians é anunciado por time da Itália",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535933/goleiro-liberado-pelo-corinthians-e-anunciado-por-time-da-italia",
-      "pubDate": "Thu, 16 Jul 2026 19:07:00 -0300",
-      "date": "16/07 · 22:07"
     }
   ]
 };
