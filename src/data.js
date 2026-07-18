@@ -1,7 +1,39 @@
-// Gerado automaticamente em 18/07/2026, 09:13:29
+// Gerado automaticamente em 18/07/2026, 12:42:25
 const LIVE_DATA = {
-  "updatedAt": "2026-07-18T09:13:29.482Z",
+  "updatedAt": "2026-07-18T12:42:25.867Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe a Portuguesa em rodada atrasada do Paulista Feminino Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535965/corinthians-recebe-a-portuguesa-em-rodada-atrasada-do-paulista-feminino-sub-20-saiba-tudo",
+      "time": "18/07 · 12:00",
+      "pubDate": "Sat, 18 Jul 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Barcelona Capela para encostar na liderança do Paulistão Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535964/corinthians-visita-o-barcelona-capela-para-encostar-na-lideranca-do-paulistao-sub-17-saiba-tudo",
+      "time": "18/07 · 11:00",
+      "pubDate": "Sat, 18 Jul 2026 08:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: vitória das Brabas, contrato para joia e saída de volante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535990/ultimas-do-corinthians-vitoria-das-brabas-contrato-para-joia-e-saida-de-volante",
+      "time": "18/07 · 10:30",
+      "pubDate": "Sat, 18 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Kaio César destaca evolução do Corinthians na intertemporada e projeta retomada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-destaca-evolucao-do-corinthians-na-intertemporada-e-projeta-retomada-do-brasileirao/",
+      "time": "18/07 · 10:00",
+      "pubDate": "Sat, 18 Jul 2026 10:00:49 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -51,36 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 17 Jul 2026 20:53:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quarteto do Corinthians finaliza período com Seleção Sub-17 e volta a ser opção na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535966/quarteto-do-corinthians-finaliza-periodo-com-selecao-sub-17-e-volta-a-ser-opcao-na-temporada",
-      "time": "17/07 · 23:31",
-      "pubDate": "Fri, 17 Jul 2026 20:31:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians fará treino na Neo Química Arena antes de jogo com o Remo",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-fara-treino-na-neo-quimica-arena-antes-de-jogo-com-o-remo/",
       "time": "17/07 · 23:20",
       "pubDate": "Fri, 17 Jul 2026 23:20:44 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians confirma treino na Neo Química Arena antes de enfrentar o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535976/corinthians-confirma-treino-na-neo-quimica-arena-antes-de-enfrentar-o-remo",
-      "time": "17/07 · 22:59",
-      "pubDate": "Fri, 17 Jul 2026 19:59:51 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Tocantins é contratada pelo Corinthians para as categorias de base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535963/dupla-do-tocantins-e-contratada-pelo-corinthians-para-as-categorias-de-base",
-      "time": "17/07 · 22:32",
-      "pubDate": "Fri, 17 Jul 2026 19:32:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -145,14 +153,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-corinthians-brasileirao-sub-20/",
       "time": "16/07 · 20:52",
       "pubDate": "Thu, 16 Jul 2026 20:52:31 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Juventus demonstra interesse no volante André, do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/juventus-demonstra-interesse-no-volante-andre-do-corinthians/",
-      "time": "16/07 · 19:52",
-      "pubDate": "Thu, 16 Jul 2026 19:52:17 +0000"
     },
     {
       "source": "Bolavip",
