@@ -1,7 +1,47 @@
-// Gerado automaticamente em 18/07/2026, 22:35:16
+// Gerado automaticamente em 19/07/2026, 09:40:38
 const LIVE_DATA = {
-  "updatedAt": "2026-07-18T22:35:16.755Z",
+  "updatedAt": "2026-07-19T09:40:38.925Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Acúmulo de transfer bans atrapalha planos do Corinthians por Wesley",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/acumulo-de-transfer-bans-atrapalha-planos-do-corinthians-por-wesley/",
+      "time": "19/07 · 08:00",
+      "pubDate": "Sun, 19 Jul 2026 08:00:36 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante comenta estado do gramado da Fazendinha e valoriza apoio de Lingard em jogo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536000/atacante-comenta-estado-do-gramado-da-fazendinha-e-valoriza-apoio-de-lingard-em-jogo-do-corinthians",
+      "time": "19/07 · 01:30",
+      "pubDate": "Sat, 18 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla marca diante do São José e movimenta artilharia do futsal do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535985/dupla-marca-diante-do-sao-jose-e-movimenta-artilharia-do-futsal-do-corinthians",
+      "time": "19/07 · 00:35",
+      "pubDate": "Sat, 18 Jul 2026 21:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily critica condição do gramado da Fazendinha após vitória do Corinthians contra a Ferroviária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535995/emily-critica-condicao-do-gramado-da-fazendinha-apos-vitoria-do-corinthians-contra-a-ferroviaria",
+      "time": "18/07 · 23:35",
+      "pubDate": "Sat, 18 Jul 2026 20:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians amplia jejum de quase nove meses sem vencer fora de casa na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535989/corinthians-amplia-jejum-de-quase-nove-meses-sem-vencer-fora-de-casa-na-lnf",
+      "time": "18/07 · 22:31",
+      "pubDate": "Sat, 18 Jul 2026 19:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,12 +59,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 18 Jul 2026 18:34:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gabriel Poveda projeta Corinthians x Remo e alerta para pressão da torcida em Itaquera",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-poveda-projeta-corinthians-x-remi-e-alerta-para-pressao-da-torcida-em-itaquera]]>",
+      "time": "18/07 · 21:20",
+      "pubDate": "Sat, 18 Jul 2026 18:20:04 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Eliminação amplia sequência negativa do Corinthians contra o Palmeiras no Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535967/eliminacao-amplia-sequencia-negativa-do-corinthians-contra-o-palmeiras-no-sub-20",
       "time": "18/07 · 21:05",
       "pubDate": "Sat, 18 Jul 2026 18:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Previsão da Inteligência Artificial revela resultado de Corinthians x Remo pelo Campeonato Brasileiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/previsao-da-inteligencia-artificial-revela-resultado-de-corinthians-x-remo-pelo-campeonato-brasileiro]]>",
+      "time": "18/07 · 20:54",
+      "pubDate": "Sat, 18 Jul 2026 17:54:41 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,36 +91,36 @@ const LIVE_DATA = {
       "pubDate": "Sat, 18 Jul 2026 17:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga 50ª edição da Campanha Sangue Corinthiano na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536005/corinthians-divulga-50-edicao-da-campanha-sangue-corinthiano-na-neo-quimica-arena",
-      "time": "18/07 · 20:00",
-      "pubDate": "Sat, 18 Jul 2026 17:00:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Staff de Memphis Depay pressiona Corinthians por renovação e usa dívida de R$ 42 milhões como trunfo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/staff-de-memphis-depay-pressiona-corinthians-por-renovacao-e-usa-divida-de-r-42-milhoes-como-trunfo]]>",
+      "time": "18/07 · 19:23",
+      "pubDate": "Sat, 18 Jul 2026 16:23:08 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily Lima comenta situação de jogadoras em fim de contrato no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535996/emily-lima-comenta-situacao-de-jogadoras-em-fim-de-contrato-no-corinthians",
-      "time": "18/07 · 19:36",
-      "pubDate": "Sat, 18 Jul 2026 16:36:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz faz testes em treino do Corinthians visando jogo contra o Remo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-faz-testes-em-treino-do-corinthians-visando-jogo-contra-o-remo/",
+      "time": "18/07 · 17:19",
+      "pubDate": "Sat, 18 Jul 2026 17:19:48 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Moscardo relembra saída do Corinthians e revela contato do Barcelona antes de transferência ao PSG",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536014/moscardo-relembra-saida-do-corinthians-e-revela-contato-do-barcelona-antes-de-transferencia-ao-psg",
-      "time": "18/07 · 19:00",
-      "pubDate": "Sat, 18 Jul 2026 16:00:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do treino do Corinthians neste sábado",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-neste-sabado-9/",
+      "time": "18/07 · 17:15",
+      "pubDate": "Sat, 18 Jul 2026 17:15:48 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians figura entre principais promessas da posição fora das grandes ligas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535968/atacante-do-corinthians-figura-entre-principais-promessas-da-posicao-fora-das-grandes-ligas",
-      "time": "18/07 · 18:33",
-      "pubDate": "Sat, 18 Jul 2026 15:33:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians sofre novo transfer ban por atraso em parcela da CNRD",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-novo-transfer-ban-por-atraso-em-parcela-da-cnrd/",
+      "time": "18/07 · 16:45",
+      "pubDate": "Sat, 18 Jul 2026 16:45:05 +0000"
     },
     {
       "source": "Bolavip",
@@ -81,6 +137,38 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-faz-teste-inedito-com-raniele-nos-treinos-e-prepara-mudancas-no-corinthians]]>",
       "time": "18/07 · 12:33",
       "pubDate": "Sat, 18 Jul 2026 09:33:20 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Kaio César destaca evolução do Corinthians na intertemporada e projeta retomada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-destaca-evolucao-do-corinthians-na-intertemporada-e-projeta-retomada-do-brasileirao/",
+      "time": "18/07 · 10:00",
+      "pubDate": "Sat, 18 Jul 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Ferroviária e assume a vice-liderança do Paulista feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-ferroviaria-e-assume-a-vice-lideranca-do-paulista-feminino/",
+      "time": "18/07 · 00:02",
+      "pubDate": "Sat, 18 Jul 2026 00:02:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians fará treino na Neo Química Arena antes de jogo com o Remo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-fara-treino-na-neo-quimica-arena-antes-de-jogo-com-o-remo/",
+      "time": "17/07 · 23:20",
+      "pubDate": "Fri, 17 Jul 2026 23:20:44 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático com foco no retorno do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-com-foco-no-retorno-do-brasileirao/",
+      "time": "17/07 · 22:31",
+      "pubDate": "Fri, 17 Jul 2026 22:31:31 +0000"
     },
     {
       "source": "Bolavip",
@@ -105,94 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-ferroviaria-saiba-onde-assistir-ao-classico-pelo-paulistao-f]]>",
       "time": "17/07 · 20:32",
       "pubDate": "Fri, 17 Jul 2026 17:32:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Após renovação, Kauê supera João Pedro e passa a ter o contrato mais longo do elenco do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/apos-renovacao-kaue-supera-joao-pedro-e-passa-a-ter-o-contrato-mais-longo-do-elenco-do-corinthians]]>",
-      "time": "16/07 · 13:28",
-      "pubDate": "Thu, 16 Jul 2026 10:28:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aposta em invencibilidade no Dérbi para entrar no G4 do Paulistão F Sub-20",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aposta-em-invencibilidade-no-derbi-para-entrar-no-g4-do-paulistao-f-sub-20]]>",
-      "time": "15/07 · 23:24",
-      "pubDate": "Wed, 15 Jul 2026 20:24:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ferroviária inicia sequência contra o Corinthians e Nicoly destaca confiança para confrontos decisivos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ferroviaria-inicia-sequencia-contra-o-corinthians-e-nicoly-destaca-confianca-para-confrontos-decisivos]]>",
-      "time": "15/07 · 22:55",
-      "pubDate": "Wed, 15 Jul 2026 19:55:29 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535999/corinthians-goleia-a-portuguesa-e-soma-mais-tres-pontos-no-paulista-feminino-sub-20",
       "pubDate": "Sat, 18 Jul 2026 12:26:00 -0300",
       "date": "18/07 · 15:26"
-    },
-    {
-      "title": "Goleira do Corinthians relembra trajetória vitoriosa e sonha com vaga na Copa do Mundo de 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535929/goleira-do-corinthians-relembra-trajetoria-vitoriosa-e-sonha-com-vaga-na-copa-do-mundo-de-2027",
-      "pubDate": "Fri, 17 Jul 2026 18:32:00 -0300",
-      "date": "17/07 · 21:32"
     }
   ]
 };
