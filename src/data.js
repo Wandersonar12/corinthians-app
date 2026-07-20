@@ -1,118 +1,86 @@
-// Gerado automaticamente em 20/07/2026, 19:19:43
+// Gerado automaticamente em 20/07/2026, 22:43:17
 const LIVE_DATA = {
-  "updatedAt": "2026-07-20T19:19:43.120Z",
+  "updatedAt": "2026-07-20T22:43:17.783Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quem você escalaria na vaga de Garro no duelo do Corinthians contra o Remo? Vote na enquete!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536073/quem-voce-escalaria-na-vaga-de-garro-no-duelo-do-corinthians-contra-o-remo-vote-na-enquete",
+      "time": "20/07 · 22:33",
+      "pubDate": "Mon, 20 Jul 2026 19:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians acerta direitos de imagem em atraso com elenco profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536098/corinthians-acerta-direitos-de-imagem-em-atraso-com-elenco-profissional",
+      "time": "20/07 · 22:07",
+      "pubDate": "Mon, 20 Jul 2026 19:07:54 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado para decisão contra a Ferroviária pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536065/corinthians-esta-escalado-para-decisao-contra-a-ferroviaria-pela-copa-do-brasil-feminina",
+      "time": "20/07 · 22:01",
+      "pubDate": "Mon, 20 Jul 2026 19:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Promotor rebate vice do Corinthians e cita até Yuri Alberto em resposta à anulação de denúncia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536093/promotor-rebate-vice-do-corinthians-e-cita-ate-yuri-alberto-em-resposta-a-anulacao-de-denuncia",
+      "time": "20/07 · 21:28",
+      "pubDate": "Mon, 20 Jul 2026 18:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians destaca boa fase antes de duelo contra o Internacional pelo Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536092/meia-do-corinthians-destaca-boa-fase-antes-de-duelo-contra-o-internacional-pelo-brasileiro-sub-17",
+      "time": "20/07 · 21:04",
+      "pubDate": "Mon, 20 Jul 2026 18:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode chegar a 20 jogos de invencibilidade em estádio rival nesta segunda-feira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536048/corinthians-pode-chegar-a-20-jogos-de-invencibilidade-em-estadio-rival-nesta-segunda-feira",
+      "time": "20/07 · 20:34",
+      "pubDate": "Mon, 20 Jul 2026 17:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Internacional desiste de contratar Pedro Raul e não fará proposta ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536086/internacional-desiste-de-contratar-pedro-raul-e-nao-fara-proposta-ao-corinthians",
+      "time": "20/07 · 19:26",
+      "pubDate": "Mon, 20 Jul 2026 16:26:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians Steamrollers estreia com derrota diante do Vikings na Superliga de Futebol Americano",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536083/corinthians-steamrollers-estreia-com-derrota-diante-do-vikings-na-superliga-de-futebol-americano",
       "time": "20/07 · 19:03",
-      "pubDate": "Mon, 20 Jul 2026 16:03:31 -0300"
+      "pubDate": "Mon, 20 Jul 2026 16:03:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz detalha preparação do Corinthians e projeta retorno aos jogos: &#8220;Ansioso para recomeçar&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-detalha-preparacao-do-corinthians-e-projeta-retorno-aos-jogos-ansioso-para-recomecar/",
-      "time": "20/07 · 18:55",
-      "pubDate": "Mon, 20 Jul 2026 18:55:19 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians monta estratégia para remover transfer bans e quitar pendências com elenco",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monta-estrategia-para-remover-transfer-bans-e-quitar-pendencias-com-elenco]]>",
+      "time": "20/07 · 17:05",
+      "pubDate": "Mon, 20 Jul 2026 14:05:17 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians avalia intertemporada e exalta treinamento na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536074/tecnico-do-corinthians-avalia-intertemporada-e-exalta-treinamento-na-neo-quimica-arena",
-      "time": "20/07 · 18:29",
-      "pubDate": "Mon, 20 Jul 2026 15:29:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians na Arena nesta segunda-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-na-arena-nesta-segunda-feira/",
-      "time": "20/07 · 18:15",
-      "pubDate": "Mon, 20 Jul 2026 18:15:50 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz confronto eliminatório contra a Ferroviária pela quinta competição diferente",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536019/corinthians-faz-confronto-eliminatorio-contra-a-ferroviaria-pela-quinta-competicao-diferente",
-      "time": "20/07 · 17:36",
-      "pubDate": "Mon, 20 Jul 2026 14:36:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians inicia pagamento de salários atrasados e traça plano para derrubar transfer bans",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-inicia-pagamento-de-salarios-atrasados-e-traca-plano-para-derrubar-transfer-bans/",
-      "time": "20/07 · 17:01",
-      "pubDate": "Mon, 20 Jul 2026 17:01:24 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians se aproxima dos 20 gols no ano e amplia vantagem na artilharia do Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536043/atacante-se-aproxima-dos-20-gols-no-ano-e-amplia-vantagem-na-artilharia-do-sub-20",
-      "time": "20/07 · 16:32",
-      "pubDate": "Mon, 20 Jul 2026 13:32:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians segue rotina de treinos de olho no Remo",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-segue-rotina-de-treinos-de-olho-no-remo/",
-      "time": "20/07 · 15:51",
-      "pubDate": "Mon, 20 Jul 2026 15:51:24 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encara semana com retorno do Brasileirão e eliminatória da Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536055/corinthians-encara-semana-com-retorno-do-brasileirao-e-eliminatoria-da-copa-do-brasil-feminina",
-      "time": "20/07 · 15:31",
-      "pubDate": "Mon, 20 Jul 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians traça plano para regularizar atrasos com o elenco e reduzir impacto dos transfer bans",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536062/corinthians-traca-plano-para-regularizar-atrasos-com-o-elenco-e-reduzir-impacto-dos-transfer-bans",
-      "time": "20/07 · 15:15",
-      "pubDate": "Mon, 20 Jul 2026 12:15:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians se reapresenta com treino na Arena antes de enfrentar o Remo em retorno",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-com-treino-na-arena-antes-de-enfrentar-o-remo-em-retorno/",
-      "time": "20/07 · 15:07",
-      "pubDate": "Mon, 20 Jul 2026 15:07:40 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: André Luiz treinando e mais: veja como foi o treino do Corinthians na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128612/andre-luiz-treinando-e-mais-veja-como-foi-o-treino-do-corinthians-na-neo-quimica-arena",
-      "time": "20/07 · 14:35",
-      "pubDate": "Mon, 20 Jul 2026 11:35:10 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians estabelece data para retorno de Memphis Depay ao CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536059/corinthians-estabelece-data-para-retorno-de-memphis-depay-ao-ct-joaquim-grava",
-      "time": "20/07 · 14:31",
-      "pubDate": "Mon, 20 Jul 2026 11:31:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá semana com volta pelo Brasileirão e viagem à Salvador; veja programação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-semana-com-volta-pelo-brasileirao-e-viagem-a-salvador-confira/",
-      "time": "20/07 · 10:00",
-      "pubDate": "Mon, 20 Jul 2026 10:00:41 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay recebe sondagens da Arábia Saudita e conversas dependem da definição no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-recebe-sondagens-da-arabia-saudita-e-conversas-dependem-da-definicao-no-corinthians]]>",
+      "time": "20/07 · 16:43",
+      "pubDate": "Mon, 20 Jul 2026 13:43:59 -0300"
     },
     {
       "source": "Bolavip",
@@ -139,14 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 19 Jul 2026 20:12:52 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ferroviária x Corinthians: prováveis escalações e onde assistir ao jogo pela Copa do Brasil feminina",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ferroviaria-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-copa-do-brasil-feminina/",
-      "time": "19/07 · 23:00",
-      "pubDate": "Sun, 19 Jul 2026 23:00:32 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Kaio César avalia intertemporada do Corinthians e projeta retorno das competições com confiança",
@@ -163,14 +123,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 19 Jul 2026 08:59:03 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Acúmulo de transfer bans atrapalha planos do Corinthians por Wesley",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/acumulo-de-transfer-bans-atrapalha-planos-do-corinthians-por-wesley/",
-      "time": "19/07 · 08:00",
-      "pubDate": "Sun, 19 Jul 2026 08:00:36 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fernando Diniz esboça time titular do Corinthians diante do Remo, pelo Brasileirão",
@@ -179,20 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Sat, 18 Jul 2026 22:15:59 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gabriel Poveda projeta Corinthians x Remo e alerta para pressão da torcida em Itaquera",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-poveda-projeta-corinthians-x-remi-e-alerta-para-pressao-da-torcida-em-itaquera]]>",
-      "time": "18/07 · 21:20",
-      "pubDate": "Sat, 18 Jul 2026 18:20:04 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Previsão da Inteligência Artificial revela resultado de Corinthians x Remo pelo Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/previsao-da-inteligencia-artificial-revela-resultado-de-corinthians-x-remo-pelo-campeonato-brasileiro]]>",
-      "time": "18/07 · 20:54",
-      "pubDate": "Sat, 18 Jul 2026 17:54:41 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -234,12 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536039/tecnico-do-corinthians-valoriza-goleada-e-projeta-sequencia-no-paulista-sub-20",
       "pubDate": "Sun, 19 Jul 2026 18:34:00 -0300",
       "date": "19/07 · 21:34"
-    },
-    {
-      "title": "Corinthians goleia a Ponte Preta e assume a liderança do grupo no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536036/corinthians-goleia-a-ponte-preta-e-assume-a-lideranca-do-grupo-no-paulista-sub-20",
-      "pubDate": "Sun, 19 Jul 2026 11:55:00 -0300",
-      "date": "19/07 · 14:55"
     }
   ]
 };
