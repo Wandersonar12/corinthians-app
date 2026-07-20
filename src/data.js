@@ -1,7 +1,47 @@
-// Gerado automaticamente em 19/07/2026, 22:38:16
+// Gerado automaticamente em 20/07/2026, 10:36:43
 const LIVE_DATA = {
-  "updatedAt": "2026-07-19T22:38:16.861Z",
+  "updatedAt": "2026-07-20T10:36:43.691Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: proposta à vista, goleada na base e volante sem lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536051/ultimas-do-corinthians-proposta-a-vista-goleada-na-base-e-volante-sem-lesao",
+      "time": "20/07 · 10:30",
+      "pubDate": "Mon, 20 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita a Ferroviária buscando avançar na Copa do Brasil Feminina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536044/corinthians-visita-a-ferroviaria-buscando-avancar-na-copa-do-brasil-feminina-saiba-tudo",
+      "time": "20/07 · 03:01",
+      "pubDate": "Mon, 20 Jul 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians repete feito que não acontecia há três anos com goleada sobre a Ponte Preta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536046/corinthians-repete-feito-que-nao-acontecia-ha-tres-anos-com-goleada-sobre-a-ponte-preta",
+      "time": "20/07 · 01:30",
+      "pubDate": "Sun, 19 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians soma maior audiência do futebol feminino no mundo em plataforma online",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536034/corinthians-soma-maior-audiencia-do-futebol-feminino-no-mundo-em-plataforma-online",
+      "time": "20/07 · 00:34",
+      "pubDate": "Sun, 19 Jul 2026 21:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "William Batista revela inspiração em Diniz e detalha trabalho na base do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536041/william-batista-revela-inspiracao-em-diniz-e-detalha-trabalho-na-base-do-corinthians",
+      "time": "19/07 · 23:33",
+      "pubDate": "Sun, 19 Jul 2026 20:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -25,46 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/535998/emily-lima-celebra-acao-de-filha-de-lingard-com-o-time-feminino-do-corinthians",
       "time": "19/07 · 20:31",
       "pubDate": "Sun, 19 Jul 2026 17:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacantes do Corinthians movimentam artilharia do Sub-17 após vitória no Paulistão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536022/atacantes-do-corinthians-movimentam-artilharia-do-sub-17-apos-vitoria-no-paulistao",
-      "time": "19/07 · 19:32",
-      "pubDate": "Sun, 19 Jul 2026 16:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians estende invencibilidade diante da Ferroviária após vitória no Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535988/corinthians-estende-invencibilidade-diante-da-ferroviaria-apos-vitoria-no-paulistao-feminino",
-      "time": "19/07 · 18:34",
-      "pubDate": "Sun, 19 Jul 2026 15:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba como comprar ingressos para duelo do Corinthians contra o Bahia em Salvador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536038/saiba-como-comprar-ingressos-para-duelo-do-corinthians-contra-o-bahia-em-salvador",
-      "time": "19/07 · 17:31",
-      "pubDate": "Sun, 19 Jul 2026 14:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians passa por exames após susto e não tem fratura constatada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536035/volante-do-corinthians-passa-por-exames-apos-susto-e-nao-tem-fratura-constatada",
-      "time": "19/07 · 16:36",
-      "pubDate": "Sun, 19 Jul 2026 13:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "[Maria Beatriz de Teves] Lingard faz o que só outro jogador havia feito pelo Corinthians Feminino",
-      "url": "https://www.meutimao.com.br/coluna/maria_beatriz_de_teves/4242/lingard-faz-o-que-so-outro-jogador-havia-feito-pelo-futebol-feminino-do-corinthians/",
-      "time": "19/07 · 16:06",
-      "pubDate": "Sun, 19 Jul 2026 13:06:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Últimas do Corinthians: proposta à vista, goleada na base e volante sem lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536051/ultimas-do-corinthians-proposta-a-vista-goleada-na-base-e-volante-sem-lesao",
+      "pubDate": "Mon, 20 Jul 2026 07:30:00 -0300",
+      "date": "20/07 · 10:30"
+    },
+    {
+      "title": "Corinthians repete feito que não acontecia há três anos com goleada sobre a Ponte Preta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536046/corinthians-repete-feito-que-nao-acontecia-ha-tres-anos-com-goleada-sobre-a-ponte-preta",
+      "pubDate": "Sun, 19 Jul 2026 22:30:00 -0300",
+      "date": "20/07 · 01:30"
+    },
     {
       "title": "Técnico do Corinthians valoriza goleada e projeta sequência no Paulista Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536039/tecnico-do-corinthians-valoriza-goleada-e-projeta-sequencia-no-paulista-sub-20",
