@@ -1,7 +1,31 @@
-// Gerado automaticamente em 20/07/2026, 10:36:43
+// Gerado automaticamente em 20/07/2026, 13:40:50
 const LIVE_DATA = {
-  "updatedAt": "2026-07-20T10:36:43.691Z",
+  "updatedAt": "2026-07-20T13:40:50.543Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Tamires se reapresenta ao Corinthians após compromissos na TV; lateral deve seguir como desfalque",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536054/tamires-se-reapresenta-ao-corinthians-apos-compromissos-na-tv-lateral-deve-seguir-como-desfalque",
+      "time": "20/07 · 13:28",
+      "pubDate": "Mon, 20 Jul 2026 10:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à decisão entre Corinthians e Ferroviária pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536042/saiba-onde-assistir-a-decisao-entre-corinthians-e-ferroviaria-pela-copa-do-brasil-feminina",
+      "time": "20/07 · 12:30",
+      "pubDate": "Mon, 20 Jul 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Negociações e três transfer bans: veja a situação do Corinthians nesta janela de transferências",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536045/negociacoes-e-tres-transfer-bans-veja-a-situacao-do-corinthians-nesta-janela-de-transferencias",
+      "time": "20/07 · 11:30",
+      "pubDate": "Mon, 20 Jul 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -13,8 +37,8 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita a Ferroviária buscando avançar na Copa do Brasil Feminina; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536044/corinthians-visita-a-ferroviaria-buscando-avancar-na-copa-do-brasil-feminina-saiba-tudo",
+      "title": "Corinthians visita a Ferroviária em busca de vaga nas quartas da Copa do Brasil Feminina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536044/corinthians-visita-a-ferroviaria-em-busca-de-vaga-nas-quartas-da-copa-do-brasil-feminina-saiba-tudo",
       "time": "20/07 · 03:01",
       "pubDate": "Mon, 20 Jul 2026 00:01:00 -0300"
     },
@@ -27,12 +51,28 @@ const LIVE_DATA = {
       "pubDate": "Sun, 19 Jul 2026 22:30:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians inicia preparação para enfrentar a Ferroviária pelas oitavas da Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-inicia-preparacao-para-enfrentar-a-ferroviaria-pelas-oitavas-da-copa-do-brasil]]>",
+      "time": "20/07 · 01:09",
+      "pubDate": "Sun, 19 Jul 2026 22:09:23 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians soma maior audiência do futebol feminino no mundo em plataforma online",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536034/corinthians-soma-maior-audiencia-do-futebol-feminino-no-mundo-em-plataforma-online",
       "time": "20/07 · 00:34",
       "pubDate": "Sun, 19 Jul 2026 21:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Jesse Lingard repete gesto inédito e reforça aproximação com o futebol feminino do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-repete-gesto-inedito-e-reforca-aproximacao-com-o-futebol-feminino-do-corinthians]]>",
+      "time": "19/07 · 23:47",
+      "pubDate": "Sun, 19 Jul 2026 20:47:20 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,28 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 19 Jul 2026 20:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians se reinventa com ausência e improvisa atacante em nova posição",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536003/tecnica-do-corinthians-se-reinventa-com-ausencia-e-improvisa-atacante-em-nova-posicao",
-      "time": "19/07 · 22:30",
-      "pubDate": "Sun, 19 Jul 2026 19:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians valoriza goleada e projeta sequência no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536039/tecnico-do-corinthians-valoriza-goleada-e-projeta-sequencia-no-paulista-sub-20",
-      "time": "19/07 · 21:34",
-      "pubDate": "Sun, 19 Jul 2026 18:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily Lima celebra ação de filha de Lingard com o time feminino do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535998/emily-lima-celebra-acao-de-filha-de-lingard-com-o-time-feminino-do-corinthians",
-      "time": "19/07 · 20:31",
-      "pubDate": "Sun, 19 Jul 2026 17:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ferroviária e Corinthians decidem vaga nas quartas da Copa do Brasil Feminina",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ferroviaria-e-corinthians-decidem-vaga-nas-quartas-da-copa-do-brasil-feminina]]>",
+      "time": "19/07 · 23:12",
+      "pubDate": "Sun, 19 Jul 2026 20:12:52 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/previsao-da-inteligencia-artificial-revela-resultado-de-corinthians-x-remo-pelo-campeonato-brasileiro]]>",
       "time": "18/07 · 20:54",
       "pubDate": "Sat, 18 Jul 2026 17:54:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Staff de Memphis Depay pressiona Corinthians por renovação e usa dívida de R$ 42 milhões como trunfo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/staff-de-memphis-depay-pressiona-corinthians-por-renovacao-e-usa-divida-de-r-42-milhoes-como-trunfo]]>",
-      "time": "18/07 · 19:23",
-      "pubDate": "Sat, 18 Jul 2026 16:23:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians recebe terceiro transfer ban em dois meses por atraso em pagamento",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-terceiro-transfer-ban-em-dois-meses-por-atraso-em-pagamento]]>",
-      "time": "18/07 · 13:25",
-      "pubDate": "Sat, 18 Jul 2026 10:25:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz faz teste inédito com Raniele nos treinos e prepara mudanças no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-faz-teste-inedito-com-raniele-nos-treinos-e-prepara-mudancas-no-corinthians]]>",
-      "time": "18/07 · 12:33",
-      "pubDate": "Sat, 18 Jul 2026 09:33:20 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir à decisão entre Corinthians e Ferroviária pela Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536042/saiba-onde-assistir-a-decisao-entre-corinthians-e-ferroviaria-pela-copa-do-brasil-feminina",
+      "pubDate": "Mon, 20 Jul 2026 09:30:00 -0300",
+      "date": "20/07 · 12:30"
+    },
     {
       "title": "Últimas do Corinthians: proposta à vista, goleada na base e volante sem lesão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536051/ultimas-do-corinthians-proposta-a-vista-goleada-na-base-e-volante-sem-lesao",
