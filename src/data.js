@@ -1,7 +1,63 @@
-// Gerado automaticamente em 21/07/2026, 10:10:37
+// Gerado automaticamente em 21/07/2026, 13:08:17
 const LIVE_DATA = {
-  "updatedAt": "2026-07-21T10:10:37.407Z",
+  "updatedAt": "2026-07-21T13:08:17.188Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians propõe quitar parcelas em conjunto para derrubar transfer ban da CNRD; Cuiabá rebate",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536087/corinthians-propoe-quitar-parcelas-em-conjunto-para-derrubar-transfer-ban-da-cnrd-cuiaba-rebate",
+      "time": "21/07 · 13:01",
+      "pubDate": "Tue, 21 Jul 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Internacional em busca de assumir a liderança do Brasileiro Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536090/corinthians-recebe-o-internacional-em-busca-de-assumir-a-lideranca-do-brasileiro-sub-17-saiba-tudo",
+      "time": "21/07 · 12:31",
+      "pubDate": "Tue, 21 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba quanto o Corinthians já pagou à Caixa em 2026 pelo refinanciamento da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/535841/saiba-quanto-o-corinthians-ja-pagou-a-caixa-em-2026-pelo-refinanciamento-da-neo-quimica-arena",
+      "time": "21/07 · 11:30",
+      "pubDate": "Tue, 21 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: data de retorno de Memphis, plano de pagamento e desistência gaúcha",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536113/ultimas-do-corinthians-data-de-retorno-de-memphis-plano-de-pagamento-e-desistencia-gaucha",
+      "time": "21/07 · 10:30",
+      "pubDate": "Tue, 21 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com contrato perto do fim, Memphis é aguardado pelo Corinthians; veja data de reapresentação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-contrato-perto-do-fim-memphis-e-aguardado-pelo-corinthians-veja-data-de-reapresentacao/",
+      "time": "21/07 · 10:00",
+      "pubDate": "Tue, 21 Jul 2026 10:00:54 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians ganha esperança por renovação de Memphis após reviravolta nas negociações",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ganha-esperanca-por-renovacao-de-memphis-apos-reviravolta-nas-negociacoes]]>",
+      "time": "21/07 · 01:41",
+      "pubDate": "Mon, 20 Jul 2026 22:41:40 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ferroviária vence o Corinthians e garante vaga nas quartas de final da Copa do Brasil Feminina",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ferroviaria-vence-o-corinthians-e-garante-vaga-nas-quartas-de-final-da-copa-do-brasil-feminina]]>",
+      "time": "21/07 · 01:32",
+      "pubDate": "Mon, 20 Jul 2026 22:32:11 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,6 +83,14 @@ const LIVE_DATA = {
       "pubDate": "Mon, 20 Jul 2026 22:23:00 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians perde da Ferroviária e está eliminado da Copa do Brasil feminina",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-da-ferroviaria-e-esta-eliminado-da-copa-do-brasil-feminina/",
+      "time": "21/07 · 01:08",
+      "pubDate": "Tue, 21 Jul 2026 01:08:04 +0000"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians perde para a Ferroviária e se despede da Copa do Brasil Feminina",
@@ -35,36 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 20 Jul 2026 22:04:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca goleada para assumir a liderança do Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536075/corinthians-busca-goleada-para-assumir-a-lideranca-do-paulista-de-futsal",
-      "time": "21/07 · 00:34",
-      "pubDate": "Mon, 20 Jul 2026 21:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca engatar sequência de vitórias que não acontece desde 2024 no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536057/corinthians-busca-engatar-sequencia-de-vitorias-que-nao-acontece-desde-2024-no-sub-17",
-      "time": "20/07 · 23:36",
-      "pubDate": "Mon, 20 Jul 2026 20:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quem você escalaria na vaga de Garro no duelo do Corinthians contra o Remo? Vote na enquete!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536073/quem-voce-escalaria-na-vaga-de-garro-no-duelo-do-corinthians-contra-o-remo-vote-na-enquete",
-      "time": "20/07 · 22:33",
-      "pubDate": "Mon, 20 Jul 2026 19:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians acerta direitos de imagem em atraso com elenco profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536098/corinthians-acerta-direitos-de-imagem-em-atraso-com-elenco-profissional",
-      "time": "20/07 · 22:07",
-      "pubDate": "Mon, 20 Jul 2026 19:07:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians Sub-14 estreia com vitória na IberCup 2026 e assume liderança do Grupo B",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sub-14-estreia-com-vitoria-na-ibercup-2026-e-assume-lideranca-do-grupo-b]]>",
+      "time": "20/07 · 22:48",
+      "pubDate": "Mon, 20 Jul 2026 19:48:23 -0300"
     },
     {
       "source": "Bolavip",
@@ -75,6 +115,30 @@ const LIVE_DATA = {
       "pubDate": "Mon, 20 Jul 2026 18:38:32 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians estabelece meta de arrecadação com vendas e mira reforços após fim de transfer bans",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-estabelece-meta-de-arrecadacao-com-vendas-e-mira-reforcos-apos-fim-de-transfer-bans/",
+      "time": "20/07 · 20:00",
+      "pubDate": "Mon, 20 Jul 2026 20:00:25 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz detalha preparação do Corinthians e projeta retorno aos jogos: &#8220;Ansioso para recomeçar&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-detalha-preparacao-do-corinthians-e-projeta-retorno-aos-jogos-ansioso-para-recomecar/",
+      "time": "20/07 · 18:55",
+      "pubDate": "Mon, 20 Jul 2026 18:55:19 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians na Arena nesta segunda-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-na-arena-nesta-segunda-feira/",
+      "time": "20/07 · 18:15",
+      "pubDate": "Mon, 20 Jul 2026 18:15:50 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians monta estratégia para remover transfer bans e quitar pendências com elenco",
@@ -83,12 +147,36 @@ const LIVE_DATA = {
       "pubDate": "Mon, 20 Jul 2026 14:05:17 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians inicia pagamento de salários atrasados e traça plano para derrubar transfer bans",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-inicia-pagamento-de-salarios-atrasados-e-traca-plano-para-derrubar-transfer-bans/",
+      "time": "20/07 · 17:01",
+      "pubDate": "Mon, 20 Jul 2026 17:01:24 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay recebe sondagens da Arábia Saudita e conversas dependem da definição no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-recebe-sondagens-da-arabia-saudita-e-conversas-dependem-da-definicao-no-corinthians]]>",
       "time": "20/07 · 16:43",
       "pubDate": "Mon, 20 Jul 2026 13:43:59 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians segue rotina de treinos de olho no Remo",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-segue-rotina-de-treinos-de-olho-no-remo/",
+      "time": "20/07 · 15:51",
+      "pubDate": "Mon, 20 Jul 2026 15:51:24 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se reapresenta com treino na Arena antes de enfrentar o Remo em retorno",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-com-treino-na-arena-antes-de-enfrentar-o-remo-em-retorno/",
+      "time": "20/07 · 15:07",
+      "pubDate": "Mon, 20 Jul 2026 15:07:40 +0000"
     },
     {
       "source": "Bolavip",
@@ -105,94 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/jesse-lingard-repete-gesto-inedito-e-reforca-aproximacao-com-o-futebol-feminino-do-corinthians]]>",
       "time": "19/07 · 23:47",
       "pubDate": "Sun, 19 Jul 2026 20:47:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ferroviária e Corinthians decidem vaga nas quartas da Copa do Brasil Feminina",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ferroviaria-e-corinthians-decidem-vaga-nas-quartas-da-copa-do-brasil-feminina]]>",
-      "time": "19/07 · 23:12",
-      "pubDate": "Sun, 19 Jul 2026 20:12:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kaio César avalia intertemporada do Corinthians e projeta retorno das competições com confiança",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-avalia-intertemporada-do-corinthians-e-projeta-retorno-das-competicoes-com-confianca]]>",
-      "time": "19/07 · 14:29",
-      "pubDate": "Sun, 19 Jul 2026 11:29:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Tchoca entra nos planos de Diniz para reforçar a defesa do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/tchoca-entra-nos-planos-de-diniz-para-reforcar-a-defesa-do-corinthians]]>",
-      "time": "19/07 · 11:59",
-      "pubDate": "Sun, 19 Jul 2026 08:59:03 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -228,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536051/ultimas-do-corinthians-proposta-a-vista-goleada-na-base-e-volante-sem-lesao",
       "pubDate": "Mon, 20 Jul 2026 07:30:00 -0300",
       "date": "20/07 · 10:30"
-    },
-    {
-      "title": "Corinthians repete feito que não acontecia há três anos com goleada sobre a Ponte Preta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536046/corinthians-repete-feito-que-nao-acontecia-ha-tres-anos-com-goleada-sobre-a-ponte-preta",
-      "pubDate": "Sun, 19 Jul 2026 22:30:00 -0300",
-      "date": "20/07 · 01:30"
     }
   ]
 };
