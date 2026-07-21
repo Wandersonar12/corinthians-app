@@ -1,7 +1,55 @@
-// Gerado automaticamente em 20/07/2026, 22:43:17
+// Gerado automaticamente em 21/07/2026, 10:10:37
 const LIVE_DATA = {
-  "updatedAt": "2026-07-20T22:43:17.783Z",
+  "updatedAt": "2026-07-21T10:10:37.407Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "William Batista elogia volante do Corinthians e destaca evolução ofensiva",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536040/william-batista-elogia-volante-do-corinthians-e-destaca-evolucao-ofensiva",
+      "time": "21/07 · 01:30",
+      "pubDate": "Mon, 20 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Patrocinadora apresenta proposta que pode ajudar na permanência de Memphis no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536107/patrocinadora-apresenta-proposta-que-pode-ajudar-na-permanencia-de-memphis-no-corinthians",
+      "time": "21/07 · 01:25",
+      "pubDate": "Mon, 20 Jul 2026 22:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians aponta falhas contra a Ferroviária e lamenta eliminação na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536111/meia-do-corinthians-aponta-falhas-contra-a-ferroviaria-e-lamenta-eliminacao-na-copa-do-brasil",
+      "time": "21/07 · 01:23",
+      "pubDate": "Mon, 20 Jul 2026 22:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde para a Ferroviária e se despede da Copa do Brasil Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536095/corinthians-perde-para-a-ferroviaria-e-se-despede-da-copa-do-brasil-feminina",
+      "time": "21/07 · 01:04",
+      "pubDate": "Mon, 20 Jul 2026 22:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca goleada para assumir a liderança do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536075/corinthians-busca-goleada-para-assumir-a-lideranca-do-paulista-de-futsal",
+      "time": "21/07 · 00:34",
+      "pubDate": "Mon, 20 Jul 2026 21:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca engatar sequência de vitórias que não acontece desde 2024 no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536057/corinthians-busca-engatar-sequencia-de-vitorias-que-nao-acontece-desde-2024-no-sub-17",
+      "time": "20/07 · 23:36",
+      "pubDate": "Mon, 20 Jul 2026 20:36:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -16,55 +64,15 @@ const LIVE_DATA = {
       "title": "Corinthians acerta direitos de imagem em atraso com elenco profissional",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536098/corinthians-acerta-direitos-de-imagem-em-atraso-com-elenco-profissional",
       "time": "20/07 · 22:07",
-      "pubDate": "Mon, 20 Jul 2026 19:07:54 -0300"
+      "pubDate": "Mon, 20 Jul 2026 19:07:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para decisão contra a Ferroviária pela Copa do Brasil Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536065/corinthians-esta-escalado-para-decisao-contra-a-ferroviaria-pela-copa-do-brasil-feminina",
-      "time": "20/07 · 22:01",
-      "pubDate": "Mon, 20 Jul 2026 19:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Promotor rebate vice do Corinthians e cita até Yuri Alberto em resposta à anulação de denúncia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536093/promotor-rebate-vice-do-corinthians-e-cita-ate-yuri-alberto-em-resposta-a-anulacao-de-denuncia",
-      "time": "20/07 · 21:28",
-      "pubDate": "Mon, 20 Jul 2026 18:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians destaca boa fase antes de duelo contra o Internacional pelo Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536092/meia-do-corinthians-destaca-boa-fase-antes-de-duelo-contra-o-internacional-pelo-brasileiro-sub-17",
-      "time": "20/07 · 21:04",
-      "pubDate": "Mon, 20 Jul 2026 18:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode chegar a 20 jogos de invencibilidade em estádio rival nesta segunda-feira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536048/corinthians-pode-chegar-a-20-jogos-de-invencibilidade-em-estadio-rival-nesta-segunda-feira",
-      "time": "20/07 · 20:34",
-      "pubDate": "Mon, 20 Jul 2026 17:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Internacional desiste de contratar Pedro Raul e não fará proposta ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536086/internacional-desiste-de-contratar-pedro-raul-e-nao-fara-proposta-ao-corinthians",
-      "time": "20/07 · 19:26",
-      "pubDate": "Mon, 20 Jul 2026 16:26:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians Steamrollers estreia com derrota diante do Vikings na Superliga de Futebol Americano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536083/corinthians-steamrollers-estreia-com-derrota-diante-do-vikings-na-superliga-de-futebol-americano",
-      "time": "20/07 · 19:03",
-      "pubDate": "Mon, 20 Jul 2026 16:03:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ana Vitória não tem fratura constatada e pode reforçar o Corinthians na Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ana-vitoria-nao-tem-fratura-constatada-e-pode-reforcar-o-corinthians-na-copa-do-brasil]]>",
+      "time": "20/07 · 21:38",
+      "pubDate": "Mon, 20 Jul 2026 18:38:32 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/tchoca-entra-nos-planos-de-diniz-para-reforcar-a-defesa-do-corinthians]]>",
       "time": "19/07 · 11:59",
       "pubDate": "Sun, 19 Jul 2026 08:59:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz esboça time titular do Corinthians diante do Remo, pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-esboca-time-titular-do-corinthians-diante-do-remo-pelo-brasileirao]]>",
-      "time": "19/07 · 01:15",
-      "pubDate": "Sat, 18 Jul 2026 22:15:59 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians busca goleada para assumir a liderança do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536075/corinthians-busca-goleada-para-assumir-a-lideranca-do-paulista-de-futsal",
+      "pubDate": "Mon, 20 Jul 2026 21:34:00 -0300",
+      "date": "21/07 · 00:34"
+    },
+    {
       "title": "Atacante do Corinthians se aproxima dos 20 gols no ano e amplia vantagem na artilharia do Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536043/atacante-se-aproxima-dos-20-gols-no-ano-e-amplia-vantagem-na-artilharia-do-sub-20",
       "pubDate": "Mon, 20 Jul 2026 13:32:00 -0300",
@@ -228,12 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536046/corinthians-repete-feito-que-nao-acontecia-ha-tres-anos-com-goleada-sobre-a-ponte-preta",
       "pubDate": "Sun, 19 Jul 2026 22:30:00 -0300",
       "date": "20/07 · 01:30"
-    },
-    {
-      "title": "Técnico do Corinthians valoriza goleada e projeta sequência no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536039/tecnico-do-corinthians-valoriza-goleada-e-projeta-sequencia-no-paulista-sub-20",
-      "pubDate": "Sun, 19 Jul 2026 18:34:00 -0300",
-      "date": "19/07 · 21:34"
     }
   ]
 };
