@@ -1,7 +1,31 @@
-// Gerado automaticamente em 22/07/2026, 10:10:01
+// Gerado automaticamente em 22/07/2026, 13:14:06
 const LIVE_DATA = {
-  "updatedAt": "2026-07-22T10:10:01.208Z",
+  "updatedAt": "2026-07-22T13:14:06.462Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia novo procedimento no gramado da Neo Química Arena após incômodo de jogadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536169/corinthians-inicia-novo-procedimento-no-gramado-da-neo-quimica-arena-apos-incomodo-de-jogadores",
+      "time": "22/07 · 12:29",
+      "pubDate": "Wed, 22 Jul 2026 09:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Lemense buscando estender boa fase no Paulista Feminino Sub-20; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536157/corinthians-recebe-o-lemense-buscando-estender-boa-fase-no-paulista-feminino-sub-20-saiba-mais",
+      "time": "22/07 · 11:30",
+      "pubDate": "Wed, 22 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novo transfer ban, parcelas da Arena e retorno de lateral",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536163/ultimas-do-corinthians-novo-transfer-ban-parcelas-da-arena-e-retorno-de-lateral",
+      "time": "22/07 · 10:30",
+      "pubDate": "Wed, 22 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -59,14 +83,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 21 Jul 2026 19:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians valoriza nova oportunidade em busca de título com a Seleção Sub-17 de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536149/goleiro-do-corinthians-valoriza-nova-oportunidade-em-busca-de-titulo-com-a-selecao-sub-17-de-futsal",
-      "time": "21/07 · 22:01",
-      "pubDate": "Tue, 21 Jul 2026 19:01:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Diniz comanda penúltimo treino do Corinthians visando o Remo",
@@ -91,28 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 21 Jul 2026 18:45:13 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca engatar maior sequência invicta no Wlamir Marques após oito meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536096/corinthians-busca-engatar-maior-sequencia-invicta-no-wlamir-marques-apos-oito-meses",
-      "time": "21/07 · 21:29",
-      "pubDate": "Tue, 21 Jul 2026 18:29:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Marcelo Paz confirma oferta do Corinthians para renovar com Memphis Depay: “Contrato bem diferente”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-confirma-oferta-do-corinthians-para-renovar-com-memphis-depay-contrato-bem-diferente]]>",
       "time": "21/07 · 20:39",
       "pubDate": "Tue, 21 Jul 2026 17:39:40 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a perder para a Ferroviária após quase três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536105/corinthians-volta-a-perder-para-a-ferroviaria-apos-quase-tres-anos",
-      "time": "21/07 · 20:30",
-      "pubDate": "Tue, 21 Jul 2026 17:30:00 -0300"
     },
     {
       "source": "Bolavip",
