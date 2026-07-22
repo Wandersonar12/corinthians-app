@@ -1,7 +1,79 @@
-// Gerado automaticamente em 22/07/2026, 13:14:06
+// Gerado automaticamente em 22/07/2026, 18:52:29
 const LIVE_DATA = {
-  "updatedAt": "2026-07-22T13:14:06.462Z",
+  "updatedAt": "2026-07-22T18:52:29.956Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Artilheiro do Corinthians avalia goleada no Brasileiro Sub-17 e cita referências no profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536175/artilheiro-do-corinthians-avalia-goleada-no-brasileiro-sub-17-e-cita-referencias-no-profissional",
+      "time": "22/07 · 18:33",
+      "pubDate": "Wed, 22 Jul 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Defesa de vice do Corinthians reforça pedido para afastar promotor do caso dos materiais da Nike",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536183/defesa-de-vice-do-corinthians-reforca-pedido-para-afastar-promotor-do-caso-dos-materiais-da-nike",
+      "time": "22/07 · 18:00",
+      "pubDate": "Wed, 22 Jul 2026 15:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians iguala temporada com maior número de derrotas desde a reativação do futebol feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536127/corinthians-iguala-temporada-com-maior-numero-de-derrotas-desde-a-reativacao-do-futebol-feminino",
+      "time": "22/07 · 17:01",
+      "pubDate": "Wed, 22 Jul 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra a Neo Química Arena em busca da décima vitória em casa na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536182/corinthians-reencontra-a-neo-quimica-arena-em-busca-da-decima-vitoria-em-casa-na-temporada",
+      "time": "22/07 · 16:04",
+      "pubDate": "Wed, 22 Jul 2026 13:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians transfere jogo do Brasileirão Feminino para o Canindé",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536181/corinthians-transfere-jogo-do-brasileirao-feminino-para-o-caninde",
+      "time": "22/07 · 15:00",
+      "pubDate": "Wed, 22 Jul 2026 12:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueira do Corinthians pede união do elenco para sequência da temporada após eliminação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536124/zagueira-do-corinthians-pede-uniao-do-elenco-para-sequencia-da-temporada-apos-eliminacao",
+      "time": "22/07 · 14:36",
+      "pubDate": "Wed, 22 Jul 2026 11:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia amplia vantagem nas artilharias do Brasileiro Sub-17 e do elenco do Corinthians após goleada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536153/meia-amplia-vantagem-nas-artilharias-do-brasileiro-sub-17-e-do-elenco-do-corinthians-apos-goleada",
+      "time": "22/07 · 13:33",
+      "pubDate": "Wed, 22 Jul 2026 10:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Wesley prioriza Corinthians e aguarda fim do transfer ban",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/wesley-prioriza-corinthians-e-aguarda-fim-do-transfer-ban]]>",
+      "time": "22/07 · 13:10",
+      "pubDate": "Wed, 22 Jul 2026 10:10:57 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay liga para presidente do Corinthians buscando renovação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-liga-para-presidente-do-corinthians-buscando-renovacao]]>",
+      "time": "22/07 · 12:50",
+      "pubDate": "Wed, 22 Jul 2026 09:50:10 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,20 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Jul 2026 09:29:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Lemense buscando estender boa fase no Paulista Feminino Sub-20; saiba mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536157/corinthians-recebe-o-lemense-buscando-estender-boa-fase-no-paulista-feminino-sub-20-saiba-mais",
-      "time": "22/07 · 11:30",
-      "pubDate": "Wed, 22 Jul 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: novo transfer ban, parcelas da Arena e retorno de lateral",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536163/ultimas-do-corinthians-novo-transfer-ban-parcelas-da-arena-e-retorno-de-lateral",
-      "time": "22/07 · 10:30",
-      "pubDate": "Wed, 22 Jul 2026 07:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recebe alerta do elenco sobre novo gramado da Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-alerta-do-elenco-sobre-novo-gramado-da-arena]]>",
+      "time": "22/07 · 12:13",
+      "pubDate": "Wed, 22 Jul 2026 09:13:42 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,52 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Jul 2026 09:00:30 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca sequência que não alcança desde 2025 no Sub-20 Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536136/corinthians-busca-sequencia-que-nao-alcanca-desde-2025-no-sub-20-feminino",
-      "time": "22/07 · 01:30",
-      "pubDate": "Tue, 21 Jul 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence a AABB e encosta na liderança do Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536158/corinthians-vence-a-aabb-e-encosta-na-lideranca-do-paulista-de-futsal",
-      "time": "22/07 · 00:43",
-      "pubDate": "Tue, 21 Jul 2026 21:43:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Derrota na Copa do Brasil encerra invencibilidade histórica do Corinthians na Arena Fonte Luminosa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536108/derrota-na-copa-do-brasil-encerra-invencibilidade-historica-do-corinthians-na-arena-fonte-luminosa",
-      "time": "22/07 · 00:29",
-      "pubDate": "Tue, 21 Jul 2026 21:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcida do Corinthians aponta marroquino como substituto ideal para Garro contra o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536122/torcida-do-corinthians-aponta-marroquino-como-substituto-ideal-para-garro-contra-o-remo",
-      "time": "21/07 · 23:31",
-      "pubDate": "Tue, 21 Jul 2026 20:31:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Executivo do Corinthians dá prazo para fim da novela Memphis e crê em &#8220;bom desfecho&#8221;",
       "url": "https://www.gazetaesportiva.com/times/corinthians/executivo-do-corinthians-da-prazo-para-fim-da-novela-memphis-e-cre-em-bom-desfecho/",
       "time": "21/07 · 23:29",
       "pubDate": "Tue, 21 Jul 2026 23:29:03 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Erika lamenta falta de eficiência do ataque do Corinthians em derrota para Ferroviária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536123/erika-lamenta-falta-de-eficiencia-do-ataque-do-corinthians-em-derrota-para-ferroviaria",
-      "time": "21/07 · 22:33",
-      "pubDate": "Tue, 21 Jul 2026 19:33:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -155,14 +179,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 21 Jul 2026 19:05:37 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz reinventa o Corinthians com testes táticos e novidades na escalação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-reinventa-o-corinthians-com-testes-taticos-e-novidades-na-escalacao]]>",
-      "time": "21/07 · 18:09",
-      "pubDate": "Tue, 21 Jul 2026 15:09:25 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Mirassol anuncia Gustavo Mosquito, ex-Corinthians, como reforço",
@@ -177,28 +193,24 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-treina-na-neo-quimica-arena-de-olho-no-remo/",
       "time": "21/07 · 16:27",
       "pubDate": "Tue, 21 Jul 2026 16:27:52 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians consulta Arthur, mas salário trava negociação nesta janela",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-consulta-arthur-mas-salario-trava-negociacao-nesta-janela]]>",
-      "time": "21/07 · 14:20",
-      "pubDate": "Tue, 21 Jul 2026 11:20:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta renegociar contrato com a Caixa para evitar bloqueio de receitas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-renegociar-contrato-com-a-caixa-para-evitar-bloqueio-de-receitas]]>",
-      "time": "21/07 · 12:08",
-      "pubDate": "Tue, 21 Jul 2026 09:08:46 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Artilheiro do Corinthians avalia goleada no Brasileiro Sub-17 e cita referências no profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536175/artilheiro-do-corinthians-avalia-goleada-no-brasileiro-sub-17-e-cita-referencias-no-profissional",
+      "pubDate": "Wed, 22 Jul 2026 15:33:00 -0300",
+      "date": "22/07 · 18:33"
+    },
+    {
+      "title": "Meia amplia vantagem nas artilharias do Brasileiro Sub-17 e do elenco do Corinthians após goleada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536153/meia-amplia-vantagem-nas-artilharias-do-brasileiro-sub-17-e-do-elenco-do-corinthians-apos-goleada",
+      "pubDate": "Wed, 22 Jul 2026 10:33:00 -0300",
+      "date": "22/07 · 13:33"
+    },
     {
       "title": "Goleiro do Corinthians valoriza nova oportunidade em busca de título com a Seleção Sub-17 de Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536149/goleiro-do-corinthians-valoriza-nova-oportunidade-em-busca-de-titulo-com-a-selecao-sub-17-de-futsal",
