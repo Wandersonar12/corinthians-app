@@ -1,7 +1,31 @@
-// Gerado automaticamente em 23/07/2026, 10:08:29
+// Gerado automaticamente em 23/07/2026, 13:17:14
 const LIVE_DATA = {
-  "updatedAt": "2026-07-23T10:08:29.283Z",
+  "updatedAt": "2026-07-23T13:17:14.968Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians Sub-17 destaca importância de identidade própria na formação de atletas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536179/tecnico-do-corinthians-sub-17-destaca-importancia-de-identidade-propria-na-formacao-de-atletas",
+      "time": "23/07 · 12:31",
+      "pubDate": "Thu, 23 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao confronto entre Corinthians e Remo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536204/saiba-onde-assistir-ao-confronto-entre-corinthians-e-remo-pelo-brasileirao",
+      "time": "23/07 · 11:31",
+      "pubDate": "Thu, 23 Jul 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: preparação encerrada, ajustes no gramado e cobrança de organizada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536212/ultimas-do-corinthians-preparacao-encerrada-ajustes-no-gramado-e-cobranca-de-organizada",
+      "time": "23/07 · 10:30",
+      "pubDate": "Thu, 23 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -19,9 +43,17 @@ const LIVE_DATA = {
       "pubDate": "Thu, 23 Jul 2026 00:01:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians pode não conseguir renovar com Memphis por causa do transfer ban e tem prazo curto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-nao-conseguir-renovar-com-memphis-por-causa-do-transfer-ban-e-tem-prazo-curto]]>",
+      "time": "23/07 · 02:33",
+      "pubDate": "Wed, 22 Jul 2026 23:33:35 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-volante do Corinthians comenta destino de camisa histórica e debate futuro da base",
+      "title": "Ex-volante do Corinthians diz que teve camisa roubada no Memorial do Parque São Jorge",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536180/ex-volante-do-corinthians-comenta-destino-de-camisa-historica-e-debate-futuro-da-base",
       "time": "23/07 · 01:31",
       "pubDate": "Wed, 22 Jul 2026 22:31:00 -0300"
@@ -43,36 +75,20 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Jul 2026 22:01:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Zakaria Labyad ganha força no Corinthians durante intertemporada e deve substituir Garro contra o Remo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-ganha-forca-no-corinthians-durante-intertemporada-e-deve-substituir-garro-contra-o-remo]]>",
+      "time": "23/07 · 00:58",
+      "pubDate": "Wed, 22 Jul 2026 21:58:34 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Técnico do Corinthians aponta mudança de mentalidade como chave para boa fase do Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536178/tecnico-do-corinthians-aponta-mudanca-de-mentalidade-como-chave-para-boa-fase-do-sub-17",
       "time": "23/07 · 00:33",
       "pubDate": "Wed, 22 Jul 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Entenda por que o Corinthians pode registrar um novo contrato de Memphis apesar dos transfer bans",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536197/entenda-por-que-o-corinthians-pode-registrar-um-novo-contrato-de-memphis-apesar-dos-transfer-bans",
-      "time": "23/07 · 00:02",
-      "pubDate": "Wed, 22 Jul 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Hugo Souza destaca saudades de jogar pelo Corinthians e projeta duelo contra o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536206/hugo-souza-destaca-saudades-de-jogar-pelo-corinthians-e-projeta-duelo-contra-o-remo",
-      "time": "22/07 · 23:34",
-      "pubDate": "Wed, 22 Jul 2026 20:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Festival de gols contra a AABB movimenta o ranking de artilheiros do futsal do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536161/festival-de-gols-contra-a-aabb-movimenta-o-ranking-de-artilheiros-do-futsal-do-corinthians-em-2026",
-      "time": "22/07 · 23:34",
-      "pubDate": "Wed, 22 Jul 2026 20:34:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -105,22 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-iguala-maior-jejum-e-chega-a-quatro-competicoes-seguidas-sem-conquistar-titulos]]>",
       "time": "22/07 · 22:31",
       "pubDate": "Wed, 22 Jul 2026 19:31:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Zakaria Labyad ganha força no Corinthians durante intertemporada e deve substituir Garro contra o Remo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-ganha-forca-no-corinthians-durante-intertemporada-e-deve-substituir-garro-contra-o-remo]]>",
-      "time": "22/07 · 22:20",
-      "pubDate": "Wed, 22 Jul 2026 19:20:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pode não conseguir renovar com Memphis por causa do transfer ban e tem prazo curto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-nao-conseguir-renovar-com-memphis-por-causa-do-transfer-ban-e-tem-prazo-curto]]>",
-      "time": "22/07 · 21:10",
-      "pubDate": "Wed, 22 Jul 2026 18:10:59 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir ao confronto entre Corinthians e Remo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536204/saiba-onde-assistir-ao-confronto-entre-corinthians-e-remo-pelo-brasileirao",
+      "pubDate": "Thu, 23 Jul 2026 08:31:00 -0300",
+      "date": "23/07 · 11:31"
+    },
     {
       "title": "Festival de gols contra a AABB movimenta o ranking de artilheiros do futsal do Corinthians em 2026",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536161/festival-de-gols-contra-a-aabb-movimenta-o-ranking-de-artilheiros-do-futsal-do-corinthians-em-2026",
