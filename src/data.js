@@ -1,30 +1,86 @@
-// Gerado automaticamente em 23/07/2026, 13:17:14
+// Gerado automaticamente em 23/07/2026, 18:55:08
 const LIVE_DATA = {
-  "updatedAt": "2026-07-23T13:17:14.968Z",
+  "updatedAt": "2026-07-23T18:55:08.129Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians Sub-17 destaca importância de identidade própria na formação de atletas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536179/tecnico-do-corinthians-sub-17-destaca-importancia-de-identidade-propria-na-formacao-de-atletas",
-      "time": "23/07 · 12:31",
-      "pubDate": "Thu, 23 Jul 2026 09:31:00 -0300"
+      "title": "Corinthians voltará a disputar torneio continental de basquete na próxima temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536232/corinthians-voltara-a-disputar-torneio-continental-de-basquete-na-proxima-temporada",
+      "time": "23/07 · 18:32",
+      "pubDate": "Thu, 23 Jul 2026 15:32:08 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao confronto entre Corinthians e Remo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536204/saiba-onde-assistir-ao-confronto-entre-corinthians-e-remo-pelo-brasileirao",
-      "time": "23/07 · 11:31",
-      "pubDate": "Thu, 23 Jul 2026 08:31:00 -0300"
+      "title": "Corinthians recusa proposta de clube argentino por Pedro Milans",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536231/corinthians-recusa-proposta-de-clube-argentino-por-pedro-milans",
+      "time": "23/07 · 18:21",
+      "pubDate": "Thu, 23 Jul 2026 15:21:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: preparação encerrada, ajustes no gramado e cobrança de organizada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536212/ultimas-do-corinthians-preparacao-encerrada-ajustes-no-gramado-e-cobranca-de-organizada",
-      "time": "23/07 · 10:30",
-      "pubDate": "Thu, 23 Jul 2026 07:30:00 -0300"
+      "title": "Corinthians inicia preparação para enfrentar o Vitória pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536230/corinthians-inicia-preparacao-para-enfrentar-o-vitoria-no-brasileirao-feminino",
+      "time": "23/07 · 17:59",
+      "pubDate": "Thu, 23 Jul 2026 14:59:49 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians depende de vitória contra o Remo para chegar ao G8 do Brasileirão; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536218/corinthians-depende-de-vitoria-contra-o-remo-para-chegar-ao-g8-do-brasileirao-veja-a-tabela",
+      "time": "23/07 · 17:35",
+      "pubDate": "Thu, 23 Jul 2026 14:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra o Remo na Neo Química Arena após três anos; relembre o último jogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536211/corinthians-reencontra-remo-na-neo-quimica-arena-apos-tres-anos-relembre-ultimo-jogo",
+      "time": "23/07 · 16:31",
+      "pubDate": "Thu, 23 Jul 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem quatro desfalques confirmados e seis pendurados para duelo diante do Remo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536221/corinthians-tem-quatro-desfalques-confirmados-e-seis-pendurados-para-duelo-diante-do-remo",
+      "time": "23/07 · 15:32",
+      "pubDate": "Thu, 23 Jul 2026 12:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Explosão em trem afeta linha que dá acesso à Neo Química Arena em dia de jogo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536228/explosao-em-trem-afeta-linha-que-da-acesso-a-neo-quimica-arena-em-dia-de-jogo-do-corinthians",
+      "time": "23/07 · 15:01",
+      "pubDate": "Thu, 23 Jul 2026 12:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians programa manutenção no gramado da Fazendinha após críticas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536184/corinthians-programa-manutencao-no-gramado-da-fazendinha-apos-criticas",
+      "time": "23/07 · 14:22",
+      "pubDate": "Thu, 23 Jul 2026 11:22:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aceita vender André por R$ 126 milhões e define preço de Breno Bidon para a Europa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-andre-por-r-126-milhoes-e-define-preco-de-breno-bidon-para-a-europa]]>",
+      "time": "23/07 · 13:04",
+      "pubDate": "Thu, 23 Jul 2026 10:04:11 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians defende tabu em casa contra o Remo e pode igualar retrospecto do confronto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-defende-tabu-em-casa-contra-o-remo-e-pode-igualar-retrospecto-do-confronto]]>",
+      "time": "23/07 · 12:27",
+      "pubDate": "Thu, 23 Jul 2026 09:27:22 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,14 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 23 Jul 2026 10:00:18 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Remo em retorno do Brasileirão após pausa da Copa do Mundo; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536194/corinthians-recebe-o-remo-em-retorno-do-brasileirao-apos-pausa-da-copa-do-mundo-saiba-tudo",
-      "time": "23/07 · 03:01",
-      "pubDate": "Thu, 23 Jul 2026 00:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians pode não conseguir renovar com Memphis por causa do transfer ban e tem prazo curto",
@@ -51,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Jul 2026 23:33:35 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-volante do Corinthians diz que teve camisa roubada no Memorial do Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536180/ex-volante-do-corinthians-comenta-destino-de-camisa-historica-e-debate-futuro-da-base",
-      "time": "23/07 · 01:31",
-      "pubDate": "Wed, 22 Jul 2026 22:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe contraproposta de Memphis; um dos termos não é bem recebido",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536210/corinthians-recebe-contraproposta-de-memphis-um-dos-termos-nao-e-bem-recebido",
-      "time": "23/07 · 01:04",
-      "pubDate": "Wed, 22 Jul 2026 22:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala-armador do Corinthians comemora título da Copa São Paulo e projeta temporada na LDB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536187/ala-armador-do-corinthians-comemora-titulo-da-copa-sao-paulo-e-projeta-temporada-na-ldb",
-      "time": "23/07 · 01:01",
-      "pubDate": "Wed, 22 Jul 2026 22:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Zakaria Labyad ganha força no Corinthians durante intertemporada e deve substituir Garro contra o Remo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-ganha-forca-no-corinthians-durante-intertemporada-e-deve-substituir-garro-contra-o-remo]]>",
       "time": "23/07 · 00:58",
       "pubDate": "Wed, 22 Jul 2026 21:58:34 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians aponta mudança de mentalidade como chave para boa fase do Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536178/tecnico-do-corinthians-aponta-mudanca-de-mentalidade-como-chave-para-boa-fase-do-sub-17",
-      "time": "23/07 · 00:33",
-      "pubDate": "Wed, 22 Jul 2026 21:33:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -163,22 +179,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 22 Jul 2026 10:10:57 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay liga para presidente do Corinthians buscando renovação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-liga-para-presidente-do-corinthians-buscando-renovacao]]>",
-      "time": "22/07 · 12:50",
-      "pubDate": "Wed, 22 Jul 2026 09:50:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians recebe alerta do elenco sobre novo gramado da Arena",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-alerta-do-elenco-sobre-novo-gramado-da-arena]]>",
-      "time": "22/07 · 12:13",
-      "pubDate": "Wed, 22 Jul 2026 09:13:42 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Diretoria do Corinthians elenca prioridades em meio à crise financeira",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Corinthians pega o Remo pelo Brasileirão | veja a provável escalação do Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128656/corinthians-pega-o-remo-pelo-brasileirao-veja-a-provavel-escalacao-do-timao",
+      "pubDate": "Thu, 23 Jul 2026 08:41:36 -0300",
+      "date": "23/07 · 11:41"
+    },
     {
       "title": "Saiba onde assistir ao confronto entre Corinthians e Remo pelo Brasileirão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536204/saiba-onde-assistir-ao-confronto-entre-corinthians-e-remo-pelo-brasileirao",
@@ -228,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536177/goleiro-do-corinthians-celebra-atuacao-em-vitoria-e-revela-sonho-de-chegar-ao-time-profissional",
       "pubDate": "Wed, 22 Jul 2026 17:32:00 -0300",
       "date": "22/07 · 20:32"
-    },
-    {
-      "title": "Artilheiro do Corinthians avalia goleada no Brasileiro Sub-17 e cita referências no profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536175/artilheiro-do-corinthians-avalia-goleada-no-brasileiro-sub-17-e-cita-referencias-no-profissional",
-      "pubDate": "Wed, 22 Jul 2026 15:33:00 -0300",
-      "date": "22/07 · 18:33"
-    },
-    {
-      "title": "Meia amplia vantagem nas artilharias do Brasileiro Sub-17 e do elenco do Corinthians após goleada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536153/meia-amplia-vantagem-nas-artilharias-do-brasileiro-sub-17-e-do-elenco-do-corinthians-apos-goleada",
-      "pubDate": "Wed, 22 Jul 2026 10:33:00 -0300",
-      "date": "22/07 · 13:33"
     }
   ]
 };
