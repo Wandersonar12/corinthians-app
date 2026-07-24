@@ -1,78 +1,78 @@
-// Gerado automaticamente em 23/07/2026, 22:43:39
+// Gerado automaticamente em 24/07/2026, 10:03:16
 const LIVE_DATA = {
-  "updatedAt": "2026-07-23T22:43:39.337Z",
+  "updatedAt": "2026-07-24T10:03:16.386Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Marcelo Paz projeta data para definir permanência ou não de Memphis Depay no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536249/marcelo-paz-projeta-data-para-definir-permanencia-ou-nao-de-memphis-depay-no-corinthians",
-      "time": "23/07 · 22:14",
-      "pubDate": "Thu, 23 Jul 2026 19:14:58 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz define Corinthians para jogo contra o Remo; veja escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-define-corinthians-para-jogo-contra-o-remo-veja-escalacoes/",
-      "time": "23/07 · 21:34",
-      "pubDate": "Thu, 23 Jul 2026 21:34:16 +0000"
+      "title": "VÍDEO: Substituto de Memphis, conexão com Diniz e golaço: Zona Mista de Kaio César em Corinthians 3x0 Remo",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128695/substituto-de-memphis-conexao-com-diniz-e-golaco-zona-mista-de-kaio-cesar-em-corinthians-3x0-remo",
+      "time": "24/07 · 03:01",
+      "pubDate": "Fri, 24 Jul 2026 00:01:55 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Remo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536226/corinthians-esta-escalado-para-enfrentar-o-remo-pelo-brasileirao",
-      "time": "23/07 · 21:30",
-      "pubDate": "Thu, 23 Jul 2026 18:30:00 -0300"
+      "title": "Diniz admite necessidade de venda no Corinthians e deseja evitar saída de Bidon e André Luiz juntos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536285/diniz-admite-necessidade-de-venda-no-corinthians-e-deseja-evitar-saida-de-bidon-e-andre-luiz-juntos",
+      "time": "24/07 · 02:47",
+      "pubDate": "Thu, 23 Jul 2026 23:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Bom momento no Brasileirão e mercado movimentado: como chega o Remo para o jogo contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536224/bom-momento-no-brasileirao-e-mercado-movimentado-como-chega-o-remo-para-o-jogo-contra-o-corinthians",
-      "time": "23/07 · 20:31",
-      "pubDate": "Thu, 23 Jul 2026 17:31:00 -0300"
+      "title": "Técnico do Corinthians avalia vitória sobre o Remo e comenta condições do gramado da Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536286/tecnico-do-corinthians-avalia-vitoria-sobre-o-remo-e-comenta-condicoes-do-gramado-da-arena",
+      "time": "24/07 · 02:37",
+      "pubDate": "Thu, 23 Jul 2026 23:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "SAFiel confirma contato com presidente do Corinthians e dá novo prazo para resposta de proposta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536240/safiel-confirma-contato-com-presidente-do-corinthians-e-da-novo-prazo-para-resposta-de-proposta",
-      "time": "23/07 · 20:09",
-      "pubDate": "Thu, 23 Jul 2026 17:09:00 -0300"
+      "title": "Atacantes dividem prêmio de craque do Corinthians em vitória sobre o Remo; veja as notas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536284/atacantes-dividem-premio-de-craque-do-corinthians-em-vitoria-sobre-o-remo-veja-as-notas",
+      "time": "24/07 · 02:12",
+      "pubDate": "Thu, 23 Jul 2026 23:12:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode fechar primeiro turno do Brasileirão com terceira melhor campanha da década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536207/corinthians-pode-fechar-primeiro-turno-do-brasileirao-com-terceira-melhor-campanha-da-decada",
-      "time": "23/07 · 20:01",
-      "pubDate": "Thu, 23 Jul 2026 17:01:00 -0300"
+      "title": "Fernando Diniz atinge marca de dez vitórias pelo Corinthians; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536283/fernando-diniz-atinge-marca-de-dez-vitorias-pelo-corinthians-veja-os-numeros",
+      "time": "24/07 · 01:51",
+      "pubDate": "Thu, 23 Jul 2026 22:51:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians defende invencibilidade como mandante em duelos contra o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536222/corinthians-defende-invencibilidade-como-mandante-em-duelos-contra-o-remo",
-      "time": "23/07 · 19:32",
-      "pubDate": "Thu, 23 Jul 2026 16:32:00 -0300"
+      "title": "Corinthians volta a terminar um jogo sem ser vazado após quase dois meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536259/corinthians-volta-a-terminar-um-jogo-sem-ser-vazado-apos-quase-dois-meses",
+      "time": "24/07 · 01:43",
+      "pubDate": "Thu, 23 Jul 2026 22:43:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians detalha venda de ingressos para partida contra o Vitória pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536235/corinthians-detalha-venda-de-ingressos-para-partida-contra-o-vitoria-pelo-brasileirao-feminino",
-      "time": "23/07 · 19:00",
-      "pubDate": "Thu, 23 Jul 2026 16:00:00 -0300"
+      "title": "Corinthians repete sequência de três vitórias no Brasileirão pela primeira vez desde 2025",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536265/corinthians-repete-sequencia-de-tres-vitorias-no-brasileirao-pela-primeira-vez-desde-2025",
+      "time": "24/07 · 01:23",
+      "pubDate": "Thu, 23 Jul 2026 22:23:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians voltará a disputar torneio continental de basquete na próxima temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536232/corinthians-voltara-a-disputar-torneio-continental-de-basquete-na-proxima-temporada",
-      "time": "23/07 · 18:32",
-      "pubDate": "Thu, 23 Jul 2026 15:32:00 -0300"
+      "title": "Corinthians registra melhor público da rodada em vitória sobre o Remo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536273/corinthians-registra-melhor-publico-da-rodada-em-vitoria-sobre-o-remo",
+      "time": "24/07 · 01:13",
+      "pubDate": "Thu, 23 Jul 2026 22:13:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida do Corinthians perdeu a paciência com Yuri Alberto, diz jornalista: “Não aguenta mais”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-perdeu-a-paciencia-com-yuri-alberto-diz-jornalista-nao-aguenta-mais]]>",
+      "time": "23/07 · 20:49",
+      "pubDate": "Thu, 23 Jul 2026 17:49:52 -0300"
     },
     {
       "source": "Bolavip",
@@ -131,68 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Thu, 23 Jul 2026 10:04:11 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians defende tabu em casa contra o Remo e pode igualar retrospecto do confronto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-defende-tabu-em-casa-contra-o-remo-e-pode-igualar-retrospecto-do-confronto]]>",
-      "time": "23/07 · 12:27",
-      "pubDate": "Thu, 23 Jul 2026 09:27:22 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Como mandante, Corinthians nunca perdeu para o Remo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/como-mandante-corinthians-nunca-perdeu-para-o-remo/",
-      "time": "23/07 · 10:00",
-      "pubDate": "Thu, 23 Jul 2026 10:00:18 +0000"
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians fecha preparação para enfrentar o Remo; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-fecha-preparacao-para-enfrentar-o-remo-veja-provavel-escalacao/",
-      "time": "22/07 · 23:30",
-      "pubDate": "Wed, 22 Jul 2026 23:30:03 +0000"
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians x Remo pelo Campeonato Brasileiro: veja prováveis escalações e onde assistir",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-remo-pelo-campeonato-brasileiro-veja-provaveis-escalacoes-e-onde-assistir/",
-      "time": "22/07 · 23:00",
-      "pubDate": "Wed, 22 Jul 2026 23:00:13 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Organizada do Corinthians cobra explicações de Osmar Stabile sobre SAF e transfer bans",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/organizada-do-corinthians-cobra-explicacoes-de-osmar-stabile-sobre-saf-e-transfer-bans/",
-      "time": "22/07 · 22:32",
-      "pubDate": "Wed, 22 Jul 2026 22:32:52 +0000"
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians x Remo: veja onde assistir ao jogo pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-remo-veja-onde-assistir-ao-jogo-pelo-brasileirao/",
-      "time": "22/07 · 20:21",
-      "pubDate": "Wed, 22 Jul 2026 20:21:02 +0000"
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians se reapresenta na Neo Química Arena e inicia reta final de treinos para pegar o Remo",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-se-reapresenta-na-neo-quimica-arena-e-inicia-reta-final-de-treinos-para-pegar-o-remo/",
-      "time": "22/07 · 20:00",
-      "pubDate": "Wed, 22 Jul 2026 20:00:42 +0000"
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Diretoria do Corinthians elenca prioridades em meio à crise financeira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretoria-do-corinthians-elenca-prioridades-em-meio-a-crise-financeira/",
-      "time": "22/07 · 09:00",
-      "pubDate": "Wed, 22 Jul 2026 09:00:30 +0000"
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,34 +200,40 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Novo gramado, possíveis saídas e transfer ban: Entrevista coletiva de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128696/novo-gramado-possiveis-saidas-e-transfer-ban-entrevista-coletiva-de-fernando-diniz",
+      "pubDate": "Fri, 24 Jul 2026 00:03:37 -0300",
+      "date": "24/07 · 03:03"
+    },
+    {
+      "title": "VÍDEO: Substituto de Memphis, conexão com Diniz e golaço: Zona Mista de Kaio César em Corinthians 3x0 Remo",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128695/substituto-de-memphis-conexao-com-diniz-e-golaco-zona-mista-de-kaio-cesar-em-corinthians-3x0-remo",
+      "pubDate": "Fri, 24 Jul 2026 00:01:55 -0300",
+      "date": "24/07 · 03:01"
+    },
+    {
+      "title": "VÍDEO: Novo gramado, diferenças de Diniz e Dorival e Fiel torcida: Zona Mista de Allan",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128688/novo-gramado-diferencas-de-diniz-e-dorival-e-fiel-torcida-zona-mista-de-allan",
+      "pubDate": "Thu, 23 Jul 2026 23:19:00 -0300",
+      "date": "24/07 · 02:19"
+    },
+    {
+      "title": "VÍDEO: Melhores Momentos: Corinthians 3X0 Remo| 19ª Rodada| Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128675/melhores-momentos-corinthians-3x0-remo-19-rodada-brasileirao-2026",
+      "pubDate": "Thu, 23 Jul 2026 21:42:00 -0300",
+      "date": "24/07 · 00:42"
+    },
+    {
+      "title": "Goleada em casa e declarações para atacante: Fiel repercute vitória contra o Remo no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536256/goleada-em-casa-e-declaracoes-para-atacante-fiel-repercute-vitoria-contra-o-remo-no-brasileirao",
+      "pubDate": "Thu, 23 Jul 2026 21:30:00 -0300",
+      "date": "24/07 · 00:30"
+    },
+    {
       "title": "Bom momento no Brasileirão e mercado movimentado: como chega o Remo para o jogo contra o Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536224/bom-momento-no-brasileirao-e-mercado-movimentado-como-chega-o-remo-para-o-jogo-contra-o-corinthians",
       "pubDate": "Thu, 23 Jul 2026 17:31:00 -0300",
       "date": "23/07 · 20:31"
-    },
-    {
-      "title": "VÍDEO: Corinthians pega o Remo pelo Brasileirão | veja a provável escalação do Timão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128656/corinthians-pega-o-remo-pelo-brasileirao-veja-a-provavel-escalacao-do-timao",
-      "pubDate": "Thu, 23 Jul 2026 08:41:36 -0300",
-      "date": "23/07 · 11:41"
-    },
-    {
-      "title": "Saiba onde assistir ao confronto entre Corinthians e Remo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536204/saiba-onde-assistir-ao-confronto-entre-corinthians-e-remo-pelo-brasileirao",
-      "pubDate": "Thu, 23 Jul 2026 08:31:00 -0300",
-      "date": "23/07 · 11:31"
-    },
-    {
-      "title": "Festival de gols contra a AABB movimenta o ranking de artilheiros do futsal do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536161/festival-de-gols-contra-a-aabb-movimenta-o-ranking-de-artilheiros-do-futsal-do-corinthians-em-2026",
-      "pubDate": "Wed, 22 Jul 2026 20:34:00 -0300",
-      "date": "22/07 · 23:34"
-    },
-    {
-      "title": "VÍDEO: Raniele e Garro como desfalques? Confira a provável escalação do Corinthians para enfrentar o Remo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128652/raniele-e-garro-como-desfalques-confira-a-provavel-escalacao-do-corinthians-para-enfrentar-o-remo",
-      "pubDate": "Wed, 22 Jul 2026 20:06:20 -0300",
-      "date": "22/07 · 23:06"
     }
   ]
 };
