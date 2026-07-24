@@ -1,7 +1,71 @@
-// Gerado automaticamente em 24/07/2026, 10:03:16
+// Gerado automaticamente em 24/07/2026, 13:10:20
 const LIVE_DATA = {
-  "updatedAt": "2026-07-24T10:03:16.386Z",
+  "updatedAt": "2026-07-24T13:10:20.387Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz fala sobre Memphis no Corinthians: &#8220;Seria muito bom contar com ele&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-fala-sobre-memphis-no-corinthians-seria-muito-bom-contar-com-ele/",
+      "time": "24/07 · 12:47",
+      "pubDate": "Fri, 24 Jul 2026 12:47:02 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogador da seleção de Portugal usa instalações do Corinthians para treinos durante férias no Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536314/jogador-da-selecao-de-portugal-usa-instalacoes-do-corinthians-para-treinos-durante-ferias-no-brasil",
+      "time": "24/07 · 12:34",
+      "pubDate": "Fri, 24 Jul 2026 09:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o UDA pelas oitavas de final do Campeonato Brasileiro Feminino Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536239/corinthians-visita-o-uda-pelas-oitavas-de-final-do-campeonato-brasileiro-feminino-sub-17",
+      "time": "24/07 · 11:30",
+      "pubDate": "Fri, 24 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: vitória no Brasileirão, oferta recusada por lateral e ultimato da SAFiel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536298/ultimas-do-corinthians-vitoria-no-brasileirao-oferta-recusada-por-lateral-e-ultimato-da-safiel",
+      "time": "24/07 · 10:30",
+      "pubDate": "Fri, 24 Jul 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: vitória do Corinthians tem assinatura de Diniz e tempos distintos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-vitoria-do-corinthians-tem-assinatura-de-diniz-e-tempos-distintos/",
+      "time": "24/07 · 10:00",
+      "pubDate": "Fri, 24 Jul 2026 10:00:40 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Entenda como Diniz usou a Copa do Mundo para aprimorar o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-como-diniz-usou-a-copa-do-mundo-para-aprimorar-o-corinthians/",
+      "time": "24/07 · 09:00",
+      "pubDate": "Fri, 24 Jul 2026 09:00:50 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações do Corinthians: dupla de ataque brilha em vitória contra o Remo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-dupla-de-ataque-brilha-em-vitoria-contra-o-remo/",
+      "time": "24/07 · 08:00",
+      "pubDate": "Fri, 24 Jul 2026 08:00:04 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz liga sinal de alerta apesar da goleada do Corinthians diante do Remo: “Baixamos a intensidade”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-liga-sinal-de-alerta-apesar-da-goleada-do-corinthians-diante-do-remo-baixamos-a-intensidade]]>",
+      "time": "24/07 · 05:11",
+      "pubDate": "Fri, 24 Jul 2026 02:11:28 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,12 +91,44 @@ const LIVE_DATA = {
       "pubDate": "Thu, 23 Jul 2026 23:37:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz admite saída no Corinthians, mas garante venda de apenas um titular nesta janela",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-admite-saida-no-corinthians-mas-garante-venda-de-apenas-um-titular-nesta-janela]]>",
+      "time": "24/07 · 02:26",
+      "pubDate": "Thu, 23 Jul 2026 23:26:26 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz admite necessidade de vendas no Corinthians e torce por renovação de Memphis",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-admite-necessidade-de-vendas-no-corinthians-e-torce-por-renovacao-de-memphis/",
+      "time": "24/07 · 02:15",
+      "pubDate": "Fri, 24 Jul 2026 02:15:43 +0000"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Atacantes dividem prêmio de craque do Corinthians em vitória sobre o Remo; veja as notas",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536284/atacantes-dividem-premio-de-craque-do-corinthians-em-vitoria-sobre-o-remo-veja-as-notas",
       "time": "24/07 · 02:12",
       "pubDate": "Thu, 23 Jul 2026 23:12:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Labyad tem grande atuação em vitória do Corinthians sobre Remo e é ovacionado pela Fiel",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/labyad-tem-grande-atuacao-em-vitoria-do-corinthians-sobre-remo-e-e-ovacionado-pela-fiel]]>",
+      "time": "24/07 · 02:01",
+      "pubDate": "Thu, 23 Jul 2026 23:01:33 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do jogo entre Corinthians e Remo pela 19ª rodada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-galeria-de-fotos-do-jogo-entre-corinthians-e-remo-pela-19a-rodada-do-brasileirao/",
+      "time": "24/07 · 02:00",
+      "pubDate": "Fri, 24 Jul 2026 02:00:42 +0000"
     },
     {
       "source": "Meu Timao",
@@ -43,28 +139,44 @@ const LIVE_DATA = {
       "pubDate": "Thu, 23 Jul 2026 22:51:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a terminar um jogo sem ser vazado após quase dois meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536259/corinthians-volta-a-terminar-um-jogo-sem-ser-vazado-apos-quase-dois-meses",
-      "time": "24/07 · 01:43",
-      "pubDate": "Thu, 23 Jul 2026 22:43:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Kaio César celebra fase artilheira e já se vê adaptado ao Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-celebra-fase-artilheira-e-ja-se-ve-adaptado-ao-corinthians/",
+      "time": "24/07 · 00:41",
+      "pubDate": "Fri, 24 Jul 2026 00:41:02 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians repete sequência de três vitórias no Brasileirão pela primeira vez desde 2025",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536265/corinthians-repete-sequencia-de-tres-vitorias-no-brasileirao-pela-primeira-vez-desde-2025",
-      "time": "24/07 · 01:23",
-      "pubDate": "Thu, 23 Jul 2026 22:23:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz impõe DNA ofensivo e Corinthians vence mais uma no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-impoe-dna-ofensivo-e-corinthians-vence-mais-uma-no-brasileirao]]>",
+      "time": "24/07 · 00:33",
+      "pubDate": "Thu, 23 Jul 2026 21:33:49 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra melhor público da rodada em vitória sobre o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536273/corinthians-registra-melhor-publico-da-rodada-em-vitoria-sobre-o-remo",
-      "time": "24/07 · 01:13",
-      "pubDate": "Thu, 23 Jul 2026 22:13:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Zakaria Labyad chama a atenção em noite inspirada do Corinthians e aproveita chance contra o Remo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-chama-a-atencao-em-noite-inspirada-do-corinthians-e-aproveita-chance-contra-o-remo]]>",
+      "time": "24/07 · 00:28",
+      "pubDate": "Thu, 23 Jul 2026 21:28:01 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Remo com dois de Yuri Alberto e se aproxima do G5 do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-remo-com-dois-de-yuri-alberto-e-se-aproxima-do-g5-do-brasileiro/",
+      "time": "24/07 · 00:26",
+      "pubDate": "Fri, 24 Jul 2026 00:26:46 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto abre o placar para o Corinthians e marca de perna esquerda contra o Remo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-abre-o-placar-para-o-corinthians-e-marca-de-perna-esquerda-contra-remo]]>",
+      "time": "23/07 · 23:20",
+      "pubDate": "Thu, 23 Jul 2026 20:20:27 -0300"
     },
     {
       "source": "Bolavip",
@@ -81,118 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-pressao-alta-intensidade-corinthians-remo]]>",
       "time": "23/07 · 17:57",
       "pubDate": "Thu, 23 Jul 2026 14:57:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz tem 5 desfalques e prováveis escalações são reveladas antes de Corinthians x Remo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-tem-5-desfalques-e-provaveis-escalacoes-sao-reveladas-antes-de-corinthians-x-remo]]>",
-      "time": "23/07 · 17:45",
-      "pubDate": "Thu, 23 Jul 2026 14:45:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians e Remo reeditam duelo marcado por decisão nos pênaltis pela Copa do Brasil de 2023",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-remo-reeditam-duelo-marcado-por-decisao-nos-penaltis-pela-copa-do-brasil-de-2023]]>",
-      "time": "23/07 · 17:30",
-      "pubDate": "Thu, 23 Jul 2026 14:30:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay articula estratégia nos bastidores para selar renovação com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-articula-estrategia-nos-bastidores-para-selar-renovacao-com-o-corinthians]]>",
-      "time": "23/07 · 16:22",
-      "pubDate": "Thu, 23 Jul 2026 13:22:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lucas Casagrande volta a apitar o Corinthians após quase um ano",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lucas-casagrande-volta-a-apitar-o-corinthians-apos-quase-um-ano]]>",
-      "time": "23/07 · 15:03",
-      "pubDate": "Thu, 23 Jul 2026 12:03:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza alerta Corinthians e projeta duelo contra o Remo: “Sabemos os pontos fortes deles”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-alerta-corinthians-e-projeta-duelo-contra-o-remo-sabemos-os-pontos-fortes-deles]]>",
-      "time": "23/07 · 14:53",
-      "pubDate": "Thu, 23 Jul 2026 11:53:32 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aceita vender André por R$ 126 milhões e define preço de Breno Bidon para a Europa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aceita-vender-andre-por-r-126-milhoes-e-define-preco-de-breno-bidon-para-a-europa]]>",
-      "time": "23/07 · 13:04",
-      "pubDate": "Thu, 23 Jul 2026 10:04:11 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
