@@ -1,46 +1,102 @@
-// Gerado automaticamente em 26/07/2026, 12:50:25
+// Gerado automaticamente em 26/07/2026, 18:49:54
 const LIVE_DATA = {
-  "updatedAt": "2026-07-26T12:50:25.432Z",
+  "updatedAt": "2026-07-26T18:49:54.071Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians assume vice-artilharia do Sub-20 na temporada após gols contra Itapirense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536421/volante-do-corinthians-assume-vice-artilharia-do-sub-20-na-temporada-apos-gols-contra-itapirense",
-      "time": "26/07 · 12:32",
-      "pubDate": "Sun, 26 Jul 2026 09:32:00 -0300"
+      "title": "Corinthians confirma lesões de lateral titular e volante antes de encarar o Bahia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536453/corinthians-confirma-lesoes-de-lateral-titular-e-volante-antes-de-encarar-o-bahia",
+      "time": "26/07 · 18:08",
+      "pubDate": "Sun, 26 Jul 2026 15:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao confronto entre Corinthians e Bahia pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536407/saiba-onde-assistir-ao-confronto-entre-corinthians-e-bahia-pelo-brasileirao",
-      "time": "26/07 · 11:30",
-      "pubDate": "Sun, 26 Jul 2026 08:30:00 -0300"
+      "title": "Corinthians está escalado para enfrentar o Bahia pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536441/corinthians-esta-escalado-para-enfrentar-o-bahia-pelo-brasileirao",
+      "time": "26/07 · 18:00",
+      "pubDate": "Sun, 26 Jul 2026 15:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Vitória pelo Campeonato Brasileiro Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536404/saiba-onde-assistir-a-partida-entre-corinthians-e-vitoria-pelo-campeonato-brasileiro-feminino",
-      "time": "26/07 · 11:00",
-      "pubDate": "Sun, 26 Jul 2026 08:00:00 -0300"
+      "title": "Bom momento recente e janela movimentada: veja como chega o Bahia para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536442/bom-momento-recente-e-janela-movimentada-veja-como-chega-o-bahia-para-enfrentar-o-corinthians",
+      "time": "26/07 · 17:00",
+      "pubDate": "Sun, 26 Jul 2026 14:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: provável escalação, venda de zagueiro e futuro de Breno Bidon",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536422/ultimas-do-corinthians-provavel-escalacao-venda-de-zagueiro-e-futuro-de-breno-bidon",
-      "time": "26/07 · 10:30",
-      "pubDate": "Sun, 26 Jul 2026 07:30:00 -0300"
+      "title": "Vic Albuquerque cobra evolução do Corinthians e fala sobre renovação: 'Tudo para pensar no sim'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536451/vic-albuquerque-cobra-evolucao-do-corinthians-e-fala-sobre-renovacao-tudo-para-pensar-no-sim",
+      "time": "26/07 · 16:38",
+      "pubDate": "Sun, 26 Jul 2026 13:38:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians busca ampliar série invicta contra o Bahia como visitante por G5 do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-busca-ampliar-serie-invicta-contra-o-bahia-como-visitante-por-g5-do-brasileirao/",
-      "time": "26/07 · 10:00",
-      "pubDate": "Sun, 26 Jul 2026 10:00:59 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem histórico recente favorável em duelos na Arena Fonte Nova; confira o retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536408/corinthians-tem-historico-recente-favoravel-em-duelos-na-arena-fonte-nova-confira-o-retrospecto",
+      "time": "26/07 · 16:31",
+      "pubDate": "Sun, 26 Jul 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode chegar ao G5 em caso de vitória sobre o Bahia no Brasileirão; veja tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536439/corinthians-pode-chegar-ao-g5-em-caso-de-vitoria-sobre-o-bahia-no-brasileirao-veja-tabela",
+      "time": "26/07 · 16:03",
+      "pubDate": "Sun, 26 Jul 2026 13:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians goleia o Vitória e reassume a liderança do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536445/corinthians-goleia-o-vitoria-e-reassume-a-lideranca-do-brasileirao",
+      "time": "26/07 · 16:00",
+      "pubDate": "Sun, 26 Jul 2026 13:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians defende retrospecto favorável contra o Bahia para seguir na briga pelo G5",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536436/corinthians-defende-retrospecto-favoravel-contra-o-bahia-para-seguir-na-briga-pelo-g5",
+      "time": "26/07 · 15:29",
+      "pubDate": "Sun, 26 Jul 2026 12:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Bahia x Corinthians: Fernando Diniz tem retrospecto positivo contra Rogério Ceni",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/bahia-x-corinthians-fernando-diniz-tem-retrospecto-positivo-contra-rogerio-ceni]]>",
+      "time": "26/07 · 12:47",
+      "pubDate": "Sun, 26 Jul 2026 09:47:12 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele se recupera de lesão e deve reforçar o Corinthians contra o Bahia",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-se-recupera-de-lesao-e-deve-reforcar-o-corinthians-contra-o-bahia]]>",
+      "time": "26/07 · 11:40",
+      "pubDate": "Sun, 26 Jul 2026 08:40:41 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não perde para o Bahia como visitante há seis anos e mira manter sequência positiva",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-perde-para-o-bahia-como-visitante-ha-seis-anos-e-mira-manter-sequencia-positiva]]>",
+      "time": "26/07 · 11:34",
+      "pubDate": "Sun, 26 Jul 2026 08:34:57 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Juventus define André como prioridade e Corinthians aguarda proposta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-define-andre-como-prioridade-e-corinthians-aguarda-proposta]]>",
+      "time": "26/07 · 11:07",
+      "pubDate": "Sun, 26 Jul 2026 08:07:37 -0300"
     },
     {
       "source": "Bolavip",
@@ -51,76 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 26 Jul 2026 00:07:50 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre o segundo turno do Brasileirão diante do Bahia de olho no G5; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536397/corinthians-abre-o-segundo-turno-do-brasileirao-diante-do-bahia-de-olho-no-g5-saiba-tudo",
-      "time": "26/07 · 03:01",
-      "pubDate": "Sun, 26 Jul 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Vitória em busca de recuperar a liderança do Brasileirão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536399/corinthians-recebe-o-vitoria-em-busca-de-recuperar-a-lideranca-no-brasileirao-feminino-saiba-tudo",
-      "time": "26/07 · 02:01",
-      "pubDate": "Sat, 25 Jul 2026 23:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians empata com o Marreco e garante permanência na primeira divisão da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536423/corinthians-empata-com-o-marreco-e-garante-permanencia-na-primeira-divisao-da-lnf",
-      "time": "26/07 · 01:53",
-      "pubDate": "Sat, 25 Jul 2026 22:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians defende renovação de Memphis, mas impõe condição financeira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536382/idolo-do-corinthians-defende-renovacao-de-memphis-mas-impoe-condicao-financeira",
-      "time": "26/07 · 01:34",
-      "pubDate": "Sat, 25 Jul 2026 22:34:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians bate Itapirense e segue na liderança isolada do Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-itapirense-e-segue-na-lideranca-isolada-do-paulista-sub-20/",
-      "time": "26/07 · 00:08",
-      "pubDate": "Sun, 26 Jul 2026 00:08:36 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Bahia x Corinthians pelo Campeonato Brasileiro: veja prováveis escalações e onde assistir",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/bahia-x-corinthians-pelo-campeonato-brasileiro-veja-provaveis-escalacoes-e-onde-assistir/",
-      "time": "25/07 · 23:00",
-      "pubDate": "Sat, 25 Jul 2026 23:00:39 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Vitória pelo Brasileirão feminino: veja prováveis escalações e onde assistir ao vivo",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-x-vitoria-pelo-brasileirao-feminino-veja-provaveis-escalacoes-e-onde-assistir-ao-vivo/",
-      "time": "25/07 · 23:00",
-      "pubDate": "Sat, 25 Jul 2026 23:00:15 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Yuri Alberto valoriza confronto com o Bahia e mira aproximação do Corinthians ao G4",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-valoriza-confronto-com-o-bahia-e-mira-aproximacao-do-corinthians-ao-g4]]>",
       "time": "25/07 · 22:07",
       "pubDate": "Sat, 25 Jul 2026 19:07:34 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians finaliza preparação para enfrentar o Bahia fora de casa pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-finaliza-preparacao-para-enfrentar-o-bahia-fora-de-casa-pelo-brasileirao/",
-      "time": "25/07 · 21:43",
-      "pubDate": "Sat, 25 Jul 2026 21:43:31 +0000"
     },
     {
       "source": "Bolavip",
@@ -131,30 +123,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 25 Jul 2026 17:58:08 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians encerra preparação para o confronto contra o Bahia",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/bahia-x-corinthians-preparacao-brasileirao-yuri-alberto/",
-      "time": "25/07 · 19:29",
-      "pubDate": "Sat, 25 Jul 2026 19:29:37 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Bahia",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-bahia-3/",
-      "time": "25/07 · 19:26",
-      "pubDate": "Sat, 25 Jul 2026 19:26:30 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Empresário manda a real sobre saída de Bidon do Corinthians e projeta Seleção",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/empresario-manda-a-real-sobre-saida-de-bidon-do-corinthians-e-projeta-selecao]]>",
-      "time": "25/07 · 16:19",
-      "pubDate": "Sat, 25 Jul 2026 13:19:35 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Bahia x Corinthians: Inteligência Artificial prevê empate com gols no jogo pelo Brasileirão",
@@ -163,42 +131,86 @@ const LIVE_DATA = {
       "pubDate": "Sat, 25 Jul 2026 12:29:28 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Bahia x Corinthians: onde assistir ao vivo, horário e prováveis escalações do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bahia-x-corinthians-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-do-brasileirao]]>",
-      "time": "25/07 · 13:57",
-      "pubDate": "Sat, 25 Jul 2026 10:57:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kaio César vive grande fase, mas permanência custará cerca de R$ 35 milhões ao Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-vive-grande-fase-mas-permanencia-custara-cerca-de-r-35-milhoes-ao-corinthians]]>",
-      "time": "25/07 · 13:01",
-      "pubDate": "Sat, 25 Jul 2026 10:01:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avança por Wesley e prepara grande venda para reforçar elenco na janela",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avanca-por-wesley-e-prepara-grande-venda-para-reforcar-elenco-na-janela]]>",
-      "time": "25/07 · 11:06",
-      "pubDate": "Sat, 25 Jul 2026 08:06:45 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Yuri Alberto encerra jejum de três meses em vitória do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-encerra-jejum-de-tres-meses-em-vitoria-do-corinthians/",
-      "time": "25/07 · 10:00",
-      "pubDate": "Sat, 25 Jul 2026 10:00:49 +0000"
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Bom momento recente e janela movimentada: veja como chega o Bahia para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536442/bom-momento-recente-e-janela-movimentada-veja-como-chega-o-bahia-para-enfrentar-o-corinthians",
+      "pubDate": "Sun, 26 Jul 2026 14:00:00 -0300",
+      "date": "26/07 · 17:00"
+    },
+    {
+      "title": "Corinthians goleia o Vitória e reassume a liderança do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536445/corinthians-goleia-o-vitoria-e-reassume-a-lideranca-do-brasileirao",
+      "pubDate": "Sun, 26 Jul 2026 13:00:00 -0300",
+      "date": "26/07 · 16:00"
+    },
     {
       "title": "Volante do Corinthians assume vice-artilharia do Sub-20 na temporada após gols contra Itapirense",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536421/volante-do-corinthians-assume-vice-artilharia-do-sub-20-na-temporada-apos-gols-contra-itapirense",
@@ -228,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128743/veja-como-foi-o-desembarque-do-corinthians-em-salvador-para-enfrentar-o-bahia-pelo-brasileirao-2026",
       "pubDate": "Sat, 25 Jul 2026 19:55:00 -0300",
       "date": "25/07 · 22:55"
-    },
-    {
-      "title": "Yuri Alberto destaca momento do Corinthians e aposta em vitória sobre o Bahia para encostar no G4",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536398/yuri-alberto-destaca-momento-do-corinthians-e-aposta-em-vitoria-sobre-o-bahia-para-encostar-no-g4",
-      "pubDate": "Sat, 25 Jul 2026 16:02:00 -0300",
-      "date": "25/07 · 19:02"
-    },
-    {
-      "title": "VÍDEO: Bahia x Corinthians: Provável escalação para primeiro jogo do 2º turno do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128727/bahia-x-corinthians-provavel-escalacao-para-primeiro-jogo-do-2-turno-do-corinthians",
-      "pubDate": "Sat, 25 Jul 2026 13:00:00 -0300",
-      "date": "25/07 · 16:00"
     }
   ]
 };
