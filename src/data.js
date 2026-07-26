@@ -1,70 +1,78 @@
-// Gerado automaticamente em 26/07/2026, 18:49:54
+// Gerado automaticamente em 26/07/2026, 22:46:22
 const LIVE_DATA = {
-  "updatedAt": "2026-07-26T18:49:54.071Z",
+  "updatedAt": "2026-07-26T22:46:22.044Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians confirma lesões de lateral titular e volante antes de encarar o Bahia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536453/corinthians-confirma-lesoes-de-lateral-titular-e-volante-antes-de-encarar-o-bahia",
-      "time": "26/07 · 18:08",
-      "pubDate": "Sun, 26 Jul 2026 15:08:00 -0300"
+      "title": "VÍDEO: Corinthians sem perder, clima quente e desempenho de Kaio César: coletiva de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128764/corinthians-sem-perder-clima-quente-e-desempenho-de-kaio-cesar-coletiva-de-fernando-diniz",
+      "time": "26/07 · 22:41",
+      "pubDate": "Sun, 26 Jul 2026 19:41:38 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Bahia pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536441/corinthians-esta-escalado-para-enfrentar-o-bahia-pelo-brasileirao",
-      "time": "26/07 · 18:00",
-      "pubDate": "Sun, 26 Jul 2026 15:00:00 -0300"
+      "title": "Zagueiro do Corinthians lidera principais estatísticas defensivas em empate contra o Bahia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536481/zagueiro-do-corinthians-lidera-principais-estatisticas-defensivas-em-empate-contra-o-bahia",
+      "time": "26/07 · 22:30",
+      "pubDate": "Sun, 26 Jul 2026 19:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Bom momento recente e janela movimentada: veja como chega o Bahia para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536442/bom-momento-recente-e-janela-movimentada-veja-como-chega-o-bahia-para-enfrentar-o-corinthians",
-      "time": "26/07 · 17:00",
-      "pubDate": "Sun, 26 Jul 2026 14:00:00 -0300"
+      "title": "Lateral marca primeiro gol pelo Corinthians em empate com o Bahia no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536486/lateral-marca-primeiro-gol-pelo-corinthians-em-empate-com-o-bahia-no-brasileirao",
+      "time": "26/07 · 21:59",
+      "pubDate": "Sun, 26 Jul 2026 18:59:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Vic Albuquerque cobra evolução do Corinthians e fala sobre renovação: 'Tudo para pensar no sim'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536451/vic-albuquerque-cobra-evolucao-do-corinthians-e-fala-sobre-renovacao-tudo-para-pensar-no-sim",
-      "time": "26/07 · 16:38",
-      "pubDate": "Sun, 26 Jul 2026 13:38:00 -0300"
+      "title": "Lateral do Corinthians valoriza seu primeiro gol pelo Timão e critica gramado da Fonte Nova",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536477/lateral-do-corinthians-valoriza-seu-primeiro-gol-pelo-timao-e-critica-gramado-da-fonte-nova",
+      "time": "26/07 · 21:30",
+      "pubDate": "Sun, 26 Jul 2026 18:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem histórico recente favorável em duelos na Arena Fonte Nova; confira o retrospecto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536408/corinthians-tem-historico-recente-favoravel-em-duelos-na-arena-fonte-nova-confira-o-retrospecto",
-      "time": "26/07 · 16:31",
-      "pubDate": "Sun, 26 Jul 2026 13:31:00 -0300"
+      "title": "Lateral recebe cartão amarelo e desfalca o Corinthians na próxima rodada do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536460/lateral-recebe-cartao-amarelo-e-desfalca-o-corinthians-na-proxima-rodada-do-brasileirao",
+      "time": "26/07 · 21:30",
+      "pubDate": "Sun, 26 Jul 2026 18:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode chegar ao G5 em caso de vitória sobre o Bahia no Brasileirão; veja tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536439/corinthians-pode-chegar-ao-g5-em-caso-de-vitoria-sobre-o-bahia-no-brasileirao-veja-tabela",
-      "time": "26/07 · 16:03",
-      "pubDate": "Sun, 26 Jul 2026 13:03:00 -0300"
+      "title": "VÍDEO: Melhores momentos: Bahia 1x1 Corinthians | 20ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128759/melhores-momentos-bahia-1x1-corinthians-20-rodada-brasileirao-2026",
+      "time": "26/07 · 21:26",
+      "pubDate": "Sun, 26 Jul 2026 18:26:51 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians goleia o Vitória e reassume a liderança do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536445/corinthians-goleia-o-vitoria-e-reassume-a-lideranca-do-brasileirao",
-      "time": "26/07 · 16:00",
-      "pubDate": "Sun, 26 Jul 2026 13:00:00 -0300"
+      "title": "Corinthians e Memphis Depay se aproximam de acordo por novo contrato; veja detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536023/corinthians-e-memphis-depay-se-aproximam-de-acordo-por-novo-contrato-veja-detalhes",
+      "time": "26/07 · 21:20",
+      "pubDate": "Sun, 26 Jul 2026 18:20:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians defende retrospecto favorável contra o Bahia para seguir na briga pelo G5",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536436/corinthians-defende-retrospecto-favoravel-contra-o-bahia-para-seguir-na-briga-pelo-g5",
-      "time": "26/07 · 15:29",
-      "pubDate": "Sun, 26 Jul 2026 12:29:00 -0300"
+      "title": "Atuação abaixo e irregularidade do Corinthians geram críticas da Fiel após empate com o Bahia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536459/atuacao-abaixo-e-irregularidade-do-corinthians-geram-criticas-da-fiel-apos-empate-com-o-bahia",
+      "time": "26/07 · 21:11",
+      "pubDate": "Sun, 26 Jul 2026 18:11:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Juventus define André como prioridade e Corinthians aguarda proposta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-define-andre-como-prioridade-e-corinthians-aguarda-proposta]]>",
+      "time": "26/07 · 13:22",
+      "pubDate": "Sun, 26 Jul 2026 10:22:20 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,14 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-perde-para-o-bahia-como-visitante-ha-seis-anos-e-mira-manter-sequencia-positiva]]>",
       "time": "26/07 · 11:34",
       "pubDate": "Sun, 26 Jul 2026 08:34:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Juventus define André como prioridade e Corinthians aguarda proposta",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-define-andre-como-prioridade-e-corinthians-aguarda-proposta]]>",
-      "time": "26/07 · 11:07",
-      "pubDate": "Sun, 26 Jul 2026 08:07:37 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,30 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Corinthians sem perder, clima quente e desempenho de Kaio César: coletiva de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128764/corinthians-sem-perder-clima-quente-e-desempenho-de-kaio-cesar-coletiva-de-fernando-diniz",
+      "pubDate": "Sun, 26 Jul 2026 19:41:38 -0300",
+      "date": "26/07 · 22:41"
+    },
+    {
+      "title": "Lateral marca primeiro gol pelo Corinthians em empate com o Bahia no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536486/lateral-marca-primeiro-gol-pelo-corinthians-em-empate-com-o-bahia-no-brasileirao",
+      "pubDate": "Sun, 26 Jul 2026 18:59:00 -0300",
+      "date": "26/07 · 21:59"
+    },
+    {
+      "title": "Lateral do Corinthians valoriza seu primeiro gol pelo Timão e critica gramado da Fonte Nova",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536477/lateral-do-corinthians-valoriza-seu-primeiro-gol-pelo-timao-e-critica-gramado-da-fonte-nova",
+      "pubDate": "Sun, 26 Jul 2026 18:30:00 -0300",
+      "date": "26/07 · 21:30"
+    },
+    {
+      "title": "VÍDEO: Melhores momentos: Bahia 1x1 Corinthians | 20ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128759/melhores-momentos-bahia-1x1-corinthians-20-rodada-brasileirao-2026",
+      "pubDate": "Sun, 26 Jul 2026 18:26:51 -0300",
+      "date": "26/07 · 21:26"
+    },
+    {
       "title": "Bom momento recente e janela movimentada: veja como chega o Bahia para enfrentar o Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536442/bom-momento-recente-e-janela-movimentada-veja-como-chega-o-bahia-para-enfrentar-o-corinthians",
       "pubDate": "Sun, 26 Jul 2026 14:00:00 -0300",
@@ -222,24 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536407/saiba-onde-assistir-ao-confronto-entre-corinthians-e-bahia-pelo-brasileirao",
       "pubDate": "Sun, 26 Jul 2026 08:30:00 -0300",
       "date": "26/07 · 11:30"
-    },
-    {
-      "title": "Saiba onde assistir à partida entre Corinthians e Vitória pelo Campeonato Brasileiro Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536404/saiba-onde-assistir-a-partida-entre-corinthians-e-vitoria-pelo-campeonato-brasileiro-feminino",
-      "pubDate": "Sun, 26 Jul 2026 08:00:00 -0300",
-      "date": "26/07 · 11:00"
-    },
-    {
-      "title": "Corinthians goleia Itapirense e mantém liderança isolada no Campeonato Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536418/corinthians-goleia-itapirense-e-mantem-lideranca-isolada-no-campeonato-paulista-sub-20",
-      "pubDate": "Sat, 25 Jul 2026 20:51:00 -0300",
-      "date": "25/07 · 23:51"
-    },
-    {
-      "title": "VÍDEO: Veja como foi o desembarque do Corinthians em Salvador para enfrentar o Bahia pelo Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128743/veja-como-foi-o-desembarque-do-corinthians-em-salvador-para-enfrentar-o-bahia-pelo-brasileirao-2026",
-      "pubDate": "Sat, 25 Jul 2026 19:55:00 -0300",
-      "date": "25/07 · 22:55"
     }
   ]
 };
