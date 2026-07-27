@@ -1,54 +1,94 @@
-// Gerado automaticamente em 27/07/2026, 14:04:31
+// Gerado automaticamente em 27/07/2026, 19:05:55
 const LIVE_DATA = {
-  "updatedAt": "2026-07-27T14:04:31.654Z",
+  "updatedAt": "2026-07-27T19:05:55.177Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem semana com Dérbi, Brasileirão, oitavas da Copa do Brasil e compromissos na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536520/corinthians-tem-semana-com-derbi-brasileirao-oitavas-da-copa-do-brasil-e-compromissos-na-base",
-      "time": "27/07 · 13:32",
-      "pubDate": "Mon, 27 Jul 2026 10:32:00 -0300"
+      "title": "Goleiro do Corinthians valoriza ponto fora de casa contra o Bahia e revela mal-estar durante o jogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536508/goleiro-do-corinthians-valoriza-ponto-fora-de-casa-contra-o-bahia-e-revela-mal-estar-durante-o-jogo",
+      "time": "27/07 · 18:45",
+      "pubDate": "Mon, 27 Jul 2026 15:45:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é denunciado no STJD por invasão de crianças ao gramado após jogo contra o Remo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536521/corinthians-e-denunciado-no-stjd-por-invasao-de-criancas-ao-gramado-apos-jogo-contra-o-remo",
-      "time": "27/07 · 12:47",
-      "pubDate": "Mon, 27 Jul 2026 09:47:00 -0300"
+      "title": "Corinthians volta ao CT após empate e inicia semana de preparação para enfrentar o Athletico-PR",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536547/corinthians-volta-ao-ct-apos-empate-e-inicia-semana-de-preparacao-para-enfrentar-o-athletico-pr",
+      "time": "27/07 · 18:31",
+      "pubDate": "Mon, 27 Jul 2026 15:31:55 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians lamenta empate com Bahia e detalha condição física: 'Desconforto'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536504/atacante-do-corinthians-lamenta-empate-com-bahia-e-detalha-condicao-fisica-desconforto",
-      "time": "27/07 · 12:32",
-      "pubDate": "Mon, 27 Jul 2026 09:32:00 -0300"
+      "title": "Corinthians volta a empatar no Campeonato Brasileiro após mais de três meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536488/corinthians-volta-a-empatar-no-campeonato-brasileiro-apos-mais-de-tres-meses",
+      "time": "27/07 · 17:35",
+      "pubDate": "Mon, 27 Jul 2026 14:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians estreia no Talentos LNF em busca de título inédito na categoria Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536448/corinthians-estreia-no-talentos-lnf-em-busca-de-titulo-inedito-na-categoria-sub-20",
-      "time": "27/07 · 11:30",
-      "pubDate": "Mon, 27 Jul 2026 08:30:00 -0300"
+      "title": "Atacante do Corinthians sofre lesão no joelho e passará por cirurgia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536538/atacante-do-corinthians-sofre-lesao-no-joelho-e-passara-por-cirurgia",
+      "time": "27/07 · 17:22",
+      "pubDate": "Mon, 27 Jul 2026 14:22:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: empate pelo Brasileirão, acordo por Memphis e liderança das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536509/ultimas-do-corinthians-empate-pelo-brasileirao-acordo-por-memphis-e-lideranca-das-brabas",
-      "time": "27/07 · 10:30",
-      "pubDate": "Mon, 27 Jul 2026 07:30:00 -0300"
+      "title": "Corinthians vence o Basket Osasco e assume liderança da LDB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536537/corinthians-vence-o-basket-osasco-e-assume-lideranca-da-ldb",
+      "time": "27/07 · 17:08",
+      "pubDate": "Mon, 27 Jul 2026 14:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians volta a sequenciar jogos sem perder como visitante no Brasileirão após quatro meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536482/corinthians-volta-a-sequenciar-jogos-sem-perder-como-visitante-no-brasileirao-apos-quatro-meses",
-      "time": "27/07 · 01:00",
-      "pubDate": "Sun, 26 Jul 2026 22:00:00 -0300"
+      "title": "Corinthians ganha 'reforço' com retorno de ala para reta decisiva do futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536523/corinthians-ganha-reforco-com-retorno-de-ala-para-reta-decisiva-do-futsal",
+      "time": "27/07 · 17:07",
+      "pubDate": "Mon, 27 Jul 2026 14:07:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians aguarda Bidu e avalia opções para a lateral esquerda contra o Athletico-PR",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536494/tecnico-do-corinthians-aguarda-bidu-e-avalia-opcoes-para-a-lateral-esquerda-contra-o-athletico-pr",
+      "time": "27/07 · 16:31",
+      "pubDate": "Mon, 27 Jul 2026 13:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante da base renova contrato com o Corinthians após sofrer grave lesão no joelho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536526/volante-da-base-renova-contrato-com-o-corinthians-apos-sofrer-grave-lesao-no-joelho",
+      "time": "27/07 · 16:00",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto preocupa e Corinthians soma mais um problema na escalação de Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-preocupa-e-corinthians-soma-mais-um-problema-na-escalacao-de-diniz]]>",
+      "time": "27/07 · 13:00",
+      "pubDate": "Mon, 27 Jul 2026 10:00:21 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians encaminha renovação de Memphis até 2028 e prepara anúncio para terça-feira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-de-memphis-ate-2028-e-prepara-anuncio-para-terca-feira]]>",
+      "time": "27/07 · 11:40",
+      "pubDate": "Mon, 27 Jul 2026 08:40:17 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz defende Kaio César após empate do Corinthians: “É uma evolução clara”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-defende-kaio-cesar-apos-empate-do-corinthians-e-uma-evolucao-clara]]>",
+      "time": "27/07 · 11:21",
+      "pubDate": "Mon, 27 Jul 2026 08:21:31 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,22 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/rogerio-ceni-aponta-dificuldade-do-corinthians-diante-do-bahia-so-chutando-para-frente]]>",
       "time": "27/07 · 00:29",
       "pubDate": "Sun, 26 Jul 2026 21:29:03 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde chance de encostar no G5 após empate com o Bahia pelo Brasileirão; veja a tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536487/corinthians-perde-chance-de-encostar-no-g5-apos-empate-com-o-bahia-pelo-brasileirao-veja-a-tabela",
-      "time": "27/07 · 00:27",
-      "pubDate": "Sun, 26 Jul 2026 21:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém jejum em estreias do returno do Brasileirão após empate diante do Bahia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536479/corinthians-mantem-jejum-em-estreias-do-returno-do-brasileirao-apos-empate-diante-do-bahia",
-      "time": "27/07 · 00:02",
-      "pubDate": "Sun, 26 Jul 2026 21:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,34 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians empata com o Bahia em jogo bastante pegado na Arena Fonte Nova",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-empata-com-o-bahia-em-jogo-bastante-pegado-na-arena-fonte-nova]]>",
-      "time": "26/07 · 21:25",
-      "pubDate": "Sun, 26 Jul 2026 18:25:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Kaio César se envolve em confusão e provoca briga generalizada em Bahia x Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-se-envolve-em-confusao-e-provoca-briga-generalizada-em-bahia-x-corinthians]]>",
       "time": "26/07 · 21:11",
       "pubDate": "Sun, 26 Jul 2026 18:11:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians goleia o Vitória, reassume a liderança do Brasileirão e ganha confiança para o Dérbi",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-goleia-o-vitoria-reassume-a-lideranca-do-brasileirao-e-ganha-confianca-para-o-derbi]]>",
-      "time": "26/07 · 21:08",
-      "pubDate": "Sun, 26 Jul 2026 18:08:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Bahia e Corinthians começa agitado com gol de Angileri e lance anulado com semiautomático",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bahia-e-corinthians-comeca-agitado-com-gol-de-angileri-e-lance-anulado-com-semiautomatico]]>",
-      "time": "26/07 · 19:36",
-      "pubDate": "Sun, 26 Jul 2026 16:36:24 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians valoriza ponto fora de casa contra o Bahia e revela mal-estar durante o jogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536508/goleiro-do-corinthians-valoriza-ponto-fora-de-casa-contra-o-bahia-e-revela-mal-estar-durante-o-jogo",
+      "pubDate": "Mon, 27 Jul 2026 15:45:00 -0300",
+      "date": "27/07 · 18:45"
+    },
+    {
+      "title": "Veja como está a artilharia do Corinthians Feminino na temporada após goleada sobre o Vitória",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536446/veja-como-esta-a-artilharia-do-corinthians-feminino-na-temporada-apos-goleada-sobre-o-vitoria",
+      "pubDate": "Mon, 27 Jul 2026 12:30:00 -0300",
+      "date": "27/07 · 15:30"
+    },
+    {
       "title": "VÍDEO: Primeiro gol com a camisa do Corinthians e dificuldade contra o Bahia: Zona mista Fabrizio Angileri",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128771/primeiro-gol-com-a-camisa-do-corinthians-e-dificuldade-contra-o-bahia-zona-mista-fabrizio-angileri",
       "pubDate": "Sun, 26 Jul 2026 20:32:57 -0300",
@@ -222,30 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128764/corinthians-sem-perder-clima-quente-e-desempenho-de-kaio-cesar-coletiva-de-fernando-diniz",
       "pubDate": "Sun, 26 Jul 2026 19:41:38 -0300",
       "date": "26/07 · 22:41"
-    },
-    {
-      "title": "Lateral marca primeiro gol pelo Corinthians em empate com o Bahia no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536486/lateral-marca-primeiro-gol-pelo-corinthians-em-empate-com-o-bahia-no-brasileirao",
-      "pubDate": "Sun, 26 Jul 2026 18:59:00 -0300",
-      "date": "26/07 · 21:59"
-    },
-    {
-      "title": "Lateral do Corinthians valoriza seu primeiro gol pelo Timão e critica gramado da Fonte Nova",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536477/lateral-do-corinthians-valoriza-seu-primeiro-gol-pelo-timao-e-critica-gramado-da-fonte-nova",
-      "pubDate": "Sun, 26 Jul 2026 18:30:00 -0300",
-      "date": "26/07 · 21:30"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: Bahia 1x1 Corinthians | 20ª rodada | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128759/melhores-momentos-bahia-1x1-corinthians-20-rodada-brasileirao-2026",
-      "pubDate": "Sun, 26 Jul 2026 18:26:51 -0300",
-      "date": "26/07 · 21:26"
-    },
-    {
-      "title": "Bom momento recente e janela movimentada: veja como chega o Bahia para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536442/bom-momento-recente-e-janela-movimentada-veja-como-chega-o-bahia-para-enfrentar-o-corinthians",
-      "pubDate": "Sun, 26 Jul 2026 14:00:00 -0300",
-      "date": "26/07 · 17:00"
     }
   ]
 };
