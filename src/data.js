@@ -1,7 +1,39 @@
-// Gerado automaticamente em 27/07/2026, 10:59:21
+// Gerado automaticamente em 27/07/2026, 14:04:31
 const LIVE_DATA = {
-  "updatedAt": "2026-07-27T10:59:21.599Z",
+  "updatedAt": "2026-07-27T14:04:31.654Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem semana com Dérbi, Brasileirão, oitavas da Copa do Brasil e compromissos na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536520/corinthians-tem-semana-com-derbi-brasileirao-oitavas-da-copa-do-brasil-e-compromissos-na-base",
+      "time": "27/07 · 13:32",
+      "pubDate": "Mon, 27 Jul 2026 10:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é denunciado no STJD por invasão de crianças ao gramado após jogo contra o Remo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536521/corinthians-e-denunciado-no-stjd-por-invasao-de-criancas-ao-gramado-apos-jogo-contra-o-remo",
+      "time": "27/07 · 12:47",
+      "pubDate": "Mon, 27 Jul 2026 09:47:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians lamenta empate com Bahia e detalha condição física: 'Desconforto'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536504/atacante-do-corinthians-lamenta-empate-com-bahia-e-detalha-condicao-fisica-desconforto",
+      "time": "27/07 · 12:32",
+      "pubDate": "Mon, 27 Jul 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians estreia no Talentos LNF em busca de título inédito na categoria Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536448/corinthians-estreia-no-talentos-lnf-em-busca-de-titulo-inedito-na-categoria-sub-20",
+      "time": "27/07 · 11:30",
+      "pubDate": "Mon, 27 Jul 2026 08:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,44 +43,28 @@ const LIVE_DATA = {
       "pubDate": "Mon, 27 Jul 2026 07:30:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações do Corinthians: elenco deixa a desejar contra o Bahia",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-elenco-deixa-a-desejar-contra-o-bahia/",
-      "time": "27/07 · 10:00",
-      "pubDate": "Mon, 27 Jul 2026 10:00:37 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz elogia arbitragem após empate do Corinthians com o Bahia: &#8220;Teve critério&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-elogia-arbitragem-apos-empate-do-corinthians-com-o-bahia-teve-criterio/",
-      "time": "27/07 · 09:00",
-      "pubDate": "Mon, 27 Jul 2026 09:00:10 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Corinthians sofre, mas consegue segurar empate contra o Bahia",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-sofre-mas-consegue-segurar-empate-contra-o-bahia/",
-      "time": "27/07 · 08:00",
-      "pubDate": "Mon, 27 Jul 2026 08:00:45 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Negociação avança, e Corinthians fica perto de renovar com Memphis Depay",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/negociacao-avanca-e-corinthians-fica-perto-de-renovar-com-memphis-depay/",
-      "time": "27/07 · 02:08",
-      "pubDate": "Mon, 27 Jul 2026 02:08:12 +0000"
-    },
-    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians volta a sequenciar jogos sem perder como visitante no Brasileirão após quatro meses",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536482/corinthians-volta-a-sequenciar-jogos-sem-perder-como-visitante-no-brasileirao-apos-quatro-meses",
       "time": "27/07 · 01:00",
       "pubDate": "Sun, 26 Jul 2026 22:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians encaminha renovação de Memphis Depay até 2028",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-de-memphis-depay-ate-2028]]>",
+      "time": "27/07 · 00:58",
+      "pubDate": "Sun, 26 Jul 2026 21:58:28 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Rogério Ceni aponta dificuldade do Corinthians diante do Bahia: “Só chutando para frente”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/rogerio-ceni-aponta-dificuldade-do-corinthians-diante-do-bahia-so-chutando-para-frente]]>",
+      "time": "27/07 · 00:29",
+      "pubDate": "Sun, 26 Jul 2026 21:29:03 -0300"
     },
     {
       "source": "Meu Timao",
@@ -65,62 +81,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536479/corinthians-mantem-jejum-em-estreias-do-returno-do-brasileirao-apos-empate-diante-do-bahia",
       "time": "27/07 · 00:02",
       "pubDate": "Sun, 26 Jul 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians valoriza ponto conquistado e pondera condições adversas no duelo com o Bahia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536493/tecnico-do-corinthians-valoriza-ponto-conquistado-e-pondera-condicoes-adversas-no-duelo-com-o-bahia",
-      "time": "26/07 · 23:52",
-      "pubDate": "Sun, 26 Jul 2026 20:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Primeiro gol com a camisa do Corinthians e dificuldade contra o Bahia: Zona mista Fabrizio Angileri",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128771/primeiro-gol-com-a-camisa-do-corinthians-e-dificuldade-contra-o-bahia-zona-mista-fabrizio-angileri",
-      "time": "26/07 · 23:32",
-      "pubDate": "Sun, 26 Jul 2026 20:32:57 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Renovação de Memphis e obstáculo do calor: Zona mista de Raniele após Bahia 1x1 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128770/renovacao-de-memphis-e-obstaculo-do-calor-zona-mista-de-raniele-apos-bahia-1x1-corinthians",
-      "time": "26/07 · 23:32",
-      "pubDate": "Sun, 26 Jul 2026 20:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians amplia invencibilidade em Salvador após empate contra o Bahia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536489/corinthians-amplia-invencibilidade-em-salvador-apos-empate-contra-o-bahia",
-      "time": "26/07 · 23:31",
-      "pubDate": "Sun, 26 Jul 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz valoriza empate e fala sobre forma física do Corinthians: &#8220;Nos superamos&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-valoriza-empate-e-fala-sobre-forma-fisica-do-corinthians-nos-superamos/",
-      "time": "26/07 · 23:15",
-      "pubDate": "Sun, 26 Jul 2026 23:15:09 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians encaminha renovação de Memphis Depay até 2028",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-de-memphis-depay-ate-2028]]>",
-      "time": "26/07 · 22:18",
-      "pubDate": "Sun, 26 Jul 2026 19:18:11 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Angileri comemora primeiro gol pelo Corinthians e valoriza empate com Bahia: &#8220;Jogo difícil&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/angileri-comemora-primeiro-gol-pelo-corinthians-e-valoriza-empate-com-bahia-jogo-dificil/",
-      "time": "26/07 · 21:33",
-      "pubDate": "Sun, 26 Jul 2026 21:33:35 +0000"
     },
     {
       "source": "Bolavip",
@@ -147,28 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 26 Jul 2026 18:25:39 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Angileri leva terceiro amarelo e desfalca Corinthians contra o Athletico-PR",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/angileri-leva-terceiro-amarelo-e-desfalca-corinthians-contra-o-athletico-pr/",
-      "time": "26/07 · 21:14",
-      "pubDate": "Sun, 26 Jul 2026 21:14:33 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Kaio César se envolve em confusão e provoca briga generalizada em Bahia x Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-se-envolve-em-confusao-e-provoca-briga-generalizada-em-bahia-x-corinthians]]>",
       "time": "26/07 · 21:11",
       "pubDate": "Sun, 26 Jul 2026 18:11:16 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians sofre, empata com o Bahia e perde chance de encostar no G5 do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-sofre-empata-com-o-bahia-e-perde-chance-de-encostar-no-g5-do-brasileirao/",
-      "time": "26/07 · 21:09",
-      "pubDate": "Sun, 26 Jul 2026 21:09:37 +0000"
     },
     {
       "source": "Bolavip",
@@ -187,12 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Sun, 26 Jul 2026 16:36:24 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Bahia x Corinthians: Fernando Diniz tem retrospecto positivo contra Rogério Ceni",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bahia-x-corinthians-fernando-diniz-tem-retrospecto-positivo-contra-rogerio-ceni]]>",
-      "time": "26/07 · 12:47",
-      "pubDate": "Sun, 26 Jul 2026 09:47:12 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
