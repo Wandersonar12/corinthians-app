@@ -1,7 +1,31 @@
-// Gerado automaticamente em 28/07/2026, 10:18:25
+// Gerado automaticamente em 28/07/2026, 13:23:55
 const LIVE_DATA = {
-  "updatedAt": "2026-07-28T10:18:25.936Z",
+  "updatedAt": "2026-07-28T13:23:55.433Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians sonha com título da Libertadores e elogia trabalho de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536564/lateral-do-corinthians-sonha-com-titulo-da-libertadores-e-elogia-trabalho-de-fernando-diniz",
+      "time": "28/07 · 12:30",
+      "pubDate": "Tue, 28 Jul 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Cori descarta novo projeto de reforma do Estatuto do Corinthians e não discute memorando da SAFiel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536566/cori-descarta-novo-projeto-de-reforma-do-estatuto-do-corinthians-e-nao-discute-memorando-da-safiel",
+      "time": "28/07 · 11:30",
+      "pubDate": "Tue, 28 Jul 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: nova lesão, atualizações sobre Memphis e denúncia no STJD",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536565/ultimas-do-corinthians-nova-lesao-atualizacoes-sobre-memphis-e-denuncia-no-stjd",
+      "time": "28/07 · 10:30",
+      "pubDate": "Tue, 28 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -51,28 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 27 Jul 2026 21:01:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe cônsul dos Emirados Árabes Unidos do Brasil na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536562/corinthians-recebe-consul-dos-emirados-arabes-unidos-do-brasil-na-neo-quimica-arena",
-      "time": "27/07 · 23:53",
-      "pubDate": "Mon, 27 Jul 2026 20:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vic Albuquerque acaba com jejum de quase quatro meses em goleada do Corinthians pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536444/vic-albuquerque-acaba-com-jejum-de-quase-quatro-meses-em-goleada-do-corinthians-pelo-brasileirao",
-      "time": "27/07 · 23:31",
-      "pubDate": "Mon, 27 Jul 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Parte de dívida 'perdoada' e bônus menor: saiba detalhes da renovação de Memphis com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536560/parte-de-divida-perdoada-e-bonus-menor-saiba-detalhes-da-renovacao-de-memphis-com-o-corinthians",
-      "time": "27/07 · 23:26",
-      "pubDate": "Mon, 27 Jul 2026 20:26:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians alcança marca preocupante de 100 lesões e vê elenco sofrer com baixas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-alcanca-marca-preocupante-de-100-lesoes-e-ve-elenco-sofrer-com-baixas]]>",
+      "time": "27/07 · 23:40",
+      "pubDate": "Mon, 27 Jul 2026 20:40:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -145,14 +153,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-diz-sim-mas-renovacao-trava-em-exames-e-bastidores-polemicos-no-corinthians]]>",
       "time": "27/07 · 16:48",
       "pubDate": "Mon, 27 Jul 2026 13:48:23 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto preocupa e Corinthians soma mais um problema na escalação de Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-preocupa-e-corinthians-soma-mais-um-problema-na-escalacao-de-diniz]]>",
-      "time": "27/07 · 15:59",
-      "pubDate": "Mon, 27 Jul 2026 12:59:46 -0300"
     },
     {
       "source": "Bolavip",
@@ -230,16 +230,10 @@ const LIVE_DATA = {
       "date": "27/07 · 22:15"
     },
     {
-      "title": "Goleiro do Corinthians valoriza ponto fora de casa contra o Bahia e revela mal-estar durante o jogo",
+      "title": "Goleiro do Corinthians valoriza ponto fora de casa contra o Bahia e revela mal-estar durante jogo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536508/goleiro-do-corinthians-valoriza-ponto-fora-de-casa-contra-o-bahia-e-revela-mal-estar-durante-o-jogo",
       "pubDate": "Mon, 27 Jul 2026 15:45:00 -0300",
       "date": "27/07 · 18:45"
-    },
-    {
-      "title": "Veja como está a artilharia do Corinthians Feminino na temporada após goleada sobre o Vitória",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536446/veja-como-esta-a-artilharia-do-corinthians-feminino-na-temporada-apos-goleada-sobre-o-vitoria",
-      "pubDate": "Mon, 27 Jul 2026 12:30:00 -0300",
-      "date": "27/07 · 15:30"
     }
   ]
 };
