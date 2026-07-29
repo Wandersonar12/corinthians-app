@@ -1,7 +1,79 @@
-// Gerado automaticamente em 28/07/2026, 22:47:18
+// Gerado automaticamente em 29/07/2026, 10:24:18
 const LIVE_DATA = {
-  "updatedAt": "2026-07-28T22:47:18.321Z",
+  "updatedAt": "2026-07-29T10:24:18.383Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Entenda a lesão de Vitinho, do Corinthians, e os desafios para o retorno aos gramados",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-a-lesao-de-vitinho-do-corinthians-e-os-desafios-para-o-retorno-aos-gramados/",
+      "time": "29/07 · 10:00",
+      "pubDate": "Wed, 29 Jul 2026 10:00:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Renovação de Memphis com o Corinthians pode melar; veja detalhes",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/renovacao-de-memphis-com-o-corinthians-pode-melar-veja-detalhes/",
+      "time": "29/07 · 03:01",
+      "pubDate": "Wed, 29 Jul 2026 03:01:01 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Palmeiras em busca da liderança do Paulistão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536604/corinthians-visita-o-palmeiras-em-busca-da-lideranca-do-paulistao-feminino-saiba-tudo",
+      "time": "29/07 · 03:01",
+      "pubDate": "Wed, 29 Jul 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca alcançar sequência de vitórias que não acontece desde 2024 no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536582/corinthians-busca-alcancar-sequencia-de-vitorias-que-nao-acontece-desde-2024-no-sub-20",
+      "time": "29/07 · 01:30",
+      "pubDate": "Tue, 28 Jul 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Superintendente de comunicação deixa o Corinthians após mais de um ano no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536621/superintendente-de-comunicacao-deixa-o-corinthians-apos-mais-de-um-ano-no-clube",
+      "time": "29/07 · 01:13",
+      "pubDate": "Tue, 28 Jul 2026 22:13:05 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Emily Lima defende trabalho e evita comparações com anos vitoriosos do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536536/emily-lima-defende-trabalho-e-evita-comparacoes-com-anos-vitoriosos-do-corinthians",
+      "time": "29/07 · 00:31",
+      "pubDate": "Tue, 28 Jul 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "SAFiel cobra transparência de Stabile e anuncia comissão para destravar proposta no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536620/safiel-cobra-transparencia-de-stabile-e-anuncia-comissao-para-destravar-proposta-no-corinthians",
+      "time": "28/07 · 23:46",
+      "pubDate": "Tue, 28 Jul 2026 20:46:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Artilheiro da equipe Sub-20 do Corinthians revela sonho de defender o time profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536575/artilheiro-da-equipe-sub-20-do-corinthians-revela-sonho-de-defender-o-time-profissional",
+      "time": "28/07 · 23:35",
+      "pubDate": "Tue, 28 Jul 2026 20:35:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Palmeiras x Corinthians: prováveis escalações e onde assistir ao jogo pelo Paulista feminino",
+      "url": "https://www.gazetaesportiva.com/futebol-feminino/palmeiras-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-paulista-feminino/",
+      "time": "28/07 · 23:00",
+      "pubDate": "Tue, 28 Jul 2026 23:00:26 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -27,28 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 28 Jul 2026 19:20:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para encarar o Palmeiras pelo Paulista Feminino; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536596/corinthians-encerra-preparacao-para-encarar-o-palmeiras-pelo-paulista-feminino-veja-o-provavel-time",
-      "time": "28/07 · 22:03",
-      "pubDate": "Tue, 28 Jul 2026 19:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-auxiliar comenta principais destaques da base e projeta futuro de lateral no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536593/ex-auxiliar-comenta-principais-destaques-da-base-e-projeta-futuro-de-lateral-no-corinthians",
-      "time": "28/07 · 22:03",
-      "pubDate": "Tue, 28 Jul 2026 19:03:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia reforço da Seleção Brasileira para equipe de futebol de amputados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536591/corinthians-anuncia-reforco-da-selecao-brasileira-para-equipe-de-futebol-de-amputados",
-      "time": "28/07 · 21:33",
-      "pubDate": "Tue, 28 Jul 2026 18:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recua por Wesley, e Cruzeiro retoma negociações com atacante do Al Nassr",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recua-por-wesley-e-cruzeiro-retoma-negociacoes-com-atacante-do-al-nassr]]>",
+      "time": "28/07 · 22:19",
+      "pubDate": "Tue, 28 Jul 2026 19:19:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -59,12 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 28 Jul 2026 21:26:52 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga venda de ingressos para setor visitante contra o Internacional na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536611/corinthians-divulga-venda-de-ingressos-para-setor-visitante-contra-o-internacional-na-copa-do-brasil",
-      "time": "28/07 · 21:26",
-      "pubDate": "Tue, 28 Jul 2026 18:26:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Donelli, emprestado pelo Corinthians, pega pênalti e se destaca em estreia pelo Shabab Al Ahli",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-donelli-emprestado-pelo-corinthians-pega-penalti-e-se-destaca-em-estreia-pelo-shabab-al-ahli]]>",
+      "time": "28/07 · 21:24",
+      "pubDate": "Tue, 28 Jul 2026 18:24:02 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -75,20 +131,28 @@ const LIVE_DATA = {
       "pubDate": "Tue, 28 Jul 2026 21:17:29 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Conselho Deliberativo convoca sessões para analisar possíveis expulsões no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536598/conselho-deliberativo-convoca-sessoes-para-analisar-possiveis-expulsoes-no-corinthians",
-      "time": "28/07 · 20:36",
-      "pubDate": "Tue, 28 Jul 2026 17:36:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Angileri comenta disputa com Matheus Bidu no elenco do Corinthians: “Tem que continuar trabalhando”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/angileri-comenta-disputa-com-matheus-bidu-no-elenco-do-corinthians-tem-que-continuar-trabalhando]]>",
+      "time": "28/07 · 21:09",
+      "pubDate": "Tue, 28 Jul 2026 18:09:10 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro emprestado pelo Corinthians estreia em time dos Emirados Árabes após cinco meses de espera",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536603/goleiro-emprestado-pelo-corinthians-estreia-em-time-dos-emirados-arabes-apos-cinco-meses-de-espera",
-      "time": "28/07 · 20:33",
-      "pubDate": "Tue, 28 Jul 2026 17:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Renovação de Memphis não agrada vestiário do Corinthians e alguns jogadores são contra, revela Samir Carvalho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-memphis-nao-agrada-vestiario-do-corinthians-e-alguns-jogadores-sao-contra-revela-samir-carvalho]]>",
+      "time": "28/07 · 20:22",
+      "pubDate": "Tue, 28 Jul 2026 17:22:02 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians ganha dor de cabeça na lateral e Diniz busca solução antes do Athletico-PR",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ganha-dor-de-cabeca-na-lateral-e-diniz-busca-solucao-antes-do-athletico-pr]]>",
+      "time": "28/07 · 19:25",
+      "pubDate": "Tue, 28 Jul 2026 16:25:45 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -129,70 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-memphis-no-corinthians-vira-alvo-de-criticas-e-desata-comparacao-com-neymar]]>",
       "time": "28/07 · 14:56",
       "pubDate": "Tue, 28 Jul 2026 11:56:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ex-funcionário do Corinthians revela “treta” nos bastidores entre Rodrigo Garro e Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ex-funcionario-do-corinthians-revela-treta-nos-bastidores-entre-rodrigo-garro-e-memphis-depay]]>",
-      "time": "28/07 · 14:19",
-      "pubDate": "Tue, 28 Jul 2026 11:19:23 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Troca do gramado gera reclamações no Corinthians e provoca incidente com Raniele",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/troca-do-gramado-gera-reclamacoes-no-corinthians-e-provoca-incidente-com-raniele]]>",
-      "time": "28/07 · 11:46",
-      "pubDate": "Tue, 28 Jul 2026 08:46:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians sofre terceiro transfer ban e corre contra o tempo para voltar ao mercado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofre-terceiro-transfer-ban-e-corre-contra-o-tempo-para-voltar-ao-mercado]]>",
-      "time": "28/07 · 11:33",
-      "pubDate": "Tue, 28 Jul 2026 08:33:45 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Angileri suspenso, Diniz ganha dor de cabeça na lateral esquerda do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-angileri-suspenso-diniz-ganha-dor-de-cabeca-na-lateral-esquerda-do-corinthians/",
-      "time": "28/07 · 10:00",
-      "pubDate": "Tue, 28 Jul 2026 10:00:47 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians alcança marca preocupante de 100 lesões e vê elenco sofrer com baixas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-alcanca-marca-preocupante-de-100-lesoes-e-ve-elenco-sofrer-com-baixas]]>",
-      "time": "27/07 · 23:40",
-      "pubDate": "Mon, 27 Jul 2026 20:40:37 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis aceita condições do Corinthians e fica perto renovação; veja detalhes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-aceita-condicoes-do-corinthians-e-fica-perto-renovacao-veja-detalhes/",
-      "time": "27/07 · 21:28",
-      "pubDate": "Mon, 27 Jul 2026 21:28:53 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians alcança marca entre as equipes que mais empataram no Campeonato Brasileiro de 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-alcanca-marca-entre-as-equipes-que-mais-empataram-no-campeonato-brasileiro-de-2026]]>",
-      "time": "27/07 · 20:54",
-      "pubDate": "Mon, 27 Jul 2026 17:54:06 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians se reapresenta após empate e abre preparação para enfrentar o Athletico-PR",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-apos-empate-e-abre-preparacao-para-enfrentar-o-athletico-pr/",
-      "time": "27/07 · 18:37",
-      "pubDate": "Mon, 27 Jul 2026 18:37:13 +0000"
     }
   ],
   "upcoming": [],
@@ -204,24 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536603/goleiro-emprestado-pelo-corinthians-estreia-em-time-dos-emirados-arabes-apos-cinco-meses-de-espera",
       "pubDate": "Tue, 28 Jul 2026 17:33:00 -0300",
       "date": "28/07 · 20:33"
-    },
-    {
-      "title": "Vic Albuquerque comemora gols contra o Vitória e projeta sequência do Corinthians na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536540/vic-albuquerque-comemora-gols-contra-o-vitoria-e-projeta-sequencia-do-corinthians-na-temporada",
-      "pubDate": "Mon, 27 Jul 2026 22:01:00 -0300",
-      "date": "28/07 · 01:01"
-    },
-    {
-      "title": "Corinthians estreia com goleada sobre o Umuarama no Talentos LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536563/corinthians-estreia-com-goleada-sobre-o-umuarama-no-talentos-lnf",
-      "pubDate": "Mon, 27 Jul 2026 21:42:00 -0300",
-      "date": "28/07 · 00:42"
-    },
-    {
-      "title": "Lateral do Corinthians fala sobre concorrência com Matheus Bidu e valoriza gol marcado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536507/lateral-do-corinthians-fala-sobre-concorrencia-com-matheus-bidu-e-valoriza-gol-marcado",
-      "pubDate": "Mon, 27 Jul 2026 21:32:00 -0300",
-      "date": "28/07 · 00:32"
     }
   ]
 };
