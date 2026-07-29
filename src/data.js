@@ -1,7 +1,47 @@
-// Gerado automaticamente em 29/07/2026, 10:24:18
+// Gerado automaticamente em 29/07/2026, 13:30:01
 const LIVE_DATA = {
-  "updatedAt": "2026-07-29T10:24:18.383Z",
+  "updatedAt": "2026-07-29T13:30:01.231Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral pode vivenciar ausência consecutiva pelo Corinthians após mais de um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536606/lateral-pode-vivenciar-ausencia-consecutiva-pelo-corinthians-apos-mais-de-um-ano",
+      "time": "29/07 · 12:31",
+      "pubDate": "Wed, 29 Jul 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pelo Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536607/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pelo-paulista-feminino",
+      "time": "29/07 · 11:31",
+      "pubDate": "Wed, 29 Jul 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Athletico-PR pelo Campeonato Brasileiro: veja prováveis escalações e onde assistir",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/onde-assistir-corinthians/",
+      "time": "29/07 · 11:00",
+      "pubDate": "Wed, 29 Jul 2026 11:00:48 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Bragantino para manter boa fase no Paulista Feminino Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536613/corinthians-recebe-o-bragantino-para-manter-boa-fase-no-paulista-feminino-sub-20-saiba-tudo",
+      "time": "29/07 · 11:00",
+      "pubDate": "Wed, 29 Jul 2026 08:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: reunião do Cori, jovem convocado e absolvição no STJD",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536622/ultimas-do-corinthians-reuniao-do-cori-jovem-convocado-e-absolvicao-no-stjd",
+      "time": "29/07 · 10:30",
+      "pubDate": "Wed, 29 Jul 2026 07:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -25,6 +65,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536604/corinthians-visita-o-palmeiras-em-busca-da-lideranca-do-paulistao-feminino-saiba-tudo",
       "time": "29/07 · 03:01",
       "pubDate": "Wed, 29 Jul 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Athletico-PR: Inteligência Artificial faz previsão do Campeonato Brasileiro e crava placar",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-athletico-pr-inteligencia-artificial-faz-previsao-do-campeonato-brasileiro-e-crava-placar]]>",
+      "time": "29/07 · 01:46",
+      "pubDate": "Tue, 28 Jul 2026 22:46:57 -0300"
     },
     {
       "source": "Meu Timao",
@@ -51,20 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 28 Jul 2026 21:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "SAFiel cobra transparência de Stabile e anuncia comissão para destravar proposta no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536620/safiel-cobra-transparencia-de-stabile-e-anuncia-comissao-para-destravar-proposta-no-corinthians",
-      "time": "28/07 · 23:46",
-      "pubDate": "Tue, 28 Jul 2026 20:46:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilheiro da equipe Sub-20 do Corinthians revela sonho de defender o time profissional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536575/artilheiro-da-equipe-sub-20-do-corinthians-revela-sonho-de-defender-o-time-profissional",
-      "time": "28/07 · 23:35",
-      "pubDate": "Tue, 28 Jul 2026 20:35:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recua por Wesley, e Cruzeiro retoma negociações com atacante do Al Nassr",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recua-por-wesley-e-cruzeiro-retoma-negociacoes-com-atacante-do-al-nassr]]>",
+      "time": "28/07 · 23:40",
+      "pubDate": "Tue, 28 Jul 2026 20:40:12 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -81,30 +121,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-treina-para-desafio-em-casa-contra-o-athletico-pelo-brasileirao/",
       "time": "28/07 · 22:38",
       "pubDate": "Tue, 28 Jul 2026 22:38:45 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vic Albuquerque defende trabalho de Emily Lima no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536541/vic-albuquerque-defende-trabalho-de-emily-lima-no-corinthians",
-      "time": "28/07 · 22:30",
-      "pubDate": "Tue, 28 Jul 2026 19:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia-atacante do Corinthians é convocado pela Seleção Brasileira Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536614/meia-atacante-do-corinthians-e-convocado-pela-selecao-brasileira-sub-20",
-      "time": "28/07 · 22:20",
-      "pubDate": "Tue, 28 Jul 2026 19:20:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians recua por Wesley, e Cruzeiro retoma negociações com atacante do Al Nassr",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recua-por-wesley-e-cruzeiro-retoma-negociacoes-com-atacante-do-al-nassr]]>",
-      "time": "28/07 · 22:19",
-      "pubDate": "Tue, 28 Jul 2026 19:19:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -163,14 +179,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 28 Jul 2026 18:22:35 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Confira as fotos do treino do Corinthians desta terça-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-do-treino-do-corinthians-desta-terca-feira-7/",
-      "time": "28/07 · 18:09",
-      "pubDate": "Tue, 28 Jul 2026 18:09:25 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians ainda sonha com o G-4; veja as chances de classificação para a Libertadores",
@@ -185,20 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diego-palacios-e-cortado-de-jogo-pelo-tecnico-e-amplia-drama-lateral-segue-vinculado-ao-corinthians]]>",
       "time": "28/07 · 16:29",
       "pubDate": "Tue, 28 Jul 2026 13:29:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Renovação de Memphis no Corinthians vira alvo de críticas e desata comparação com Neymar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-memphis-no-corinthians-vira-alvo-de-criticas-e-desata-comparacao-com-neymar]]>",
-      "time": "28/07 · 14:56",
-      "pubDate": "Tue, 28 Jul 2026 11:56:42 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pelo Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536607/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pelo-paulista-feminino",
+      "pubDate": "Wed, 29 Jul 2026 08:31:00 -0300",
+      "date": "29/07 · 11:31"
+    },
     {
       "title": "Goleiro emprestado pelo Corinthians estreia em time dos Emirados Árabes após cinco meses de espera",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536603/goleiro-emprestado-pelo-corinthians-estreia-em-time-dos-emirados-arabes-apos-cinco-meses-de-espera",
