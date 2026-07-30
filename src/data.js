@@ -1,70 +1,102 @@
-// Gerado automaticamente em 30/07/2026, 19:05:22
+// Gerado automaticamente em 30/07/2026, 22:54:18
 const LIVE_DATA = {
-  "updatedAt": "2026-07-30T19:05:22.157Z",
+  "updatedAt": "2026-07-30T22:54:18.463Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diretor da Fatal Fans explica antecipação que ajudou Corinthians a quitar transfer ban na Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536725/diretor-da-fatal-fans-explica-antecipacao-que-ajudou-corinthians-a-quitar-transfer-ban-na-fifa",
-      "time": "30/07 · 18:49",
-      "pubDate": "Thu, 30 Jul 2026 15:49:57 -0300"
+      "title": "Elenco do Corinthians manda recado de apoio a Vitinho após cirurgia no joelho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536742/elenco-do-corinthians-manda-recado-de-apoio-a-vitinho-apos-cirurgia-no-joelho",
+      "time": "30/07 · 22:44",
+      "pubDate": "Thu, 30 Jul 2026 19:44:56 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians vive expectativa de alcançar marca centenária contra o Athletico-PR",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536650/volante-do-corinthians-vive-expectativa-de-alcancar-marca-centenaria-contra-o-athletico-pr",
-      "time": "30/07 · 18:36",
-      "pubDate": "Thu, 30 Jul 2026 15:36:00 -0300"
+      "title": "Gaviões da Fiel repudia veto a faixas de protesto antes de jogo do Corinthians em Itaquera",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536741/gavioes-da-fiel-repudia-veto-a-faixas-de-protesto-antes-de-jogo-do-corinthians-em-itaquera",
+      "time": "30/07 · 22:42",
+      "pubDate": "Thu, 30 Jul 2026 19:42:37 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-zagueiro antecipa confronto entre Corinthians e Athletico e rasga elogios a Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536723/ex-zagueiro-antecipa-confronto-entre-corinthians-e-athletico-e-rasga-elogios-a-fernando-diniz",
-      "time": "30/07 · 18:15",
-      "pubDate": "Thu, 30 Jul 2026 15:15:00 -0300"
+      "title": "MP exige explicações do Corinthians sobre possíveis irregularidades em programa de prêmios",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536738/mp-exige-explicacoes-do-corinthians-sobre-possiveis-irregularidades-em-programa-de-premios",
+      "time": "30/07 · 22:11",
+      "pubDate": "Thu, 30 Jul 2026 19:11:41 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians defende retrospecto perfeito contra o caçula da elite do futsal paulista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536644/corinthians-defende-retrospecto-perfeito-contra-o-cacula-da-elite-do-futsal-paulista",
-      "time": "30/07 · 18:03",
-      "pubDate": "Thu, 30 Jul 2026 15:03:00 -0300"
+      "title": "Atacante do Corinthians tem ausência confirmada para duelo contra o Athletico-PR",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536735/atacante-do-corinthians-tem-ausencia-confirmada-para-duelo-contra-o-athletico-pr",
+      "time": "30/07 · 21:57",
+      "pubDate": "Thu, 30 Jul 2026 18:57:10 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode encostar no G5 em caso de vitória sobre o Atheltico-PR no Brasileirão; veja tabela",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536708/corinthians-pode-encostar-no-g5-em-caso-de-vitoria-sobre-o-atheltico-pr-no-brasileirao-veja-tabela",
-      "time": "30/07 · 17:33",
-      "pubDate": "Thu, 30 Jul 2026 14:33:00 -0300"
+      "title": "Corinthians está escalado com diversas mudanças para enfrentar o Athletico-PR pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536712/corinthians-esta-escalado-com-diversas-mudancas-para-enfrentar-o-athletico-pr-pelo-brasileirao",
+      "time": "30/07 · 21:30",
+      "pubDate": "Thu, 30 Jul 2026 18:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "STJD remarca julgamento de confusão entre Corinthians e Bahia; entenda as denúncias",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536722/stjd-remarca-julgamento-de-confusao-entre-corinthians-e-bahia-entenda-as-denuncias",
-      "time": "30/07 · 17:23",
-      "pubDate": "Thu, 30 Jul 2026 14:23:00 -0300"
+      "title": "Goleira do Corinthians minimiza tabu em Barueri e comenta sequência como visitante contra rival",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536703/goleira-do-corinthians-minimiza-tabu-em-barueri-e-comenta-sequencia-como-visitante-contra-rival",
+      "time": "30/07 · 21:02",
+      "pubDate": "Thu, 30 Jul 2026 18:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleira do Corinthians aponta fator que voltou a decidir derrota para o Palmeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536702/goleira-do-corinthians-aponta-fator-que-voltou-a-decidir-derrota-para-o-palmeiras",
-      "time": "30/07 · 17:01",
-      "pubDate": "Thu, 30 Jul 2026 14:01:00 -0300"
+      "title": "Entre eliminação e arrancada no Brasileiro: veja como chega o Athletico para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536718/entre-eliminacao-e-arrancada-no-brasileiro-veja-como-chega-o-athletico-para-enfrentar-o-corinthians",
+      "time": "30/07 · 20:32",
+      "pubDate": "Thu, 30 Jul 2026 17:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conta com sete desfalques para duelo contra o Athletico-PR pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536701/corinthians-conta-com-sete-desfalques-para-duelo-contra-o-athletico-pr-pelo-brasileirao",
-      "time": "30/07 · 16:35",
-      "pubDate": "Thu, 30 Jul 2026 13:35:00 -0300"
+      "title": "Técnica do Corinthians explica hierarquias e pouca minutagem de atletas: 'Baseada em trabalho'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536700/tecnica-do-corinthians-explica-hierarquias-e-pouca-minutagem-de-atletas-baseada-em-trabalho",
+      "time": "30/07 · 20:07",
+      "pubDate": "Thu, 30 Jul 2026 17:07:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz está preocupado com mais 5 pendurados no Corinthians além de Hugo Souza, Bidon e Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-esta-preocupado-com-mais-5-pendurados-no-corinthians-alem-de-hugo-souza-bidon-e-yuri-alberto]]>",
+      "time": "30/07 · 17:47",
+      "pubDate": "Thu, 30 Jul 2026 14:47:11 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Garro vive boa fase no Corinthians e mira atingir melhor temporada de sua carreira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-vive-boa-fase-no-corinthians-e-mira-atingir-melhor-temporada-de-sua-carreira]]>",
+      "time": "30/07 · 16:29",
+      "pubDate": "Thu, 30 Jul 2026 13:29:03 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Mendoza, destaque do Athletico-PR, projeta reencontro com o Corinthians: “Será um jogo difícil”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/mendoza-destaque-do-athletico-pr-projeta-reencontro-com-o-corinthians-sera-um-jogo-dificil]]>",
+      "time": "30/07 · 16:00",
+      "pubDate": "Thu, 30 Jul 2026 13:00:53 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gui Negão pode voltar ao Corinthians contra maior vítima e ganhar nova chance com Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-pode-voltar-ao-corinthians-contra-maior-vitima-e-ganhar-nova-chance-com-diniz]]>",
+      "time": "30/07 · 15:27",
+      "pubDate": "Thu, 30 Jul 2026 12:27:24 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-athletico-pr-hugo-souza-vence-duelo-com-santos-e-apresenta-melhor-media-defensiva]]>",
       "time": "29/07 · 22:43",
       "pubDate": "Wed, 29 Jul 2026 19:43:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ana Thaís Matos reprova contrato de Memphis Depay no Corinthians: “Foi tudo muito absurdo”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ana-thais-matos-reprova-contrato-de-memphis-depay-no-corinthians-foi-tudo-muito-absurdo]]>",
-      "time": "29/07 · 21:59",
-      "pubDate": "Wed, 29 Jul 2026 18:59:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kaio César cresce com Fernando Diniz e se firma como arma ofensiva do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-cresce-com-fernando-diniz-e-se-firma-como-arma-ofensiva-do-corinthians]]>",
-      "time": "29/07 · 21:43",
-      "pubDate": "Wed, 29 Jul 2026 18:43:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians apresenta números mais elevados no Brasileirão após a chegada de Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-apresenta-numeros-mais-elevados-no-brasileirao-apos-a-chegada-de-diniz]]>",
-      "time": "29/07 · 18:25",
-      "pubDate": "Wed, 29 Jul 2026 15:25:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis posta mensagem misteriosa e dá pistas sobre negociação com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-posta-mensagem-misteriosa-e-da-pistas-sobre-negociacao-com-o-corinthians]]>",
-      "time": "29/07 · 17:54",
-      "pubDate": "Wed, 29 Jul 2026 14:54:46 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira do Corinthians minimiza tabu em Barueri e comenta sequência como visitante contra rival",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536703/goleira-do-corinthians-minimiza-tabu-em-barueri-e-comenta-sequencia-como-visitante-contra-rival",
+      "pubDate": "Thu, 30 Jul 2026 18:02:00 -0300",
+      "date": "30/07 · 21:02"
+    },
+    {
       "title": "Goleira do Corinthians aponta fator que voltou a decidir derrota para o Palmeiras",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536702/goleira-do-corinthians-aponta-fator-que-voltou-a-decidir-derrota-para-o-palmeiras",
       "pubDate": "Thu, 30 Jul 2026 14:01:00 -0300",
@@ -222,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536660/saiba-onde-assistir-ao-duelo-entre-corinthians-e-athletico-paranaense-pelo-brasileirao",
       "pubDate": "Thu, 30 Jul 2026 08:30:00 -0300",
       "date": "30/07 · 11:30"
-    },
-    {
-      "title": "Corinthians iguala sequência vitoriosa de 2024 após goleada sobre o Bragantino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536645/corinthians-iguala-sequencia-vitoriosa-de-2024-apos-goleada-sobre-o-bragantino",
-      "pubDate": "Wed, 29 Jul 2026 22:45:00 -0300",
-      "date": "30/07 · 01:45"
     }
   ]
 };
