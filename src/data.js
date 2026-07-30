@@ -1,7 +1,111 @@
-// Gerado automaticamente em 29/07/2026, 22:44:51
+// Gerado automaticamente em 30/07/2026, 10:08:01
 const LIVE_DATA = {
-  "updatedAt": "2026-07-29T22:44:51.667Z",
+  "updatedAt": "2026-07-30T10:08:01.442Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Kaio César assume protagonismo e lidera estatísticas do Corinthians pós-Copa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-assume-protagonismo-e-lidera-estatisticas-do-corinthians-pos-copa/",
+      "time": "30/07 · 09:00",
+      "pubDate": "Thu, 30 Jul 2026 09:00:46 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Athletico Paranaense de olho no G6 do Brasileirão; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536652/corinthians-recebe-o-athletico-paranaense-de-olho-no-g6-do-brasileirao-saiba-tudo",
+      "time": "30/07 · 03:01",
+      "pubDate": "Thu, 30 Jul 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians iguala sequência vitoriosa de 2024 após goleada sobre o Bragantino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536645/corinthians-iguala-sequencia-vitoriosa-de-2024-apos-goleada-sobre-o-bragantino",
+      "time": "30/07 · 01:45",
+      "pubDate": "Wed, 29 Jul 2026 22:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-jogador da Juventus e da seleção da Itália escolhe Corinthians como time favorito no Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536685/ex-jogador-da-juventus-e-da-selecao-da-italia-escolhe-corinthians-como-time-favorito-no-brasil",
+      "time": "30/07 · 01:29",
+      "pubDate": "Wed, 29 Jul 2026 22:29:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians troca minutas contratuais com Memphis e aguarda exames para selar renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-troca-minutas-contratuais-com-memphis-e-aguarda-exames-para-selar-renovacao/",
+      "time": "30/07 · 01:24",
+      "pubDate": "Thu, 30 Jul 2026 01:24:22 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem participação confirmada em torneio comemorativo de futsal em Santa Catarina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536672/corinthians-tem-participacao-confirmada-em-torneio-comemorativo-de-futsal-em-santa-catarina",
+      "time": "30/07 · 01:02",
+      "pubDate": "Wed, 29 Jul 2026 22:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode alcançar maior sequência de vitórias em Itaquera desde reta final histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536633/corinthians-pode-alcancar-maior-sequencia-de-vitorias-em-itaquera-desde-reta-final-historica",
+      "time": "30/07 · 00:45",
+      "pubDate": "Wed, 29 Jul 2026 21:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Athletico-PR prega respeito ao Corinthians antes de reencontro pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536658/atacante-do-athletico-pr-prega-respeito-ao-corinthians-antes-de-reencontro-pelo-brasileirao",
+      "time": "30/07 · 00:30",
+      "pubDate": "Wed, 29 Jul 2026 21:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz jogo abaixo e perde para o Palmeiras no Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536680/corinthians-faz-jogo-abaixo-e-perde-para-o-palmeiras-no-paulistao-feminino",
+      "time": "30/07 · 00:03",
+      "pubDate": "Wed, 29 Jul 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians supera o São José nos minutos finais e mantém invencibilidade no Talentos LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536679/corinthians-supera-o-sao-jose-nos-minutos-finais-e-mantem-invencibilidade-no-talentos-lnf",
+      "time": "29/07 · 23:58",
+      "pubDate": "Wed, 29 Jul 2026 20:58:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do treino do Corinthians nesta quarta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quarta-feira-19/",
+      "time": "29/07 · 23:42",
+      "pubDate": "Wed, 29 Jul 2026 23:42:34 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Escalação: Corinthians deve ter improviso na defesa contra o Athletico-PR",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-deve-ter-improviso-na-defesa-contra-o-athletico-pr/",
+      "time": "29/07 · 23:36",
+      "pubDate": "Wed, 29 Jul 2026 23:36:37 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Athletico-PR: Hugo Souza vence duelo com Santos e apresenta melhor média defensiva",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-athletico-pr-hugo-souza-vence-duelo-com-santos-e-apresenta-melhor-media-defensiva]]>",
+      "time": "29/07 · 22:43",
+      "pubDate": "Wed, 29 Jul 2026 19:43:45 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -11,76 +115,28 @@ const LIVE_DATA = {
       "pubDate": "Wed, 29 Jul 2026 22:33:06 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca maior sequência invicta da temporada diante do Impacto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536634/corinthians-busca-maior-sequencia-invicta-da-temporada-diante-do-impacto",
-      "time": "29/07 · 22:33",
-      "pubDate": "Wed, 29 Jul 2026 19:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo da seleção portuguesa revela torcida pelo Corinthians e projeta futuro como técnico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536657/idolo-da-selecao-portuguesa-revela-torcida-pelo-corinthians-e-projeta-futuro-como-tecnico",
-      "time": "29/07 · 22:02",
-      "pubDate": "Wed, 29 Jul 2026 19:02:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ana Thaís Matos reprova contrato de Memphis Depay no Corinthians: “Foi tudo muito absurdo”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ana-thais-matos-reprova-contrato-de-memphis-depay-no-corinthians-foi-tudo-muito-absurdo]]>",
+      "time": "29/07 · 21:59",
+      "pubDate": "Wed, 29 Jul 2026 18:59:38 -0300"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Palmeiras x Corinthians pelo Paulista feminino: siga o placar em tempo real",
-      "url": "https://www.gazetaesportiva.com/futebol-feminino/palmeiras-x-corinthians-pelo-paulista-feminino-siga-o-placar-em-tempo-real/",
+      "title": "Palmeiras vence clássico contra o Corinthians pelo Paulista feminino",
+      "url": "https://www.gazetaesportiva.com/futebol-feminino/palmeiras-vence-classico-contra-o-corinthians-pelo-paulista-feminino/",
       "time": "29/07 · 21:55",
       "pubDate": "Wed, 29 Jul 2026 21:55:58 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians vira baixa para o clássico diante do Palmeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536664/dupla-do-corinthians-vira-baixa-para-o-classico-diante-do-palmeiras",
-      "time": "29/07 · 21:25",
-      "pubDate": "Wed, 29 Jul 2026 18:25:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Palmeiras pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536637/corinthians-esta-escalado-para-enfrentar-o-palmeiras-pelo-paulistao-feminino",
-      "time": "29/07 · 21:01",
-      "pubDate": "Wed, 29 Jul 2026 18:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Matheus Bidu fica fora de treino e desfalca o Corinthians contra o Athletico-PR",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536662/matheus-bidu-fica-fora-de-treino-e-desfalca-o-corinthians-contra-o-athletico-pr",
-      "time": "29/07 · 20:42",
-      "pubDate": "Wed, 29 Jul 2026 17:42:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia projeto para ampliar captação de jovens talentos no futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536628/corinthians-anuncia-projeto-para-ampliar-captacao-de-jovens-talentos-no-futsal",
-      "time": "29/07 · 20:33",
-      "pubDate": "Wed, 29 Jul 2026 17:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César se destaca em números ofensivos pelo Corinthians no Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536654/kaio-cesar-se-destaca-em-numeros-ofensivos-pelo-corinthians-no-campeonato-brasileiro",
-      "time": "29/07 · 20:04",
-      "pubDate": "Wed, 29 Jul 2026 17:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia-atacante do Corinthians deve ser desfalque em mata-mata da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536631/meia-do-corinthians-convocado-pela-selecao-deve-ser-desfalque-em-mata-mata-da-libertadores",
-      "time": "29/07 · 19:32",
-      "pubDate": "Wed, 29 Jul 2026 16:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kaio César cresce com Fernando Diniz e se firma como arma ofensiva do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-cresce-com-fernando-diniz-e-se-firma-como-arma-ofensiva-do-corinthians]]>",
+      "time": "29/07 · 21:43",
+      "pubDate": "Wed, 29 Jul 2026 18:43:25 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -137,68 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gavioes-comanda-pressao-e-blinda-renovacao-de-memphis-no-corinthians-em-meio-a-polemicas]]>",
       "time": "29/07 · 11:17",
       "pubDate": "Wed, 29 Jul 2026 08:17:05 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Athletico-PR pelo Campeonato Brasileiro: veja prováveis escalações e onde assistir",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/onde-assistir-corinthians/",
-      "time": "29/07 · 11:00",
-      "pubDate": "Wed, 29 Jul 2026 11:00:48 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Athletico-PR: Inteligência Artificial faz previsão do Campeonato Brasileiro e crava placar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-athletico-pr-inteligencia-artificial-faz-previsao-do-campeonato-brasileiro-e-crava-placar]]>",
-      "time": "29/07 · 11:00",
-      "pubDate": "Wed, 29 Jul 2026 08:00:07 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Entenda a lesão de Vitinho, do Corinthians, e os desafios para o retorno aos gramados",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-a-lesao-de-vitinho-do-corinthians-e-os-desafios-para-o-retorno-aos-gramados/",
-      "time": "29/07 · 10:00",
-      "pubDate": "Wed, 29 Jul 2026 10:00:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Renovação de Memphis com o Corinthians pode melar; veja detalhes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/renovacao-de-memphis-com-o-corinthians-pode-melar-veja-detalhes/",
-      "time": "29/07 · 03:01",
-      "pubDate": "Wed, 29 Jul 2026 03:01:01 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians recua por Wesley, e Cruzeiro retoma negociações com atacante do Al Nassr",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recua-por-wesley-e-cruzeiro-retoma-negociacoes-com-atacante-do-al-nassr]]>",
-      "time": "28/07 · 23:40",
-      "pubDate": "Tue, 28 Jul 2026 20:40:12 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras x Corinthians: prováveis escalações e onde assistir ao jogo pelo Paulista feminino",
-      "url": "https://www.gazetaesportiva.com/futebol-feminino/palmeiras-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-paulista-feminino/",
-      "time": "28/07 · 23:00",
-      "pubDate": "Tue, 28 Jul 2026 23:00:26 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Donelli, emprestado pelo Corinthians, pega pênalti e se destaca em estreia pelo Shabab Al Ahli",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-donelli-emprestado-pelo-corinthians-pega-penalti-e-se-destaca-em-estreia-pelo-shabab-al-ahli]]>",
-      "time": "28/07 · 21:24",
-      "pubDate": "Tue, 28 Jul 2026 18:24:02 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians iguala sequência vitoriosa de 2024 após goleada sobre o Bragantino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536645/corinthians-iguala-sequencia-vitoriosa-de-2024-apos-goleada-sobre-o-bragantino",
+      "pubDate": "Wed, 29 Jul 2026 22:45:00 -0300",
+      "date": "30/07 · 01:45"
+    },
     {
       "title": "Goleiro revelado pelo Corinthians tem casa destruída por incêndio em Campinas",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536632/goleiro-revelado-pelo-corinthians-tem-casa-em-campinas-destruida-por-incendio",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536641/corinthians-goleia-o-red-bull-bragantino-com-autoridade-pelo-paulistao-feminino-sub-20",
       "pubDate": "Wed, 29 Jul 2026 12:07:00 -0300",
       "date": "29/07 · 15:07"
-    },
-    {
-      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras pelo Paulista Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536607/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-pelo-paulista-feminino",
-      "pubDate": "Wed, 29 Jul 2026 08:31:00 -0300",
-      "date": "29/07 · 11:31"
     }
   ]
 };
