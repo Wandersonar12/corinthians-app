@@ -1,54 +1,86 @@
-// Gerado automaticamente em 30/07/2026, 13:20:21
+// Gerado automaticamente em 30/07/2026, 19:05:22
 const LIVE_DATA = {
-  "updatedAt": "2026-07-30T13:20:21.133Z",
+  "updatedAt": "2026-07-30T19:05:22.157Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Emily Lima supera número de derrotas de Lucas Piccinato no Corinthians; veja o retrospecto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536684/emily-lima-supera-numero-de-derrotas-de-lucas-piccinato-no-corinthians-veja-o-retrospecto",
-      "time": "30/07 · 13:03",
-      "pubDate": "Thu, 30 Jul 2026 10:03:00 -0300"
+      "title": "Diretor da Fatal Fans explica antecipação que ajudou Corinthians a quitar transfer ban na Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536725/diretor-da-fatal-fans-explica-antecipacao-que-ajudou-corinthians-a-quitar-transfer-ban-na-fifa",
+      "time": "30/07 · 18:49",
+      "pubDate": "Thu, 30 Jul 2026 15:49:57 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode chegar à quinta colocação entre os melhores mandantes do Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536653/corinthians-pode-chegar-a-quinta-colocacao-entre-os-melhores-mandantes-do-brasileirao-2026",
-      "time": "30/07 · 12:31",
-      "pubDate": "Thu, 30 Jul 2026 09:31:00 -0300"
+      "title": "Volante do Corinthians vive expectativa de alcançar marca centenária contra o Athletico-PR",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536650/volante-do-corinthians-vive-expectativa-de-alcancar-marca-centenaria-contra-o-athletico-pr",
+      "time": "30/07 · 18:36",
+      "pubDate": "Thu, 30 Jul 2026 15:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Corinthians x Athletico-PR: provável escalação da 21ª rodada do Brasileirão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128822/corinthians-x-athletico-pr-provavel-escalacao-da-21-rodada-do-brasileirao",
-      "time": "30/07 · 12:15",
-      "pubDate": "Thu, 30 Jul 2026 09:15:38 -0300"
+      "title": "Ex-zagueiro antecipa confronto entre Corinthians e Athletico e rasga elogios a Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536723/ex-zagueiro-antecipa-confronto-entre-corinthians-e-athletico-e-rasga-elogios-a-fernando-diniz",
+      "time": "30/07 · 18:15",
+      "pubDate": "Thu, 30 Jul 2026 15:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Impacto em busca da liderança do Paulista de Futsal; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536659/corinthians-recebe-o-impacto-em-busca-da-lideranca-do-paulista-de-futsal-saiba-tudo",
-      "time": "30/07 · 12:05",
-      "pubDate": "Thu, 30 Jul 2026 09:05:00 -0300"
+      "title": "Corinthians defende retrospecto perfeito contra o caçula da elite do futsal paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536644/corinthians-defende-retrospecto-perfeito-contra-o-cacula-da-elite-do-futsal-paulista",
+      "time": "30/07 · 18:03",
+      "pubDate": "Thu, 30 Jul 2026 15:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Athletico Paranaense pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536660/saiba-onde-assistir-ao-duelo-entre-corinthians-e-athletico-paranaense-pelo-brasileirao",
-      "time": "30/07 · 11:30",
-      "pubDate": "Thu, 30 Jul 2026 08:30:00 -0300"
+      "title": "Corinthians pode encostar no G5 em caso de vitória sobre o Atheltico-PR no Brasileirão; veja tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536708/corinthians-pode-encostar-no-g5-em-caso-de-vitoria-sobre-o-atheltico-pr-no-brasileirao-veja-tabela",
+      "time": "30/07 · 17:33",
+      "pubDate": "Thu, 30 Jul 2026 14:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: enigma holandês, fim de preparação e denúncia no STJD",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536688/ultimas-do-corinthians-enigma-holandes-fim-de-preparacao-e-denuncia-no-stjd",
-      "time": "30/07 · 10:30",
-      "pubDate": "Thu, 30 Jul 2026 07:30:00 -0300"
+      "title": "STJD remarca julgamento de confusão entre Corinthians e Bahia; entenda as denúncias",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536722/stjd-remarca-julgamento-de-confusao-entre-corinthians-e-bahia-entenda-as-denuncias",
+      "time": "30/07 · 17:23",
+      "pubDate": "Thu, 30 Jul 2026 14:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleira do Corinthians aponta fator que voltou a decidir derrota para o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536702/goleira-do-corinthians-aponta-fator-que-voltou-a-decidir-derrota-para-o-palmeiras",
+      "time": "30/07 · 17:01",
+      "pubDate": "Thu, 30 Jul 2026 14:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conta com sete desfalques para duelo contra o Athletico-PR pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536701/corinthians-conta-com-sete-desfalques-para-duelo-contra-o-athletico-pr-pelo-brasileirao",
+      "time": "30/07 · 16:35",
+      "pubDate": "Thu, 30 Jul 2026 13:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Escalação do Corinthians: Matheus Bidu é desfalque e Pedro Milans deve ser titular",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/escalacao-do-corinthians-matheus-bidu-e-desfalque-e-pedro-milans-deve-ser-titular]]>",
+      "time": "30/07 · 13:10",
+      "pubDate": "Thu, 30 Jul 2026 10:10:08 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tenta igualar melhor sequência no Brasileirão e mede forças com rival em grande fase",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-igualar-melhor-sequencia-no-brasileirao-e-mede-forcas-com-rival-em-grande-fase]]>",
+      "time": "30/07 · 12:39",
+      "pubDate": "Thu, 30 Jul 2026 09:39:02 -0300"
     },
     {
       "source": "Bolavip",
@@ -57,22 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-athletico-pr-onde-assistir-ao-vivo-horario-escalacoes-brasileirao-2026-21-rodada]]>",
       "time": "30/07 · 03:01",
       "pubDate": "Thu, 30 Jul 2026 00:01:11 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Athletico Paranaense de olho no G6 do Brasileirão; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536652/corinthians-recebe-o-athletico-paranaense-de-olho-no-g6-do-brasileirao-saiba-tudo",
-      "time": "30/07 · 03:01",
-      "pubDate": "Thu, 30 Jul 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians iguala sequência vitoriosa de 2024 após goleada sobre o Bragantino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536645/corinthians-iguala-sequencia-vitoriosa-de-2024-apos-goleada-sobre-o-bragantino",
-      "time": "30/07 · 01:45",
-      "pubDate": "Wed, 29 Jul 2026 22:45:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-posta-mensagem-misteriosa-e-da-pistas-sobre-negociacao-com-o-corinthians]]>",
       "time": "29/07 · 17:54",
       "pubDate": "Wed, 29 Jul 2026 14:54:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Bidu pode desfalcar Corinthians em sequência inédita após mais de um ano sem jogos seguidos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-pode-desfalcar-corinthians-em-sequencia-inedita-apos-mais-de-um-ano-sem-jogos-seguidos]]>",
-      "time": "29/07 · 12:48",
-      "pubDate": "Wed, 29 Jul 2026 09:48:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Odair Hellmann mira encerrar jejum em Corinthians x Athletico Paranaense para seguir perseguindo Palmeiras e Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/odair-hellmann-mira-encerrar-jejum-em-corinthians-x-athletico-paranaense-para-seguir-perseguindo-palmeiras-e-flamengo]]>",
-      "time": "29/07 · 12:25",
-      "pubDate": "Wed, 29 Jul 2026 09:25:35 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira do Corinthians aponta fator que voltou a decidir derrota para o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536702/goleira-do-corinthians-aponta-fator-que-voltou-a-decidir-derrota-para-o-palmeiras",
+      "pubDate": "Thu, 30 Jul 2026 14:01:00 -0300",
+      "date": "30/07 · 17:01"
+    },
+    {
       "title": "Corinthians pode chegar à quinta colocação entre os melhores mandantes do Brasileirão 2026",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536653/corinthians-pode-chegar-a-quinta-colocacao-entre-os-melhores-mandantes-do-brasileirao-2026",
       "pubDate": "Thu, 30 Jul 2026 09:31:00 -0300",
@@ -222,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536645/corinthians-iguala-sequencia-vitoriosa-de-2024-apos-goleada-sobre-o-bragantino",
       "pubDate": "Wed, 29 Jul 2026 22:45:00 -0300",
       "date": "30/07 · 01:45"
-    },
-    {
-      "title": "Goleiro revelado pelo Corinthians tem casa destruída por incêndio em Campinas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536632/goleiro-revelado-pelo-corinthians-tem-casa-em-campinas-destruida-por-incendio",
-      "pubDate": "Wed, 29 Jul 2026 15:35:00 -0300",
-      "date": "29/07 · 18:35"
     }
   ]
 };
