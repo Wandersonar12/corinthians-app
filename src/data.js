@@ -1,70 +1,70 @@
-// Gerado automaticamente em 30/07/2026, 22:54:18
+// Gerado automaticamente em 31/07/2026, 10:24:56
 const LIVE_DATA = {
-  "updatedAt": "2026-07-30T22:54:18.463Z",
+  "updatedAt": "2026-07-31T10:24:56.821Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Elenco do Corinthians manda recado de apoio a Vitinho após cirurgia no joelho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536742/elenco-do-corinthians-manda-recado-de-apoio-a-vitinho-apos-cirurgia-no-joelho",
-      "time": "30/07 · 22:44",
-      "pubDate": "Thu, 30 Jul 2026 19:44:56 -0300"
+      "title": "VÍDEO: Culpa do gramado? Diniz comenta as lesões de Yuri Alberto e Labyad em Corinthians x Athletico-PR",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128845/culpa-do-gramado-diniz-comenta-as-lesoes-de-yuri-alberto-e-labyad-em-corinthians-x-athletico-pr",
+      "time": "31/07 · 03:18",
+      "pubDate": "Fri, 31 Jul 2026 00:18:53 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gaviões da Fiel repudia veto a faixas de protesto antes de jogo do Corinthians em Itaquera",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536741/gavioes-da-fiel-repudia-veto-a-faixas-de-protesto-antes-de-jogo-do-corinthians-em-itaquera",
-      "time": "30/07 · 22:42",
-      "pubDate": "Thu, 30 Jul 2026 19:42:37 -0300"
+      "title": "Entenda o atual estágio das negociações entre Memphis Depay e Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536783/entenda-o-atual-estagio-das-negociacoes-entre-memphis-depay-e-corinthians",
+      "time": "31/07 · 02:51",
+      "pubDate": "Thu, 30 Jul 2026 23:51:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "MP exige explicações do Corinthians sobre possíveis irregularidades em programa de prêmios",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536738/mp-exige-explicacoes-do-corinthians-sobre-possiveis-irregularidades-em-programa-de-premios",
-      "time": "30/07 · 22:11",
-      "pubDate": "Thu, 30 Jul 2026 19:11:41 -0300"
+      "title": "Fernando Diniz detona gramado da Neo Química Arena e faz cobranças após lesões no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536784/fernando-diniz-detona-gramado-da-neo-quimica-arena-e-faz-cobrancas-apos-lesoes-no-corinthians",
+      "time": "31/07 · 02:43",
+      "pubDate": "Thu, 30 Jul 2026 23:43:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians tem ausência confirmada para duelo contra o Athletico-PR",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536735/atacante-do-corinthians-tem-ausencia-confirmada-para-duelo-contra-o-athletico-pr",
-      "time": "30/07 · 21:57",
-      "pubDate": "Thu, 30 Jul 2026 18:57:10 -0300"
+      "title": "Corinthians cai uma posição no Campeonato Brasileiro após empate com Athletico-PR; veja tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536777/corinthians-cai-uma-posicao-no-campeonato-brasileiro-apos-empate-com-athletico-pr-veja-tabela",
+      "time": "31/07 · 02:37",
+      "pubDate": "Thu, 30 Jul 2026 23:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado com diversas mudanças para enfrentar o Athletico-PR pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536712/corinthians-esta-escalado-com-diversas-mudancas-para-enfrentar-o-athletico-pr-pelo-brasileirao",
-      "time": "30/07 · 21:30",
-      "pubDate": "Thu, 30 Jul 2026 18:30:00 -0300"
+      "title": "Fiel se mostra insatisfeita e distribui notas baixas para o elenco após empate do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536785/fiel-se-mostra-insatisfeita-e-distribui-notas-baixas-para-o-elenco-apos-empate-do-corinthians",
+      "time": "31/07 · 02:26",
+      "pubDate": "Thu, 30 Jul 2026 23:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleira do Corinthians minimiza tabu em Barueri e comenta sequência como visitante contra rival",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536703/goleira-do-corinthians-minimiza-tabu-em-barueri-e-comenta-sequencia-como-visitante-contra-rival",
-      "time": "30/07 · 21:02",
-      "pubDate": "Thu, 30 Jul 2026 18:02:00 -0300"
+      "title": "Corinthians vê clube brasileiro melhorar condições e pode perder Wesley em meio a transfer ban",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536782/corinthians-ve-clube-brasileiro-melhorar-condicoes-e-pode-perder-wesley-em-meio-a-transfer-ban",
+      "time": "31/07 · 02:15",
+      "pubDate": "Thu, 30 Jul 2026 23:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Entre eliminação e arrancada no Brasileiro: veja como chega o Athletico para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536718/entre-eliminacao-e-arrancada-no-brasileiro-veja-como-chega-o-athletico-para-enfrentar-o-corinthians",
-      "time": "30/07 · 20:32",
-      "pubDate": "Thu, 30 Jul 2026 17:32:00 -0300"
+      "title": "Corinthians amplia invencibilidade jogando na Neo Química Arena contra o Athletico-PR",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536756/corinthians-amplia-invencibilidade-jogando-na-neo-quimica-arena-contra-o-athletico-pr",
+      "time": "31/07 · 02:00",
+      "pubDate": "Thu, 30 Jul 2026 23:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Corinthians explica hierarquias e pouca minutagem de atletas: 'Baseada em trabalho'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536700/tecnica-do-corinthians-explica-hierarquias-e-pouca-minutagem-de-atletas-baseada-em-trabalho",
-      "time": "30/07 · 20:07",
-      "pubDate": "Thu, 30 Jul 2026 17:07:00 -0300"
+      "title": "Torcida do Corinthians cobra Conselho e elenco após empate no Brasileirão e projeta 'guerra' na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536774/torcida-do-corinthians-cobra-conselho-e-elenco-apos-empate-no-brasileirao-e-projeta-guerra-na-copa",
+      "time": "31/07 · 01:24",
+      "pubDate": "Thu, 30 Jul 2026 22:24:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,34 +200,46 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Culpa do gramado? Diniz comenta as lesões de Yuri Alberto e Labyad em Corinthians x Athletico-PR",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128845/culpa-do-gramado-diniz-comenta-as-lesoes-de-yuri-alberto-e-labyad-em-corinthians-x-athletico-pr",
+      "pubDate": "Fri, 31 Jul 2026 00:18:53 -0300",
+      "date": "31/07 · 03:18"
+    },
+    {
+      "title": "VÍDEO: Insatisfação com a reserva, desafios do ataque do Athletico e gramado ruim: Zona Mista André Ramalho",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128842/insatisfacao-com-a-reserva-desafios-do-ataque-do-athletico-e-gramado-ruim-zona-mista-andre-ramalho",
+      "pubDate": "Thu, 30 Jul 2026 23:28:11 -0300",
+      "date": "31/07 · 02:28"
+    },
+    {
+      "title": "VÍDEO: Gramado prejudicou, posição improvisada e Yuri e Labyad lesionados: Zona mista Raniele",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128839/gramado-prejudicou-posicao-improvisada-e-yuri-e-labyad-lesionados-zona-mista-raniele",
+      "pubDate": "Thu, 30 Jul 2026 23:00:36 -0300",
+      "date": "31/07 · 02:00"
+    },
+    {
+      "title": "Corinthians goleia o Impacto e amplia vantagem na liderança do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536773/corinthians-goleia-o-impacto-e-amplia-vantagem-na-lideranca-do-paulista-de-futsal",
+      "pubDate": "Thu, 30 Jul 2026 22:22:00 -0300",
+      "date": "31/07 · 01:22"
+    },
+    {
+      "title": "VÍDEO: Melhores Momentos: Corinthians 0x0 Athletico-PR | 21ª rodada | Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128834/melhores-momentos-corinthians-0x0-athletico-pr-21-rodada-brasileirao-2026",
+      "pubDate": "Thu, 30 Jul 2026 21:49:00 -0300",
+      "date": "31/07 · 00:49"
+    },
+    {
+      "title": "VÍDEO: Atualização: processo de limpeza do teto da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128830/atualizacao-processo-de-limpeza-do-teto-da-neo-quimica-arena",
+      "pubDate": "Thu, 30 Jul 2026 18:27:00 -0300",
+      "date": "30/07 · 21:27"
+    },
+    {
       "title": "Goleira do Corinthians minimiza tabu em Barueri e comenta sequência como visitante contra rival",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536703/goleira-do-corinthians-minimiza-tabu-em-barueri-e-comenta-sequencia-como-visitante-contra-rival",
       "pubDate": "Thu, 30 Jul 2026 18:02:00 -0300",
       "date": "30/07 · 21:02"
-    },
-    {
-      "title": "Goleira do Corinthians aponta fator que voltou a decidir derrota para o Palmeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536702/goleira-do-corinthians-aponta-fator-que-voltou-a-decidir-derrota-para-o-palmeiras",
-      "pubDate": "Thu, 30 Jul 2026 14:01:00 -0300",
-      "date": "30/07 · 17:01"
-    },
-    {
-      "title": "Corinthians pode chegar à quinta colocação entre os melhores mandantes do Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536653/corinthians-pode-chegar-a-quinta-colocacao-entre-os-melhores-mandantes-do-brasileirao-2026",
-      "pubDate": "Thu, 30 Jul 2026 09:31:00 -0300",
-      "date": "30/07 · 12:31"
-    },
-    {
-      "title": "VÍDEO: Corinthians x Athletico-PR: provável escalação da 21ª rodada do Brasileirão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128822/corinthians-x-athletico-pr-provavel-escalacao-da-21-rodada-do-brasileirao",
-      "pubDate": "Thu, 30 Jul 2026 09:15:38 -0300",
-      "date": "30/07 · 12:15"
-    },
-    {
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Athletico Paranaense pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536660/saiba-onde-assistir-ao-duelo-entre-corinthians-e-athletico-paranaense-pelo-brasileirao",
-      "pubDate": "Thu, 30 Jul 2026 08:30:00 -0300",
-      "date": "30/07 · 11:30"
     }
   ]
 };
