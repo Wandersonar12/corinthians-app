@@ -1,7 +1,79 @@
-// Gerado automaticamente em 31/07/2026, 22:46:50
+// Gerado automaticamente em 01/08/2026, 09:47:02
 const LIVE_DATA = {
-  "updatedAt": "2026-07-31T22:46:50.765Z",
+  "updatedAt": "2026-08-01T09:47:02.212Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Mercado da bola do Corinthians: veja chegadas, saídas e negociações do Timão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/mercado-da-bola-do-corinthians-veja-chegadas-saidas-e-negociacoes-do-timao/",
+      "time": "01/08 · 09:00",
+      "pubDate": "Sat, 01 Aug 2026 09:00:37 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Contrato de Memphis com o Corinthians chega ao fim sem definição sobre futuro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/contrato-de-memphis-com-o-corinthians-chega-ao-fim-sem-definicao-sobre-futuro/",
+      "time": "01/08 · 08:00",
+      "pubDate": "Sat, 01 Aug 2026 08:00:23 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleada do Corinthians movimenta ranking de artilheiros do futsal em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536815/goleada-do-corinthians-movimenta-ranking-de-artilheiros-do-futsal-em-2026",
+      "time": "01/08 · 01:31",
+      "pubDate": "Fri, 31 Jul 2026 22:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians marca nove vezes diante do Atlântico e garante liderança no Talentos LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536869/corinthians-marca-nove-vezes-diante-do-atlantico-e-garante-lideranca-no-talentos-lnf",
+      "time": "01/08 · 01:24",
+      "pubDate": "Fri, 31 Jul 2026 22:24:15 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians critica gramado da Neo Química Arena após empate no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536810/dupla-do-corinthians-critica-gramado-da-neo-quimica-arena-apos-empate-no-brasileirao",
+      "time": "01/08 · 00:33",
+      "pubDate": "Fri, 31 Jul 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians comenta desempenho como zagueiro e se coloca à disposição de Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536811/volante-do-corinthians-comenta-desempenho-como-zagueiro-e-se-coloca-a-disposicao-de-diniz",
+      "time": "01/08 · 00:03",
+      "pubDate": "Fri, 31 Jul 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conquista marca defensiva como mandante em competições nacionais neste século",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536797/corinthians-conquista-marca-defensiva-como-mandante-em-competicoes-nacionais-neste-seculo",
+      "time": "31/07 · 23:32",
+      "pubDate": "Fri, 31 Jul 2026 20:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Empresária explica valorização de lateral do Corinthians após convocações para a Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536837/empresaria-explica-valorizacao-de-lateral-do-corinthians-apos-convocacoes-para-a-selecao",
+      "time": "31/07 · 23:02",
+      "pubDate": "Fri, 31 Jul 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "União Suzano x Corinthians: prováveis escalações e onde assistir ao jogo pelo Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/uniao-suzano-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
+      "time": "31/07 · 23:00",
+      "pubDate": "Fri, 31 Jul 2026 23:00:57 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,52 +99,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 31 Jul 2026 19:01:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Empresa estipula prazo para retomar 'padrão de qualidade' do gramado do estádio do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536860/empresa-estipula-prazo-para-retomar-padrao-de-qualidade-do-gramado-do-estadio-do-corinthians",
-      "time": "31/07 · 21:43",
-      "pubDate": "Fri, 31 Jul 2026 18:43:56 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Garro se revolta com gramado, bate boca com dirigentes e clima ferve no vestiário do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-se-revolta-com-gramado-bate-boca-com-dirigentes-e-clima-ferve-no-vestiario-do-corinthians]]>",
+      "time": "31/07 · 21:14",
+      "pubDate": "Fri, 31 Jul 2026 18:14:38 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Raniele brilha como zagueiro improvisado e lidera defesa do Corinthians contra o Athletico-PR",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536775/raniele-brilha-como-zagueiro-improvisado-e-lidera-defesa-do-corinthians-contra-o-athletico-pr",
-      "time": "31/07 · 21:33",
-      "pubDate": "Fri, 31 Jul 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians projeta jogo contra o Centro Olímpico e destaca reabilitação no Paulista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536858/goleiro-do-corinthians-projeta-jogo-contra-o-centro-olimpico-e-destaca-reabilitacao-no-paulista",
-      "time": "31/07 · 21:29",
-      "pubDate": "Fri, 31 Jul 2026 18:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Médico histórico do Corinthians analisa lesões de dupla e detalha impacto do gramado da Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536854/medico-historico-do-corinthians-analisa-lesoes-de-dupla-e-detalha-impacto-do-gramado-da-arena",
-      "time": "31/07 · 21:02",
-      "pubDate": "Fri, 31 Jul 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz última atividade antes de enfrentar o União Suzano pelo Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536855/corinthians-faz-ultima-atividade-antes-de-enfrentar-o-uniao-suzano-pelo-paulista-sub-20",
-      "time": "31/07 · 20:47",
-      "pubDate": "Fri, 31 Jul 2026 17:47:59 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz indica chance para Gui Negão e explica função de Lingard no ataque do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536791/fernando-diniz-indica-chance-para-gui-negao-e-explica-funcao-de-lingard-no-ataque-do-corinthians",
-      "time": "31/07 · 20:34",
-      "pubDate": "Fri, 31 Jul 2026 17:34:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Zakaria Labyad rompe ligamento cruzado, tem lesão no menisco e não joga mais pelo Corinthians em 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-rompe-ligamento-cruzado-e-do-menisco-e-esta-fora-da-temporada-pelo-corinthians-em-2026]]>",
+      "time": "31/07 · 19:40",
+      "pubDate": "Fri, 31 Jul 2026 16:40:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -91,14 +131,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 31 Jul 2026 18:25:22 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Zakaria Labyad rompe ligamento cruzado, tem lesão no menisco e não joga mais pelo Corinthians em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-rompe-ligamento-cruzado-e-do-menisco-e-esta-fora-da-temporada-pelo-corinthians-em-2026]]>",
-      "time": "31/07 · 18:21",
-      "pubDate": "Fri, 31 Jul 2026 15:21:29 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Kaio César é absolvido pelo STJD e escapa de gancho no Corinthians",
@@ -113,14 +145,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/marcelo-paz-reconhece-problema-no-gramado-da-arena-e-promete-melhora-para-proximo-jogo-do-corinthians/",
       "time": "31/07 · 17:34",
       "pubDate": "Fri, 31 Jul 2026 17:34:35 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Emprestado pelo Palmeiras ao Athletico-PR, Gilberto se posiciona após falas do pai sobre o Corinthians",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/gilberto-emprestado-palmeiras-polemica-pai-athletico-pr-corinthians/",
-      "time": "31/07 · 17:18",
-      "pubDate": "Fri, 31 Jul 2026 17:18:55 +0000"
     },
     {
       "source": "Bolavip",
@@ -161,44 +185,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/salarios-elevados-travam-saidas-de-charles-e-pedro-raul-no-corinthians]]>",
       "time": "31/07 · 12:56",
       "pubDate": "Fri, 31 Jul 2026 09:56:30 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: empate com time misto tem saldo negativo para o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-empate-com-time-misto-tem-saldo-negativo-para-o-corinthians/",
-      "time": "31/07 · 10:00",
-      "pubDate": "Fri, 31 Jul 2026 10:00:04 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações do Corinthians: ataque decepciona e defesa se salva em empate",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-ataque-decepciona-e-defesa-se-salva-em-empate/",
-      "time": "31/07 · 09:00",
-      "pubDate": "Fri, 31 Jul 2026 09:00:01 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz está preocupado com mais 5 pendurados no Corinthians além de Hugo Souza, Bidon e Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-esta-preocupado-com-mais-5-pendurados-no-corinthians-alem-de-hugo-souza-bidon-e-yuri-alberto]]>",
-      "time": "30/07 · 17:47",
-      "pubDate": "Thu, 30 Jul 2026 14:47:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Garro vive boa fase no Corinthians e mira atingir melhor temporada de sua carreira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-vive-boa-fase-no-corinthians-e-mira-atingir-melhor-temporada-de-sua-carreira]]>",
-      "time": "30/07 · 16:29",
-      "pubDate": "Thu, 30 Jul 2026 13:29:03 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleada do Corinthians movimenta ranking de artilheiros do futsal em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536815/goleada-do-corinthians-movimenta-ranking-de-artilheiros-do-futsal-em-2026",
+      "pubDate": "Fri, 31 Jul 2026 22:31:00 -0300",
+      "date": "01/08 · 01:31"
+    },
     {
       "title": "Goleiro do Corinthians projeta jogo contra o Centro Olímpico e destaca reabilitação no Paulista",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536858/goleiro-do-corinthians-projeta-jogo-contra-o-centro-olimpico-e-destaca-reabilitacao-no-paulista",
@@ -222,12 +220,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536699/tecnica-do-corinthians-fala-sobre-a-necessidade-de-reforcos-e-pondera-momento-financeiro-do-clube",
       "pubDate": "Fri, 31 Jul 2026 10:32:00 -0300",
       "date": "31/07 · 13:32"
-    },
-    {
-      "title": "VÍDEO: Culpa do gramado? Diniz comenta as lesões de Yuri Alberto e Labyad em Corinthians x Athletico-PR",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128845/culpa-do-gramado-diniz-comenta-as-lesoes-de-yuri-alberto-e-labyad-em-corinthians-x-athletico-pr",
-      "pubDate": "Fri, 31 Jul 2026 00:18:53 -0300",
-      "date": "31/07 · 03:18"
     }
   ]
 };
