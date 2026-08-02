@@ -1,7 +1,55 @@
-// Gerado automaticamente em 02/08/2026, 18:47:45
+// Gerado automaticamente em 02/08/2026, 22:42:19
 const LIVE_DATA = {
-  "updatedAt": "2026-08-02T18:47:45.679Z",
+  "updatedAt": "2026-08-02T22:42:19.306Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com Bidu e Garro, Corinthians está escalado para enfrentar o Internacional",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-bidu-e-garro-corinthians-esta-escalado-para-enfrentar-o-internacional/",
+      "time": "02/08 · 21:33",
+      "pubDate": "Sun, 02 Aug 2026 21:33:40 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é escalado com novidade no ataque para encarar o Internacional pela Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536935/corinthians-e-escalado-com-novidade-no-ataque-para-encarar-o-internacional-pela-copa-do-brasil",
+      "time": "02/08 · 21:30",
+      "pubDate": "Sun, 02 Aug 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians aposta em retrospecto invicto contra a UDA para avançar no Brasileirão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536918/corinthians-aposta-em-retrospecto-invicto-contra-a-uda-para-avancar-no-brasileirao-feminino-sub-17",
+      "time": "02/08 · 20:20",
+      "pubDate": "Sun, 02 Aug 2026 17:20:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Santos vence o Juventus e se aproxima do líder Corinthians no Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/times/santos/santos-vence-juventus-e-sobe-na-tabela-do-paulistao-sub-20/",
+      "time": "02/08 · 20:07",
+      "pubDate": "Sun, 02 Aug 2026 20:07:59 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Má fase e briga antiga: veja como chega o Internacional para enfrentar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536936/ma-fase-e-briga-antiga-veja-como-chega-o-internacional-para-enfrentar-o-corinthians",
+      "time": "02/08 · 19:30",
+      "pubDate": "Sun, 02 Aug 2026 16:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians fecha preparação para encarar o Flamengo pelo Brasileiro Feminino; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536930/corinthians-fecha-preparacao-para-encarar-o-flamengo-pelo-brasileiro-feminino-veja-o-provavel-time",
+      "time": "02/08 · 18:59",
+      "pubDate": "Sun, 02 Aug 2026 15:59:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,36 +91,20 @@ const LIVE_DATA = {
       "pubDate": "Sun, 02 Aug 2026 13:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conta com sete desfalques e um pendurado para decisão contra o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536929/corinthians-conta-com-sete-desfalques-e-um-pendurado-para-decisao-contra-o-internacional",
-      "time": "02/08 · 15:30",
-      "pubDate": "Sun, 02 Aug 2026 12:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele destaca importância da Copa do Brasil antes de duelo do Corinthians contra o Inter",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-destaca-importancia-da-copa-do-brasil-antes-de-duelo-do-corinthians-contra-o-inter]]>",
+      "time": "02/08 · 13:42",
+      "pubDate": "Sun, 02 Aug 2026 10:42:15 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia renovação de pivô para a temporada 2026/2027 do basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536925/corinthians-anuncia-renovacao-de-pivo-para-a-temporada-20262027-do-basquete",
-      "time": "02/08 · 14:44",
-      "pubDate": "Sun, 02 Aug 2026 11:44:10 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca revanche contra o Internacional pela Copa do Brasil; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536908/corinthians-busca-revanche-contra-o-internacional-pela-copa-do-brasil-entenda",
-      "time": "02/08 · 14:35",
-      "pubDate": "Sun, 02 Aug 2026 11:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mira premiação milionária da Copa do Brasil em meio a dívidas e três transfer bans",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536928/corinthians-mira-premiacao-milionaria-da-copa-do-brasil-em-meio-a-dividas-e-tres-transfer-bans",
-      "time": "02/08 · 14:04",
-      "pubDate": "Sun, 02 Aug 2026 11:04:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gui Negão tenta reconquistar espaço no ataque do Corinthians, que sofre com lesões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gui-negao-tenta-reconquistar-espaco-no-ataque-do-corinthians-que-sofre-com-lesoes]]>",
+      "time": "02/08 · 13:07",
+      "pubDate": "Sun, 02 Aug 2026 10:07:34 -0300"
     },
     {
       "source": "Bolavip",
@@ -139,22 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 01 Aug 2026 20:17:54 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Flamengo amplia vantagem sobre o Corinthians e lidera ranking de torcidas do Brasil, diz pesquisa",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-amplia-vantagem-sobre-o-corinthians-e-lidera-ranking-de-torcidas-do-brasil-diz-pesquisa/",
-      "time": "01/08 · 19:29",
-      "pubDate": "Sat, 01 Aug 2026 19:29:42 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Escalação: Corinthians terá trio à disposição contra o Inter",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-tera-trio-a-disposicao-contra-o-inter/",
-      "time": "01/08 · 18:22",
-      "pubDate": "Sat, 01 Aug 2026 18:22:16 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians teme ausência de Yuri Alberto na Libertadores após lesão",
@@ -177,22 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/zakaria-labyad-rompe-ligamento-cruzado-e-do-menisco-e-esta-fora-da-temporada-pelo-corinthians-em-2026]]>",
       "time": "31/07 · 19:40",
       "pubDate": "Fri, 31 Jul 2026 16:40:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Cobrança de Diniz sobre gramado agita diretoria do Corinthians a tomar providências",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cobranca-de-diniz-sobre-gramado-agita-diretoria-do-corinthians-a-tomar-providencias]]>",
-      "time": "31/07 · 16:29",
-      "pubDate": "Fri, 31 Jul 2026 13:29:33 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz detalha conversa com Memphis e projeta o retorno do camisa 10 do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-detalha-conversa-com-memphis-e-projeta-o-retorno-do-camisa-10-do-corinthians]]>",
-      "time": "31/07 · 15:37",
-      "pubDate": "Fri, 31 Jul 2026 12:37:08 -0300"
     }
   ],
   "upcoming": [],
@@ -228,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128869/confira-o-desembarque-do-corinthians-no-rio-grande-do-sul-para-enfrentar-o-internacional-na-cdb-26",
       "pubDate": "Sat, 01 Aug 2026 18:55:32 -0300",
       "date": "01/08 · 21:55"
-    },
-    {
-      "title": "Corinthians vence o União Suzano com golaço de volante e se mantém na liderança do Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536583/corinthians-vence-o-uniao-suzano-com-golaco-de-volante-e-se-mantem-na-lideranca-do-paulista-sub-20",
-      "pubDate": "Sat, 01 Aug 2026 16:58:00 -0300",
-      "date": "01/08 · 19:58"
     }
   ]
 };
