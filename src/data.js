@@ -1,14 +1,38 @@
-// Gerado automaticamente em 02/08/2026, 09:46:26
+// Gerado automaticamente em 02/08/2026, 12:49:03
 const LIVE_DATA = {
-  "updatedAt": "2026-08-02T09:46:26.270Z",
+  "updatedAt": "2026-08-02T12:49:03.821Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Em baixa, jovem atacante tenta aproveitar brecha para ressurgir no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/em-baixa-jovem-atacante-tenta-aproveitar-brecha-para-ressurgir-no-corinthians/",
-      "time": "02/08 · 09:00",
-      "pubDate": "Sun, 02 Aug 2026 09:00:34 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca passar das oitavas da Copa do Brasil pelo quinto ano seguido; veja o retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536861/corinthians-busca-passar-das-oitavas-da-copa-do-brasil-pelo-quinto-ano-seguido-veja-o-retrospecto",
+      "time": "02/08 · 12:30",
+      "pubDate": "Sun, 02 Aug 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe a UDA em busca de vaga nas semifinais do Brasileirão Feminino Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536896/corinthians-recebe-a-uda-em-busca-de-vaga-nas-semifinais-do-brasileirao-feminino-sub-17-saiba-tudo",
+      "time": "02/08 · 12:01",
+      "pubDate": "Sun, 02 Aug 2026 09:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Internacional pela Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536895/saiba-onde-assistir-a-partida-entre-corinthians-e-internacional-pela-copa-do-brasil",
+      "time": "02/08 · 11:30",
+      "pubDate": "Sun, 02 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: provável escalação, retorno de trio e Diniz denunciado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536919/ultimas-do-corinthians-provavel-escalacao-retorno-de-trio-e-diniz-denunciado",
+      "time": "02/08 · 10:30",
+      "pubDate": "Sun, 02 Aug 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,100 +59,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 01 Aug 2026 22:03:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians encerra preparação e André projeta duelo no Beira-Rio",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-e-andre-projeta-duelo-no-beira-rio/",
-      "time": "02/08 · 00:35",
-      "pubDate": "Sun, 02 Aug 2026 00:35:29 +0000"
-    },
-    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Volante do Corinthians destaca peso da Copa do Brasil e projeta jogo difícil contra o Internacional",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536813/volante-do-corinthians-destaca-peso-da-copa-do-brasil-e-projeta-jogo-dificil-contra-o-internacional",
       "time": "02/08 · 00:35",
       "pubDate": "Sat, 01 Aug 2026 21:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians influencia audiência da TV aberta durante empate com o Athletico-PR",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536884/corinthians-influencia-audiencia-da-tv-aberta-durante-empate-com-o-athletico-pr",
-      "time": "02/08 · 00:04",
-      "pubDate": "Sat, 01 Aug 2026 21:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vice-presidente do Corinthians acompanha delegação em viagem após retorno de licença",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536917/vice-presidente-do-corinthians-acompanha-delegacao-em-viagem-apos-retorno-de-licenca",
-      "time": "01/08 · 23:43",
-      "pubDate": "Sat, 01 Aug 2026 20:43:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians defende invencibilidade de quase dois anos como visitante na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536836/corinthians-defende-invencibilidade-de-quase-dois-anos-como-visitante-na-copa-do-brasil",
-      "time": "01/08 · 23:31",
-      "pubDate": "Sat, 01 Aug 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ausência de Yuri Alberto abre caminho para Lingard encerrar jejum de gols pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536879/ausencia-de-yuri-alberto-abre-caminho-para-lingard-encerrar-jejum-de-gols-pelo-corinthians",
-      "time": "01/08 · 23:02",
-      "pubDate": "Sat, 01 Aug 2026 20:02:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Internacional x Corinthians pela Copa do Brasil: onde assistir, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/internacional-corinthians-copa-do-brasil-02-08-2026/",
-      "time": "01/08 · 23:00",
-      "pubDate": "Sat, 01 Aug 2026 23:00:20 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians desembarca em Porto Alegre para jogo contra o Internacional",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-desembarca-em-porto-alegre-para-jogo-contra-o-internacional/",
-      "time": "01/08 · 21:23",
-      "pubDate": "Sat, 01 Aug 2026 21:23:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians sofre, mas vence União Suzano e segue na liderança do Grupo 1 do Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-mas-vence-uniao-suzano-e-segue-na-lideranca-do-grupo-1-do-paulista-sub-20/",
-      "time": "01/08 · 20:17",
-      "pubDate": "Sat, 01 Aug 2026 20:17:54 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Flamengo amplia vantagem sobre o Corinthians e lidera ranking de torcidas do Brasil, diz pesquisa",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-amplia-vantagem-sobre-o-corinthians-e-lidera-ranking-de-torcidas-do-brasil-diz-pesquisa/",
-      "time": "01/08 · 19:29",
-      "pubDate": "Sat, 01 Aug 2026 19:29:42 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Escalação: Corinthians terá trio à disposição contra o Inter",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-tera-trio-a-disposicao-contra-o-inter/",
-      "time": "01/08 · 18:22",
-      "pubDate": "Sat, 01 Aug 2026 18:22:16 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians neste sábado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-neste-sabado-10/",
-      "time": "01/08 · 18:08",
-      "pubDate": "Sat, 01 Aug 2026 18:08:40 +0000"
     },
     {
       "source": "Bolavip",
@@ -185,12 +121,82 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/salarios-elevados-travam-saidas-de-charles-e-pedro-raul-no-corinthians]]>",
       "time": "31/07 · 12:56",
       "pubDate": "Fri, 31 Jul 2026 09:56:30 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Internacional pela Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536895/saiba-onde-assistir-a-partida-entre-corinthians-e-internacional-pela-copa-do-brasil",
+      "pubDate": "Sun, 02 Aug 2026 08:30:00 -0300",
+      "date": "02/08 · 11:30"
+    },
     {
       "title": "Corinthians tenta evitar pior seca de gols desde março em jogo da Copa do Brasil",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/536868/corinthians-tenta-evitar-pior-seca-de-gols-desde-marco-em-jogo-da-copa-do-brasil",
