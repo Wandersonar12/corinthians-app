@@ -1,94 +1,134 @@
-// Gerado automaticamente em 02/08/2026, 22:42:19
+// Gerado automaticamente em 03/08/2026, 11:01:44
 const LIVE_DATA = {
-  "updatedAt": "2026-08-02T22:42:19.306Z",
+  "updatedAt": "2026-08-03T11:01:44.529Z",
   "news": [
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Com Bidu e Garro, Corinthians está escalado para enfrentar o Internacional",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-bidu-e-garro-corinthians-esta-escalado-para-enfrentar-o-internacional/",
-      "time": "02/08 · 21:33",
-      "pubDate": "Sun, 02 Aug 2026 21:33:40 +0000"
+      "title": "Ex-Corinthians, Zenon e Bernardo dizem o que time precisa para virar contra o Inter",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/ex-corinthians-zenon-e-bernardo-dizem-o-que-time-precisa-para-virar-contra-o-inter/",
+      "time": "03/08 · 11:00",
+      "pubDate": "Mon, 03 Aug 2026 11:00:23 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é escalado com novidade no ataque para encarar o Internacional pela Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536935/corinthians-e-escalado-com-novidade-no-ataque-para-encarar-o-internacional-pela-copa-do-brasil",
-      "time": "02/08 · 21:30",
-      "pubDate": "Sun, 02 Aug 2026 18:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aposta em retrospecto invicto contra a UDA para avançar no Brasileirão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536918/corinthians-aposta-em-retrospecto-invicto-contra-a-uda-para-avancar-no-brasileirao-feminino-sub-17",
-      "time": "02/08 · 20:20",
-      "pubDate": "Sun, 02 Aug 2026 17:20:00 -0300"
+      "title": "Últimas do Corinthians: derrota para o Internacional, cobranças à arbitragem e feminino classificado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537004/ultimas-do-corinthians-derrota-para-o-internacional-cobrancas-a-arbitragem-e-feminino-classificado",
+      "time": "03/08 · 10:30",
+      "pubDate": "Mon, 03 Aug 2026 07:30:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Santos vence o Juventus e se aproxima do líder Corinthians no Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/santos/santos-vence-juventus-e-sobe-na-tabela-do-paulistao-sub-20/",
-      "time": "02/08 · 20:07",
-      "pubDate": "Sun, 02 Aug 2026 20:07:59 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Má fase e briga antiga: veja como chega o Internacional para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536936/ma-fase-e-briga-antiga-veja-como-chega-o-internacional-para-enfrentar-o-corinthians",
-      "time": "02/08 · 19:30",
-      "pubDate": "Sun, 02 Aug 2026 16:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fecha preparação para encarar o Flamengo pelo Brasileiro Feminino; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536930/corinthians-fecha-preparacao-para-encarar-o-flamengo-pelo-brasileiro-feminino-veja-o-provavel-time",
-      "time": "02/08 · 18:59",
-      "pubDate": "Sun, 02 Aug 2026 15:59:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca encerrar jejum de uma década no Beira-Rio em duelo pela Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536843/corinthians-busca-encerrar-jejum-de-uma-decada-no-beira-rio-em-duelo-pela-copa-do-brasil",
-      "time": "02/08 · 18:33",
-      "pubDate": "Sun, 02 Aug 2026 15:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia permanência de ala e chega à quinta renovação no basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536941/corinthians-anuncia-permanencia-de-ala-e-chega-a-quinta-renovacao-no-basquete",
-      "time": "02/08 · 18:18",
-      "pubDate": "Sun, 02 Aug 2026 15:18:00 -0300"
+      "title": "Hugo Souza exalta Memphis e demonstra otimismo por renovação com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/hugo-destaca-memphis-e-acredita-em-classificacao-do-corinthians-na-copa-do-brasil/",
+      "time": "03/08 · 10:00",
+      "pubDate": "Mon, 03 Aug 2026 10:00:56 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Arena, camarote e até Mundial: tudo o que Memphis quer para renovar com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/arena-camarote-e-ate-mundial-tudo-o-que-memphis-quer-para-renovar-com-o-corinthians/",
-      "time": "02/08 · 18:10",
-      "pubDate": "Sun, 02 Aug 2026 18:10:15 +0000"
+      "title": "Análise: Corinthians sofre com falta que criatividade e se complica na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-sofre-com-falta-que-criatividade-na-derrota-para-o-inter/",
+      "time": "03/08 · 09:00",
+      "pubDate": "Mon, 03 Aug 2026 09:00:09 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações: Corinthians vai mal coletivamente na derrota para o Inter",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-corinthians-vai-mal-coletivamente-na-derrota-para-o-inter/",
+      "time": "03/08 · 08:00",
+      "pubDate": "Mon, 03 Aug 2026 08:00:42 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis aumenta pedida, quer multa retroativa sobre a dívida e irrita o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-aumenta-pedida-quer-multa-retroativa-sobre-a-divida-e-irrita-o-corinthians/",
+      "time": "03/08 · 07:00",
+      "pubDate": "Mon, 03 Aug 2026 07:00:12 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se apoia em maior sequência invicta desde maio para encarar o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536859/corinthians-se-apoia-em-maior-sequencia-invicta-desde-maio-para-encarar-o-internacional",
-      "time": "02/08 · 17:32",
-      "pubDate": "Sun, 02 Aug 2026 14:32:00 -0300"
+      "title": "VÍDEO: Análise do empate do Corinthians, situação de Yuri Alberto e mais: coletiva de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128888/analise-do-empate-do-corinthians-situacao-de-yuri-alberto-e-mais-coletiva-de-fernando-diniz",
+      "time": "03/08 · 03:28",
+      "pubDate": "Mon, 03 Aug 2026 00:28:10 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians repete feito que tinha acontecido somente uma vez no Sub-20 em 2026; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536912/corinthians-repete-feito-que-tinha-acontecido-somente-uma-vez-no-sub-20-em-2026-saiba-qual",
-      "time": "02/08 · 16:32",
-      "pubDate": "Sun, 02 Aug 2026 13:32:00 -0300"
+      "title": "Técnico do Corinthians analisa derrota para o Internacional e manifesta confiança em virada na Copa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536996/tecnico-do-corinthians-analisa-derrota-para-o-internacional-e-manifesta-confianca-em-virada-na-copa",
+      "time": "03/08 · 03:09",
+      "pubDate": "Mon, 03 Aug 2026 00:09:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Flamengo em busca da liderança do Brasileirão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536937/corinthians-visita-o-flamengo-em-busca-da-lideranca-do-brasileirao-feminino-saiba-tudo",
+      "time": "03/08 · 03:01",
+      "pubDate": "Mon, 03 Aug 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Marcelo Paz reclama a arbitragem e cita pênalti não marcado em Internacional 2X0 Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128884/marcelo-paz-reclama-a-arbitragem-e-cita-penalti-nao-marcado-em-internacional-2x0-corinthians",
+      "time": "03/08 · 02:55",
+      "pubDate": "Sun, 02 Aug 2026 23:55:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: G. Paulista critica arbitragem, falha no gol e fala sobre virada pós Internacional 2x0 Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128882/g-paulista-critica-arbitragem-falha-no-gol-e-fala-sobre-virada-pos-internacional-2x0-corinthians",
+      "time": "03/08 · 02:44",
+      "pubDate": "Sun, 02 Aug 2026 23:44:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz defende substituições e atribui derrota do Corinthians à desorganização",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-defende-substituicoes-e-atribui-derrota-do-corinthians-a-desorganizacao/",
+      "time": "03/08 · 02:42",
+      "pubDate": "Mon, 03 Aug 2026 02:42:00 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Executivo do Corinthians volta a cobrar arbitragem e cita 'ameaça' para jogadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536989/executivo-do-corinthians-volta-a-cobrar-arbitragem-e-cita-ameaca-para-jogadores",
+      "time": "03/08 · 02:15",
+      "pubDate": "Sun, 02 Aug 2026 23:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians publica vídeos com lances polêmicos contra o Internacional em crítica à arbitragem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536993/corinthians-publica-videos-com-lances-polemicos-contra-o-internacional-em-critica-a-arbitragem",
+      "time": "03/08 · 02:09",
+      "pubDate": "Sun, 02 Aug 2026 23:09:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians detona arbitragem e questiona escalação de juiz",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-detona-arbitragem-e-questiona-escalacao-de-juiz/",
+      "time": "03/08 · 02:07",
+      "pubDate": "Mon, 03 Aug 2026 02:07:56 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Garro cobra respeito da arbitragem e acredita em reação do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-cobra-respeito-da-arbitragem-e-acredita-em-reacao-do-corinthians/",
+      "time": "03/08 · 00:51",
+      "pubDate": "Mon, 03 Aug 2026 00:51:24 +0000"
     },
     {
       "source": "Bolavip",
@@ -131,46 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 02 Aug 2026 08:09:34 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Em baixa, jovem atacante tenta aproveitar brecha para ressurgir no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/em-baixa-jovem-atacante-tenta-aproveitar-brecha-para-ressurgir-no-corinthians/",
-      "time": "02/08 · 09:00",
-      "pubDate": "Sun, 02 Aug 2026 09:00:34 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians encerra preparação e André projeta duelo no Beira-Rio",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-e-andre-projeta-duelo-no-beira-rio/",
-      "time": "02/08 · 00:35",
-      "pubDate": "Sun, 02 Aug 2026 00:35:29 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Internacional x Corinthians pela Copa do Brasil: onde assistir, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/internacional-corinthians-copa-do-brasil-02-08-2026/",
-      "time": "01/08 · 23:00",
-      "pubDate": "Sat, 01 Aug 2026 23:00:20 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians desembarca em Porto Alegre para jogo contra o Internacional",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-desembarca-em-porto-alegre-para-jogo-contra-o-internacional/",
-      "time": "01/08 · 21:23",
-      "pubDate": "Sat, 01 Aug 2026 21:23:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians sofre, mas vence União Suzano e segue na liderança do Grupo 1 do Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-mas-vence-uniao-suzano-e-segue-na-lideranca-do-grupo-1-do-paulista-sub-20/",
-      "time": "01/08 · 20:17",
-      "pubDate": "Sat, 01 Aug 2026 20:17:54 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians teme ausência de Yuri Alberto na Libertadores após lesão",
@@ -200,34 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Saiba onde assistir à partida entre Corinthians e Internacional pela Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536895/saiba-onde-assistir-a-partida-entre-corinthians-e-internacional-pela-copa-do-brasil",
-      "pubDate": "Sun, 02 Aug 2026 08:30:00 -0300",
-      "date": "02/08 · 11:30"
+      "title": "VÍDEO: Análise do empate do Corinthians, situação de Yuri Alberto e mais: coletiva de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128888/analise-do-empate-do-corinthians-situacao-de-yuri-alberto-e-mais-coletiva-de-fernando-diniz",
+      "pubDate": "Mon, 03 Aug 2026 00:28:10 -0300",
+      "date": "03/08 · 03:28"
     },
     {
-      "title": "Corinthians tenta evitar pior seca de gols desde março em jogo da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536868/corinthians-tenta-evitar-pior-seca-de-gols-desde-marco-em-jogo-da-copa-do-brasil",
-      "pubDate": "Sat, 01 Aug 2026 22:30:00 -0300",
-      "date": "02/08 · 01:30"
+      "title": "VÍDEO: Marcelo Paz reclama a arbitragem e cita pênalti não marcado em Internacional 2X0 Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128884/marcelo-paz-reclama-a-arbitragem-e-cita-penalti-nao-marcado-em-internacional-2x0-corinthians",
+      "pubDate": "Sun, 02 Aug 2026 23:55:00 -0300",
+      "date": "03/08 · 02:55"
     },
     {
-      "title": "Volante marca segundo gol no ano em vitória do Sub-20 do Corinthians; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536907/volante-marca-segundo-gol-no-ano-em-vitoria-do-sub-20-do-corinthians-veja-o-ranking",
-      "pubDate": "Sat, 01 Aug 2026 22:03:00 -0300",
-      "date": "02/08 · 01:03"
+      "title": "VÍDEO: A arbitragem intimidou os jogadores? Hugo Souza fala sobre arbitragem polêmica contra Internacional",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128883/a-arbitragem-intimidou-os-jogadores-hugo-souza-fala-sobre-arbitragem-polemica-contra-internacional",
+      "pubDate": "Sun, 02 Aug 2026 23:49:00 -0300",
+      "date": "03/08 · 02:49"
     },
     {
-      "title": "Ausência de Yuri Alberto abre caminho para Lingard encerrar jejum de gols pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536879/ausencia-de-yuri-alberto-abre-caminho-para-lingard-encerrar-jejum-de-gols-pelo-corinthians",
-      "pubDate": "Sat, 01 Aug 2026 20:02:00 -0300",
-      "date": "01/08 · 23:02"
+      "title": "VÍDEO: G. Paulista critica arbitragem, falha no gol e fala sobre virada pós Internacional 2x0 Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128882/g-paulista-critica-arbitragem-falha-no-gol-e-fala-sobre-virada-pos-internacional-2x0-corinthians",
+      "pubDate": "Sun, 02 Aug 2026 23:44:00 -0300",
+      "date": "03/08 · 02:44"
     },
     {
-      "title": "VÍDEO: Confira o desembarque do Corinthians no Rio Grande do Sul para enfrentar o Internacional na CDB 26",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128869/confira-o-desembarque-do-corinthians-no-rio-grande-do-sul-para-enfrentar-o-internacional-na-cdb-26",
-      "pubDate": "Sat, 01 Aug 2026 18:55:32 -0300",
-      "date": "01/08 · 21:55"
+      "title": "Corinthians publica vídeos com lances polêmicos contra o Internacional em crítica à arbitragem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536993/corinthians-publica-videos-com-lances-polemicos-contra-o-internacional-em-critica-a-arbitragem",
+      "pubDate": "Sun, 02 Aug 2026 23:09:00 -0300",
+      "date": "03/08 · 02:09"
+    },
+    {
+      "title": "Corinthians volta a sofrer dois gols em uma partida após dois meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536970/corinthians-volta-a-sofrer-dois-gols-em-uma-partida-apos-dois-meses",
+      "pubDate": "Sun, 02 Aug 2026 22:48:00 -0300",
+      "date": "03/08 · 01:48"
+    },
+    {
+      "title": "Corinthians iguala pior seca de gols da temporada em derrota na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536969/corinthians-iguala-pior-seca-de-gols-da-temporada-em-derrota-na-copa-do-brasil",
+      "pubDate": "Sun, 02 Aug 2026 22:11:00 -0300",
+      "date": "03/08 · 01:11"
+    },
+    {
+      "title": "VÍDEO: Melhores momentos: Internacional 2x0 Corinthians | Oitavas de Final (ida) | Copa do Brasil 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128877/melhores-momentos-internacional-2x0-corinthians-oitavas-de-final-ida-copa-do-brasil-2026",
+      "pubDate": "Sun, 02 Aug 2026 21:49:00 -0300",
+      "date": "03/08 · 00:49"
     }
   ]
 };
