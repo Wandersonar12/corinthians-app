@@ -1,70 +1,150 @@
-// Gerado automaticamente em 03/08/2026, 22:46:53
+// Gerado automaticamente em 04/08/2026, 10:23:39
 const LIVE_DATA = {
-  "updatedAt": "2026-08-03T22:46:53.057Z",
+  "updatedAt": "2026-08-04T10:23:39.955Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vê chance remota de Memphis contra o Internacional; saiba o motivo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537062/corinthians-ve-chance-remota-de-memphis-contra-o-internacional-saiba-o-motivo",
-      "time": "03/08 · 22:32",
-      "pubDate": "Mon, 03 Aug 2026 19:32:59 -0300"
+      "title": "Memphis desembarca em São Paulo prestes a renovar contrato com o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537049/memphis-desembarca-em-sao-paulo-prestes-a-renovar-contrato-com-o-corinthians",
+      "time": "04/08 · 09:16",
+      "pubDate": "Tue, 04 Aug 2026 06:16:36 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Saiba o que o Corinthians precisa para avançar contra o Inter na Copa do Brasil",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-o-que-o-corinthians-precisa-para-avancar-contra-o-inter-na-copa-do-brasil/",
+      "time": "04/08 · 09:00",
+      "pubDate": "Tue, 04 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do duelo entre Flamengo e Corinthians pelo Brasileirão Feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-duelo-entre-flamengo-e-corinthians-pelo-brasileirao-feminino/",
+      "time": "04/08 · 02:35",
+      "pubDate": "Tue, 04 Aug 2026 02:35:22 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Garro iguala ex-goleiro e vira quarto estrangeiro com mais jogos pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537023/garro-iguala-ex-goleiro-e-vira-quarto-estrangeiro-com-mais-jogos-pelo-corinthians",
-      "time": "03/08 · 22:29",
-      "pubDate": "Mon, 03 Aug 2026 19:29:00 -0300"
+      "title": "Dupla de conselheiros é expulsa do quadro associativo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537075/dupla-de-conselheiros-e-expulsa-do-quadro-associativo-do-corinthians",
+      "time": "04/08 · 01:57",
+      "pubDate": "Mon, 03 Aug 2026 22:57:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Internacional cobra 'providências cabíveis' da CBF após reclamações do Corinthians contra arbitragem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537059/internacional-cobra-providencias-cabiveis-da-cbf-apos-reclamacoes-do-corinthians-contra-arbitragem",
-      "time": "03/08 · 21:45",
-      "pubDate": "Mon, 03 Aug 2026 18:45:00 -0300"
+      "title": "Neto critica diretoria por ausência de Memphis em derrota do Corinthians para o Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537022/neto-critica-diretoria-por-ausencia-de-memphis-em-derrota-do-corinthians-para-o-internacional",
+      "time": "04/08 · 01:30",
+      "pubDate": "Mon, 03 Aug 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica titularidade de jovem atacante em derrota para o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537005/tecnico-do-corinthians-explica-titularidade-de-jovem-atacante-em-derrota-para-o-internacional",
-      "time": "03/08 · 21:32",
-      "pubDate": "Mon, 03 Aug 2026 18:32:00 -0300"
+      "title": "Goleiro do Corinthians lamenta derrota para o Internacional e projeta reação no jogo de volta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537020/goleiro-do-corinthians-lamenta-derrota-para-o-internacional-e-projeta-reacao-no-jogo-de-volta",
+      "time": "04/08 · 00:28",
+      "pubDate": "Mon, 03 Aug 2026 21:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians preparam visita à instituição para pessoas com deficiência visual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537051/jogadoras-do-corinthians-preparam-visita-a-instituicao-para-pessoas-com-deficiencia-visual",
+      "title": "Atacante do Corinthians abre o coração ao destacar apoio da família após vitória",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537072/atacante-do-corinthians-abre-o-coracao-ao-destacar-apoio-da-familia-apos-vitoria",
+      "time": "04/08 · 00:08",
+      "pubDate": "Mon, 03 Aug 2026 21:08:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém vantagem sobre rivais e garante mando de campo nas quartas do Brasileiro Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537069/corinthians-mantem-vantagem-sobre-rivais-e-garante-mando-de-campo-nas-quartas-do-brasileiro-feminino",
+      "time": "04/08 · 00:03",
+      "pubDate": "Mon, 03 Aug 2026 21:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia da base do Corinthians é anunciada por escola de formação dos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537054/meia-da-base-do-corinthians-e-anunciada-por-escola-de-formacao-dos-estados-unidos",
+      "time": "04/08 · 00:02",
+      "pubDate": "Mon, 03 Aug 2026 21:02:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vence Flamengo com uma a menos e retoma liderança do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-vence-flamengo-com-uma-a-menos-e-retoma-lideranca-do-brasileiro-feminino/",
+      "time": "03/08 · 23:49",
+      "pubDate": "Mon, 03 Aug 2026 23:49:00 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zakaria Labyad fala em 'dias difíceis' e lamenta lesão que o tirou da temporada do Corinthians; veja",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537067/zakaria-labyad-fala-em-dias-dificeis-e-lamenta-lesao-que-o-tirou-da-temporada-do-corinthians-veja",
+      "time": "03/08 · 23:46",
+      "pubDate": "Mon, 03 Aug 2026 20:46:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Labyad se manifesta após grave lesão no Corinthians: &#8220;Últimos dias foram difíceis&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/labyad-se-manifesta-apos-grave-lesao-no-corinthians-ultimos-dias-foram-dificeis/",
+      "time": "03/08 · 23:06",
+      "pubDate": "Mon, 03 Aug 2026 23:06:20 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians solicita áudio do árbitro de jogo contra o Inter após suposta intimidação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-solicita-audio-do-arbitro-de-jogo-contra-o-inter-apos-suposta-intimidacao/",
+      "time": "03/08 · 21:51",
+      "pubDate": "Mon, 03 Aug 2026 21:51:04 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians conta com Memphis Depay contra o Internacional e holandês é aguardado nesta terça",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-conta-com-memphis-depay-contra-o-internacional-e-holandes-e-aguardado-nesta-terca]]>",
+      "time": "03/08 · 21:04",
+      "pubDate": "Mon, 03 Aug 2026 18:04:39 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians pede áudio à CBF após intimidação de árbitro a Matheuzinho: “Quero ver você fazer isso lá fora”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pede-audio-a-cbf-apos-intimidacao-de-arbitro-a-matheuzinho-quero-ver-voce-fazer-isso-la-fora]]>",
       "time": "03/08 · 21:03",
-      "pubDate": "Mon, 03 Aug 2026 18:03:00 -0300"
+      "pubDate": "Mon, 03 Aug 2026 18:03:12 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia do Corinthians vira desfalque e aumenta número de jogadoras no departamento médico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537056/meia-do-corinthians-vira-desfalque-e-aumenta-numero-de-jogadoras-no-departamento-medico",
-      "time": "03/08 · 20:52",
-      "pubDate": "Mon, 03 Aug 2026 17:52:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians se apega à arbitragem e ignora o verdadeiro motivo da derrota para o Inter",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-se-apega-a-arbitragem-e-ignora-o-verdadeiro-motivo-da-derrota-para-o-inter]]>",
+      "time": "03/08 · 20:54",
+      "pubDate": "Mon, 03 Aug 2026 17:54:30 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Flamengo pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537031/corinthians-esta-escalado-para-enfrentar-o-flamengo-pelo-brasileirao-feminino",
-      "time": "03/08 · 20:33",
-      "pubDate": "Mon, 03 Aug 2026 17:33:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Presidente do Inter vê pressão do Corinthians sobre a arbitragem: &#8220;Não aceitaremos&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/internacional/presidente-do-inter-ve-pressao-do-corinthians-sobre-a-arbitragem-nao-aceitaremos/",
+      "time": "03/08 · 20:32",
+      "pubDate": "Mon, 03 Aug 2026 20:32:54 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Derrota para o Internacional amplia o retrospecto recente negativo do Corinthians no confronto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536980/derrota-para-o-internacional-amplia-o-retrospecto-recente-negativo-do-corinthians-no-confronto",
-      "time": "03/08 · 19:31",
-      "pubDate": "Mon, 03 Aug 2026 16:31:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis viaja ao Brasil e terá reunião com Corinthians para tentar destravar renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-viaja-ao-brasil-e-tera-reuniao-com-corinthians-para-tentar-destravar-renovacao/",
+      "time": "03/08 · 20:20",
+      "pubDate": "Mon, 03 Aug 2026 20:20:30 +0000"
     },
     {
       "source": "Bolavip",
@@ -99,100 +179,20 @@ const LIVE_DATA = {
       "pubDate": "Mon, 03 Aug 2026 12:39:45 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Pezzolano analisa &#8216;virada de chave&#8217; do Inter após bater o Corinthians",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/pezzolano-analisa-virada-de-chave-do-inter-apos-bater-o-corinthians/",
+      "time": "03/08 · 14:19",
+      "pubDate": "Mon, 03 Aug 2026 14:19:25 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis dá demonstração de compromisso, e Corinthians acerta ao apostar na renovação",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-da-demonstracao-de-compromisso-e-corinthians-acerta-ao-apostar-na-renovacao]]>",
       "time": "03/08 · 12:05",
       "pubDate": "Mon, 03 Aug 2026 09:05:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "CBF irá avaliar a reclamação do Corinthians contra o árbitro Alex Gomes Stefano, mas punição não deve acontecer",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cbf-ira-avaliar-a-reclamacao-do-corinthians-contra-o-arbitro-alex-gomes-stefano-mas-punicao-nao-deve-acontecer]]>",
-      "time": "03/08 · 11:22",
-      "pubDate": "Mon, 03 Aug 2026 08:22:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza falha, Corinthians perde para o Internacional e se complica na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-falha-corinthians-perde-para-o-internacional-e-se-complica-na-copa-do-brasil]]>",
-      "time": "03/08 · 01:10",
-      "pubDate": "Sun, 02 Aug 2026 22:10:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz não supera estratégia do Internacional e Corinthians se complica com derrota na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-nao-supera-estrategia-do-internacional-e-corinthians-se-complica-com-derrota-na-copa-do-brasil]]>",
-      "time": "03/08 · 01:04",
-      "pubDate": "Sun, 02 Aug 2026 22:04:17 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,28 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians lamenta derrota para o Internacional e projeta reação no jogo de volta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537020/goleiro-do-corinthians-lamenta-derrota-para-o-internacional-e-projeta-reacao-no-jogo-de-volta",
+      "pubDate": "Mon, 03 Aug 2026 21:28:00 -0300",
+      "date": "04/08 · 00:28"
+    },
+    {
       "title": "Garro iguala ex-goleiro e vira quarto estrangeiro com mais jogos pelo Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537023/garro-iguala-ex-goleiro-e-vira-quarto-estrangeiro-com-mais-jogos-pelo-corinthians",
       "pubDate": "Mon, 03 Aug 2026 19:29:00 -0300",
       "date": "03/08 · 22:29"
-    },
-    {
-      "title": "Saiba onde assistir à partida entre Corinthians e Flamengo pelo Brasileiro Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/536949/saiba-onde-assistir-a-partida-entre-corinthians-e-flamengo-pelo-brasileiro-feminino",
-      "pubDate": "Mon, 03 Aug 2026 08:30:00 -0300",
-      "date": "03/08 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Análise do empate do Corinthians, situação de Yuri Alberto e mais: coletiva de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128888/analise-do-empate-do-corinthians-situacao-de-yuri-alberto-e-mais-coletiva-de-fernando-diniz",
-      "pubDate": "Mon, 03 Aug 2026 00:28:10 -0300",
-      "date": "03/08 · 03:28"
-    },
-    {
-      "title": "VÍDEO: Marcelo Paz reclama a arbitragem e cita pênalti não marcado em Internacional 2X0 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128884/marcelo-paz-reclama-a-arbitragem-e-cita-penalti-nao-marcado-em-internacional-2x0-corinthians",
-      "pubDate": "Sun, 02 Aug 2026 23:55:00 -0300",
-      "date": "03/08 · 02:55"
     }
   ]
 };
