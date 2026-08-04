@@ -1,7 +1,79 @@
-// Gerado automaticamente em 04/08/2026, 13:29:38
+// Gerado automaticamente em 04/08/2026, 19:14:35
 const LIVE_DATA = {
-  "updatedAt": "2026-08-04T13:29:38.885Z",
+  "updatedAt": "2026-08-04T19:14:35.551Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca sequência de vitórias no Brasileiro Sub-17 que não alcança desde 2023",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537089/corinthians-busca-sequencia-de-vitorias-no-brasileiro-sub-17-que-nao-alcanca-desde-2023",
+      "time": "04/08 · 18:30",
+      "pubDate": "Tue, 04 Aug 2026 15:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis chega ao Brasil para realizar exames e destravar renovação com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-chega-ao-brasil-para-realizar-exames-e-destravar-renovacao-com-o-corinthians/",
+      "time": "04/08 · 17:54",
+      "pubDate": "Tue, 04 Aug 2026 17:54:44 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante lidera ranking de cartões amarelos do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537043/volante-lidera-ranking-de-cartoes-amarelos-do-corinthians-em-2026",
+      "time": "04/08 · 17:32",
+      "pubDate": "Tue, 04 Aug 2026 14:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ginásio do Corinthians será palco do Mundial de Clubes de Vôlei Feminino em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537100/ginasio-do-corinthians-sera-palco-do-mundial-de-clubes-de-volei-feminino-em-2026",
+      "time": "04/08 · 16:33",
+      "pubDate": "Tue, 04 Aug 2026 13:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians promove mais quatro destaques da base ao elenco profissional de basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537098/corinthians-promove-mais-quatro-destaques-da-base-ao-elenco-profissional-de-basquete",
+      "time": "04/08 · 15:57",
+      "pubDate": "Tue, 04 Aug 2026 12:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante volta a participar de gol após três meses em vitória do Corinthians sobre o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537071/atacante-volta-a-participar-de-gol-apos-tres-meses-em-vitoria-do-corinthians-sobre-o-flamengo",
+      "time": "04/08 · 15:31",
+      "pubDate": "Tue, 04 Aug 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Bragantino x Corinthians: veja como comprar ingressos para o setor visitante em jogo do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537094/bragantino-x-corinthians-veja-como-comprar-ingressos-para-o-setor-visitante-em-jogo-do-brasileirao",
+      "time": "04/08 · 14:32",
+      "pubDate": "Tue, 04 Aug 2026 11:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians é absolvido pelo STJD em sessão relâmpago após confusão contra o Athletico-PR",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537090/tecnico-do-corinthians-e-absolvido-pelo-stjd-em-sessao-relampago-apos-confusao-contra-o-athletico-pr",
+      "time": "04/08 · 13:54",
+      "pubDate": "Tue, 04 Aug 2026 10:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Qual ataque você escalaria no Corinthians para buscar a virada na Copa do Brasil? Vote na enquete!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537038/qual-ataque-voce-escalaria-no-corinthians-para-buscar-a-virada-na-copa-do-brasil-vote-na-enquete",
+      "time": "04/08 · 13:30",
+      "pubDate": "Tue, 04 Aug 2026 10:30:00 -0300"
+    },
     {
       "source": "Bolavip",
       "color": "#0055A5",
@@ -19,14 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 04 Aug 2026 10:01:45 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega a 12 jogos de invencibilidade contra o Flamengo após vitória no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537073/corinthians-chega-a-12-jogos-de-invencibilidade-contra-o-flamengo-apos-vitoria-no-brasileirao",
-      "time": "04/08 · 12:29",
-      "pubDate": "Tue, 04 Aug 2026 09:29:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians avalia reclamação formal após nova polêmica com arbitragem contra o Internacional",
@@ -35,36 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 04 Aug 2026 09:10:57 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro projeta noite de reação do Corinthians na Neo Química Arena por vaga na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537018/zagueiro-projeta-noite-de-reacao-do-corinthians-na-neo-quimica-arena-por-vaga-na-copa-do-brasil",
-      "time": "04/08 · 11:33",
-      "pubDate": "Tue, 04 Aug 2026 08:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians muda discurso e cria impasse para renovar com Memphis Depay",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-muda-discurso-e-cria-impasse-para-renovar-com-memphis-depay]]>",
       "time": "04/08 · 11:30",
       "pubDate": "Tue, 04 Aug 2026 08:30:51 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: voo holandês, críticas de presidente e retorno cauteloso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537076/ultimas-do-corinthians-voo-holandes-criticas-de-presidente-e-retorno-cauteloso",
-      "time": "04/08 · 10:30",
-      "pubDate": "Tue, 04 Aug 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis desembarca em São Paulo prestes a renovar contrato com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537049/memphis-desembarca-em-sao-paulo-prestes-a-renovar-contrato-com-o-corinthians",
-      "time": "04/08 · 09:16",
-      "pubDate": "Tue, 04 Aug 2026 06:16:36 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -91,22 +131,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 03 Aug 2026 23:05:51 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla de conselheiros é expulsa do quadro associativo do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537075/dupla-de-conselheiros-e-expulsa-do-quadro-associativo-do-corinthians",
-      "time": "04/08 · 01:57",
-      "pubDate": "Mon, 03 Aug 2026 22:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Neto critica diretoria por ausência de Memphis em derrota do Corinthians para o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537022/neto-critica-diretoria-por-ausencia-de-memphis-em-derrota-do-corinthians-para-o-internacional",
-      "time": "04/08 · 01:30",
-      "pubDate": "Mon, 03 Aug 2026 22:30:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Vídeo: influenciador vê o Corinthians em condição de virar contra o Internacional, mas cobra melhora",
@@ -121,22 +145,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-impoe-nova-exigencia-e-renovacao-com-o-corinthians-segue-indefinida]]>",
       "time": "04/08 · 01:14",
       "pubDate": "Mon, 03 Aug 2026 22:14:28 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians lamenta derrota para o Internacional e projeta reação no jogo de volta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537020/goleiro-do-corinthians-lamenta-derrota-para-o-internacional-e-projeta-reacao-no-jogo-de-volta",
-      "time": "04/08 · 00:28",
-      "pubDate": "Mon, 03 Aug 2026 21:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians abre o coração ao destacar apoio da família após vitória",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537072/atacante-do-corinthians-abre-o-coracao-ao-destacar-apoio-da-familia-apos-vitoria",
-      "time": "04/08 · 00:08",
-      "pubDate": "Mon, 03 Aug 2026 21:08:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -185,20 +193,18 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-viaja-ao-brasil-e-tera-reuniao-com-corinthians-para-tentar-destravar-renovacao/",
       "time": "03/08 · 20:20",
       "pubDate": "Mon, 03 Aug 2026 20:20:30 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Pezzolano analisa &#8216;virada de chave&#8217; do Inter após bater o Corinthians",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/pezzolano-analisa-virada-de-chave-do-inter-apos-bater-o-corinthians/",
-      "time": "03/08 · 14:19",
-      "pubDate": "Mon, 03 Aug 2026 14:19:25 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Atacante volta a participar de gol após três meses em vitória do Corinthians sobre o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537071/atacante-volta-a-participar-de-gol-apos-tres-meses-em-vitoria-do-corinthians-sobre-o-flamengo",
+      "pubDate": "Tue, 04 Aug 2026 12:31:00 -0300",
+      "date": "04/08 · 15:31"
+    },
     {
       "title": "Goleiro do Corinthians lamenta derrota para o Internacional e projeta reação no jogo de volta",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537020/goleiro-do-corinthians-lamenta-derrota-para-o-internacional-e-projeta-reacao-no-jogo-de-volta",
