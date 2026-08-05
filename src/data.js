@@ -1,7 +1,31 @@
-// Gerado automaticamente em 05/08/2026, 10:19:44
+// Gerado automaticamente em 05/08/2026, 13:28:24
 const LIVE_DATA = {
-  "updatedAt": "2026-08-05T10:19:44.581Z",
+  "updatedAt": "2026-08-05T13:28:24.474Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Veja a parcial de ingressos reservados para Corinthians e Internacional pela Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537150/veja-a-parcial-de-ingressos-reservados-para-corinthians-e-internacional-pela-copa-do-brasil",
+      "time": "05/08 · 12:52",
+      "pubDate": "Wed, 05 Aug 2026 09:52:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Bahia em busca de encostar na liderança do Brasileiro Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537113/corinthians-recebe-o-bahia-em-busca-de-encostar-na-lideranca-do-brasileiro-sub-17-saiba-tudo",
+      "time": "05/08 · 11:30",
+      "pubDate": "Wed, 05 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: desembarque de Depay, bateria de exames e olho na decisão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537139/ultimas-do-corinthians-desembarque-de-depay-bateria-de-exames-e-olho-na-decisao",
+      "time": "05/08 · 10:30",
+      "pubDate": "Wed, 05 Aug 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +33,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537108/futebol-de-amputados-do-corinthians-apresenta-trofeu-do-hexacampeonato-brasileiro-a-osmar-stabile",
       "time": "05/08 · 01:30",
       "pubDate": "Tue, 04 Aug 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: podcast cita Luan e detona contrato milionário do Corinthians com Pedro Raul",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-detona-contrato-corinthians-pedro-raul]]>",
+      "time": "05/08 · 00:59",
+      "pubDate": "Tue, 04 Aug 2026 21:59:41 -0300"
     },
     {
       "source": "Meu Timao",
@@ -35,36 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Tue, 04 Aug 2026 21:01:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast LivePorTi faz alerta para saídas de alguns nomes do Corinthians: “Pesaria demais”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/podcast-liveporti-faz-alerta-para-saidas-de-alguns-nomes-do-corinthians-pesaria-demais]]>",
+      "time": "04/08 · 23:45",
+      "pubDate": "Tue, 04 Aug 2026 20:45:11 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Atacante do Corinthians aponta erros da arbitragem após vitória sobre o Flamengo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537102/atacante-do-corinthians-aponta-erros-da-arbitragem-apos-vitoria-sobre-o-flamengo",
       "time": "04/08 · 23:36",
       "pubDate": "Tue, 04 Aug 2026 20:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis cumpre primeira bateria de exames e aguarda novos testes antes de renovar com Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537132/memphis-cumpre-primeira-bateria-de-exames-e-aguarda-novos-testes-antes-de-renovar-com-corinthians",
-      "time": "04/08 · 23:10",
-      "pubDate": "Tue, 04 Aug 2026 20:10:38 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece os detalhes das semifinais do Brasileirão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537135/corinthians-conhece-os-detalhes-das-semifinais-do-brasileirao-feminino-sub-17",
-      "time": "04/08 · 23:04",
-      "pubDate": "Tue, 04 Aug 2026 20:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Destaque do Sub-17 assina primeiro contrato profissional pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537134/destaque-do-sub-17-assina-primeiro-contrato-profissional-pelo-corinthians",
-      "time": "04/08 · 23:00",
-      "pubDate": "Tue, 04 Aug 2026 20:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-chega-a-12-jogos-de-invencibilidade-contra-flamengo-no-futebol-feminino]]>",
       "time": "04/08 · 13:03",
       "pubDate": "Tue, 04 Aug 2026 10:03:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians avalia reclamação formal após nova polêmica com arbitragem contra o Internacional",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-avalia-reclamacao-formal-apos-nova-polemica-com-arbitragem-contra-o-internacional]]>",
-      "time": "04/08 · 12:10",
-      "pubDate": "Tue, 04 Aug 2026 09:10:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians muda discurso e cria impasse para renovar com Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-muda-discurso-e-cria-impasse-para-renovar-com-memphis-depay]]>",
-      "time": "04/08 · 11:30",
-      "pubDate": "Tue, 04 Aug 2026 08:30:51 -0300"
     },
     {
       "source": "Gazeta Esportiva",
