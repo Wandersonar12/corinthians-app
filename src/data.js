@@ -1,70 +1,70 @@
-// Gerado automaticamente em 04/08/2026, 22:50:43
+// Gerado automaticamente em 05/08/2026, 10:19:44
 const LIVE_DATA = {
-  "updatedAt": "2026-08-04T22:50:43.441Z",
+  "updatedAt": "2026-08-05T10:19:44.581Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians promove workshop para profissionais de saúde e performance com presenças ilustres",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537123/corinthians-promove-workshop-para-profissionais-de-saude-e-performance-com-presencas-ilustres",
-      "time": "04/08 · 22:30",
-      "pubDate": "Tue, 04 Aug 2026 19:30:00 -0300"
+      "title": "Futebol de amputados do Corinthians apresenta troféu do hexacampeonato brasileiro a Osmar Stabile",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537108/futebol-de-amputados-do-corinthians-apresenta-trofeu-do-hexacampeonato-brasileiro-a-osmar-stabile",
+      "time": "05/08 · 01:30",
+      "pubDate": "Tue, 04 Aug 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcidas do Corinthians divulgam união para jogo decisivo contra o Internacional; veja",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537126/torcidas-do-corinthians-divulgam-uniao-para-jogo-decisivo-contra-o-internacional-veja",
-      "time": "04/08 · 21:45",
-      "pubDate": "Tue, 04 Aug 2026 18:45:32 -0300"
+      "title": "Corinthians não libera atacante para Seleção Brasileira Sub-20; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537137/corinthians-nao-libera-atacante-para-selecao-brasileira-sub-20-entenda",
+      "time": "05/08 · 00:39",
+      "pubDate": "Tue, 04 Aug 2026 21:39:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians confirma permanência de treinador para nova temporada do basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537125/corinthians-confirma-permanencia-de-treinador-para-nova-temporada-do-basquete",
-      "time": "04/08 · 21:34",
-      "pubDate": "Tue, 04 Aug 2026 18:34:21 -0300"
+      "title": "Corinthians conhece novidades na disputa do Campeonato Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537105/corinthians-conhece-novidades-na-disputa-do-campeonato-paulista-de-basquete",
+      "time": "05/08 · 00:32",
+      "pubDate": "Tue, 04 Aug 2026 21:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jovem recém-promovido pelo Corinthians entra no quinteto ideal da LDB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537096/jovem-recem-promovido-pelo-corinthians-entra-no-quinteto-ideal-da-ldb",
-      "time": "04/08 · 21:32",
-      "pubDate": "Tue, 04 Aug 2026 18:32:00 -0300"
+      "title": "Corinthians carimba vaga nas quartas do Paulista Feminino Sub-20 com três jogos de antecedência",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537127/corinthians-carimba-vaga-nas-quartas-do-paulista-feminino-sub-20-com-tres-jogos-de-antecedencia",
+      "time": "05/08 · 00:01",
+      "pubDate": "Tue, 04 Aug 2026 21:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Internacional contará com representante da Federação Gaúcha em decisão contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537109/internacional-contara-com-representante-da-federacao-gaucha-em-decisao-contra-o-corinthians",
-      "time": "04/08 · 21:01",
-      "pubDate": "Tue, 04 Aug 2026 18:01:00 -0300"
+      "title": "Atacante do Corinthians aponta erros da arbitragem após vitória sobre o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537102/atacante-do-corinthians-aponta-erros-da-arbitragem-apos-vitoria-sobre-o-flamengo",
+      "time": "04/08 · 23:36",
+      "pubDate": "Tue, 04 Aug 2026 20:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Conselho justifica suspensão de conselheiro por invasão à sede do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537122/presidente-do-conselho-justifica-suspensao-de-conselheiro-por-invasao-a-sede-do-corinthians",
-      "time": "04/08 · 20:58",
-      "pubDate": "Tue, 04 Aug 2026 17:58:02 -0300"
+      "title": "Memphis cumpre primeira bateria de exames e aguarda novos testes antes de renovar com Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537132/memphis-cumpre-primeira-bateria-de-exames-e-aguarda-novos-testes-antes-de-renovar-com-corinthians",
+      "time": "04/08 · 23:10",
+      "pubDate": "Tue, 04 Aug 2026 20:10:38 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians busca encerrar jejum de quase oito meses em decisão pela Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537086/atacante-do-corinthians-busca-encerrar-jejum-de-quase-oito-meses-em-decisao-pela-copa-do-brasil",
-      "time": "04/08 · 20:30",
-      "pubDate": "Tue, 04 Aug 2026 17:30:00 -0300"
+      "title": "Corinthians conhece os detalhes das semifinais do Brasileirão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537135/corinthians-conhece-os-detalhes-das-semifinais-do-brasileirao-feminino-sub-17",
+      "time": "04/08 · 23:04",
+      "pubDate": "Tue, 04 Aug 2026 20:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dois jogadores do Corinthians são convocados pela Seleção Sub-15 para amistosos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537121/dois-jogadores-do-corinthians-sao-convocados-pela-selecao-sub-15-para-amistosos",
-      "time": "04/08 · 20:15",
-      "pubDate": "Tue, 04 Aug 2026 17:15:00 -0300"
+      "title": "Destaque do Sub-17 assina primeiro contrato profissional pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537134/destaque-do-sub-17-assina-primeiro-contrato-profissional-pelo-corinthians",
+      "time": "04/08 · 23:00",
+      "pubDate": "Tue, 04 Aug 2026 20:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537071/atacante-volta-a-participar-de-gol-apos-tres-meses-em-vitoria-do-corinthians-sobre-o-flamengo",
       "pubDate": "Tue, 04 Aug 2026 12:31:00 -0300",
       "date": "04/08 · 15:31"
-    },
-    {
-      "title": "Goleiro do Corinthians lamenta derrota para o Internacional e projeta reação no jogo de volta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537020/goleiro-do-corinthians-lamenta-derrota-para-o-internacional-e-projeta-reacao-no-jogo-de-volta",
-      "pubDate": "Mon, 03 Aug 2026 21:28:00 -0300",
-      "date": "04/08 · 00:28"
     }
   ]
 };
