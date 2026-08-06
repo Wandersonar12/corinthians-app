@@ -1,38 +1,110 @@
-// Gerado automaticamente em 06/08/2026, 13:26:42
+// Gerado automaticamente em 06/08/2026, 22:34:46
 const LIVE_DATA = {
-  "updatedAt": "2026-08-06T13:26:42.538Z",
+  "updatedAt": "2026-08-06T22:34:46.912Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians estreia na temporada 2026/27 diante do Osasco pelo Paulista de Basquete; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537187/corinthians-estreia-na-temporada-202627-diante-do-osasco-pelo-paulista-de-basquete-saiba-tudo",
-      "time": "06/08 · 12:33",
-      "pubDate": "Thu, 06 Aug 2026 09:33:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians terá surpresa no ataque contra o Inter; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-surpresa-no-ataque-contra-o-inter-veja-escalacoes/",
+      "time": "06/08 · 22:04",
+      "pubDate": "Thu, 06 Aug 2026 22:04:42 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Santos para manter bom momento no Paulista Feminino Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537181/corinthians-visita-o-santos-para-manter-bom-momento-no-paulista-feminino-sub-20-saiba-tudo",
-      "time": "06/08 · 12:02",
-      "pubDate": "Thu, 06 Aug 2026 09:02:00 -0300"
+      "title": "Corinthians está escalado para decisão contra o Internacional pela Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537232/corinthians-esta-escalado-para-decisao-contra-o-internacional-pela-copa-do-brasil",
+      "time": "06/08 · 22:00",
+      "pubDate": "Thu, 06 Aug 2026 19:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Internacional pela Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537182/saiba-onde-assistir-a-partida-entre-corinthians-e-internacional-pela-copa-do-brasil",
-      "time": "06/08 · 11:30",
-      "pubDate": "Thu, 06 Aug 2026 08:30:00 -0300"
+      "title": "VÍDEO: Festa da Fiel! Elenco do Corinthians é recebido com festa na chegada à Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128952/festa-da-fiel-elenco-do-corinthians-e-recebido-com-festa-na-chegada-a-neo-quimica-arena",
+      "time": "06/08 · 21:58",
+      "pubDate": "Thu, 06 Aug 2026 18:58:23 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: holandês indisponível, exames finais e preparação encerrada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537208/ultimas-do-corinthians-holandes-indisponivel-exames-finais-e-preparacao-encerrada",
-      "time": "06/08 · 10:30",
-      "pubDate": "Thu, 06 Aug 2026 07:30:00 -0300"
+      "title": "Elenco do Corinthians é recebido com festa da torcida na Arena para decisão da Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537263/elenco-do-corinthians-e-recebido-com-festa-da-torcida-na-arena-para-decisao-da-copa-do-brasil",
+      "time": "06/08 · 21:34",
+      "pubDate": "Thu, 06 Aug 2026 18:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante marca gol em volta de lesão no Sub-17 do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537185/atacante-marca-gol-em-volta-de-lesao-no-sub-17-do-corinthians",
+      "time": "06/08 · 21:30",
+      "pubDate": "Thu, 06 Aug 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Desfalque de última hora, pressão na CBF e mais: como chega o Internacional contra o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537230/desfalque-de-ultima-hora-pressao-na-cbf-e-mais-como-chega-o-internacional-contra-o-corinthians",
+      "time": "06/08 · 20:33",
+      "pubDate": "Thu, 06 Aug 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia preparação para clássico contra o Santos pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537261/corinthians-inicia-preparacao-para-classico-contra-o-santos-pelo-brasileirao-feminino",
+      "time": "06/08 · 20:26",
+      "pubDate": "Thu, 06 Aug 2026 17:26:41 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reage no segundo tempo e bate o Santos fora de casa pelo Paulistão Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537174/corinthians-reage-no-segundo-tempo-e-bate-o-santos-fora-de-casa-pelo-paulistao-feminino-sub-20",
+      "time": "06/08 · 20:05",
+      "pubDate": "Thu, 06 Aug 2026 17:05:33 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Internacional terá patrocínio pontual para jogos contra Corinthians e Palmeiras",
+      "url": "https://www.gazetaesportiva.com/times/internacional/internacional-tera-patrocinio-pontual-para-jogos-contra-corinthians-e-palmeiras/",
+      "time": "06/08 · 19:46",
+      "pubDate": "Thu, 06 Aug 2026 19:46:48 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians se isola na artilharia do Brasileiro Sub-17 após vitória sobre o Bahia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537192/meia-do-corinthians-se-isola-na-artilharia-do-brasileiro-sub-17-apos-vitoria-sobre-o-bahia",
+      "time": "06/08 · 19:33",
+      "pubDate": "Thu, 06 Aug 2026 16:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Neo Química Arena atualiza situação do gramado antes de Corinthians x Inter",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/neo-quimica-arena-atualiza-situacao-gramado-corinthians-internacional/",
+      "time": "06/08 · 18:13",
+      "pubDate": "Thu, 06 Aug 2026 18:13:05 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Morre Geraldão, ídolo do Corinthians e artilheiro do Paulista de 1977, aos 77 anos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/morre-geraldao-idolo-do-corinthians-e-artilheiro-do-paulista-de-1977-aos-77-anos/",
+      "time": "06/08 · 16:21",
+      "pubDate": "Thu, 06 Aug 2026 16:21:12 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Geraldão, ídolo do Corinthians e artilheiro do Paulistão de 1977, morre aos 77 anos; veja fotos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/geraldao-idolo-do-corinthians-e-artilheiro-do-paulistao-de-1977-morre-aos-77-anos-veja-fotos/",
+      "time": "06/08 · 16:14",
+      "pubDate": "Thu, 06 Aug 2026 16:14:36 +0000"
     },
     {
       "source": "Gazeta Esportiva",
@@ -51,84 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 06 Aug 2026 03:04:40 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca virada diante do Internacional para chegar às quartas de final da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537180/corinthians-busca-virada-diante-do-internacional-para-chegar-as-quartas-de-final-da-copa-do-brasil",
-      "time": "06/08 · 03:01",
-      "pubDate": "Thu, 06 Aug 2026 00:01:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast cobra Garro e aponta importância do meia para o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-cobra-garro-e-aponta-importancia-do-meia-para-o-corinthians]]>",
-      "time": "06/08 · 02:17",
-      "pubDate": "Wed, 05 Aug 2026 23:17:05 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca maior sequência de vitórias da história do Sub-20 feminino em Clássico Alvinegro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537151/corinthians-busca-maior-sequencia-de-vitorias-da-historia-do-sub-20-feminino-em-classico-alvinegro",
-      "time": "06/08 · 01:30",
-      "pubDate": "Wed, 05 Aug 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Félix Torres é relacionado pelo Internacional para jogo decisivo contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537205/felix-torres-e-relacionado-pelo-internacional-para-jogo-decisivo-contra-o-corinthians",
-      "time": "06/08 · 01:18",
-      "pubDate": "Wed, 05 Aug 2026 22:18:30 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se apega em retrospecto na Arena para eliminar o Internacional; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537128/corinthians-se-apega-em-retrospecto-na-arena-para-eliminar-o-internacional-veja-os-numeros",
-      "time": "06/08 · 00:31",
-      "pubDate": "Wed, 05 Aug 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz testa Pedro Raul como titular no Corinthians para decisão contra o Inter",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-testa-pedro-raul-como-titular-no-corinthians-para-decisao-contra-o-inter]]>",
-      "time": "05/08 · 23:37",
-      "pubDate": "Wed, 05 Aug 2026 20:37:43 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians encerra preparação para pegar o Inter; veja provável escalação",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-para-pegar-o-inter-veja-provavel-escalacao/",
       "time": "05/08 · 23:36",
       "pubDate": "Wed, 05 Aug 2026 23:36:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Internacional pela Copa do Brasil: onde assistir, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/corinthians-internacional-copa-do-brasil-06-08-2026/",
-      "time": "05/08 · 23:00",
-      "pubDate": "Wed, 05 Aug 2026 23:00:49 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: A Fiel acredita e esse é o maior trunfo do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-a-fiel-acredita-e-esse-sempre-foi-e-o-maior-trunfo-do-corinthians]]>",
-      "time": "05/08 · 22:46",
-      "pubDate": "Wed, 05 Aug 2026 19:46:49 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians vira sobre o Bahia e segue colado na liderança do Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vira-sobre-o-bahia-e-segue-colado-na-lideranca-do-brasileiro-sub-17/",
-      "time": "05/08 · 21:19",
-      "pubDate": "Wed, 05 Aug 2026 21:19:10 +0000"
     },
     {
       "source": "Bolavip",
@@ -145,14 +145,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/jhonson-critica-arbitragem-em-vitoria-do-corinthians-sobre-o-flamengo-eu-apanhei-muito-ali]]>",
       "time": "05/08 · 18:20",
       "pubDate": "Wed, 05 Aug 2026 15:20:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians decide não liberar Dieguinho para a Seleção Brasileira sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-decide-nao-liberar-dieguinho-para-a-selecao-brasileira-sub-20/",
-      "time": "05/08 · 17:46",
-      "pubDate": "Wed, 05 Aug 2026 17:46:00 +0000"
     },
     {
       "source": "Bolavip",
@@ -173,32 +165,52 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
+      "title": "Opinião: A Fiel acredita e esse é o maior trunfo do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-a-fiel-acredita-e-esse-sempre-foi-e-o-maior-trunfo-do-corinthians]]>",
+      "time": "05/08 · 16:02",
+      "pubDate": "Wed, 05 Aug 2026 13:02:45 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem dia decisivo para definir futuro de Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-dia-decisivo-para-definir-futuro-de-memphis-depay]]>",
+      "time": "05/08 · 15:05",
+      "pubDate": "Wed, 05 Aug 2026 12:05:07 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André tranquiliza o Corinthians e está liberado para decisão contra o Internacional",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-tranquiliza-o-corinthians-e-esta-liberado-para-decisao-contra-o-internacional]]>",
+      "time": "05/08 · 15:04",
+      "pubDate": "Wed, 05 Aug 2026 12:04:22 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
       "title": "Corinthians x Internacional: onde assistir ao vivo, horário e prováveis escalações da Copa do Brasil",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-internacional-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-da-copa-do-brasil]]>",
       "time": "05/08 · 15:02",
       "pubDate": "Wed, 05 Aug 2026 12:02:37 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians tenta repetir roteiro de viradas na Copa do Brasil por classificação sobre o Inter",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tenta-repetir-roteiro-de-viradas-na-copa-do-brasil-por-classificacao-sobre-o-internacional/",
-      "time": "05/08 · 10:00",
-      "pubDate": "Wed, 05 Aug 2026 10:00:05 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Internacional: veja onde assistir ao duelo pela Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-internacional-veja-onde-assistir-ao-duelo-pela-copa-do-brasil/",
-      "time": "05/08 · 09:00",
-      "pubDate": "Wed, 05 Aug 2026 09:00:03 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Festa da Fiel! Elenco do Corinthians é recebido com festa na chegada à Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128952/festa-da-fiel-elenco-do-corinthians-e-recebido-com-festa-na-chegada-a-neo-quimica-arena",
+      "pubDate": "Thu, 06 Aug 2026 18:58:23 -0300",
+      "date": "06/08 · 21:58"
+    },
+    {
+      "title": "Atacante marca gol em volta de lesão no Sub-17 do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537185/atacante-marca-gol-em-volta-de-lesao-no-sub-17-do-corinthians",
+      "pubDate": "Thu, 06 Aug 2026 18:30:00 -0300",
+      "date": "06/08 · 21:30"
+    },
     {
       "title": "Corinthians visita o Santos para manter bom momento no Paulista Feminino Sub-20; saiba tudo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537181/corinthians-visita-o-santos-para-manter-bom-momento-no-paulista-feminino-sub-20-saiba-tudo",
@@ -210,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537182/saiba-onde-assistir-a-partida-entre-corinthians-e-internacional-pela-copa-do-brasil",
       "pubDate": "Thu, 06 Aug 2026 08:30:00 -0300",
       "date": "06/08 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Corinthians x Internacional: Provável escalação das oitavas de final (volta) da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128933/corinthians-x-internacional-provavel-escalacao-das-oitavas-de-final-volta-da-copa-do-brasil",
-      "pubDate": "Wed, 05 Aug 2026 19:24:15 -0300",
-      "date": "05/08 · 22:24"
     }
   ]
 };
