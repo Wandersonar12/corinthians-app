@@ -1,7 +1,31 @@
-// Gerado automaticamente em 07/08/2026, 08:43:04
+// Gerado automaticamente em 07/08/2026, 12:34:06
 const LIVE_DATA = {
-  "updatedAt": "2026-08-07T08:43:04.085Z",
+  "updatedAt": "2026-08-07T12:34:06.674Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece detalhes da última rodada da primeira fase do Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537352/corinthians-conhece-detalhes-da-ultima-rodada-da-primeira-fase-do-paulistao-feminino",
+      "time": "07/08 · 12:05",
+      "pubDate": "Fri, 07 Aug 2026 09:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Fernando Diniz comenta problemas extracampo do Corinthians após eliminação em Itaquera",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537325/fernando-diniz-comenta-sobre-problemas-extracampo-do-corinthians-apos-eliminacao-em-itaquera",
+      "time": "07/08 · 11:30",
+      "pubDate": "Fri, 07 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: eliminação na Copa do Brasil, morte de ídolo e depoimento de presidente",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537332/ultimas-do-corinthians-eliminacao-na-copa-do-brasil-morte-de-idolo-e-depoimento-de-presidente",
+      "time": "07/08 · 10:30",
+      "pubDate": "Fri, 07 Aug 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,36 +67,44 @@ const LIVE_DATA = {
       "pubDate": "Thu, 06 Aug 2026 23:20:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra pior fase ofensiva na temporada em eliminação para o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537279/corinthians-encerra-pior-fase-ofensiva-na-temporada-em-eliminacao-para-o-internacional",
-      "time": "07/08 · 02:05",
-      "pubDate": "Thu, 06 Aug 2026 23:05:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gol de Gustavo Henrique em Corinthians x Internacional gera polêmica após decisão do VAR",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gol-de-gustavo-henrique-em-corinthians-x-internacional-gera-polemica-apos-decisao-do-var]]>",
+      "time": "07/08 · 02:18",
+      "pubDate": "Thu, 06 Aug 2026 23:18:46 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega a 14 eliminações na Neo Química Arena após saída da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537298/corinthians-chega-a-14-eliminacoes-na-neo-quimica-arena-apos-saida-da-copa-do-brasil",
-      "time": "07/08 · 01:50",
-      "pubDate": "Thu, 06 Aug 2026 22:50:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians ainda vence na Arena, mas não escapa de queda na Copa do Brasil para o Inter",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ainda-vence-na-arena-mas-nao-escapa-de-queda-na-copa-do-brasil-para-o-inter]]>",
+      "time": "07/08 · 01:35",
+      "pubDate": "Thu, 06 Aug 2026 22:35:05 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre temporada do Paulista de Basquete com vitória sobre o Osasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537309/corinthians-abre-temporada-do-paulista-de-basquete-com-vitoria-sobre-o-osasco",
-      "time": "07/08 · 01:39",
-      "pubDate": "Thu, 06 Aug 2026 22:39:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Estratégia de Diniz não dá certo e Corinthians é eliminado pelo Internacional na Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/estrategia-de-diniz-nao-da-certo-e-corinthians-e-eliminado-pelo-internacional-na-copa-do-brasil]]>",
+      "time": "07/08 · 01:14",
+      "pubDate": "Thu, 06 Aug 2026 22:14:49 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians planeja derrubar transfer bans em agosto e Marcelo Paz terá alguns dias para contratar",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-derrubar-transfer-bans-em-agosto-e-marcelo-paz-tera-alguns-dias-dias-para-contratar]]>",
-      "time": "06/08 · 21:02",
-      "pubDate": "Thu, 06 Aug 2026 18:02:00 -0300"
+      "time": "07/08 · 00:30",
+      "pubDate": "Thu, 06 Aug 2026 21:30:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast LivePorTi debate falta de identificação de Lingard com o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-debate-falta-de-identificacao-de-lingard-com-o-corinthians]]>",
+      "time": "06/08 · 23:43",
+      "pubDate": "Thu, 06 Aug 2026 20:43:06 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-yuri-alberto-corinthians-desfalques]]>",
       "time": "06/08 · 18:21",
       "pubDate": "Thu, 06 Aug 2026 15:21:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz confia em reação do Corinthians e projeta ‘decisão’ contra o Internacional",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-confia-em-reacao-do-corinthians-e-projeta-decisao-contra-o-internacional]]>",
-      "time": "06/08 · 17:58",
-      "pubDate": "Thu, 06 Aug 2026 14:58:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians busca apagar incêndio no gramado após críticas duras de comissão e elenco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-busca-apagar-incendio-no-gramado-apos-criticas-duras-de-comissao-e-elenco]]>",
-      "time": "06/08 · 13:14",
-      "pubDate": "Thu, 06 Aug 2026 10:14:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Al-Nassr enfrenta crise financeira e interesse por André, do Corinthians, perde força",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/al-nassr-enfrenta-crise-financeira-e-interesse-por-andre-do-corinthians-perde-forca]]>",
-      "time": "06/08 · 12:09",
-      "pubDate": "Thu, 06 Aug 2026 09:09:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast cobra Garro e aponta importância do meia para o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-cobra-garro-e-aponta-importancia-do-meia-para-o-corinthians]]>",
-      "time": "06/08 · 02:17",
-      "pubDate": "Wed, 05 Aug 2026 23:17:05 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128968/sentimento-ruim-matheuzinho-fala-da-dor-de-nao-classificar-e-saida-da-copa-do-brasil",
       "pubDate": "Fri, 07 Aug 2026 00:22:31 -0300",
       "date": "07/08 · 03:22"
-    },
-    {
-      "title": "VÍDEO: Sem desculpas pela eliminação! Garro fala sobre pagar os erros do primeiro jogo após saída da Copa",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128967/sem-desculpas-pela-eliminacao-garro-fala-sobre-pagar-os-erros-do-primeiro-jogo-apos-saida-da-copa",
-      "pubDate": "Fri, 07 Aug 2026 00:21:25 -0300",
-      "date": "07/08 · 03:21"
     },
     {
       "title": "VÍDEO: Análise da eliminação do Corinthians, situação de Memphis e mais: coletiva de Fernando Diniz",
