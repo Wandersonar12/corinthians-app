@@ -1,86 +1,94 @@
-// Gerado automaticamente em 07/08/2026, 12:34:06
+// Gerado automaticamente em 07/08/2026, 18:35:14
 const LIVE_DATA = {
-  "updatedAt": "2026-08-07T12:34:06.674Z",
+  "updatedAt": "2026-08-07T18:35:14.805Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece detalhes da última rodada da primeira fase do Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537352/corinthians-conhece-detalhes-da-ultima-rodada-da-primeira-fase-do-paulistao-feminino",
-      "time": "07/08 · 12:05",
-      "pubDate": "Fri, 07 Aug 2026 09:05:00 -0300"
+      "title": "Atacante do Corinthians volta a ser escalado como titular após mais de dois meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537315/atacante-do-corinthians-volta-a-ser-escalado-como-titular-apos-mais-de-dois-meses",
+      "time": "07/08 · 18:01",
+      "pubDate": "Fri, 07 Aug 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fernando Diniz comenta problemas extracampo do Corinthians após eliminação em Itaquera",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537325/fernando-diniz-comenta-sobre-problemas-extracampo-do-corinthians-apos-eliminacao-em-itaquera",
-      "time": "07/08 · 11:30",
-      "pubDate": "Fri, 07 Aug 2026 08:30:00 -0300"
+      "title": "Meia do Corinthians lamenta queda na Copa do Brasil e projeta sequência do time na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537345/meia-do-corinthians-lamenta-queda-na-copa-do-brasil-e-projeta-sequencia-do-time-na-temporada",
+      "time": "07/08 · 17:32",
+      "pubDate": "Fri, 07 Aug 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: eliminação na Copa do Brasil, morte de ídolo e depoimento de presidente",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537332/ultimas-do-corinthians-eliminacao-na-copa-do-brasil-morte-de-idolo-e-depoimento-de-presidente",
-      "time": "07/08 · 10:30",
-      "pubDate": "Fri, 07 Aug 2026 07:30:00 -0300"
+      "title": "Corinthians atinge maior sequência de vitórias na história do Sub-20 no feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537257/corinthians-atinge-maior-sequencia-de-vitorias-na-historia-do-sub-20-no-feminino",
+      "time": "07/08 · 17:08",
+      "pubDate": "Fri, 07 Aug 2026 14:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Análise da eliminação do Corinthians, situação de Memphis e mais: coletiva de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128966/analise-da-eliminacao-do-corinthians-situacao-de-memphis-e-mais-coletiva-de-fernando-diniz",
-      "time": "07/08 · 03:18",
-      "pubDate": "Fri, 07 Aug 2026 00:18:18 -0300"
+      "title": "Técnico do Corinthians elogia atuação de Pedro Raul e aposta em recuperação do atacante na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537329/tecnico-do-corinthians-elogia-atuacao-de-pedro-raul-e-aposta-em-recuperacao-do-atacante-na-temporada",
+      "time": "07/08 · 16:30",
+      "pubDate": "Fri, 07 Aug 2026 13:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz valoriza postura do Corinthians e faz duras críticas à arbitragem em eliminação na Copa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537323/diniz-valoriza-postura-do-corinthians-e-faz-duras-criticas-a-arbitragem-em-eliminacao-na-copa",
-      "time": "07/08 · 03:07",
-      "pubDate": "Fri, 07 Aug 2026 00:07:00 -0300"
+      "title": "Corinthians ganha reforço no gol e foca em cruzamentos antes de clássico pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537370/corinthians-ganha-reforco-no-gol-e-foca-em-cruzamentos-antes-de-classico-pelo-brasileirao-feminino",
+      "time": "07/08 · 16:13",
+      "pubDate": "Fri, 07 Aug 2026 13:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcida dá notas baixas ao Corinthians após eliminação na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537319/torcida-da-notas-baixas-ao-corinthians-apos-eliminacao-na-copa-do-brasil",
-      "time": "07/08 · 03:03",
-      "pubDate": "Fri, 07 Aug 2026 00:03:39 -0300"
+      "title": "CBF oficializa mudanças de horário e local em partida do Corinthians pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537367/cbf-oficializa-mudancas-de-horario-e-local-em-partida-do-corinthians-pelo-brasileirao-feminino",
+      "time": "07/08 · 15:39",
+      "pubDate": "Fri, 07 Aug 2026 12:39:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians celebra renovação próxima e destaca qualidade de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537324/tecnico-do-corinthians-celebra-renovacao-proxima-e-destaca-qualidade-de-memphis",
-      "time": "07/08 · 02:52",
-      "pubDate": "Thu, 06 Aug 2026 23:52:00 -0300"
+      "title": "João Ricardo comenta negociação frustrada com o Corinthians e diz que não queria deixar o Fortaleza",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537366/joao-ricardo-comenta-negociacao-frustrada-com-o-corinthians-e-diz-que-nao-queria-deixar-o-fortaleza",
+      "time": "07/08 · 15:04",
+      "pubDate": "Fri, 07 Aug 2026 12:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Queda para o Internacional encerra sequência histórica do Corinthians na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537296/queda-para-o-internacional-encerra-sequencia-historica-do-corinthians-na-copa-do-brasil",
-      "time": "07/08 · 02:20",
-      "pubDate": "Thu, 06 Aug 2026 23:20:00 -0300"
+      "title": "Gustavo Henrique chega a 15 participações em gols desde que chegou ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537278/gustavo-henrique-chega-a-15-participacoes-em-gols-desde-que-chegou-ao-corinthians",
+      "time": "07/08 · 14:37",
+      "pubDate": "Fri, 07 Aug 2026 11:37:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz detalha lista de erros da arbitragem como culpada pela eliminação do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-detalha-lista-de-erros-da-arbitragem-como-culpada-pela-eliminacao-do-corinthians]]>",
+      "time": "07/08 · 11:39",
+      "pubDate": "Fri, 07 Aug 2026 08:39:44 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Gol de Gustavo Henrique em Corinthians x Internacional gera polêmica após decisão do VAR",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gol-de-gustavo-henrique-em-corinthians-x-internacional-gera-polemica-apos-decisao-do-var]]>",
-      "time": "07/08 · 02:18",
-      "pubDate": "Thu, 06 Aug 2026 23:18:46 -0300"
+      "time": "07/08 · 11:33",
+      "pubDate": "Fri, 07 Aug 2026 08:33:05 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians ainda vence na Arena, mas não escapa de queda na Copa do Brasil para o Inter",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ainda-vence-na-arena-mas-nao-escapa-de-queda-na-copa-do-brasil-para-o-inter]]>",
-      "time": "07/08 · 01:35",
-      "pubDate": "Thu, 06 Aug 2026 22:35:05 -0300"
+      "time": "07/08 · 11:31",
+      "pubDate": "Fri, 07 Aug 2026 08:31:31 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,14 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/estrategia-de-diniz-nao-da-certo-e-corinthians-e-eliminado-pelo-internacional-na-copa-do-brasil]]>",
       "time": "07/08 · 01:14",
       "pubDate": "Thu, 06 Aug 2026 22:14:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians planeja derrubar transfer bans em agosto e Marcelo Paz terá alguns dias para contratar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-derrubar-transfer-bans-em-agosto-e-marcelo-paz-tera-alguns-dias-dias-para-contratar]]>",
-      "time": "07/08 · 00:30",
-      "pubDate": "Thu, 06 Aug 2026 21:30:24 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians ganha reforço no gol e foca em cruzamentos antes de clássico pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537370/corinthians-ganha-reforco-no-gol-e-foca-em-cruzamentos-antes-de-classico-pelo-brasileirao-feminino",
+      "pubDate": "Fri, 07 Aug 2026 13:13:00 -0300",
+      "date": "07/08 · 16:13"
+    },
+    {
+      "title": "Gustavo Henrique chega a 15 participações em gols desde que chegou ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537278/gustavo-henrique-chega-a-15-participacoes-em-gols-desde-que-chegou-ao-corinthians",
+      "pubDate": "Fri, 07 Aug 2026 11:37:00 -0300",
+      "date": "07/08 · 14:37"
+    },
+    {
+      "title": "VÍDEO: Eliminação dolorosa, clima no vestiário e defesa de Pedro Raul: zona mista Rodrigo Garro",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128973/eliminacao-dolorosa-clima-no-vestiario-e-defesa-de-pedro-raul-zona-mista-rodrigo-garro",
+      "pubDate": "Fri, 07 Aug 2026 09:41:06 -0300",
+      "date": "07/08 · 12:41"
+    },
+    {
       "title": "VÍDEO: Sentimento ruim! Matheuzinho fala da dor de não classificar e saída da Copa do Brasil",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128968/sentimento-ruim-matheuzinho-fala-da-dor-de-nao-classificar-e-saida-da-copa-do-brasil",
       "pubDate": "Fri, 07 Aug 2026 00:22:31 -0300",
@@ -210,24 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128966/analise-da-eliminacao-do-corinthians-situacao-de-memphis-e-mais-coletiva-de-fernando-diniz",
       "pubDate": "Fri, 07 Aug 2026 00:18:18 -0300",
       "date": "07/08 · 03:18"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Corinthians 2x1 Internacional | Oitavas de final - volta | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128961/melhores-momentos-corinthians-2x1-internacional-oitavas-de-final-volta-brasileirao-2026",
-      "pubDate": "Thu, 06 Aug 2026 22:18:12 -0300",
-      "date": "07/08 · 01:18"
-    },
-    {
-      "title": "VÍDEO: Festa da Fiel! Elenco do Corinthians é recebido com festa na chegada à Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128952/festa-da-fiel-elenco-do-corinthians-e-recebido-com-festa-na-chegada-a-neo-quimica-arena",
-      "pubDate": "Thu, 06 Aug 2026 18:58:23 -0300",
-      "date": "06/08 · 21:58"
-    },
-    {
-      "title": "Atacante marca gol em volta de lesão no Sub-17 do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537185/atacante-marca-gol-em-volta-de-lesao-no-sub-17-do-corinthians",
-      "pubDate": "Thu, 06 Aug 2026 18:30:00 -0300",
-      "date": "06/08 · 21:30"
     }
   ]
 };
