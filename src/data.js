@@ -1,7 +1,71 @@
-// Gerado automaticamente em 08/08/2026, 08:24:23
+// Gerado automaticamente em 08/08/2026, 12:19:28
 const LIVE_DATA = {
-  "updatedAt": "2026-08-08T08:24:23.264Z",
+  "updatedAt": "2026-08-08T12:19:28.795Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe a Ferroviária buscando aumentar liderança no Paulista Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537376/corinthians-recebe-a-ferroviaria-buscando-aumentar-lideranca-no-paulista-sub-20-saiba-tudo",
+      "time": "08/08 · 12:00",
+      "pubDate": "Sat, 08 Aug 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o São Caetano pelo encerramento da primeira fase do Paulista Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537374/corinthians-recebe-o-sao-caetano-pelo-encerramento-da-primeira-fase-do-paulista-sub-17-saiba-tudo",
+      "time": "08/08 · 11:30",
+      "pubDate": "Sat, 08 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Ferroviária: veja informações e onde assistir ao jogo pelo Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-ferroviaria-veja-informacoes-e-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
+      "time": "08/08 · 11:00",
+      "pubDate": "Sat, 08 Aug 2026 11:00:58 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: críticas de Diniz, análise de goleiro reprovado e opinião de lenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537394/ultimas-do-corinthians-criticas-de-diniz-analise-de-goleiro-reprovado-e-opiniao-de-lenda",
+      "time": "08/08 · 10:30",
+      "pubDate": "Sat, 08 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Bragantino x Corinthians: onde assistir ao jogo pela 22ª rodada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bragantino-x-corinthians-onde-assistir-ao-jogo-pela-22a-rodada-do-brasileirao/",
+      "time": "08/08 · 10:00",
+      "pubDate": "Sat, 08 Aug 2026 10:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Pedro Raul quebra jejum e pode ganhar sequência no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/pedro-raul-quebra-jejum-e-pode-ganhar-sequencia-no-corinthians/",
+      "time": "08/08 · 09:00",
+      "pubDate": "Sat, 08 Aug 2026 09:00:17 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis pode jogar contra o Rosario? Entenda a situação do jogador na Libertadores pelo Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-pode-jogar-contra-o-rosario-entenda-a-situacao-do-jogador-na-libertadores-pelo-corinthians]]>",
+      "time": "08/08 · 01:35",
+      "pubDate": "Fri, 07 Aug 2026 22:35:22 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast LivePorTi critica falta de repertório de Fernando Diniz no comando do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-critica-falta-de-repertorio-de-fernando-diniz-no-comando-do-corinthians]]>",
+      "time": "08/08 · 01:34",
+      "pubDate": "Fri, 07 Aug 2026 22:34:40 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,6 +99,14 @@ const LIVE_DATA = {
       "pubDate": "Fri, 07 Aug 2026 20:45:51 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast Live Por Ti apontam erros fatais em eliminação do Corinthians na Copa do Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-live-por-ti-apontam-erros-fatais-em-eliminacao-do-corinthians-na-copa-do-brasil]]>",
+      "time": "07/08 · 23:45",
+      "pubDate": "Fri, 07 Aug 2026 20:45:28 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Queda para o Internacional amplia marca negativa do Corinthians contra gaúchos na Copa do Brasil",
@@ -43,44 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 07 Aug 2026 20:34:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral entra no pódio de garçons do Corinthians no ano após duelo contra o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537313/lateral-entra-no-podio-de-garcons-do-corinthians-no-ano-apos-duelo-contra-o-internacional",
-      "time": "07/08 · 23:06",
-      "pubDate": "Fri, 07 Aug 2026 20:06:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians destaca confiança antes de duelo com Ferroviária no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537389/volante-do-corinthians-destaca-confianca-antes-de-duelo-com-ferroviaria-no-paulista-sub-20",
-      "time": "07/08 · 22:30",
-      "pubDate": "Fri, 07 Aug 2026 19:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians elogia rendimento de meio-campista contra o Internacional: 'Participou bem'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537327/tecnico-do-corinthians-elogia-rendimento-de-meio-campista-contra-o-internacional-participou-bem",
-      "time": "07/08 · 22:02",
-      "pubDate": "Fri, 07 Aug 2026 19:02:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Gabriel reencontra o Corinthians como peça importante do Bragantino",
       "url": "https://www.gazetaesportiva.com/times/bragantino/gabriel-reencontra-corinthians-bragantino-brasileirao/",
       "time": "07/08 · 20:53",
       "pubDate": "Fri, 07 Aug 2026 20:53:18 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis pode jogar contra o Rosario? Entenda a situação do jogador na Libertadores pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-pode-jogar-contra-o-rosario-entenda-a-situacao-do-jogador-na-libertadores-pelo-corinthians]]>",
-      "time": "07/08 · 20:35",
-      "pubDate": "Fri, 07 Aug 2026 17:35:08 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -109,14 +149,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Gol de Gustavo Henrique em Corinthians x Internacional gera polêmica após decisão do VAR",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gol-de-gustavo-henrique-em-corinthians-x-internacional-gera-polemica-apos-decisao-do-var]]>",
-      "time": "07/08 · 15:26",
-      "pubDate": "Fri, 07 Aug 2026 12:26:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Memphis divide opiniões nos bastidores e renovação segue cercada por pressão política no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-divide-opinioes-nos-bastidores-e-renovacao-segue-cercada-por-pressao-politica-no-corinthians]]>",
       "time": "07/08 · 13:49",
@@ -129,14 +161,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-detalha-lista-de-erros-da-arbitragem-como-culpada-pela-eliminacao-do-corinthians]]>",
       "time": "07/08 · 11:39",
       "pubDate": "Fri, 07 Aug 2026 08:39:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians ainda vence na Arena, mas não escapa de queda na Copa do Brasil para o Inter",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ainda-vence-na-arena-mas-nao-escapa-de-queda-na-copa-do-brasil-para-o-inter]]>",
-      "time": "07/08 · 11:31",
-      "pubDate": "Fri, 07 Aug 2026 08:31:31 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -163,30 +187,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 07 Aug 2026 08:00:35 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Corinthians 2 x 1 Internacional pela Copa do Brasil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-corinthians-2-x-1-internacional-pela-copa-do-brasil/",
-      "time": "07/08 · 03:29",
-      "pubDate": "Fri, 07 Aug 2026 03:29:46 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz critica arbitragem após queda do Corinthians e vê Memphis perto de renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-critica-arbitragem-apos-queda-do-corinthians-e-ve-memphis-perto-de-renovacao/",
-      "time": "07/08 · 03:03",
-      "pubDate": "Fri, 07 Aug 2026 03:03:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Provocação? Carlos Miguel faz postagem após queda do Corinthians; veja",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/provocacao-carlos-miguel-faz-postagem-apos-queda-do-corinthians-veja/",
-      "time": "07/08 · 02:38",
-      "pubDate": "Fri, 07 Aug 2026 02:38:53 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Estratégia de Diniz não dá certo e Corinthians é eliminado pelo Internacional na Copa do Brasil",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Últimas do Corinthians: críticas de Diniz, análise de goleiro reprovado e opinião de lenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537394/ultimas-do-corinthians-criticas-de-diniz-analise-de-goleiro-reprovado-e-opiniao-de-lenda",
+      "pubDate": "Sat, 08 Aug 2026 07:30:00 -0300",
+      "date": "08/08 · 10:30"
+    },
     {
       "title": "VÍDEO: Red Bull Bragantino x Corinthians: Provável esclação da 22ª rodada do Brasileirão",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/128981/red-bull-bragantino-x-corinthians-provavel-esclacao-da-22-rodada-do-brasileirao",
