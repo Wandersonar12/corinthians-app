@@ -1,70 +1,78 @@
-// Gerado automaticamente em 08/08/2026, 18:18:06
+// Gerado automaticamente em 08/08/2026, 22:14:41
 const LIVE_DATA = {
-  "updatedAt": "2026-08-08T18:18:06.709Z",
+  "updatedAt": "2026-08-08T22:14:41.640Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Matheuzinho projeta foco total do Corinthians na Libertadores após queda na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537348/matheuzinho-projeta-foco-total-do-corinthians-na-libertadores-apos-queda-na-copa-do-brasil",
-      "time": "08/08 · 17:33",
-      "pubDate": "Sat, 08 Aug 2026 14:33:00 -0300"
+      "title": "Corinthians emenda primeira sequência positiva na temporada após vitória no Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537429/corinthians-emenda-primeira-sequencia-positiva-na-temporada-apos-vitoria-no-paulista-de-basquete",
+      "time": "08/08 · 22:03",
+      "pubDate": "Sat, 08 Aug 2026 19:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode voltar a emplacar uma sequência de vitórias depois de três meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537363/corinthians-pode-voltar-a-emplacar-uma-sequencia-de-vitorias-depois-de-tres-meses",
-      "time": "08/08 · 16:31",
-      "pubDate": "Sat, 08 Aug 2026 13:31:00 -0300"
+      "title": "Técnico do Corinthians projeta duelo contra o Red Bull Bragantino após eliminação na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537331/tecnico-do-corinthians-projeta-duelo-contra-o-red-bull-bragantino-apos-eliminacao-na-copa-do-brasil",
+      "time": "08/08 · 21:33",
+      "pubDate": "Sat, 08 Aug 2026 18:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians goleia o São Caetano na última rodada da primeira fase do Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537410/corinthians-goleia-o-sao-caetano-na-ultima-rodada-da-primeira-fase-do-paulistao-sub-17",
-      "time": "08/08 · 15:47",
-      "pubDate": "Sat, 08 Aug 2026 12:47:00 -0300"
+      "title": "Corinthians é atropelado pelo Barão de Mauá e despenca na classificação do Paulista de Fut7",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537431/corinthians-e-atropelado-pelo-barao-de-maua-e-despenca-na-classificacao-do-paulista-de-fut7",
+      "time": "08/08 · 21:10",
+      "pubDate": "Sat, 08 Aug 2026 18:10:39 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode garantir classificação com quatro jogos de antecedência no Paulistão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537402/corinthians-pode-garantir-classificacao-com-quatro-jogos-de-antecedencia-no-paulistao-sub-20",
-      "time": "08/08 · 15:34",
-      "pubDate": "Sat, 08 Aug 2026 12:34:00 -0300"
+      "title": "Lateral do Corinthians aponta evolução na equipe e projeta clássico contra o Santos pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537419/lateral-do-corinthians-aponta-evolucao-na-equipe-e-projeta-classico-contra-o-santos-pelo-brasileirao",
+      "time": "08/08 · 21:01",
+      "pubDate": "Sat, 08 Aug 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece adversário e chaveamento das semifinais do Talentos LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537408/corinthians-conhece-adversario-e-chaveamento-das-semifinais-do-talentos-lnf",
-      "time": "08/08 · 14:58",
-      "pubDate": "Sat, 08 Aug 2026 11:58:00 -0300"
+      "title": "Corinthians volta ao Municipal de Bragança neste domingo em busca da primeira vitória no estádio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537368/corinthians-volta-ao-municipal-de-braganca-neste-domingo-em-busca-da-primeira-vitoria-no-estadio",
+      "time": "08/08 · 20:32",
+      "pubDate": "Sat, 08 Aug 2026 17:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians exalta torcida após eliminação e projeta busca pelo título da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537328/tecnico-do-corinthians-exalta-torcida-apos-eliminacao-e-projeta-busca-pelo-titulo-da-libertadores",
-      "time": "08/08 · 14:31",
-      "pubDate": "Sat, 08 Aug 2026 11:31:00 -0300"
+      "title": "Corinthians goleia Ferroviária e garante classificação antecipada ao mata-mata do Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537422/corinthians-goleia-ferroviaria-e-garante-classificacao-antecipada-ao-mata-mata-do-paulista-sub-20",
+      "time": "08/08 · 19:57",
+      "pubDate": "Sat, 08 Aug 2026 16:57:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Pato Futsal em busca de carimbar classificação aos playoffs da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537377/corinthians-enfrenta-o-pato-futsal-em-busca-de-carimbar-classificacao-aos-playoffs-da-lnf",
-      "time": "08/08 · 13:35",
-      "pubDate": "Sat, 08 Aug 2026 10:35:00 -0300"
+      "title": "Corinthians supera o São José em casa e conquista segunda vitória no Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537395/corinthians-supera-o-sao-jose-em-casa-e-conquista-segunda-vitoria-no-paulista-de-basquete",
+      "time": "08/08 · 19:50",
+      "pubDate": "Sat, 08 Aug 2026 16:50:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o São José após estreia com vitória no Paulista de Basquete; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537373/corinthians-recebe-o-sao-jose-apos-estreia-com-vitoria-no-paulista-de-basquete-saiba-tudo",
-      "time": "08/08 · 12:30",
-      "pubDate": "Sat, 08 Aug 2026 09:30:00 -0300"
+      "title": "Corinthians encerra preparação para encarar o Santos pelo Brasileirão Feminino; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537421/corinthians-encerra-preparacao-para-encarar-o-santos-pelo-brasileirao-feminino-veja-o-provavel-time",
+      "time": "08/08 · 19:46",
+      "pubDate": "Sat, 08 Aug 2026 16:46:48 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Jesse Lingard está deixando a desejar no Corinthians e ainda não mostrou a que veio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-jesse-lingard-esta-deixando-a-desejar-no-corinthians-e-ainda-nao-mostrou-a-que-veio]]>",
+      "time": "08/08 · 16:07",
+      "pubDate": "Sat, 08 Aug 2026 13:07:17 -0300"
     },
     {
       "source": "Bolavip",
@@ -83,30 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 08 Aug 2026 08:33:48 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Ferroviária: veja informações e onde assistir ao jogo pelo Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-ferroviaria-veja-informacoes-e-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
-      "time": "08/08 · 11:00",
-      "pubDate": "Sat, 08 Aug 2026 11:00:58 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Bragantino x Corinthians: onde assistir ao jogo pela 22ª rodada do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bragantino-x-corinthians-onde-assistir-ao-jogo-pela-22a-rodada-do-brasileirao/",
-      "time": "08/08 · 10:00",
-      "pubDate": "Sat, 08 Aug 2026 10:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Pedro Raul quebra jejum e pode ganhar sequência no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/pedro-raul-quebra-jejum-e-pode-ganhar-sequencia-no-corinthians/",
-      "time": "08/08 · 09:00",
-      "pubDate": "Sat, 08 Aug 2026 09:00:17 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis pode jogar contra o Rosario? Entenda a situação do jogador na Libertadores pelo Corinthians",
@@ -121,22 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-live-por-ti-apontam-erros-fatais-em-eliminacao-do-corinthians-na-copa-do-brasil]]>",
       "time": "07/08 · 23:45",
       "pubDate": "Fri, 07 Aug 2026 20:45:28 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Gabriel reencontra o Corinthians como peça importante do Bragantino",
-      "url": "https://www.gazetaesportiva.com/times/bragantino/gabriel-reencontra-corinthians-bragantino-brasileirao/",
-      "time": "07/08 · 20:53",
-      "pubDate": "Fri, 07 Aug 2026 20:53:18 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians se reapresenta após eliminação e abre preparação para pegar o Bragantino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-apos-eliminacao-e-abre-preparacao-para-pegar-o-bragantino/",
-      "time": "07/08 · 20:22",
-      "pubDate": "Fri, 07 Aug 2026 20:22:55 +0000"
     },
     {
       "source": "Bolavip",
@@ -163,42 +131,80 @@ const LIVE_DATA = {
       "pubDate": "Fri, 07 Aug 2026 10:49:38 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz detalha lista de erros da arbitragem como culpada pela eliminação do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-detalha-lista-de-erros-da-arbitragem-como-culpada-pela-eliminacao-do-corinthians]]>",
-      "time": "07/08 · 11:39",
-      "pubDate": "Fri, 07 Aug 2026 08:39:44 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Análise: Corinthians luta, mas é pouco criativo e paga por apagão na ida",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-luta-mas-e-pouco-criativo-e-paga-por-apagao-na-ida/",
-      "time": "07/08 · 10:00",
-      "pubDate": "Fri, 07 Aug 2026 10:00:05 +0000"
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Atuações: veja quem foi mal e quem se salvou na eliminação do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-veja-quem-foi-mal-e-quem-se-salvou-na-eliminacao-do-corinthians/",
-      "time": "07/08 · 09:00",
-      "pubDate": "Fri, 07 Aug 2026 09:00:29 +0000"
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians trabalha para ter Memphis à disposição na Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-trabalha-para-ter-memphis-a-disposicao-na-libertadores/",
-      "time": "07/08 · 08:00",
-      "pubDate": "Fri, 07 Aug 2026 08:00:35 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians goleia Ferroviária e garante classificação antecipada ao mata-mata do Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537422/corinthians-goleia-ferroviaria-e-garante-classificacao-antecipada-ao-mata-mata-do-paulista-sub-20",
+      "pubDate": "Sat, 08 Aug 2026 16:57:00 -0300",
+      "date": "08/08 · 19:57"
+    },
     {
       "title": "Corinthians goleia o São Caetano na última rodada da primeira fase do Paulistão Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537410/corinthians-goleia-o-sao-caetano-na-ultima-rodada-da-primeira-fase-do-paulistao-sub-17",
