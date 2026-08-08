@@ -1,7 +1,63 @@
-// Gerado automaticamente em 07/08/2026, 22:22:12
+// Gerado automaticamente em 08/08/2026, 08:24:23
 const LIVE_DATA = {
-  "updatedAt": "2026-08-07T22:22:12.987Z",
+  "updatedAt": "2026-08-08T08:24:23.264Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians melhora retrospecto em estreias no Paulista de Basquete após vitória sobre o Osasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537317/corinthians-melhora-retrospecto-em-estreias-no-paulista-de-basquete-apos-vitoria-sobre-o-osasco",
+      "time": "08/08 · 01:30",
+      "pubDate": "Fri, 07 Aug 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem pendências de premiação do primeiro semestre com elenco; salários estão atrasados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537393/corinthians-tem-pendencias-de-premiacao-do-primeiro-semestre-com-elenco-salarios-estao-atrasados",
+      "time": "08/08 · 01:04",
+      "pubDate": "Fri, 07 Aug 2026 22:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra jejum sem vitórias contra o Santos no Sub-20 Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537262/corinthians-encerra-jejum-sem-vitorias-contra-o-santos-no-sub-20-feminino",
+      "time": "08/08 · 00:36",
+      "pubDate": "Fri, 07 Aug 2026 21:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Red Bull Bragantino x Corinthians: Provável esclação da 22ª rodada do Brasileirão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128981/red-bull-bragantino-x-corinthians-provavel-esclacao-da-22-rodada-do-brasileirao",
+      "time": "07/08 · 23:45",
+      "pubDate": "Fri, 07 Aug 2026 20:45:51 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Queda para o Internacional amplia marca negativa do Corinthians contra gaúchos na Copa do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537321/queda-para-o-internacional-amplia-marca-negativa-do-corinthians-contra-gauchos-na-copa-do-brasil",
+      "time": "07/08 · 23:34",
+      "pubDate": "Fri, 07 Aug 2026 20:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral entra no pódio de garçons do Corinthians no ano após duelo contra o Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537313/lateral-entra-no-podio-de-garcons-do-corinthians-no-ano-apos-duelo-contra-o-internacional",
+      "time": "07/08 · 23:06",
+      "pubDate": "Fri, 07 Aug 2026 20:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante do Corinthians destaca confiança antes de duelo com Ferroviária no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537389/volante-do-corinthians-destaca-confianca-antes-de-duelo-com-ferroviaria-no-paulista-sub-20",
+      "time": "07/08 · 22:30",
+      "pubDate": "Fri, 07 Aug 2026 19:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,38 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537327/tecnico-do-corinthians-elogia-rendimento-de-meio-campista-contra-o-internacional-participou-bem",
       "time": "07/08 · 22:02",
       "pubDate": "Fri, 07 Aug 2026 19:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral do Corinthians destaca importância da vitória para ganhar confiança no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537386/lateral-do-corinthians-destaca-importancia-da-vitoria-para-ganhar-confianca-no-paulista-sub-17",
-      "time": "07/08 · 21:40",
-      "pubDate": "Fri, 07 Aug 2026 18:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz elogia postura defensiva e prega mudança mental como principal correção no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537330/diniz-elogia-postura-defensiva-e-prega-mudanca-mental-como-principal-correcao-no-corinthians",
-      "time": "07/08 · 21:29",
-      "pubDate": "Fri, 07 Aug 2026 18:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-meia da Holanda comenta situação de Memphis no Corinthians e revela proposta de clube brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537380/ex-meia-da-holanda-comenta-situacao-de-memphis-no-corinthians-e-revela-proposta-de-clube-brasileiro",
-      "time": "07/08 · 21:05",
-      "pubDate": "Fri, 07 Aug 2026 18:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece adversários e formato de disputa do NBB 2026/2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537384/corinthians-conhece-adversarios-e-formato-de-disputa-do-nbb-20262027",
-      "time": "07/08 · 20:55",
-      "pubDate": "Fri, 07 Aug 2026 17:55:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -51,20 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 07 Aug 2026 20:53:18 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante sente dores e vira dúvida para o Corinthians contra o Red Bull Bragantino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537383/volante-sente-dores-e-vira-duvida-para-o-corinthians-contra-o-red-bull-bragantino",
-      "time": "07/08 · 20:41",
-      "pubDate": "Fri, 07 Aug 2026 17:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Queda na Copa do Brasil coloca Internacional em lista indigesta para o Corinthians; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537300/queda-na-copa-do-brasil-coloca-internacional-em-lista-indigesta-para-o-corinthians-confira",
-      "time": "07/08 · 20:32",
-      "pubDate": "Fri, 07 Aug 2026 17:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis pode jogar contra o Rosario? Entenda a situação do jogador na Libertadores pelo Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-pode-jogar-contra-o-rosario-entenda-a-situacao-do-jogador-na-libertadores-pelo-corinthians]]>",
+      "time": "07/08 · 20:35",
+      "pubDate": "Fri, 07 Aug 2026 17:35:08 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -75,12 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 07 Aug 2026 20:22:55 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians amplia tabu pessoal negativo com eliminação na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537316/tecnico-do-corinthians-amplia-tabu-pessoal-negativo-com-eliminacao-na-copa-do-brasil",
-      "time": "07/08 · 20:01",
-      "pubDate": "Fri, 07 Aug 2026 17:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Rodrigo Garro lamenta eliminação do Corinthians e defende elenco: “Não vou duvidar do meu grupo”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-lamenta-eliminacao-do-corinthians-e-defende-elenco-nao-vou-duvidar-do-meu-grupo]]>",
+      "time": "07/08 · 19:51",
+      "pubDate": "Fri, 07 Aug 2026 16:51:56 -0300"
     },
     {
       "source": "Bolavip",
@@ -177,28 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/estrategia-de-diniz-nao-da-certo-e-corinthians-e-eliminado-pelo-internacional-na-copa-do-brasil]]>",
       "time": "07/08 · 01:14",
       "pubDate": "Thu, 06 Aug 2026 22:14:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast LivePorTi debate falta de identificação de Lingard com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-debate-falta-de-identificacao-de-lingard-com-o-corinthians]]>",
-      "time": "06/08 · 23:43",
-      "pubDate": "Thu, 06 Aug 2026 20:43:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Aproveitamento do Corinthians com Felipe Fernandes de Lima é de 41%; árbitro é escalado na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/aproveitamento-do-corinthians-com-felipe-fernandes-de-lima-e-de-41-arbitro-e-escalado-na-copa-do-brasil]]>",
-      "time": "06/08 · 20:52",
-      "pubDate": "Thu, 06 Aug 2026 17:52:31 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Red Bull Bragantino x Corinthians: Provável esclação da 22ª rodada do Brasileirão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/128981/red-bull-bragantino-x-corinthians-provavel-esclacao-da-22-rodada-do-brasileirao",
+      "pubDate": "Fri, 07 Aug 2026 20:45:51 -0300",
+      "date": "07/08 · 23:45"
+    },
     {
       "title": "Corinthians ganha reforço no gol e foca em cruzamentos antes de clássico pelo Brasileirão Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537370/corinthians-ganha-reforco-no-gol-e-foca-em-cruzamentos-antes-de-classico-pelo-brasileirao-feminino",
@@ -210,18 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537278/gustavo-henrique-chega-a-15-participacoes-em-gols-desde-que-chegou-ao-corinthians",
       "pubDate": "Fri, 07 Aug 2026 11:37:00 -0300",
       "date": "07/08 · 14:37"
-    },
-    {
-      "title": "VÍDEO: Eliminação dolorosa, clima no vestiário e defesa de Pedro Raul: zona mista Rodrigo Garro",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128973/eliminacao-dolorosa-clima-no-vestiario-e-defesa-de-pedro-raul-zona-mista-rodrigo-garro",
-      "pubDate": "Fri, 07 Aug 2026 09:41:06 -0300",
-      "date": "07/08 · 12:41"
-    },
-    {
-      "title": "VÍDEO: Sentimento ruim! Matheuzinho fala da dor de não classificar e saída da Copa do Brasil",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/128968/sentimento-ruim-matheuzinho-fala-da-dor-de-nao-classificar-e-saida-da-copa-do-brasil",
-      "pubDate": "Fri, 07 Aug 2026 00:22:31 -0300",
-      "date": "07/08 · 03:22"
     }
   ]
 };
