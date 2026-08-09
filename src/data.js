@@ -1,38 +1,118 @@
-// Gerado automaticamente em 09/08/2026, 18:19:54
+// Gerado automaticamente em 09/08/2026, 22:16:12
 const LIVE_DATA = {
-  "updatedAt": "2026-08-09T18:19:54.051Z",
+  "updatedAt": "2026-08-09T22:16:12.614Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para clássico contra o Santos pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537462/corinthians-esta-escalado-para-classico-contra-o-santos-pelo-brasileirao-feminino",
-      "time": "09/08 · 18:01",
-      "pubDate": "Sun, 09 Aug 2026 15:01:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Novo contrato com Memphis deve custar quase R$ 150 milhões ao Corinthians; veja valores e bonificações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/novo-contrato-com-memphis-deve-custar-quase-r-150-milhoes-ao-corinthians-veja-valores-e-bonificacoes/",
+      "time": "09/08 · 22:04",
+      "pubDate": "Sun, 09 Aug 2026 22:04:40 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Santos e segue na liderança do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-goleia-o-santos-e-segue-na-lideranca-do-brasileirao-feminino/",
+      "time": "09/08 · 21:03",
+      "pubDate": "Sun, 09 Aug 2026 21:03:59 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians finaliza 50ª edição da Campanha Sangue Corinthians na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537445/corinthians-finaliza-50-edicao-da-campanha-sangue-corinthians-na-neo-quimica-arena",
-      "time": "09/08 · 17:31",
-      "pubDate": "Sun, 09 Aug 2026 14:31:00 -0300"
+      "title": "Corinthians goleia Santos e mantém liderança isolada do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537489/corinthians-goleia-santos-e-mantem-lideranca-isolada-do-brasileirao-feminino",
+      "time": "09/08 · 20:59",
+      "pubDate": "Sun, 09 Aug 2026 17:59:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-Corinthians é solto e responderá em liberdade após acusação de violência doméstica",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537472/ex-corinthians-e-solto-e-respondera-em-liberdade-apos-acusacao-de-violencia-domestica",
-      "time": "09/08 · 17:17",
-      "pubDate": "Sun, 09 Aug 2026 14:17:36 -0300"
+      "title": "Volante desfalca o Corinthians contra o Bragantino e vira dúvida para mata-mata da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537488/volante-desfalca-o-corinthians-contra-o-bragantino-e-vira-duvida-para-mata-mata-da-libertadores",
+      "time": "09/08 · 20:52",
+      "pubDate": "Sun, 09 Aug 2026 17:52:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan ganha vaga de André no Corinthians para duelo com o Bragantino; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-ganha-vaga-de-andre-no-corinthians-para-duelo-com-o-bragantino/",
+      "time": "09/08 · 20:36",
+      "pubDate": "Sun, 09 Aug 2026 20:36:00 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians entra em lista de artilheiros de 2026 após vitória contra Pato na Liga Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537440/goleiro-do-corinthians-entra-em-lista-de-artilheiros-de-2026-apos-vitoria-contra-pato-na-liga-futsal",
-      "time": "09/08 · 16:33",
-      "pubDate": "Sun, 09 Aug 2026 13:33:00 -0300"
+      "title": "Corinthians está escalado para enfrentar o Red Bull Bragantino pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537464/corinthians-esta-escalado-para-enfrentar-o-red-bull-bragantino-pelo-brasileirao",
+      "time": "09/08 · 20:30",
+      "pubDate": "Sun, 09 Aug 2026 17:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians marca no fim, mas Ferroviária abre vantagem na semifinal do Brasileirão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537474/corinthians-marca-no-fim-mas-ferroviaria-abre-vantagem-na-semifinal-do-brasileirao-feminino-sub-17",
+      "time": "09/08 · 20:05",
+      "pubDate": "Sun, 09 Aug 2026 17:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta melhorar retrospecto contra o Red Bull Bragantino pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537460/corinthians-tenta-melhorar-retrospecto-contra-o-red-bull-bragantino-pelo-brasileirao",
+      "time": "09/08 · 19:32",
+      "pubDate": "Sun, 09 Aug 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diretora do Corinthians representa as Brabas em evento sul-americano de futebol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537447/diretora-do-corinthians-representa-as-brabas-em-evento-sul-americano-de-futebol",
+      "time": "09/08 · 19:03",
+      "pubDate": "Sun, 09 Aug 2026 16:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Olho no G5, invencibilidade e 'lei do ex': veja como o Red Bull Bragantino recebe o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537466/olho-no-g5invencibilidade-e-lei-do-ex-veja-como-o-red-bull-bragantino-recebe-o-corinthians",
+      "time": "09/08 · 18:36",
+      "pubDate": "Sun, 09 Aug 2026 15:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meio-campista entra na lista de desfalques do Corinthians antes de clássico pelo Brasileiro Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537476/meio-campista-entra-na-lista-de-desfalques-do-corinthians-antes-de-classico-pelo-brasileiro-feminino",
+      "time": "09/08 · 18:26",
+      "pubDate": "Sun, 09 Aug 2026 15:26:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Bragantino x Corinthians: onde assistir ao vivo, horário e prováveis escalações do Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/bragantino-x-corinthians-onde-assistir-ao-vivo-horario-escalacoes-brasileirao-2026-22-rodada]]>",
+      "time": "09/08 · 17:00",
+      "pubDate": "Sun, 09 Aug 2026 14:00:49 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vira a chave e encara RB Bragantino pelo Brasileirão com extensa lista de desfalques e pendurados",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vira-a-chave-e-encara-rb-bragantino-pelo-brasileirao-com-extensa-lista-de-desfalques-e-pendurados]]>",
+      "time": "09/08 · 16:59",
+      "pubDate": "Sun, 09 Aug 2026 13:59:45 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Renovação de Memphis trava por cláusulas financeiras e Corinthians busca acordo final",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-memphis-trava-por-clausulas-financeiras-e-corinthians-busca-acordo-final]]>",
+      "time": "09/08 · 16:59",
+      "pubDate": "Sun, 09 Aug 2026 13:59:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -43,36 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 09 Aug 2026 16:19:47 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode ter até oito desfalques e conta com sete pendurados diante do RB Bragantino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537459/corinthians-pode-ter-ate-oito-desfalques-e-conta-com-sete-pendurados-diante-do-rb-bragantino",
-      "time": "09/08 · 15:31",
-      "pubDate": "Sun, 09 Aug 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Confira os adversários do Corinthians na segunda fase do Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537465/confira-os-adversarios-do-corinthians-na-segunda-fase-do-paulista-sub-17",
-      "time": "09/08 · 15:17",
-      "pubDate": "Sun, 09 Aug 2026 12:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca evitar sequência inédita de derrotas contra rivais no futebol feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537430/corinthians-busca-evitar-sequencia-inedita-de-derrotas-contra-rivais-no-futebol-feminino",
-      "time": "09/08 · 14:32",
-      "pubDate": "Sun, 09 Aug 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Patrocinadora lança novo produto oficial em parceria com o Corinthians; veja como comprar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537463/patrocinadora-lanca-novo-produto-oficial-em-parceria-com-o-corinthians-veja-como-comprar",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Pedro Henrique reencontra o Corinthians e revela estratégia do Bragantino para o duelo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-henrique-reencontra-o-corinthians-e-revela-estrategia-do-bragantino-para-o-duelo]]>",
       "time": "09/08 · 14:05",
-      "pubDate": "Sun, 09 Aug 2026 11:05:00 -0300"
+      "pubDate": "Sun, 09 Aug 2026 11:05:44 -0300"
     },
     {
       "source": "Bolavip",
@@ -115,36 +171,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 08 Aug 2026 23:00:05 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia a Ferroviária e garante vaga na próxima fase do Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-ferroviaria-garante-classificacao-paulistao-sub-20/",
-      "time": "08/08 · 19:58",
-      "pubDate": "Sat, 08 Aug 2026 19:58:18 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Corinthians abdicou do Dinizismo quando mais precisou dele para se classificar",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-abdicou-do-dinizismo-quando-mais-precisou-dele-para-se-classificar]]>",
       "time": "08/08 · 19:27",
       "pubDate": "Sat, 08 Aug 2026 16:27:38 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians fecha preparação para visitar o Bragantino; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-fecha-preparacao-para-visitar-o-bragantino-veja-provavel-escalacao/",
-      "time": "08/08 · 19:21",
-      "pubDate": "Sat, 08 Aug 2026 19:21:02 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians neste sábado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-neste-sabado-8/",
-      "time": "08/08 · 19:19",
-      "pubDate": "Sat, 08 Aug 2026 19:19:43 +0000"
     },
     {
       "source": "Bolavip",
@@ -157,48 +189,22 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Vídeo: Podcast LivePorTi critica falta de repertório de Fernando Diniz no comando do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-critica-falta-de-repertorio-de-fernando-diniz-no-comando-do-corinthians]]>",
-      "time": "08/08 · 11:36",
-      "pubDate": "Sat, 08 Aug 2026 08:36:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians tenta destravar renovação de Memphis enquanto cláusula gera impasse nos bastidores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-destravar-renovacao-de-memphis-enquanto-clausula-gera-impasse-nos-bastidores]]>",
       "time": "08/08 · 11:33",
       "pubDate": "Sat, 08 Aug 2026 08:33:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis pode jogar contra o Rosario? Entenda a situação do jogador na Libertadores pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-pode-jogar-contra-o-rosario-entenda-a-situacao-do-jogador-na-libertadores-pelo-corinthians]]>",
-      "time": "08/08 · 01:35",
-      "pubDate": "Fri, 07 Aug 2026 22:35:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast Live Por Ti apontam erros fatais em eliminação do Corinthians na Copa do Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-live-por-ti-apontam-erros-fatais-em-eliminacao-do-corinthians-na-copa-do-brasil]]>",
-      "time": "07/08 · 23:45",
-      "pubDate": "Fri, 07 Aug 2026 20:45:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Rodrigo Garro lamenta eliminação do Corinthians e defende elenco: “Não vou duvidar do meu grupo”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-lamenta-eliminacao-do-corinthians-e-defende-elenco-nao-vou-duvidar-do-meu-grupo]]>",
-      "time": "07/08 · 19:51",
-      "pubDate": "Fri, 07 Aug 2026 16:51:56 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians goleia Santos e mantém liderança isolada do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537489/corinthians-goleia-santos-e-mantem-lideranca-isolada-do-brasileirao-feminino",
+      "pubDate": "Sun, 09 Aug 2026 17:59:00 -0300",
+      "date": "09/08 · 20:59"
+    },
     {
       "title": "Goleiro do Corinthians entra em lista de artilheiros de 2026 após vitória contra Pato na Liga Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537440/goleiro-do-corinthians-entra-em-lista-de-artilheiros-de-2026-apos-vitoria-contra-pato-na-liga-futsal",
@@ -216,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537418/saiba-onde-assistir-a-partida-entre-corinthians-e-santos-pelo-brasileiro-feminino",
       "pubDate": "Sun, 09 Aug 2026 08:00:00 -0300",
       "date": "09/08 · 11:00"
-    },
-    {
-      "title": "Goleada sobre Ferroviária movimenta ranking de artilheiros do Corinthians Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537425/goleada-sobre-ferroviaria-movimenta-ranking-de-artilheiros-do-corinthians-sub-20",
-      "pubDate": "Sat, 08 Aug 2026 20:02:00 -0300",
-      "date": "08/08 · 23:02"
     }
   ]
 };
