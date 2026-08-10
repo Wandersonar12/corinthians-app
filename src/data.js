@@ -1,30 +1,86 @@
-// Gerado automaticamente em 10/08/2026, 12:37:21
+// Gerado automaticamente em 10/08/2026, 18:38:19
 const LIVE_DATA = {
-  "updatedAt": "2026-08-10T12:37:21.001Z",
+  "updatedAt": "2026-08-10T18:38:19.727Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians consolida maior sequência invicta na temporada em classificação na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537439/corinthians-consolida-maior-sequencia-invicta-na-temporada-em-classificacao-na-lnf",
-      "time": "10/08 · 12:31",
-      "pubDate": "Mon, 10 Aug 2026 09:31:00 -0300"
+      "title": "Pivô do Corinthians valoriza retorno ao Wlamir Marques e projeta evolução com elenco rejuvenescido",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537461/pivo-do-corinthians-valoriza-retorno-ao-wlamir-marques-e-projeta-evolucao-com-elenco-rejuvenescido",
+      "time": "10/08 · 18:34",
+      "pubDate": "Mon, 10 Aug 2026 15:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians revela expectativa por quitação de débito e exalta comprometimento do elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537539/tecnico-do-corinthians-revela-expectativa-por-quitacao-de-debito-e-exalta-comprometimento-do-elenco",
-      "time": "10/08 · 11:30",
-      "pubDate": "Mon, 10 Aug 2026 08:30:00 -0300"
+      "title": "Corinthians se iguala a clubes da Série A com mais vitórias desde a chegada de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537528/corinthians-se-iguala-a-clubes-da-serie-a-com-mais-vitorias-desde-a-chegada-de-fernando-diniz",
+      "time": "10/08 · 18:01",
+      "pubDate": "Mon, 10 Aug 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória no Brasileirão, goleada das Brabas no clássico e suposta nova camisa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537551/ultimas-do-corinthians-vitoria-no-brasileirao-goleada-das-brabas-no-classico-e-suposta-nova-camisa",
-      "time": "10/08 · 10:30",
-      "pubDate": "Mon, 10 Aug 2026 07:30:00 -0300"
+      "title": "Fernando Diniz elogia evolução de Pedro Raul após sequência de gols pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537540/fernando-diniz-elogia-evolucao-de-pedro-raul-apos-sequencia-de-gols-pelo-corinthians",
+      "time": "10/08 · 17:34",
+      "pubDate": "Mon, 10 Aug 2026 14:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians exibe estatísticas positivas em vitória sobre Red Bull Bragantino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537530/lateral-do-corinthians-exibe-estatisticas-positivas-em-vitoria-sobre-red-bull-bragantino",
+      "time": "10/08 · 17:02",
+      "pubDate": "Mon, 10 Aug 2026 14:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante desencanta com a camisa do Corinthians após quase seis meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537563/atacante-desencanta-com-a-camisa-do-corinthians-apos-quase-seis-meses",
+      "time": "10/08 · 16:37",
+      "pubDate": "Mon, 10 Aug 2026 13:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians chega a 50 gols na temporada, e dupla sobe no ranking de artilheiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537524/corinthians-chega-a-50-gols-na-temporada-e-dupla-sobe-no-ranking-de-artilheiros",
+      "time": "10/08 · 16:06",
+      "pubDate": "Mon, 10 Aug 2026 13:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians espera renovação de Memphis para reforçar o ataque em meio a desfalques",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537576/zagueiro-do-corinthians-espera-renovacao-de-memphis-para-reforcar-a-equipe-em-meio-a-desfalques",
+      "time": "10/08 · 15:31",
+      "pubDate": "Mon, 10 Aug 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante comenta sequência como titular e elogia parceria com Jhonson no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537564/atacante-comenta-sequencia-como-titular-e-elogia-parceria-com-jhonson-no-corinthians",
+      "time": "10/08 · 15:09",
+      "pubDate": "Mon, 10 Aug 2026 12:09:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto é dúvida no Corinthians e data do retorno enfrenta dilema nos bastidores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-e-duvida-no-corinthians-e-data-do-retorno-enfrenta-dilema-nos-bastidores]]>",
+      "time": "10/08 · 12:22",
+      "pubDate": "Mon, 10 Aug 2026 09:22:01 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians prioriza salários atrasados e adia pagamento do transfer ban",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-salarios-atrasados-e-adia-pagamento-do-transfer-ban]]>",
+      "time": "10/08 · 12:18",
+      "pubDate": "Mon, 10 Aug 2026 09:18:55 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -49,46 +105,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-matheuzinho-e-destaque-e-kaio-cesar-tem-atuacao-discreta-no-corinthians/",
       "time": "10/08 · 08:00",
       "pubDate": "Mon, 10 Aug 2026 08:00:49 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Novela Memphis e decisão da Liberta: Zona mista Gustavo Henrique Red Bull Bragantino 0x2 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129025/novela-memphis-e-decisao-da-liberta-zona-mista-gustavo-henrique-red-bull-bragantino-0x2-corinthians",
-      "time": "10/08 · 01:41",
-      "pubDate": "Sun, 09 Aug 2026 22:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz exalta entrega do Corinthians e conexão com a Fiel após vitória contra o Bragantino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537534/fernando-diniz-exalta-entrega-do-corinthians-e-conexao-com-a-fiel-apos-vitoria-contra-o-bragantino",
-      "time": "10/08 · 01:40",
-      "pubDate": "Sun, 09 Aug 2026 22:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz não descarta Yuri Alberto para jogo decisivo do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537538/diniz-nao-descarta-yuri-alberto-para-jogo-decisivo-do-corinthians-na-libertadores",
-      "time": "10/08 · 01:39",
-      "pubDate": "Sun, 09 Aug 2026 22:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Dificuldades fora de casa e confiança de Diniz: Gabriel Paulista Red Bull Bragantino 0x2 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129024/dificuldades-fora-de-casa-e-confianca-de-diniz-gabriel-paulista-red-bull-bragantino-0x2-corinthians",
-      "time": "10/08 · 01:38",
-      "pubDate": "Sun, 09 Aug 2026 22:38:03 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians comenta renovação com Memphis e explica condição física do atleta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537537/tecnico-do-corinthians-comenta-sobre-renovacao-com-memphis-e-explica-condicao-fisica-do-atleta",
-      "time": "10/08 · 01:34",
-      "pubDate": "Sun, 09 Aug 2026 22:34:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -177,28 +193,30 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-henrique-reencontra-o-corinthians-e-revela-estrategia-do-bragantino-para-o-duelo]]>",
       "time": "09/08 · 14:05",
       "pubDate": "Sun, 09 Aug 2026 11:05:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians encaminha renovação de Memphis Depay após chegar a acordo com staff do holandês",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-encaminha-renovacao-de-memphis-depay-apos-chegar-a-acordo-com-staff-do-holandes]]>",
-      "time": "09/08 · 12:15",
-      "pubDate": "Sun, 09 Aug 2026 09:15:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians abdicou do Dinizismo quando mais precisou dele para se classificar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-abdicou-do-dinizismo-quando-mais-precisou-dele-para-se-classificar]]>",
-      "time": "08/08 · 19:27",
-      "pubDate": "Sat, 08 Aug 2026 16:27:38 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Fernando Diniz elogia evolução de Pedro Raul após sequência de gols pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537540/fernando-diniz-elogia-evolucao-de-pedro-raul-apos-sequencia-de-gols-pelo-corinthians",
+      "pubDate": "Mon, 10 Aug 2026 14:34:00 -0300",
+      "date": "10/08 · 17:34"
+    },
+    {
+      "title": "Corinthians chega a 50 gols na temporada, e dupla sobe no ranking de artilheiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537524/corinthians-chega-a-50-gols-na-temporada-e-dupla-sobe-no-ranking-de-artilheiros",
+      "pubDate": "Mon, 10 Aug 2026 13:06:00 -0300",
+      "date": "10/08 · 16:06"
+    },
+    {
+      "title": "Auxiliar do Corinthians valoriza leitura de jogo dos atletas em goleada sobre Ferroviária no Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537458/auxiliar-do-corinthians-valoriza-leitura-de-jogo-dos-atletas-em-goleada-sobre-ferroviaria-no-sub-20",
+      "pubDate": "Mon, 10 Aug 2026 11:34:00 -0300",
+      "date": "10/08 · 14:34"
+    },
     {
       "title": "Últimas do Corinthians: vitória no Brasileirão, goleada das Brabas no clássico e suposta nova camisa",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537551/ultimas-do-corinthians-vitoria-no-brasileirao-goleada-das-brabas-no-classico-e-suposta-nova-camisa",
@@ -228,24 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129017/mudanca-tatica-e-elogios-de-diniz-zona-mista-matheuzinho-red-bull-bragantino-0x2-corinthians",
       "pubDate": "Sun, 09 Aug 2026 22:08:45 -0300",
       "date": "10/08 · 01:08"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: RB Bragantino 0x2 Corinthians | 22ª rodada | Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129014/melhores-momentos-rb-bragantino-0x2-corinthians-22-rodada-brasileirao-2026",
-      "pubDate": "Sun, 09 Aug 2026 21:55:42 -0300",
-      "date": "10/08 · 00:55"
-    },
-    {
-      "title": "VÍDEO: Expectativas, cobranças e Libertadores: Zona mista Pedro Raul | Red Bull Bragantino 0x2 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129013/expectativas-cobrancas-e-libertadores-zona-mista-pedro-raul-red-bull-bragantino-0x2-corinthians",
-      "pubDate": "Sun, 09 Aug 2026 21:48:50 -0300",
-      "date": "10/08 · 00:48"
-    },
-    {
-      "title": "Emily Lima confirma renovação de Robledo e destaca momento da atacante no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537515/emily-lima-confirma-renovacao-de-robledo-e-destaca-momento-da-atacante-no-corinthians",
-      "pubDate": "Sun, 09 Aug 2026 20:52:00 -0300",
-      "date": "09/08 · 23:52"
     }
   ]
 };
