@@ -1,7 +1,55 @@
-// Gerado automaticamente em 10/08/2026, 09:03:25
+// Gerado automaticamente em 10/08/2026, 12:37:21
 const LIVE_DATA = {
-  "updatedAt": "2026-08-10T09:03:25.014Z",
+  "updatedAt": "2026-08-10T12:37:21.001Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians consolida maior sequência invicta na temporada em classificação na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537439/corinthians-consolida-maior-sequencia-invicta-na-temporada-em-classificacao-na-lnf",
+      "time": "10/08 · 12:31",
+      "pubDate": "Mon, 10 Aug 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians revela expectativa por quitação de débito e exalta comprometimento do elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537539/tecnico-do-corinthians-revela-expectativa-por-quitacao-de-debito-e-exalta-comprometimento-do-elenco",
+      "time": "10/08 · 11:30",
+      "pubDate": "Mon, 10 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: vitória no Brasileirão, goleada das Brabas no clássico e suposta nova camisa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537551/ultimas-do-corinthians-vitoria-no-brasileirao-goleada-das-brabas-no-classico-e-suposta-nova-camisa",
+      "time": "10/08 · 10:30",
+      "pubDate": "Mon, 10 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Corinthians dá resposta após eliminação e encontra soluções em meio aos desfalques",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-da-resposta-apos-eliminacao-e-encontra-solucoes-em-meio-aos-desfalques/",
+      "time": "10/08 · 10:00",
+      "pubDate": "Mon, 10 Aug 2026 10:00:30 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Matheuzinho destaca foco do Corinthians apesar de salários atrasados: &#8220;Não é legal&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-destaca-foco-do-corinthians-apesar-de-salarios-atrasados-nao-e-legal/",
+      "time": "10/08 · 09:00",
+      "pubDate": "Mon, 10 Aug 2026 09:00:43 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações: Matheuzinho se destaca e Kaio César tem noite discreta em vitória do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-matheuzinho-e-destaque-e-kaio-cesar-tem-atuacao-discreta-no-corinthians/",
+      "time": "10/08 · 08:00",
+      "pubDate": "Mon, 10 Aug 2026 08:00:49 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -37,34 +85,66 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians comenta sobre renovação com Memphis e explica condição física do atleta",
+      "title": "Técnico do Corinthians comenta renovação com Memphis e explica condição física do atleta",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537537/tecnico-do-corinthians-comenta-sobre-renovacao-com-memphis-e-explica-condicao-fisica-do-atleta",
       "time": "10/08 · 01:34",
       "pubDate": "Sun, 09 Aug 2026 22:34:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Análise da vitória do Corinthians, P. Raul artilheiro e situação de Memphis: coletiva de F. Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129023/analise-da-vitoria-do-corinthians-p-raul-artilheiro-e-situacao-de-memphis-coletiva-de-f-diniz",
-      "time": "10/08 · 01:33",
-      "pubDate": "Sun, 09 Aug 2026 22:33:17 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians perde André e sonha com retorno de Yuri Alberto na Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-andre-fora-e-sonha-com-retorno-de-yuri-alberto-na-libertadores/",
+      "time": "10/08 · 01:15",
+      "pubDate": "Mon, 10 Aug 2026 01:15:20 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Mudança tática e elogios de Diniz: Zona mista Matheuzinho Red Bull Bragantino 0x2 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129017/mudanca-tatica-e-elogios-de-diniz-zona-mista-matheuzinho-red-bull-bragantino-0x2-corinthians",
-      "time": "10/08 · 01:08",
-      "pubDate": "Sun, 09 Aug 2026 22:08:45 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz elogia entrega do Corinthians após eliminação e torce por &#8220;reinício&#8221; de Pedro Raul",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-elogia-entrega-do-corinthians-apos-eliminacao-e-torce-por-reinicio-de-pedro-raul/",
+      "time": "10/08 · 01:03",
+      "pubDate": "Mon, 10 Aug 2026 01:03:52 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante marca pela primeira vez em duas partidas seguidas com a camisa do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537512/atacante-marca-pela-primeira-vez-em-duas-partidas-seguidas-com-a-camisa-do-corinthians",
-      "time": "10/08 · 01:01",
-      "pubDate": "Sun, 09 Aug 2026 22:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz mexe no Corinthians e Timão vence o Bragantino pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-mexe-no-corinthians-e-timao-vence-o-bragantino-pelo-brasileirao]]>",
+      "time": "10/08 · 00:31",
+      "pubDate": "Sun, 09 Aug 2026 21:31:38 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Melhores momentos: Bragantino 0 x 2 Corinthians",
+      "url": "https://www.gazetaesportiva.com/dugout/melhores-momentos-bragantino-0-x-2-corinthians/",
+      "time": "10/08 · 00:17",
+      "pubDate": "Mon, 10 Aug 2026 00:17:58 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Pedro Raul comemora gol, valoriza sequência e diz entender críticas no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/pedro-raul-comemora-gol-valoriza-sequencia-e-diz-entender-criticas-no-corinthians/",
+      "time": "09/08 · 23:47",
+      "pubDate": "Sun, 09 Aug 2026 23:47:33 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians volta a sofrer com poucas finalizações e vence Red Bull Bragantino com falha de Tiago Volpi",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-volta-a-sofrer-com-poucas-finalizacoes-e-vence-red-bull-bragantino-com-falha-de-tiago-volpi]]>",
+      "time": "09/08 · 23:28",
+      "pubDate": "Sun, 09 Aug 2026 20:28:29 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians aproveita falha de Volpi, vence o Bragantino e encosta no G5",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-aproveita-falha-de-volpi-vence-o-bragantino-e-encosta-no-g5/",
+      "time": "09/08 · 23:28",
+      "pubDate": "Sun, 09 Aug 2026 23:28:10 +0000"
     },
     {
       "source": "Bolavip",
@@ -113,92 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-abdicou-do-dinizismo-quando-mais-precisou-dele-para-se-classificar]]>",
       "time": "08/08 · 19:27",
       "pubDate": "Sat, 08 Aug 2026 16:27:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Jesse Lingard está deixando a desejar no Corinthians e ainda não mostrou a que veio",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-jesse-lingard-esta-deixando-a-desejar-no-corinthians-e-ainda-nao-mostrou-a-que-veio]]>",
-      "time": "08/08 · 16:07",
-      "pubDate": "Sat, 08 Aug 2026 13:07:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta destravar renovação de Memphis enquanto cláusula gera impasse nos bastidores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-destravar-renovacao-de-memphis-enquanto-clausula-gera-impasse-nos-bastidores]]>",
-      "time": "08/08 · 11:33",
-      "pubDate": "Sat, 08 Aug 2026 08:33:48 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Últimas do Corinthians: vitória no Brasileirão, goleada das Brabas no clássico e suposta nova camisa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537551/ultimas-do-corinthians-vitoria-no-brasileirao-goleada-das-brabas-no-classico-e-suposta-nova-camisa",
+      "pubDate": "Mon, 10 Aug 2026 07:30:00 -0300",
+      "date": "10/08 · 10:30"
+    },
     {
       "title": "VÍDEO: Novela Memphis e decisão da Liberta: Zona mista Gustavo Henrique Red Bull Bragantino 0x2 Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129025/novela-memphis-e-decisao-da-liberta-zona-mista-gustavo-henrique-red-bull-bragantino-0x2-corinthians",
@@ -240,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537515/emily-lima-confirma-renovacao-de-robledo-e-destaca-momento-da-atacante-no-corinthians",
       "pubDate": "Sun, 09 Aug 2026 20:52:00 -0300",
       "date": "09/08 · 23:52"
-    },
-    {
-      "title": "Corinthians goleia Santos e mantém liderança isolada do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537489/corinthians-goleia-santos-e-mantem-lideranca-isolada-do-brasileirao-feminino",
-      "pubDate": "Sun, 09 Aug 2026 17:59:00 -0300",
-      "date": "09/08 · 20:59"
     }
   ]
 };
