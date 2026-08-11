@@ -1,7 +1,63 @@
-// Gerado automaticamente em 11/08/2026, 08:41:05
+// Gerado automaticamente em 11/08/2026, 12:34:34
 const LIVE_DATA = {
-  "updatedAt": "2026-08-11T08:41:05.176Z",
+  "updatedAt": "2026-08-11T12:34:34.202Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encaminha dispensa de jovem atacante envolvido em expulsão do MCF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537623/corinthians-encaminha-dispensa-de-jovem-atacante-que-causou-expulsao-do-clube-do-mcf",
+      "time": "11/08 · 12:23",
+      "pubDate": "Tue, 11 Aug 2026 09:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians define viagem sem Yuri Alberto e Memphis para jogo decisivo na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537624/corinthians-define-viagem-sem-yuri-alberto-e-memphis-para-jogo-decisivo-na-libertadores",
+      "time": "11/08 · 12:13",
+      "pubDate": "Tue, 11 Aug 2026 09:13:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians define 'dia D' para decidir futuro de Memphis Depay",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537622/corinthians-define-dia-d-para-decidir-futuro-de-memphis-depay",
+      "time": "11/08 · 12:06",
+      "pubDate": "Tue, 11 Aug 2026 09:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém patrocinadora na camisa mesmo sem contrato e prevê pagamento retroativo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537621/corinthians-mantem-patrocinadora-na-camisa-mesmo-sem-contrato-e-preve-pagamento-retroativo",
+      "time": "11/08 · 11:47",
+      "pubDate": "Tue, 11 Aug 2026 08:47:28 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Flamengo de olho na liderança do Brasileiro Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537584/corinthians-visita-o-flamengo-de-olho-na-lideranca-do-brasileiro-sub-17-saiba-tudo",
+      "time": "11/08 · 11:30",
+      "pubDate": "Tue, 11 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: novos inscritos, salários quitados e negócio avançado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537608/ultimas-do-corinthians-novos-inscritos-salarios-quitados-e-negocio-avancado",
+      "time": "11/08 · 10:30",
+      "pubDate": "Tue, 11 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Vontade de ficar e papo com Diniz: como Pedro Raul ressurgiu no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/vontade-de-ficar-e-papo-com-diniz-como-pedro-raul-ressurgiu-no-corinthians/",
+      "time": "11/08 · 09:00",
+      "pubDate": "Tue, 11 Aug 2026 09:00:46 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -9,6 +65,14 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/paz-ve-acordo-com-memphis-avancado-e-confia-em-renovacao-com-corinthians/",
       "time": "11/08 · 03:03",
       "pubDate": "Tue, 11 Aug 2026 03:03:25 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Influenciador da LivePorTi destaca mérito do Corinthians na Libertadores sem Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-influenciador-da-liveporti-destaca-merito-do-corinthians-na-libertadores-sem-memphis-depay]]>",
+      "time": "11/08 · 01:42",
+      "pubDate": "Mon, 10 Aug 2026 22:42:53 -0300"
     },
     {
       "source": "Meu Timao",
@@ -27,14 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 10 Aug 2026 21:38:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians analisa o estilo de jogo do Pato Futsal e projeta duelo das oitavas de final",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537477/tecnico-do-corinthians-analisa-o-estilo-de-jogo-do-pato-futsal-e-projeta-duelo-das-oitavas-de-final",
-      "time": "11/08 · 00:33",
-      "pubDate": "Mon, 10 Aug 2026 21:33:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Santos aceita acordo, e São Paulo manda clássico contra o Corinthians na Vila Belmiro",
@@ -43,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 11 Aug 2026 00:31:57 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "'Blogueiro' é readmitido ao quadro de sócios do Corinthians; jornalista acusa Gaviões de agressão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537605/blogueiro-e-readmitido-ao-quadro-de-socios-do-corinthians-jornalista-acusa-gavioes-de-agressao",
-      "time": "11/08 · 00:31",
-      "pubDate": "Mon, 10 Aug 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians prega virada de chave e revela conversa com atacante: 'Confiança'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537572/zagueiro-do-corinthians-prega-virada-de-chave-e-revela-conversa-com-atacante-confianca",
-      "time": "11/08 · 00:02",
-      "pubDate": "Mon, 10 Aug 2026 21:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Após goleada, Corinthians engata primeira sequência de vitórias no segundo semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537491/apos-goleada-corinthians-engata-primeira-sequencia-de-vitorias-no-segundo-semestre",
-      "time": "10/08 · 23:31",
-      "pubDate": "Mon, 10 Aug 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-diretores da base são absolvidos de expulsão no Corinthians em votação no Conselho Deliberativo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537604/ex-diretores-da-base-sao-absolvidos-de-expulsao-no-corinthians-em-votacao-no-conselho-deliberativo",
-      "time": "10/08 · 23:23",
-      "pubDate": "Mon, 10 Aug 2026 20:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pedro Raul volta a ter sequência como titular do Corinthians após quase dois anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537522/pedro-raul-volta-a-ter-sequencia-como-titular-do-corinthians-apos-quase-dois-anos",
-      "time": "10/08 · 23:07",
-      "pubDate": "Mon, 10 Aug 2026 20:07:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast aponta evolução de Allan no Corinthians e elogia atuação contra o Bragantino",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vide-podcast-evolucao-allan-corinthians]]>",
+      "time": "11/08 · 00:23",
+      "pubDate": "Mon, 10 Aug 2026 21:23:23 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -97,14 +121,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-paga-salarios-de-julho-mas-ainda-tem-dividas-com-elenco/",
       "time": "10/08 · 22:37",
       "pubDate": "Mon, 10 Aug 2026 22:37:45 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians planeja contar com Memphis Depay contra o Rosario Central",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-contar-com-memphis-depay-contra-o-rosario-central]]>",
-      "time": "10/08 · 21:00",
-      "pubDate": "Mon, 10 Aug 2026 18:00:02 -0300"
     },
     {
       "source": "Bolavip",
@@ -155,14 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 10 Aug 2026 11:04:01 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians prioriza salários atrasados e adia pagamento do transfer ban",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prioriza-salarios-atrasados-e-adia-pagamento-do-transfer-ban]]>",
-      "time": "10/08 · 12:18",
-      "pubDate": "Mon, 10 Aug 2026 09:18:55 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Análise: Corinthians dá resposta após eliminação e encontra soluções em meio aos desfalques",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-matheuzinho-e-destaque-e-kaio-cesar-tem-atuacao-discreta-no-corinthians/",
       "time": "10/08 · 08:00",
       "pubDate": "Mon, 10 Aug 2026 08:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians perde André e sonha com retorno de Yuri Alberto na Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-andre-fora-e-sonha-com-retorno-de-yuri-alberto-na-libertadores/",
-      "time": "10/08 · 01:15",
-      "pubDate": "Mon, 10 Aug 2026 01:15:20 +0000"
     }
   ],
   "upcoming": [],
@@ -216,18 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537566/emily-lima-elogia-atuacao-do-corinthians-e-destaca-evolucao-das-brabas-apos-goleada-contra-o-santos",
       "pubDate": "Mon, 10 Aug 2026 17:02:00 -0300",
       "date": "10/08 · 20:02"
-    },
-    {
-      "title": "Fernando Diniz elogia evolução de Pedro Raul após sequência de gols pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537540/fernando-diniz-elogia-evolucao-de-pedro-raul-apos-sequencia-de-gols-pelo-corinthians",
-      "pubDate": "Mon, 10 Aug 2026 14:34:00 -0300",
-      "date": "10/08 · 17:34"
-    },
-    {
-      "title": "Corinthians chega a 50 gols na temporada, e dupla sobe no ranking de artilheiros",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537524/corinthians-chega-a-50-gols-na-temporada-e-dupla-sobe-no-ranking-de-artilheiros",
-      "pubDate": "Mon, 10 Aug 2026 13:06:00 -0300",
-      "date": "10/08 · 16:06"
     }
   ]
 };
