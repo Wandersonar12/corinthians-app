@@ -1,110 +1,126 @@
-// Gerado automaticamente em 12/08/2026, 22:27:34
+// Gerado automaticamente em 13/08/2026, 08:58:43
 const LIVE_DATA = {
-  "updatedAt": "2026-08-12T22:27:34.776Z",
+  "updatedAt": "2026-08-13T08:58:43.562Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece tabela da segunda fase do Campeonato Paulista Sub-17; confira datas e horários",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537746/corinthians-conhece-tabela-da-segunda-fase-do-campeonato-paulista-sub-17-confira-datas-e-horarios",
-      "time": "12/08 · 22:08",
-      "pubDate": "Wed, 12 Aug 2026 19:08:51 -0300"
+      "title": "Corinthians visita Rosario Central em busca de vantagem nas oitavas da Libertadores; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537725/corinthians-visita-rosario-central-em-busca-de-vantagem-nas-oitavas-da-libertadores-saiba-tudo",
+      "time": "13/08 · 03:01",
+      "pubDate": "Thu, 13 Aug 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians faz jogo burocrático com time misto e vence o Mirassol pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537626/corinthians-faz-jogo-burocratico-com-time-misto-e-vence-o-mirassol-pelo-paulistao-feminino",
-      "time": "12/08 · 22:00",
-      "pubDate": "Wed, 12 Aug 2026 19:00:00 -0300"
+      "title": "Corinthians busca classificação consecutiva nas oitavas da Libertadores pela primeira vez no século",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537724/corinthians-busca-classificacao-consecutiva-nas-oitavas-da-libertadores-pela-primeira-vez-no-seculo",
+      "time": "13/08 · 01:31",
+      "pubDate": "Wed, 12 Aug 2026 22:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians divulga venda de ingressos para duelo contra o Rosario Central na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537743/corinthians-divulga-venda-de-ingressos-para-duelo-contra-o-rosario-central-na-neo-quimica-arena",
-      "time": "12/08 · 21:31",
-      "pubDate": "Wed, 12 Aug 2026 18:31:35 -0300"
+      "title": "Fatal Fans oficializa aditivo ao Corinthians por renovação de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537734/fatal-fans-oficializa-aditivo-ao-corinthians-por-renovacao-de-memphis",
+      "time": "13/08 · 01:28",
+      "pubDate": "Wed, 12 Aug 2026 22:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Imprensa internacional repercute negativamente decisão do Corinthians de não renovar com Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537712/imprensa-internacional-repercute-negativamente-decisao-do-corinthians-de-nao-renovar-com-memphis",
-      "time": "12/08 · 21:30",
-      "pubDate": "Wed, 12 Aug 2026 18:30:00 -0300"
+      "title": "Corinthians controla o jogo e vence o Pinheiros no Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537751/corinthians-controla-o-jogo-e-vence-o-pinheiros-no-paulista-de-basquete",
+      "time": "13/08 · 00:56",
+      "pubDate": "Wed, 12 Aug 2026 21:56:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Marcelo Paz blinda CT e prega foco no campo após saída de Memphis Depay do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537740/marcelo-paz-blinda-ct-e-prega-foco-no-campo-apos-saida-de-memphis-depay-do-corinthians",
-      "time": "12/08 · 21:00",
-      "pubDate": "Wed, 12 Aug 2026 18:00:00 -0300"
+      "title": "Corinthians busca igualar maior sequência de vitórias na temporada em decisão da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537635/corinthians-busca-igualar-maior-sequencia-de-vitorias-na-temporada-em-decisao-da-libertadores",
+      "time": "13/08 · 00:34",
+      "pubDate": "Wed, 12 Aug 2026 21:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Garro lamenta saída de Memphis e foca em blindar elenco do Corinthians para decisão na Argentina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537735/garro-lamenta-saida-de-memphis-e-foca-em-blindar-elenco-do-corinthians-para-decisao-na-argentina",
-      "time": "12/08 · 20:50",
-      "pubDate": "Wed, 12 Aug 2026 17:50:00 -0300"
+      "title": "Goleira e volante voltam a atuar após problemas físicos durante goleada do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537744/goleira-e-volante-voltam-a-atuar-apos-problemas-fisicos-durante-goleada-do-corinthians",
+      "time": "13/08 · 00:03",
+      "pubDate": "Wed, 12 Aug 2026 21:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians amplia jejum de mais de 11 anos sem vencer o Flamengo no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537680/corinthians-amplia-jejum-de-mais-de-11-anos-sem-vencer-o-flamengo-no-sub-17",
-      "time": "12/08 · 20:30",
-      "pubDate": "Wed, 12 Aug 2026 17:30:00 -0300"
+      "title": "Corinthians vence Botucatu fora de casa e amplia vantagem na liderança do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537759/corinthians-vence-botucatu-fora-de-casa-e-amplia-vantagem-na-lideranca-do-paulista-de-futsal",
+      "time": "12/08 · 23:48",
+      "pubDate": "Wed, 12 Aug 2026 20:48:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para visitar o Rosario Central na Libertadores; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537720/corinthians-encerra-preparacao-para-visitar-o-rosario-central-na-libertadores-veja-o-provavel-time",
-      "time": "12/08 · 20:14",
-      "pubDate": "Wed, 12 Aug 2026 17:14:00 -0300"
+      "title": "Ataque do Corinthians Sub-17 passa em branco pela primeira vez na temporada; confira os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537727/ataque-do-corinthians-sub-17-passa-em-branco-pela-primeira-vez-na-temporada-confira-os-numeros",
+      "time": "12/08 · 23:31",
+      "pubDate": "Wed, 12 Aug 2026 20:31:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "OPINIÃO: Impeachment de Osmar Stabile precisa acontecer o mais rápido possível pelo bem do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-impeachment-de-osmar-stabile-precisa-acontecer-o-mais-rapido-possivel-pelo-bem-do-corinthians]]>",
-      "time": "12/08 · 18:40",
-      "pubDate": "Wed, 12 Aug 2026 15:40:56 -0300"
+      "title": "Neto dispara contra Corinthians: “O grande erro foi não ter tomado uma atitude antes”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-dispara-contra-corinthians-o-grande-erro-foi-nao-ter-tomado-uma-atitude-antes]]>",
+      "time": "12/08 · 22:03",
+      "pubDate": "Wed, 12 Aug 2026 19:03:08 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diretoria do Corinthians é apontada por torcedores como maior culpada da saída de Memphis Depay, aponta estudo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diretoria-do-corinthians-e-apontada-por-torcedores-como-maior-culpada-da-saida-de-memphis-depay-aponta-estudo]]>",
+      "time": "12/08 · 21:41",
+      "pubDate": "Wed, 12 Aug 2026 18:41:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz permanece no Corinthians e descarta deixar diretoria após negociação frustrada com Memphis",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-permanece-no-corinthians-e-descarta-deixar-diretoria-apos-negociacao-frustrada-com-memphis]]>",
+      "time": "12/08 · 20:57",
+      "pubDate": "Wed, 12 Aug 2026 17:57:39 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Casagrande defende o Corinthians sobre Memphis e critica chantagem: “Isso é ser refém”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/casagrande-defende-o-corinthians-sobre-memphis-e-critica-chantagem-isso-e-ser-refem]]>",
-      "time": "12/08 · 18:12",
-      "pubDate": "Wed, 12 Aug 2026 15:12:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Elenco do Corinthians está irritado com Osmar Stabile após atrasos salariais e saída de Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/elenco-do-corinthians-esta-irritado-com-osmar-stabile-apos-atrasos-salariais-e-saida-de-memphis-depay]]>",
-      "time": "12/08 · 17:56",
-      "pubDate": "Wed, 12 Aug 2026 14:56:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Presidente do Corinthians busca acordo com Memphis para evitar execução de dívidas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-corinthians-busca-acordo-com-memphis-para-evitar-execucao-de-dividas]]>",
-      "time": "12/08 · 16:51",
-      "pubDate": "Wed, 12 Aug 2026 13:51:55 -0300"
+      "time": "12/08 · 20:00",
+      "pubDate": "Wed, 12 Aug 2026 17:00:44 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Pedro Raul ganha espaço no Corinthians e deve ser titular contra o Rosario",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-ganha-espaco-no-corinthians-e-deve-ser-titular-contra-o-rosario]]>",
-      "time": "12/08 · 15:26",
-      "pubDate": "Wed, 12 Aug 2026 12:26:53 -0300"
+      "time": "12/08 · 20:00",
+      "pubDate": "Wed, 12 Aug 2026 17:00:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "OPINIÃO: Impeachment de Osmar Stabile precisa acontecer o mais rápido possível pelo bem do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-impeachment-de-osmar-stabile-precisa-acontecer-o-mais-rapido-possivel-pelo-bem-do-corinthians]]>",
+      "time": "12/08 · 19:14",
+      "pubDate": "Wed, 12 Aug 2026 16:14:31 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Elenco do Corinthians está irritado com Osmar Stabile após atrasos salariais e saída de Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/elenco-do-corinthians-esta-irritado-com-osmar-stabile-apos-atrasos-salariais-e-saida-de-memphis-depay]]>",
+      "time": "12/08 · 18:59",
+      "pubDate": "Wed, 12 Aug 2026 15:59:21 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fiel-lanca-abaixo-assinado-por-intervencao-judicial-no-corinthians-e-pede-saida-de-stabile]]>",
       "time": "12/08 · 14:23",
       "pubDate": "Wed, 12 Aug 2026 11:23:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem que parar de transformar tudo em política igual com Memphis",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-que-parar-de-transformar-tudo-em-politica-igual-com-memphis]]>",
-      "time": "12/08 · 14:17",
-      "pubDate": "Wed, 12 Aug 2026 11:17:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Stabile barra Memphis e repete histórico de vetos a negócios no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/stabile-barra-memphis-e-repete-historico-de-vetos-a-negocios-no-corinthians]]>",
-      "time": "12/08 · 12:00",
-      "pubDate": "Wed, 12 Aug 2026 09:00:45 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira e volante voltam a atuar após problemas físicos durante goleada do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537744/goleira-e-volante-voltam-a-atuar-apos-problemas-fisicos-durante-goleada-do-corinthians",
+      "pubDate": "Wed, 12 Aug 2026 21:03:00 -0300",
+      "date": "13/08 · 00:03"
+    },
+    {
       "title": "VÍDEO: Libertadores 2026: Garro fala sobre o confronto contra o Rosario e comenta a saída de Memphis Depay",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129083/libertadores-2026-garro-fala-sobre-o-confronto-contra-o-rosario-e-comenta-a-saida-de-memphis-depay",
       "pubDate": "Wed, 12 Aug 2026 17:14:18 -0300",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537723/corinthians-goleia-audax-no-paulista-feminino-sub-20-e-chega-a-setima-vitoria-consecutiva",
       "pubDate": "Wed, 12 Aug 2026 17:07:00 -0300",
       "date": "12/08 · 20:07"
-    },
-    {
-      "title": "Saiba onde assistir ao jogo entre Corinthians e Mirassol pelo Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537668/saiba-onde-assistir-ao-jogo-entre-corinthians-e-mirassol-pelo-paulistao-feminino",
-      "pubDate": "Wed, 12 Aug 2026 08:30:00 -0300",
-      "date": "12/08 · 11:30"
     }
   ]
 };
