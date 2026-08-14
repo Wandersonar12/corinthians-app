@@ -1,7 +1,39 @@
-// Gerado automaticamente em 14/08/2026, 08:53:59
+// Gerado automaticamente em 14/08/2026, 12:33:46
 const LIVE_DATA = {
-  "updatedAt": "2026-08-14T08:53:59.653Z",
+  "updatedAt": "2026-08-14T12:33:46.950Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Jabaquara para se manter na ponta do Paulista Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537810/corinthians-visita-o-jabaquara-para-se-manter-na-ponta-do-paulista-sub-20-saiba-tudo",
+      "time": "14/08 · 11:30",
+      "pubDate": "Fri, 14 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "��ltimas do Corinthians: reviravolta com Memphis, empate na Libertadores e investigação de patrocínio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537866/ultimas-do-corinthians-possivel-renovacao-duelo-continental-e-investigacao-de-patrocinio",
+      "time": "14/08 · 10:30",
+      "pubDate": "Fri, 14 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Corinthians mostra união após caso Memphis e fica confiante por vaga",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-mostra-uniao-apos-caso-memphis-e-fica-confiante-por-vaga/",
+      "time": "14/08 · 10:00",
+      "pubDate": "Fri, 14 Aug 2026 10:00:52 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Vai poupar? Diniz vive dilema para Corinthians x Cruzeiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/vai-poupar-diniz-vive-dilema-para-corinthians-x-cruzeiro/",
+      "time": "14/08 · 09:00",
+      "pubDate": "Fri, 14 Aug 2026 09:00:12 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -35,6 +67,14 @@ const LIVE_DATA = {
       "pubDate": "Fri, 14 Aug 2026 01:42:27 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz admite frustração pela saída de Depay do Corinthians: “Estava praticamente fechado”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-admite-frustracao-pela-saida-de-depay-do-corinthians-estava-praticamente-fechado]]>",
+      "time": "14/08 · 04:25",
+      "pubDate": "Fri, 14 Aug 2026 01:25:54 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Diniz destaca mudança de postura do Corinthians na Libertadores após eliminação na Copa do Brasil",
@@ -45,16 +85,16 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians revela decepção após caso Memphis e revela 'abalo' no elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537864/tecnico-do-corinthians-revela-decepcao-apos-caso-memphis-e-revela-abalo-no-elenco",
+      "title": "Técnico do Corinthians revela decepção após desfecho com Memphis e 'abalo' no elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537864/tecnico-do-corinthians-revela-decepcao-apos-desfecho-com-memphis-e-abalo-no-elenco",
       "time": "14/08 · 03:55",
       "pubDate": "Fri, 14 Aug 2026 00:55:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiros e goleiro se destacam em avaliações do Corinthians após empate na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537862/zagueiros-e-goleiro-se-destacam-em-avaliacoes-do-corinthians-apos-empate-na-libertadores",
+      "title": "Jogadores da defesa lideram notas da torcida do Corinthians após empate na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537862/jogadores-da-defesa-lideram-notas-da-torcida-do-corinthians-apos-empate-na-libertadores",
       "time": "14/08 · 03:47",
       "pubDate": "Fri, 14 Aug 2026 00:47:00 -0300"
     },
@@ -67,28 +107,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 14 Aug 2026 03:32:35 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gustavo Henrique valoriza sistema defensivo do Corinthians e projeta jogo de volta na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537856/gustavo-henrique-valoriza-sistema-defensivo-do-corinthians-e-projeta-jogo-de-volta-na-libertadores",
-      "time": "14/08 · 03:29",
-      "pubDate": "Fri, 14 Aug 2026 00:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians repudia e cobra investigação em episódio de racismo sofrido por Hugo Souza na Argentina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537855/corinthians-repudia-e-cobra-investigacao-em-episodio-de-racismo-sofrido-por-hugo-souza-na-argentina",
-      "time": "14/08 · 03:23",
-      "pubDate": "Fri, 14 Aug 2026 00:23:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Melhores momentos: Rosario Central 0 x 0 Corinthians pela Libertadores",
       "url": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-rosario-central-0-x-0-corinthians-pela-libertadores/",
       "time": "14/08 · 03:08",
       "pubDate": "Fri, 14 Aug 2026 03:08:53 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Árbitro Andrés Matonte não marca pênalti em Rosario Central x Corinthians mesmo com revisão no VAR",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/arbitro-andres-matonte-nao-marca-penalti-em-rosario-central-x-corinthians-mesmo-com-revisao-no-var]]>",
+      "time": "14/08 · 03:06",
+      "pubDate": "Fri, 14 Aug 2026 00:06:05 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -107,6 +139,14 @@ const LIVE_DATA = {
       "pubDate": "Fri, 14 Aug 2026 02:36:10 +0000"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians empata com Rosario Central em 0 a 0 e decide vaga para as quartas da Libertadores em casa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-empata-com-rosario-central-em-0-a-0-e-decide-vaga-para-as-quartas-da-libertadores-em-casa]]>",
+      "time": "14/08 · 02:34",
+      "pubDate": "Thu, 13 Aug 2026 23:34:47 -0300"
+    },
+    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Veja fotos do jogo de ida entre Rosario Central e Corinthians pelas oitavas da Libertadores",
@@ -115,28 +155,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 14 Aug 2026 01:40:14 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians mantém decisão de não renovar com Memphis, mas não fecha portas",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-mantem-decisao-de-nao-renovar-com-memphis-mas-nao-fecha-portas/",
-      "time": "14/08 · 00:44",
-      "pubDate": "Fri, 14 Aug 2026 00:44:56 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz repete Corinthians para pegar o Rosario Central; veja escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-repete-corinthians-para-pegar-o-rosario-central-veja-escalacoes/",
-      "time": "13/08 · 23:15",
-      "pubDate": "Thu, 13 Aug 2026 23:15:50 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "OPINIÃO: Corinthians precisa superar transfer ban e trazer um substituto imediato de Memphis Depay",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-superar-transfer-ban-e-trazer-um-substituto-imediato-de-memphis-depay]]>",
-      "time": "13/08 · 22:15",
-      "pubDate": "Thu, 13 Aug 2026 19:15:10 -0300"
+      "time": "14/08 · 00:54",
+      "pubDate": "Thu, 13 Aug 2026 21:54:20 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast revela bastidores de Memphis no Corinthians e torcem para possível chance de renovação",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/podcast-revela-bastidores-de-memphis-no-corinthians-e-torcem-para-possivel-chance-de-renovacao]]>",
+      "time": "14/08 · 00:53",
+      "pubDate": "Thu, 13 Aug 2026 21:53:31 -0300"
     },
     {
       "source": "Bolavip",
@@ -161,38 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-questiona-estrategia-da-diretoria-do-corinthians-apos-nao-renovacao-de-memphis-depay]]>",
       "time": "13/08 · 00:10",
       "pubDate": "Wed, 12 Aug 2026 21:10:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Neto dispara contra Corinthians: “O grande erro foi não ter tomado uma atitude antes”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/neto-dispara-contra-corinthians-o-grande-erro-foi-nao-ter-tomado-uma-atitude-antes]]>",
-      "time": "12/08 · 22:03",
-      "pubDate": "Wed, 12 Aug 2026 19:03:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diretoria do Corinthians é apontada por torcedores como maior culpada da saída de Memphis Depay, aponta estudo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diretoria-do-corinthians-e-apontada-por-torcedores-como-maior-culpada-da-saida-de-memphis-depay-aponta-estudo]]>",
-      "time": "12/08 · 21:41",
-      "pubDate": "Wed, 12 Aug 2026 18:41:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz permanece no Corinthians e descarta deixar diretoria após negociação frustrada com Memphis",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-permanece-no-corinthians-e-descarta-deixar-diretoria-apos-negociacao-frustrada-com-memphis]]>",
-      "time": "12/08 · 20:57",
-      "pubDate": "Wed, 12 Aug 2026 17:57:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "OPINIÃO: Impeachment de Osmar Stabile precisa acontecer o mais rápido possível pelo bem do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-impeachment-de-osmar-stabile-precisa-acontecer-o-mais-rapido-possivel-pelo-bem-do-corinthians]]>",
-      "time": "12/08 · 19:14",
-      "pubDate": "Wed, 12 Aug 2026 16:14:31 -0300"
     }
   ],
   "upcoming": [],
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129103/decisao-em-casa-e-novela-memphis-zona-mista-hugo-souza-apos-rosario-central-0x0-corinthians",
       "pubDate": "Fri, 14 Aug 2026 01:42:27 -0300",
       "date": "14/08 · 04:42"
-    },
-    {
-      "title": "Zagueiros e goleiro se destacam em avaliações do Corinthians após empate na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537862/zagueiros-e-goleiro-se-destacam-em-avaliacoes-do-corinthians-apos-empate-na-libertadores",
-      "pubDate": "Fri, 14 Aug 2026 00:47:00 -0300",
-      "date": "14/08 · 03:47"
     },
     {
       "title": "Craque argentino e momento invicto: veja como chega o Rosario Central para enfrentar o Corinthians",
