@@ -1,70 +1,86 @@
-// Gerado automaticamente em 14/08/2026, 12:33:46
+// Gerado automaticamente em 14/08/2026, 18:37:28
 const LIVE_DATA = {
-  "updatedAt": "2026-08-14T12:33:46.950Z",
+  "updatedAt": "2026-08-14T18:37:28.840Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Jabaquara para se manter na ponta do Paulista Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537810/corinthians-visita-o-jabaquara-para-se-manter-na-ponta-do-paulista-sub-20-saiba-tudo",
-      "time": "14/08 · 11:30",
-      "pubDate": "Fri, 14 Aug 2026 08:30:00 -0300"
+      "title": "Jogadores do Corinthians publicam fotos de meia e chuteira rasgadas após jogo da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537914/jogadores-do-corinthians-publicam-fotos-de-meia-e-chuteira-rasgadas-apos-jogo-da-libertadores",
+      "time": "14/08 · 18:34",
+      "pubDate": "Fri, 14 Aug 2026 15:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "��ltimas do Corinthians: reviravolta com Memphis, empate na Libertadores e investigação de patrocínio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537866/ultimas-do-corinthians-possivel-renovacao-duelo-continental-e-investigacao-de-patrocinio",
-      "time": "14/08 · 10:30",
-      "pubDate": "Fri, 14 Aug 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Corinthians mostra união após caso Memphis e fica confiante por vaga",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-mostra-uniao-apos-caso-memphis-e-fica-confiante-por-vaga/",
-      "time": "14/08 · 10:00",
-      "pubDate": "Fri, 14 Aug 2026 10:00:52 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Vai poupar? Diniz vive dilema para Corinthians x Cruzeiro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/vai-poupar-diniz-vive-dilema-para-corinthians-x-cruzeiro/",
-      "time": "14/08 · 09:00",
-      "pubDate": "Fri, 14 Aug 2026 09:00:12 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações do Corinthians: defesa se destaca, mas Allan quase complica",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-defesa-se-destaca-mas-allan-quase-complica/",
-      "time": "14/08 · 08:00",
-      "pubDate": "Fri, 14 Aug 2026 08:00:28 +0000"
+      "title": "Você lembra dele? Zina reaparece e comenta situação de Memphis no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537907/voce-lembra-dele-zina-reaparece-e-comenta-situacao-de-memphis-no-corinthians",
+      "time": "14/08 · 18:01",
+      "pubDate": "Fri, 14 Aug 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Empate fora de casa, saída de Memphis e mais: coletiva de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129101/empate-fora-de-casa-saida-de-memphis-e-mais-coletiva-de-fernando-diniz-no-corinthians",
-      "time": "14/08 · 05:00",
-      "pubDate": "Fri, 14 Aug 2026 02:00:00 -0300"
+      "title": "Corinthians conhece detalhes de mais dois jogos do Brasileirão; veja datas e transmissões",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537913/corinthians-conhece-detalhes-de-mais-dois-jogos-do-brasileirao-veja-datas-e-transmissoes",
+      "time": "14/08 · 17:37",
+      "pubDate": "Fri, 14 Aug 2026 14:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Entrega em campo e atmosfera de Libertadores: Zona mista Raniele | Rosario Central 0x0 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129104/entrega-em-campo-e-atmosfera-de-libertadores-zona-mista-raniele-rosario-central-0x0-corinthians",
-      "time": "14/08 · 04:47",
-      "pubDate": "Fri, 14 Aug 2026 01:47:48 -0300"
+      "title": "Corinthians repudia furto de camisa no Memorial e aciona a polícia para recuperar peça histórica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537910/corinthians-repudia-furto-de-camisa-no-memorial-e-aciona-a-policia-para-recuperar-peca-historica",
+      "time": "14/08 · 16:46",
+      "pubDate": "Fri, 14 Aug 2026 13:46:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Decisão em casa e novela Memphis: zona mista Hugo Souza após Rosario Central 0x0 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129103/decisao-em-casa-e-novela-memphis-zona-mista-hugo-souza-apos-rosario-central-0x0-corinthians",
-      "time": "14/08 · 04:42",
-      "pubDate": "Fri, 14 Aug 2026 01:42:27 -0300"
+      "title": "Corinthians estende tabu como visitante diante de equipes argentinas no mata-mata da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537837/corinthians-estende-tabu-como-visitante-diante-de-equipes-argentinas-no-mata-mata-da-libertadores",
+      "time": "14/08 · 16:36",
+      "pubDate": "Fri, 14 Aug 2026 13:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante iguala sua maior sequência como titular do Corinthians pela terceira vez",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537879/atacante-iguala-sua-maior-sequencia-como-titular-do-corinthians-pela-terceira-vez",
+      "time": "14/08 · 15:31",
+      "pubDate": "Fri, 14 Aug 2026 12:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians minimiza pressão após saída de Memphis e diz fazer o melhor pelo clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537901/presidente-do-corinthians-minimiza-pressao-apos-saida-de-memphis-e-diz-fazer-o-melhor-pelo-clube",
+      "time": "14/08 · 15:26",
+      "pubDate": "Fri, 14 Aug 2026 12:26:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians aposta em histórico favorável após empatar jogos de ida como visitante na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537889/corinthians-aposta-em-historico-favoravel-apos-empatar-jogos-de-ida-como-visitante-na-libertadores",
+      "time": "14/08 · 15:03",
+      "pubDate": "Fri, 14 Aug 2026 12:03:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André sofre lesão muscular e desfalca o Corinthians nos dois jogos contra o Rosario",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-sofre-lesao-muscular-e-desfalca-o-corinthians-nos-dois-jogos-contra-o-rosario]]>",
+      "time": "14/08 · 11:38",
+      "pubDate": "Fri, 14 Aug 2026 08:38:23 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "OPINIÃO: Corinthians precisa superar transfer ban e trazer um substituto imediato de Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-superar-transfer-ban-e-trazer-um-substituto-imediato-de-memphis-depay]]>",
+      "time": "14/08 · 11:37",
+      "pubDate": "Fri, 14 Aug 2026 08:37:09 -0300"
     },
     {
       "source": "Bolavip",
@@ -75,46 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 14 Aug 2026 01:25:54 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz destaca mudança de postura do Corinthians na Libertadores após eliminação na Copa do Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537867/diniz-destaca-mudanca-de-postura-do-corinthians-na-libertadores-apos-eliminacao-na-copa-do-brasil",
-      "time": "14/08 · 04:25",
-      "pubDate": "Fri, 14 Aug 2026 01:25:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians revela decepção após desfecho com Memphis e 'abalo' no elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537864/tecnico-do-corinthians-revela-decepcao-apos-desfecho-com-memphis-e-abalo-no-elenco",
-      "time": "14/08 · 03:55",
-      "pubDate": "Fri, 14 Aug 2026 00:55:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadores da defesa lideram notas da torcida do Corinthians após empate na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537862/jogadores-da-defesa-lideram-notas-da-torcida-do-corinthians-apos-empate-na-libertadores",
-      "time": "14/08 · 03:47",
-      "pubDate": "Fri, 14 Aug 2026 00:47:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz lamenta saída de Memphis do Corinthians: &#8220;Triste e decepcionado&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-lamenta-saida-de-memphis-do-corinthians-triste-e-decepcionado/",
-      "time": "14/08 · 03:32",
-      "pubDate": "Fri, 14 Aug 2026 03:32:35 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Rosario Central 0 x 0 Corinthians pela Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-rosario-central-0-x-0-corinthians-pela-libertadores/",
-      "time": "14/08 · 03:08",
-      "pubDate": "Fri, 14 Aug 2026 03:08:53 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Árbitro Andrés Matonte não marca pênalti em Rosario Central x Corinthians mesmo com revisão no VAR",
@@ -123,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 14 Aug 2026 00:06:05 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Hugo Souza relata ofensas racistas na Argentina e Corinthians cobra punições",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/hugo-souza-relata-ofensas-racistas-em-jogo-do-corinthians-na-argentina-e-sempre-assim/",
-      "time": "14/08 · 03:00",
-      "pubDate": "Fri, 14 Aug 2026 03:00:06 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com um a menos, Corinthians segura empate contra o Rosario Central pela Libertadores",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/rosario-central-corinthians-ida-oitavas-libertadores-13-08-2026/",
-      "time": "14/08 · 02:36",
-      "pubDate": "Fri, 14 Aug 2026 02:36:10 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians empata com Rosario Central em 0 a 0 e decide vaga para as quartas da Libertadores em casa",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-empata-com-rosario-central-em-0-a-0-e-decide-vaga-para-as-quartas-da-libertadores-em-casa]]>",
       "time": "14/08 · 02:34",
       "pubDate": "Thu, 13 Aug 2026 23:34:47 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do jogo de ida entre Rosario Central e Corinthians pelas oitavas da Libertadores",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/veja-fotos-do-jogo-de-ida-entre-rosario-central-e-corinthians-pelas-oitavas-da-libertadores/",
-      "time": "14/08 · 01:40",
-      "pubDate": "Fri, 14 Aug 2026 01:40:14 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "OPINIÃO: Corinthians precisa superar transfer ban e trazer um substituto imediato de Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-superar-transfer-ban-e-trazer-um-substituto-imediato-de-memphis-depay]]>",
-      "time": "14/08 · 00:54",
-      "pubDate": "Thu, 13 Aug 2026 21:54:20 -0300"
     },
     {
       "source": "Bolavip",
@@ -187,18 +131,80 @@ const LIVE_DATA = {
       "pubDate": "Wed, 12 Aug 2026 21:31:13 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast LivePorTi questiona estratégia da diretoria do Corinthians após não renovação de Memphis Depay",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-questiona-estrategia-da-diretoria-do-corinthians-apos-nao-renovacao-de-memphis-depay]]>",
-      "time": "13/08 · 00:10",
-      "pubDate": "Wed, 12 Aug 2026 21:10:25 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro do Corinthians destaca força mental em jogo tenso na Argentina e projeta decisão em Itaquera",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537878/goleiro-do-corinthians-destaca-forca-mental-em-jogo-tenso-na-argentina-e-projeta-decisao-em-itaquera",
+      "pubDate": "Fri, 14 Aug 2026 10:34:00 -0300",
+      "date": "14/08 · 13:34"
+    },
     {
       "title": "VÍDEO: Empate fora de casa, saída de Memphis e mais: coletiva de Fernando Diniz no Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129101/empate-fora-de-casa-saida-de-memphis-e-mais-coletiva-de-fernando-diniz-no-corinthians",
@@ -216,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129103/decisao-em-casa-e-novela-memphis-zona-mista-hugo-souza-apos-rosario-central-0x0-corinthians",
       "pubDate": "Fri, 14 Aug 2026 01:42:27 -0300",
       "date": "14/08 · 04:42"
-    },
-    {
-      "title": "Craque argentino e momento invicto: veja como chega o Rosario Central para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537792/craque-argentino-e-momento-invicto-veja-como-chega-o-rosario-central-para-enfrentar-o-corinthians",
-      "pubDate": "Thu, 13 Aug 2026 19:34:00 -0300",
-      "date": "13/08 · 22:34"
     }
   ]
 };
