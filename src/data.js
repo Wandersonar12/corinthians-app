@@ -1,70 +1,78 @@
-// Gerado automaticamente em 16/08/2026, 12:12:21
+// Gerado automaticamente em 16/08/2026, 18:09:51
 const LIVE_DATA = {
-  "updatedAt": "2026-08-16T12:12:21.973Z",
+  "updatedAt": "2026-08-16T18:09:51.062Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Cruzeiro pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537990/saiba-onde-assistir-a-partida-entre-corinthians-e-cruzeiro-pelo-brasileirao",
-      "time": "16/08 · 12:08",
-      "pubDate": "Sun, 16 Aug 2026 09:08:00 -0300"
+      "title": "Corinthians enfrenta o Cruzeiro em confronto direto por vaga no G5 do Brasileirão; veja tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538015/corinthians-enfrenta-o-cruzeiro-em-confronto-direto-por-vaga-no-g5-do-brasileirao-veja-tabela",
+      "time": "16/08 · 17:34",
+      "pubDate": "Sun, 16 Aug 2026 14:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca quarta vitória seguida ao enfrentar o Liga Sancaetanense pelo Paulista; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537995/corinthians-busca-quarta-vitoria-seguida-ao-enfrentar-o-liga-sancaetanense-pelo-paulista-saiba-tudo",
-      "time": "16/08 · 11:31",
-      "pubDate": "Sun, 16 Aug 2026 08:31:00 -0300"
+      "title": "Corinthians mira registrar segunda maior sequência invicta desde a chegada de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537888/corinthians-mira-registrar-segunda-maior-sequencia-invicta-desde-a-chegada-de-fernando-diniz",
+      "time": "16/08 · 16:30",
+      "pubDate": "Sun, 16 Aug 2026 13:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: problema no ataque, provável escalação e aumento em dívida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538004/ultimas-do-corinthians-problema-no-ataque-provavel-escalacao-e-aumento-em-divida",
-      "time": "16/08 · 10:30",
-      "pubDate": "Sun, 16 Aug 2026 07:30:00 -0300"
+      "title": "Corinthians possui seis desfalques e dez pendurados para a partida contra o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538011/corinthians-possui-seis-desfalques-e-dez-pendurados-para-a-partida-contra-o-cruzeiro",
+      "time": "16/08 · 16:04",
+      "pubDate": "Sun, 16 Aug 2026 13:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Cruzeiro de olho no G5 do Brasileirão; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537986/corinthians-recebe-o-cruzeiro-de-olho-no-g5-do-brasileirao-saiba-tudo",
-      "time": "16/08 · 03:01",
-      "pubDate": "Sun, 16 Aug 2026 00:01:00 -0300"
+      "title": "Corinthians empata com a Liga Sancaetanense e segue na liderança do Paulistão de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538021/corinthians-empata-com-a-liga-sancaetanense-e-segue-na-lideranca-do-paulistao-de-futsal",
+      "time": "16/08 · 15:38",
+      "pubDate": "Sun, 16 Aug 2026 12:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se apoia em melhor momento defensivo desde abril para encarar o Cruzeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537898/corinthians-se-apoia-em-melhor-momento-defensivo-desde-abril-para-encarar-o-cruzeiro",
-      "time": "16/08 · 01:30",
-      "pubDate": "Sat, 15 Aug 2026 22:30:00 -0300"
+      "title": "Meia-atacante do Corinthians posta foto pós-cirurgia ao lado de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538018/meia-atacante-do-corinthians-posta-foto-pos-cirurgia-ao-lado-de-memphis",
+      "time": "16/08 · 14:31",
+      "pubDate": "Sun, 16 Aug 2026 11:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca segunda maior sequência invicta na Arena em 2026 contra o Cruzeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537909/corinthians-busca-segunda-maior-sequencia-invicta-na-arena-em-2026-contra-o-cruzeiro",
-      "time": "16/08 · 00:34",
-      "pubDate": "Sat, 15 Aug 2026 21:34:00 -0300"
+      "title": "Atacante do Corinthians alcança temporada mais artilheira da carreira diante do Bahia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537987/atacante-do-corinthians-alcanca-temporada-mais-artilheira-da-carreira-diante-do-bahia",
+      "time": "16/08 · 13:33",
+      "pubDate": "Sun, 16 Aug 2026 10:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se isola como o time da Série A com mais jogos sem sofrer gols em mata-mata desde 2025",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537954/corinthians-se-isola-como-o-time-da-serie-a-com-mais-jogos-sem-sofrer-gols-em-mata-mata-desde-2025",
-      "time": "15/08 · 23:45",
-      "pubDate": "Sat, 15 Aug 2026 20:45:00 -0300"
+      "title": "Corinthians tem retrospecto favorável com árbitro do jogo contra o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538012/corinthians-tem-retrospecto-favoravel-com-arbitro-do-jogo-contra-o-cruzeiro",
+      "time": "16/08 · 13:02",
+      "pubDate": "Sun, 16 Aug 2026 10:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Carrillo destaca boa fase do Corinthians e projeta duelo com o Cruzeiro: 'Temos que estar atentos'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538002/carrillo-destaca-boa-fase-do-corinthians-e-projeta-duelo-com-o-cruzeiro-temos-que-estar-atentos",
-      "time": "15/08 · 23:14",
-      "pubDate": "Sat, 15 Aug 2026 20:14:00 -0300"
+      "title": "Corinthians recebe a Ferroviária visando chegar à final do Brasileirão Feminino Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537982/corinthians-recebe-a-ferroviaria-visando-chegar-a-final-do-brasileirao-feminino-sub-17-saiba-tudo",
+      "time": "16/08 · 12:30",
+      "pubDate": "Sun, 16 Aug 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz prepara Corinthians alternativo antes de decisão na Libertadores contra o Rosario",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-prepara-corinthians-alternativo-antes-de-decisao-na-libertadores-contra-o-rosario]]>",
+      "time": "16/08 · 11:28",
+      "pubDate": "Sun, 16 Aug 2026 08:28:24 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-banco-de-reservas-muito-limitado-e-dificulta-planejamento-de-fernando-diniz]]>",
       "time": "14/08 · 18:23",
       "pubDate": "Fri, 14 Aug 2026 15:23:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians define setor defensivo como ponto forte após empate com Rosario Central",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-define-setor-defensivo-como-ponto-forte-apos-empate-com-rosario-central]]>",
-      "time": "14/08 · 16:03",
-      "pubDate": "Fri, 14 Aug 2026 13:03:19 -0300"
     },
     {
       "source": "Gazeta Esportiva",
