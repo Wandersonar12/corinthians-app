@@ -1,7 +1,31 @@
-// Gerado automaticamente em 16/08/2026, 08:13:32
+// Gerado automaticamente em 16/08/2026, 12:12:21
 const LIVE_DATA = {
-  "updatedAt": "2026-08-16T08:13:32.305Z",
+  "updatedAt": "2026-08-16T12:12:21.973Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Cruzeiro pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537990/saiba-onde-assistir-a-partida-entre-corinthians-e-cruzeiro-pelo-brasileirao",
+      "time": "16/08 · 12:08",
+      "pubDate": "Sun, 16 Aug 2026 09:08:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca quarta vitória seguida ao enfrentar o Liga Sancaetanense pelo Paulista; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537995/corinthians-busca-quarta-vitoria-seguida-ao-enfrentar-o-liga-sancaetanense-pelo-paulista-saiba-tudo",
+      "time": "16/08 · 11:31",
+      "pubDate": "Sun, 16 Aug 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: problema no ataque, provável escalação e aumento em dívida",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538004/ultimas-do-corinthians-problema-no-ataque-provavel-escalacao-e-aumento-em-divida",
+      "time": "16/08 · 10:30",
+      "pubDate": "Sun, 16 Aug 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -40,31 +64,7 @@ const LIVE_DATA = {
       "title": "Carrillo destaca boa fase do Corinthians e projeta duelo com o Cruzeiro: 'Temos que estar atentos'",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538002/carrillo-destaca-boa-fase-do-corinthians-e-projeta-duelo-com-o-cruzeiro-temos-que-estar-atentos",
       "time": "15/08 · 23:14",
-      "pubDate": "Sat, 15 Aug 2026 20:14:35 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians finaliza preparação para enfrentar o Cruzeiro no Brasileirão; veja a provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537975/corinthians-finaliza-preparacao-para-enfrentar-o-cruzeiro-no-brasileirao-veja-a-provavel-escalacao",
-      "time": "15/08 · 23:00",
-      "pubDate": "Sat, 15 Aug 2026 20:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Duda Sampaio valoriza ponto em Salvador e diz o que faltou para o Corinthians contra o Bahia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537997/duda-sampaio-valoriza-ponto-em-salvador-e-diz-o-que-faltou-para-o-corinthians-contra-o-bahia",
-      "time": "15/08 · 22:46",
-      "pubDate": "Sat, 15 Aug 2026 19:46:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians empata com o Bahia e aumenta vantagem na liderança do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537984/corinthians-empata-com-o-bahia-e-aumenta-vantagem-na-lideranca-do-brasileirao-feminino",
-      "time": "15/08 · 22:29",
-      "pubDate": "Sat, 15 Aug 2026 19:29:00 -0300"
+      "pubDate": "Sat, 15 Aug 2026 20:14:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Saiba onde assistir à partida entre Corinthians e Cruzeiro pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537990/saiba-onde-assistir-a-partida-entre-corinthians-e-cruzeiro-pelo-brasileirao",
+      "pubDate": "Sun, 16 Aug 2026 09:08:00 -0300",
+      "date": "16/08 · 12:08"
+    },
+    {
       "title": "Corinthians se apoia em melhor momento defensivo desde abril para encarar o Cruzeiro",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/537898/corinthians-se-apoia-em-melhor-momento-defensivo-desde-abril-para-encarar-o-cruzeiro",
       "pubDate": "Sat, 15 Aug 2026 22:30:00 -0300",
@@ -216,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129122/corinthians-x-cruzeiro-provavel-escalacao-para-jogo-do-corinthians-no-campeonato-brasileiro",
       "pubDate": "Sat, 15 Aug 2026 13:52:31 -0300",
       "date": "15/08 · 16:52"
-    },
-    {
-      "title": "Saiba onde assistir à partida entre Corinthians e Bahia pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/537921/saiba-onde-assistir-a-partida-entre-corinthians-e-bahia-pelo-brasileirao-feminino",
-      "pubDate": "Sat, 15 Aug 2026 09:00:00 -0300",
-      "date": "15/08 · 12:00"
     }
   ]
 };
