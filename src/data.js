@@ -1,38 +1,70 @@
-// Gerado automaticamente em 17/08/2026, 18:18:26
+// Gerado automaticamente em 17/08/2026, 22:10:17
 const LIVE_DATA = {
-  "updatedAt": "2026-08-17T18:18:26.214Z",
+  "updatedAt": "2026-08-17T22:10:17.122Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gustavo Henrique se torna o quarto zagueiro com mais gols pelo Corinthians no século",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538067/gustavo-henrique-se-torna-o-quarto-zagueiro-com-mais-gols-pelo-corinthians-no-seculo-veja-a-lista",
-      "time": "17/08 · 17:32",
-      "pubDate": "Mon, 17 Aug 2026 14:32:00 -0300"
+      "title": "Atacante vive maior sequência como titular desde chegada ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538040/atacante-vive-maior-sequencia-como-titular-desde-chegada-ao-corinthians",
+      "time": "17/08 · 21:35",
+      "pubDate": "Mon, 17 Aug 2026 18:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante relembra decisão de trocar Palmeiras pelo Corinthians e cita 'virada' na carreira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538109/volante-relembra-decisao-de-trocar-palmeiras-pelo-corinthians-e-cita-virada-na-carreira",
-      "time": "17/08 · 17:01",
-      "pubDate": "Mon, 17 Aug 2026 14:01:00 -0300"
+      "title": "Goleira do Corinthians finaliza transição física e fica disponível para sequência da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538135/goleira-do-corinthians-finaliza-transicao-fisica-e-fica-disponivel-para-sequencia-da-temporada",
+      "time": "17/08 · 21:20",
+      "pubDate": "Mon, 17 Aug 2026 18:20:35 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians lamenta derrota para o Cruzeiro e admite cobrança por mais eficiência",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538093/atacante-do-corinthians-lamenta-derrota-para-o-cruzeiro-e-admite-cobranca-por-mais-eficiencia",
-      "time": "17/08 · 16:37",
-      "pubDate": "Mon, 17 Aug 2026 13:37:00 -0300"
+      "title": "Patrocinadora convoca parceiros e pode dobrar oferta ao Corinthians por renovação com Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538132/patrocinadora-convoca-parceiros-e-pode-dobrar-oferta-ao-corinthians-por-renovacao-com-memphis",
+      "time": "17/08 · 21:01",
+      "pubDate": "Mon, 17 Aug 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem prejuízo de mais de R$ 100 mil com período sem jogos na Fazendinha; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538122/corinthians-tem-prejuizo-de-mais-de-r-100-mil-com-periodo-sem-jogos-na-fazendinha-entenda",
-      "time": "17/08 · 16:30",
-      "pubDate": "Mon, 17 Aug 2026 13:30:00 -0300"
+      "title": "Técnico do Corinthians sai em defesa de Matheuzinho e Garro após derrota para o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538083/tecnico-do-corinthians-sai-em-defesa-de-matheuzinho-e-garro-apos-derrota-para-o-cruzeiro",
+      "time": "17/08 · 20:28",
+      "pubDate": "Mon, 17 Aug 2026 17:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians é vice-campeã com a Seleção Brasileira de Futsal Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538133/dupla-do-corinthians-e-vice-campea-com-a-selecao-brasileira-de-futsal-sub-17",
+      "time": "17/08 · 20:08",
+      "pubDate": "Mon, 17 Aug 2026 17:08:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians retoma as atividades de olho na última rodada do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538130/corinthians-retoma-as-atividades-de-olho-na-ultima-rodada-do-brasileirao-feminino",
+      "time": "17/08 · 19:49",
+      "pubDate": "Mon, 17 Aug 2026 16:49:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem duas jogadoras convocadas pela Seleção Brasileira Sub-15 para Liga Evolução",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538129/corinthians-tem-duas-jogadoras-convocadas-pela-selecao-brasileira-sub-15-para-liga-evolucao",
+      "time": "17/08 · 19:41",
+      "pubDate": "Mon, 17 Aug 2026 16:41:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Pivô se aproxima da liderança de artilharia do futsal do Corinthians após empate; veja a lista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538022/pivo-se-aproxima-da-lideranca-de-artilharia-do-futsal-do-corinthians-apos-empate-veja-a-lista",
+      "time": "17/08 · 19:32",
+      "pubDate": "Mon, 17 Aug 2026 16:32:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -43,44 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 17 Aug 2026 12:33:12 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde invencibilidade de seis jogos no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538073/corinthians-perde-invencibilidade-de-seis-jogos-no-brasileirao",
-      "time": "17/08 · 15:31",
-      "pubDate": "Mon, 17 Aug 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quem deve substituir Allan no Corinthians contra o Rosario Central? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538117/quem-deve-substituir-allan-no-corinthians-contra-o-rosario-central-vote-na-enquete-do-meu-timao",
-      "time": "17/08 · 15:04",
-      "pubDate": "Mon, 17 Aug 2026 12:04:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Cori deve recomendar que Corinthians não renove com Memphis Depay, segundo Tiago Salazar",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/cori-deve-recomendar-que-corinthians-nao-renove-com-memphis-depay-segundo-tiago-salazar]]>",
       "time": "17/08 · 14:45",
       "pubDate": "Mon, 17 Aug 2026 11:45:37 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para duelo contra o Paulistano pelo Paulista de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538118/corinthians-inicia-venda-de-ingressos-para-duelo-contra-o-paulistano-pelo-paulista-de-basquete",
-      "time": "17/08 · 14:32",
-      "pubDate": "Mon, 17 Aug 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians comenta empate no Paulista e destaca preparação para os playoffs",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538029/ala-do-corinthians-comenta-empate-no-paulista-e-destaca-preparacao-para-os-playoffs",
-      "time": "17/08 · 14:31",
-      "pubDate": "Mon, 17 Aug 2026 11:31:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleira do Corinthians finaliza transição física e fica disponível para sequência da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538135/goleira-do-corinthians-finaliza-transicao-fisica-e-fica-disponivel-para-sequencia-da-temporada",
+      "pubDate": "Mon, 17 Aug 2026 18:20:35 -0300",
+      "date": "17/08 · 21:20"
+    },
+    {
+      "title": "Lateral do Corinthians lamenta falhas nos gols e prega o triplo de atenção contra o Rosario Central",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538091/lateral-do-corinthians-lamenta-falhas-nos-gols-e-prega-o-triplo-de-atencao-contra-o-rosario-central",
+      "pubDate": "Mon, 17 Aug 2026 15:31:00 -0300",
+      "date": "17/08 · 18:31"
+    },
+    {
       "title": "Gustavo Henrique se torna o quarto zagueiro com mais gols pelo Corinthians no século",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538067/gustavo-henrique-se-torna-o-quarto-zagueiro-com-mais-gols-pelo-corinthians-no-seculo-veja-a-lista",
       "pubDate": "Mon, 17 Aug 2026 14:32:00 -0300",
@@ -228,24 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129141/derrota-amarga-e-preparacao-contra-o-rosario-zons-mista-matheus-bidu-corinthians-1x2-cruzeiro",
       "pubDate": "Sun, 16 Aug 2026 23:02:00 -0300",
       "date": "17/08 · 02:02"
-    },
-    {
-      "title": "VÍDEO: Lari Agostini e Tabata Amaral falam domovimento e projetos de lei contra patrocínio da Fatal Fans",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129139/lari-agostini-e-tabaata-amaral-falam-domovimento-e-projetos-de-lei-contra-patrocinio-da-fatal-fans",
-      "pubDate": "Sun, 16 Aug 2026 22:32:00 -0300",
-      "date": "17/08 · 01:32"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Corinthians 1x2 Cruzeiro | 23ª rodada | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129137/melhores-momentos-corinthians-1x2-cruzeiro-23-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Sun, 16 Aug 2026 22:26:36 -0300",
-      "date": "17/08 · 01:26"
-    },
-    {
-      "title": "Gustavo Henrique marca gol de voleio em derrota e se isola na vice-artilharia do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538053/gustavo-henrique-marca-gol-de-voleio-em-derrota-e-se-isola-na-vice-artilharia-do-corinthians-em-2026",
-      "pubDate": "Sun, 16 Aug 2026 21:57:00 -0300",
-      "date": "17/08 · 00:57"
     }
   ]
 };
