@@ -1,22 +1,22 @@
-// Gerado automaticamente em 17/08/2026, 08:27:34
+// Gerado automaticamente em 17/08/2026, 12:16:07
 const LIVE_DATA = {
-  "updatedAt": "2026-08-17T08:27:34.682Z",
+  "updatedAt": "2026-08-17T12:16:07.525Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações do Corinthians: Matheuzinho tem erros decisivos, e Gustavo Henrique se destaca com golaço",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-matheuzinho-tem-erros-decisivos-e-gustavo-henrique-se-destaca-com-golaco/",
-      "time": "17/08 · 08:00",
-      "pubDate": "Mon, 17 Aug 2026 08:00:32 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a perder em casa no Brasileirão após mais de quatro meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538056/corinthians-volta-a-perder-em-casa-no-brasileirao-apos-mais-de-quatro-meses",
+      "time": "17/08 · 11:30",
+      "pubDate": "Mon, 17 Aug 2026 08:30:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz justifica titulares contra o Cruzeiro e vê Corinthians preparado para decisão na Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-justifica-titulares-contra-o-cruzeiro-e-ve-corinthians-preparado-para-decisao-na-libertadores/",
-      "time": "17/08 · 03:20",
-      "pubDate": "Mon, 17 Aug 2026 03:20:22 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: derrota no Brasileirão, nova reunião por Memphis e cirurgia de meia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538090/ultimas-do-corinthians-derrota-no-brasileirao-nova-reuniao-por-memphis-e-cirurgia-de-meia",
+      "time": "17/08 · 10:30",
+      "pubDate": "Mon, 17 Aug 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -25,14 +25,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538094/lateral-comenta-possivel-retorno-de-memphis-e-destaca-importancia-do-atacante-ao-corinthians",
       "time": "17/08 · 02:57",
       "pubDate": "Sun, 16 Aug 2026 23:57:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians reabre negociações para renovar com Memphis; veja detalhes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/reviravolta-corinthians-reabre-negociacoes-para-renovar-com-memphis-veja-detalhes/",
-      "time": "17/08 · 02:55",
-      "pubDate": "Mon, 17 Aug 2026 02:55:03 +0000"
     },
     {
       "source": "Meu Timao",
@@ -75,60 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Sun, 16 Aug 2026 23:14:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel 'salva' zagueiro e distribui notas baixas ao elenco do Corinthians em derrota no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538076/fiel-salva-zagueiro-e-distribui-notas-baixas-ao-elenco-do-corinthians-em-derrota-no-brasileirao",
-      "time": "17/08 · 02:07",
-      "pubDate": "Sun, 16 Aug 2026 23:07:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gustavo Henrique faz golaço, mas Corinthians sofre contra-ataques e perde para o Cruzeiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-faz-golaco-mas-corinthians-sofre-contra-ataques-e-perde-para-o-cruzeiro]]>",
+      "time": "17/08 · 01:28",
+      "pubDate": "Sun, 16 Aug 2026 22:28:10 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Derrota amarga e preparação contra o Rosario: Zons mista Matheus Bidu | Corinthians 1X2 Cruzeiro",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129141/derrota-amarga-e-preparacao-contra-o-rosario-zons-mista-matheus-bidu-corinthians-1x2-cruzeiro",
-      "time": "17/08 · 02:02",
-      "pubDate": "Sun, 16 Aug 2026 23:02:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Torcida do Corinthians manda recado ao elenco antes de decisão na Libertadores: &#8220;É guerra&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-do-corinthians-manda-recado-ao-elenco-antes-de-decisao-na-libertadores-e-guerra/",
-      "time": "17/08 · 01:39",
-      "pubDate": "Mon, 17 Aug 2026 01:39:57 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Garro lamenta derrota do Corinthians no Brasileiro e projeta decisão na Libertadores: &#8220;Jogo do ano&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-lamenta-derrota-do-corinthians-no-brasileiro-e-projeta-decisao-na-libertadores-jogo-do-ano/",
-      "time": "17/08 · 01:07",
-      "pubDate": "Mon, 17 Aug 2026 01:07:15 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Rodrigo Garro toma o terceiro cartão amarelo e vira desfalque no Corinthians contra o Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/rodrigo-garro-toma-o-terceiro-cartao-amarelo-e-vira-desfalque-no-corinthians-contra-o-coritiba/",
-      "time": "17/08 · 00:49",
-      "pubDate": "Mon, 17 Aug 2026 00:49:15 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians perde do Cruzeiro e desperdiça chance de entrar no G5 do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-cruzeiro-acompanhe-o-tempo-real-da-partida-da-23a-rodada-do-brasileirao/",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians de Fernando Diniz falha em casa e vê estratégia ser castigada pelo Cruzeiro",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-de-fernando-diniz-falha-em-casa-e-ve-estrategia-ser-castigada-pelo-cruzeiro]]>",
       "time": "17/08 · 00:28",
-      "pubDate": "Mon, 17 Aug 2026 00:28:02 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Gabriel Paulista deixa jogo contra o Cruzeiro com dores e vira preocupação no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gabriel-paulista-corinthians-cruzeiro-preocupacao/",
-      "time": "17/08 · 00:14",
-      "pubDate": "Mon, 17 Aug 2026 00:14:20 +0000"
+      "pubDate": "Sun, 16 Aug 2026 21:28:33 -0300"
     },
     {
       "source": "Bolavip",
@@ -165,22 +117,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians denuncia racismo contra Hugo Souza e cobra investigação da Conmebol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-denuncia-racismo-contra-hugo-souza-e-cobra-investigacao-da-conmebol]]>",
-      "time": "15/08 · 21:14",
-      "pubDate": "Sat, 15 Aug 2026 18:14:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Cruzeiro: onde assistir ao vivo, horário e prováveis escalações do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-cruzeiro-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-do-brasileirao]]>",
-      "time": "15/08 · 21:14",
-      "pubDate": "Sat, 15 Aug 2026 18:14:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Possível renovação de Memphis Depay não vai suavizar incompetência da diretoria do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-possivel-renovacao-de-memphis-depay-nao-vai-suavizar-incompetencia-da-diretoria-do-corinthians]]>",
       "time": "15/08 · 19:53",
@@ -193,6 +129,70 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-raul-e-desfalque-do-corinthians-contra-o-cruzeiro-apos-trauma-na-costela]]>",
       "time": "15/08 · 18:10",
       "pubDate": "Sat, 15 Aug 2026 15:10:51 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
