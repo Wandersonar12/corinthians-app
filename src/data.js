@@ -1,86 +1,102 @@
-// Gerado automaticamente em 18/08/2026, 18:17:21
+// Gerado automaticamente em 18/08/2026, 22:09:08
 const LIVE_DATA = {
-  "updatedAt": "2026-08-18T18:17:21.294Z",
+  "updatedAt": "2026-08-18T22:09:08.402Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "CBF publica nota de repúdio contra ameaças sofridas por presidente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538205/cbf-publica-nota-de-repudio-contra-ameacas-sofridas-por-presidente-do-corinthians",
-      "time": "18/08 · 18:00",
-      "pubDate": "Tue, 18 Aug 2026 15:00:00 -0300"
+      "title": "Fiel aponta peruano como principal opção para substituir Allan no meio-campo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538163/fiel-aponta-peruano-como-principal-opcao-para-substituir-allan-no-meio-campo-do-corinthians",
+      "time": "18/08 · 21:02",
+      "pubDate": "Tue, 18 Aug 2026 18:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians emplaca temporada mais goleadora da carreira após gol diante do Cruzeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538127/zagueiro-do-corinthians-emplaca-temporada-mais-goleadora-da-carreira-apos-gol-diante-do-cruzeiro",
-      "time": "18/08 · 17:33",
-      "pubDate": "Tue, 18 Aug 2026 14:33:00 -0300"
+      "title": "Corinthians provoca Palmeiras em anúncio de Memphis: 'Recado de pai para filho'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538228/corinthians-provoca-palmeiras-em-anuncio-de-memphis-recado-de-pai-para-filho",
+      "time": "18/08 · 20:40",
+      "pubDate": "Tue, 18 Aug 2026 17:40:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians detalha venda de ingressos para setor visitante contra o Coritiba pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538201/corinthians-detalha-venda-de-ingressos-para-setor-visitante-contra-o-coritiba-pelo-brasileirao",
-      "time": "18/08 · 17:04",
-      "pubDate": "Tue, 18 Aug 2026 14:04:00 -0300"
+      "title": "Confira como foi o primeiro dia de Memphis em retorno ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538225/confira-como-foi-o-primeiro-dia-de-memphis-em-retorno-ao-corinthians",
+      "time": "18/08 · 19:55",
+      "pubDate": "Tue, 18 Aug 2026 16:55:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem três jogadores convocados para o Sul-Americano Sub-20 de Futsal; veja nomes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538200/corinthians-tem-tres-jogadores-convocados-para-o-sul-americano-sub-20-de-futsal-veja-nomes",
-      "time": "18/08 · 16:30",
-      "pubDate": "Tue, 18 Aug 2026 13:30:00 -0300"
+      "title": "Corinthians usa Pokémon, moda e 'propósito' em anúncio da renovação de Memphis Depay",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538215/corinthians-usa-pokemon-moda-e-proposito-em-anuncio-da-renovacao-de-memphis-depay",
+      "time": "18/08 · 19:45",
+      "pubDate": "Tue, 18 Aug 2026 16:45:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "[Bruno Cassiano] Finalmente a novela chegou ao fim; Memphis Depay fica no Corinthians!",
-      "url": "https://www.meutimao.com.br/coluna/bruno_cassiano/4248/finalmente-a-novela-chegou-ao-fim-memphis-depay-fica-no-corinthians/",
-      "time": "18/08 · 16:16",
-      "pubDate": "Tue, 18 Aug 2026 13:16:40 -0300"
+      "title": "Corinthians lança produtos sobre Memphis Depay após anúncio de renovação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538221/corinthians-lanca-produtos-sobre-memphis-depay-apos-anuncio-de-renovacao",
+      "time": "18/08 · 19:35",
+      "pubDate": "Tue, 18 Aug 2026 16:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fatal Model e 'cláusula Rojas': Stabile detalha contrato de Memphis com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538170/fatal-model-e-clausula-rojas-stabile-detalha-contrato-de-memphis-com-o-corinthians",
-      "time": "18/08 · 15:27",
-      "pubDate": "Tue, 18 Aug 2026 12:27:00 -0300"
+      "title": "Corinthians inicia preparação para decisão na Libertadores com retorno de Memphis Depay",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538220/corinthians-inicia-preparacao-para-decisao-na-libertadores-com-retorno-de-memphis-depay",
+      "time": "18/08 · 19:31",
+      "pubDate": "Tue, 18 Aug 2026 16:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Confira os membros do Cori que foram contrários à renovação de Memphis com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538181/confira-os-membros-do-cori-que-foram-contrarios-a-renovacao-de-memphis-com-o-corinthians",
-      "time": "18/08 · 14:16",
-      "pubDate": "Tue, 18 Aug 2026 11:16:00 -0300"
+      "title": "Memphis Depay fala pela primeira vez após renovação com o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538213/memphis-depay-fala-pela-primeira-vez-apos-renovacao-com-o-corinthians",
+      "time": "18/08 · 19:04",
+      "pubDate": "Tue, 18 Aug 2026 16:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians abre venda de ingressos para última rodada antes do mata-mata do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538180/corinthians-abre-venda-de-ingressos-para-ultima-rodada-antes-do-mata-mata-do-brasileirao-feminino",
-      "time": "18/08 · 14:01",
-      "pubDate": "Tue, 18 Aug 2026 11:01:00 -0300"
+      "title": "Corinthians oficializa renovação de Memphis Depay",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538123/corinthians-oficializa-renovacao-de-memphis-depay",
+      "time": "18/08 · 18:50",
+      "pubDate": "Tue, 18 Aug 2026 15:50:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Memphis e os R$ 15 milhões: especialista explica cláusula que virou entrave no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-e-os-r-15-milhoes-especialista-explica-clausula-que-virou-entrave-no-corinthians]]>",
-      "time": "18/08 · 11:57",
-      "pubDate": "Tue, 18 Aug 2026 08:57:55 -0300"
+      "title": "Memphis Depay abre mão de R$ 34 milhões para renovar com o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/amor-que-fala-memphis-depay-abre-mao-de-r-34-milhoes-para-renovar-com-o-corinthians]]>",
+      "time": "18/08 · 17:01",
+      "pubDate": "Tue, 18 Aug 2026 14:01:38 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Gustavo Henrique tem tudo para transformar uma passagem pelo Corinthians em legado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-gustavo-henrique-tem-tudo-para-transformar-uma-passagem-pelo-corinthians-em-legado]]>",
+      "time": "18/08 · 14:31",
+      "pubDate": "Tue, 18 Aug 2026 11:31:47 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Conselho do Corinthians aprova renovação de Memphis Depay e holandês já é autorizado a comparecer no CT",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/conselho-do-corinthians-aprova-renovacao-de-memphis-depay-e-holandes-ja-e-autorizado-a-comparecer-no-ct]]>",
-      "time": "18/08 · 11:37",
-      "pubDate": "Tue, 18 Aug 2026 08:37:05 -0300"
+      "time": "18/08 · 12:31",
+      "pubDate": "Tue, 18 Aug 2026 09:31:36 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians e o problema das influências políticas no Parque São Jorge",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-o-problema-das-influencias-politicas-no-parque-sao-jorge]]>",
+      "time": "18/08 · 12:18",
+      "pubDate": "Tue, 18 Aug 2026 09:18:48 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-gustavo-henrique-e-peca-chave-no-corinthians-e-iguala-gols-de-depay-garro-e-kaio-cesar-juntos]]>",
       "time": "17/08 · 20:51",
       "pubDate": "Mon, 17 Aug 2026 17:51:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile cogita renunciar à presidência do Corinthians após ameaças à família",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-cogita-renunciar-a-presidencia-do-corinthians-apos-ameacas-a-familia]]>",
-      "time": "17/08 · 20:22",
-      "pubDate": "Mon, 17 Aug 2026 17:22:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: De protagonista a questionado, Garro vive momento no Corinthians que intriga a Fiel",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-de-protagonista-a-questionado-garro-vive-momento-no-corinthians-que-intriga-a-fiel]]>",
-      "time": "17/08 · 19:25",
-      "pubDate": "Mon, 17 Aug 2026 16:25:26 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -216,24 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129177/osmar-stabile-confirma-renovacao-de-memphis-com-corinthians-presidente-detalha-negociacao",
       "pubDate": "Tue, 18 Aug 2026 09:47:00 -0300",
       "date": "18/08 · 12:47"
-    },
-    {
-      "title": "Corinthians volta a levar dois gols como mandante pela quinta vez em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538111/corinthians-volta-a-levar-dois-gols-como-mandante-pela-quinta-vez-em-2026",
-      "pubDate": "Mon, 17 Aug 2026 22:30:00 -0300",
-      "date": "18/08 · 01:30"
-    },
-    {
-      "title": "Gustavo Henrique é o zagueiro com mais gols entre todos os times das Séries A e B em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538128/gustavo-henrique-e-o-zagueiro-com-mais-gols-entre-todos-os-times-das-series-a-e-b-em-2026",
-      "pubDate": "Mon, 17 Aug 2026 19:02:00 -0300",
-      "date": "17/08 · 22:02"
-    },
-    {
-      "title": "Goleira do Corinthians finaliza transição física e fica disponível para sequência da temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538135/goleira-do-corinthians-finaliza-transicao-fisica-e-fica-disponivel-para-sequencia-da-temporada",
-      "pubDate": "Mon, 17 Aug 2026 18:20:00 -0300",
-      "date": "17/08 · 21:20"
     }
   ]
 };
