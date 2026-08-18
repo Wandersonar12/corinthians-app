@@ -1,7 +1,39 @@
-// Gerado automaticamente em 18/08/2026, 08:19:51
+// Gerado automaticamente em 18/08/2026, 12:17:43
 const LIVE_DATA = {
-  "updatedAt": "2026-08-18T08:19:51.032Z",
+  "updatedAt": "2026-08-18T12:17:43.501Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é denunciado no STJD por atraso e incidentes da torcida na derrota contra o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538165/corinthians-e-denunciado-no-stjd-por-atraso-e-incidentes-da-torcida-na-derrota-contra-o-cruzeiro",
+      "time": "18/08 · 12:04",
+      "pubDate": "Tue, 18 Aug 2026 09:04:16 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Assembleia Geral dos associados ganha nova data para votar reforma do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538152/assembleia-geral-dos-associados-ganha-nova-data-para-votar-reforma-do-estatuto-do-corinthians",
+      "time": "18/08 · 11:30",
+      "pubDate": "Tue, 18 Aug 2026 08:30:28 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: permanência de Memphis, apoio extra de parceiro e parecer do Cori",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538143/ultimas-do-corinthians-permanencia-de-memphis-apoio-extra-de-parceiro-e-parecer-do-cori",
+      "time": "18/08 · 10:30",
+      "pubDate": "Tue, 18 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Sem Allan, Diniz avalia opções no Corinthians para jogo decisivo pela Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-allan-diniz-avalia-opcoes-no-corinthians-para-jogo-decisivo-pela-libertadores/",
+      "time": "18/08 · 09:00",
+      "pubDate": "Tue, 18 Aug 2026 09:00:56 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -19,6 +51,14 @@ const LIVE_DATA = {
       "pubDate": "Mon, 17 Aug 2026 23:58:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Conselho do Corinthians aprova renovação de Memphis Depay e holandês já é autorizado a comparecer no CT",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/conselho-do-corinthians-aprova-renovacao-de-memphis-depay-e-holandes-ja-e-autorizado-a-comparecer-no-ct]]>",
+      "time": "18/08 · 02:44",
+      "pubDate": "Mon, 17 Aug 2026 23:44:55 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Organizadas do Corinthians convocam protesto no Parque São Jorge e ato em apoio ao MP-SP",
@@ -33,6 +73,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538149/presidente-do-cori-explica-fatores-para-aprovar-renovacao-de-memphis-com-o-corinthians",
       "time": "18/08 · 02:23",
       "pubDate": "Mon, 17 Aug 2026 23:23:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Podcast LivePor Ti debate e aponta queda de Bidon e Garro no Corinthians após a Copa do Mundo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/podcast-livepor-ti-debate-e-aponta-queda-de-bidon-e-garro-no-corinthians-apos-a-copa-do-mundo]]>",
+      "time": "18/08 · 02:14",
+      "pubDate": "Mon, 17 Aug 2026 23:14:41 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -59,28 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 17 Aug 2026 22:37:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a levar dois gols como mandante pela quinta vez em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538111/corinthians-volta-a-levar-dois-gols-como-mandante-pela-quinta-vez-em-2026",
-      "time": "18/08 · 01:30",
-      "pubDate": "Mon, 17 Aug 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz minimiza preocupação física e aponta opção para vaga de Allan no Corinthians contra o Rosario",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538078/diniz-minimiza-preocupacao-fisica-e-aponta-opcao-para-vaga-de-allan-no-corinthians-contra-o-rosario",
-      "time": "18/08 · 00:32",
-      "pubDate": "Mon, 17 Aug 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians amplia marcas ofensivas às vésperas de decisão da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538071/gustavo-henrique-vive-temporada-mais-decisiva-pelo-corinthians-e-mira-duelo-pela-libertadores",
-      "time": "17/08 · 23:33",
-      "pubDate": "Mon, 17 Aug 2026 20:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Influenciadora se irrita com derrota do Corinthians contra o Cruzeiro e vê resultado amargo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vide-influenciadora-se-irrita-derrota-corinthians]]>",
+      "time": "18/08 · 00:12",
+      "pubDate": "Mon, 17 Aug 2026 21:12:58 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -95,8 +127,8 @@ const LIVE_DATA = {
       "color": "#0055A5",
       "title": "Kaio César admite cobrança no Corinthians e manda recado após sequência sem gols: “Precisamos entregar mais”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-admite-cobranca-no-corinthians-e-manda-recado-apos-sequencia-sem-gols-precisamos-entregar-mais]]>",
-      "time": "17/08 · 22:06",
-      "pubDate": "Mon, 17 Aug 2026 19:06:52 -0300"
+      "time": "17/08 · 22:19",
+      "pubDate": "Mon, 17 Aug 2026 19:19:23 -0300"
     },
     {
       "source": "Bolavip",
@@ -125,34 +157,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Fagner expõe saída polêmica e critica atitude do Corinthians: “Acho importante o torcedor saber”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fagner-expoe-saida-polemica-e-critica-atitude-do-corinthians-acho-importante-o-torcedor-saber]]>",
-      "time": "17/08 · 15:33",
-      "pubDate": "Mon, 17 Aug 2026 12:33:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Cori deve recomendar que Corinthians não renove com Memphis Depay, segundo Tiago Salazar",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/cori-deve-recomendar-que-corinthians-nao-renove-com-memphis-depay-segundo-tiago-salazar]]>",
       "time": "17/08 · 14:45",
       "pubDate": "Mon, 17 Aug 2026 11:45:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz confessa entusiasmo com a chance de Memphis ficar no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-confessa-entusiasmo-com-a-chance-de-memphis-ficar-no-corinthians]]>",
-      "time": "17/08 · 13:42",
-      "pubDate": "Mon, 17 Aug 2026 10:42:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians sofre derrota em casa e vê sequência de quatro meses chegar ao fim",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofre-derrota-em-casa-e-ve-sequencia-de-quatro-meses-chegar-ao-fim]]>",
-      "time": "17/08 · 13:00",
-      "pubDate": "Mon, 17 Aug 2026 10:00:16 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-justifica-titulares-contra-o-cruzeiro-e-ve-corinthians-preparado-para-decisao-na-libertadores/",
       "time": "17/08 · 03:20",
       "pubDate": "Mon, 17 Aug 2026 03:20:22 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians reabre negociações para renovar com Memphis; veja detalhes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/reviravolta-corinthians-reabre-negociacoes-para-renovar-com-memphis-veja-detalhes/",
-      "time": "17/08 · 02:55",
-      "pubDate": "Mon, 17 Aug 2026 02:55:03 +0000"
     }
   ],
   "upcoming": [],
