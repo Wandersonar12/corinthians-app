@@ -1,7 +1,39 @@
-// Gerado automaticamente em 19/08/2026, 08:20:27
+// Gerado automaticamente em 19/08/2026, 12:17:24
 const LIVE_DATA = {
-  "updatedAt": "2026-08-19T08:20:27.562Z",
+  "updatedAt": "2026-08-19T12:17:24.778Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Centro Olímpico para fechar primeira fase do Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538211/corinthians-recebe-o-centro-olimpico-para-fechar-primeira-fase-do-paulista-feminino-sub-20",
+      "time": "19/08 · 11:30",
+      "pubDate": "Wed, 19 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: renovação de Memphis, nome no BID e denúncia no STJD",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538244/ultimas-do-corinthians-renovacao-de-memphis-nome-no-bid-e-denuncia-no-stjd",
+      "time": "19/08 · 10:30",
+      "pubDate": "Wed, 19 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Entenda como Memphis pode ajudar o Corinthians a avançar às quartas da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-como-memphis-pode-ajudar-o-corinthians-a-avancar-as-quartas-da-libertadores/",
+      "time": "19/08 · 10:00",
+      "pubDate": "Wed, 19 Aug 2026 10:00:25 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Rosario Central: veja onde assistir ao jogo pela Libertadores",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-rosario-central-veja-onde-assistir-ao-jogo-pela-libertadores/",
+      "time": "19/08 · 09:00",
+      "pubDate": "Wed, 19 Aug 2026 09:00:41 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,12 +43,28 @@ const LIVE_DATA = {
       "pubDate": "Tue, 18 Aug 2026 22:05:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast LivePorTi vê mérito de Memphis Depay em renovação com o Corinthians e não da diretoria",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-ve-merito-de-memphis-depay-em-renovacao-com-o-corinthians-e-nao-da-diretoria]]>",
+      "time": "19/08 · 00:56",
+      "pubDate": "Tue, 18 Aug 2026 21:56:33 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Meio-campista pode ganhar sequência inédita com Fernando Diniz no Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538134/meio-campista-pode-ganhar-sequencia-inedita-com-diniz-no-corinthians",
       "time": "19/08 · 00:01",
       "pubDate": "Tue, 18 Aug 2026 21:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Podcast aprova intervenção judicial no Corinthians e vê novela Depay como a gota d’água",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-intervencao-judicial-corinthians]]>",
+      "time": "18/08 · 23:58",
+      "pubDate": "Tue, 18 Aug 2026 20:58:34 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,6 +91,14 @@ const LIVE_DATA = {
       "pubDate": "Tue, 18 Aug 2026 23:00:47 +0000"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay se manifesta após fechar renovação com o Corinthians: “Muitas emoções na minha cabeça”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-se-manifesta-apos-fechar-renovacao-com-o-corinthians-muitas-emocoes-na-minha-cabeca]]>",
+      "time": "18/08 · 22:37",
+      "pubDate": "Tue, 18 Aug 2026 19:37:44 -0300"
+    },
+    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Memphis renova com o Corinthians: &#8216;Apoio da torcida foi algo extraordinário&#8217;",
@@ -65,14 +121,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-provocacao-memphis-palmeiras/",
       "time": "18/08 · 21:11",
       "pubDate": "Tue, 18 Aug 2026 21:11:40 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay se manifesta após fechar renovação com o Corinthians: “Muitas emoções na minha cabeça”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-se-manifesta-apos-fechar-renovacao-com-o-corinthians-muitas-emocoes-na-minha-cabeca]]>",
-      "time": "18/08 · 21:04",
-      "pubDate": "Tue, 18 Aug 2026 18:04:59 -0300"
     },
     {
       "source": "Meu Timao",
@@ -99,28 +147,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 18 Aug 2026 20:47:08 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians provoca Palmeiras em anúncio de Memphis: 'Recado de pai para filho'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538228/corinthians-provoca-palmeiras-em-anuncio-de-memphis-recado-de-pai-para-filho",
-      "time": "18/08 · 20:40",
-      "pubDate": "Tue, 18 Aug 2026 17:40:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Com Memphis, Corinthians abre preparação para enfrentar o Rosario Central",
       "url": "https://www.gazetaesportiva.com/times/corinthians/com-memphis-corinthians-abre-preparacao-para-enfrentar-o-rosario-central/",
       "time": "18/08 · 19:59",
       "pubDate": "Tue, 18 Aug 2026 19:59:40 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Confira como foi o primeiro dia de Memphis em retorno ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538225/confira-como-foi-o-primeiro-dia-de-memphis-em-retorno-ao-corinthians",
-      "time": "18/08 · 19:55",
-      "pubDate": "Tue, 18 Aug 2026 16:55:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -139,22 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 18 Aug 2026 16:36:12 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis Depay é regularizado no BID e pode reestrear pelo Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-depay-e-regularizado-no-bid-e-pode-reestrear-pelo-corinthians/",
-      "time": "18/08 · 19:32",
-      "pubDate": "Tue, 18 Aug 2026 19:32:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians renova contrato de Memphis até julho de 2028",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-contrato-de-memphis-ate-julho-de-2028/",
-      "time": "18/08 · 19:04",
-      "pubDate": "Tue, 18 Aug 2026 19:04:21 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis reduziu verba de R$ 15,4 milhões; especialista explica cláusula que virou entrave no Corinthians",
@@ -165,26 +181,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Podcast LivePor Ti debate e aponta queda de Bidon e Garro no Corinthians após a Copa do Mundo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/podcast-livepor-ti-debate-e-aponta-queda-de-bidon-e-garro-no-corinthians-apos-a-copa-do-mundo]]>",
-      "time": "18/08 · 18:20",
-      "pubDate": "Tue, 18 Aug 2026 15:20:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Gustavo Henrique tem tudo para transformar uma passagem pelo Corinthians em legado",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-gustavo-henrique-tem-tudo-para-transformar-uma-passagem-pelo-corinthians-em-legado]]>",
       "time": "18/08 · 14:31",
       "pubDate": "Tue, 18 Aug 2026 11:31:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Conselho do Corinthians aprova renovação de Memphis Depay e holandês já é autorizado a comparecer no CT",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/conselho-do-corinthians-aprova-renovacao-de-memphis-depay-e-holandes-ja-e-autorizado-a-comparecer-no-ct]]>",
-      "time": "18/08 · 12:31",
-      "pubDate": "Tue, 18 Aug 2026 09:31:36 -0300"
     },
     {
       "source": "Bolavip",
