@@ -1,7 +1,31 @@
-// Gerado automaticamente em 20/08/2026, 08:21:38
+// Gerado automaticamente em 20/08/2026, 12:18:49
 const LIVE_DATA = {
-  "updatedAt": "2026-08-20T08:21:38.758Z",
+  "updatedAt": "2026-08-20T12:18:49.618Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir ao duelo entre Corinthians e Rosario Central pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538275/saiba-onde-assistir-ao-duelo-entre-corinthians-e-rosario-central-pela-libertadores",
+      "time": "20/08 · 11:30",
+      "pubDate": "Thu, 20 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: manifestação, Memphis relacionado e retorno do MCF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538305/ultimas-do-corinthians-manifestacao-memphis-relacionado-e-retorno-do-mcf",
+      "time": "20/08 · 10:30",
+      "pubDate": "Thu, 20 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Esperança do Corinthians, Memphis volta após 85 dias em busca de feito inédito",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/esperanca-do-corinthians-memphis-volta-apos-85-dias-em-busca-de-feito-inedito/",
+      "time": "20/08 · 09:00",
+      "pubDate": "Thu, 20 Aug 2026 09:00:25 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,6 +59,22 @@ const LIVE_DATA = {
       "pubDate": "Wed, 19 Aug 2026 22:30:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: LivePorTi enxerga Garro como o jogador com maior capacidade de decidir Corinthians X Rosário Central",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-enxerga-garro-como-o-jogador-com-maior-capacidade-de-decidir-corinthians-x-rosario-central]]>",
+      "time": "20/08 · 00:48",
+      "pubDate": "Wed, 19 Aug 2026 21:48:51 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Com Memphis Depay de volta, comentaristas apontam Pedro Raul como saída no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-com-memphis-depay-de-volta-comentaristas-apontam-pedro-raul-como-saida-no-corinthians]]>",
+      "time": "20/08 · 00:39",
+      "pubDate": "Wed, 19 Aug 2026 21:39:33 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians rescinde com volante que jogou apenas uma partida pelo Sub-17",
@@ -65,22 +105,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538297/goleiro-do-corinthians-projeta-partida-decisiva-pela-copa-libertadores",
       "time": "19/08 · 23:53",
       "pubDate": "Wed, 19 Aug 2026 20:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Promotores explicam investigação sobre intervenção judicial no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538301/promotores-explicam-investigacao-sobre-intervencao-judicial-no-corinthians",
-      "time": "19/08 · 23:38",
-      "pubDate": "Wed, 19 Aug 2026 20:38:50 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para encarar o Rosario Central na Libertadores; veja o provável time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538263/corinthians-encerra-preparacao-para-encarar-o-rosario-central-na-libertadores-veja-o-provavel-time",
-      "time": "19/08 · 23:29",
-      "pubDate": "Wed, 19 Aug 2026 20:29:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -139,14 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Wed, 19 Aug 2026 18:41:50 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do protesto da torcida do Corinthians na sede do MP-SP",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-protesto-da-torcida-do-corinthians-na-sede-do-mp-sp/",
-      "time": "19/08 · 18:33",
-      "pubDate": "Wed, 19 Aug 2026 18:33:29 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis terá bônus milionário se Corinthians disputar Mundial de 2029",
@@ -177,28 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-memphis-no-corinthians-explode-nas-redes-sociais-e-alcanca-47-milhoes-de-interacoes]]>",
       "time": "19/08 · 11:40",
       "pubDate": "Wed, 19 Aug 2026 08:40:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast LivePorTi vê mérito de Memphis Depay em renovação com o Corinthians e não da diretoria",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-ve-merito-de-memphis-depay-em-renovacao-com-o-corinthians-e-nao-da-diretoria]]>",
-      "time": "19/08 · 00:56",
-      "pubDate": "Tue, 18 Aug 2026 21:56:33 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast aprova intervenção judicial no Corinthians e vê novela Depay como a gota d’água",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-intervencao-judicial-corinthians]]>",
-      "time": "18/08 · 23:58",
-      "pubDate": "Tue, 18 Aug 2026 20:58:34 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir ao duelo entre Corinthians e Rosario Central pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538275/saiba-onde-assistir-ao-duelo-entre-corinthians-e-rosario-central-pela-libertadores",
+      "pubDate": "Thu, 20 Aug 2026 08:30:00 -0300",
+      "date": "20/08 · 11:30"
+    },
     {
       "title": "Goleiro do Corinthians projeta partida decisiva pela Copa Libertadores",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538297/goleiro-do-corinthians-projeta-partida-decisiva-pela-copa-libertadores",
