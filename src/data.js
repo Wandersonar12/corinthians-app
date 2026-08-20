@@ -1,70 +1,134 @@
-// Gerado automaticamente em 19/08/2026, 22:11:32
+// Gerado automaticamente em 20/08/2026, 08:21:38
 const LIVE_DATA = {
-  "updatedAt": "2026-08-19T22:11:32.550Z",
+  "updatedAt": "2026-08-20T08:21:38.758Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tenta afastar jejum em Itaquera para não registrar pior marca desde 2024",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538255/corinthians-tenta-afastar-jejum-em-itaquera-para-nao-registrar-pior-marca-desde-2024",
-      "time": "19/08 · 22:04",
-      "pubDate": "Wed, 19 Aug 2026 19:04:00 -0300"
+      "title": "Corinthians enfrenta o Rosario Central em decisão pelas oitavas de final da Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538274/corinthians-enfrenta-o-rosario-central-em-decisao-pelas-oitavas-de-final-da-copa-libertadores",
+      "time": "20/08 · 03:01",
+      "pubDate": "Thu, 20 Aug 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Palmeiras compara números da Libertadores e provoca Corinthians após classificação",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-provoca-corinthians-classificacao-libertadores/",
+      "time": "20/08 · 02:14",
+      "pubDate": "Thu, 20 Aug 2026 02:14:47 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians faz segundo tempo abaixo e empata com o Fluminense pelo Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538245/corinthians-faz-segundo-tempo-abaixo-e-empata-com-o-fluminense-pelo-brasileiro-sub-17",
-      "time": "19/08 · 21:55",
-      "pubDate": "Wed, 19 Aug 2026 18:55:39 -0300"
+      "title": "Corinthians busca virada histórica, vence Paulistano na prorrogação e cola nos líderes do Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538306/corinthians-busca-virada-historica-vence-paulistano-na-prorrogacao-e-cola-nos-lideres-do-paulista",
+      "time": "20/08 · 01:37",
+      "pubDate": "Wed, 19 Aug 2026 22:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians é convocada para defender a Seleção Brasileira na Copa do Mundo Feminina Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538283/dupla-do-corinthians-e-convocada-para-defender-a-selecao-brasileira-na-copa-do-mundo-feminina-sub-20",
-      "time": "19/08 · 21:32",
-      "pubDate": "Wed, 19 Aug 2026 18:32:00 -0300"
+      "title": "Corinthians tenta encerrar jejum em oitavas de final da Libertadores na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538235/corinthians-tenta-encerrar-jejum-em-oitavas-de-final-da-libertadores-na-neo-quimica-arena",
+      "time": "20/08 · 01:30",
+      "pubDate": "Wed, 19 Aug 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians libera atacante da base e encaminha retorno ao MCF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538284/corinthians-libera-atacante-da-base-e-encaminha-retorno-ao-mcf",
-      "time": "19/08 · 21:04",
-      "pubDate": "Wed, 19 Aug 2026 18:04:00 -0300"
+      "title": "Corinthians rescinde com volante que jogou apenas uma partida pelo Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538290/corinthians-rescinde-com-volante-que-jogou-apenas-uma-partida-pelo-sub-17",
+      "time": "20/08 · 00:30",
+      "pubDate": "Wed, 19 Aug 2026 21:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians terá volta de Memphis contra o Rosario Central; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-volta-de-memphis-contra-o-rosario-central-veja-provavel-escalacao/",
+      "time": "20/08 · 00:15",
+      "pubDate": "Thu, 20 Aug 2026 00:15:42 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians participa de goleada da Seleção Brasileira Sub-15 sobre o Uruguai",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538279/dupla-do-corinthians-participa-de-goleada-da-selecao-brasileira-sub-15-sobre-o-uruguai",
-      "time": "19/08 · 21:00",
-      "pubDate": "Wed, 19 Aug 2026 18:00:00 -0300"
+      "title": "Corinthians é reintegrado ao MCF após dispensar atacante da base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538302/corinthians-e-reintegrado-ao-mcf-apos-dispensar-atacante-da-base",
+      "time": "20/08 · 00:06",
+      "pubDate": "Wed, 19 Aug 2026 21:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians celebra o Dia Internacional dos Povos Indígenas com ações especiais na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538260/corinthians-celebra-o-dia-internacional-dos-povos-indigenas-com-acoes-especiais-na-neo-quimica-arena",
-      "time": "19/08 · 20:35",
-      "pubDate": "Wed, 19 Aug 2026 17:35:00 -0300"
+      "title": "Goleiro do Corinthians projeta partida decisiva pela Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538297/goleiro-do-corinthians-projeta-partida-decisiva-pela-copa-libertadores",
+      "time": "19/08 · 23:53",
+      "pubDate": "Wed, 19 Aug 2026 20:53:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Centro Olímpico e encerra primeira fase do Paulista Feminino Sub-20 em boa fase",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538246/corinthians-vence-o-centro-olimpico-e-encerra-primeira-fase-do-paulista-feminino-sub-20-em-boa-fase",
-      "time": "19/08 · 20:02",
-      "pubDate": "Wed, 19 Aug 2026 17:02:00 -0300"
+      "title": "Promotores explicam investigação sobre intervenção judicial no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538301/promotores-explicam-investigacao-sobre-intervencao-judicial-no-corinthians",
+      "time": "19/08 · 23:38",
+      "pubDate": "Wed, 19 Aug 2026 20:38:50 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é absolvido pelo STJD por incidentes da torcida no duelo contra o Cruzeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538262/corinthians-e-absolvido-pelo-stjd-por-incidentes-da-torcida-no-duelo-contra-o-cruzeiro",
-      "time": "19/08 · 19:43",
-      "pubDate": "Wed, 19 Aug 2026 16:43:00 -0300"
+      "title": "Corinthians encerra preparação para encarar o Rosario Central na Libertadores; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538263/corinthians-encerra-preparacao-para-encarar-o-rosario-central-na-libertadores-veja-o-provavel-time",
+      "time": "19/08 · 23:29",
+      "pubDate": "Wed, 19 Aug 2026 20:29:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Rosario Central pela Libertadores: onde assistir, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-rosario-central-libertadores-20-08-2026/",
+      "time": "19/08 · 23:00",
+      "pubDate": "Wed, 19 Aug 2026 23:00:17 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "MP detalha inquérito sobre intervenção no Corinthians e pede cautela à torcida",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/mp-detalha-investigacao-sobre-intervencao-no-corinthians-e-pede-cautela-a-torcida/",
+      "time": "19/08 · 22:57",
+      "pubDate": "Wed, 19 Aug 2026 22:57:40 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Santos, São Paulo e Corinthians têm convocadas para a Seleção feminina sub-20",
+      "url": "https://www.gazetaesportiva.com/times/brasil/santos-sao-paulo-e-corinthians-tem-convocadas-para-a-selecao-feminina-sub-20/",
+      "time": "19/08 · 22:40",
+      "pubDate": "Wed, 19 Aug 2026 22:40:58 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians nesta quarta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-quarta-feira-17/",
+      "time": "19/08 · 22:25",
+      "pubDate": "Wed, 19 Aug 2026 22:25:17 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians precisa continuar focando em Gustavo Henrique ofensivamente contra o Rosário Central",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-continuar-focando-em-gustavo-henrique-ofensivamente-contra-o-rosario-central]]>",
+      "time": "19/08 · 21:22",
+      "pubDate": "Wed, 19 Aug 2026 18:22:30 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Samuel Ongaratto, executivo da Fatal Fans, responde à Nike sobre o Corinthians: “Faz parte”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/samuel-ongaratto-executivo-da-fatal-fans-responde-a-nike-sobre-o-corinthians-faz-parte]]>",
+      "time": "19/08 · 19:49",
+      "pubDate": "Wed, 19 Aug 2026 16:49:15 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -117,30 +181,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Memphis Depay se manifesta após fechar renovação com o Corinthians: “Muitas emoções na minha cabeça”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-se-manifesta-apos-fechar-renovacao-com-o-corinthians-muitas-emocoes-na-minha-cabeca]]>",
-      "time": "19/08 · 11:37",
-      "pubDate": "Wed, 19 Aug 2026 08:37:34 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Entenda como Memphis pode ajudar o Corinthians a avançar às quartas da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-como-memphis-pode-ajudar-o-corinthians-a-avancar-as-quartas-da-libertadores/",
-      "time": "19/08 · 10:00",
-      "pubDate": "Wed, 19 Aug 2026 10:00:25 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Rosario Central: veja onde assistir ao jogo pela Libertadores",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-rosario-central-veja-onde-assistir-ao-jogo-pela-libertadores/",
-      "time": "19/08 · 09:00",
-      "pubDate": "Wed, 19 Aug 2026 09:00:41 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Vídeo: Podcast LivePorTi vê mérito de Memphis Depay em renovação com o Corinthians e não da diretoria",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-ve-merito-de-memphis-depay-em-renovacao-com-o-corinthians-e-nao-da-diretoria]]>",
       "time": "19/08 · 00:56",
@@ -153,52 +193,24 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-intervencao-judicial-corinthians]]>",
       "time": "18/08 · 23:58",
       "pubDate": "Tue, 18 Aug 2026 20:58:34 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Fluminense: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-fluminense-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-17/",
-      "time": "18/08 · 23:00",
-      "pubDate": "Tue, 18 Aug 2026 23:00:47 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis renova com o Corinthians: &#8216;Apoio da torcida foi algo extraordinário&#8217;",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/memphis-renova-com-o-corinthians-apoio-da-torcida-foi-algo-extraordinario/",
-      "time": "18/08 · 22:12",
-      "pubDate": "Tue, 18 Aug 2026 22:12:13 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians rebate provocação do Palmeiras após renovar com Memphis: &#8220;Rasguem os recibos&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-provocacao-memphis-palmeiras/",
-      "time": "18/08 · 21:11",
-      "pubDate": "Tue, 18 Aug 2026 21:11:40 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis celebra renovação com o Corinthians e agradece apoio da torcida",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-celebra-renovacao-com-o-corinthians-e-agradece-apoio-da-torcida/",
-      "time": "18/08 · 20:47",
-      "pubDate": "Tue, 18 Aug 2026 20:47:08 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "OPINIÃO: Kaio César será “sacrificado” pela titularidade de Memphis Depay após renovação no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-kaio-cesar-sera-sacrificado-pela-titularidade-de-memphis-depay-apos-renovacao-no-corinthians]]>",
-      "time": "18/08 · 19:36",
-      "pubDate": "Tue, 18 Aug 2026 16:36:12 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro do Corinthians projeta partida decisiva pela Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538297/goleiro-do-corinthians-projeta-partida-decisiva-pela-copa-libertadores",
+      "pubDate": "Wed, 19 Aug 2026 20:53:00 -0300",
+      "date": "19/08 · 23:53"
+    },
+    {
+      "title": "VÍDEO: Com Memphis? Veja provável escalação do Corinthians contra o Rosario Central",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129226/com-memphis-veja-provavel-escalacao-do-corinthians-contra-o-rosario-central",
+      "pubDate": "Wed, 19 Aug 2026 19:58:05 -0300",
+      "date": "19/08 · 22:58"
+    },
     {
       "title": "Dupla do Corinthians participa de goleada da Seleção Brasileira Sub-15 sobre o Uruguai",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538279/dupla-do-corinthians-participa-de-goleada-da-selecao-brasileira-sub-15-sobre-o-uruguai",
@@ -216,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129216/torcidas-organizadas-manifestam-apoio-pela-intervencao-judicial-no-corinthians-em-frente-ao-mp-sp",
       "pubDate": "Wed, 19 Aug 2026 15:53:00 -0300",
       "date": "19/08 · 18:53"
-    },
-    {
-      "title": "Goleiro do Corinthians reencontra Di María em duelo que pode ser decidido nos pênaltis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538207/goleiro-do-corinthians-reencontra-di-maria-em-duelo-que-pode-ser-decidido-nos-penaltis",
-      "pubDate": "Wed, 19 Aug 2026 10:34:00 -0300",
-      "date": "19/08 · 13:34"
     }
   ]
 };
