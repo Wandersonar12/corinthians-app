@@ -1,78 +1,118 @@
-// Gerado automaticamente em 21/08/2026, 18:18:12
+// Gerado automaticamente em 21/08/2026, 22:10:11
 const LIVE_DATA = {
-  "updatedAt": "2026-08-21T18:18:12.681Z",
+  "updatedAt": "2026-08-21T22:10:11.253Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém aproveitamento perfeito em mata-matas contra times de Rosário; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538393/corinthians-mantem-aproveitamento-perfeito-em-mata-matas-contra-times-de-rosario-veja-os-numeros",
-      "time": "21/08 · 18:02",
-      "pubDate": "Fri, 21 Aug 2026 15:02:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Titulares fazem regenerativo e Corinthians treina com jovens da base de olho no Coritiba",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/titulares-fazem-regenerativo-e-corinthians-treina-com-jovens-da-base-de-olho-no-coritiba/",
+      "time": "21/08 · 22:08",
+      "pubDate": "Fri, 21 Aug 2026 22:08:41 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz elogia volante e explica minutagem de Memphis em estreia após renovação com Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538417/diniz-elogia-volante-e-explica-minutagem-de-memphis-em-estreia-apos-renovacao-com-corinthians",
-      "time": "21/08 · 17:34",
-      "pubDate": "Fri, 21 Aug 2026 14:34:00 -0300"
+      "title": "Atacante do Corinthians iguala recorde de assistência em jogos mata-mata no Brasil desde sua estreia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538401/atacante-do-corinthians-iguala-recorde-de-assistencia-em-jogos-mata-mata-no-brasil-desde-sua-estreia",
+      "time": "21/08 · 22:01",
+      "pubDate": "Fri, 21 Aug 2026 19:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians lidera duelos e dribles em jogo de classificação às quartas da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538440/atacante-do-corinthians-lidera-duelos-e-dribles-em-jogo-de-classificacao-as-quartas-da-libertadores",
-      "time": "21/08 · 17:04",
-      "pubDate": "Fri, 21 Aug 2026 14:04:00 -0300"
+      "title": "Corinthians é o clube da Série A com maior aproveitamento em mata-matas desde a última temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538439/corinthians-e-o-clube-da-serie-a-com-maior-aproveitamento-em-mata-matas-desde-a-ultima-temporada",
+      "time": "21/08 · 21:32",
+      "pubDate": "Fri, 21 Aug 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians destaca lição após queda na Copa do Brasil e mira título da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538444/goleiro-do-corinthians-destaca-licao-apos-queda-na-copa-do-brasil-e-mira-titulo-da-libertadores",
-      "time": "21/08 · 16:33",
-      "pubDate": "Fri, 21 Aug 2026 13:33:00 -0300"
+      "title": "Diretoria do Corinthians agenda reunião com membros da SAFiel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538490/diretoria-do-corinthians-agenda-reuniao-com-membros-da-safiel",
+      "time": "21/08 · 21:18",
+      "pubDate": "Fri, 21 Aug 2026 18:18:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Breno Bidon sobe uma posição no ranking dos principais artilheiros do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538399/breno-bidon-sobe-uma-posicao-no-ranking-dos-principais-artilheiros-do-corinthians-em-2026",
-      "time": "21/08 · 16:00",
-      "pubDate": "Fri, 21 Aug 2026 13:00:00 -0300"
+      "title": "Corinthians se reapresenta após classificação na Libertadores e inicia trabalhos de olho no Coritiba",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538489/corinthians-se-reapresenta-apos-classificacao-na-libertadores-e-inicia-trabalhos-de-olho-no-coritiba",
+      "time": "21/08 · 21:07",
+      "pubDate": "Fri, 21 Aug 2026 18:07:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians resolve impasse e pode ter Memphis contra o Coritiba",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-resolve-impasse-e-pode-ter-memphis-contra-o-coritiba/",
+      "time": "21/08 · 20:55",
+      "pubDate": "Fri, 21 Aug 2026 20:55:35 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Raniele é expulso pela segunda vez em jogo de mata-mata pelo Corinthians; relembre a anterior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538407/raniele-e-expulso-pela-segunda-vez-em-jogo-de-mata-mata-pelo-corinthians-relembre-a-anterior",
-      "time": "21/08 · 15:32",
-      "pubDate": "Fri, 21 Aug 2026 12:32:00 -0300"
+      "title": "Diniz analisa meio-campo do Corinthians após classificação e exalta versatilidade de Breno Bidon",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538414/diniz-analisa-meio-campo-do-corinthians-apos-classificacao-e-exalta-versatilidade-de-breno-bidon",
+      "time": "21/08 · 20:36",
+      "pubDate": "Fri, 21 Aug 2026 17:36:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Destaque do Corinthians na Libertadores, Kaio César valoriza entrega em classificação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/destaque-do-corinthians-na-libertadores-kaio-cesar-valoriza-entrega-em-classificacao/",
+      "time": "21/08 · 20:28",
+      "pubDate": "Fri, 21 Aug 2026 20:28:27 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra jejum de quase oito anos sem marcar em mata-mata da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538377/corinthians-encerra-jejum-de-quase-oito-anos-sem-marcar-em-mata-mata-da-libertadores",
-      "time": "21/08 · 15:06",
-      "pubDate": "Fri, 21 Aug 2026 12:06:00 -0300"
+      "title": "Corinthians sofre virada relâmpago e perde para o Juventus no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538357/corinthians-sofre-virada-relampago-e-perde-para-o-juventus-no-paulista-sub-20",
+      "time": "21/08 · 19:53",
+      "pubDate": "Fri, 21 Aug 2026 16:53:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians celebra gol decisivo na Libertadores e exalta entrega do elenco após expulsão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538443/meia-do-corinthians-celebra-gol-decisivo-na-libertadores-e-exalta-entrega-do-elenco-apos-expulsao",
-      "time": "21/08 · 14:32",
-      "pubDate": "Fri, 21 Aug 2026 11:32:00 -0300"
+      "title": "Atacante do Corinthians sobe no ranking de assistentes da temporada em classificação na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538400/atacante-do-corinthians-sobe-no-ranking-de-assistentes-da-temporada-em-classificacao-na-libertadores",
+      "time": "21/08 · 19:33",
+      "pubDate": "Fri, 21 Aug 2026 16:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Justiça anula em definitivo procedimento contra vice-presidente do Corinthians na Comissão de Ética",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538472/justica-anula-em-definitivo-procedimento-contra-vice-presidente-do-corinthians-na-comissao-de-etica",
+      "time": "21/08 · 19:01",
+      "pubDate": "Fri, 21 Aug 2026 16:01:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Fatal Fans revela conversas para viabilizar reforços no feminino e outras modalidades do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fatal-fans-revela-conversas-para-viabilizar-reforcos-no-feminino-e-outras-modalidades-do-corinthians]]>",
-      "time": "21/08 · 11:22",
-      "pubDate": "Fri, 21 Aug 2026 08:22:05 -0300"
+      "time": "21/08 · 15:51",
+      "pubDate": "Fri, 21 Aug 2026 12:51:31 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja o momento que Raniele é expulso e deixa o Corinthians com um a menos na Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-o-momento-que-raniele-e-expulso-e-deixa-o-corinthians-com-um-a-menos-na-libertadores/",
+      "time": "21/08 · 14:15",
+      "pubDate": "Fri, 21 Aug 2026 14:15:31 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Breno Bidon marca o gol da classificação do Corinthians com assistência de Memphis Depay; veja",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/breno-bidon-marca-o-gol-da-classificacao-do-corinthians-com-assistencia-de-memphis-depay-veja/",
+      "time": "21/08 · 13:55",
+      "pubDate": "Fri, 21 Aug 2026 13:55:20 +0000"
     },
     {
       "source": "Bolavip",
@@ -81,6 +121,30 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-minimiza-expulsao-no-corinthians-e-rende-se-ao-talento-de-memphis]]>",
       "time": "21/08 · 11:15",
       "pubDate": "Fri, 21 Aug 2026 08:15:35 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Memphis decide e faz jus a coro por renovação com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-memphis-decide-e-faz-jus-a-coro-por-renovacao-com-o-corinthians/",
+      "time": "21/08 · 10:00",
+      "pubDate": "Fri, 21 Aug 2026 10:00:37 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Saiba quanto o Corinthians arrecadou com classificação às quartas da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/saiba-quanto-o-corinthians-arrecadou-com-classificacao-as-quartas-da-libertadores/",
+      "time": "21/08 · 09:00",
+      "pubDate": "Fri, 21 Aug 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Raniele pede desculpas à torcida do Corinthians após expulsão: &#8220;Erros fazem parte&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/raniele-pede-desculpas-a-torcida-do-corinthians-apos-expulsao-erros-fazem-parte/",
+      "time": "21/08 · 08:00",
+      "pubDate": "Fri, 21 Aug 2026 08:00:03 +0000"
     },
     {
       "source": "Bolavip",
@@ -129,70 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/demissao-de-fernando-diniz-no-corinthians-nao-vai-acontecer-em-caso-de-eliminacao-na-libertadores]]>",
       "time": "20/08 · 17:24",
       "pubDate": "Thu, 20 Aug 2026 14:24:15 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -222,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129241/classificacao-na-libertadores-e-saida-da-copa-zona-mista-hugo-corinthians-1x0-rosario-central",
       "pubDate": "Fri, 21 Aug 2026 01:57:00 -0300",
       "date": "21/08 · 04:57"
-    },
-    {
-      "title": "VÍDEO: Diniz elogia Bidon, fala de Memphis e comemora classificação: entrevista coletiva de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129239/diniz-elogia-bidon-fala-de-memphis-e-comemora-classificacao-entrevista-coletiva-de-fernando-diniz",
-      "pubDate": "Fri, 21 Aug 2026 01:26:00 -0300",
-      "date": "21/08 · 04:26"
     }
   ]
 };
