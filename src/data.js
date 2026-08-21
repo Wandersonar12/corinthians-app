@@ -1,78 +1,142 @@
-// Gerado automaticamente em 20/08/2026, 22:13:24
+// Gerado automaticamente em 21/08/2026, 08:22:49
 const LIVE_DATA = {
-  "updatedAt": "2026-08-20T22:13:24.237Z",
+  "updatedAt": "2026-08-21T08:22:49.144Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia duas sessões especiais de espetáculo sobre fundação do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538355/corinthians-anuncia-duas-sessoes-especiais-de-espetaculo-sobre-fundacao-do-clube",
-      "time": "20/08 · 22:01",
-      "pubDate": "Thu, 20 Aug 2026 19:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Bastidores agitados, time descansado e setor esgotado: como chega o Rosario contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538326/bastidores-agitados-time-descansado-e-setor-esgotado-como-chega-o-rosario-contra-o-corinthians",
-      "time": "20/08 · 21:34",
-      "pubDate": "Thu, 20 Aug 2026 18:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians publica campanha contra o racismo antes de jogo da Copa Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538348/corinthians-publica-campanha-contra-o-racismo-antes-de-jogo-da-copa-libertadores",
-      "time": "20/08 · 21:04",
-      "pubDate": "Thu, 20 Aug 2026 18:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Brabinhas quebram recorde de gols em uma única temporada do Corinthians Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538307/brabinhas-quebram-recorde-de-gols-em-uma-unica-temporada-do-corinthians-feminino-sub-20",
-      "time": "20/08 · 20:35",
-      "pubDate": "Thu, 20 Aug 2026 17:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Sabrina Sato arremata jantar exclusivo com jogador do Corinthians em leilão beneficente",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538349/sabrina-sato-arremata-jantar-exclusivo-com-jogador-do-corinthians-em-leilao-beneficente",
-      "time": "20/08 · 20:01",
-      "pubDate": "Thu, 20 Aug 2026 17:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba quanto o Corinthians pode arrecadar com classificação às quartas de final da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538322/saiba-quanto-o-corinthians-pode-arrecadar-com-classificacao-as-quartas-de-final-da-libertadores",
-      "time": "20/08 · 19:32",
-      "pubDate": "Thu, 20 Aug 2026 16:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe atletas do futsal feminino e jovens do Chute Inicial em vitória na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538345/corinthians-recebe-atletas-do-futsal-feminino-e-jovens-do-chute-inicial-em-vitoria-na-lnf",
-      "time": "20/08 · 19:02",
-      "pubDate": "Thu, 20 Aug 2026 16:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra segundo melhor início no Paulista de Basquete na década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538316/corinthians-registra-o-seu-segundo-melhor-inicio-no-paulista-de-basquete-na-decada",
-      "time": "20/08 · 18:34",
-      "pubDate": "Thu, 20 Aug 2026 15:34:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Raniele pede desculpas à torcida do Corinthians após expulsão: &#8220;Erros fazem parte&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/raniele-pede-desculpas-a-torcida-do-corinthians-apos-expulsao-erros-fazem-parte/",
+      "time": "21/08 · 08:00",
+      "pubDate": "Fri, 21 Aug 2026 08:00:03 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Rival do Corinthians, Rosario Central tem ídolo com passagem pelo Brasil",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/rival-do-corinthians-rosario-central-tem-idolo-com-passagem-pelo-brasil/",
-      "time": "20/08 · 17:48",
-      "pubDate": "Thu, 20 Aug 2026 17:48:41 +0000"
+      "title": "Atuações do Corinthians: Raniele é expulso, mas Memphis e Bidon brilham",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-raniele-e-expulso-mas-memphis-e-bidon-brilham/",
+      "time": "21/08 · 07:00",
+      "pubDate": "Fri, 21 Aug 2026 07:00:03 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Classificação na Libertadores e saída da Copa: zona mista Hugo | Corinthians 1x0 Rosario Central",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129241/classificacao-na-libertadores-e-saida-da-copa-zona-mista-hugo-corinthians-1x0-rosario-central",
+      "time": "21/08 · 04:57",
+      "pubDate": "Fri, 21 Aug 2026 01:57:11 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz exalta Memphis após classificação do Corinthians: &#8220;Tem um brilho diferente&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-exalta-memphis-apos-classificacao-do-corinthians-tem-um-brilho-diferente/",
+      "time": "21/08 · 04:50",
+      "pubDate": "Fri, 21 Aug 2026 04:50:44 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Confusão entre torcedores de Corinthians e Rosario Central termina com nove detidos",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/confusao-entre-torcedores-de-corinthians-e-rosario-central-termina-com-nove-detidos/",
+      "time": "21/08 · 04:31",
+      "pubDate": "Fri, 21 Aug 2026 04:31:55 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz comenta classificação do Corinthians na Libertadores e revela orientações após expulsão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538408/diniz-comenta-classificacao-do-corinthians-na-libertadores-e-revela-orientacoes-apos-expulsao",
+      "time": "21/08 · 04:31",
+      "pubDate": "Fri, 21 Aug 2026 01:31:10 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians se derrete por Memphis em retorno aos gramados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538409/tecnico-do-corinthians-se-derrete-por-memphis-em-retorno-aos-gramados",
+      "time": "21/08 · 04:21",
+      "pubDate": "Fri, 21 Aug 2026 01:21:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante será desfalque para o Corinthians em primeiro jogo nas quartas da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538405/volante-sera-desfalque-para-o-corinthians-em-primeiro-jogo-nas-quartas-da-libertadores",
+      "time": "21/08 · 03:41",
+      "pubDate": "Fri, 21 Aug 2026 00:41:55 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis lidera avaliações da Fiel após classificação heroica do Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538403/memphis-lidera-avaliacoes-da-fiel-apos-classificacao-heroica-do-corinthians-na-libertadores",
+      "time": "21/08 · 03:37",
+      "pubDate": "Fri, 21 Aug 2026 00:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante faz primeiro jogo oficial sob comando de Diniz em classificação do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538398/volante-faz-primeiro-jogo-oficial-sob-comando-de-diniz-em-classificacao-do-corinthians",
+      "time": "21/08 · 03:25",
+      "pubDate": "Fri, 21 Aug 2026 00:25:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Herói, Bidon valoriza união do Corinthians e sonha com título da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/heroi-bidon-valoriza-uniao-do-corinthians-e-sonha-com-titulo-da-libertadores/",
+      "time": "21/08 · 03:13",
+      "pubDate": "Fri, 21 Aug 2026 03:13:21 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Herói da classificação destaca força do Corinthians e mira título da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538396/heroi-da-classificacao-destaca-forca-do-corinthians-e-mira-titulo-da-libertadores",
+      "time": "21/08 · 03:10",
+      "pubDate": "Fri, 21 Aug 2026 00:10:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Memphis volta a atuar pelo Corinthians em classificação na Libertadores após 'novela' em renovação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538374/memphis-volta-a-atuar-pelo-corinthians-em-classificacao-na-libertadores-apos-novela-em-renovacao",
+      "time": "21/08 · 03:08",
+      "pubDate": "Fri, 21 Aug 2026 00:08:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Melhores momentos: Corinthians 1 x 0 Rosario Central pela Libertadores",
+      "url": "https://www.gazetaesportiva.com/dugout/melhores-momentos-corinthians-1-x-0-rosario-central-pela-libertadores/",
+      "time": "21/08 · 02:50",
+      "pubDate": "Fri, 21 Aug 2026 02:50:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com Memphis decisivo, Corinthians supera expulsão e elimina o Rosario Central",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-rosario-central-oitavas-libertadores-20-08-2026/",
+      "time": "21/08 · 02:25",
+      "pubDate": "Fri, 21 Aug 2026 02:25:10 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do jogo de volta entre Corinthians e Rosario Central pelas oitavas da Libertadores",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/veja-fotos-do-jogo-de-volta-entre-corinthians-e-rosario-central-pelas-oitavas-da-libertadores/",
+      "time": "21/08 · 01:39",
+      "pubDate": "Fri, 21 Aug 2026 01:39:22 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Rosário Central terá Alexis Herrera como árbitro e paulistas amargam histórico dramático",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-rosario-central-tera-alexis-herrera-como-arbitro-e-paulistas-amargam-historico-dramatico]]>",
+      "time": "20/08 · 19:24",
+      "pubDate": "Thu, 20 Aug 2026 16:24:13 -0300"
     },
     {
       "source": "Bolavip",
@@ -81,30 +145,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/demissao-de-fernando-diniz-no-corinthians-nao-vai-acontecer-em-caso-de-eliminacao-na-libertadores]]>",
       "time": "20/08 · 17:24",
       "pubDate": "Thu, 20 Aug 2026 14:24:15 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Há 48 anos, Sócrates fazia sua estreia com a camisa do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-48-anos-socrates-fazia-sua-estreia-com-a-camisa-do-corinthians/",
-      "time": "20/08 · 14:09",
-      "pubDate": "Thu, 20 Aug 2026 14:09:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Esperança do Corinthians, Memphis volta após 85 dias em busca de feito inédito",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/esperanca-do-corinthians-memphis-volta-apos-85-dias-em-busca-de-feito-inedito/",
-      "time": "20/08 · 09:00",
-      "pubDate": "Thu, 20 Aug 2026 09:00:25 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras compara números da Libertadores e provoca Corinthians após classificação",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-provoca-corinthians-classificacao-libertadores/",
-      "time": "20/08 · 02:14",
-      "pubDate": "Thu, 20 Aug 2026 02:14:47 +0000"
     },
     {
       "source": "Bolavip",
@@ -121,38 +161,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-com-memphis-depay-de-volta-comentaristas-apontam-pedro-raul-como-saida-no-corinthians]]>",
       "time": "20/08 · 00:39",
       "pubDate": "Wed, 19 Aug 2026 21:39:33 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá volta de Memphis contra o Rosario Central; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-volta-de-memphis-contra-o-rosario-central-veja-provavel-escalacao/",
-      "time": "20/08 · 00:15",
-      "pubDate": "Thu, 20 Aug 2026 00:15:42 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Rosario Central pela Libertadores: onde assistir, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-rosario-central-libertadores-20-08-2026/",
-      "time": "19/08 · 23:00",
-      "pubDate": "Wed, 19 Aug 2026 23:00:17 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "MP detalha inquérito sobre intervenção no Corinthians e pede cautela à torcida",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/mp-detalha-investigacao-sobre-intervencao-no-corinthians-e-pede-cautela-a-torcida/",
-      "time": "19/08 · 22:57",
-      "pubDate": "Wed, 19 Aug 2026 22:57:40 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Santos, São Paulo e Corinthians têm convocadas para a Seleção feminina sub-20",
-      "url": "https://www.gazetaesportiva.com/times/brasil/santos-sao-paulo-e-corinthians-tem-convocadas-para-a-selecao-feminina-sub-20/",
-      "time": "19/08 · 22:40",
-      "pubDate": "Wed, 19 Aug 2026 22:40:58 +0000"
     },
     {
       "source": "Bolavip",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-usar-dinheiro-de-2027-para-aliviar-pressao-financeira-no-clube]]>",
       "time": "19/08 · 16:57",
       "pubDate": "Wed, 19 Aug 2026 13:57:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Rosario Central: onde assistir ao vivo, horário e escalações pela Copa Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-rosario-central-onde-assistir-ao-vivo-horario-e-escalacoes-pela-copa-libertadores]]>",
-      "time": "19/08 · 16:20",
-      "pubDate": "Wed, 19 Aug 2026 13:20:06 -0300"
     }
   ],
   "upcoming": [],
@@ -200,22 +200,34 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Bidon avalia duelo com Di Maria, comenta gol importante e elogia Memphis Depay",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129243/bidon-avalia-duelo-com-di-maria-comenta-gol-importante-e-elogia-memphis-depay",
+      "pubDate": "Fri, 21 Aug 2026 02:01:09 -0300",
+      "date": "21/08 · 05:01"
+    },
+    {
+      "title": "VÍDEO: Emocionante! Gabriel Paulista avalia classificação e comenta poropopó com a Fiel Torcida",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129242/emocionante-gabriel-paulista-avalia-classificacao-e-comenta-poropopo-com-a-fiel-torcida",
+      "pubDate": "Fri, 21 Aug 2026 01:58:43 -0300",
+      "date": "21/08 · 04:58"
+    },
+    {
+      "title": "VÍDEO: Classificação na Libertadores e saída da Copa: zona mista Hugo | Corinthians 1x0 Rosario Central",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129241/classificacao-na-libertadores-e-saida-da-copa-zona-mista-hugo-corinthians-1x0-rosario-central",
+      "pubDate": "Fri, 21 Aug 2026 01:57:11 -0300",
+      "date": "21/08 · 04:57"
+    },
+    {
+      "title": "VÍDEO: Diniz elogia Bidon, fala de Memphis e comemora classificação: entrevista coletiva de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129239/diniz-elogia-bidon-fala-de-memphis-e-comemora-classificacao-entrevista-coletiva-de-fernando-diniz",
+      "pubDate": "Fri, 21 Aug 2026 01:26:00 -0300",
+      "date": "21/08 · 04:26"
+    },
+    {
       "title": "Brabinhas quebram recorde de gols em uma única temporada do Corinthians Feminino Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538307/brabinhas-quebram-recorde-de-gols-em-uma-unica-temporada-do-corinthians-feminino-sub-20",
       "pubDate": "Thu, 20 Aug 2026 17:35:00 -0300",
       "date": "20/08 · 20:35"
-    },
-    {
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Rosario Central pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538275/saiba-onde-assistir-ao-duelo-entre-corinthians-e-rosario-central-pela-libertadores",
-      "pubDate": "Thu, 20 Aug 2026 08:30:00 -0300",
-      "date": "20/08 · 11:30"
-    },
-    {
-      "title": "Goleiro do Corinthians projeta partida decisiva pela Copa Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538297/goleiro-do-corinthians-projeta-partida-decisiva-pela-copa-libertadores",
-      "pubDate": "Wed, 19 Aug 2026 20:53:00 -0300",
-      "date": "19/08 · 23:53"
     }
   ]
 };
