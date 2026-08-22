@@ -1,110 +1,102 @@
-// Gerado automaticamente em 22/08/2026, 18:10:17
+// Gerado automaticamente em 22/08/2026, 22:08:11
 const LIVE_DATA = {
-  "updatedAt": "2026-08-22T18:10:17.951Z",
+  "updatedAt": "2026-08-22T22:08:11.402Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca manter boa fase como visitante para se reabilitar no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538459/corinthians-busca-manter-boa-fase-como-visitante-para-se-reabilitar-no-brasileirao",
-      "time": "22/08 · 17:36",
-      "pubDate": "Sat, 22 Aug 2026 14:36:00 -0300"
+      "title": "Corinthians retorna ao Couto Pereira diante dos donos da casa após três anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538477/corinthians-retorna-ao-couto-pereira-diante-dos-donos-da-casa-apos-tres-anos",
+      "time": "22/08 · 22:03",
+      "pubDate": "Sat, 22 Aug 2026 19:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Veja provável escalação do Corinthians contra o Coritiba pelo Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129278/veja-provavel-escalacao-do-corinthians-contra-o-coritiba-pelo-campeonato-brasileiro-2026",
-      "time": "22/08 · 16:52",
-      "pubDate": "Sat, 22 Aug 2026 13:52:49 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Torcida do Corinthians protesta no Parque São Jorge: &#8220;Intervenção já&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-do-corinthians-protesta-no-parque-sao-jorge-intervencao-ja/",
-      "time": "22/08 · 16:44",
-      "pubDate": "Sat, 22 Aug 2026 16:44:48 +0000"
+      "title": "VÍDEO: Corinthians desembarca em Curitiba para enfrentar o Coritiba no Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129283/corinthians-desembarca-em-curitiba-para-enfrentar-o-coritiba-no-campeonato-brasileiro-2026",
+      "time": "22/08 · 21:18",
+      "pubDate": "Sat, 22 Aug 2026 18:18:22 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba de que o Corinthians precisa para terminar na liderança do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538484/saiba-de-que-o-corinthians-precisa-para-terminar-na-lideranca-do-brasileirao-feminino",
-      "time": "22/08 · 16:31",
-      "pubDate": "Sat, 22 Aug 2026 13:31:00 -0300"
+      "title": "Corinthians desembarca no Paraná com 24 jogadores para duelo contra o Coritiba pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538539/corinthians-desembarca-no-parana-com-24-jogadores-para-duelo-contra-o-coritiba-pelo-brasileirao",
+      "time": "22/08 · 21:15",
+      "pubDate": "Sat, 22 Aug 2026 18:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Torcedores do Corinthians se reúnem na frente do Parque São Jorge para protestar contra a diretoria",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129275/torcedores-do-corinthians-se-reunem-na-frente-do-parque-sao-jorge-para-protestar-contra-a-diretoria",
-      "time": "22/08 · 16:28",
-      "pubDate": "Sat, 22 Aug 2026 13:28:00 -0300"
+      "title": "Lateral do Corinthians é desfalque das Brabas na última rodada da primeira fase do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538553/lateral-do-corinthians-e-desfalque-das-brabas-na-ultima-rodada-da-primeira-fase-do-brasileirao",
+      "time": "22/08 · 20:37",
+      "pubDate": "Sat, 22 Aug 2026 17:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vira sobre o São José com hat-trick de Moscardo e vence no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538530/corinthians-vira-sobre-o-sao-jose-com-hat-trick-de-moscardo-e-vence-no-paulista-sub-17",
-      "time": "22/08 · 16:06",
-      "pubDate": "Sat, 22 Aug 2026 13:06:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Vice do Corinthians responde indireta de Memphis em clipe: &#8220;Rapper contratado para jogar bola&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/vice-do-corinthians-responde-indireta-de-memphis-em-clipe-rapper-contratado-para-jogar-bola/",
-      "time": "22/08 · 15:47",
-      "pubDate": "Sat, 22 Aug 2026 15:47:08 +0000"
+      "title": "Corinthians está escalado para enfrentar o Internacional pela última rodada do Brasileiro Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538522/corinthians-esta-escalado-para-enfrentar-o-internacional-pela-ultima-rodada-do-brasileiro-feminino",
+      "time": "22/08 · 20:02",
+      "pubDate": "Sat, 22 Aug 2026 17:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra jejum de mais de dois anos sem vencer argentinos na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538466/corinthians-encerra-jejum-de-mais-de-dois-anos-sem-vencer-argentinos-na-neo-quimica-arena",
-      "time": "22/08 · 15:36",
-      "pubDate": "Sat, 22 Aug 2026 12:36:00 -0300"
+      "title": "Dupla do Corinthians participa de vitória da Seleção Brasileira Sub-15 sobre o Uruguai",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538544/dupla-do-corinthians-participa-de-vitoria-da-selecao-brasileira-sub-15-sobre-o-uruguai",
+      "time": "22/08 · 19:49",
+      "pubDate": "Sat, 22 Aug 2026 16:49:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Presidente dos Gaviões da Fiel fala sobre protestos da torcida contra a diretoria do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129272/presidente-dos-gavioes-da-fiel-fala-sobre-protestos-da-torcida-contra-a-diretoria-do-corinthians",
-      "time": "22/08 · 15:13",
-      "pubDate": "Sat, 22 Aug 2026 12:13:00 -0300"
+      "title": "Corinthians busca evitar série de derrotas contra o Coritiba que não acontece há 23 anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538486/corinthians-busca-evitar-serie-de-derrotas-contra-o-coritiba-que-nao-acontece-ha-23-anos",
+      "time": "22/08 · 19:32",
+      "pubDate": "Sat, 22 Aug 2026 16:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcida do Corinthians faz forte protesto contra diretoria e conselheiros no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538527/torcida-do-corinthians-faz-forte-protesto-contra-diretoria-e-conselheiros-no-parque-sao-jorge",
-      "time": "22/08 · 15:01",
-      "pubDate": "Sat, 22 Aug 2026 12:01:00 -0300"
+      "title": "Corinthians cobra esclarecimentos de Memphis após videoclipe com referências ao clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538545/corinthians-cobra-esclarecimentos-de-memphis-apos-videoclipe-com-referencias-ao-clube",
+      "time": "22/08 · 19:01",
+      "pubDate": "Sat, 22 Aug 2026 16:01:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Coritiba x Corinthians: onde assistir ao jogo pela 24ª rodada do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/coritiba-x-corinthians-onde-assistir-ao-jogo-pela-24a-rodada-do-brasileirao/",
-      "time": "22/08 · 10:00",
-      "pubDate": "Sat, 22 Aug 2026 10:00:20 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: A torcida do Corinthians tem algo que não cabe em nenhuma apresentação de sala",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-a-torcida-do-corinthians-tem-algo-que-nao-cabe-em-nenhuma-apresentacao-de-sala]]>",
+      "time": "22/08 · 15:38",
+      "pubDate": "Sat, 22 Aug 2026 12:38:26 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Conheça joia do futsal do Corinthians testada no campo a pedido de Diniz",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/conheca-joia-do-futsal-do-corinthians-testada-no-campo-a-pedido-de-diniz/",
-      "time": "22/08 · 09:00",
-      "pubDate": "Sat, 22 Aug 2026 09:00:37 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Coritiba x Corinthians: onde assistir ao vivo, horário e prováveis escalações do Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/coritiba-x-corinthians-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-do-brasileirao]]>",
+      "time": "22/08 · 13:12",
+      "pubDate": "Sat, 22 Aug 2026 10:12:02 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Novo clipe de Memphis tem sede do Corinthians em chamas e indireta a vice",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/novo-clipe-de-memphis-tem-sede-do-corinthians-em-chamas-e-indireta-a-vice/",
-      "time": "22/08 · 00:38",
-      "pubDate": "Sat, 22 Aug 2026 00:38:49 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não deve contratar na janela e prioriza acerto de dívidas para reforçar o caixa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-deve-contratar-na-janela-e-prioriza-acerto-de-dividas-para-reforcar-o-caixa]]>",
+      "time": "22/08 · 12:35",
+      "pubDate": "Sat, 22 Aug 2026 09:35:58 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz aprova Maicon do futsal do Corinthians e ala pode reforçar equipe",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-aprova-maicon-do-futsal-do-corinthians-e-ala-pode-reforcar-equipe]]>",
+      "time": "22/08 · 12:15",
+      "pubDate": "Sat, 22 Aug 2026 09:15:22 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,38 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-debate-expulsao-de-raniele-em-rosario-x-corinthians-pela-libertadores]]>",
       "time": "21/08 · 23:37",
       "pubDate": "Fri, 21 Aug 2026 20:37:27 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Internacional: veja onde assistir à partida pelo Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-internacional-veja-onde-assistir-a-partida-pelo-brasileiro-feminino/",
-      "time": "21/08 · 23:00",
-      "pubDate": "Fri, 21 Aug 2026 23:00:34 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Titulares fazem regenerativo e Corinthians treina com jovens da base de olho no Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/titulares-fazem-regenerativo-e-corinthians-treina-com-jovens-da-base-de-olho-no-coritiba/",
-      "time": "21/08 · 22:08",
-      "pubDate": "Fri, 21 Aug 2026 22:08:41 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz aprova Maicon do futsal do Corinthians e ala pode reforçar equipe",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-aprova-maicon-do-futsal-do-corinthians-e-ala-pode-reforcar-equipe]]>",
-      "time": "21/08 · 21:04",
-      "pubDate": "Fri, 21 Aug 2026 18:04:36 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians resolve impasse e pode ter Memphis contra o Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-resolve-impasse-e-pode-ter-memphis-contra-o-coritiba/",
-      "time": "21/08 · 20:55",
-      "pubDate": "Fri, 21 Aug 2026 20:55:35 +0000"
     },
     {
       "source": "Bolavip",
@@ -171,34 +131,86 @@ const LIVE_DATA = {
       "pubDate": "Fri, 21 Aug 2026 12:51:31 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz minimiza expulsão no Corinthians e rende-se ao talento de Memphis",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-minimiza-expulsao-no-corinthians-e-rende-se-ao-talento-de-memphis]]>",
-      "time": "21/08 · 11:15",
-      "pubDate": "Fri, 21 Aug 2026 08:15:35 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Di Maria se abala com queda para o Corinthians e fala em aposentadoria: “Tenho que pensar”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/di-maria-se-abala-com-queda-para-o-corinthians-e-fala-em-aposentadoria-tenho-que-pensar]]>",
-      "time": "21/08 · 04:50",
-      "pubDate": "Fri, 21 Aug 2026 01:50:56 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Bidon marca e Corinthians e se classifica na Libertadores contra Rosario Central com um a menos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/bidon-marca-e-corinthians-e-se-classifica-na-libertadores-contra-rosario-central-com-um-a-menos]]>",
-      "time": "21/08 · 03:11",
-      "pubDate": "Fri, 21 Aug 2026 00:11:32 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Corinthians desembarca em Curitiba para enfrentar o Coritiba no Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129283/corinthians-desembarca-em-curitiba-para-enfrentar-o-coritiba-no-campeonato-brasileiro-2026",
+      "pubDate": "Sat, 22 Aug 2026 18:18:22 -0300",
+      "date": "22/08 · 21:18"
+    },
+    {
+      "title": "Corinthians cobra esclarecimentos de Memphis após videoclipe com referências ao clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538545/corinthians-cobra-esclarecimentos-de-memphis-apos-videoclipe-com-referencias-ao-clube",
+      "pubDate": "Sat, 22 Aug 2026 16:01:00 -0300",
+      "date": "22/08 · 19:01"
+    },
     {
       "title": "VÍDEO: Veja provável escalação do Corinthians contra o Coritiba pelo Campeonato Brasileiro 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129278/veja-provavel-escalacao-do-corinthians-contra-o-coritiba-pelo-campeonato-brasileiro-2026",
