@@ -1,7 +1,55 @@
-// Gerado automaticamente em 24/08/2026, 18:20:10
+// Gerado automaticamente em 24/08/2026, 22:12:25
 const LIVE_DATA = {
-  "updatedAt": "2026-08-24T18:20:10.114Z",
+  "updatedAt": "2026-08-24T22:12:25.536Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz aponta injustiça em derrotas do Corinthians e lamenta pelos atletas perdidos por lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538647/diniz-aponta-injustica-em-derrotas-do-corinthians-e-lamenta-pelos-atletas-perdidos-por-lesao",
+      "time": "24/08 · 21:30",
+      "pubDate": "Mon, 24 Aug 2026 18:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vive expectativa por retorno de Yuri Alberto diante do Santos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538696/corinthians-vive-expectativa-por-retorno-de-yuri-alberto-diante-do-santos",
+      "time": "24/08 · 21:23",
+      "pubDate": "Mon, 24 Aug 2026 18:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogador do Corinthians volta a participar de gol após quatro anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538640/jogador-do-corinthians-volta-a-participar-de-gol-apos-quatro-anos",
+      "time": "24/08 · 20:31",
+      "pubDate": "Mon, 24 Aug 2026 17:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians valoriza período na Seleção e prega foco no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538694/meia-do-corinthians-valoriza-periodo-na-selecao-e-prega-foco-no-brasileiro-sub-17",
+      "time": "24/08 · 19:49",
+      "pubDate": "Mon, 24 Aug 2026 16:49:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Duda Sampaio admite oscilação do Corinthians e projeta mata-mata do Brasileirão contra o Cruzeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538583/duda-sampaio-admite-oscilacao-do-corinthians-e-projeta-mata-mata-do-brasileirao-contra-o-cruzeiro",
+      "time": "24/08 · 19:29",
+      "pubDate": "Mon, 24 Aug 2026 16:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Laterais reservas voltam a atuar juntos pelo Corinthians após quase três meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538627/laterais-reservas-voltam-a-atuar-juntos-pelo-corinthians-apos-quase-tres-meses",
+      "time": "24/08 · 18:31",
+      "pubDate": "Mon, 24 Aug 2026 15:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,52 +67,20 @@ const LIVE_DATA = {
       "pubDate": "Mon, 24 Aug 2026 13:34:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians pede Neo Química Arena e projeta quartas do Brasileirão contra o Cruzeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538582/tecnica-do-corinthians-pede-neo-quimica-arena-e-projeta-quartas-do-brasileirao-contra-o-cruzeiro",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz cita problema psicológico e sérias falhas táticas determinantes para a derrota do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-cita-problema-psicologico-e-serias-falhas-taticas-determinantes-para-a-derrota-do-corinthians]]>",
       "time": "24/08 · 15:32",
-      "pubDate": "Mon, 24 Aug 2026 12:32:00 -0300"
+      "pubDate": "Mon, 24 Aug 2026 12:32:22 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral emprestado pelo Corinthians completa dez partidas sem ser relacionado no Equador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538676/lateral-emprestado-pelo-corinthians-completa-dez-partidas-sem-ser-relacionado-no-equador",
-      "time": "24/08 · 15:02",
-      "pubDate": "Mon, 24 Aug 2026 12:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a sequenciar derrotas no Campeonato Brasileiro após quatro meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538616/corinthians-volta-a-sequenciar-derrotas-no-campeonato-brasileiro-apos-quatro-meses",
-      "time": "24/08 · 14:31",
-      "pubDate": "Mon, 24 Aug 2026 11:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante entra na última semana de contrato com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538675/atacante-entra-na-ultima-semana-de-contrato-com-o-corinthians",
-      "time": "24/08 · 14:08",
-      "pubDate": "Mon, 24 Aug 2026 11:08:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Promotor relembra investigações em curso contra gestões do Corinthians e critica pedido de suspeição",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538607/promotor-relembra-investigacoes-em-curso-contra-gestoes-do-corinthians-e-critica-pedido-de-suspeicao",
-      "time": "24/08 · 13:30",
-      "pubDate": "Mon, 24 Aug 2026 10:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encara semana de decisões para Brabas, clássico no futsal e duelo com o Santos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538671/corinthians-encara-semana-de-decisoes-para-brabas-classico-no-futsal-e-duelo-com-o-santos",
-      "time": "24/08 · 12:31",
-      "pubDate": "Mon, 24 Aug 2026 09:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gisele Robledo vive impasse em renovação e crise coloca seu futuro no Corinthians em xeque",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gisele-robledo-vive-impasse-em-renovacao-e-crise-coloca-seu-futuro-no-corinthians-em-xeque]]>",
+      "time": "24/08 · 15:03",
+      "pubDate": "Mon, 24 Aug 2026 12:03:42 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,54 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-promete-quitar-direitos-de-imagem-de-julho-nesta-segunda-feira-apos-atraso]]>",
       "time": "24/08 · 12:18",
       "pubDate": "Mon, 24 Aug 2026 09:18:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz cita problema psicológico e sérias falhas táticas determinantes para a derrota do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-cita-problema-psicologico-e-serias-falhas-taticas-determinantes-para-a-derrota-do-corinthians]]>",
-      "time": "24/08 · 11:35",
-      "pubDate": "Mon, 24 Aug 2026 08:35:13 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá semana livre antes de clássico pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-semana-livre-antes-de-classico-pelo-brasileirao/",
-      "time": "24/08 · 10:00",
-      "pubDate": "Mon, 24 Aug 2026 10:00:47 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Corinthians sofre com desfalques e cria pouco na derrota para o Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-sofre-com-desfalques-e-cria-pouco-na-derrota-para-o-coritiba/",
-      "time": "24/08 · 09:00",
-      "pubDate": "Mon, 24 Aug 2026 09:00:55 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações do Corinthians: Veja quem decepcionou e quem se salvou na derrota para o Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-decepcionou-e-quem-se-salvou-na-derrota-para-o-coritiba/",
-      "time": "24/08 · 08:00",
-      "pubDate": "Mon, 24 Aug 2026 08:00:38 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Coritiba 2 x 1 Corinthians pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-coritiba-2-x-1-corinthians-pelo-brasileirao/",
-      "time": "24/08 · 01:50",
-      "pubDate": "Mon, 24 Aug 2026 01:50:03 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz valoriza atuação do Corinthians e lamenta gols &#8220;evitáveis&#8221; contra o Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-valoriza-atuacao-do-corinthians-e-lamenta-gols-evitaveis-contra-o-coritiba/",
-      "time": "24/08 · 01:42",
-      "pubDate": "Mon, 24 Aug 2026 01:42:37 +0000"
     },
     {
       "source": "Bolavip",
@@ -137,30 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/mudancas-de-fernando-diniz-nao-causam-efeito-e-corinthians-perde-para-o-coritiba-no-brasileirao]]>",
       "time": "24/08 · 01:23",
       "pubDate": "Sun, 23 Aug 2026 22:23:58 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Coritiba x Corinthians: veja fotos do jogo pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/coritiba-x-corinthians-veja-fotos-do-jogo-pelo-brasileirao/",
-      "time": "24/08 · 01:23",
-      "pubDate": "Mon, 24 Aug 2026 01:23:04 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Raniele cobra Corinthians após derrota e descarta desgaste: “Não pode ser desculpa”",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/raniele-cobra-corinthians-apos-derrota-e-descarta-desgaste-nao-pode-ser-desculpa/",
-      "time": "24/08 · 00:52",
-      "pubDate": "Mon, 24 Aug 2026 00:52:43 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Bidon leva terceiro amarelo e desfalca o Corinthians em clássico pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/bidon-leva-terceiro-amarelo-e-desfalca-o-corinthians-em-classico-pelo-brasileirao/",
-      "time": "24/08 · 00:34",
-      "pubDate": "Mon, 24 Aug 2026 00:34:49 +0000"
     },
     {
       "source": "Bolavip",
@@ -187,18 +131,80 @@ const LIVE_DATA = {
       "pubDate": "Sun, 23 Aug 2026 11:07:47 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians não pode confundir raça com precipitação e desespero na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-confundir-raca-com-precipitacao-e-desespero-na-libertadores]]>",
-      "time": "22/08 · 22:59",
-      "pubDate": "Sat, 22 Aug 2026 19:59:21 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Jogador do Corinthians volta a participar de gol após quatro anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538640/jogador-do-corinthians-volta-a-participar-de-gol-apos-quatro-anos",
+      "pubDate": "Mon, 24 Aug 2026 17:31:00 -0300",
+      "date": "24/08 · 20:31"
+    },
     {
       "title": "VÍDEO: Entrevista coletiva de Fernando Diniz | Coritiba 2x1 Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129299/entrevista-coletiva-de-fernando-diniz-coritiba-2x1-corinthians",
