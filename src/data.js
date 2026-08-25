@@ -1,30 +1,102 @@
-// Gerado automaticamente em 25/08/2026, 18:19:42
+// Gerado automaticamente em 25/08/2026, 22:12:18
 const LIVE_DATA = {
-  "updatedAt": "2026-08-25T18:19:42.598Z",
+  "updatedAt": "2026-08-25T22:12:18.469Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra fase invicta como visitante em derrota para o Coritiba no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538674/corinthians-encerra-fase-invicta-como-visitante-em-derrota-para-o-coritiba-no-brasileirao",
-      "time": "25/08 · 17:29",
-      "pubDate": "Tue, 25 Aug 2026 14:29:00 -0300"
+      "title": "Volante iguala maior número de gols em uma temporada na carreira e busca recorde no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538673/volante-iguala-maior-numero-de-gols-em-uma-temporada-na-carreira-e-busca-recorde-no-corinthians",
+      "time": "25/08 · 21:28",
+      "pubDate": "Tue, 25 Aug 2026 18:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians Feminino mostram insatisfação com atrasos e descaso da diretoria",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538731/jogadoras-do-corinthians-feminino-mostram-insatisfacao-com-atrasos-e-descaso-da-diretoria",
-      "time": "25/08 · 17:04",
-      "pubDate": "Tue, 25 Aug 2026 14:04:00 -0300"
+      "title": "Justiça suspende novamente Assembleia Geral para votação da reforma do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538750/justica-suspende-novamente-assembleia-geral-para-votacao-da-reforma-do-estatuto-do-corinthians",
+      "time": "25/08 · 21:26",
+      "pubDate": "Tue, 25 Aug 2026 18:26:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians bate América-MG fora de casa e volta a vencer pelo Brasileiro sub-17",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-america-mg-fora-de-casa-e-volta-a-vencer-pelo-brasileiro-sub-17/",
+      "time": "25/08 · 21:21",
+      "pubDate": "Tue, 25 Aug 2026 21:21:48 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogador holandês destaca impacto de Memphis no Brasil e celebra renovação com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538726/jogador-holandes-destaca-impacto-de-memphis-no-brasil-e-celebra-renovacao-com-o-corinthians",
-      "time": "25/08 · 17:02",
-      "pubDate": "Tue, 25 Aug 2026 14:02:00 -0300"
+      "title": "Corinthians abre negociações para renovar contrato de artilheiro do Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538738/corinthians-abre-negociacoes-para-renovar-contrato-de-artilheiro-do-sub-17",
+      "time": "25/08 · 21:12",
+      "pubDate": "Tue, 25 Aug 2026 18:12:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogadoras do Corinthians se reúnem no Parque São Jorge para cobrar atrasos de pagamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538749/jogadoras-do-corinthians-se-reunem-no-parque-sao-jorge-para-cobrar-atrasos-de-pagamento",
+      "time": "25/08 · 21:05",
+      "pubDate": "Tue, 25 Aug 2026 18:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lulinha relembra convivência com Ronaldo durante temporada vitoriosa no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538684/lulinha-relembra-convivencia-com-ronaldo-durante-temporada-vitoriosa-no-corinthians",
+      "time": "25/08 · 20:28",
+      "pubDate": "Tue, 25 Aug 2026 17:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians triunfa sobre o América Mineiro e volta a vencer no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538697/corinthians-triunfa-sobre-o-america-mineiro-e-volta-a-vencer-no-brasileiro-sub-17",
+      "time": "25/08 · 20:10",
+      "pubDate": "Tue, 25 Aug 2026 17:10:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Santos: veja preços e como comprar ingressos para o clássico",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-santos-veja-precos-e-como-comprar-ingressos-para-o-classico-2/",
+      "time": "25/08 · 19:56",
+      "pubDate": "Tue, 25 Aug 2026 19:56:24 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians divulga venda de ingressos para clássico contra o Santos pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538743/corinthians-divulga-venda-de-ingressos-para-classico-contra-o-santos-pelo-brasileirao",
+      "time": "25/08 · 19:53",
+      "pubDate": "Tue, 25 Aug 2026 16:53:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra pior desempenho ofensivo na primeira fase do Brasileirão Feminino desde 2022",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538695/corinthians-registra-pior-desempenho-ofensivo-na-primeira-fase-do-brasileirao-feminino-desde-2022",
+      "time": "25/08 · 19:32",
+      "pubDate": "Tue, 25 Aug 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "OPINIÃO: Corinthians precisa quitar transfer bans e contratar novo centroavante com dinheiro de André",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-quitar-transfer-bans-e-contratar-novo-centroavante-com-dinheiro-de-andre]]>",
+      "time": "25/08 · 18:03",
+      "pubDate": "Tue, 25 Aug 2026 15:03:20 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians precisa vender para sobreviver, mas corre o risco de enfraquecer o próprio time",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-vender-para-sobreviver-mas-corre-o-risco-de-enfraquecer-o-proprio-time]]>",
+      "time": "25/08 · 17:18",
+      "pubDate": "Tue, 25 Aug 2026 14:18:15 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,14 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 25 Aug 2026 16:48:01 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Raniele comenta dificuldades do Corinthians como visitante e cobra mais eficiência do ataque",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538656/raniele-comenta-dificuldades-do-corinthians-como-visitante-e-cobra-mais-eficiencia-do-ataque",
-      "time": "25/08 · 16:31",
-      "pubDate": "Tue, 25 Aug 2026 13:31:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Marcelo Paz revela que El Shaarawy e Bakayoko foram oferecidos ao Corinthians",
@@ -51,44 +115,20 @@ const LIVE_DATA = {
       "pubDate": "Tue, 25 Aug 2026 16:05:46 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Marcelo Paz minimiza atritos e garante clima amigável de Memphis no Corinthians após polêmicas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538719/marcelo-paz-minimiza-atritos-e-garante-clima-amigavel-entre-memphis-e-corinthians-apos-polemicas",
-      "time": "25/08 · 16:01",
-      "pubDate": "Tue, 25 Aug 2026 13:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca evitar sequência negativa que não acontece desde 2024 no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538692/sub-17-do-corinthians-busca-evitar-sequencia-negativa-que-nao-acontece-desde-2024",
-      "time": "25/08 · 15:28",
-      "pubDate": "Tue, 25 Aug 2026 12:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica retorno de Pedro Milans e detalha improvisação de Raniele na lateral",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538651/tecnico-do-corinthians-explica-retorno-de-pedro-milans-e-detalha-improvisacao-de-raniele-na-lateral",
-      "time": "25/08 · 15:09",
-      "pubDate": "Tue, 25 Aug 2026 12:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aplica multa a Memphis Depay após repercussão de videoclipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538718/corinthians-aplica-multa-a-memphis-depay-apos-repercussao-de-videoclipe",
-      "time": "25/08 · 14:24",
-      "pubDate": "Tue, 25 Aug 2026 11:24:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Situação de Yuri Alberto exige cautela e Corinthians marca data do retorno do atacante",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/situacao-de-yuri-alberto-exige-cautela-e-corinthians-marca-data-do-retorno-do-atacante]]>",
-      "time": "25/08 · 11:38",
-      "pubDate": "Tue, 25 Aug 2026 08:38:48 -0300"
+      "time": "25/08 · 15:49",
+      "pubDate": "Tue, 25 Aug 2026 12:49:44 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recebe proposta oficial do Nottingham Forest por André e negocia venda do volante",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-proposta-oficial-do-nottingham-forest-por-andre-e-negocia-venda-do-volante]]>",
+      "time": "25/08 · 14:59",
+      "pubDate": "Tue, 25 Aug 2026 11:59:02 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -149,56 +189,22 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Diniz cita problema psicológico e sérias falhas táticas determinantes para a derrota do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-cita-problema-psicologico-e-serias-falhas-taticas-determinantes-para-a-derrota-do-corinthians]]>",
-      "time": "24/08 · 15:32",
-      "pubDate": "Mon, 24 Aug 2026 12:32:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Gisele Robledo vive impasse em renovação e crise coloca seu futuro no Corinthians em xeque",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gisele-robledo-vive-impasse-em-renovacao-e-crise-coloca-seu-futuro-no-corinthians-em-xeque]]>",
       "time": "24/08 · 15:03",
       "pubDate": "Mon, 24 Aug 2026 12:03:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians promete quitar direitos de imagem de julho nesta segunda-feira após atraso",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-promete-quitar-direitos-de-imagem-de-julho-nesta-segunda-feira-apos-atraso]]>",
-      "time": "24/08 · 12:18",
-      "pubDate": "Mon, 24 Aug 2026 09:18:48 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá semana livre antes de clássico pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-semana-livre-antes-de-classico-pelo-brasileirao/",
-      "time": "24/08 · 10:00",
-      "pubDate": "Mon, 24 Aug 2026 10:00:47 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Corinthians sofre com desfalques e cria pouco na derrota para o Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-sofre-com-desfalques-e-cria-pouco-na-derrota-para-o-coritiba/",
-      "time": "24/08 · 09:00",
-      "pubDate": "Mon, 24 Aug 2026 09:00:55 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Chega de Pedro Raul de titular no Corinthians, Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-chega-de-pedro-raul-de-titular-no-corinthians-fernando-diniz]]>",
-      "time": "24/08 · 01:39",
-      "pubDate": "Sun, 23 Aug 2026 22:39:25 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Volante iguala maior número de gols em uma temporada na carreira e busca recorde no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538673/volante-iguala-maior-numero-de-gols-em-uma-temporada-na-carreira-e-busca-recorde-no-corinthians",
+      "pubDate": "Tue, 25 Aug 2026 18:28:00 -0300",
+      "date": "25/08 · 21:28"
+    },
     {
       "title": "Corinthians aplica multa a Memphis Depay após repercussão de videoclipe",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538718/corinthians-aplica-multa-a-memphis-depay-apos-repercussao-de-videoclipe",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129321/meu-timao-visita-lulinha-meia-atacante-e-maior-promessa-do-corinthians",
       "pubDate": "Tue, 25 Aug 2026 10:13:00 -0300",
       "date": "25/08 · 13:13"
-    },
-    {
-      "title": "Jogador do Corinthians volta a participar de gol após quatro anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538640/jogador-do-corinthians-volta-a-participar-de-gol-apos-quatro-anos",
-      "pubDate": "Mon, 24 Aug 2026 17:31:00 -0300",
-      "date": "24/08 · 20:31"
     }
   ]
 };
