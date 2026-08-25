@@ -1,7 +1,23 @@
-// Gerado automaticamente em 25/08/2026, 08:25:59
+// Gerado automaticamente em 25/08/2026, 12:20:23
 const LIVE_DATA = {
-  "updatedAt": "2026-08-25T08:25:59.406Z",
+  "updatedAt": "2026-08-25T12:20:23.949Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o América Mineiro em busca de voltar a vencer no Brasileiro Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538687/corinthians-visita-o-america-mineiro-em-busca-de-voltar-a-vencer-no-brasileiro-sub-17-saiba-tudo",
+      "time": "25/08 · 11:30",
+      "pubDate": "Tue, 25 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: esperança com Yuri, holandês extraclasse e contrato no fim",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538704/ultimas-do-corinthians-esperanca-com-yuri-holandes-extraclasse-e-contrato-no-fim",
+      "time": "25/08 · 10:30",
+      "pubDate": "Tue, 25 Aug 2026 07:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -51,28 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 24 Aug 2026 20:28:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians iguala maior sequência como titular na temporada após seis meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538638/volante-do-corinthians-iguala-maior-sequencia-como-titular-na-temporada-apos-seis-meses",
-      "time": "24/08 · 22:36",
-      "pubDate": "Mon, 24 Aug 2026 19:36:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Presidente do Cuiabá chama Corinthians de “caloteiro” ao criticar dívidas de clubes",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-cuiaba-chama-corinthians-de-caloteiro-ao-criticar-dividas-de-clubes]]>",
       "time": "24/08 · 21:58",
       "pubDate": "Mon, 24 Aug 2026 18:58:49 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz aponta injustiça em derrotas do Corinthians e lamenta pelos atletas perdidos por lesão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538647/diniz-aponta-injustica-em-derrotas-do-corinthians-e-lamenta-pelos-atletas-perdidos-por-lesao",
-      "time": "24/08 · 21:30",
-      "pubDate": "Mon, 24 Aug 2026 18:30:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -210,12 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129299/entrevista-coletiva-de-fernando-diniz-coritiba-2x1-corinthians",
       "pubDate": "Sun, 23 Aug 2026 23:13:56 -0300",
       "date": "24/08 · 02:13"
-    },
-    {
-      "title": "VÍDEO: Dificuldades do jogo e foco na Libertadores: Zona mista Raniele | Coritiba 2x1 Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129298/dificuldades-do-jogo-e-foco-na-libertadores-zona-mista-raniele-coritiba-2x1-corinthians",
-      "pubDate": "Sun, 23 Aug 2026 23:12:08 -0300",
-      "date": "24/08 · 02:12"
     }
   ]
 };
