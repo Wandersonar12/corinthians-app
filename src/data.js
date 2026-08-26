@@ -1,62 +1,78 @@
-// Gerado automaticamente em 26/08/2026, 12:21:57
+// Gerado automaticamente em 26/08/2026, 19:27:18
 const LIVE_DATA = {
-  "updatedAt": "2026-08-26T12:21:57.511Z",
+  "updatedAt": "2026-08-26T19:27:18.492Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Taubaté pelo Paulista Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538735/saiba-onde-assistir-a-partida-entre-corinthians-e-taubate-pelo-paulista-feminino",
-      "time": "26/08 · 11:30",
-      "pubDate": "Wed, 26 Aug 2026 08:30:00 -0300"
+      "title": "Corinthians dá fim a jejum e evita pior marca negativa no Brasileirão Sub-17 desde 2024",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538745/corinthians-da-fim-a-jejum-e-evita-pior-marca-negativa-desde-2024",
+      "time": "26/08 · 18:29",
+      "pubDate": "Wed, 26 Aug 2026 15:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: proposta por volante, dupla internacional e punição de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538760/ultimas-do-corinthians-proposta-por-volante-dupla-internacional-e-punicao-de-memphis",
-      "time": "26/08 · 10:30",
-      "pubDate": "Wed, 26 Aug 2026 07:30:00 -0300"
+      "title": "Saiba o que o Corinthians precisa para avançar direto à semifinal do Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538770/saiba-o-que-o-corinthians-precisa-para-avancar-direto-a-semifinal-do-paulistao-feminino",
+      "time": "26/08 · 17:30",
+      "pubDate": "Wed, 26 Aug 2026 14:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Taubaté pela última rodada do Paulistão Feminino; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538734/corinthians-enfrenta-o-taubate-pela-ultima-rodada-do-paulistao-feminino-saiba-tudo",
-      "time": "26/08 · 03:01",
-      "pubDate": "Wed, 26 Aug 2026 00:01:00 -0300"
+      "title": "Hugo Souza volta a treinar sem restrições e deve reforçar Corinthians contra o Santos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538779/hugo-souza-volta-a-treinar-sem-restricoes-e-deve-reforcar-corinthians-contra-o-santos",
+      "time": "26/08 · 16:15",
+      "pubDate": "Wed, 26 Aug 2026 13:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Confira o possível caminho do Corinthians para o bicampeonato da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538761/confira-o-possivel-caminho-do-corinthians-para-o-bicampeonato-da-libertadores",
-      "time": "26/08 · 02:24",
-      "pubDate": "Tue, 25 Aug 2026 23:24:00 -0300"
+      "title": "Corinthians parabeniza Palmeiras pelos 112 anos de história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538777/corinthians-parabeniza-palmeiras-pelos-112-anos-de-historia",
+      "time": "26/08 · 16:01",
+      "pubDate": "Wed, 26 Aug 2026 13:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca evitar marca negativa que não vive há quase oito anos; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538679/corinthians-busca-evitar-marca-negativa-que-nao-vive-ha-quase-oito-anos-saiba-qual",
-      "time": "26/08 · 01:30",
-      "pubDate": "Tue, 25 Aug 2026 22:30:00 -0300"
+      "title": "Yuri Alberto inicia transição física e já realiza trabalhos com o grupo no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538775/yuri-alberto-inicia-transicao-fisica-e-ja-realiza-trabalhos-com-o-grupo-no-corinthians",
+      "time": "26/08 · 15:26",
+      "pubDate": "Wed, 26 Aug 2026 12:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece datas e horários das quartas de final do Brasileiro Feminino; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538759/corinthians-conhece-datas-e-horarios-das-quartas-de-final-do-brasileiro-feminino-confira",
-      "time": "26/08 · 01:16",
-      "pubDate": "Tue, 25 Aug 2026 22:16:00 -0300"
+      "title": "Lulinha relembra chegada ao Corinthians e pressão de ser tratado como grande promessa do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538683/lulinha-relembra-chegada-ao-corinthians-e-pressao-de-ser-tratado-como-grande-promessa-do-clube",
+      "time": "26/08 · 14:31",
+      "pubDate": "Wed, 26 Aug 2026 11:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Matheuzinho comemora marca de 150 jogos pelo Corinthians e fala sobre sonhos na carreira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538710/matheuzinho-comemora-marca-de-150-jogos-pelo-corinthians-e-fala-sobre-sonhos-na-carreira",
-      "time": "26/08 · 00:32",
-      "pubDate": "Tue, 25 Aug 2026 21:32:00 -0300"
+      "title": "Emily Lima perde respaldo, e Corinthians avalia troca no comando técnico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538768/emily-lima-perde-respaldo-e-corinthians-avalia-troca-no-comando-tecnico",
+      "time": "26/08 · 13:28",
+      "pubDate": "Wed, 26 Aug 2026 10:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Bauru  em busca de encostar na liderança do Paulista de Basquete; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538733/corinthians-recebe-o-bauru-em-busca-de-encostar-na-lideranca-do-paulista-de-basquete-saiba-tudo",
+      "time": "26/08 · 12:32",
+      "pubDate": "Wed, 26 Aug 2026 09:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians monitora Hugo Souza após dores e define cautela antes do clássico com Santos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-hugo-souza-apos-dores-e-define-cautela-antes-do-classico-com-santos]]>",
+      "time": "26/08 · 11:35",
+      "pubDate": "Wed, 26 Aug 2026 08:35:31 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/influenciador-ambiente-andre-prejudica-corinthians]]>",
       "time": "25/08 · 23:53",
       "pubDate": "Tue, 25 Aug 2026 20:53:38 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encara maior pausa da temporada desde a parada para a Copa do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538691/corinthians-encara-maior-pausa-da-temporada-desde-a-parada-para-a-copa-do-mundo",
-      "time": "25/08 · 23:33",
-      "pubDate": "Tue, 25 Aug 2026 20:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-cuiaba-chama-corinthians-de-caloteiro-ao-criticar-dividas-de-clubes]]>",
       "time": "24/08 · 21:58",
       "pubDate": "Mon, 24 Aug 2026 18:58:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians sofre com elenco fraco e precisa urgentemente resolver transfer bans para contratar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-sofre-com-elenco-fraco-e-precisa-urgentemente-resolver-transfer-bans-para-contratar]]>",
-      "time": "24/08 · 21:10",
-      "pubDate": "Mon, 24 Aug 2026 18:10:20 -0300"
     },
     {
       "source": "Gazeta Esportiva",
