@@ -1,22 +1,94 @@
-// Gerado automaticamente em 25/08/2026, 22:12:18
+// Gerado automaticamente em 26/08/2026, 08:26:54
 const LIVE_DATA = {
-  "updatedAt": "2026-08-25T22:12:18.469Z",
+  "updatedAt": "2026-08-26T08:26:54.014Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante iguala maior número de gols em uma temporada na carreira e busca recorde no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538673/volante-iguala-maior-numero-de-gols-em-uma-temporada-na-carreira-e-busca-recorde-no-corinthians",
-      "time": "25/08 · 21:28",
-      "pubDate": "Tue, 25 Aug 2026 18:28:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians já admite venda de André; saiba o que falta",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-ja-admite-venda-de-andre-saiba-o-que-falta/",
+      "time": "26/08 · 08:00",
+      "pubDate": "Wed, 26 Aug 2026 08:00:27 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Justiça suspende novamente Assembleia Geral para votação da reforma do Estatuto do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538750/justica-suspende-novamente-assembleia-geral-para-votacao-da-reforma-do-estatuto-do-corinthians",
-      "time": "25/08 · 21:26",
-      "pubDate": "Tue, 25 Aug 2026 18:26:00 -0300"
+      "title": "Corinthians enfrenta o Taubaté pela última rodada do Paulistão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538734/corinthians-enfrenta-o-taubate-pela-ultima-rodada-do-paulistao-feminino-saiba-tudo",
+      "time": "26/08 · 03:01",
+      "pubDate": "Wed, 26 Aug 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Confira o poss��vel caminho do Corinthians para o bicampeonato da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538761/confira-o-possivel-caminho-do-corinthians-para-o-bicampeonato-da-libertadores",
+      "time": "26/08 · 02:24",
+      "pubDate": "Tue, 25 Aug 2026 23:24:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca evitar marca negativa que não vive há quase oito anos; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538679/corinthians-busca-evitar-marca-negativa-que-nao-vive-ha-quase-oito-anos-saiba-qual",
+      "time": "26/08 · 01:30",
+      "pubDate": "Tue, 25 Aug 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece datas e horários das quartas de final do Brasileiro Feminino; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538759/corinthians-conhece-datas-e-horarios-das-quartas-de-final-do-brasileiro-feminino-confira",
+      "time": "26/08 · 01:16",
+      "pubDate": "Tue, 25 Aug 2026 22:16:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Matheuzinho comemora marca de 150 jogos pelo Corinthians e fala sobre sonhos na carreira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538710/matheuzinho-comemora-marca-de-150-jogos-pelo-corinthians-e-fala-sobre-sonhos-na-carreira",
+      "time": "26/08 · 00:32",
+      "pubDate": "Tue, 25 Aug 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encara maior pausa da temporada desde a parada para a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538691/corinthians-encara-maior-pausa-da-temporada-desde-a-parada-para-a-copa-do-mundo",
+      "time": "25/08 · 23:33",
+      "pubDate": "Tue, 25 Aug 2026 20:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians projeta última rodada do Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538755/atacante-do-corinthians-projeta-ultima-rodada-do-paulista-feminino",
+      "time": "25/08 · 23:16",
+      "pubDate": "Tue, 25 Aug 2026 20:16:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala se despede do Corinthians Basquete após duas temporadas; veja a postagem",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538753/ala-se-despede-do-corinthians-basquete-apos-duas-temporadas-veja-a-postagem",
+      "time": "25/08 · 23:02",
+      "pubDate": "Tue, 25 Aug 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Taubaté pelo Paulistão F: veja prováveis escalações e onde assistir",
+      "url": "https://www.gazetaesportiva.com/futebol-feminino/corinthians-x-taubate-onde-assistir-paulista-feminino/",
+      "time": "25/08 · 23:00",
+      "pubDate": "Tue, 25 Aug 2026 23:00:47 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Green Hell da torcida do Coxa na vitória sobre o Corinthians; veja imagens de drone",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/green-hell-da-torcida-do-coxa-na-vitoria-sobre-o-corinthians-veja-imagens-de-drone/",
+      "time": "25/08 · 22:58",
+      "pubDate": "Tue, 25 Aug 2026 22:58:11 +0000"
     },
     {
       "source": "Gazeta Esportiva",
@@ -27,38 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 25 Aug 2026 21:21:48 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre negociações para renovar contrato de artilheiro do Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538738/corinthians-abre-negociacoes-para-renovar-contrato-de-artilheiro-do-sub-17",
-      "time": "25/08 · 21:12",
-      "pubDate": "Tue, 25 Aug 2026 18:12:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jogadoras do Corinthians se reúnem no Parque São Jorge para cobrar atrasos de pagamento",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538749/jogadoras-do-corinthians-se-reunem-no-parque-sao-jorge-para-cobrar-atrasos-de-pagamento",
-      "time": "25/08 · 21:05",
-      "pubDate": "Tue, 25 Aug 2026 18:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lulinha relembra convivência com Ronaldo durante temporada vitoriosa no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538684/lulinha-relembra-convivencia-com-ronaldo-durante-temporada-vitoriosa-no-corinthians",
-      "time": "25/08 · 20:28",
-      "pubDate": "Tue, 25 Aug 2026 17:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians triunfa sobre o América Mineiro e volta a vencer no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538697/corinthians-triunfa-sobre-o-america-mineiro-e-volta-a-vencer-no-brasileiro-sub-17",
-      "time": "25/08 · 20:10",
-      "pubDate": "Tue, 25 Aug 2026 17:10:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians x Santos: veja preços e como comprar ingressos para o clássico",
@@ -67,28 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 25 Aug 2026 19:56:24 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga venda de ingressos para clássico contra o Santos pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538743/corinthians-divulga-venda-de-ingressos-para-classico-contra-o-santos-pelo-brasileirao",
-      "time": "25/08 · 19:53",
-      "pubDate": "Tue, 25 Aug 2026 16:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra pior desempenho ofensivo na primeira fase do Brasileirão Feminino desde 2022",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538695/corinthians-registra-pior-desempenho-ofensivo-na-primeira-fase-do-brasileirao-feminino-desde-2022",
-      "time": "25/08 · 19:32",
-      "pubDate": "Tue, 25 Aug 2026 16:32:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "OPINIÃO: Corinthians precisa quitar transfer bans e contratar novo centroavante com dinheiro de André",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-quitar-transfer-bans-e-contratar-novo-centroavante-com-dinheiro-de-andre]]>",
-      "time": "25/08 · 18:03",
-      "pubDate": "Tue, 25 Aug 2026 15:03:20 -0300"
+      "time": "25/08 · 19:08",
+      "pubDate": "Tue, 25 Aug 2026 16:08:08 -0300"
     },
     {
       "source": "Bolavip",
@@ -139,14 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 25 Aug 2026 10:00:35 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "América-MG x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/america-mg-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-17/",
-      "time": "24/08 · 23:00",
-      "pubDate": "Mon, 24 Aug 2026 23:00:05 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Presidente do Cuiabá chama Corinthians de “caloteiro” ao criticar dívidas de clubes",
@@ -163,28 +179,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 24 Aug 2026 18:10:20 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz analisa encaixe no Corinthians com Memphis e retorno de Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/diniz-analisa-encaixe-no-corinthians-com-memphis-e-retorno-de-yuri-alberto/",
-      "time": "24/08 · 19:15",
-      "pubDate": "Mon, 24 Aug 2026 19:15:32 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "OPINIÃO: Corinthians de Fernando Diniz é obrigado a vencer Santos e Chapecoense no Campeonato Brasileiro",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-de-fernando-diniz-e-obrigado-a-vencer-santos-e-chapecoense-no-campeonato-brasileiro]]>",
       "time": "24/08 · 19:00",
       "pubDate": "Mon, 24 Aug 2026 16:00:52 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá dois dias de folga após derrota para o Coritiba",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-dois-dias-de-folga-apos-derrota-para-o-coritiba/",
-      "time": "24/08 · 18:57",
-      "pubDate": "Mon, 24 Aug 2026 18:57:13 +0000"
     },
     {
       "source": "Bolavip",
@@ -200,22 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Elenco do futebol feminino vai ao Parque São Jorge em meio a atraso de pagamentos",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129330/elenco-do-futebol-feminino-vai-ao-parque-sao-jorge-em-meio-a-atraso-de-pagamentos",
+      "pubDate": "Tue, 25 Aug 2026 20:19:00 -0300",
+      "date": "25/08 · 23:19"
+    },
+    {
       "title": "Volante iguala maior número de gols em uma temporada na carreira e busca recorde no Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538673/volante-iguala-maior-numero-de-gols-em-uma-temporada-na-carreira-e-busca-recorde-no-corinthians",
       "pubDate": "Tue, 25 Aug 2026 18:28:00 -0300",
       "date": "25/08 · 21:28"
-    },
-    {
-      "title": "Corinthians aplica multa a Memphis Depay após repercussão de videoclipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538718/corinthians-aplica-multa-a-memphis-depay-apos-repercussao-de-videoclipe",
-      "pubDate": "Tue, 25 Aug 2026 11:24:00 -0300",
-      "date": "25/08 · 14:24"
-    },
-    {
-      "title": "VÍDEO: Meu Timão visita: Lulinha, meia-atacante e maior promessa do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129321/meu-timao-visita-lulinha-meia-atacante-e-maior-promessa-do-corinthians",
-      "pubDate": "Tue, 25 Aug 2026 10:13:00 -0300",
-      "date": "25/08 · 13:13"
     }
   ]
 };
