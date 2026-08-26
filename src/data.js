@@ -1,14 +1,22 @@
-// Gerado automaticamente em 26/08/2026, 08:26:54
+// Gerado automaticamente em 26/08/2026, 12:21:57
 const LIVE_DATA = {
-  "updatedAt": "2026-08-26T08:26:54.014Z",
+  "updatedAt": "2026-08-26T12:21:57.511Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians já admite venda de André; saiba o que falta",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-ja-admite-venda-de-andre-saiba-o-que-falta/",
-      "time": "26/08 · 08:00",
-      "pubDate": "Wed, 26 Aug 2026 08:00:27 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Taubaté pelo Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538735/saiba-onde-assistir-a-partida-entre-corinthians-e-taubate-pelo-paulista-feminino",
+      "time": "26/08 · 11:30",
+      "pubDate": "Wed, 26 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: proposta por volante, dupla internacional e punição de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538760/ultimas-do-corinthians-proposta-por-volante-dupla-internacional-e-punicao-de-memphis",
+      "time": "26/08 · 10:30",
+      "pubDate": "Wed, 26 Aug 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -21,7 +29,7 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Confira o poss��vel caminho do Corinthians para o bicampeonato da Libertadores",
+      "title": "Confira o possível caminho do Corinthians para o bicampeonato da Libertadores",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538761/confira-o-possivel-caminho-do-corinthians-para-o-bicampeonato-da-libertadores",
       "time": "26/08 · 02:24",
       "pubDate": "Tue, 25 Aug 2026 23:24:00 -0300"
@@ -51,60 +59,28 @@ const LIVE_DATA = {
       "pubDate": "Tue, 25 Aug 2026 21:32:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Comentaristas defendem postura de Memphis Depay no Corinthians e citam Neymar",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-comentaristas-defendem-postura-de-memphis-depay-no-corinthians-e-citam-neymar]]>",
+      "time": "26/08 · 00:07",
+      "pubDate": "Tue, 25 Aug 2026 21:07:33 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Influenciador não vê ambiente para André se desenvolver no Corinthians em meio à possível venda",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/influenciador-ambiente-andre-prejudica-corinthians]]>",
+      "time": "25/08 · 23:53",
+      "pubDate": "Tue, 25 Aug 2026 20:53:38 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians encara maior pausa da temporada desde a parada para a Copa do Mundo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538691/corinthians-encara-maior-pausa-da-temporada-desde-a-parada-para-a-copa-do-mundo",
       "time": "25/08 · 23:33",
       "pubDate": "Tue, 25 Aug 2026 20:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians projeta última rodada do Paulista Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538755/atacante-do-corinthians-projeta-ultima-rodada-do-paulista-feminino",
-      "time": "25/08 · 23:16",
-      "pubDate": "Tue, 25 Aug 2026 20:16:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala se despede do Corinthians Basquete após duas temporadas; veja a postagem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538753/ala-se-despede-do-corinthians-basquete-apos-duas-temporadas-veja-a-postagem",
-      "time": "25/08 · 23:02",
-      "pubDate": "Tue, 25 Aug 2026 20:02:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Taubaté pelo Paulistão F: veja prováveis escalações e onde assistir",
-      "url": "https://www.gazetaesportiva.com/futebol-feminino/corinthians-x-taubate-onde-assistir-paulista-feminino/",
-      "time": "25/08 · 23:00",
-      "pubDate": "Tue, 25 Aug 2026 23:00:47 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Green Hell da torcida do Coxa na vitória sobre o Corinthians; veja imagens de drone",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/green-hell-da-torcida-do-coxa-na-vitoria-sobre-o-corinthians-veja-imagens-de-drone/",
-      "time": "25/08 · 22:58",
-      "pubDate": "Tue, 25 Aug 2026 22:58:11 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians bate América-MG fora de casa e volta a vencer pelo Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-america-mg-fora-de-casa-e-volta-a-vencer-pelo-brasileiro-sub-17/",
-      "time": "25/08 · 21:21",
-      "pubDate": "Tue, 25 Aug 2026 21:21:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Santos: veja preços e como comprar ingressos para o clássico",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-santos-veja-precos-e-como-comprar-ingressos-para-o-classico-2/",
-      "time": "25/08 · 19:56",
-      "pubDate": "Tue, 25 Aug 2026 19:56:24 +0000"
     },
     {
       "source": "Bolavip",
@@ -123,22 +99,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 25 Aug 2026 14:18:15 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians negocia venda de André ao Nottingham Forest; veja detalhes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-negocia-venda-de-andre-ao-nottingham-forest-veja-detalhes/",
-      "time": "25/08 · 16:48",
-      "pubDate": "Tue, 25 Aug 2026 16:48:01 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Marcelo Paz revela que El Shaarawy e Bakayoko foram oferecidos ao Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/el-shaarawy-bakayoko-oferecidos-corinthians/",
-      "time": "25/08 · 16:05",
-      "pubDate": "Tue, 25 Aug 2026 16:05:46 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Situação de Yuri Alberto exige cautela e Corinthians marca data do retorno do atacante",
@@ -153,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-proposta-oficial-do-nottingham-forest-por-andre-e-negocia-venda-do-volante]]>",
       "time": "25/08 · 14:59",
       "pubDate": "Tue, 25 Aug 2026 11:59:02 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Entenda como Diniz planeja utilizar semana livre no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/entenda-como-diniz-planeja-utilizar-semana-livre-no-corinthians/",
-      "time": "25/08 · 10:00",
-      "pubDate": "Tue, 25 Aug 2026 10:00:35 +0000"
     },
     {
       "source": "Bolavip",
@@ -179,26 +131,80 @@ const LIVE_DATA = {
       "pubDate": "Mon, 24 Aug 2026 18:10:20 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "OPINIÃO: Corinthians de Fernando Diniz é obrigado a vencer Santos e Chapecoense no Campeonato Brasileiro",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-de-fernando-diniz-e-obrigado-a-vencer-santos-e-chapecoense-no-campeonato-brasileiro]]>",
-      "time": "24/08 · 19:00",
-      "pubDate": "Mon, 24 Aug 2026 16:00:52 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gisele Robledo vive impasse em renovação e crise coloca seu futuro no Corinthians em xeque",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gisele-robledo-vive-impasse-em-renovacao-e-crise-coloca-seu-futuro-no-corinthians-em-xeque]]>",
-      "time": "24/08 · 15:03",
-      "pubDate": "Mon, 24 Aug 2026 12:03:42 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Taubaté pelo Paulista Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538735/saiba-onde-assistir-a-partida-entre-corinthians-e-taubate-pelo-paulista-feminino",
+      "pubDate": "Wed, 26 Aug 2026 08:30:00 -0300",
+      "date": "26/08 · 11:30"
+    },
     {
       "title": "VÍDEO: Elenco do futebol feminino vai ao Parque São Jorge em meio a atraso de pagamentos",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129330/elenco-do-futebol-feminino-vai-ao-parque-sao-jorge-em-meio-a-atraso-de-pagamentos",
