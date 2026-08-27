@@ -1,70 +1,142 @@
-// Gerado automaticamente em 26/08/2026, 19:27:18
+// Gerado automaticamente em 27/08/2026, 02:18:17
 const LIVE_DATA = {
-  "updatedAt": "2026-08-26T19:27:18.492Z",
+  "updatedAt": "2026-08-27T02:18:17.305Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians dá fim a jejum e evita pior marca negativa no Brasileirão Sub-17 desde 2024",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538745/corinthians-da-fim-a-jejum-e-evita-pior-marca-negativa-desde-2024",
-      "time": "26/08 · 18:29",
-      "pubDate": "Wed, 26 Aug 2026 15:29:00 -0300"
+      "title": "VÍDEO: Vice-presidente do Corinthians destaca importância de reunião com a Safiel",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129355/vice-presidente-do-corinthians-destaca-importancia-de-reuniao-com-a-safiel",
+      "time": "27/08 · 02:05",
+      "pubDate": "Wed, 26 Aug 2026 23:05:01 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba o que o Corinthians precisa para avançar direto à semifinal do Paulistão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538770/saiba-o-que-o-corinthians-precisa-para-avancar-direto-a-semifinal-do-paulistao-feminino",
-      "time": "26/08 · 17:30",
-      "pubDate": "Wed, 26 Aug 2026 14:30:00 -0300"
+      "title": "VÍDEO: Safiel no Corinthians: representantes detalham reunião com diretoria do Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129354/safiel-no-corinthians-representantes-detalham-reuniao-com-diretoria-do-timao",
+      "time": "27/08 · 01:40",
+      "pubDate": "Wed, 26 Aug 2026 22:40:46 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Hugo Souza volta a treinar sem restrições e deve reforçar Corinthians contra o Santos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538779/hugo-souza-volta-a-treinar-sem-restricoes-e-deve-reforcar-corinthians-contra-o-santos",
-      "time": "26/08 · 16:15",
-      "pubDate": "Wed, 26 Aug 2026 13:15:00 -0300"
+      "title": "Técnico do Corinthians recebe homenagem em clube da Zona Leste de São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538781/tecnico-do-corinthians-recebe-homenagem-em-clube-da-zona-leste-de-sao-paulo",
+      "time": "27/08 · 01:30",
+      "pubDate": "Wed, 26 Aug 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians parabeniza Palmeiras pelos 112 anos de história",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538777/corinthians-parabeniza-palmeiras-pelos-112-anos-de-historia",
-      "time": "26/08 · 16:01",
-      "pubDate": "Wed, 26 Aug 2026 13:01:00 -0300"
+      "title": "Integrantes da SAFiel detalham reunião com diretoria do Corinthians no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538811/integrantes-da-safiel-detalham-reuniao-com-diretoria-do-corinthians-no-parque-sao-jorge",
+      "time": "27/08 · 01:13",
+      "pubDate": "Wed, 26 Aug 2026 22:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto inicia transição física e já realiza trabalhos com o grupo no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538775/yuri-alberto-inicia-transicao-fisica-e-ja-realiza-trabalhos-com-o-grupo-no-corinthians",
-      "time": "26/08 · 15:26",
-      "pubDate": "Wed, 26 Aug 2026 12:26:00 -0300"
+      "title": "Corinthians reage, vence o Bauru e fecha primeira fase do Paulista de Basquete em terceiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538809/corinthians-reage-vence-o-bauru-e-fecha-primeira-fase-do-paulista-de-basquete-em-terceiro",
+      "time": "27/08 · 01:04",
+      "pubDate": "Wed, 26 Aug 2026 22:04:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se reapresenta e Gustavo Henrique comenta tempo para treinos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-e-gustavo-henrique-comenta-tempo-para-treinos/",
+      "time": "27/08 · 01:02",
+      "pubDate": "Thu, 27 Aug 2026 01:02:12 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lulinha relembra chegada ao Corinthians e pressão de ser tratado como grande promessa do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538683/lulinha-relembra-chegada-ao-corinthians-e-pressao-de-ser-tratado-como-grande-promessa-do-clube",
-      "time": "26/08 · 14:31",
-      "pubDate": "Wed, 26 Aug 2026 11:31:00 -0300"
+      "title": "Jair Ventura recorda vice do Corinthians na Copa do Brasil e lamenta gol anulado de Pedrinho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538771/jair-ventura-recorda-vice-do-corinthians-na-copa-do-brasil-e-lamenta-gol-anulado-de-pedrinho",
+      "time": "27/08 · 00:33",
+      "pubDate": "Wed, 26 Aug 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Palmeiras avança às semifinais do Paulistão F; Corinthians, Santos e São Paulo vão ao play-in",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/palmeiras-avanca-as-semifinais-do-paulistao-f-corinthians-santos-e-sao-paulo-vao-ao-play-in/",
+      "time": "27/08 · 00:11",
+      "pubDate": "Thu, 27 Aug 2026 00:11:03 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Emily Lima perde respaldo, e Corinthians avalia troca no comando técnico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538768/emily-lima-perde-respaldo-e-corinthians-avalia-troca-no-comando-tecnico",
-      "time": "26/08 · 13:28",
-      "pubDate": "Wed, 26 Aug 2026 10:28:00 -0300"
+      "title": "Saiba quem será o adversário do Corinthians no mata-mata do Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538804/saiba-quem-sera-o-adversario-do-corinthians-no-mata-mata-do-paulistao-feminino",
+      "time": "26/08 · 23:44",
+      "pubDate": "Wed, 26 Aug 2026 20:44:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Bauru  em busca de encostar na liderança do Paulista de Basquete; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538733/corinthians-recebe-o-bauru-em-busca-de-encostar-na-lideranca-do-paulista-de-basquete-saiba-tudo",
-      "time": "26/08 · 12:32",
-      "pubDate": "Wed, 26 Aug 2026 09:32:00 -0300"
+      "title": "Corinthians fecha a primeira fase do Paulista Feminino com goleada sobre o Taubaté",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538790/corinthians-fecha-a-primeira-fase-do-paulista-feminino-com-goleada-sobre-o-taubate",
+      "time": "26/08 · 23:31",
+      "pubDate": "Wed, 26 Aug 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com André em campo, Corinthians abre preparação para clássico",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-andre-em-campo-corinthians-abre-preparacao-para-classico/",
+      "time": "26/08 · 21:21",
+      "pubDate": "Wed, 26 Aug 2026 21:21:25 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Yuri Alberto inicia transição e se aproxima de retorno no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-inicia-transicao-e-se-aproxima-de-retorno-no-corinthians/",
+      "time": "26/08 · 20:54",
+      "pubDate": "Wed, 26 Aug 2026 20:54:55 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do treino do Corinthians nesta quarta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quarta-feira-21/",
+      "time": "26/08 · 20:40",
+      "pubDate": "Wed, 26 Aug 2026 20:40:07 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Elenco feminino se reúne com presidente do Corinthians e cobra atrasados",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/elenco-feminino-se-reune-com-presidente-do-corinthians-e-cobra-atrasados/",
+      "time": "26/08 · 19:30",
+      "pubDate": "Wed, 26 Aug 2026 19:30:50 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians não pode nem sonhar em renovar com Lingard, Matheus Pereira, Allan e Vitinho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-nem-sonhar-em-renovar-com-lingard-matheus-pereira-allan-e-vitinho]]>",
+      "time": "26/08 · 19:25",
+      "pubDate": "Wed, 26 Aug 2026 16:25:57 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians e Flamengo parabenizam Palmeiras por 112 anos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-parabeniza-palmeiras-por-112-anos-maior-derby-do-mundo/",
+      "time": "26/08 · 18:38",
+      "pubDate": "Wed, 26 Aug 2026 18:38:57 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: O Corinthians precisa olhar para o futebol feminino com a mesma grandeza que elas deram ao clube",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-o-corinthians-precisa-olhar-para-o-futebol-feminino-com-a-mesma-grandeza-que-elas-deram-ao-clube]]>",
+      "time": "26/08 · 14:11",
+      "pubDate": "Wed, 26 Aug 2026 11:11:08 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,6 +145,14 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-hugo-souza-apos-dores-e-define-cautela-antes-do-classico-com-santos]]>",
       "time": "26/08 · 11:35",
       "pubDate": "Wed, 26 Aug 2026 08:35:31 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians já admite venda de André; saiba o que falta",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-ja-admite-venda-de-andre-saiba-o-que-falta/",
+      "time": "26/08 · 08:00",
+      "pubDate": "Wed, 26 Aug 2026 08:00:27 +0000"
     },
     {
       "source": "Bolavip",
@@ -109,90 +189,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Situação de Yuri Alberto exige cautela e Corinthians marca data do retorno do atacante",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/situacao-de-yuri-alberto-exige-cautela-e-corinthians-marca-data-do-retorno-do-atacante]]>",
-      "time": "25/08 · 15:49",
-      "pubDate": "Tue, 25 Aug 2026 12:49:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians recebe proposta oficial do Nottingham Forest por André e negocia venda do volante",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recebe-proposta-oficial-do-nottingham-forest-por-andre-e-negocia-venda-do-volante]]>",
       "time": "25/08 · 14:59",
       "pubDate": "Tue, 25 Aug 2026 11:59:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Presidente do Cuiabá chama Corinthians de “caloteiro” ao criticar dívidas de clubes",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/presidente-do-cuiaba-chama-corinthians-de-caloteiro-ao-criticar-dividas-de-clubes]]>",
-      "time": "24/08 · 21:58",
-      "pubDate": "Mon, 24 Aug 2026 18:58:49 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,22 +200,34 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Vice-presidente do Corinthians destaca importância de reunião com a Safiel",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129355/vice-presidente-do-corinthians-destaca-importancia-de-reuniao-com-a-safiel",
+      "pubDate": "Wed, 26 Aug 2026 23:05:01 -0300",
+      "date": "27/08 · 02:05"
+    },
+    {
+      "title": "VÍDEO: Safiel no Corinthians: representantes detalham reunião com diretoria do Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129354/safiel-no-corinthians-representantes-detalham-reuniao-com-diretoria-do-timao",
+      "pubDate": "Wed, 26 Aug 2026 22:40:46 -0300",
+      "date": "27/08 · 01:40"
+    },
+    {
+      "title": "Jair Ventura recorda vice do Corinthians na Copa do Brasil e lamenta gol anulado de Pedrinho",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538771/jair-ventura-recorda-vice-do-corinthians-na-copa-do-brasil-e-lamenta-gol-anulado-de-pedrinho",
+      "pubDate": "Wed, 26 Aug 2026 21:33:00 -0300",
+      "date": "27/08 · 00:33"
+    },
+    {
+      "title": "Corinthians fecha a primeira fase do Paulista Feminino com goleada sobre o Taubaté",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538790/corinthians-fecha-a-primeira-fase-do-paulista-feminino-com-goleada-sobre-o-taubate",
+      "pubDate": "Wed, 26 Aug 2026 20:31:00 -0300",
+      "date": "26/08 · 23:31"
+    },
+    {
       "title": "Saiba onde assistir à partida entre Corinthians e Taubaté pelo Paulista Feminino",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538735/saiba-onde-assistir-a-partida-entre-corinthians-e-taubate-pelo-paulista-feminino",
       "pubDate": "Wed, 26 Aug 2026 08:30:00 -0300",
       "date": "26/08 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Elenco do futebol feminino vai ao Parque São Jorge em meio a atraso de pagamentos",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129330/elenco-do-futebol-feminino-vai-ao-parque-sao-jorge-em-meio-a-atraso-de-pagamentos",
-      "pubDate": "Tue, 25 Aug 2026 20:19:00 -0300",
-      "date": "25/08 · 23:19"
-    },
-    {
-      "title": "Volante iguala maior número de gols em uma temporada na carreira e busca recorde no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538673/volante-iguala-maior-numero-de-gols-em-uma-temporada-na-carreira-e-busca-recorde-no-corinthians",
-      "pubDate": "Tue, 25 Aug 2026 18:28:00 -0300",
-      "date": "25/08 · 21:28"
     }
   ]
 };
