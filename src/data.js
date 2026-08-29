@@ -1,7 +1,47 @@
-// Gerado automaticamente em 29/08/2026, 03:24:34
+// Gerado automaticamente em 29/08/2026, 13:25:34
 const LIVE_DATA = {
-  "updatedAt": "2026-08-29T03:24:34.634Z",
+  "updatedAt": "2026-08-29T13:25:34.265Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians organiza agenda de renovações para setembro; volante pode abrir a fila",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538922/corinthians-organiza-agenda-de-renovacoes-para-setembro-volante-pode-abrir-a-fila",
+      "time": "29/08 · 12:30",
+      "pubDate": "Sat, 29 Aug 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Santa Fé para se isolar na liderança do Paulista Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538907/corinthians-recebe-o-santa-fe-para-se-isolar-na-lideranca-do-paulista-sub-17-saiba-tudo",
+      "time": "29/08 · 11:30",
+      "pubDate": "Sat, 29 Aug 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: ultimato por volante, desafio aceito por SAFiel e dúvida para o clássico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538928/ultimas-do-corinthians-ultimato-por-volante-desafio-aceito-por-safiel-e-duvida-para-o-classico",
+      "time": "29/08 · 10:30",
+      "pubDate": "Sat, 29 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Santos: saiba onde assistir ao duelo pela 25ª rodada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-santos-onde-assistir-brasileirao-2026/",
+      "time": "29/08 · 09:00",
+      "pubDate": "Sat, 29 Aug 2026 09:00:18 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians gasta quase R$ 1 milhão com departamento de receita zero e ignorado no orçamento",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-gasta-quase-r-1-milhao-com-departamento-de-receita-zero-e-ignorado-no-orcamento/",
+      "time": "29/08 · 08:00",
+      "pubDate": "Sat, 29 Aug 2026 08:00:08 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -13,10 +53,18 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians revela sondagem do Timão antes de renovar com clube do Catar",
+      "title": "Róger Guedes revela nova sondagem do Corinthians antes de renovar com clube no Catar",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538897/ex-atacante-do-corinthians-revela-sondagem-do-timao-antes-de-renovar-com-clube-do-catar",
       "time": "29/08 · 00:31",
       "pubDate": "Fri, 28 Aug 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Gil revela no podcast LivePorTi como recebeu a camisa 10 do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-gil-revela-no-podcast-liveporti-como-recebeu-a-camisa-10-do-corinthians]]>",
+      "time": "29/08 · 00:26",
+      "pubDate": "Fri, 28 Aug 2026 21:26:44 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,28 +91,20 @@ const LIVE_DATA = {
       "pubDate": "Fri, 28 Aug 2026 19:35:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilheiro do Corinthians no futsal explica adaptação ao futebol de campo após pedido de Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538889/artilheiro-do-corinthians-no-futsal-explica-adaptacao-ao-futebol-de-campo-apos-pedido-de-diniz",
-      "time": "28/08 · 21:32",
-      "pubDate": "Fri, 28 Aug 2026 18:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Roger Guedes confirma contato recebido por seu empresário de Osmar Stabile, presidente do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-confirma-contato-recebido-por-seu-empresario-de-osmar-stabile-presidente-do-corinthians]]>",
+      "time": "28/08 · 20:57",
+      "pubDate": "Fri, 28 Aug 2026 17:57:44 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "SAFiel aceita 'proposta' de presidente do Corinthians e promete construção de oferta para a Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538921/safiel-aceita-proposta-de-presidente-do-corinthians-e-promete-construcao-de-oferta-para-a-arena",
-      "time": "28/08 · 21:04",
-      "pubDate": "Fri, 28 Aug 2026 18:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral entra no top-10 de maiores goleadoras da história do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538833/lateral-entra-no-top-10-de-maiores-goleadoras-da-historia-do-corinthians",
-      "time": "28/08 · 21:01",
-      "pubDate": "Fri, 28 Aug 2026 18:01:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Yuri Alberto não vai a campo e vira dúvida no Corinthians para clássico",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-nao-vai-a-campo-e-vira-duvida-no-corinthians-para-classico/",
+      "time": "28/08 · 20:33",
+      "pubDate": "Fri, 28 Aug 2026 20:33:09 +0000"
     },
     {
       "source": "Bolavip",
@@ -75,12 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 28 Aug 2026 15:30:15 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Roger Guedes confirma contato recebido por seu empresário de Osmar Stabile, presidente do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-confirma-contato-recebido-por-seu-empresario-de-osmar-stabile-presidente-do-corinthians]]>",
-      "time": "28/08 · 17:01",
-      "pubDate": "Fri, 28 Aug 2026 14:01:08 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Presidente do Corinthians fala sobre clipe de Memphis e atualiza negociação por André",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/presidente-do-corinthians-fala-sobre-clipe-de-memphis-e-atualiza-negociacao-por-andre/",
+      "time": "28/08 · 18:01",
+      "pubDate": "Fri, 28 Aug 2026 18:01:44 +0000"
     },
     {
       "source": "Bolavip",
@@ -99,12 +139,44 @@ const LIVE_DATA = {
       "pubDate": "Fri, 28 Aug 2026 09:27:21 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode voltar a ser titular do Corinthians após mais de cinco meses",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-voltar-a-ser-titular-do-corinthians-apos-mais-de-cinco-meses/",
+      "time": "28/08 · 08:00",
+      "pubDate": "Fri, 28 Aug 2026 08:00:29 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Vídeo: Podcast aponta “cortina de fumaça” em postura do Corinthians sobre SAFiel",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-aponta-cortina-de-fumaca-em-postura-do-corinthians-sobre-safiel]]>",
       "time": "27/08 · 23:53",
       "pubDate": "Thu, 27 Aug 2026 20:53:12 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians encaminha empréstimo do jovem atacante Favela a clube europeu",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encaminha-emprestimo-do-jovem-atacante-favela-a-clube-europeu/",
+      "time": "27/08 · 22:35",
+      "pubDate": "Thu, 27 Aug 2026 22:35:27 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians e SAFiel têm reunião de quase 5 horas para debater projeto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-e-safiel-tem-reuniao-de-quase-5-horas-para-debater-projeto/",
+      "time": "27/08 · 21:50",
+      "pubDate": "Thu, 27 Aug 2026 21:50:30 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz tem ausências e esboça Corinthians para clássico com Memphis titular",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-tem-ausencia-de-dupla-e-esboca-corinthians-para-pegar-o-santos/",
+      "time": "27/08 · 19:40",
+      "pubDate": "Thu, 27 Aug 2026 19:40:59 +0000"
     },
     {
       "source": "Bolavip",
@@ -121,78 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-liveporti-indaga-se-diniz-poderia-fazer-andre-se-valorizar-com-mais-tempo-no-corinthians]]>",
       "time": "27/08 · 03:07",
       "pubDate": "Thu, 27 Aug 2026 00:07:52 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Matheuzinho é um dos destaques do Corinthians, mas precisa manter o foco e ter calma nas palavras",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-matheuzinho-e-um-dos-destaques-do-corinthians-mas-precisa-manter-o-foco-e-ter-calma-nas-palavras]]>",
-      "time": "26/08 · 22:46",
-      "pubDate": "Wed, 26 Aug 2026 19:46:40 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
