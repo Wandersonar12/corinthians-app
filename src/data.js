@@ -1,70 +1,102 @@
-// Gerado automaticamente em 29/08/2026, 20:03:21
+// Gerado automaticamente em 29/08/2026, 23:40:03
 const LIVE_DATA = {
-  "updatedAt": "2026-08-29T20:03:21.367Z",
+  "updatedAt": "2026-08-29T23:40:03.263Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Vice-presidente do Corinthians elabora documento com 105 questionamentos à SAFiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538964/vice-presidente-do-corinthians-elabora-documento-com-105-questionamentos-a-safiel",
-      "time": "29/08 · 19:32",
-      "pubDate": "Sat, 29 Aug 2026 16:32:00 -0300"
+      "title": "Ex-Filho do Terrão revela detalhes de passagem pelo Corinthians e briga com Tévez em treinamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538938/ex-filho-do-terrao-revela-detalhes-de-passagem-pelo-corinthians-e-briga-com-tevez-em-treinamento",
+      "time": "29/08 · 23:30",
+      "pubDate": "Sat, 29 Aug 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians destaca semana cheia antes de enfrentar o Santos e mira reação no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538965/lateral-do-corinthians-destaca-semana-cheia-antes-de-enfrentar-o-santos-e-mira-reacao-no-brasileirao",
-      "time": "29/08 · 19:26",
-      "pubDate": "Sat, 29 Aug 2026 16:26:00 -0300"
+      "title": "Corinthians busca vitória no clássico para melhorar desempenho como mandante no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538941/corinthians-busca-vitoria-no-classico-para-melhorar-desempenho-como-mandante-no-brasileirao",
+      "time": "29/08 · 22:35",
+      "pubDate": "Sat, 29 Aug 2026 19:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Carrillo desponta como preferido da torcida do Corinthians para substituir Bidon contra o Santos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538937/carrillo-desponta-como-preferido-da-torcida-do-corinthians-para-substituir-bidon-contra-o-santos",
-      "time": "29/08 · 19:00",
-      "pubDate": "Sat, 29 Aug 2026 16:00:00 -0300"
+      "title": "Memphis pode reencontrar vítima de seu único gol pelo Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538906/memphis-pode-reencontrar-vitima-de-seu-unico-gol-pelo-corinthians-em-2026",
+      "time": "29/08 · 22:02",
+      "pubDate": "Sat, 29 Aug 2026 19:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Artilheiro do Sub-20 é relacionado para clássico do Corinthians contra o Santos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538959/artilheiro-do-sub-20-e-relacionado-para-classico-do-corinthians-contra-o-santos",
-      "time": "29/08 · 18:38",
-      "pubDate": "Sat, 29 Aug 2026 15:38:00 -0300"
+      "title": "Presidente do Corinthians reafirma exigência à SAFiel e detalha condições para assinar acordo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538973/presidente-do-corinthians-reafirma-exigencia-a-safiel-e-detalha-condicoes-para-assinar-acordo",
+      "time": "29/08 · 21:51",
+      "pubDate": "Sat, 29 Aug 2026 18:51:55 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto fica fora de clássico do Corinthians contra o Santos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538957/yuri-alberto-fica-fora-de-classico-do-corinthians-contra-o-santos",
-      "time": "29/08 · 18:27",
-      "pubDate": "Sat, 29 Aug 2026 15:27:00 -0300"
+      "title": "Zagueiro do Corinthians exalta joias da base, destaca sequência na Libertadores e projeta clássico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538929/zagueiro-do-corinthians-exalta-joias-da-base-destaca-sequencia-na-libertadores-e-projeta-classico",
+      "time": "29/08 · 21:33",
+      "pubDate": "Sat, 29 Aug 2026 18:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "MP volta a arquivar inquérito sobre supostas ameaças a Romeu Tuma Júnior no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538956/mp-volta-a-arquivar-inquerito-sobre-supostas-ameacas-a-romeu-tuma-junior-no-corinthians",
-      "time": "29/08 · 18:21",
-      "pubDate": "Sat, 29 Aug 2026 15:21:22 -0300"
+      "title": "Lateral revela momentos difíceis na chegada ao Corinthians e cita incentivo de Diniz por Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538962/lateral-revela-momentos-dificeis-na-chegada-ao-corinthians-e-cita-incentivo-de-diniz-por-selecao",
+      "time": "29/08 · 21:02",
+      "pubDate": "Sat, 29 Aug 2026 18:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante da base deixa o Corinthians para assinar com time universitário dos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538953/atacante-da-base-deixa-o-corinthians-para-assinar-com-time-universitario-dos-eua",
-      "time": "29/08 · 17:31",
-      "pubDate": "Sat, 29 Aug 2026 14:31:00 -0300"
+      "title": "Corinthians faz treinamento defensivo de olho nas quartas de final do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538968/corinthians-faz-treinamento-defensivo-de-olho-nas-quartas-de-final-do-brasileirao-feminino",
+      "time": "29/08 · 20:33",
+      "pubDate": "Sat, 29 Aug 2026 17:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "CBF confirma presença de integrantes da Seleção Brasileira em clássico entre Corinthians e Santos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538950/cbf-confirma-presenca-de-integrantes-da-selecao-brasileira-em-classico-entre-corinthians-e-santos",
-      "time": "29/08 · 16:43",
-      "pubDate": "Sat, 29 Aug 2026 13:43:00 -0300"
+      "title": "Corinthians encerra preparação para encarar o Santos no Brasileirão; veja a provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538945/corinthians-encerra-preparacao-para-encarar-o-santos-no-brasileirao-veja-a-provavel-escalacao",
+      "time": "29/08 · 20:22",
+      "pubDate": "Sat, 29 Aug 2026 17:22:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Proibição no Corinthians de jogadores se envolverem em política fere a história do Timão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-proibicao-no-corinthians-de-jogadores-se-envolverem-em-politica-fere-a-historia-do-timao]]>",
+      "time": "29/08 · 19:53",
+      "pubDate": "Sat, 29 Aug 2026 16:53:59 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Yuri Alberto pode ser o ‘Wolverine’, mas o Corinthians precisa ter cautela",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-pode-ser-o-wolverine-mas-o-corinthians-precisa-ter-cautela]]>",
+      "time": "29/08 · 15:28",
+      "pubDate": "Sat, 29 Aug 2026 12:28:43 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians completa 100 dias de transfer ban e segue sem previsão de resolução",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-completa-100-dias-de-transfer-ban-e-segue-sem-previsao-de-resolucao]]>",
+      "time": "29/08 · 14:53",
+      "pubDate": "Sat, 29 Aug 2026 11:53:57 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians x Santos: onde assistir ao vivo, horário e escalações do Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-santos-onde-assistir-ao-vivo-horario-e-escalacoes-do-brasileirao]]>",
+      "time": "29/08 · 14:17",
+      "pubDate": "Sat, 29 Aug 2026 11:17:45 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-obrigacao-de-contratar-novo-centroavante-antes-de-vender-yuri-alberto]]>",
       "time": "28/08 · 18:30",
       "pubDate": "Fri, 28 Aug 2026 15:30:15 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Peça-chave de Emily Lima nas Brabas, Gisela Robledo renova com o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/peca-chave-de-emily-lima-nas-brabas-gisela-robledo-renova-com-o-corinthians]]>",
-      "time": "28/08 · 15:00",
-      "pubDate": "Fri, 28 Aug 2026 12:00:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians corre para quitar direitos de imagem atrasados e tenta antecipar receitas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-para-quitar-direitos-de-imagem-atrasados-e-tenta-antecipar-receitas]]>",
-      "time": "28/08 · 12:27",
-      "pubDate": "Fri, 28 Aug 2026 09:27:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Podcast aponta “cortina de fumaça” em postura do Corinthians sobre SAFiel",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-podcast-aponta-cortina-de-fumaca-em-postura-do-corinthians-sobre-safiel]]>",
-      "time": "27/08 · 23:53",
-      "pubDate": "Thu, 27 Aug 2026 20:53:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians sobe a meta e André tem valor detalhado para ser vendido ao Nottingham Forest",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sobe-a-meta-e-andre-tem-valor-detalhado-para-ser-vendido-ao-nottingham-forest]]>",
-      "time": "27/08 · 15:54",
-      "pubDate": "Thu, 27 Aug 2026 12:54:33 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,16 +200,22 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Memphis pode reencontrar vítima de seu único gol pelo Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538906/memphis-pode-reencontrar-vitima-de-seu-unico-gol-pelo-corinthians-em-2026",
+      "pubDate": "Sat, 29 Aug 2026 19:02:00 -0300",
+      "date": "29/08 · 22:02"
+    },
+    {
+      "title": "Lateral revela momentos difíceis na chegada ao Corinthians e cita incentivo de Diniz por Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538962/lateral-revela-momentos-dificeis-na-chegada-ao-corinthians-e-cita-incentivo-de-diniz-por-selecao",
+      "pubDate": "Sat, 29 Aug 2026 18:02:00 -0300",
+      "date": "29/08 · 21:02"
+    },
+    {
       "title": "Corinthians goleia o Santa Fé e mantém liderança do Paulistão Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538947/corinthians-goleia-o-santa-fe-e-mantem-lideranca-do-paulistao-sub-17",
       "pubDate": "Sat, 29 Aug 2026 12:42:00 -0300",
       "date": "29/08 · 15:42"
-    },
-    {
-      "title": "Lateral entra no top-10 de maiores goleadoras da história do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538833/lateral-entra-no-top-10-de-maiores-goleadoras-da-historia-do-corinthians",
-      "pubDate": "Fri, 28 Aug 2026 18:01:00 -0300",
-      "date": "28/08 · 21:01"
     }
   ]
 };
