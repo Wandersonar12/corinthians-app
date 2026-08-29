@@ -1,70 +1,102 @@
-// Gerado automaticamente em 28/08/2026, 19:39:36
+// Gerado automaticamente em 29/08/2026, 03:24:34
 const LIVE_DATA = {
-  "updatedAt": "2026-08-28T19:39:36.592Z",
+  "updatedAt": "2026-08-29T03:24:34.634Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Corinthians avalia retorno de Paola e justifica oscilação por falta de sequência em campo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538825/tecnica-do-corinthians-avalia-retorno-de-paola-e-justifica-oscilacao-por-falta-de-sequencia-em-campo",
-      "time": "28/08 · 19:01",
-      "pubDate": "Fri, 28 Aug 2026 16:01:00 -0300"
+      "title": "Lateral do Corinthians analisa mata-mata contra o Cruzeiro e faz apelo para jogar na Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538831/lateral-do-corinthians-analisa-mata-mata-contra-o-cruzeiro-e-faz-apelo-para-jogar-na-arena",
+      "time": "29/08 · 01:30",
+      "pubDate": "Fri, 28 Aug 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Nottingham Forest dá ultimato ao Corinthians por André Luiz e sinaliza valor da última oferta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538908/nottingham-forest-da-ultimato-ao-corinthians-por-andre-luiz-e-sinaliza-valor-da-ultima-oferta",
-      "time": "28/08 · 18:51",
-      "pubDate": "Fri, 28 Aug 2026 15:51:00 -0300"
+      "title": "Ex-atacante do Corinthians revela sondagem do Timão antes de renovar com clube do Catar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538897/ex-atacante-do-corinthians-revela-sondagem-do-timao-antes-de-renovar-com-clube-do-catar",
+      "time": "29/08 · 00:31",
+      "pubDate": "Fri, 28 Aug 2026 21:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Corinthians fala sobre possível venda de André, crise financeira e reunião com SAFiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538896/presidente-do-corinthians-fala-sobre-possivel-venda-de-andre-crise-financeira-e-reuniao-com-safiel",
-      "time": "28/08 · 18:34",
-      "pubDate": "Fri, 28 Aug 2026 15:34:00 -0300"
+      "title": "Corinthians homenageia Gabriel Paulista após comemoração com a Fiel na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538917/corinthians-homenageia-gabriel-paulista-apos-comemoracao-com-a-fiel-na-libertadores",
+      "time": "28/08 · 23:30",
+      "pubDate": "Fri, 28 Aug 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Corinthians expõe impasse sobre reeleição e nega acerto para manter Armando como vice",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538899/presidente-do-corinthians-expoe-impasse-sobre-reeleicao-e-nega-acerto-para-manter-armando-como-vice",
-      "time": "28/08 · 17:32",
-      "pubDate": "Fri, 28 Aug 2026 14:32:00 -0300"
+      "title": "Robledo celebra renovação com o Corinthians e projeta reta final da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538924/robledo-celebra-renovacao-com-o-corinthians-e-projeta-reta-final-da-temporada",
+      "time": "28/08 · 23:06",
+      "pubDate": "Fri, 28 Aug 2026 20:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Corinthians promete acertar parte dos atrasados com o elenco feminino nesta sexta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538898/presidente-do-corinthians-promete-acertar-parte-dos-atrasados-com-o-elenco-feminino-nesta-sexta",
-      "time": "28/08 · 16:57",
-      "pubDate": "Fri, 28 Aug 2026 13:57:00 -0300"
+      "title": "Técnica do Corinthians elogia dupla convocada para Mundial Sub-20 e prega cautela com o uso da base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538826/tecnica-do-corinthians-elogia-dupla-convocada-para-mundial-sub-20-e-prega-cautela-com-o-uso-da-base",
+      "time": "28/08 · 22:35",
+      "pubDate": "Fri, 28 Aug 2026 19:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é confirmado em Torneio Internacional Sub-17 nos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538883/corinthians-e-confirmando-em-torneio-internacional-sub-17-nos-estados-unidos",
-      "time": "28/08 · 16:31",
-      "pubDate": "Fri, 28 Aug 2026 13:31:00 -0300"
+      "title": "Artilheiro do Corinthians no futsal explica adaptação ao futebol de campo após pedido de Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538889/artilheiro-do-corinthians-no-futsal-explica-adaptacao-ao-futebol-de-campo-apos-pedido-de-diniz",
+      "time": "28/08 · 21:32",
+      "pubDate": "Fri, 28 Aug 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Corinthians esclarece bastidores da renovação de Memphis e aborda polêmica com clipe",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538894/presidente-do-corinthians-esclarece-bastidores-da-renovacao-de-memphis-e-aborda-polemica-com-clipe",
-      "time": "28/08 · 15:56",
-      "pubDate": "Fri, 28 Aug 2026 12:56:00 -0300"
+      "title": "SAFiel aceita 'proposta' de presidente do Corinthians e promete construção de oferta para a Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538921/safiel-aceita-proposta-de-presidente-do-corinthians-e-promete-construcao-de-oferta-para-a-arena",
+      "time": "28/08 · 21:04",
+      "pubDate": "Fri, 28 Aug 2026 18:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto vira dúvida no Corinthians para clássico contra o Santos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538901/yuri-alberto-vira-duvida-no-corinthians-para-classico-contra-o-santos",
-      "time": "28/08 · 15:35",
-      "pubDate": "Fri, 28 Aug 2026 12:35:00 -0300"
+      "title": "Lateral entra no top-10 de maiores goleadoras da história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538833/lateral-entra-no-top-10-de-maiores-goleadoras-da-historia-do-corinthians",
+      "time": "28/08 · 21:01",
+      "pubDate": "Fri, 28 Aug 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians tem obrigação de contratar novo centroavante antes de vender Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-obrigacao-de-contratar-novo-centroavante-antes-de-vender-yuri-alberto]]>",
+      "time": "28/08 · 18:30",
+      "pubDate": "Fri, 28 Aug 2026 15:30:15 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Roger Guedes confirma contato recebido por seu empresário de Osmar Stabile, presidente do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-confirma-contato-recebido-por-seu-empresario-de-osmar-stabile-presidente-do-corinthians]]>",
+      "time": "28/08 · 17:01",
+      "pubDate": "Fri, 28 Aug 2026 14:01:08 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Peça-chave de Emily Lima nas Brabas, Gisela Robledo renova com o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/peca-chave-de-emily-lima-nas-brabas-gisela-robledo-renova-com-o-corinthians]]>",
+      "time": "28/08 · 15:00",
+      "pubDate": "Fri, 28 Aug 2026 12:00:35 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians corre para quitar direitos de imagem atrasados e tenta antecipar receitas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-corre-para-quitar-direitos-de-imagem-atrasados-e-tenta-antecipar-receitas]]>",
+      "time": "28/08 · 12:27",
+      "pubDate": "Fri, 28 Aug 2026 09:27:21 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-matheuzinho-e-um-dos-destaques-do-corinthians-mas-precisa-manter-o-foco-e-ter-calma-nas-palavras]]>",
       "time": "26/08 · 22:46",
       "pubDate": "Wed, 26 Aug 2026 19:46:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians não pode nem sonhar em renovar com Lingard, Matheus Pereira, Allan e Vitinho",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-nem-sonhar-em-renovar-com-lingard-matheus-pereira-allan-e-vitinho]]>",
-      "time": "26/08 · 20:56",
-      "pubDate": "Wed, 26 Aug 2026 17:56:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: O Corinthians precisa olhar para o futebol feminino com a mesma grandeza que elas deram ao clube",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-o-corinthians-precisa-olhar-para-o-futebol-feminino-com-a-mesma-grandeza-que-elas-deram-ao-clube]]>",
-      "time": "26/08 · 14:11",
-      "pubDate": "Wed, 26 Aug 2026 11:11:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians monitora Hugo Souza após dores e define cautela antes do clássico com Santos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-monitora-hugo-souza-apos-dores-e-define-cautela-antes-do-classico-com-santos]]>",
-      "time": "26/08 · 11:35",
-      "pubDate": "Wed, 26 Aug 2026 08:35:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Comentaristas defendem postura de Memphis Depay no Corinthians e citam Neymar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-comentaristas-defendem-postura-de-memphis-depay-no-corinthians-e-citam-neymar]]>",
-      "time": "26/08 · 00:07",
-      "pubDate": "Tue, 25 Aug 2026 21:07:33 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,22 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Lateral entra no top-10 de maiores goleadoras da história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538833/lateral-entra-no-top-10-de-maiores-goleadoras-da-historia-do-corinthians",
+      "pubDate": "Fri, 28 Aug 2026 18:01:00 -0300",
+      "date": "28/08 · 21:01"
+    },
+    {
       "title": "Lateral defende trabalho de Emily Lima após goleada do Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538830/lateral-defende-trabalho-de-emily-lima-apos-goleada-do-corinthians",
       "pubDate": "Fri, 28 Aug 2026 10:32:00 -0300",
       "date": "28/08 · 13:32"
-    },
-    {
-      "title": "Goleada do Corinthians contra o Taubaté movimenta artilharia do feminino em 2026; confira lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538805/goleada-do-corinthians-contra-o-taubate-movimenta-artilharia-do-feminino-em-2026-confira-lista",
-      "pubDate": "Thu, 27 Aug 2026 22:30:00 -0300",
-      "date": "28/08 · 01:30"
-    },
-    {
-      "title": "Tamires celebra gol especial pelo Corinthians e pede foco para sequência do segundo semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538827/tamires-celebra-gol-especial-pelo-corinthians-e-pede-foco-para-sequencia-do-segundo-semestre",
-      "pubDate": "Thu, 27 Aug 2026 18:34:00 -0300",
-      "date": "27/08 · 21:34"
     }
   ]
 };
