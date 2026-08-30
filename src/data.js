@@ -1,70 +1,142 @@
-// Gerado automaticamente em 29/08/2026, 23:40:03
+// Gerado automaticamente em 30/08/2026, 13:21:50
 const LIVE_DATA = {
-  "updatedAt": "2026-08-29T23:40:03.263Z",
+  "updatedAt": "2026-08-30T13:21:50.438Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-Filho do Terrão revela detalhes de passagem pelo Corinthians e briga com Tévez em treinamento",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538938/ex-filho-do-terrao-revela-detalhes-de-passagem-pelo-corinthians-e-briga-com-tevez-em-treinamento",
-      "time": "29/08 · 23:30",
-      "pubDate": "Sat, 29 Aug 2026 20:30:00 -0300"
+      "title": "Corinthians tem sete desfalques e nove pendurados para clássico contra o Santos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538991/corinthians-tem-sete-desfalques-e-nove-pendurados-para-classico-contra-o-santos",
+      "time": "30/08 · 13:03",
+      "pubDate": "Sun, 30 Aug 2026 10:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca vitória no clássico para melhorar desempenho como mandante no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538941/corinthians-busca-vitoria-no-classico-para-melhorar-desempenho-como-mandante-no-brasileirao",
-      "time": "29/08 · 22:35",
-      "pubDate": "Sat, 29 Aug 2026 19:35:00 -0300"
+      "title": "[Ana Paula Araújo] Quando o Corinthians entra em conflito com a própria história",
+      "url": "https://www.meutimao.com.br/coluna/ana_paula_araujo/4250/quando-o-corinthians-entra-em-conflito-com-a-propria-historia/",
+      "time": "30/08 · 12:47",
+      "pubDate": "Sun, 30 Aug 2026 09:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Memphis pode reencontrar vítima de seu único gol pelo Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538906/memphis-pode-reencontrar-vitima-de-seu-unico-gol-pelo-corinthians-em-2026",
-      "time": "29/08 · 22:02",
-      "pubDate": "Sat, 29 Aug 2026 19:02:00 -0300"
+      "title": "Organizada do Corinthians prepara mosaico para clássico contra o Santos na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538990/organizada-do-corinthians-prepara-mosaico-para-classico-contra-o-santos-na-neo-quimica-arena",
+      "time": "30/08 · 12:37",
+      "pubDate": "Sun, 30 Aug 2026 09:37:05 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Corinthians reafirma exigência à SAFiel e detalha condições para assinar acordo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538973/presidente-do-corinthians-reafirma-exigencia-a-safiel-e-detalha-condicoes-para-assinar-acordo",
-      "time": "29/08 · 21:51",
-      "pubDate": "Sat, 29 Aug 2026 18:51:55 -0300"
+      "title": "Corinthians tem retrospecto positivo com árbitro escalado para clássico contra o Santos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538987/corinthians-tem-retrospecto-positivo-com-arbitro-escalado-para-classico-contra-o-santos",
+      "time": "30/08 · 11:59",
+      "pubDate": "Sun, 30 Aug 2026 08:59:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Relembre em fotos jogadores que já disputaram o clássico Corinthians x Santos",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/relembre-em-fotos-jogadores-que-ja-disputaram-o-classico-corinthians-x-santos/",
+      "time": "30/08 · 11:30",
+      "pubDate": "Sun, 30 Aug 2026 11:30:54 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians exalta joias da base, destaca sequência na Libertadores e projeta clássico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538929/zagueiro-do-corinthians-exalta-joias-da-base-destaca-sequencia-na-libertadores-e-projeta-classico",
-      "time": "29/08 · 21:33",
-      "pubDate": "Sat, 29 Aug 2026 18:33:00 -0300"
+      "title": "Saiba onde assistir à partida entre Corinthians e Santos pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538958/saiba-onde-assistir-a-partida-entre-corinthians-e-santos-pelo-brasileirao",
+      "time": "30/08 · 11:30",
+      "pubDate": "Sun, 30 Aug 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral revela momentos difíceis na chegada ao Corinthians e cita incentivo de Diniz por Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538962/lateral-revela-momentos-dificeis-na-chegada-ao-corinthians-e-cita-incentivo-de-diniz-por-selecao",
-      "time": "29/08 · 21:02",
-      "pubDate": "Sat, 29 Aug 2026 18:02:00 -0300"
+      "title": "Últimas do Corinthians: Yuri desfalque, agenda de renovações e provável escalação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538977/ultimas-do-corinthians-yuri-desfalque-agenda-de-renovacoes-e-provavel-escalacao",
+      "time": "30/08 · 10:30",
+      "pubDate": "Sun, 30 Aug 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Invicto em clássicos pelo Corinthians, Diniz revê Neymar após goleada e consolo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/invicto-em-classicos-pelo-corinthians-diniz-reve-neymar-apos-goleada-e-consolo/",
+      "time": "30/08 · 09:00",
+      "pubDate": "Sun, 30 Aug 2026 09:00:57 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians faz treinamento defensivo de olho nas quartas de final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538968/corinthians-faz-treinamento-defensivo-de-olho-nas-quartas-de-final-do-brasileirao-feminino",
-      "time": "29/08 · 20:33",
-      "pubDate": "Sat, 29 Aug 2026 17:33:00 -0300"
+      "title": "Corinthians recebe o Santos em busca de voltar a vencer no Brasileirão; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538955/corinthians-recebe-o-santos-em-busca-de-voltar-a-vencer-no-brasileirao-saiba-tudo",
+      "time": "30/08 · 03:01",
+      "pubDate": "Sun, 30 Aug 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para encarar o Santos no Brasileirão; veja a provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538945/corinthians-encerra-preparacao-para-encarar-o-santos-no-brasileirao-veja-a-provavel-escalacao",
-      "time": "29/08 · 20:22",
-      "pubDate": "Sat, 29 Aug 2026 17:22:00 -0300"
+      "title": "Artilheiros do Corinthians comentam vitória diante do Santa Fé pelo Paulistão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538948/artilheiros-do-corinthians-comentam-vitoria-diante-do-santa-fe-pelo-paulistao-sub-17",
+      "time": "30/08 · 01:30",
+      "pubDate": "Sat, 29 Aug 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians encerra preparação e Matheuzinho projeta clássico",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-e-matheuzinho-projeta-classico/",
+      "time": "30/08 · 00:22",
+      "pubDate": "Sun, 30 Aug 2026 00:22:04 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay deve voltar a ser titular e Diniz tem dúvida entre Carrillo e Lingard para Corinthians X Santos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-deve-voltar-a-ser-titular-e-diniz-tem-duvida-entre-carrillo-e-lingard-para-corinthians-x-santos]]>",
+      "time": "29/08 · 23:02",
+      "pubDate": "Sat, 29 Aug 2026 20:02:32 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Escalação: Corinthians não deve ter Yuri Alberto contra o Santos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacao-corinthians-nao-deve-ter-yuri-alberto-contra-o-santos/",
+      "time": "29/08 · 21:04",
+      "pubDate": "Sat, 29 Aug 2026 21:04:54 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheuzinho pede apoio da Fiel antes de Corinthians x Santos: “Para que a gente consiga a vitória”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-pede-apoio-da-fiel-antes-de-corinthians-x-santos-para-que-a-gente-consiga-a-vitoria]]>",
+      "time": "29/08 · 20:43",
+      "pubDate": "Sat, 29 Aug 2026 17:43:23 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Torcida do Corinthians protesta e pede &#8220;intervenção, já&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-do-corinthians-protesta-e-pede-intervencao-ja/",
+      "time": "29/08 · 20:24",
+      "pubDate": "Sat, 29 Aug 2026 20:24:50 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Torcida do Corinthians faz protesto no Parque São Jorge: &#8220;Luta por mudança&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-do-corinthians-faz-protesto-no-parque-sao-jorge-luta-por-mudanca/",
+      "time": "29/08 · 20:20",
+      "pubDate": "Sat, 29 Aug 2026 20:20:44 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Sócios do Corinthians protestam no Parque São Jorge e cobram Stabile",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/socios-do-corinthians-protestam-no-parque-sao-jorge-e-cobram-stabile/",
+      "time": "29/08 · 20:13",
+      "pubDate": "Sat, 29 Aug 2026 20:13:35 +0000"
     },
     {
       "source": "Bolavip",
@@ -73,6 +145,14 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-proibicao-no-corinthians-de-jogadores-se-envolverem-em-politica-fere-a-historia-do-timao]]>",
       "time": "29/08 · 19:53",
       "pubDate": "Sat, 29 Aug 2026 16:53:59 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Wladimir completa 72 anos: relembre cinco grandes jogos do lateral pelo Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/wladimir-completa-72-anos-relembre-cinco-grandes-jogos-do-lateral-pelo-corinthians/",
+      "time": "29/08 · 16:50",
+      "pubDate": "Sat, 29 Aug 2026 16:50:10 +0000"
     },
     {
       "source": "Bolavip",
@@ -113,92 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-gil-revela-no-podcast-liveporti-como-recebeu-a-camisa-10-do-corinthians]]>",
       "time": "29/08 · 00:26",
       "pubDate": "Fri, 28 Aug 2026 21:26:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Roger Guedes confirma contato recebido por seu empresário de Osmar Stabile, presidente do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/roger-guedes-confirma-contato-recebido-por-seu-empresario-de-osmar-stabile-presidente-do-corinthians]]>",
-      "time": "28/08 · 20:57",
-      "pubDate": "Fri, 28 Aug 2026 17:57:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians tem obrigação de contratar novo centroavante antes de vender Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-obrigacao-de-contratar-novo-centroavante-antes-de-vender-yuri-alberto]]>",
-      "time": "28/08 · 18:30",
-      "pubDate": "Fri, 28 Aug 2026 15:30:15 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Santos pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538958/saiba-onde-assistir-a-partida-entre-corinthians-e-santos-pelo-brasileirao",
+      "pubDate": "Sun, 30 Aug 2026 08:30:00 -0300",
+      "date": "30/08 · 11:30"
+    },
     {
       "title": "Memphis pode reencontrar vítima de seu único gol pelo Corinthians em 2026",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/538906/memphis-pode-reencontrar-vitima-de-seu-unico-gol-pelo-corinthians-em-2026",
