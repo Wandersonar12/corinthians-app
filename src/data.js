@@ -1,126 +1,94 @@
-// Gerado automaticamente em 30/08/2026, 23:58:09
+// Gerado automaticamente em 31/08/2026, 15:33:34
 const LIVE_DATA = {
-  "updatedAt": "2026-08-30T23:58:09.989Z",
+  "updatedAt": "2026-08-31T15:33:34.680Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Hugo Souza leva terceiro amarelo por reclamação e vira novo desfalque do Corinthians no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539071/hugo-souza-leva-terceiro-amarelo-por-reclamacao-e-vira-novo-desfalque-do-corinthians-no-brasileirao",
-      "time": "30/08 · 23:31",
-      "pubDate": "Sun, 30 Aug 2026 20:31:00 -0300"
+      "title": "Corinthians inicia venda de ingressos para duelo contra Ferroviária Pinda pelo Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539109/corinthians-inicia-venda-de-ingressos-para-duelo-contra-ferroviaria-pinda-pelo-paulista-de-futsal",
+      "time": "31/08 · 15:24",
+      "pubDate": "Mon, 31 Aug 2026 12:24:32 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians perde para o Santos pela primeira vez na Neo Química Arena pelo Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539033/corinthians-perde-para-o-santos-pela-primeira-vez-na-neo-quimica-arena-pelo-campeonato-brasileiro",
-      "time": "30/08 · 23:31",
-      "pubDate": "Sun, 30 Aug 2026 20:31:00 -0300"
+      "title": "Corinthians é punido pelo STJD por marketing indevido em jogo do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539104/corinthians-e-punido-pelo-stjd-por-marketing-indevido-em-jogo-do-brasileirao-feminino",
+      "time": "31/08 · 15:00",
+      "pubDate": "Mon, 31 Aug 2026 12:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Diniz pede paciência com garotos da base e detalha cuidados com desfalques no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539060/diniz-pede-paciencia-com-garotos-da-base-e-detalha-cuidados-com-desfalques-no-corinthians",
-      "time": "30/08 · 23:30",
-      "pubDate": "Sun, 30 Aug 2026 20:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz cobra mais intensidade do Corinthians e admite que derrota em clássico &#8220;pesa mais&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-cobra-mais-intensidade-do-corinthians-e-admite-que-derrota-em-classico-pesa-mais/",
-      "time": "30/08 · 23:13",
-      "pubDate": "Sun, 30 Aug 2026 23:13:26 +0000"
+      "title": "Corinthians lamenta 'agressividade' contra criança na Neo Química Arena após clássico com Santos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539100/corinthians-lamenta-agressividade-contra-crianca-na-neo-quimica-arena-apos-classico-com-santos",
+      "time": "31/08 · 14:38",
+      "pubDate": "Mon, 31 Aug 2026 11:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Entrevista coletiva de Fernando Diniz | Corinthians 0x1 Santos",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129405/entrevista-coletiva-de-fernando-diniz-corinthians-0x1-santos",
-      "time": "30/08 · 23:10",
-      "pubDate": "Sun, 30 Aug 2026 20:10:55 -0300"
+      "title": "Garro comenta conexão com Yuri Alberto e cobra busca por soluções no ataque do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539058/garro-comenta-conexao-com-yuri-alberto-e-cobra-busca-por-solucoes-no-ataque-do-corinthians",
+      "time": "31/08 · 14:27",
+      "pubDate": "Mon, 31 Aug 2026 11:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Gustavo Henrique comenta derrota do Corinthians em casa e fala da importância o Brasileirão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129402/gustavo-henrique-comenta-derrota-do-corinthians-em-casa-e-fala-da-importancia-o-brasileirao",
-      "time": "30/08 · 22:52",
-      "pubDate": "Sun, 30 Aug 2026 19:52:00 -0300"
+      "title": "Corinthians conhece tabela do primeiro turno do NBB 2026/27",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539097/corinthians-conhece-tabela-do-primeiro-turno-do-nbb-202627",
+      "time": "31/08 · 14:02",
+      "pubDate": "Mon, 31 Aug 2026 11:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Neymar presenteia torcedor mirim do Corinthians e exalta Fiel após clássico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539050/neymar-presenteia-torcedor-mirim-do-corinthians-e-exalta-fiel-apos-classico",
-      "time": "30/08 · 22:25",
-      "pubDate": "Sun, 30 Aug 2026 19:25:00 -0300"
+      "title": "Andressa Alves reforça o Corinthians em decisão contra o Cruzeiro pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539009/andressa-alves-reforca-o-corinthians-em-decisao-contra-o-cruzeiro-pelo-brasileirao-feminino",
+      "time": "31/08 · 13:31",
+      "pubDate": "Mon, 31 Aug 2026 10:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Garro lamenta derrota do Corinthians em casa, cita esquema tático e projeta Libertadores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129397/garro-lamenta-derrota-do-corinthians-em-casa-cita-esquema-tatico-e-projeta-libertadores",
-      "time": "30/08 · 22:20",
-      "pubDate": "Sun, 30 Aug 2026 19:20:25 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do clássico entre Corinthians e Santos pelo Brasileiro",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-do-classico-entre-corinthians-e-santos-pelo-brasileiro/",
-      "time": "30/08 · 22:07",
-      "pubDate": "Sun, 30 Aug 2026 22:07:50 +0000"
+      "title": "Corinthians entra na semana de aniversário com decisão no feminino e novo jogo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539090/corinthians-entra-na-semana-de-aniversario-com-decisao-no-feminino-e-novo-jogo-pelo-brasileirao",
+      "time": "31/08 · 12:31",
+      "pubDate": "Mon, 31 Aug 2026 09:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians volta a registrar marca negativa no Brasileirão que não acontecia desde 2018; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539032/corinthians-volta-a-registrar-marca-negativa-no-brasileirao-que-nao-acontecia-desde-2018-saiba-qual",
-      "time": "30/08 · 22:05",
-      "pubDate": "Sun, 30 Aug 2026 19:05:00 -0300"
+      "title": "Saiba onde assistir ao duelo entre Corinthians e Cruzeiro pelo mata-mata do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539005/saiba-onde-assistir-ao-duelo-entre-corinthians-e-cruzeiro-pelo-mata-mata-do-brasileirao-feminino",
+      "time": "31/08 · 12:00",
+      "pubDate": "Mon, 31 Aug 2026 09:00:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Garro lamenta derrota do Corinthians em clássico: &#8220;Não adianta falar&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-lamenta-derrota-do-corinthians-em-classico-nao-adianta-falar/",
-      "time": "30/08 · 21:43",
-      "pubDate": "Sun, 30 Aug 2026 21:43:51 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz não consegue impactar e Corinthians perde clássico para o Santos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-nao-consegue-impactar-e-corinthians-perde-classico-para-o-santos]]>",
+      "time": "30/08 · 22:01",
+      "pubDate": "Sun, 30 Aug 2026 19:01:54 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Corinthians 0 x 1 Santos pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-corinthians-0-x-1-santos-pelo-brasileirao/",
-      "time": "30/08 · 21:19",
-      "pubDate": "Sun, 30 Aug 2026 21:19:50 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Torcida prepara mosaico especial para clássico entre Corinthians e Santos na Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-prepara-mosaico-especial-para-classico-entre-corinthians-e-santos-na-neo-quimica-arena]]>",
+      "time": "30/08 · 21:16",
+      "pubDate": "Sun, 30 Aug 2026 18:16:54 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians perde Gabriel Paulista e Raniele por suspensão para jogo contra a Chape",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-gabriel-paulista-e-raniele-por-suspensao-para-jogo-contra-a-chape/",
-      "time": "30/08 · 21:06",
-      "pubDate": "Sun, 30 Aug 2026 21:06:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Neymar decisivo, Santos bate Corinthians e vence primeiro clássico no ano",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-santos-campeonato-brasileiro-30-08-2026/",
-      "time": "30/08 · 21:02",
-      "pubDate": "Sun, 30 Aug 2026 21:02:26 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá Memphis, e Neymar reforça o Santos; veja escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/escalacoes-corinthians-santos-brasileirao-30-08-2026/",
-      "time": "30/08 · 18:02",
-      "pubDate": "Sun, 30 Aug 2026 18:02:38 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians volta a pecar em finalizações e perde para o Santos na Neo Química Arena, por 1 a 0",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-volta-a-pecar-em-finalizacoes-e-perde-para-o-santos-na-neo-quimica-arena-por-1-a-0]]>",
+      "time": "30/08 · 21:05",
+      "pubDate": "Sun, 30 Aug 2026 18:05:51 -0300"
     },
     {
       "source": "Bolavip",
@@ -129,22 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-renova-com-ezze-seguros-apos-negociacao-e-garante-valores-retroativos-do-acordo]]>",
       "time": "30/08 · 17:05",
       "pubDate": "Sun, 30 Aug 2026 14:05:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Torcida prepara mosaico especial para clássico entre Corinthians e Santos na Neo Química Arena",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-prepara-mosaico-especial-para-classico-entre-corinthians-e-santos-na-neo-quimica-arena]]>",
-      "time": "30/08 · 17:04",
-      "pubDate": "Sun, 30 Aug 2026 14:04:51 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians renova contrato com patrocinador até o fim de 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-contrato-com-patrocinador-ate-o-fim-de-2026/",
-      "time": "30/08 · 16:49",
-      "pubDate": "Sun, 30 Aug 2026 16:49:04 +0000"
     },
     {
       "source": "Bolavip",
@@ -179,26 +131,86 @@ const LIVE_DATA = {
       "pubDate": "Sat, 29 Aug 2026 12:28:43 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians completa 100 dias de transfer ban e segue sem previsão de resolução",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-completa-100-dias-de-transfer-ban-e-segue-sem-previsao-de-resolucao]]>",
-      "time": "29/08 · 14:53",
-      "pubDate": "Sat, 29 Aug 2026 11:53:57 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians x Santos: onde assistir ao vivo, horário e escalações do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-x-santos-onde-assistir-ao-vivo-horario-e-escalacoes-do-brasileirao]]>",
-      "time": "29/08 · 14:17",
-      "pubDate": "Sat, 29 Aug 2026 11:17:45 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Atualização! Confira como está o andamento da limpeza da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129409/atualizacao-confira-como-esta-o-andamento-da-limpeza-da-neo-quimica-arena",
+      "pubDate": "Mon, 31 Aug 2026 11:24:44 -0300",
+      "date": "31/08 · 14:24"
+    },
+    {
+      "title": "Saiba onde assistir ao duelo entre Corinthians e Cruzeiro pelo mata-mata do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539005/saiba-onde-assistir-ao-duelo-entre-corinthians-e-cruzeiro-pelo-mata-mata-do-brasileirao-feminino",
+      "pubDate": "Mon, 31 Aug 2026 09:00:00 -0300",
+      "date": "31/08 · 12:00"
+    },
     {
       "title": "VÍDEO: Entrevista coletiva de Fernando Diniz | Corinthians 0x1 Santos",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129405/entrevista-coletiva-de-fernando-diniz-corinthians-0x1-santos",
