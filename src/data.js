@@ -1,78 +1,86 @@
-// Gerado automaticamente em 01/09/2026, 12:49:42
+// Gerado automaticamente em 01/09/2026, 20:12:25
 const LIVE_DATA = {
-  "updatedAt": "2026-09-01T12:49:42.014Z",
+  "updatedAt": "2026-09-01T20:12:25.759Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro é escolhido melhor jogador do Corinthians em agosto; veja as notas do elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539145/zagueiro-e-escolhido-melhor-jogador-do-corinthians-em-agosto-veja-as-notas-do-elenco",
-      "time": "01/09 · 12:34",
-      "pubDate": "Tue, 01 Sep 2026 09:34:00 -0300"
+      "title": "Patrocinadora homenageia Corinthians e convoca Fiel para maior poropopó da história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539183/patrocinadora-homenageia-corinthians-e-convoca-fiel-para-maior-poropopo-da-historia",
+      "time": "01/09 · 20:01",
+      "pubDate": "Tue, 01 Sep 2026 17:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogador do Corinthians volta a ser titular após um mês e soma apenas quatro chances no ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539112/jogador-do-corinthians-volta-a-ser-titular-apos-um-mes-e-soma-apenas-quatro-chances-no-ano",
-      "time": "01/09 · 11:30",
-      "pubDate": "Tue, 01 Sep 2026 08:30:00 -0300"
+      "title": "Emily Lima pede 'pés no chão' após Corinthians abrir vantagem nas quartas do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539163/emily-lima-pede-pes-no-chao-apos-corinthians-abrir-vantagem-nas-quartas-do-brasileirao-feminino",
+      "time": "01/09 · 19:35",
+      "pubDate": "Tue, 01 Sep 2026 16:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: punição inusitada, resposta da SAFiel e anulação de vitalícios",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539142/ultimas-do-corinthians-punicao-inusitada-resposta-da-safiel-e-anulacao-de-vitalicios",
-      "time": "01/09 · 10:30",
-      "pubDate": "Tue, 01 Sep 2026 07:30:00 -0300"
+      "title": "Corinthians se reapresenta no CT sob chuva de olho na Chapecoense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539179/corinthians-se-reapresenta-no-ct-sob-chuva-de-olho-na-chapecoense",
+      "time": "01/09 · 18:47",
+      "pubDate": "Tue, 01 Sep 2026 15:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "[Bruno Cassiano] O que eu seria se não fosse Corinthians",
-      "url": "https://www.meutimao.com.br/coluna/bruno_cassiano/4251/o-que-eu-seria-se-nao-fosse-corinthians/",
-      "time": "01/09 · 05:04",
-      "pubDate": "Tue, 01 Sep 2026 02:04:00 -0300"
+      "title": "Atacante do Corinthians projeta duelo contra o Athletico e mira vice-liderança do Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539178/atacante-do-corinthians-projeta-duelo-contra-o-athletico-e-mira-vice-lideranca-do-brasileirao-sub-17",
+      "time": "01/09 · 18:46",
+      "pubDate": "Tue, 01 Sep 2026 15:46:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians completa 116 anos de história",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539146/corinthians-completa-116-anos-de-historia",
-      "time": "01/09 · 04:38",
-      "pubDate": "Tue, 01 Sep 2026 01:38:00 -0300"
+      "title": "Corinthians encerra primeiro semestre de 2026 com déficit de quase R$ 250 milhões",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539171/corinthians-encerra-primeiro-semestre-de-2026-com-deficit-de-quase-r-250-milhoes",
+      "time": "01/09 · 18:23",
+      "pubDate": "Tue, 01 Sep 2026 15:23:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Levantamento mostra relação entre excesso de cruzamentos e resultados negativos do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539088/levantamento-mostra-relacao-entre-excesso-de-cruzamentos-e-resultados-negativos-do-corinthians",
-      "time": "01/09 · 01:30",
-      "pubDate": "Mon, 31 Aug 2026 22:30:00 -0300"
+      "title": "Corinthians volta a não marcar diante do Santos após seis clássicos; relembre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539118/corinthians-volta-a-nao-marcar-diante-do-santos-apos-seis-classicos-relembre",
+      "time": "01/09 · 17:31",
+      "pubDate": "Tue, 01 Sep 2026 14:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "CBF define datas e horários de Dérbi e outras três rodadas do Corinthians no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539141/cbf-define-datas-e-horarios-de-derbi-e-outras-tres-rodadas-do-corinthians-no-brasileirao",
-      "time": "01/09 · 00:58",
-      "pubDate": "Mon, 31 Aug 2026 21:58:00 -0300"
+      "title": "Meia-atacante marca em decisão e encosta no pódio das artilheiras do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539139/meia-atacante-marca-em-decisao-e-encosta-no-podio-das-artilheiras-do-corinthians-em-2026",
+      "time": "01/09 · 16:30",
+      "pubDate": "Tue, 01 Sep 2026 13:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece cidade-sede da Libertadores Feminina de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539140/corinthians-conhece-cidade-sede-da-libertadores-feminina-de-2026",
-      "time": "01/09 · 00:50",
-      "pubDate": "Mon, 31 Aug 2026 21:50:35 -0300"
+      "title": "Idealizador da SAFiel assegura verba e cobra segurança jurídica do Corinthians para fechar acordo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539158/idealizador-da-safiel-assegura-verba-e-cobra-seguranca-juridica-do-corinthians-para-fechar-acordo",
+      "time": "01/09 · 15:29",
+      "pubDate": "Tue, 01 Sep 2026 12:29:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vic Albuquerque admite influência de bastidor em vitória do Corinthians pelo Brasileirão Feminino",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vic-albuquerque-admite-influencia-de-bastidor-em-vitoria-do-corinthians-pelo-brasileirao-feminino]]>",
+      "time": "01/09 · 03:44",
+      "pubDate": "Tue, 01 Sep 2026 00:44:55 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis Depay pede união ao elenco do Corinthians para retomada após derrota para o Santos",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-pede-uniao-ao-elenco-do-corinthians-para-retomada-apos-derrota-para-o-santos]]>",
-      "time": "31/08 · 21:29",
-      "pubDate": "Mon, 31 Aug 2026 18:29:51 -0300"
+      "time": "31/08 · 22:52",
+      "pubDate": "Mon, 31 Aug 2026 19:52:41 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-nao-consegue-impactar-e-corinthians-perde-classico-para-o-santos]]>",
       "time": "30/08 · 22:01",
       "pubDate": "Sun, 30 Aug 2026 19:01:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians volta a pecar em finalizações e perde para o Santos na Neo Química Arena, por 1 a 0",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-volta-a-pecar-em-finalizacoes-e-perde-para-o-santos-na-neo-quimica-arena-por-1-a-0]]>",
-      "time": "30/08 · 21:05",
-      "pubDate": "Sun, 30 Aug 2026 18:05:51 -0300"
     },
     {
       "source": "Gazeta Esportiva",
