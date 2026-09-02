@@ -1,7 +1,47 @@
-// Gerado automaticamente em 01/09/2026, 23:37:25
+// Gerado automaticamente em 02/09/2026, 12:19:18
 const LIVE_DATA = {
-  "updatedAt": "2026-09-01T23:37:25.179Z",
+  "updatedAt": "2026-09-02T12:19:18.483Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians adia entrega da revisão do orçamento de 2026 para setembro; clube explica atraso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539182/corinthians-adia-para-setembro-a-entrega-da-revisao-do-orcamento-de-2026-clube-explica-atraso",
+      "time": "02/09 · 11:30",
+      "pubDate": "Wed, 02 Sep 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: ausências em treinamento, aniversário e novo capítulo na SAFiel",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539209/ultimas-do-corinthians-ausencias-em-treinamento-aniversario-e-novo-capitulo-na-safiel",
+      "time": "02/09 · 10:30",
+      "pubDate": "Wed, 02 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a não sofrer gols depois de cinco jogos sendo vazado; confira os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539167/corinthians-volta-a-nao-sofrer-gols-depois-de-cinco-jogos-sendo-vazado-confira-os-numeros",
+      "time": "02/09 · 01:30",
+      "pubDate": "Tue, 01 Sep 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Osmar Stabile revela detalhes da conversa com SAFiel e comenta situação financeira do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539208/osmar-stabile-revela-detalhes-da-conversa-com-safiel-e-comenta-situacao-financeira-do-corinthians",
+      "time": "02/09 · 00:48",
+      "pubDate": "Tue, 01 Sep 2026 21:48:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra clássicos na Arena em 2026 com baixo aproveitamento; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539113/corinthians-encerra-classicos-na-arena-em-2026-com-baixo-aproveitamento-veja-os-numeros",
+      "time": "02/09 · 00:33",
+      "pubDate": "Tue, 01 Sep 2026 21:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,116 +59,28 @@ const LIVE_DATA = {
       "pubDate": "Tue, 01 Sep 2026 20:21:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians adota cautela, e semana será decisiva para recuperar Yuri Alberto para jogo contra a Chape",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-adota-cautela-e-semana-sera-decisiva-para-recuperar-yuri-alberto-para-jogo-contra-a-chape]]>",
+      "time": "01/09 · 23:18",
+      "pubDate": "Tue, 01 Sep 2026 20:18:26 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians lança produtos oficiais em homenagem ao aniversário de 116 anos",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539204/corinthians-lanca-produtos-oficiais-em-homenagem-ao-aniversario-de-116-anos",
       "time": "01/09 · 23:15",
-      "pubDate": "Tue, 01 Sep 2026 20:15:59 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: 116 anos de Corinthians: Gaviões da Fiel realiza caminhada da sede da torcida até o Marco Zero",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129448/116-anos-de-corinthians-gavioes-da-fiel-realiza-caminhada-da-sede-da-torcida-ate-o-marco-zero",
-      "time": "01/09 · 23:02",
-      "pubDate": "Tue, 01 Sep 2026 20:02:47 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Athletico-PR x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/athletico-pr-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-17/",
-      "time": "01/09 · 23:00",
-      "pubDate": "Tue, 01 Sep 2026 23:00:46 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "MP volta a arquivar inquérito que apurava suspeita de milícia digital no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/mp-volta-a-arquivar-inquerito-que-apurava-suspeita-de-milicia-digital-no-corinthians/",
-      "time": "01/09 · 23:00",
-      "pubDate": "Tue, 01 Sep 2026 23:00:33 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians inicia atividades para enfrentar a Chapecoense",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-inicia-atividades-para-enfrentar-a-chapecoense/",
-      "time": "01/09 · 22:37",
-      "pubDate": "Tue, 01 Sep 2026 22:37:07 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta quebrar tabu contra o Athletico-PR que já perdura há oito anos; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539177/corinthians-tenta-quebrar-tabu-contra-o-athletico-pr-que-ja-perdura-ha-oito-anos-saiba-qual",
-      "time": "01/09 · 22:35",
-      "pubDate": "Tue, 01 Sep 2026 19:35:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras e Flamengo parabenizam Corinthians pelos 116 anos",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/palmeiras-e-flamengo-parabenizam-corinthians-por-116-anos/",
-      "time": "01/09 · 22:08",
-      "pubDate": "Tue, 01 Sep 2026 22:08:10 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a atrasar parcela da CNRD e Cuiabá pede bloqueio de receitas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539189/corinthians-volta-a-atrasar-parcela-da-cnrd-e-cuiaba-pede-bloqueio-de-receitas",
-      "time": "01/09 · 21:59",
-      "pubDate": "Tue, 01 Sep 2026 18:59:30 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vic Albuquerque destaca vantagem do Corinthians e revela impacto de acerto sobre direitos de imagem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539164/vic-albuquerque-destaca-vantagem-do-corinthians-e-revela-impacto-de-acerto-sobre-direitos-de-imagem",
-      "time": "01/09 · 21:30",
-      "pubDate": "Tue, 01 Sep 2026 18:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians 116 anos: A fonte da nossa loucura",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-116-anos-a-fonte-da-nossa-loucura/",
-      "time": "01/09 · 21:17",
-      "pubDate": "Tue, 01 Sep 2026 21:17:30 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Negociação entre Corinthians e Nottingham Forest por André trava e pode melar",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/negociacao-entre-corinthians-e-nottingham-forest-por-andre-trava-e-pode-melar/",
-      "time": "01/09 · 21:16",
-      "pubDate": "Tue, 01 Sep 2026 21:16:19 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis e outros dois titulares não participam de reapresentação com o grupo no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539192/memphis-e-outros-dois-titulares-nao-participam-de-reapresentacao-com-o-grupo-no-corinthians",
-      "time": "01/09 · 20:45",
-      "pubDate": "Tue, 01 Sep 2026 17:45:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians se reapresenta e terá desfalques para pegar a Chape",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-e-tera-desfalques-para-pegar-a-chape/",
-      "time": "01/09 · 20:33",
-      "pubDate": "Tue, 01 Sep 2026 20:33:02 +0000"
+      "pubDate": "Tue, 01 Sep 2026 20:15:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians adota cautela, e semana será decisiva para recuperar Yuri Alberto para jogo contra a Chape",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-adota-cautela-e-semana-sera-decisiva-para-recuperar-yuri-alberto-para-jogo-contra-a-chape]]>",
-      "time": "01/09 · 20:04",
-      "pubDate": "Tue, 01 Sep 2026 17:04:49 -0300"
+      "title": "Corinthians mantém confiança em Diniz após derrota e treinador segue garantido no cargo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mantem-confianca-em-diniz-apos-derrota-e-treinador-segue-garantido-no-cargo]]>",
+      "time": "01/09 · 22:11",
+      "pubDate": "Tue, 01 Sep 2026 19:11:14 -0300"
     },
     {
       "source": "Bolavip",
@@ -137,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-se-incomoda-com-derrota-do-corinthians-para-o-santos-mas-confia-em-reacao-no-brasileiro]]>",
       "time": "01/09 · 19:54",
       "pubDate": "Tue, 01 Sep 2026 16:54:02 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians registra déficit de R$ 246 milhões no 1º semestre de 2026",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-registra-deficit-de-r-246-milhoes-no-1o-semestre-de-2026/",
-      "time": "01/09 · 18:32",
-      "pubDate": "Tue, 01 Sep 2026 18:32:15 +0000"
     },
     {
       "source": "Bolavip",
@@ -187,18 +131,80 @@ const LIVE_DATA = {
       "pubDate": "Tue, 01 Sep 2026 00:44:55 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians repudia atitude de torcedores contra a criança que ganhou camisa de Neymar",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-repudia-atitude-de-torcedores-contra-a-crianca-que-ganhou-camisa-de-neymar]]>",
-      "time": "31/08 · 17:16",
-      "pubDate": "Mon, 31 Aug 2026 14:16:25 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians volta a não sofrer gols depois de cinco jogos sendo vazado; confira os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539167/corinthians-volta-a-nao-sofrer-gols-depois-de-cinco-jogos-sendo-vazado-confira-os-numeros",
+      "pubDate": "Tue, 01 Sep 2026 22:30:00 -0300",
+      "date": "02/09 · 01:30"
+    },
     {
       "title": "VÍDEO: 116 anos de Corinthians: Gaviões da Fiel realiza caminhada da sede da torcida até o Marco Zero",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129448/116-anos-de-corinthians-gavioes-da-fiel-realiza-caminhada-da-sede-da-torcida-ate-o-marco-zero",
