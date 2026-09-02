@@ -1,78 +1,86 @@
-// Gerado automaticamente em 02/09/2026, 12:19:18
+// Gerado automaticamente em 02/09/2026, 20:10:52
 const LIVE_DATA = {
-  "updatedAt": "2026-09-02T12:19:18.483Z",
+  "updatedAt": "2026-09-02T20:10:52.760Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians adia entrega da revisão do orçamento de 2026 para setembro; clube explica atraso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539182/corinthians-adia-para-setembro-a-entrega-da-revisao-do-orcamento-de-2026-clube-explica-atraso",
-      "time": "02/09 · 11:30",
-      "pubDate": "Wed, 02 Sep 2026 08:30:00 -0300"
+      "title": "Corinthians goleia o Athletico fora de casa e assume a terceira posição do Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539240/corinthians-goleia-o-athletico-fora-de-casa-e-assume-a-terceira-posicao-do-brasileiro-sub-17",
+      "time": "02/09 · 19:53",
+      "pubDate": "Wed, 02 Sep 2026 16:53:13 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: ausências em treinamento, aniversário e novo capítulo na SAFiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539209/ultimas-do-corinthians-ausencias-em-treinamento-aniversario-e-novo-capitulo-na-safiel",
-      "time": "02/09 · 10:30",
-      "pubDate": "Wed, 02 Sep 2026 07:30:00 -0300"
+      "title": "Torcedores do Corinthians realizam protestos em várias cidades do país por intervenção judicial",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539227/torcedores-do-corinthians-realizam-protestos-em-varias-cidades-do-pais-por-intervencao-judicial",
+      "time": "02/09 · 19:32",
+      "pubDate": "Wed, 02 Sep 2026 16:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians volta a não sofrer gols depois de cinco jogos sendo vazado; confira os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539167/corinthians-volta-a-nao-sofrer-gols-depois-de-cinco-jogos-sendo-vazado-confira-os-numeros",
-      "time": "02/09 · 01:30",
-      "pubDate": "Tue, 01 Sep 2026 22:30:00 -0300"
+      "title": "Corinthians anuncia venda de zagueira após negociação milionária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539238/corinthians-anuncia-venda-de-zagueira-apos-negociacao-milionaria",
+      "time": "02/09 · 19:04",
+      "pubDate": "Wed, 02 Sep 2026 16:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Osmar Stabile revela detalhes da conversa com SAFiel e comenta situação financeira do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539208/osmar-stabile-revela-detalhes-da-conversa-com-safiel-e-comenta-situacao-financeira-do-corinthians",
-      "time": "02/09 · 00:48",
-      "pubDate": "Tue, 01 Sep 2026 21:48:00 -0300"
+      "title": "Vice-presidente do Corinthians atribui a Stabile manutenção de departamento alvo de impasse no clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539216/vice-presidente-do-corinthians-atribui-a-stabile-manutencao-de-departamento-alvo-de-impasse-no-clube",
+      "time": "02/09 · 18:33",
+      "pubDate": "Wed, 02 Sep 2026 15:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra clássicos na Arena em 2026 com baixo aproveitamento; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539113/corinthians-encerra-classicos-na-arena-em-2026-com-baixo-aproveitamento-veja-os-numeros",
-      "time": "02/09 · 00:33",
-      "pubDate": "Tue, 01 Sep 2026 21:33:00 -0300"
+      "title": "Corinthians realiza atividade técnica antes de duelo com a Chapecoense pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539242/corinthians-realiza-atividade-tecnica-antes-de-duelo-com-a-chapecoense-pelo-brasileirao",
+      "time": "02/09 · 18:18",
+      "pubDate": "Wed, 02 Sep 2026 15:18:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Andressa Alves se recupera de lesão e volta a atuar em vitória do Corinthians sobre o Cruzeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539157/andressa-alves-se-recupera-de-lesao-e-volta-a-atuar-em-vitoria-do-corinthians-sobre-o-cruzeiro",
-      "time": "01/09 · 23:34",
-      "pubDate": "Tue, 01 Sep 2026 20:34:00 -0300"
+      "title": "Corinthians confirma estádio para receber decisão das quartas de final do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539224/corinthians-confirma-estadio-para-receber-decisao-das-quartas-de-final-do-brasileirao-feminino",
+      "time": "02/09 · 18:18",
+      "pubDate": "Wed, 02 Sep 2026 15:18:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Presidente do Corinthians aponta permanência de André após negociação com time inglês",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539201/presidente-do-corinthians-aponta-permanencia-de-andre-apos-negociacao-com-time-ingles",
-      "time": "01/09 · 23:21",
-      "pubDate": "Tue, 01 Sep 2026 20:21:00 -0300"
+      "title": "Corinthians inicia venda de ingressos para decisão contra o Pinheiros pelo Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539232/corinthians-inicia-venda-de-ingressos-para-decisao-contra-o-pinheiros-pelo-paulista-de-basquete",
+      "time": "02/09 · 18:01",
+      "pubDate": "Wed, 02 Sep 2026 15:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians abre conversas com clube turco por Breno Bidon",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539239/corinthians-abre-conversas-com-clube-turco-por-breno-bidon",
+      "time": "02/09 · 17:53",
+      "pubDate": "Wed, 02 Sep 2026 14:53:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians adota cautela, e semana será decisiva para recuperar Yuri Alberto para jogo contra a Chape",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-adota-cautela-e-semana-sera-decisiva-para-recuperar-yuri-alberto-para-jogo-contra-a-chape]]>",
-      "time": "01/09 · 23:18",
-      "pubDate": "Tue, 01 Sep 2026 20:18:26 -0300"
+      "title": "Corinthians tem descontentamento interno e com empresário após reprovar propostas pelo volante André",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-descontentamento-interno-e-com-empresario-apos-reprovar-propostas-pelo-volante-andre]]>",
+      "time": "02/09 · 11:41",
+      "pubDate": "Wed, 02 Sep 2026 08:41:03 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians lança produtos oficiais em homenagem ao aniversário de 116 anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539204/corinthians-lanca-produtos-oficiais-em-homenagem-ao-aniversario-de-116-anos",
-      "time": "01/09 · 23:15",
-      "pubDate": "Tue, 01 Sep 2026 20:15:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto é ausência em treino de reapresentação do Corinthians; Memphis também poupado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-adota-cautela-e-semana-sera-decisiva-para-recuperar-yuri-alberto-para-jogo-contra-a-chape]]>",
+      "time": "01/09 · 23:59",
+      "pubDate": "Tue, 01 Sep 2026 20:59:06 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,14 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-yuri-alberto-memphis-depay-e-rodrigo-garro-juntos-sao-a-ultima-esperanca-ofensiva-do-corinthians]]>",
       "time": "01/09 · 17:04",
       "pubDate": "Tue, 01 Sep 2026 14:04:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay pede união ao elenco do Corinthians para retomada após derrota para o Santos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-pede-uniao-ao-elenco-do-corinthians-para-retomada-apos-derrota-para-o-santos]]>",
-      "time": "01/09 · 17:00",
-      "pubDate": "Tue, 01 Sep 2026 14:00:33 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians goleia o Athletico fora de casa e assume a terceira posição do Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539240/corinthians-goleia-o-athletico-fora-de-casa-e-assume-a-terceira-posicao-do-brasileiro-sub-17",
+      "pubDate": "Wed, 02 Sep 2026 16:53:13 -0300",
+      "date": "02/09 · 19:53"
+    },
     {
       "title": "Corinthians volta a não sofrer gols depois de cinco jogos sendo vazado; confira os números",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539167/corinthians-volta-a-nao-sofrer-gols-depois-de-cinco-jogos-sendo-vazado-confira-os-numeros",
