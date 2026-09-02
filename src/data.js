@@ -1,14 +1,70 @@
-// Gerado automaticamente em 02/09/2026, 20:10:52
+// Gerado automaticamente em 02/09/2026, 23:38:03
 const LIVE_DATA = {
-  "updatedAt": "2026-09-02T20:10:52.760Z",
+  "updatedAt": "2026-09-02T23:38:03.230Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a vencer o Cruzeiro como visitante após mais de três anos; relembre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539190/corinthians-volta-a-vencer-o-cruzeiro-como-visitante-apos-mais-de-tres-anos-relembre",
+      "time": "02/09 · 23:32",
+      "pubDate": "Wed, 02 Sep 2026 20:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é denunciado no STJD por atos hostis de torcedores contra criança durante clássico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539264/corinthians-e-denunciado-no-stjd-por-atos-hostis-de-torcedores-contra-crianca-durante-classico",
+      "time": "02/09 · 23:27",
+      "pubDate": "Wed, 02 Sep 2026 20:27:27 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Perito detalha reunião com o Corinthians e comenta próximos passos de investigação na NQA",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129464/perito-detalha-reuniao-com-o-corinthians-e-comenta-proximos-passos-de-investigacao-na-nqa",
+      "time": "02/09 · 22:53",
+      "pubDate": "Wed, 02 Sep 2026 19:53:14 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca melhorar retrospecto em quartas do Paulista de Basquete; relembre os resultados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539236/corinthians-busca-melhorar-retrospecto-em-quartas-do-paulista-de-basquete-relembre-os-resultados",
+      "time": "02/09 · 22:34",
+      "pubDate": "Wed, 02 Sep 2026 19:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem segundo melhor crescimento nas redes sociais entre clubes brasileiros em agosto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539198/corinthians-tem-segundo-melhor-crescimento-nas-redes-sociais-entre-clubes-brasileiros-em-agosto",
+      "time": "02/09 · 21:35",
+      "pubDate": "Wed, 02 Sep 2026 18:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Breve passagem e venda histórica: relembre a trajetória de Letícia Teles pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/538954/breve-passagem-e-venda-historica-relembre-a-trajetoria-de-leticia-teles-pelo-corinthians",
+      "time": "02/09 · 20:30",
+      "pubDate": "Wed, 02 Sep 2026 17:30:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Corinthians goleia o Athletico fora de casa e assume a terceira posição do Brasileiro Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539240/corinthians-goleia-o-athletico-fora-de-casa-e-assume-a-terceira-posicao-do-brasileiro-sub-17",
       "time": "02/09 · 19:53",
-      "pubDate": "Wed, 02 Sep 2026 16:53:13 -0300"
+      "pubDate": "Wed, 02 Sep 2026 16:53:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians recusa proposta do Le Mans por Gui Negão nesta janela",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-recusa-proposta-do-le-mans-por-gui-negao-nesta-janela]]>",
+      "time": "02/09 · 19:35",
+      "pubDate": "Wed, 02 Sep 2026 16:35:31 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,52 +75,28 @@ const LIVE_DATA = {
       "pubDate": "Wed, 02 Sep 2026 16:32:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians anuncia venda de zagueira após negociação milionária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539238/corinthians-anuncia-venda-de-zagueira-apos-negociacao-milionaria",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians confirma Canindé para quartas do Brasileirão Feminino; CBF aponta pendência em laudo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-confirma-caninde-para-quartas-do-brasileirao-feminino-cbf-aponta-pendencia-em-laudo]]>",
       "time": "02/09 · 19:04",
-      "pubDate": "Wed, 02 Sep 2026 16:04:00 -0300"
+      "pubDate": "Wed, 02 Sep 2026 16:04:50 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vice-presidente do Corinthians atribui a Stabile manutenção de departamento alvo de impasse no clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539216/vice-presidente-do-corinthians-atribui-a-stabile-manutencao-de-departamento-alvo-de-impasse-no-clube",
-      "time": "02/09 · 18:33",
-      "pubDate": "Wed, 02 Sep 2026 15:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não paga parcela atrasada da CNRD sobre Raniele e soma nova polêmica com Osmar Stabile",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-paga-parcela-atrasada-da-cnrd-sobre-raniele-e-soma-nova-polemica-com-osmar-stabile]]>",
+      "time": "02/09 · 14:46",
+      "pubDate": "Wed, 02 Sep 2026 11:46:18 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza atividade técnica antes de duelo com a Chapecoense pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539242/corinthians-realiza-atividade-tecnica-antes-de-duelo-com-a-chapecoense-pelo-brasileirao",
-      "time": "02/09 · 18:18",
-      "pubDate": "Wed, 02 Sep 2026 15:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians confirma estádio para receber decisão das quartas de final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539224/corinthians-confirma-estadio-para-receber-decisao-das-quartas-de-final-do-brasileirao-feminino",
-      "time": "02/09 · 18:18",
-      "pubDate": "Wed, 02 Sep 2026 15:18:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para decisão contra o Pinheiros pelo Paulista de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539232/corinthians-inicia-venda-de-ingressos-para-decisao-contra-o-pinheiros-pelo-paulista-de-basquete",
-      "time": "02/09 · 18:01",
-      "pubDate": "Wed, 02 Sep 2026 15:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre conversas com clube turco por Breno Bidon",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539239/corinthians-abre-conversas-com-clube-turco-por-breno-bidon",
-      "time": "02/09 · 17:53",
-      "pubDate": "Wed, 02 Sep 2026 14:53:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians tem queda drástica de desempenho e pressão precisa aumentar em Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-queda-drastica-de-desempenho-e-pressao-precisa-aumentar-em-fernando-diniz]]>",
+      "time": "02/09 · 13:35",
+      "pubDate": "Wed, 02 Sep 2026 10:35:56 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gustavo-henrique-se-incomoda-com-derrota-do-corinthians-para-o-santos-mas-confia-em-reacao-no-brasileiro]]>",
       "time": "01/09 · 19:54",
       "pubDate": "Tue, 01 Sep 2026 16:54:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Yuri Alberto, Memphis Depay e Rodrigo Garro juntos são a última esperança ofensiva do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-yuri-alberto-memphis-depay-e-rodrigo-garro-juntos-sao-a-ultima-esperanca-ofensiva-do-corinthians]]>",
-      "time": "01/09 · 17:04",
-      "pubDate": "Tue, 01 Sep 2026 14:04:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Exclusivo: Teresa Perrone, neta de fundador do Corinthians, conta memórias da infância e um amor que atravessou gerações",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/exclusivo-teresa-perrone-neta-de-fundador-do-corinthians-conta-memorias-da-infancia-e-um-amor-que-atravessou-geracoes]]>",
-      "time": "01/09 · 16:20",
-      "pubDate": "Tue, 01 Sep 2026 13:20:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians tem substituto imediato pior ou do mesmo nível do presidente Osmar Stabile",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-substituto-imediato-pior-ou-do-mesmo-nivel-do-presidente-osmar-stabile]]>",
-      "time": "01/09 · 12:59",
-      "pubDate": "Tue, 01 Sep 2026 09:59:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vic Albuquerque admite influência de bastidor em vitória do Corinthians pelo Brasileirão Feminino",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/vic-albuquerque-admite-influencia-de-bastidor-em-vitoria-do-corinthians-pelo-brasileirao-feminino]]>",
-      "time": "01/09 · 03:44",
-      "pubDate": "Tue, 01 Sep 2026 00:44:55 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,9 +200,15 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Perito detalha reunião com o Corinthians e comenta próximos passos de investigação na NQA",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129464/perito-detalha-reuniao-com-o-corinthians-e-comenta-proximos-passos-de-investigacao-na-nqa",
+      "pubDate": "Wed, 02 Sep 2026 19:53:14 -0300",
+      "date": "02/09 · 22:53"
+    },
+    {
       "title": "Corinthians goleia o Athletico fora de casa e assume a terceira posição do Brasileiro Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539240/corinthians-goleia-o-athletico-fora-de-casa-e-assume-a-terceira-posicao-do-brasileiro-sub-17",
-      "pubDate": "Wed, 02 Sep 2026 16:53:13 -0300",
+      "pubDate": "Wed, 02 Sep 2026 16:53:00 -0300",
       "date": "02/09 · 19:53"
     },
     {
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539167/corinthians-volta-a-nao-sofrer-gols-depois-de-cinco-jogos-sendo-vazado-confira-os-numeros",
       "pubDate": "Tue, 01 Sep 2026 22:30:00 -0300",
       "date": "02/09 · 01:30"
-    },
-    {
-      "title": "VÍDEO: 116 anos de Corinthians: Gaviões da Fiel realiza caminhada da sede da torcida até o Marco Zero",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129448/116-anos-de-corinthians-gavioes-da-fiel-realiza-caminhada-da-sede-da-torcida-ate-o-marco-zero",
-      "pubDate": "Tue, 01 Sep 2026 20:02:47 -0300",
-      "date": "01/09 · 23:02"
     }
   ]
 };
