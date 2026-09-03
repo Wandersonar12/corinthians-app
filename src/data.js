@@ -1,14 +1,62 @@
-// Gerado automaticamente em 03/09/2026, 20:11:24
+// Gerado automaticamente em 03/09/2026, 23:35:47
 const LIVE_DATA = {
-  "updatedAt": "2026-09-03T20:11:24.158Z",
+  "updatedAt": "2026-09-03T23:35:47.543Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueira se despede do Corinthians com mensagem nas redes sociais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539311/zagueira-se-despede-do-corinthians-com-mensagem-nas-redes-sociais",
-      "time": "03/09 · 19:42",
-      "pubDate": "Thu, 03 Sep 2026 16:42:16 -0300"
+      "title": "Corinthians encerra longo jejum contra o Athletico-PR em goleada no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539279/corinthians-encerra-longo-jejum-contra-o-athletico-pr-em-goleada-no-brasileiro-sub-17",
+      "time": "03/09 · 22:33",
+      "pubDate": "Thu, 03 Sep 2026 19:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ministério Público dá prazo para Corinthians justificar empresa de segurança contratada por Stabile",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539326/ministerio-publico-da-prazo-para-corinthians-justificar-empresa-de-seguranca-contratada-por-stabile",
+      "time": "03/09 · 22:29",
+      "pubDate": "Thu, 03 Sep 2026 19:29:15 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Sub-20 do Corinthians projeta partida contra o São Bento pelo Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539322/goleiro-do-sub-20-do-corinthians-projeta-partida-contra-o-sao-bento-pelo-paulista",
+      "time": "03/09 · 21:38",
+      "pubDate": "Thu, 03 Sep 2026 18:38:28 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians amarga aproveitamento de Z4 no segundo turno do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539290/corinthians-amarga-aproveitamento-de-z4-no-segundo-turno-do-brasileirao",
+      "time": "03/09 · 21:35",
+      "pubDate": "Thu, 03 Sep 2026 18:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Patrocinadora do Corinthians se manifesta após 'propaganda' durante hino nacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539321/patrocinadora-do-corinthians-se-manifesta-apos-propaganda-durante-hino-nacional",
+      "time": "03/09 · 21:19",
+      "pubDate": "Thu, 03 Sep 2026 18:19:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Elenco do Corinthians decide atuar pelo Paulista de Basquete; vencimentos seguem atrasados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539295/elenco-do-corinthians-decide-atuar-pelo-paulista-de-basquete-vencimentos-seguem-atrasados",
+      "time": "03/09 · 20:51",
+      "pubDate": "Thu, 03 Sep 2026 17:51:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante comemora fim de jejum após marcar gol em goleada do Corinthians no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539258/atacante-comemora-fim-de-jejum-apos-marcar-gol-em-goleada-do-corinthians-no-brasileiro-sub-17",
+      "time": "03/09 · 20:30",
+      "pubDate": "Thu, 03 Sep 2026 17:30:00 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,60 +67,36 @@ const LIVE_DATA = {
       "pubDate": "Thu, 03 Sep 2026 16:42:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Comissão de Ética instaura processo que pode levar à expulsão de Rubão do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539303/comissao-de-etica-instaura-processo-que-pode-levar-a-expulsao-de-rubao-do-corinthians",
-      "time": "03/09 · 19:30",
-      "pubDate": "Thu, 03 Sep 2026 16:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Renovação de André Carrillo é discutida internamente no Corinthians; contrato atual encerra em 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-andre-carrillo-e-discutida-internamente-no-corinthians-contrato-atual-encerra-em-2026]]>",
+      "time": "03/09 · 16:53",
+      "pubDate": "Thu, 03 Sep 2026 13:53:48 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz ajustes táticos de olho no duelo contra a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539305/corinthians-faz-ajustes-taticos-de-olho-no-duelo-contra-a-chapecoense",
-      "time": "03/09 · 19:07",
-      "pubDate": "Thu, 03 Sep 2026 16:07:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz e Osmar Stabile viajam ao Paraguai para estreitar relações entre Corinthians e Conmebol",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-e-osmar-stabile-viajam-ao-paraguai-para-estreitar-relacoes-entre-corinthians-e-conmebol]]>",
+      "time": "03/09 · 16:49",
+      "pubDate": "Thu, 03 Sep 2026 13:49:50 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante avança em recuperação e realiza trabalhos parciais com elenco do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539304/atacante-avanca-em-recuperacao-e-realiza-trabalhos-parciais-com-elenco-do-corinthians",
-      "time": "03/09 · 19:05",
-      "pubDate": "Thu, 03 Sep 2026 16:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Corinthians detalha encontro com mandatário da Conmebol no Paraguai",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539300/presidente-do-corinthians-detalha-encontro-com-mandatario-da-conmebol-no-paraguai",
-      "time": "03/09 · 18:40",
-      "pubDate": "Thu, 03 Sep 2026 15:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral vendido pelo Corinthians é anunciado por gigante inglês com contrato até 2034",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539297/lateral-vendido-pelo-corinthians-e-anunciado-por-gigante-ingles-com-contrato-ate-2034",
-      "time": "03/09 · 17:41",
-      "pubDate": "Thu, 03 Sep 2026 14:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence a quarta seguida e fica perto de melhor sequência da temporada no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539250/corinthians-vence-a-quarta-seguida-e-fica-perto-de-melhor-sequencia-da-temporada-no-sub-17",
-      "time": "03/09 · 17:37",
-      "pubDate": "Thu, 03 Sep 2026 14:37:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Corinthians pode economizar R$ 82,6 milhões em 2027 com saída de Vitinho e outros 9 jogadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-economizar-mais-de-r-80-milhoes-por-ano-com-saida-de-vitinho-e-outros-9-para-2027]]>",
+      "time": "03/09 · 13:43",
+      "pubDate": "Thu, 03 Sep 2026 10:43:36 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Corinthians não pode jamais aceitar qualquer proposta menor que R$ 147 milhões por Breno Bidon",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-jamais-aceitar-qualquer-proposta-menor-que-r-147-milhoes-por-breno-bidon]]>",
-      "time": "03/09 · 11:59",
-      "pubDate": "Thu, 03 Sep 2026 08:59:44 -0300"
+      "time": "03/09 · 12:51",
+      "pubDate": "Thu, 03 Sep 2026 09:51:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-confirma-caninde-para-quartas-do-brasileirao-feminino-cbf-aponta-pendencia-em-laudo]]>",
       "time": "02/09 · 19:04",
       "pubDate": "Wed, 02 Sep 2026 16:04:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não paga parcela atrasada da CNRD sobre Raniele e soma nova polêmica com Osmar Stabile",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-paga-parcela-atrasada-da-cnrd-sobre-raniele-e-soma-nova-polemica-com-osmar-stabile]]>",
-      "time": "02/09 · 14:46",
-      "pubDate": "Wed, 02 Sep 2026 11:46:18 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians tem queda drástica de desempenho e pressão precisa aumentar em Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-queda-drastica-de-desempenho-e-pressao-precisa-aumentar-em-fernando-diniz]]>",
-      "time": "02/09 · 13:35",
-      "pubDate": "Wed, 02 Sep 2026 10:35:56 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tem descontentamento interno e com empresário após reprovar propostas pelo volante André",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-descontentamento-interno-e-com-empresario-apos-reprovar-propostas-pelo-volante-andre]]>",
-      "time": "02/09 · 11:41",
-      "pubDate": "Wed, 02 Sep 2026 08:41:03 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians encerra longo jejum contra o Athletico-PR em goleada no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539279/corinthians-encerra-longo-jejum-contra-o-athletico-pr-em-goleada-no-brasileiro-sub-17",
+      "pubDate": "Thu, 03 Sep 2026 19:33:00 -0300",
+      "date": "03/09 · 22:33"
+    },
+    {
+      "title": "Goleiro do Sub-20 do Corinthians projeta partida contra o São Bento pelo Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539322/goleiro-do-sub-20-do-corinthians-projeta-partida-contra-o-sao-bento-pelo-paulista",
+      "pubDate": "Thu, 03 Sep 2026 18:38:28 -0300",
+      "date": "03/09 · 21:38"
+    },
+    {
+      "title": "Atacante comemora fim de jejum após marcar gol em goleada do Corinthians no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539258/atacante-comemora-fim-de-jejum-apos-marcar-gol-em-goleada-do-corinthians-no-brasileiro-sub-17",
+      "pubDate": "Thu, 03 Sep 2026 17:30:00 -0300",
+      "date": "03/09 · 20:30"
+    },
+    {
       "title": "Goleada do Corinthians sobre o Athletico-PR movimenta artilharia do Sub-17; veja o ranking",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539251/goleada-do-corinthians-sobre-o-athletico-pr-movimenta-artilharia-do-sub-17-veja-o-ranking",
       "pubDate": "Thu, 03 Sep 2026 13:34:00 -0300",
@@ -210,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129470/nqa-promotor-do-mp-sp-comenta-sobre-situacao-envolvendo-pagamento-do-corinthians-a-caixa",
       "pubDate": "Wed, 02 Sep 2026 22:45:00 -0300",
       "date": "03/09 · 01:45"
-    },
-    {
-      "title": "VÍDEO: Perito detalha reunião com o Corinthians e comenta próximos passos de investigação na NQA",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129464/perito-detalha-reuniao-com-o-corinthians-e-comenta-proximos-passos-de-investigacao-na-nqa",
-      "pubDate": "Wed, 02 Sep 2026 19:53:14 -0300",
-      "date": "02/09 · 22:53"
     }
   ]
 };
