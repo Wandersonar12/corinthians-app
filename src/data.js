@@ -1,78 +1,102 @@
-// Gerado automaticamente em 04/09/2026, 19:57:23
+// Gerado automaticamente em 04/09/2026, 23:28:39
 const LIVE_DATA = {
-  "updatedAt": "2026-09-04T19:57:23.160Z",
+  "updatedAt": "2026-09-04T23:28:39.018Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians é convocado para torneio na Europa com a Seleção Brasileira Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539374/meia-do-corinthians-e-convocado-para-torneio-na-europa-com-a-selecao-brasileira-sub-17",
-      "time": "04/09 · 19:38",
-      "pubDate": "Fri, 04 Sep 2026 16:38:00 -0300"
+      "title": "Corinthians lidera ranking de assuntos mais comentados em rede social durante o mês de agosto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539353/corinthians-lidera-ranking-de-assuntos-mais-comentados-em-rede-social-durante-o-mes-de-agosto",
+      "time": "04/09 · 22:34",
+      "pubDate": "Fri, 04 Sep 2026 19:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tenta manter aproveitamento perfeito como mandante no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539329/corinthians-tenta-manter-aproveitamento-perfeito-como-mandante-no-paulista-de-futsal",
-      "time": "04/09 · 19:28",
-      "pubDate": "Fri, 04 Sep 2026 16:28:00 -0300"
+      "title": "Corinthians é confirmado na Copa Atlântico Sub-19 após reintegração ao MCF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539386/corinthians-e-confirmado-na-copa-atlantico-sub-19-apos-reintegracao-ao-mcf",
+      "time": "04/09 · 22:08",
+      "pubDate": "Fri, 04 Sep 2026 19:08:33 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fatal Fans revela mudança em posição da marca no uniforme do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539331/fatal-fans-revela-mudanca-em-posicao-da-marca-no-uniforme-do-corinthians",
-      "time": "04/09 · 19:02",
-      "pubDate": "Fri, 04 Sep 2026 16:02:00 -0300"
+      "title": "Goleiro do Sub-20 rescinde contrato e deixa o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539385/goleiro-do-sub-20-rescinde-contrato-e-deixa-o-corinthians",
+      "time": "04/09 · 22:03",
+      "pubDate": "Fri, 04 Sep 2026 19:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians realiza novo trabalho tático no CT Joaquim Grava de olho na Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539365/corinthians-realiza-novo-trabalho-tatico-no-ct-joaquim-grava-de-olho-na-chapecoense",
-      "time": "04/09 · 18:25",
-      "pubDate": "Fri, 04 Sep 2026 15:25:00 -0300"
+      "title": "Conmebol define data para sorteio da Libertadores Feminina; Corinthians busca o heptacampeonato",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539384/conmebol-define-data-para-sorteio-da-libertadores-feminina-corinthians-busca-o-heptacampeonato",
+      "time": "04/09 · 21:32",
+      "pubDate": "Fri, 04 Sep 2026 18:32:47 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcedor hostilizado por ganhar camisa de Neymar visita CT do Corinthians e ganha autógrafos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539364/torcedor-hostilizado-por-ganhar-camisa-de-neymar-visita-ct-do-corinthians-e-ganha-autografos",
-      "time": "04/09 · 18:22",
-      "pubDate": "Fri, 04 Sep 2026 15:22:00 -0300"
+      "title": "Zagueiro do Corinthians comemora sequência como titular e fala sobre ritmo intenso no Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539341/zagueiro-do-corinthians-comemora-sequencia-como-titular-e-fala-sobre-ritmo-intenso-no-brasil",
+      "time": "04/09 · 21:30",
+      "pubDate": "Fri, 04 Sep 2026 18:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Quem deve substituir Gabriel Paulista no Corinthians contra a Chapecoense? Vote na enquete!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539345/quem-deve-substituir-gabriel-paulista-no-corinthians-contra-a-chapecoense-vote-na-enquete",
-      "time": "04/09 · 17:33",
-      "pubDate": "Fri, 04 Sep 2026 14:33:00 -0300"
+      "title": "Corinthians inicia preparação para jogo decisivo pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539383/corinthians-inicia-preparacao-para-jogo-decisivo-pelo-brasileirao-feminino",
+      "time": "04/09 · 20:53",
+      "pubDate": "Fri, 04 Sep 2026 17:53:47 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba como adquirir ingressos para Corinthians e Red Bull Bragantino pelo Brasileirão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539355/saiba-como-adquirir-os-ingressos-para-corinthians-e-red-bull-bragantino-pelo-brasileirao-sub-17",
-      "time": "04/09 · 16:28",
-      "pubDate": "Fri, 04 Sep 2026 13:28:00 -0300"
+      "title": "Corinthians entra na última semana da janela como único time da Série A sem anunciar reforços",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539349/corinthians-entra-na-ultima-semana-da-janela-como-unico-time-da-serie-a-sem-anunciar-reforcos",
+      "time": "04/09 · 20:33",
+      "pubDate": "Fri, 04 Sep 2026 17:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é condenado pelo STJD pela hostilização à criança que recebeu camisa de Neymar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539356/corinthians-e-condenado-pelo-stjd-pela-hostilizacao-a-crianca-que-recebeu-camisa-de-neymar",
-      "time": "04/09 · 15:45",
-      "pubDate": "Fri, 04 Sep 2026 12:45:00 -0300"
+      "title": "Meio-campista do Corinthians comenta sobre jogar na Fazendinha e boa fase no Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539378/meio-campista-do-corinthians-comenta-sobre-jogar-na-fazendinha-e-boa-fase-no-brasileirao-sub-17",
+      "time": "04/09 · 20:04",
+      "pubDate": "Fri, 04 Sep 2026 17:04:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto tem fibrose confirmada na coxa e será desfalque nos 3 próximos jogos do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-tem-fibrose-confirmada-na-coxa-e-sera-desfalque-nos-3-proximos-jogos-do-corinthians]]>",
+      "time": "04/09 · 18:00",
+      "pubDate": "Fri, 04 Sep 2026 15:00:10 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Lingard precisa de reviravolta nos próximos meses para merecer uma renovação no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-lingard-precisa-de-reviravolta-nos-proximos-meses-para-merecer-uma-renovacao-no-corinthians]]>",
-      "time": "04/09 · 12:13",
-      "pubDate": "Fri, 04 Sep 2026 09:13:38 -0300"
+      "time": "04/09 · 16:58",
+      "pubDate": "Fri, 04 Sep 2026 13:58:48 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Renovação de André Carrillo é discutida internamente no Corinthians; contrato atual encerra em 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-andre-carrillo-e-discutida-internamente-no-corinthians-contrato-atual-encerra-em-2026]]>",
+      "time": "04/09 · 14:19",
+      "pubDate": "Fri, 04 Sep 2026 11:19:12 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Trabalho de Marcelo Paz no Corinthians é positivo mesmo prejudicado por erros de Osmar Stabile",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-trabalho-de-marcelo-paz-no-corinthians-e-positivo-mesmo-prejudicado-por-erros-de-osmar-stabile]]>",
+      "time": "04/09 · 14:04",
+      "pubDate": "Fri, 04 Sep 2026 11:04:01 -0300"
     },
     {
       "source": "Bolavip",
@@ -81,14 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-deseja-continuar-em-2027-mas-corinthians-ainda-nao-fez-nenhum-movimento-por-permanencia]]>",
       "time": "04/09 · 12:13",
       "pubDate": "Fri, 04 Sep 2026 09:13:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Renovação de André Carrillo é discutida internamente no Corinthians; contrato atual encerra em 2026",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-andre-carrillo-e-discutida-internamente-no-corinthians-contrato-atual-encerra-em-2026]]>",
-      "time": "03/09 · 20:55",
-      "pubDate": "Thu, 03 Sep 2026 17:55:41 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-jamais-aceitar-qualquer-proposta-menor-que-r-147-milhoes-por-breno-bidon]]>",
       "time": "03/09 · 12:51",
       "pubDate": "Thu, 03 Sep 2026 09:51:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Memphis é desfalque de novo no treino do Corinthians, e os 90 minutos contra o Santos pesam",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-memphis-e-desfalque-de-novo-no-treino-do-corinthians-e-os-90-minutos-contra-o-santos-pesam]]>",
-      "time": "03/09 · 01:04",
-      "pubDate": "Wed, 02 Sep 2026 22:04:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gaviões da Fiel comenta suspeita de ‘cobrança indevida’ da Caixa ao Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gavioes-da-fiel-comenta-suspeita-de-cobranca-indevida-da-caixa-ao-corinthians-confira]]>",
-      "time": "02/09 · 22:26",
-      "pubDate": "Wed, 02 Sep 2026 19:26:21 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,22 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Sub-20 rescinde contrato e deixa o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539385/goleiro-do-sub-20-rescinde-contrato-e-deixa-o-corinthians",
+      "pubDate": "Fri, 04 Sep 2026 19:03:00 -0300",
+      "date": "04/09 · 22:03"
+    },
+    {
       "title": "Corinthians encerra longo jejum contra o Athletico-PR em goleada no Brasileiro Sub-17",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539279/corinthians-encerra-longo-jejum-contra-o-athletico-pr-em-goleada-no-brasileiro-sub-17",
       "pubDate": "Thu, 03 Sep 2026 19:33:00 -0300",
       "date": "03/09 · 22:33"
-    },
-    {
-      "title": "Goleiro do Sub-20 do Corinthians projeta partida contra o São Bento pelo Paulista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539322/goleiro-do-sub-20-do-corinthians-projeta-partida-contra-o-sao-bento-pelo-paulista",
-      "pubDate": "Thu, 03 Sep 2026 18:38:00 -0300",
-      "date": "03/09 · 21:38"
-    },
-    {
-      "title": "Atacante comemora fim de jejum após marcar gol em goleada do Corinthians no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539258/atacante-comemora-fim-de-jejum-apos-marcar-gol-em-goleada-do-corinthians-no-brasileiro-sub-17",
-      "pubDate": "Thu, 03 Sep 2026 17:30:00 -0300",
-      "date": "03/09 · 20:30"
     }
   ]
 };
