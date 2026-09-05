@@ -1,7 +1,47 @@
-// Gerado automaticamente em 05/09/2026, 11:25:17
+// Gerado automaticamente em 05/09/2026, 14:03:16
 const LIVE_DATA = {
-  "updatedAt": "2026-09-05T11:25:17.804Z",
+  "updatedAt": "2026-09-05T14:03:16.301Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians lança parceria com a Turma da Mônica em homenagem a Mauricio de Sousa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-lanca-parceria-com-a-turma-da-monica-em-homenagem-a-mauricio-de-sousa/",
+      "time": "05/09 · 14:01",
+      "pubDate": "Sat, 05 Sep 2026 14:01:48 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Em celebração aos 90 anos de Mauricio de Sousa, Corinthians anuncia parceria com Turma da Mônica",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539404/em-celebracao-aos-90-anos-de-mauricio-de-sousa-corinthians-anuncia-parceria-com-turma-da-monica",
+      "time": "05/09 · 14:01",
+      "pubDate": "Sat, 05 Sep 2026 11:01:39 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se apoia em bom retrospecto no Canindé para avançar à semifinal do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539260/corinthians-se-apoia-em-bom-retrospecto-no-caninde-para-avancar-a-semifinal-do-brasileirao-feminino",
+      "time": "05/09 · 13:31",
+      "pubDate": "Sat, 05 Sep 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Red Bull Bragantino para se aproximar da liderança do Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539382/corinthians-recebe-o-red-bull-bragantino-para-se-aproximar-da-lideranca-do-brasileiro-sub-17",
+      "time": "05/09 · 12:30",
+      "pubDate": "Sat, 05 Sep 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diretoria do Corinthians não cumpre prazo para quitar direitos atrasados do elenco feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539387/diretoria-do-corinthians-nao-cumpre-prazo-para-quitar-direitos-atrasados-do-elenco-feminino",
+      "time": "05/09 · 11:30",
+      "pubDate": "Sat, 05 Sep 2026 08:30:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -51,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 04 Sep 2026 21:45:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "MP notifica Corinthians antes de análise técnica que pode impactar inquérito para intervenção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539389/mp-notifica-corinthians-antes-de-analise-tecnica-que-pode-impactar-inquerito-para-intervencao",
-      "time": "05/09 · 00:39",
-      "pubDate": "Fri, 04 Sep 2026 21:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians relembra história do remo nos 116 anos e celebra conquistas recentes da modalidade",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539368/corinthians-relembra-historia-do-remo-nos-116-anos-e-celebra-conquistas-recentes-da-modalidade",
-      "time": "05/09 · 00:30",
-      "pubDate": "Fri, 04 Sep 2026 21:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "SAFiel envia documento com respostas aos questionamentos do Corinthians sobre projeto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539388/safiel-envia-documento-com-respostas-aos-questionamentos-do-corinthians-sobre-projeto",
-      "time": "04/09 · 23:44",
-      "pubDate": "Fri, 04 Sep 2026 20:44:14 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-volante do Corinthians é anunciado como novo comentarista em emissora de televisão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539354/ex-volante-do-corinthians-e-anunciado-como-novo-comentarista-em-emissora-de-televisao",
-      "time": "04/09 · 23:33",
-      "pubDate": "Fri, 04 Sep 2026 20:33:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Yuri Alberto tem fibrose confirmada na coxa e será desfalque nos 3 próximos jogos do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-tem-fibrose-confirmada-na-coxa-e-sera-desfalque-nos-3-proximos-jogos-do-corinthians]]>",
-      "time": "04/09 · 20:34",
-      "pubDate": "Fri, 04 Sep 2026 17:34:40 -0300"
+      "time": "05/09 · 00:32",
+      "pubDate": "Fri, 04 Sep 2026 21:32:39 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -137,14 +145,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-lingard-precisa-de-reviravolta-nos-proximos-meses-para-merecer-uma-renovacao-no-corinthians]]>",
       "time": "04/09 · 16:58",
       "pubDate": "Fri, 04 Sep 2026 13:58:48 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Yuri Alberto deve desfalcar Corinthians na Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-deve-desfalcar-corinthians-na-libertadores/",
-      "time": "04/09 · 15:21",
-      "pubDate": "Fri, 04 Sep 2026 15:21:12 +0000"
     },
     {
       "source": "Bolavip",
