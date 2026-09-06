@@ -1,126 +1,102 @@
-// Gerado automaticamente em 05/09/2026, 23:25:25
+// Gerado automaticamente em 06/09/2026, 11:46:57
 const LIVE_DATA = {
-  "updatedAt": "2026-09-05T23:25:25.966Z",
+  "updatedAt": "2026-09-06T11:46:57.771Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians encerra preparação para enfrentar a Chapecoense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-para-enfrentar-a-chapecoense-veja-provavel-escalacao/",
-      "time": "05/09 · 23:05",
-      "pubDate": "Sat, 05 Sep 2026 23:05:01 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à partida entre Corinthians e Chapecoense pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539414/saiba-onde-assistir-a-partida-entre-corinthians-e-chapecoense-pelo-brasileirao",
+      "time": "06/09 · 11:30",
+      "pubDate": "Sun, 06 Sep 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vive 'drama' ofensivo no Brasileirão e busca respostas em casa contra a Chapecoense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539402/corinthians-vive-drama-ofensivo-no-brasileirao-e-busca-respostas-em-casa-contra-a-chapecoense",
-      "time": "05/09 · 23:03",
-      "pubDate": "Sat, 05 Sep 2026 20:03:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians neste sábado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-neste-sabado-12/",
-      "time": "05/09 · 23:00",
-      "pubDate": "Sat, 05 Sep 2026 23:00:15 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Chapecoense pelo Brasileirão: onde assistir, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-chapecoense-brasileirao-2026-06-09-2026/",
-      "time": "05/09 · 23:00",
-      "pubDate": "Sat, 05 Sep 2026 23:00:07 +0000"
+      "title": "Corinthians recebe o Pinheiros para forçar terceiro jogo no Paulista de Basquete; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539415/corinthians-recebe-o-pinheiros-para-forcar-terceiro-jogo-no-paulista-de-basquete-saiba-tudo",
+      "time": "06/09 · 11:00",
+      "pubDate": "Sun, 06 Sep 2026 08:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para receber a Chapecoense; veja a provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539405/corinthians-encerra-preparacao-para-receber-a-chapecoense-veja-a-provavel-escalacao",
-      "time": "05/09 · 22:45",
-      "pubDate": "Sat, 05 Sep 2026 19:45:00 -0300"
+      "title": "Últimas do Corinthians: provável escalação, atraso em acordo e ação especial",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539440/ultimas-do-corinthians-provavel-escalacao-atraso-em-acordo-e-acao-especial",
+      "time": "06/09 · 10:30",
+      "pubDate": "Sun, 06 Sep 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians faz treino no Canindé antes de decisão contra o Cruzeiro no Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539432/corinthians-faz-treino-no-caninde-antes-de-decisao-contra-o-cruzeiro-no-brasileirao-feminino",
-      "time": "05/09 · 22:23",
-      "pubDate": "Sat, 05 Sep 2026 19:23:03 -0300"
+      "title": "Corinthians recebe a Chapecoense em busca de reação no Campeonato Brasileiro; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539412/corinthians-recebe-a-chapecoense-em-busca-de-reacao-no-campeonato-brasileiro-saiba-tudo",
+      "time": "06/09 · 03:01",
+      "pubDate": "Sun, 06 Sep 2026 00:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians venderá os ingressos de visitantes para jogo contra o Flamengo no Maracanã",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539431/corinthians-vendera-os-ingressos-de-visitantes-para-jogo-contra-o-flamengo-no-maracana",
-      "time": "05/09 · 22:12",
-      "pubDate": "Sat, 05 Sep 2026 19:12:00 -0300"
+      "title": "Corinthians vê queda no aproveitamento sem Yuri Alberto em campo; média de gols se mantém a mesma",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539401/corinthians-ve-queda-no-aproveitamento-sem-yuri-alberto-em-campo-media-de-gols-se-mantem-a-mesma",
+      "time": "06/09 · 01:00",
+      "pubDate": "Sat, 05 Sep 2026 22:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala observado por Fernando Diniz reassume artilharia isolada do Corinthians Futsal em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539392/ala-observado-por-fernando-diniz-reassume-artilharia-isolada-do-corinthians-futsal-em-2026",
-      "time": "05/09 · 22:01",
-      "pubDate": "Sat, 05 Sep 2026 19:01:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Polícia identifica torcedores do Corinthians que hostilizaram garoto presenteado por Neymar",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/policia-identifica-torcedores-do-corinthians-que-hostilizaram-garoto-presenteado-por-neymar/",
-      "time": "05/09 · 21:10",
-      "pubDate": "Sat, 05 Sep 2026 21:10:53 +0000"
+      "title": "Técnico do Corinthians detalha preparação da equipe para a reta final do Paulista Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539423/tecnico-do-corinthians-detalha-preparacao-da-equipe-para-a-reta-final-do-paulista-feminino-sub-17",
+      "time": "06/09 · 00:32",
+      "pubDate": "Sat, 05 Sep 2026 21:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians identifica envolvidos em hostilização a garoto e suspende cadastros no Fiel Torcedor",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539426/corinthians-identifica-envolvidos-em-hostilizacao-a-garoto-e-suspende-cadastros-no-fiel-torcedor",
-      "time": "05/09 · 21:10",
-      "pubDate": "Sat, 05 Sep 2026 18:10:00 -0300"
+      "title": "Corinthians volta a vencer no Paulista de Futsal e mantém 100% jogando no Wlamir Marques",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539393/corinthians-volta-a-vencer-no-paulista-de-futsal-e-mantem-100-por-cento-jogando-no-wlamir-marques",
+      "time": "06/09 · 00:01",
+      "pubDate": "Sat, 05 Sep 2026 21:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians Sub-20 passa em branco após oito jogos seguidos balançando as redes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539381/corinthians-sub-20-passa-em-branco-apos-oito-jogos-seguidos-balancando-as-redes",
-      "time": "05/09 · 21:04",
-      "pubDate": "Sat, 05 Sep 2026 18:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quem disputará a presidência do Corinthians nas próximas eleições? Confira situação de 11 nomes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539420/quem-disputara-a-presidencia-do-corinthians-nas-proximas-eleicoes-confira-situacao-de-11-nomes",
-      "time": "05/09 · 20:31",
-      "pubDate": "Sat, 05 Sep 2026 17:31:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ziyech quase acerta com Botafogo; jogador do Corinthians atrasa negociação",
-      "url": "https://www.gazetaesportiva.com/times/botafogo/ziyech-reavalia-acordo-com-botafogo-apos-conversa-com-jogador-do-corinthians/",
-      "time": "05/09 · 20:30",
-      "pubDate": "Sat, 05 Sep 2026 20:30:30 +0000"
+      "title": "Zagueiro do Corinthians retorna aos treinos parciais com o elenco após quadro de labirintite",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539438/zagueiro-do-corinthians-retorna-aos-treinos-parciais-com-o-elenco-apos-quadro-de-labirintite",
+      "time": "05/09 · 23:36",
+      "pubDate": "Sat, 05 Sep 2026 20:36:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Wagner do Nascimento Magalhães comanda a arbitragem de Corinthians x Chapecoense pelo Brasileirão￼",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/wagner-do-nascimento-magalhaes-comanda-a-arbitragem-de-corinthians-x-chapecoense-pelo-brasileirao]]>",
-      "time": "05/09 · 19:30",
-      "pubDate": "Sat, 05 Sep 2026 16:30:24 -0300"
+      "title": "Demora na recuperação de Yuri Alberto faz torcida questionar trabalho do DM do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/demora-na-recuperacao-de-yuri-alberto-faz-torcida-questionar-trabalho-do-dm]]>",
+      "time": "05/09 · 23:22",
+      "pubDate": "Sat, 05 Sep 2026 20:22:41 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "João Pedro Tchoca ganha força no Corinthians e pode começar contra a Chapecoense",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-ganha-forca-no-corinthians-e-pode-comecar-contra-a-chapecoense]]>",
-      "time": "05/09 · 19:17",
-      "pubDate": "Sat, 05 Sep 2026 16:17:55 -0300"
+      "time": "05/09 · 22:56",
+      "pubDate": "Sat, 05 Sep 2026 19:56:53 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Wagner do Nascimento Magalhães comanda a arbitragem de Corinthians x Chapecoense pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/wagner-do-nascimento-magalhaes-comanda-a-arbitragem-de-corinthians-x-chapecoense-pelo-brasileirao]]>",
+      "time": "05/09 · 20:08",
+      "pubDate": "Sat, 05 Sep 2026 17:08:38 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians encara Chapecoense com obrigação de reagir antes de sequência pesada na temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-encara-chapecoense-com-obrigacao-de-reagir-antes-de-sequencia-pesada-na-temporada]]>",
+      "time": "05/09 · 20:03",
+      "pubDate": "Sat, 05 Sep 2026 17:03:08 -0300"
     },
     {
       "source": "Bolavip",
@@ -147,22 +123,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 05 Sep 2026 12:02:56 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians lança parceria com a Turma da Mônica em homenagem a Mauricio de Sousa",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-lanca-parceria-com-a-turma-da-monica-em-homenagem-a-mauricio-de-sousa/",
-      "time": "05/09 · 14:01",
-      "pubDate": "Sat, 05 Sep 2026 14:01:48 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay supera incômodo no tornozelo esquerdo e será titular em Corinthians x Chapecoense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-supera-incomodo-no-tornozelo-esquerdo-e-sera-titular-em-corinthians-x-chapecoense]]>",
-      "time": "05/09 · 13:51",
-      "pubDate": "Sat, 05 Sep 2026 10:51:12 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Corinthians não pode nem sonhar em gastar R$ 11,8 milhões pela permanência de Allan em 2027",
@@ -173,26 +133,66 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians x Chapecoense: onde assistir ao jogo pela 26ª rodada do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-chapecoense-onde-assistir-ao-jogo-pela-26a-rodada-do-brasileirao/",
-      "time": "05/09 · 11:00",
-      "pubDate": "Sat, 05 Sep 2026 11:00:01 +0000"
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians tem queda de aproveitamento sem Yuri Alberto; veja números",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tem-queda-de-aproveitamento-sem-yuri-alberto-veja-numeros/",
-      "time": "05/09 · 10:00",
-      "pubDate": "Sat, 05 Sep 2026 10:00:41 +0000"
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto tem fibrose confirmada na coxa e será desfalque nos 3 próximos jogos do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-tem-fibrose-confirmada-na-coxa-e-sera-desfalque-nos-3-proximos-jogos-do-corinthians]]>",
-      "time": "05/09 · 00:32",
-      "pubDate": "Fri, 04 Sep 2026 21:32:39 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,10 +200,22 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Saiba como assistir à estreia de dupla do Corinthians com a Seleção na Copa do Mundo Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539366/saiba-como-assistir-a-estreia-de-dupla-do-corinthians-com-a-selecao-na-copa-do-mundo-sub-20",
-      "pubDate": "Fri, 04 Sep 2026 22:30:00 -0300",
-      "date": "05/09 · 01:30"
+      "title": "Saiba onde assistir à partida entre Corinthians e Chapecoense pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539414/saiba-onde-assistir-a-partida-entre-corinthians-e-chapecoense-pelo-brasileirao",
+      "pubDate": "Sun, 06 Sep 2026 08:30:00 -0300",
+      "date": "06/09 · 11:30"
+    },
+    {
+      "title": "Corinthians vê queda no aproveitamento sem Yuri Alberto em campo; média de gols se mantém a mesma",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539401/corinthians-ve-queda-no-aproveitamento-sem-yuri-alberto-em-campo-media-de-gols-se-mantem-a-mesma",
+      "pubDate": "Sat, 05 Sep 2026 22:00:00 -0300",
+      "date": "06/09 · 01:00"
+    },
+    {
+      "title": "Goleiro do Corinthians mostra confiança para jogo contra a Chapecoense pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539433/goleiro-do-corinthians-mostra-confianca-para-jogo-contra-a-chapecoense-pelo-brasileirao",
+      "pubDate": "Sat, 05 Sep 2026 20:33:00 -0300",
+      "date": "05/09 · 23:33"
     }
   ]
 };
