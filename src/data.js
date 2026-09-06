@@ -1,7 +1,31 @@
-// Gerado automaticamente em 06/09/2026, 11:46:57
+// Gerado automaticamente em 06/09/2026, 14:28:45
 const LIVE_DATA = {
-  "updatedAt": "2026-09-06T11:46:57.771Z",
+  "updatedAt": "2026-09-06T14:28:45.514Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra árbitro polêmico depois de quase dois anos contra a Chapecoense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539446/corinthians-reencontra-arbitro-polemico-depois-de-quase-dois-anos-contra-a-chapecoense",
+      "time": "06/09 · 13:31",
+      "pubDate": "Sun, 06 Sep 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o São José na retomada do Paulista Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539429/corinthians-recebe-o-sao-jose-na-retomada-do-paulista-feminino-sub-17",
+      "time": "06/09 · 12:30",
+      "pubDate": "Sun, 06 Sep 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ética do Corinthians arquiva procedimento contra presidente do Conselho Fiscal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539439/etica-do-corinthians-arquiva-procedimento-contra-presidente-do-conselho-fiscal",
+      "time": "06/09 · 12:01",
+      "pubDate": "Sun, 06 Sep 2026 09:01:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -41,30 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539401/corinthians-ve-queda-no-aproveitamento-sem-yuri-alberto-em-campo-media-de-gols-se-mantem-a-mesma",
       "time": "06/09 · 01:00",
       "pubDate": "Sat, 05 Sep 2026 22:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians detalha preparação da equipe para a reta final do Paulista Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539423/tecnico-do-corinthians-detalha-preparacao-da-equipe-para-a-reta-final-do-paulista-feminino-sub-17",
-      "time": "06/09 · 00:32",
-      "pubDate": "Sat, 05 Sep 2026 21:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a vencer no Paulista de Futsal e mantém 100% jogando no Wlamir Marques",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539393/corinthians-volta-a-vencer-no-paulista-de-futsal-e-mantem-100-por-cento-jogando-no-wlamir-marques",
-      "time": "06/09 · 00:01",
-      "pubDate": "Sat, 05 Sep 2026 21:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians retorna aos treinos parciais com o elenco após quadro de labirintite",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539438/zagueiro-do-corinthians-retorna-aos-treinos-parciais-com-o-elenco-apos-quadro-de-labirintite",
-      "time": "05/09 · 23:36",
-      "pubDate": "Sat, 05 Sep 2026 20:36:00 -0300"
     },
     {
       "source": "Bolavip",
