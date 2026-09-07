@@ -1,7 +1,71 @@
-// Gerado automaticamente em 07/09/2026, 20:50:46
+// Gerado automaticamente em 07/09/2026, 23:49:52
 const LIVE_DATA = {
-  "updatedAt": "2026-09-07T20:50:46.841Z",
+  "updatedAt": "2026-09-07T23:49:52.587Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians engata maior sequência de públicos acima de 40 mil na Neo Química Arena em quase um ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539503/corinthians-engata-maior-sequencia-de-publicos-acima-de-40-mil-na-neo-quimica-arena-em-quase-um-ano",
+      "time": "07/09 · 23:35",
+      "pubDate": "Mon, 07 Sep 2026 20:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcida do Corinthians protesta contra Osmar Stabile após classificação no Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539588/torcida-do-corinthians-protesta-contra-osmar-stabile-apos-classificacao-no-brasileirao-feminino",
+      "time": "07/09 · 22:34",
+      "pubDate": "Mon, 07 Sep 2026 19:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians minimiza impacto de crise financeira dentro de campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539518/tecnico-do-corinthians-minimiza-impacto-de-crise-financeira-dentro-de-campo",
+      "time": "07/09 · 22:31",
+      "pubDate": "Mon, 07 Sep 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece adversário das semifinais do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539587/corinthians-conhece-adversario-das-semifinais-do-brasileirao-feminino",
+      "time": "07/09 · 22:28",
+      "pubDate": "Mon, 07 Sep 2026 19:28:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians elimina Cruzeiro e vai à semi do Brasileiro feminino; veja duelos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-elimina-cruzeiro-e-vai-a-semi-do-brasileiro-feminino-veja-duelos/",
+      "time": "07/09 · 22:23",
+      "pubDate": "Mon, 07 Sep 2026 22:23:06 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence Cruzeiro com atuação sólida e vai às semifinais do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539577/corinthians-vence-cruzeiro-com-atuacao-solida-e-vai-as-semifinais-do-brasileirao-feminino",
+      "time": "07/09 · 21:57",
+      "pubDate": "Mon, 07 Sep 2026 18:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians analisa derrota para a Chapecoense e nega preocupação com rebaixamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539545/lateral-do-corinthians-analisa-derrota-para-a-chapecoense-e-nega-preocupacao-com-rebaixamento",
+      "time": "07/09 · 21:34",
+      "pubDate": "Mon, 07 Sep 2026 18:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Marcelo Paz detalha futuro de jovem volante no Corinthians e projeta quartas da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539579/marcelo-paz-detalha-futuro-de-jovem-volante-no-corinthians-e-projeta-quartas-da-libertadores",
+      "time": "07/09 · 21:01",
+      "pubDate": "Mon, 07 Sep 2026 18:01:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,20 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 07 Sep 2026 17:31:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay destaca importância de Yuri Alberto e cobra reação do elenco do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539506/memphis-depay-destaca-importancia-de-yuri-alberto-e-cobra-reacao-do-elenco-do-corinthians",
-      "time": "07/09 · 19:32",
-      "pubDate": "Mon, 07 Sep 2026 16:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians vira desfalque para decisão contra o Cruzeiro no Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539576/atacante-do-corinthians-vira-desfalque-para-decisao-contra-o-cruzeiro-no-brasileirao-feminino",
-      "time": "07/09 · 19:28",
-      "pubDate": "Mon, 07 Sep 2026 16:28:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians precisa mostrar em campo que não escolhe quais campeonatos quer jogar",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-mostrar-em-campo-que-nao-escolhe-quais-campeonatos-quer-jogar]]>",
+      "time": "07/09 · 19:56",
+      "pubDate": "Mon, 07 Sep 2026 16:56:40 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,44 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 07 Sep 2026 19:13:11 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia preparação para visitar o Estudiantes em decisão pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539573/corinthians-inicia-preparacao-para-visitar-o-estudiantes-em-decisao-pela-libertadores",
-      "time": "07/09 · 19:05",
-      "pubDate": "Mon, 07 Sep 2026 16:05:28 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Cruzeiro pelo Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539552/corinthians-esta-escalado-para-enfrentar-o-cruzeiro-pelo-brasileirao-feminino",
-      "time": "07/09 · 19:01",
-      "pubDate": "Mon, 07 Sep 2026 16:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz reage às falas de Memphis após derrota e descarta problema no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539520/diniz-reage-as-falas-de-memphis-apos-derrota-e-descarta-problema-no-corinthians",
-      "time": "07/09 · 18:36",
-      "pubDate": "Mon, 07 Sep 2026 15:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians atropela Guarulhense e mantém liderança do Campeonato Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539570/corinthians-atropela-guarulhense-e-mantem-lideranca-do-campeonato-paulista-de-futsal",
-      "time": "07/09 · 18:30",
-      "pubDate": "Mon, 07 Sep 2026 15:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega à maior sequência sofrendo gols neste Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539510/corinthians-chega-a-maior-sequencia-sofrendo-gols-neste-brasileirao",
-      "time": "07/09 · 17:33",
-      "pubDate": "Mon, 07 Sep 2026 14:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians muda a chave, viaja para Argentina e já tem treino marcado nesta terça-feira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-muda-a-chave-viaja-para-argentina-e-ja-tem-treino-marcado-nesta-terca-feira]]>",
+      "time": "07/09 · 19:04",
+      "pubDate": "Mon, 07 Sep 2026 16:04:56 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -123,14 +147,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 07 Sep 2026 03:01:29 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz assume culpa por fase ruim e minimiza atrasos salariais no Corinthians: &#8220;Não é o principal&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-assume-culpa-por-fase-ruim-no-brasileiro-e-minimiza-atrasos-no-corinthians-nao-e-o-principal/",
-      "time": "07/09 · 02:28",
-      "pubDate": "Mon, 07 Sep 2026 02:28:20 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Matheus Bidu se destaca, mas Corinthians leva virada do lanterna Chapecoense pelo Brasileirão",
@@ -165,14 +181,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "João Pedro Tchoca ganha força no Corinthians e pode começar contra a Chapecoense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-ganha-forca-no-corinthians-e-pode-comecar-contra-a-chapecoense]]>",
-      "time": "05/09 · 22:56",
-      "pubDate": "Sat, 05 Sep 2026 19:56:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Wagner do Nascimento Magalhães comanda a arbitragem de Corinthians x Chapecoense pelo Brasileirão",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/wagner-do-nascimento-magalhaes-comanda-a-arbitragem-de-corinthians-x-chapecoense-pelo-brasileirao]]>",
       "time": "05/09 · 20:08",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-encara-chapecoense-com-obrigacao-de-reagir-antes-de-sequencia-pesada-na-temporada]]>",
       "time": "05/09 · 20:03",
       "pubDate": "Sat, 05 Sep 2026 17:03:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não deve pagar R$ 8,4 milhões pela contratação em definitivo do meio-campista Matheus Pereira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-deve-pagar-r-84-milhoes-pela-contratacao-em-definitivo-do-meio-campista-matheus-pereira]]>",
-      "time": "05/09 · 17:32",
-      "pubDate": "Sat, 05 Sep 2026 14:32:25 -0300"
     }
   ],
   "upcoming": [],
@@ -222,30 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539460/saiba-onde-assistir-ao-duelo-decisivo-entre-corinthians-e-cruzeiro-pelo-brasileirao-feminino",
       "pubDate": "Mon, 07 Sep 2026 08:30:00 -0300",
       "date": "07/09 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Sequência negativa do Corinthians e parte financeira atrasada: coletiva de F. Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129521/sequencia-negativa-do-corinthians-e-parte-financeira-atrasada-coletiva-de-f-diniz",
-      "pubDate": "Sun, 06 Sep 2026 23:42:04 -0300",
-      "date": "07/09 · 02:42"
-    },
-    {
-      "title": "Técnico do Corinthians assume responsabilidade por derrotas e avalia momento de pressão no trabalho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539515/tecnico-do-corinthians-assume-responsabilidade-por-derrotas-e-avalia-momento-de-pressao-no-trabalho",
-      "pubDate": "Sun, 06 Sep 2026 23:32:00 -0300",
-      "date": "07/09 · 02:32"
-    },
-    {
-      "title": "Meia do Corinthians comemora gol da vantagem e prega busca pela vitória em decisão contra o Cruzeiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539479/meia-do-corinthians-comemora-gol-da-vantagem-e-prega-busca-pela-vitoria-em-decisao-contra-o-cruzeiro",
-      "pubDate": "Sun, 06 Sep 2026 23:22:00 -0300",
-      "date": "07/09 · 02:22"
-    },
-    {
-      "title": "VÍDEO: 'O clube já tem problemas o suficiente'! Memphis Depay fala sobre situação atual do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129519/o-clube-ja-tem-problemas-o-suficiente-memphis-depay-fala-sobre-situacao-atual-do-corinthians",
-      "pubDate": "Sun, 06 Sep 2026 23:15:48 -0300",
-      "date": "07/09 · 02:15"
     }
   ]
 };
