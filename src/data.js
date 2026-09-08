@@ -1,22 +1,70 @@
-// Gerado automaticamente em 08/09/2026, 12:19:21
+// Gerado automaticamente em 08/09/2026, 20:22:36
 const LIVE_DATA = {
-  "updatedAt": "2026-09-08T12:19:21.667Z",
+  "updatedAt": "2026-09-08T20:22:36.001Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Pinheiros em decisão por vaga na semifinal do Paulista de Basquete; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539572/corinthians-recebe-o-pinheiros-em-decisao-por-vaga-na-semifinal-do-paulista-de-basquete-saiba-tudo",
-      "time": "08/09 · 11:30",
-      "pubDate": "Tue, 08 Sep 2026 08:30:00 -0300"
+      "title": "Corinthians inaugura sala de recovery para jogadores no CT Dr. Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539630/corinthians-inaugura-sala-de-recovery-para-jogadores-no-ct-dr-joaquim-grava",
+      "time": "08/09 · 20:03",
+      "pubDate": "Tue, 08 Sep 2026 17:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: olhares da Seleção, desfalque de Yuri e Memphis com personalidade",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539596/ultimas-do-corinthians-olhares-da-selecao-desfalque-de-yuri-e-memphis-com-personalidade",
-      "time": "08/09 · 10:30",
-      "pubDate": "Tue, 08 Sep 2026 07:30:00 -0300"
+      "title": "Matheuzinho destaca confiança em Diniz e projeta fim de sequência negativa do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539633/matheuzinho-destaca-confianca-em-diniz-e-projeta-fim-de-sequencia-negativa-do-corinthians",
+      "time": "08/09 · 19:54",
+      "pubDate": "Tue, 08 Sep 2026 16:54:50 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra preparação para visitar o Estudiantes na Libertadores; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539609/corinthians-encerra-preparacao-para-visitar-o-estudiantes-na-libertadores-veja-o-provavel-time",
+      "time": "08/09 · 19:44",
+      "pubDate": "Tue, 08 Sep 2026 16:44:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro entra no pódio de assistentes do Corinthians na temporada após derrota; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539575/zagueiro-entra-no-podio-de-assistentes-do-corinthians-na-temporada-apos-derrota-veja-o-ranking",
+      "time": "08/09 · 19:36",
+      "pubDate": "Tue, 08 Sep 2026 16:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece todos os detalhes da fase de grupos da Liga Sul-Americana de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539631/corinthians-conhece-todos-os-detalhes-da-fase-de-grupos-da-liga-sul-americana-de-basquete",
+      "time": "08/09 · 18:57",
+      "pubDate": "Tue, 08 Sep 2026 15:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante celebra vaga na semifinal do Brasileiro e vê melhor momento desde chegada ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539622/atacante-celebra-vaga-na-semifinal-do-brasileiro-e-ve-melhor-momento-desde-chegada-ao-corinthians",
+      "time": "08/09 · 18:33",
+      "pubDate": "Tue, 08 Sep 2026 15:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Autoridades de Buenos Aires alertam torcedores sobre punições por racismo em jogo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539627/autoridades-de-buenos-aires-alertam-torcedores-sobre-punicoes-por-racismo-em-jogo-do-corinthians",
+      "time": "08/09 · 18:16",
+      "pubDate": "Tue, 08 Sep 2026 15:16:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica e atletas do Corinthians comentam sobre atrasos de pagamentos da diretoria",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539615/tecnica-e-atletas-do-corinthians-comentam-sobre-atrasos-de-pagamentos-da-diretoria",
+      "time": "08/09 · 18:02",
+      "pubDate": "Tue, 08 Sep 2026 15:02:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,52 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 08 Sep 2026 09:00:22 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral iguala meio-campistas na quinta posição da artilharia do Corinthians em 2026; veja a lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539499/lateral-iguala-meio-campistas-na-quinta-posicao-da-artilharia-do-corinthians-em-2026-veja-a-lista",
-      "time": "08/09 · 01:30",
-      "pubDate": "Mon, 07 Sep 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians desembarca na Argentina com 25 jogadores para enfrentar o Estudiantes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539583/corinthians-desembarca-na-argentina-com-25-jogadores-para-enfrentar-o-estudiantes",
-      "time": "08/09 · 01:27",
-      "pubDate": "Mon, 07 Sep 2026 22:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Corinthians desembarca na Argentina para enfrentar o Estudiantes na Libertadores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129537/corinthians-desembarca-na-argentina-para-enfrentar-o-estudiantes-na-libertadores",
-      "time": "08/09 · 01:22",
-      "pubDate": "Mon, 07 Sep 2026 22:22:34 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians cai uma posição na tabela ao fim da 26ª rodada do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539592/corinthians-cai-uma-posicao-na-tabela-ao-fim-da-26-rodada-do-brasileirao",
-      "time": "08/09 · 01:05",
-      "pubDate": "Mon, 07 Sep 2026 22:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians enfrenta o Canadá em jogo da segunda rodada da Copa do Mundo Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539580/dupla-do-corinthians-entra-em-campo-com-a-selecao-brasileira-na-copa-do-mundo-sub-20",
-      "time": "08/09 · 00:58",
-      "pubDate": "Mon, 07 Sep 2026 21:58:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians destaca evolução diante do Pinheiros e celebra retorno de Betinho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539532/tecnico-do-corinthians-destaca-evolucao-diante-do-pinheiros-e-celebra-retorno-de-betinho",
-      "time": "08/09 · 00:33",
-      "pubDate": "Mon, 07 Sep 2026 21:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Dinizismo não aparece no Corinthians, e Libertadores vira último fio de esperança",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-dinizismo-nao-aparece-no-corinthians-e-libertadores-vira-ultimo-fio-de-esperanca]]>",
+      "time": "08/09 · 00:31",
+      "pubDate": "Mon, 07 Sep 2026 21:31:47 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -181,14 +189,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Wagner do Nascimento Magalhães comanda a arbitragem de Corinthians x Chapecoense pelo Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/wagner-do-nascimento-magalhaes-comanda-a-arbitragem-de-corinthians-x-chapecoense-pelo-brasileirao]]>",
-      "time": "05/09 · 20:08",
-      "pubDate": "Sat, 05 Sep 2026 17:08:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Corinthians encara Chapecoense com obrigação de reagir antes de sequência pesada na temporada",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-encara-chapecoense-com-obrigacao-de-reagir-antes-de-sequencia-pesada-na-temporada]]>",
       "time": "05/09 · 20:03",
@@ -200,28 +200,28 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Atacante celebra vaga na semifinal do Brasileiro e vê melhor momento desde chegada ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539622/atacante-celebra-vaga-na-semifinal-do-brasileiro-e-ve-melhor-momento-desde-chegada-ao-corinthians",
+      "pubDate": "Tue, 08 Sep 2026 15:33:00 -0300",
+      "date": "08/09 · 18:33"
+    },
+    {
+      "title": "Goleada do Corinthians no Paulista de Futsal agita artilharia da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539578/goleada-do-corinthians-no-paulista-de-futsal-agita-artilharia-da-temporada",
+      "pubDate": "Tue, 08 Sep 2026 14:32:00 -0300",
+      "date": "08/09 · 17:32"
+    },
+    {
+      "title": "Técnico do Corinthians vê mau momento no Brasileirão como combustível para a Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539519/tecnico-do-corinthians-ve-mau-momento-no-brasileirao-como-combustivel-para-a-libertadores",
+      "pubDate": "Tue, 08 Sep 2026 09:31:00 -0300",
+      "date": "08/09 · 12:31"
+    },
+    {
       "title": "VÍDEO: Corinthians desembarca na Argentina para enfrentar o Estudiantes na Libertadores",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129537/corinthians-desembarca-na-argentina-para-enfrentar-o-estudiantes-na-libertadores",
       "pubDate": "Mon, 07 Sep 2026 22:22:34 -0300",
       "date": "08/09 · 01:22"
-    },
-    {
-      "title": "Corinthians chega à maior sequência sofrendo gols neste Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539510/corinthians-chega-a-maior-sequencia-sofrendo-gols-neste-brasileirao",
-      "pubDate": "Mon, 07 Sep 2026 14:33:00 -0300",
-      "date": "07/09 · 17:33"
-    },
-    {
-      "title": "Lateral do Corinthians se torna o quinto jogador da posição com mais gols na história do Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539486/lateral-do-corinthians-se-torna-o-quinto-jogador-da-posicao-com-mais-gols-na-historia-do-timao",
-      "pubDate": "Mon, 07 Sep 2026 12:31:00 -0300",
-      "date": "07/09 · 15:31"
-    },
-    {
-      "title": "Goleiro do Corinthians aparece na pré-lista da Seleção Brasileira e pode ser convocado por Ancelotti",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539562/goleiro-do-corinthians-aparece-na-pre-lista-da-selecao-brasileira-e-pode-ser-convocado-por-ancelotti",
-      "pubDate": "Mon, 07 Sep 2026 11:32:00 -0300",
-      "date": "07/09 · 14:32"
     }
   ]
 };
