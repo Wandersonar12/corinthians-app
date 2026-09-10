@@ -1,78 +1,86 @@
-// Gerado automaticamente em 09/09/2026, 23:35:03
+// Gerado automaticamente em 10/09/2026, 12:24:36
 const LIVE_DATA = {
-  "updatedAt": "2026-09-09T23:35:03.954Z",
+  "updatedAt": "2026-09-10T12:24:36.187Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para enfrentar o Estudiantes pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539674/corinthians-esta-escalado-para-enfrentar-o-estudiantes-pela-libertadores",
-      "time": "09/09 · 23:10",
-      "pubDate": "Wed, 09 Sep 2026 20:10:00 -0300"
+      "title": "Corinthians pode ter retorno de volante para decisão na Libertadores; atacante ainda não deve voltar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539765/corinthians-pode-ter-retorno-de-volante-para-decisao-na-libertadores-atacante-ainda-nao-deve-voltar",
+      "time": "10/09 · 11:51",
+      "pubDate": "Thu, 10 Sep 2026 08:51:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro de Copa, oscilação e foco na Libertadores: como chega o Estudiantes contra o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539673/goleiro-de-copa-oscilacao-e-foco-na-libertadores-como-chega-o-estudiantes-contra-o-corinthians",
-      "time": "09/09 · 22:30",
-      "pubDate": "Wed, 09 Sep 2026 19:30:00 -0300"
+      "title": "Corinthians visita o Fortaleza para retomar o caminho das vitórias no Brasileirão Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539706/corinthians-visita-o-fortaleza-para-retomar-o-caminho-das-vitorias-no-brasileirao-sub-17",
+      "time": "10/09 · 11:30",
+      "pubDate": "Thu, 10 Sep 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians promove treino integrado de goleiros entre categorias de base e adulto no Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539711/corinthians-promove-treino-integrado-de-goleiros-entre-categorias-de-base-e-adulto-no-futsal",
-      "time": "09/09 · 22:23",
-      "pubDate": "Wed, 09 Sep 2026 19:23:00 -0300"
+      "title": "Últimas do Corinthians: empate na Libertadores, trio convocado e definição no Brasileiro Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539759/ultimas-do-corinthians-empate-na-libertadores-trio-convocado-e-definicao-no-brasileiro-feminino",
+      "time": "10/09 · 10:30",
+      "pubDate": "Thu, 10 Sep 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians aposta em retrospecto dominante contra o Estudiantes para avançar na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539671/corinthians-aposta-em-retrospecto-dominante-contra-o-estudiantes-para-avancar-na-libertadores",
-      "time": "09/09 · 21:31",
-      "pubDate": "Wed, 09 Sep 2026 18:31:00 -0300"
+      "title": "VÍDEO: Primeira convocação a Seleção Brasileira: zona mista Matheuzinho | Estudiantes 1x1 Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129587/primeira-convocacao-a-selecao-brasileira-zona-mista-matheuzinho-estudiantes-1x1-corinthians",
+      "time": "10/09 · 04:43",
+      "pubDate": "Thu, 10 Sep 2026 01:43:57 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Memphis Depay completa dois anos no Corinthians; relembre a trajetória do atleta até aqui",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539686/memphis-depay-completa-dois-anos-no-corinthians-relembre-a-trajetoria-do-atleta-ate-aqui",
-      "time": "09/09 · 21:01",
-      "pubDate": "Wed, 09 Sep 2026 18:01:00 -0300"
+      "title": "VÍDEO: Empate fora de casa, mudança de postura e mais: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129582/empate-fora-de-casa-mudanca-de-postura-e-mais-coletiva-de-fernando-diniz-no-corinthians",
+      "time": "10/09 · 04:21",
+      "pubDate": "Thu, 10 Sep 2026 01:21:49 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Trio do Corinthians celebra convocação para amistosos da Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539699/trio-do-corinthians-celebra-convocacao-para-amistosos-da-selecao-brasileira",
-      "time": "09/09 · 20:45",
-      "pubDate": "Wed, 09 Sep 2026 17:45:00 -0300"
+      "title": "Técnico do Corinthians exalta maturidade da equipe em empate na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539749/tecnico-do-corinthians-exalta-maturidade-da-equipe-em-empate-na-libertadores",
+      "time": "10/09 · 04:01",
+      "pubDate": "Thu, 10 Sep 2026 01:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca repetir melhor campanha desde título inédito na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539646/corinthians-busca-repetir-melhor-campanha-desde-titulo-inedito-na-libertadores",
-      "time": "09/09 · 20:29",
-      "pubDate": "Wed, 09 Sep 2026 17:29:00 -0300"
+      "title": "Diniz exalta jogadores do Corinthians convocados para a Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539750/diniz-exalta-jogadores-do-corinthians-convocados-para-a-selecao-brasileira",
+      "time": "10/09 · 03:58",
+      "pubDate": "Thu, 10 Sep 2026 00:58:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Pivô do Corinthians elogia entrega do time em classificação no Paulista e exalta apoio da torcida",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539667/pivo-do-corinthians-elogia-entrega-do-time-em-classificacao-no-paulista-e-exalta-apoio-da-torcida",
-      "time": "09/09 · 20:06",
-      "pubDate": "Wed, 09 Sep 2026 17:06:00 -0300"
+      "title": "Goleiro é eleito o craque do Corinthians em empate pelas quartas de final da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539752/goleiro-e-eleito-o-craque-do-corinthians-em-empate-pelas-quartas-de-final-da-libertadores",
+      "time": "10/09 · 03:53",
+      "pubDate": "Thu, 10 Sep 2026 00:53:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Corinthians precisa virar a chave hoje, mas problemas no clube tornam missão mais difícil",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-virar-a-chave-hoje-mas-problemas-no-clube-tornam-missao-mais-dificil]]>",
-      "time": "09/09 · 19:59",
-      "pubDate": "Wed, 09 Sep 2026 16:59:31 -0300"
+      "time": "09/09 · 20:37",
+      "pubDate": "Wed, 09 Sep 2026 17:37:02 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Histórico Estudiantes x Corinthians: História, Revanche e a Primeira Batalha na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/historico-estudiantes-x-corinthians-historia-revanche-e-a-primeira-batalha-na-libertadores]]>",
+      "time": "09/09 · 20:18",
+      "pubDate": "Wed, 09 Sep 2026 17:18:40 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-mostrar-em-campo-que-nao-escolhe-quais-campeonatos-quer-jogar]]>",
       "time": "07/09 · 19:56",
       "pubDate": "Mon, 07 Sep 2026 16:56:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians muda a chave, viaja para Argentina e já tem treino marcado nesta terça-feira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-muda-a-chave-viaja-para-argentina-e-ja-tem-treino-marcado-nesta-terca-feira]]>",
-      "time": "07/09 · 19:04",
-      "pubDate": "Mon, 07 Sep 2026 16:04:56 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,34 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: 'Feliz de ter ido os três (para a seleção)'! Hugo Souza fala sobre convocação de Bidon e Matheuzinho",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129588/feliz-de-ter-ido-os-tres-para-a-selecao-hugo-souza-fala-sobre-convocacao-de-bidon-e-matheuzinho",
+      "pubDate": "Thu, 10 Sep 2026 01:48:25 -0300",
+      "date": "10/09 · 04:48"
+    },
+    {
+      "title": "VÍDEO: Primeira convocação a Seleção Brasileira: zona mista Matheuzinho | Estudiantes 1x1 Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129587/primeira-convocacao-a-selecao-brasileira-zona-mista-matheuzinho-estudiantes-1x1-corinthians",
+      "pubDate": "Thu, 10 Sep 2026 01:43:57 -0300",
+      "date": "10/09 · 04:43"
+    },
+    {
+      "title": "VÍDEO: Breno Bidon comenta sobre sua primeira convocação para a Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129586/breno-bidon-comenta-sobre-sua-primeira-convocacao-para-a-selecao-brasileira",
+      "pubDate": "Thu, 10 Sep 2026 01:41:06 -0300",
+      "date": "10/09 · 04:41"
+    },
+    {
+      "title": "VÍDEO: 'Sou um atacante de um time grande. Então...'. Kaio César fala sobre voltar a fazer gols pelo Timão",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129583/sou-um-atacante-de-um-time-grande-entao-kaio-cesar-fala-sobre-voltar-a-fazer-gols-pelo-timao",
+      "pubDate": "Thu, 10 Sep 2026 01:30:00 -0300",
+      "date": "10/09 · 04:30"
+    },
+    {
+      "title": "VÍDEO: Empate fora de casa, mudança de postura e mais: coletiva de Fernando Diniz no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129582/empate-fora-de-casa-mudanca-de-postura-e-mais-coletiva-de-fernando-diniz-no-corinthians",
+      "pubDate": "Thu, 10 Sep 2026 01:21:49 -0300",
+      "date": "10/09 · 04:21"
+    },
+    {
+      "title": "Goleiro é eleito o craque do Corinthians em empate pelas quartas de final da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539752/goleiro-e-eleito-o-craque-do-corinthians-em-empate-pelas-quartas-de-final-da-libertadores",
+      "pubDate": "Thu, 10 Sep 2026 00:53:00 -0300",
+      "date": "10/09 · 03:53"
+    },
+    {
       "title": "Goleiro de Copa, oscilação e foco na Libertadores: como chega o Estudiantes contra o Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539673/goleiro-de-copa-oscilacao-e-foco-na-libertadores-como-chega-o-estudiantes-contra-o-corinthians",
       "pubDate": "Wed, 09 Sep 2026 19:30:00 -0300",
       "date": "09/09 · 22:30"
     },
     {
-      "title": "Corinthians promove treino integrado de goleiros entre categorias de base e adulto no Futsal",
+      "title": "Corinthians promove treino integrado de goleiros entre categorias de base e adulto no futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539711/corinthians-promove-treino-integrado-de-goleiros-entre-categorias-de-base-e-adulto-no-futsal",
       "pubDate": "Wed, 09 Sep 2026 19:23:00 -0300",
       "date": "09/09 · 22:23"
-    },
-    {
-      "title": "Corinthians tenta encerrar longo jejum de gols fora de casa em mata-matas da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539560/corinthians-tenta-encerrar-longo-jejum-de-gols-fora-de-casa-em-mata-matas-da-libertadores",
-      "pubDate": "Wed, 09 Sep 2026 14:32:00 -0300",
-      "date": "09/09 · 17:32"
-    },
-    {
-      "title": "Corinthians lamenta morte do último remanescente do ataque que marcou 103 gols em 1951",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539680/corinthians-lamenta-morte-do-ultimo-remanescente-do-ataque-que-marcou-103-gols-em-1951",
-      "pubDate": "Wed, 09 Sep 2026 10:55:00 -0300",
-      "date": "09/09 · 13:55"
-    },
-    {
-      "title": "Saiba onde assistir à partida entre Corinthians e Estudiantes pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539628/saiba-onde-assistir-a-partida-entre-corinthians-e-estudiantes-pela-libertadores",
-      "pubDate": "Wed, 09 Sep 2026 08:30:00 -0300",
-      "date": "09/09 · 11:30"
     }
   ]
 };
