@@ -1,70 +1,118 @@
-// Gerado automaticamente em 10/09/2026, 20:08:18
+// Gerado automaticamente em 10/09/2026, 23:28:22
 const LIVE_DATA = {
-  "updatedAt": "2026-09-10T20:08:18.516Z",
+  "updatedAt": "2026-09-10T23:28:22.070Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Empate do Corinthians rende terceira maior audiência para emissora na Libertadores de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539801/empate-do-corinthians-rende-terceira-maior-audiencia-para-emissora-na-libertadores-de-2026",
-      "time": "10/09 · 20:03",
-      "pubDate": "Thu, 10 Sep 2026 17:03:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se manifesta sobre denúncia contra Memphis e não teme desfalque",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-manifesta-sobre-denuncia-contra-memphis-e-nao-teme-desfalque/",
+      "time": "10/09 · 23:26",
+      "pubDate": "Thu, 10 Sep 2026 23:26:49 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians exalta postura em empate na Libertadores e comenta sobre débitos com o elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539777/goleiro-do-corinthians-exalta-postura-em-empate-na-libertadores-e-comenta-sobre-debitos-com-o-elenco",
-      "time": "10/09 · 19:33",
-      "pubDate": "Thu, 10 Sep 2026 16:33:00 -0300"
+      "title": "Corinthians se posiciona após pedido do Estudiantes para suspensão de Memphis Depay",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539818/corinthians-se-posiciona-apos-pedido-do-estudiantes-para-suspensao-de-memphis-depay",
+      "time": "10/09 · 22:54",
+      "pubDate": "Thu, 10 Sep 2026 19:54:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro emprestado pelo Corinthians faz sua estreia oficial nos Emirados Árabes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539805/goleiro-emprestado-pelo-corinthians-faz-sua-estreia-oficial-nos-emirados-arabes",
-      "time": "10/09 · 19:09",
-      "pubDate": "Thu, 10 Sep 2026 16:09:00 -0300"
+      "title": "Corinthians inicia treinamentos de olho na semifinal do Brasileiro Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539817/corinthians-inicia-treinamentos-de-olho-na-semifinal-do-brasileiro-feminino",
+      "time": "10/09 · 22:34",
+      "pubDate": "Thu, 10 Sep 2026 19:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Discurso de técnico e lances plásticos marcam virada do Corinthians no Paulista de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539802/discurso-de-tecnico-e-lances-plasticos-marcam-virada-do-corinthians-no-paulista-de-basquete",
-      "time": "10/09 · 19:00",
-      "pubDate": "Thu, 10 Sep 2026 16:00:00 -0300"
+      "title": "Técnica do Corinthians projeta semifinal do Brasileirão Feminino e prega respeito ao Bahia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539614/tecnica-do-corinthians-projeta-semifinal-do-brasileirao-feminino-e-prega-respeito-ao-bahia",
+      "time": "10/09 · 22:33",
+      "pubDate": "Thu, 10 Sep 2026 19:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians é titular em empate da Seleção Brasileira na Liga Evolução Sub-15",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539800/meio-campista-do-corinthians-e-titular-em-empate-da-selecao-brasileira-na-liga-evolucao-sub-15",
-      "time": "10/09 · 18:31",
-      "pubDate": "Thu, 10 Sep 2026 15:31:00 -0300"
+      "title": "Meia entra no top-3 do Corinthians entre os maiores assistentes em uma edição da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539793/meia-entra-no-top-3-do-corinthians-entre-os-maiores-assistentes-em-uma-edicao-da-libertadores",
+      "time": "10/09 · 22:03",
+      "pubDate": "Thu, 10 Sep 2026 19:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Levantamento aponta concentração inédita de jogos do Corinthians Feminino às segundas e sextas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539704/levantamento-aponta-concentracao-inedita-de-jogos-do-corinthians-feminino-as-segundas-e-sextas",
-      "time": "10/09 · 18:30",
-      "pubDate": "Thu, 10 Sep 2026 15:30:00 -0300"
+      "title": "Diniz vê saldo 'muito positivo' de Garro e destaca evolução defensiva no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539754/diniz-ve-saldo-muito-positivo-de-garro-e-destaca-evolucao-defensiva-no-corinthians",
+      "time": "10/09 · 21:37",
+      "pubDate": "Thu, 10 Sep 2026 18:37:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians empata com o Fortaleza e fica no quarto lugar do Brasileiro sub-17",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-empata-com-o-fortaleza-e-fica-no-quarto-lugar-do-brasileiro-sub-17/",
+      "time": "10/09 · 21:30",
+      "pubDate": "Thu, 10 Sep 2026 21:30:38 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleira do Corinthians rasga elogios a Morganti e projeta futuro da jovem na Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539621/goleira-rasga-elogios-a-ana-morganti-e-projeta-futuro-da-jovem-no-corinthians-e-na-selecao",
-      "time": "10/09 · 17:36",
-      "pubDate": "Thu, 10 Sep 2026 14:36:00 -0300"
+      "title": "Meia do Corinthians se destaca entre atletas da posição na Copa Libertadores; veja os números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539797/meia-do-corinthians-se-destaca-entre-atletas-da-posicao-na-copa-libertadores-veja-os-numeros",
+      "time": "10/09 · 21:01",
+      "pubDate": "Thu, 10 Sep 2026 18:01:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Estudiantes pede suspensão de Memphis para decisão contra o Corinthians por gesto obsceno",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/estudiantes-pede-suspensao-de-memphis-para-decisao-contra-o-corinthians-por-ato-obsceno/",
+      "time": "10/09 · 20:43",
+      "pubDate": "Thu, 10 Sep 2026 20:43:51 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians comemora gol marcado contra o Estudiantes e fim de jejum de mais de um mês",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539772/atacante-do-corinthians-comemora-gol-marcado-contra-o-estudiantes-e-fim-de-jejum-de-mais-de-um-mes",
-      "time": "10/09 · 17:00",
-      "pubDate": "Thu, 10 Sep 2026 14:00:00 -0300"
+      "title": "Meia-atacante do Corinthians projeta confronto contra o Bahia na semifinal do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539623/meia-atacante-do-corinthians-projeta-confronto-contra-o-bahia-na-semifinal-do-brasileirao-feminino",
+      "time": "10/09 · 20:33",
+      "pubDate": "Thu, 10 Sep 2026 17:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians empata com o Fortaleza fora de casa pelo Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539808/corinthians-empata-com-o-fortaleza-fora-de-casa-pelo-brasileiro-sub-17",
+      "time": "10/09 · 20:12",
+      "pubDate": "Thu, 10 Sep 2026 17:12:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis ainda busca ritmo no Corinthians, e Diniz ainda deve manter cautela com minutagem do holandês",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-ainda-busca-ritmo-no-corinthians-e-diniz-ainda-deve-manter-cautela-com-minutagem-do-holandes]]>",
+      "time": "10/09 · 20:02",
+      "pubDate": "Thu, 10 Sep 2026 17:02:12 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians deve mesclar time contra o Flamengo pensando na decisão com o Estudiantes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deve-mesclar-time-contra-o-flamengo-pensando-na-decisao-com-o-estudiantes]]>",
+      "time": "10/09 · 19:59",
+      "pubDate": "Thu, 10 Sep 2026 16:59:30 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Histórico Estudiantes x Corinthians: História, Revanche e a Primeira Batalha na Libertadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/historico-estudiantes-x-corinthians-historia-revanche-e-a-primeira-batalha-na-libertadores]]>",
+      "time": "10/09 · 15:30",
+      "pubDate": "Thu, 10 Sep 2026 12:30:39 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -107,30 +155,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 10 Sep 2026 08:00:34 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz vê falta no gol do Estudiantes, elogia atuação do Corinthians e exalta trio convocado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-ve-falta-no-gol-do-estudiantes-elogia-atuacao-do-corinthians-e-exalta-trio-convocado/",
-      "time": "10/09 · 03:37",
-      "pubDate": "Thu, 10 Sep 2026 03:37:19 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Estudiantes aproveita rebote de Hugo Souza e marca contra o Corinthians; veja",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/estudiantes-aproveita-rebote-de-hugo-souza-e-marca-contra-o-corinthians-veja/",
-      "time": "10/09 · 02:56",
-      "pubDate": "Thu, 10 Sep 2026 02:56:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Estudiantes de La Plata 1 x 1 Corinthians pela Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-estudiantes-de-la-plata-1-x-1-corinthians-pela-libertadores/",
-      "time": "10/09 · 02:52",
-      "pubDate": "Thu, 10 Sep 2026 02:52:47 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Breno Bidon é jogado no chão e leva cartão amarelo do árbitro Esteban Ostojich em empate do Corinthians",
@@ -165,34 +189,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Histórico Estudiantes x Corinthians: História, Revanche e a Primeira Batalha na Libertadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/historico-estudiantes-x-corinthians-historia-revanche-e-a-primeira-batalha-na-libertadores]]>",
-      "time": "09/09 · 20:18",
-      "pubDate": "Wed, 09 Sep 2026 17:18:40 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians prevê ‘fôlego’ financeiro com convocações e mira valorização de jogadores",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-preve-folego-financeiro-com-convocacoes-e-mira-valorizacao-de-jogadores]]>",
       "time": "09/09 · 19:24",
       "pubDate": "Wed, 09 Sep 2026 16:24:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians vai precisa trazer vantagem de La Plata porque a Arena já não assusta como antes",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-vai-precisa-trazer-vantagem-de-la-plata-porque-a-arena-ja-nao-assusta-como-antes]]>",
-      "time": "08/09 · 23:19",
-      "pubDate": "Tue, 08 Sep 2026 20:19:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheuzinho banca Diniz no Corinthians antes de decisão e manda recado: “Estamos fechados”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheuzinho-banca-diniz-no-corinthians-antes-de-decisao-e-manda-recado-estamos-fechados]]>",
-      "time": "08/09 · 20:11",
-      "pubDate": "Tue, 08 Sep 2026 17:11:59 -0300"
     }
   ],
   "upcoming": [],
@@ -234,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129587/primeira-convocacao-a-selecao-brasileira-zona-mista-matheuzinho-estudiantes-1x1-corinthians",
       "pubDate": "Thu, 10 Sep 2026 01:43:57 -0300",
       "date": "10/09 · 04:43"
-    },
-    {
-      "title": "VÍDEO: Breno Bidon comenta sobre sua primeira convocação para a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129586/breno-bidon-comenta-sobre-sua-primeira-convocacao-para-a-selecao-brasileira",
-      "pubDate": "Thu, 10 Sep 2026 01:41:06 -0300",
-      "date": "10/09 · 04:41"
-    },
-    {
-      "title": "VÍDEO: 'Sou um atacante de um time grande. Então...'. Kaio César fala sobre voltar a fazer gols pelo Timão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129583/sou-um-atacante-de-um-time-grande-entao-kaio-cesar-fala-sobre-voltar-a-fazer-gols-pelo-timao",
-      "pubDate": "Thu, 10 Sep 2026 01:30:00 -0300",
-      "date": "10/09 · 04:30"
     }
   ]
 };
