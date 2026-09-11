@@ -1,22 +1,94 @@
-// Gerado automaticamente em 11/09/2026, 20:07:34
+// Gerado automaticamente em 11/09/2026, 23:35:54
 const LIVE_DATA = {
-  "updatedAt": "2026-09-11T20:07:34.233Z",
+  "updatedAt": "2026-09-11T23:35:54.280Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Garro lidera cinco fundamentos ofensivos no Corinthians desde 2024",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539841/garro-lidera-cinco-fundamentos-ofensivos-no-corinthians-desde-2024",
-      "time": "11/09 · 19:36",
-      "pubDate": "Fri, 11 Sep 2026 16:36:00 -0300"
+      "title": "Executivo do Corinthians exalta blindagem do CT e 'trabalho conjunto' para renovação de Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539851/executivo-do-corinthians-exalta-blindagem-do-ct-e-trabalho-conjunto-para-renovacao-de-memphis",
+      "time": "11/09 · 23:30",
+      "pubDate": "Fri, 11 Sep 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians empresta meio-campista do Sub-20 para rival",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539865/corinthians-empresta-meio-campista-do-sub-20-para-rival",
-      "time": "11/09 · 19:31",
-      "pubDate": "Fri, 11 Sep 2026 16:31:11 -0300"
+      "title": "Três jogadores do Corinthians figuram no time da semana da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539882/tres-jogadores-do-corinthians-figuram-no-time-da-semana-da-libertadores",
+      "time": "11/09 · 23:02",
+      "pubDate": "Fri, 11 Sep 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians treina para duelo contra o Flamengo no Maracanã",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treina-para-duelo-contra-o-flamengo-no-maracana/",
+      "time": "11/09 · 22:35",
+      "pubDate": "Fri, 11 Sep 2026 22:35:29 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Veja como está a artilharia do Corinthians na temporada após empate no Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539835/veja-como-esta-a-artilharia-do-corinthians-na-temporada-apos-empate-no-paulista-de-futsal",
+      "time": "11/09 · 22:35",
+      "pubDate": "Fri, 11 Sep 2026 19:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece datas e horários da semifinal do Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539879/corinthians-conhece-datas-e-horarios-da-semifinal-do-paulista-de-basquete",
+      "time": "11/09 · 22:03",
+      "pubDate": "Fri, 11 Sep 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio de conselheiros do Corinthians se manifesta após Justiça aprovar Assembleia Geral",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539877/trio-de-conselheiros-do-corinthians-se-manifesta-apos-justica-aprovar-assembleia-geral",
+      "time": "11/09 · 21:52",
+      "pubDate": "Fri, 11 Sep 2026 18:52:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Justiça autoriza Assembleia para votar reforma do estatuto do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-autoriza-assembleia-para-votar-reforma-do-estatuto-do-corinthians/",
+      "time": "11/09 · 21:37",
+      "pubDate": "Fri, 11 Sep 2026 21:37:31 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Kaio César se coloca à disposição do Corinthians para enfrentar o Flamengo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539773/kaio-cesar-se-coloca-a-disposicao-do-corinthians-para-enfrentar-o-flamengo-pelo-brasileirao",
+      "time": "11/09 · 21:34",
+      "pubDate": "Fri, 11 Sep 2026 18:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians é premiado por ação antirracismo na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539874/corinthians-e-premiado-por-acao-antirracismo-na-neo-quimica-arena",
+      "time": "11/09 · 20:58",
+      "pubDate": "Fri, 11 Sep 2026 17:58:57 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Justiça legaliza Assembleia Geral para reforma do Estatuto do Corinthians; 11 temas serão discutidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539872/justica-legaliza-assembleia-geral-para-reforma-do-estatuto-do-corinthians-11-temas-serao-discutidos",
+      "time": "11/09 · 20:32",
+      "pubDate": "Fri, 11 Sep 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com André em campo, Corinthians abre preparação para pegar o Flamengo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-andre-em-campo-corinthians-abre-preparacao-para-pegar-o-flamengo/",
+      "time": "11/09 · 20:18",
+      "pubDate": "Fri, 11 Sep 2026 20:18:07 +0000"
     },
     {
       "source": "Gazeta Esportiva",
@@ -25,54 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tem-340-assessores-com-direito-a-5-ingressos-cada-um-clube-se-defende/",
       "time": "11/09 · 18:44",
       "pubDate": "Fri, 11 Sep 2026 18:44:09 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians confirma ingressos de visitante esgotados para duelo com o Flamengo no Maracanã",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539860/corinthians-confirma-ingressos-de-visitante-esgotados-para-duelo-com-o-flamengo-no-maracana",
-      "time": "11/09 · 18:33",
-      "pubDate": "Fri, 11 Sep 2026 15:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem retorno de atacante em preparação para semifinais do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539859/corinthians-tem-retorno-de-atacante-em-preparacao-para-semifinais-do-brasileirao-feminino",
-      "time": "11/09 · 18:32",
-      "pubDate": "Fri, 11 Sep 2026 15:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians retorna aos treinamentos visando duelo contra o Flamengo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539858/corinthians-retorna-aos-treinamentos-visando-duelo-contra-o-flamengo-pelo-brasileirao",
-      "time": "11/09 · 18:25",
-      "pubDate": "Fri, 11 Sep 2026 15:25:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians pode ganhar primeiros minutos como profissional diante do Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539853/zagueiro-do-corinthians-pode-ganhar-primeiros-minutos-como-profissional-diante-do-flamengo",
-      "time": "11/09 · 18:09",
-      "pubDate": "Fri, 11 Sep 2026 15:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians acumula quase R$ 300 mil em multas por infrações na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539847/corinthians-acumula-quase-r-300-mil-por-infracoes-nos-jogos-contra-rosario-central-e-penarol",
-      "time": "11/09 · 17:27",
-      "pubDate": "Fri, 11 Sep 2026 14:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians rescinde com atacante do Sub-20 e mantém porcentagem dos direitos econômicos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539849/corinthians-rescinde-com-atacante-do-sub-20-e-mantem-porcentagem-dos-direitos-economicos",
-      "time": "11/09 · 16:28",
-      "pubDate": "Fri, 11 Sep 2026 13:28:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -123,22 +147,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 10 Sep 2026 18:43:50 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians empata com o Fortaleza e fica no quarto lugar do Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-empata-com-o-fortaleza-e-fica-no-quarto-lugar-do-brasileiro-sub-17/",
-      "time": "10/09 · 21:30",
-      "pubDate": "Thu, 10 Sep 2026 21:30:38 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Estudiantes pede suspensão de Memphis para decisão contra o Corinthians por gesto obsceno",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/estudiantes-pede-suspensao-de-memphis-para-decisao-contra-o-corinthians-por-ato-obsceno/",
-      "time": "10/09 · 20:43",
-      "pubDate": "Thu, 10 Sep 2026 20:43:51 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians deve mesclar time contra o Flamengo pensando na decisão com o Estudiantes",
@@ -153,14 +161,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/historico-estudiantes-x-corinthians-historia-revanche-e-a-primeira-batalha-na-libertadores]]>",
       "time": "10/09 · 15:30",
       "pubDate": "Thu, 10 Sep 2026 12:30:39 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz elogia postura do Corinthians contra o Estudiantes na Argentina",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-elogia-postura-do-corinthians-contra-o-estudiantes-na-argentina/",
-      "time": "10/09 · 13:34",
-      "pubDate": "Thu, 10 Sep 2026 13:34:28 +0000"
     },
     {
       "source": "Bolavip",
