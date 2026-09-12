@@ -1,7 +1,63 @@
-// Gerado automaticamente em 11/09/2026, 23:35:54
+// Gerado automaticamente em 12/09/2026, 11:44:57
 const LIVE_DATA = {
-  "updatedAt": "2026-09-11T23:35:54.280Z",
+  "updatedAt": "2026-09-12T11:44:57.549Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra terceira janela sem contratações na história desde criação das regras da Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539840/corinthians-registra-terceira-janela-sem-contratacoes-na-historia-desde-criacao-das-regras-da-fifa",
+      "time": "12/09 · 11:30",
+      "pubDate": "Sat, 12 Sep 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x América-SP: veja onde assistir à partida pelo Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-america-sp-veja-onde-assistir-a-partida-pelo-paulista-sub-20/",
+      "time": "12/09 · 11:00",
+      "pubDate": "Sat, 12 Sep 2026 11:00:34 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: zagueiro da base na provável escalação, meia emprestado e rescisão amigável",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539886/ultimas-do-corinthians-zagueiro-da-base-na-provavel-escalacao-meia-emprestado-e-rescisao-amigavel",
+      "time": "12/09 · 10:30",
+      "pubDate": "Sat, 12 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Flamengo x Corinthians: onde assistir ao jogo pela 27ª rodada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-x-corinthians-onde-assistir-ao-jogo-pela-27a-rodada-do-brasileirao/",
+      "time": "12/09 · 10:00",
+      "pubDate": "Sat, 12 Sep 2026 10:00:31 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Respaldado por Diniz, Garro busca retomar protagonismo no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/respaldado-por-diniz-garro-busca-retomar-protagonismo-no-corinthians/",
+      "time": "12/09 · 09:00",
+      "pubDate": "Sat, 12 Sep 2026 09:00:53 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians domina maiores audiências da TV aberta da Grande São Paulo em 2026; veja números",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539850/corinthians-domina-maiores-audiencias-da-tv-aberta-da-grande-sao-paulo-em-2026-veja-numeros",
+      "time": "12/09 · 01:30",
+      "pubDate": "Fri, 11 Sep 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta voltar a vencer no Paulista Sub-20 para não repetir maior jejum da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539796/corinthians-tenta-voltar-a-vencer-no-paulista-sub-20-para-nao-repetir-maior-jejum-da-temporada",
+      "time": "12/09 · 00:31",
+      "pubDate": "Fri, 11 Sep 2026 21:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -43,44 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 11 Sep 2026 19:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Trio de conselheiros do Corinthians se manifesta após Justiça aprovar Assembleia Geral",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539877/trio-de-conselheiros-do-corinthians-se-manifesta-apos-justica-aprovar-assembleia-geral",
-      "time": "11/09 · 21:52",
-      "pubDate": "Fri, 11 Sep 2026 18:52:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Justiça autoriza Assembleia para votar reforma do estatuto do Corinthians",
       "url": "https://www.gazetaesportiva.com/times/corinthians/justica-autoriza-assembleia-para-votar-reforma-do-estatuto-do-corinthians/",
       "time": "11/09 · 21:37",
       "pubDate": "Fri, 11 Sep 2026 21:37:31 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César se coloca à disposição do Corinthians para enfrentar o Flamengo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539773/kaio-cesar-se-coloca-a-disposicao-do-corinthians-para-enfrentar-o-flamengo-pelo-brasileirao",
-      "time": "11/09 · 21:34",
-      "pubDate": "Fri, 11 Sep 2026 18:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é premiado por ação antirracismo na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539874/corinthians-e-premiado-por-acao-antirracismo-na-neo-quimica-arena",
-      "time": "11/09 · 20:58",
-      "pubDate": "Fri, 11 Sep 2026 17:58:57 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Justiça legaliza Assembleia Geral para reforma do Estatuto do Corinthians; 11 temas serão discutidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539872/justica-legaliza-assembleia-geral-para-reforma-do-estatuto-do-corinthians-11-temas-serao-discutidos",
-      "time": "11/09 · 20:32",
-      "pubDate": "Fri, 11 Sep 2026 17:32:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -107,36 +131,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 11 Sep 2026 14:16:53 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz vive dilema no Corinthians para jogo contra o Flamengo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-vive-dilema-no-corinthians-para-jogo-contra-o-flamengo/",
-      "time": "11/09 · 09:00",
-      "pubDate": "Fri, 11 Sep 2026 09:00:59 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Raniele pega dois jogos de suspensão e desfalca Corinthians contra o Estudiantes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/raniele-pega-dois-jogos-de-suspensao-e-desfalca-corinthians-contra-o-estudiantes/",
-      "time": "11/09 · 01:17",
-      "pubDate": "Fri, 11 Sep 2026 01:17:21 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Memphis ainda busca ritmo no Corinthians, e Diniz ainda deve manter cautela com minutagem do holandês",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-ainda-busca-ritmo-no-corinthians-e-diniz-ainda-deve-manter-cautela-com-minutagem-do-holandes]]>",
       "time": "11/09 · 00:31",
       "pubDate": "Thu, 10 Sep 2026 21:31:30 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians é notificado sobre denúncia contra Memphis, mas não teme desfalque",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-manifesta-sobre-denuncia-contra-memphis-e-nao-teme-desfalque/",
-      "time": "10/09 · 23:26",
-      "pubDate": "Thu, 10 Sep 2026 23:26:49 +0000"
     },
     {
       "source": "Bolavip",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539778/goleiro-do-corinthians-celebra-convocacao-de-companheiros-para-a-selecao-brasileira",
       "pubDate": "Fri, 11 Sep 2026 10:31:00 -0300",
       "date": "11/09 · 13:31"
-    },
-    {
-      "title": "Goleira do Corinthians projeta semifinal contra o Bahia e celebra valorização da posição no país",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539619/goleira-do-corinthians-projeta-semifinal-contra-o-bahia-e-celebra-valorizacao-da-posicao-no-pais",
-      "pubDate": "Thu, 10 Sep 2026 21:35:00 -0300",
-      "date": "11/09 · 00:35"
     }
   ]
 };
