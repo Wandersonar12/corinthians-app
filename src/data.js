@@ -1,7 +1,31 @@
-// Gerado automaticamente em 12/09/2026, 11:44:57
+// Gerado automaticamente em 12/09/2026, 14:27:19
 const LIVE_DATA = {
-  "updatedAt": "2026-09-12T11:44:57.549Z",
+  "updatedAt": "2026-09-12T14:27:19.265Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians empresta meia-atacante do Sub-20 ao Avaí",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539896/corinthians-empresta-meia-atacante-do-sub-20-ao-avai",
+      "time": "12/09 · 14:05",
+      "pubDate": "Sat, 12 Sep 2026 11:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante é desfalque do Corinthians contra o Flamengo por cláusula contratual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539854/volante-e-desfalque-do-corinthians-contra-o-flamengo-por-clausula-contratual",
+      "time": "12/09 · 13:30",
+      "pubDate": "Sat, 12 Sep 2026 10:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o América pela última rodada da primeira fase do Paulista Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539863/corinthians-recebe-o-america-pela-ultima-rodada-da-primeira-fase-do-paulista-sub-20-saiba-tudo",
+      "time": "12/09 · 12:29",
+      "pubDate": "Sat, 12 Sep 2026 09:29:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -67,36 +91,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 11 Sep 2026 20:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Três jogadores do Corinthians figuram no time da semana da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539882/tres-jogadores-do-corinthians-figuram-no-time-da-semana-da-libertadores",
-      "time": "11/09 · 23:02",
-      "pubDate": "Fri, 11 Sep 2026 20:02:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians treina para duelo contra o Flamengo no Maracanã",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treina-para-duelo-contra-o-flamengo-no-maracana/",
       "time": "11/09 · 22:35",
       "pubDate": "Fri, 11 Sep 2026 22:35:29 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Veja como está a artilharia do Corinthians na temporada após empate no Paulista de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539835/veja-como-esta-a-artilharia-do-corinthians-na-temporada-apos-empate-no-paulista-de-futsal",
-      "time": "11/09 · 22:35",
-      "pubDate": "Fri, 11 Sep 2026 19:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece datas e horários da semifinal do Paulista de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539879/corinthians-conhece-datas-e-horarios-da-semifinal-do-paulista-de-basquete",
-      "time": "11/09 · 22:03",
-      "pubDate": "Fri, 11 Sep 2026 19:03:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
