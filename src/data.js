@@ -1,134 +1,70 @@
-// Gerado automaticamente em 12/09/2026, 14:27:19
+// Gerado automaticamente em 12/09/2026, 19:43:44
 const LIVE_DATA = {
-  "updatedAt": "2026-09-12T14:27:19.265Z",
+  "updatedAt": "2026-09-12T19:43:44.955Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians empresta meia-atacante do Sub-20 ao Avaí",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539896/corinthians-empresta-meia-atacante-do-sub-20-ao-avai",
-      "time": "12/09 · 14:05",
-      "pubDate": "Sat, 12 Sep 2026 11:05:00 -0300"
+      "title": "Raniele projeta duelo contra o Flamengo e destaca preparação do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539910/raniele-projeta-duelo-contra-o-flamengo-e-destaca-preparacao-do-corinthians",
+      "time": "12/09 · 19:37",
+      "pubDate": "Sat, 12 Sep 2026 16:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante é desfalque do Corinthians contra o Flamengo por cláusula contratual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539854/volante-e-desfalque-do-corinthians-contra-o-flamengo-por-clausula-contratual",
-      "time": "12/09 · 13:30",
-      "pubDate": "Sat, 12 Sep 2026 10:30:00 -0300"
+      "title": "Memphis desmente rumor sobre pedido para não atuar pelo Corinthians contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539911/memphis-desmente-rumor-sobre-pedido-para-nao-atuar-pelo-corinthians-contra-o-flamengo",
+      "time": "12/09 · 19:22",
+      "pubDate": "Sat, 12 Sep 2026 16:22:08 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o América pela última rodada da primeira fase do Paulista Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539863/corinthians-recebe-o-america-pela-ultima-rodada-da-primeira-fase-do-paulista-sub-20-saiba-tudo",
-      "time": "12/09 · 12:29",
-      "pubDate": "Sat, 12 Sep 2026 09:29:00 -0300"
+      "title": "Entenda por que André Ramalho segue fora dos jogos do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539904/entenda-por-que-andre-ramalho-segue-fora-dos-jogos-do-corinthians",
+      "time": "12/09 · 19:00",
+      "pubDate": "Sat, 12 Sep 2026 16:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians registra terceira janela sem contratações na história desde criação das regras da Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539840/corinthians-registra-terceira-janela-sem-contratacoes-na-historia-desde-criacao-das-regras-da-fifa",
-      "time": "12/09 · 11:30",
-      "pubDate": "Sat, 12 Sep 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x América-SP: veja onde assistir à partida pelo Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-america-sp-veja-onde-assistir-a-partida-pelo-paulista-sub-20/",
-      "time": "12/09 · 11:00",
-      "pubDate": "Sat, 12 Sep 2026 11:00:34 +0000"
+      "title": "Corinthians relaciona zagueiro do Sub-20 para jogo contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539908/corinthians-relaciona-zagueiro-do-sub-20-para-jogo-contra-o-flamengo",
+      "time": "12/09 · 18:28",
+      "pubDate": "Sat, 12 Sep 2026 15:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: zagueiro da base na provável escalação, meia emprestado e rescisão amigável",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539886/ultimas-do-corinthians-zagueiro-da-base-na-provavel-escalacao-meia-emprestado-e-rescisao-amigavel",
-      "time": "12/09 · 10:30",
-      "pubDate": "Sat, 12 Sep 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Flamengo x Corinthians: onde assistir ao jogo pela 27ª rodada do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-x-corinthians-onde-assistir-ao-jogo-pela-27a-rodada-do-brasileirao/",
-      "time": "12/09 · 10:00",
-      "pubDate": "Sat, 12 Sep 2026 10:00:31 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Respaldado por Diniz, Garro busca retomar protagonismo no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/respaldado-por-diniz-garro-busca-retomar-protagonismo-no-corinthians/",
-      "time": "12/09 · 09:00",
-      "pubDate": "Sat, 12 Sep 2026 09:00:53 +0000"
+      "title": "Corinthians busca evitar a pior sequência no Brasileirão em quase 30 anos diante do Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539786/corinthians-busca-evitar-a-pior-sequencia-no-brasileirao-em-quase-30-anos-diante-do-flamengo",
+      "time": "12/09 · 17:30",
+      "pubDate": "Sat, 12 Sep 2026 14:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians domina maiores audiências da TV aberta da Grande São Paulo em 2026; veja números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539850/corinthians-domina-maiores-audiencias-da-tv-aberta-da-grande-sao-paulo-em-2026-veja-numeros",
-      "time": "12/09 · 01:30",
-      "pubDate": "Fri, 11 Sep 2026 22:30:00 -0300"
+      "title": "Escalação do Corinthians: Fernando Diniz poupará titulares contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539898/escalacao-do-corinthians-fernando-diniz-poupara-titulares-contra-o-flamengo",
+      "time": "12/09 · 16:39",
+      "pubDate": "Sat, 12 Sep 2026 13:39:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tenta voltar a vencer no Paulista Sub-20 para não repetir maior jejum da temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539796/corinthians-tenta-voltar-a-vencer-no-paulista-sub-20-para-nao-repetir-maior-jejum-da-temporada",
-      "time": "12/09 · 00:31",
-      "pubDate": "Fri, 11 Sep 2026 21:31:00 -0300"
+      "title": "Zagueiro do Sub-20 tem contratação frustrada na Itália e deixa Corinthians para outro time do Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539901/zagueiro-do-sub-20-tem-contratacao-frustrada-na-italia-e-deixa-corinthians-para-outro-time-do-brasil",
+      "time": "12/09 · 16:13",
+      "pubDate": "Sat, 12 Sep 2026 13:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Executivo do Corinthians exalta blindagem do CT e 'trabalho conjunto' para renovação de Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539851/executivo-do-corinthians-exalta-blindagem-do-ct-e-trabalho-conjunto-para-renovacao-de-memphis",
-      "time": "11/09 · 23:30",
-      "pubDate": "Fri, 11 Sep 2026 20:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians treina para duelo contra o Flamengo no Maracanã",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treina-para-duelo-contra-o-flamengo-no-maracana/",
-      "time": "11/09 · 22:35",
-      "pubDate": "Fri, 11 Sep 2026 22:35:29 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Justiça autoriza Assembleia para votar reforma do estatuto do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-autoriza-assembleia-para-votar-reforma-do-estatuto-do-corinthians/",
-      "time": "11/09 · 21:37",
-      "pubDate": "Fri, 11 Sep 2026 21:37:31 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com André em campo, Corinthians abre preparação para pegar o Flamengo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-andre-em-campo-corinthians-abre-preparacao-para-pegar-o-flamengo/",
-      "time": "11/09 · 20:18",
-      "pubDate": "Fri, 11 Sep 2026 20:18:07 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians tem 340 assessores com direito a 5 ingressos cada um; clube se defende",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tem-340-assessores-com-direito-a-5-ingressos-cada-um-clube-se-defende/",
-      "time": "11/09 · 18:44",
-      "pubDate": "Fri, 11 Sep 2026 18:44:09 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Há 2 anos, Memphis Depay chegava ao Brasil para assinar com o Corinthians; relembre",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-2-anos-memphis-depay-chegava-ao-brasil-para-assinar-com-o-corinthians-relembre/",
-      "time": "11/09 · 14:16",
-      "pubDate": "Fri, 11 Sep 2026 14:16:53 +0000"
+      "title": "Torcida do Corinthians se divide sobre escalação contra o Flamengo antes da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539893/torcida-do-corinthians-se-divide-sobre-escalacao-contra-o-flamengo-antes-da-libertadores",
+      "time": "12/09 · 16:00",
+      "pubDate": "Sat, 12 Sep 2026 13:00:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -193,18 +129,75 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-virar-a-chave-hoje-mas-problemas-no-clube-tornam-missao-mais-dificil]]>",
       "time": "09/09 · 20:37",
       "pubDate": "Wed, 09 Sep 2026 17:37:02 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": [
-    {
-      "title": "Goleiro do Corinthians celebra convocação de companheiros para a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539778/goleiro-do-corinthians-celebra-convocacao-de-companheiros-para-a-selecao-brasileira",
-      "pubDate": "Fri, 11 Sep 2026 10:31:00 -0300",
-      "date": "11/09 · 13:31"
-    }
-  ]
+  "highlights": []
 };
 export default LIVE_DATA;
