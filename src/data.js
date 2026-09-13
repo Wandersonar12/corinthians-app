@@ -1,70 +1,78 @@
-// Gerado automaticamente em 13/09/2026, 12:52:51
+// Gerado automaticamente em 13/09/2026, 19:55:30
 const LIVE_DATA = {
-  "updatedAt": "2026-09-13T12:52:51.768Z",
+  "updatedAt": "2026-09-13T19:55:30.919Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encara o Taubaté buscando assumir a liderança do Paulistão Feminino Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539905/corinthians-encara-o-taubate-buscando-assumir-a-lideranca-do-paulistao-feminino-sub-17-saiba-tudo",
-      "time": "13/09 · 12:31",
-      "pubDate": "Sun, 13 Sep 2026 09:31:00 -0300"
+      "title": "Corinthians está escalado com time modificado para encarar o Flamengo no Maracanã",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539948/corinthians-esta-escalado-com-time-modificado-para-encarar-o-flamengo-no-maracana",
+      "time": "13/09 · 19:30",
+      "pubDate": "Sun, 13 Sep 2026 16:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao clássico entre Corinthians e Flamengo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539919/saiba-onde-assistir-ao-classico-entre-corinthians-e-flamengo-pelo-brasileirao",
-      "time": "13/09 · 11:30",
-      "pubDate": "Sun, 13 Sep 2026 08:30:00 -0300"
+      "title": "Liderança, desgaste na Libertadores e tabu no Maracanã: como chega o Flamengo contra o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539945/lideranca-desgaste-na-libertadores-e-tabu-no-maracana-como-chega-o-flamengo-contra-o-corinthians",
+      "time": "13/09 · 18:37",
+      "pubDate": "Sun, 13 Sep 2026 15:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: escalação alternativa, declaração de Memphis e janela vazia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539929/ultimas-do-corinthians-escalacao-alternativa-declaracao-de-memphis-e-janela-vazia",
-      "time": "13/09 · 10:30",
-      "pubDate": "Sun, 13 Sep 2026 07:30:00 -0300"
+      "title": "Corinthians tenta repetir feito que não alcança contra o Flamengo desde 2016; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539930/corinthians-tenta-repetir-feito-que-nao-alcanca-contra-o-flamengo-desde-2016-saiba-qual",
+      "time": "13/09 · 17:38",
+      "pubDate": "Sun, 13 Sep 2026 14:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o Flamengo buscando voltar a vencer no Campeonato Brasileiro; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539907/corinthians-visita-o-flamengo-buscando-voltar-a-vencer-no-campeonato-brasileiro-saiba-tudo",
-      "time": "13/09 · 03:01",
-      "pubDate": "Sun, 13 Sep 2026 00:01:00 -0300"
+      "title": "Técnico do Corinthians valoriza goleada sobre o América e projeta sequência no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539921/tecnico-do-corinthians-valoriza-goleada-sobre-o-america-e-projeta-sequencia-no-paulista-sub-20",
+      "time": "13/09 · 17:05",
+      "pubDate": "Sun, 13 Sep 2026 14:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o S��o José pelo Paulista Sub-17 para se classificar antecipadamente; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539928/corinthians-visita-o-sao-jose-pelo-paulista-sub-17-para-se-classificar-antecipadamente-saiba-tudo",
-      "time": "13/09 · 02:00",
-      "pubDate": "Sat, 12 Sep 2026 23:00:00 -0300"
+      "title": "Corinthians pode subir até três posições ou seguir pressionado pelo Z4 neste domingo; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539939/corinthians-pode-subir-ate-tres-posicoes-ou-seguir-pressionado-pelo-z4-neste-domingo-veja-a-tabela",
+      "time": "13/09 · 16:34",
+      "pubDate": "Sun, 13 Sep 2026 13:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians planeja avanço em recuperação de Yuri Alberto e retorno deve ocorrer após a Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539931/corinthians-planeja-avanco-em-recuperacao-de-yuri-alberto-e-retorno-deve-ocorrer-apos-a-data-fifa",
-      "time": "13/09 · 01:00",
-      "pubDate": "Sat, 12 Sep 2026 22:00:00 -0300"
+      "title": "Diniz comparece a velório de diretor do Fluminense antes de duelo do Corinthians pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539947/diniz-comparece-a-velorio-de-diretor-do-fluminense-antes-de-duelo-do-corinthians-pelo-brasileirao",
+      "time": "13/09 · 15:54",
+      "pubDate": "Sun, 13 Sep 2026 12:54:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante marca pela primeira vez na temporada e movimenta artilharia do Corinthians Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539923/atacante-marca-pela-primeira-vez-na-temporada-e-movimenta-artilharia-do-corinthians-sub-20",
-      "time": "13/09 · 00:35",
-      "pubDate": "Sat, 12 Sep 2026 21:35:00 -0300"
+      "title": "Vitinho volta a ser relacionado pelo Corinthians após mais de quatro meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539941/vitinho-volta-a-ser-relacionado-pelo-corinthians-apos-mais-de-quatro-meses",
+      "time": "13/09 · 15:32",
+      "pubDate": "Sun, 13 Sep 2026 12:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-atacante acompanha treinos do Corinthians no CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539903/ex-atacante-acompanha-treinos-do-corinthians-no-ct-joaquim-grava",
-      "time": "13/09 · 00:02",
-      "pubDate": "Sat, 12 Sep 2026 21:02:00 -0300"
+      "title": "Corinthians tem nove baixas e seis pendurados para duelo contra o Flamengo pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539937/corinthians-tem-nove-baixas-e-seis-pendurados-para-duelo-contra-o-flamengo-pelo-brasileirao",
+      "time": "13/09 · 14:30",
+      "pubDate": "Sun, 13 Sep 2026 11:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians poupa forças para decisão, e Diniz prepara time reserva com novidades contra o Flamengo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-poupa-forcas-para-decisao-e-diniz-prepara-time-reserva-com-novidades-contra-o-flamengo]]>",
+      "time": "13/09 · 12:39",
+      "pubDate": "Sun, 13 Sep 2026 09:39:05 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +81,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-trabalha-para-ter-andre-de-volta-e-mira-retorno-gradual-apos-lesao]]>",
       "time": "12/09 · 22:59",
       "pubDate": "Sat, 12 Sep 2026 19:59:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians poupa forças para decisão, e Diniz prepara time reserva com novidades contra o Flamengo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-poupa-forcas-para-decisao-e-diniz-prepara-time-reserva-com-novidades-contra-o-flamengo]]>",
-      "time": "12/09 · 19:24",
-      "pubDate": "Sat, 12 Sep 2026 16:24:12 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,18 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Técnico do Corinthians valoriza goleada sobre o América e projeta sequência no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539921/tecnico-do-corinthians-valoriza-goleada-sobre-o-america-e-projeta-sequencia-no-paulista-sub-20",
+      "pubDate": "Sun, 13 Sep 2026 14:05:00 -0300",
+      "date": "13/09 · 17:05"
+    },
+    {
+      "title": "Corinthians sofre gol no fim e perde para o São José no Paulistão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539943/corinthians-sofre-gol-no-fim-e-perde-para-o-sao-jose-no-paulistao-sub-17",
+      "pubDate": "Sun, 13 Sep 2026 10:53:00 -0300",
+      "date": "13/09 · 13:53"
+    },
     {
       "title": "Saiba onde assistir ao clássico entre Corinthians e Flamengo pelo Brasileirão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539919/saiba-onde-assistir-ao-classico-entre-corinthians-e-flamengo-pelo-brasileirao",
