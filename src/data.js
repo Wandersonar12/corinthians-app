@@ -1,70 +1,134 @@
-// Gerado automaticamente em 14/09/2026, 14:28:18
+// Gerado automaticamente em 14/09/2026, 21:05:29
 const LIVE_DATA = {
-  "updatedAt": "2026-09-14T14:28:18.945Z",
+  "updatedAt": "2026-09-14T21:05:29.710Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encara semana com decisões na Libertadores, Brasileirão Feminino e base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540033/corinthians-encara-semana-com-decisoes-na-libertadores-brasileirao-feminino-e-base",
-      "time": "14/09 · 13:31",
-      "pubDate": "Mon, 14 Sep 2026 10:31:00 -0300"
+      "title": "Thaís Regina projeta duelo com o Bahia e destaca experiência do Corinthians em decisões",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540064/thais-regina-projeta-duelo-com-o-bahia-e-destaca-experiencia-do-corinthians-em-decisoes",
+      "time": "14/09 · 20:59",
+      "pubDate": "Mon, 14 Sep 2026 17:59:39 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians perde cinco seguidas no Brasileirão pela primeira vez em 20 anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539978/corinthians-perde-cinco-seguidas-no-brasileirao-pela-primeira-vez-em-20-anos",
-      "time": "14/09 · 12:33",
-      "pubDate": "Mon, 14 Sep 2026 09:33:00 -0300"
+      "title": "Diniz diz que Iago tem 'o que o mundo do futebol precisa' após estreia no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540001/diniz-diz-que-iago-tem-o-que-o-mundo-do-futebol-precisa-apos-estreia-no-corinthians",
+      "time": "14/09 · 20:28",
+      "pubDate": "Mon, 14 Sep 2026 17:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece adversários de grupo da Libertadores Feminina nesta segunda-feira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539969/corinthians-conhece-adversarios-da-libertadores-feminina-nesta-segunda-feira",
-      "time": "14/09 · 11:30",
-      "pubDate": "Mon, 14 Sep 2026 08:30:00 -0300"
+      "title": "Corinthians Steamrollers conquista primeira vitória na Superliga e sonha com classificação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540058/corinthians-steamrollers-conquista-primeira-vitoria-na-superliga-e-sonha-com-classificacao",
+      "time": "14/09 · 20:02",
+      "pubDate": "Mon, 14 Sep 2026 17:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: derrota no Brasileirão, distância para o Z4 e repercussão da Fiel",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540016/ultimas-do-corinthians-derrota-no-brasileirao-distancia-para-o-z4-e-repercussao-da-fiel",
-      "time": "14/09 · 10:30",
-      "pubDate": "Mon, 14 Sep 2026 07:30:00 -0300"
+      "title": "Corinthians iguala segunda maior sequência sem vencer como visitante em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539992/corinthians-iguala-segunda-maior-sequencia-sem-vencer-como-visitante-em-2026",
+      "time": "14/09 · 19:32",
+      "pubDate": "Mon, 14 Sep 2026 16:32:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Reforçado, Corinthians inicia preparação para decisão contra o Estudiantes pela Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-preparacao-estudiantes-libertadores/",
+      "time": "14/09 · 19:29",
+      "pubDate": "Mon, 14 Sep 2026 19:29:08 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro comemora estreia no Corinthians e revela quando soube que ia jogar contra o Flamengo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540004/zagueiro-comemora-estreia-no-corinthians-e-revela-quando-soube-que-ia-jogar-contra-o-flamengo",
-      "time": "14/09 · 01:31",
-      "pubDate": "Sun, 13 Sep 2026 22:31:00 -0300"
+      "title": "Corinthians apresenta contratação de surfista recordista mundial em evento no Parque São Jorge",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540051/corinthians-apresenta-contratacao-de-surfista-recordista-mundial-em-evento-no-parque-sao-jorge",
+      "time": "14/09 · 19:08",
+      "pubDate": "Mon, 14 Sep 2026 16:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Gui Negão fala sobre voltar a marcar um gol pelo Corinthians e oportunidades no time",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129637/gui-negao-fala-sobre-voltar-a-marcar-um-gol-pelo-corinthians-e-oportunidades-no-time",
-      "time": "14/09 · 01:00",
-      "pubDate": "Sun, 13 Sep 2026 22:00:00 -0300"
+      "title": "Corinthians se reapresenta no CT após derrota e inicia preparação para a Copa Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540055/corinthians-se-reapresenta-no-ct-apos-derrota-e-inicia-preparacao-para-a-copa-libertadores",
+      "time": "14/09 · 18:56",
+      "pubDate": "Mon, 14 Sep 2026 15:56:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica time alternativo e projeta quartas de final na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540000/tecnico-do-corinthians-explica-time-alternativo-e-projeta-quartas-de-final-na-libertadores",
-      "time": "14/09 · 00:47",
-      "pubDate": "Sun, 13 Sep 2026 21:47:00 -0300"
+      "title": "Atacante do Corinthians comemora gol marcado e destaca dedicação coletiva contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540030/atacante-do-corinthians-comemora-gol-marcado-e-destaca-dedicacao-coletiva-contra-o-flamengo",
+      "time": "14/09 · 18:31",
+      "pubDate": "Mon, 14 Sep 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz revela incômodo com sequência do Corinthians no Brasileirão",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/diniz-revela-incomodo-com-sequencia-do-corinthians-no-brasileirao/",
+      "time": "14/09 · 17:46",
+      "pubDate": "Mon, 14 Sep 2026 17:46:29 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians valoriza postura contra o Flamengo e minimiza peso da má sequência na Série A",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539998/tecnico-do-corinthians-valoriza-postura-contra-o-flamengo-e-minimiza-peso-da-ma-sequencia-na-serie-a",
-      "time": "14/09 · 00:34",
-      "pubDate": "Sun, 13 Sep 2026 21:34:00 -0300"
+      "title": "Corinthians quase dobra risco de rebaixamento no Brasileirão após derrota para o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540034/corinthians-quase-dobra-risco-de-rebaixamento-no-brasileirao-apos-derrota-para-o-flamengo",
+      "time": "14/09 · 17:27",
+      "pubDate": "Mon, 14 Sep 2026 14:27:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians e Palmeiras conhecem adversários na Libertadores Feminina",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-e-palmeiras-conhecem-adversarios-na-libertadores-feminina/",
+      "time": "14/09 · 16:46",
+      "pubDate": "Mon, 14 Sep 2026 16:46:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Substituições surtem efeito, mas Corinthians é punido pelo Flamengo no fim",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-substituicoes-surtem-efeito-mas-corinthians-e-punido-pelo-flamengo-no-fim/",
+      "time": "14/09 · 09:00",
+      "pubDate": "Mon, 14 Sep 2026 09:00:04 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações do Corinthians: veja quem foi bem e quem decepcionou contra o Flamengo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-foi-bem-e-quem-decepcionou-contra-o-flamengo/",
+      "time": "14/09 · 08:00",
+      "pubDate": "Mon, 14 Sep 2026 08:00:38 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz lamenta sequência ruim do Corinthians, mas vê &#8220;cenário otimista&#8221; no Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-lamenta-sequencia-ruim-do-corinthians-mas-ve-cenario-otimista-no-brasileirao/",
+      "time": "13/09 · 23:38",
+      "pubDate": "Sun, 13 Sep 2026 23:38:18 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Melhores momentos: Flamengo 2 x 1 Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-flamengo-2-x-1-corinthians-pelo-brasileirao/",
+      "time": "13/09 · 23:00",
+      "pubDate": "Sun, 13 Sep 2026 23:00:06 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Hugo Souza valoriza Corinthians após derrota e destaca jovens: “Deram conta do recado”",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/hugo-souza-valoriza-corinthians-apos-derrota-e-destaca-jovens-deram-conta-do-recado/",
+      "time": "13/09 · 22:48",
+      "pubDate": "Sun, 13 Sep 2026 22:48:43 +0000"
     },
     {
       "source": "Bolavip",
@@ -121,76 +185,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/raio-x-do-atleta-como-memphis-depay-se-tornou-uma-das-referencias-do-corinthians]]>",
       "time": "10/09 · 21:43",
       "pubDate": "Thu, 10 Sep 2026 18:43:50 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Atacante do Corinthians comemora gol marcado e destaca dedicação coletiva contra o Flamengo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540030/atacante-do-corinthians-comemora-gol-marcado-e-destaca-dedicacao-coletiva-contra-o-flamengo",
+      "pubDate": "Mon, 14 Sep 2026 15:31:00 -0300",
+      "date": "14/09 · 18:31"
+    },
     {
       "title": "VÍDEO: Gui Negão fala sobre voltar a marcar um gol pelo Corinthians e oportunidades no time",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129637/gui-negao-fala-sobre-voltar-a-marcar-um-gol-pelo-corinthians-e-oportunidades-no-time",
@@ -214,24 +220,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/539986/goleiro-do-corinthians-elogia-a-equipe-pela-postura-no-primeiro-tempo-e-valoriza-dupla-de-zagueiros",
       "pubDate": "Sun, 13 Sep 2026 19:58:00 -0300",
       "date": "13/09 · 22:58"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Flamengo 2x1 Corinthians | 27ª rodada | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129633/melhores-momentos-flamengo-2x1-corinthians-27-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Sun, 13 Sep 2026 19:39:00 -0300",
-      "date": "13/09 · 22:39"
-    },
-    {
-      "title": "Corinthians goleia o Taubaté e assume a liderança do grupo no Paulistão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539959/corinthians-goleia-o-taubate-e-assume-a-lideranca-do-grupo-no-paulistao-feminino-sub-17",
-      "pubDate": "Sun, 13 Sep 2026 16:51:00 -0300",
-      "date": "13/09 · 19:51"
-    },
-    {
-      "title": "Técnico do Corinthians valoriza goleada sobre o América e projeta sequência no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/539921/tecnico-do-corinthians-valoriza-goleada-sobre-o-america-e-projeta-sequencia-no-paulista-sub-20",
-      "pubDate": "Sun, 13 Sep 2026 14:05:00 -0300",
-      "date": "13/09 · 17:05"
     }
   ]
 };
