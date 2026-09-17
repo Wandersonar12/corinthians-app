@@ -1,70 +1,142 @@
-// Gerado automaticamente em 17/09/2026, 20:37:31
+// Gerado automaticamente em 17/09/2026, 23:46:24
 const LIVE_DATA = {
-  "updatedAt": "2026-09-17T20:37:31.685Z",
+  "updatedAt": "2026-09-17T23:46:24.556Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretoria do Corinthians banca Fernando Diniz no comando técnico do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540308/diretoria-do-corinthians-banca-fernando-diniz-no-comando-tecnico-do-clube",
-      "time": "17/09 · 20:17",
-      "pubDate": "Thu, 17 Sep 2026 17:17:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Gaviões dispara contra Memphis após eliminação do Corinthians: &#8220;Irresponsável e displicente&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/gavioes-dispara-contra-memphis-apos-eliminacao-do-corinthians-irresponsavel-e-displicente/",
+      "time": "17/09 · 23:32",
+      "pubDate": "Thu, 17 Sep 2026 23:32:51 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians iguala ano com mais derrotas dentro da Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540234/corinthians-iguala-o-ano-com-mais-derrotas-dentro-da-neo-quimica-arena",
-      "time": "17/09 · 19:37",
-      "pubDate": "Thu, 17 Sep 2026 16:37:00 -0300"
+      "title": "Gaviões cobra Memphis e Garro junto da diretoria em nota após eliminação do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540331/gavioes-cobra-memphis-e-garro-junto-da-diretoria-em-nota-apos-eliminacao-do-corinthians",
+      "time": "17/09 · 23:31",
+      "pubDate": "Thu, 17 Sep 2026 20:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians realiza encontro de integridade com elenco do basquete masculino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540300/corinthians-realiza-encontro-de-integridade-com-elenco-do-basquete-masculino",
-      "time": "17/09 · 18:46",
-      "pubDate": "Thu, 17 Sep 2026 15:46:00 -0300"
+      "title": "VÍDEO: Coletiva Marcelo Paz após a eliminação do Corinthians na Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129708/coletiva-marcelo-paz-apos-a-eliminacao-do-corinthians-na-libertadores-2026",
+      "time": "17/09 · 23:05",
+      "pubDate": "Thu, 17 Sep 2026 20:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "STJD livra volante do Corinthians de gancho após expulsão no Brasileirão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540304/stjd-livra-volante-do-corinthians-de-gancho-apos-expulsao-no-brasileirao-sub-20",
-      "time": "17/09 · 18:41",
-      "pubDate": "Thu, 17 Sep 2026 15:41:00 -0300"
+      "title": "Marcelo Paz revela apoio do elenco do Corinthians a Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540323/marcelo-paz-revela-apoio-do-elenco-do-corinthians-a-memphis",
+      "time": "17/09 · 22:47",
+      "pubDate": "Thu, 17 Sep 2026 19:47:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians assume responsabilidade do elenco após eliminaç��o na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540270/meia-do-corinthians-assume-responsabilidade-do-elenco-apos-eliminacao-na-libertadores",
-      "time": "17/09 · 18:35",
-      "pubDate": "Thu, 17 Sep 2026 15:35:00 -0300"
+      "title": "Atletas do Corinthians pregam união do grupo e apoio a Memphis após pênalti perdido e eliminação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540267/atletas-do-corinthians-pregam-uniao-do-grupo-e-apoio-a-memphis-apos-penalti-perdido-e-eliminacao",
+      "time": "17/09 · 22:29",
+      "pubDate": "Thu, 17 Sep 2026 19:29:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se reapresenta após eliminação e abre preparação para pegar o Flu",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-apos-eliminacao-e-abre-preparacao-para-pegar-o-flu/",
+      "time": "17/09 · 22:06",
+      "pubDate": "Thu, 17 Sep 2026 22:06:16 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Quantos jogos o Corinthians ainda tem pela frente em 2026?",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540269/quantos-jogos-o-corinthians-ainda-tem-pela-frente-em-2026",
-      "time": "17/09 · 17:38",
-      "pubDate": "Thu, 17 Sep 2026 14:38:00 -0300"
+      "title": "Corinthians retoma treinamentos após eliminação na Libertadores com foco no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540320/corinthians-retoma-treinamentos-apos-eliminacao-na-libertadores-com-foco-no-brasileirao",
+      "time": "17/09 · 22:04",
+      "pubDate": "Thu, 17 Sep 2026 19:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians deixa até R$ 236 milhões de faturamento pelo caminho após eliminações em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540287/corinthians-deixa-ate-r-236-milhoes-de-faturamento-pelo-caminho-apos-eliminacoes-em-2026",
-      "time": "17/09 · 17:01",
-      "pubDate": "Thu, 17 Sep 2026 14:01:00 -0300"
+      "title": "Marcelo Paz revela conversas para renovação de André Carrillo com o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540318/marcelo-paz-revela-conversas-para-renovacao-de-andre-carrillo-com-o-corinthians",
+      "time": "17/09 · 21:43",
+      "pubDate": "Thu, 17 Sep 2026 18:43:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Paz evita apontar culpados por eliminação do Corinthians e promete acolher Memphis",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/paz-evita-apontar-culpados-por-eliminacao-do-corinthians-e-promete-acolher-memphis/",
+      "time": "17/09 · 21:40",
+      "pubDate": "Thu, 17 Sep 2026 21:40:35 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians reconhece esforço da diretoria sobre dívidas e avalia demora do caso Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540244/tecnico-do-corinthians-reconhece-esforco-da-diretoria-sobre-dividas-e-avalia-demora-do-caso-memphis",
-      "time": "17/09 · 16:34",
-      "pubDate": "Thu, 17 Sep 2026 13:34:00 -0300"
+      "title": "Corinthians sofre primeira derrota para o Estudiantes no Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540229/corinthians-sofre-primeira-derrota-para-o-estudiantes-no-brasil",
+      "time": "17/09 · 21:31",
+      "pubDate": "Thu, 17 Sep 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Executivo do Corinthians defende trabalho de Diniz: &#8220;Não há intenção de troca&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/executivo-do-corinthians-defende-trabalho-de-diniz-nao-ha-intencao-de-troca/",
+      "time": "17/09 · 21:06",
+      "pubDate": "Thu, 17 Sep 2026 21:06:02 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Edilson manda recado para a torcida do Corinthians e ameniza pênalti perdido por Memphis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540306/edilson-manda-recado-para-a-torcida-do-corinthians-e-ameniza-penalti-perdido-por-memphis",
+      "time": "17/09 · 21:02",
+      "pubDate": "Thu, 17 Sep 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Palmeiras usa música de Memphis para provocar Corinthians após eliminação: &#8220;não somos iguais&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-provoca-corinthians-musica-memphis-depay-libertadores/",
+      "time": "17/09 · 18:45",
+      "pubDate": "Thu, 17 Sep 2026 18:45:44 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Memphis Depay falha em momento decisivo e pouco consegue agregar ao Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-memphis-depay-falha-em-momento-decisivo-e-pouco-consegue-agregar-ao-corinthians]]>",
+      "time": "17/09 · 16:58",
+      "pubDate": "Thu, 17 Sep 2026 13:58:35 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Abatido, Garro lamenta eliminação do Corinthians na Libertadores: “Tristeza muito grande”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-abatido-garro-lamenta-eliminacao-do-corinthians-na-libertadores-tristeza-muito-grande]]>",
+      "time": "17/09 · 16:52",
+      "pubDate": "Thu, 17 Sep 2026 13:52:08 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Torcida do Corinthians picha muros do Parque São Jorge para protestar contra Memphis",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/muros-parque-sao-jorge-pichados-memphis/",
+      "time": "17/09 · 14:53",
+      "pubDate": "Thu, 17 Sep 2026 14:53:49 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis vive pior momento no Corinthians após pênalti perdido e protestos da Fiel Torcida",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-vive-pior-momento-no-corinthians-apos-penalti-perdido-e-protestos-da-fiel-torcida]]>",
+      "time": "17/09 · 12:50",
+      "pubDate": "Thu, 17 Sep 2026 09:50:28 -0300"
     },
     {
       "source": "Bolavip",
@@ -75,20 +147,20 @@ const LIVE_DATA = {
       "pubDate": "Thu, 17 Sep 2026 08:44:37 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Memphis Depay falha em momento decisivo e pouco consegue agregar ao Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-memphis-depay-falha-em-momento-decisivo-e-pouco-consegue-agregar-ao-corinthians]]>",
-      "time": "17/09 · 11:43",
-      "pubDate": "Thu, 17 Sep 2026 08:43:40 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Corinthians é eliminado justamente e precisa abrir o olho no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-e-eliminado-justamente-e-precisa-abrir-o-olho-no-brasileiro/",
+      "time": "17/09 · 10:00",
+      "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Abatido, Garro lamenta eliminação do Corinthians na Libertadores: “Tristeza muito grande”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-abatido-garro-lamenta-eliminacao-do-corinthians-na-libertadores-tristeza-muito-grande]]>",
-      "time": "17/09 · 11:40",
-      "pubDate": "Thu, 17 Sep 2026 08:40:59 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações: Memphis perde pênalti e é vilão em eliminação do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-memphis-perde-penalti-e-e-vilao-em-eliminacao-do-corinthians/",
+      "time": "17/09 · 09:00",
+      "pubDate": "Thu, 17 Sep 2026 09:00:56 +0000"
     },
     {
       "source": "Bolavip",
@@ -121,84 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/raio-x-do-atleta-como-breno-bidon-ganhou-espaco-como-peca-versatil-do-corinthians]]>",
       "time": "15/09 · 20:49",
       "pubDate": "Tue, 15 Sep 2026 17:49:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Histórico Corinthians e Estudiantes na Libertadores: após empate na ida, decisão será na Neo Química Arena",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/historico-corinthians-e-estudiantes-na-libertadores-apos-empate-na-ida-decisao-sera-na-neo-quimica-arena]]>",
-      "time": "15/09 · 18:58",
-      "pubDate": "Tue, 15 Sep 2026 15:58:03 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Coletiva Marcelo Paz após a eliminação do Corinthians na Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129708/coletiva-marcelo-paz-apos-a-eliminacao-do-corinthians-na-libertadores-2026",
+      "pubDate": "Thu, 17 Sep 2026 20:05:00 -0300",
+      "date": "17/09 · 23:05"
+    },
     {
       "title": "VÍDEO: Fernando Diniz comenta eliminação do Corinthians na Conmebol Libertadores 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129692/fernando-diniz-comenta-eliminacao-do-corinthians-na-conmebol-libertadores-2026",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129691/agora-e-so-fechar-a-boca-e-trabalhar-rodrigo-garro-fala-sobre-eliminacao-da-libertadores-2026",
       "pubDate": "Thu, 17 Sep 2026 01:13:57 -0300",
       "date": "17/09 · 04:13"
-    },
-    {
-      "title": "VÍDEO: 'Pedir desculpas para os torcedores'. Matheus Bidu fala sobre eliminação da Libertadores 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129690/pedir-desculpas-para-os-torcedores-matheus-bidu-fala-sobre-eliminacao-da-libertadores-2026",
-      "pubDate": "Thu, 17 Sep 2026 01:10:50 -0300",
-      "date": "17/09 · 04:10"
     }
   ]
 };
