@@ -1,7 +1,63 @@
-// Gerado automaticamente em 18/09/2026, 20:02:52
+// Gerado automaticamente em 18/09/2026, 23:41:22
 const LIVE_DATA = {
-  "updatedAt": "2026-09-18T20:02:52.172Z",
+  "updatedAt": "2026-09-18T23:41:22.392Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians pode receber valor milionário por venda de atacante da Seleção para futebol saudita",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540400/corinthians-pode-receber-valor-milionario-por-venda-de-atacante-da-selecao-para-futebol-saudita",
+      "time": "18/09 · 23:15",
+      "pubDate": "Fri, 18 Sep 2026 20:15:22 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Como você avalia a nova camisa III do Corinthians para 2026/27? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540377/como-voce-avalia-a-nova-camisa-iii-do-corinthians-para-202627-vote-na-enquete-do-meu-timao",
+      "time": "18/09 · 22:30",
+      "pubDate": "Fri, 18 Sep 2026 19:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece datas e horários de jogos da Copa Libertadores Feminina; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540394/corinthians-conhece-datas-e-horarios-de-jogos-da-copa-libertadores-feminina-confira",
+      "time": "18/09 · 21:25",
+      "pubDate": "Fri, 18 Sep 2026 18:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jogador do Corinthians entra em campo em classificação do Brasil à final da Liga Evolução Sub-15",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540391/jogador-do-corinthians-entra-em-campo-em-classificacao-do-brasil-a-final-da-liga-evolucao-sub-15",
+      "time": "18/09 · 20:45",
+      "pubDate": "Fri, 18 Sep 2026 17:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Justiça aceita novo recurso e suspende Assembleia Geral da reforma do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540389/justica-aceita-novo-recurso-e-suspende-assembleia-geral-da-reforma-do-estatuto-do-corinthians",
+      "time": "18/09 · 20:34",
+      "pubDate": "Fri, 18 Sep 2026 17:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Yuri Alberto completa 50 dias sem jogar pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540345/yuri-alberto-completa-50-dias-sem-jogar-pelo-corinthians",
+      "time": "18/09 · 20:34",
+      "pubDate": "Fri, 18 Sep 2026 17:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Organizadas do Corinthians convocam torcida e defendem apoio ao voto do FT na reforma do Estatuto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540388/organizadas-do-corinthians-convocam-torcida-e-defendem-apoio-ao-voto-do-ft-na-reforma-do-estatuto",
+      "time": "18/09 · 20:16",
+      "pubDate": "Fri, 18 Sep 2026 17:16:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,68 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 18 Sep 2026 16:29:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Presidente do Conselho critica vitalícios por nova ação contra reforma do Estatuto do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540383/presidente-do-conselho-critica-vitalicios-por-nova-acao-contra-reforma-do-estatuto-do-corinthians",
-      "time": "18/09 · 19:23",
-      "pubDate": "Fri, 18 Sep 2026 16:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians faz primeira atividade de olho em vaga na final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540380/corinthians-faz-primeira-atividade-de-olho-em-vaga-na-final-do-brasileirao-feminino",
-      "time": "18/09 · 18:45",
-      "pubDate": "Fri, 18 Sep 2026 15:45:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians prioriza treino técnico em dia de cobranças no CT Joaquim Grava",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540376/corinthians-prioriza-treino-tecnico-em-dia-de-cobrancas-no-ct-joaquim-grava",
-      "time": "18/09 · 18:25",
-      "pubDate": "Fri, 18 Sep 2026 15:25:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Cobranças a Memphis, Diniz e Stabile: veja detalhes da reunião das organizadas no CT do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540368/cobrancas-a-memphis-diniz-e-stabile-veja-detalhes-da-reuniao-das-organizadas-no-ct-do-corinthians",
-      "time": "18/09 · 18:23",
-      "pubDate": "Fri, 18 Sep 2026 15:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians celebra desempenho na temporada e prega foco no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540375/atacante-do-corinthians-celebra-desempenho-na-temporada-e-prega-foco-no-paulista-sub-17",
-      "time": "18/09 · 18:21",
-      "pubDate": "Fri, 18 Sep 2026 15:21:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia venda de ingressos para jogos da semifinal do Paulista de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540370/corinthians-inicia-venda-de-ingressos-para-jogos-da-semifinal-do-paulista-de-basquete",
-      "time": "18/09 · 18:01",
-      "pubDate": "Fri, 18 Sep 2026 15:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians bate o Pinda em amistoso da equipe Sub-20 no Parque São Jorge",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540372/corinthians-bate-o-pinda-em-amistoso-da-equipe-sub-20-no-parque-sao-jorge",
-      "time": "18/09 · 17:45",
-      "pubDate": "Fri, 18 Sep 2026 14:45:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Marcelo Paz revela como o Corinthians vai blindar Memphis: “Ele tem que focar no futebol”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-revela-como-o-corinthians-vai-blindar-memphis-ele-tem-que-focar-no-futebol]]>",
-      "time": "18/09 · 00:32",
-      "pubDate": "Thu, 17 Sep 2026 21:32:45 -0300"
+      "time": "18/09 · 16:59",
+      "pubDate": "Fri, 18 Sep 2026 13:59:29 -0300"
     },
     {
       "source": "Bolavip",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540272/corinthians-tem-pior-sequencia-de-jogos-sofrendo-gols-em-2026",
       "pubDate": "Thu, 17 Sep 2026 22:30:00 -0300",
       "date": "18/09 · 01:30"
-    },
-    {
-      "title": "VÍDEO: Coletiva Marcelo Paz após a eliminação do Corinthians na Libertadores 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129708/coletiva-marcelo-paz-apos-a-eliminacao-do-corinthians-na-libertadores-2026",
-      "pubDate": "Thu, 17 Sep 2026 20:05:00 -0300",
-      "date": "17/09 · 23:05"
     }
   ]
 };
