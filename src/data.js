@@ -1,7 +1,55 @@
-// Gerado automaticamente em 17/09/2026, 23:46:24
+// Gerado automaticamente em 18/09/2026, 12:24:32
 const LIVE_DATA = {
-  "updatedAt": "2026-09-17T23:46:24.556Z",
+  "updatedAt": "2026-09-18T12:24:32.832Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: muros pichados, Diniz bancado e conversas com Carrillo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540336/ultimas-do-corinthians-muros-pichados-diniz-bancado-e-conversas-com-carrillo",
+      "time": "18/09 · 10:30",
+      "pubDate": "Fri, 18 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Paz crê em vendas no Corinthians ainda em 2026: &#8220;Ano não acabou&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-confia-em-vendas-ainda-em-2026-o-ano-nao-acabou/",
+      "time": "18/09 · 08:00",
+      "pubDate": "Fri, 18 Sep 2026 08:00:39 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem pior sequência de jogos sofrendo gols em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540272/corinthians-tem-pior-sequencia-de-jogos-sofrendo-gols-em-2026",
+      "time": "18/09 · 01:30",
+      "pubDate": "Thu, 17 Sep 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians abre conversas para renovar com Carrillo e avalia outros casos",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-abre-conversas-para-renovar-com-carrillo-e-avalia-outros-casos/",
+      "time": "18/09 · 01:04",
+      "pubDate": "Fri, 18 Sep 2026 01:04:36 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diniz lamenta ausências do Corinthians após queda e projeta volta por cima no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540242/diniz-lamenta-ausencias-do-corinthians-apos-queda-e-projeta-volta-por-cima-no-brasileirao",
+      "time": "18/09 · 00:32",
+      "pubDate": "Thu, 17 Sep 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians publica nota contra o veto das casas de apostas no Brasil",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540329/corinthians-publica-nota-contra-o-veto-das-casas-de-apostas-no-brasil",
+      "time": "17/09 · 23:45",
+      "pubDate": "Thu, 17 Sep 2026 20:45:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -13,8 +61,8 @@ const LIVE_DATA = {
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gaviões cobra Memphis e Garro junto da diretoria em nota após eliminação do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540331/gavioes-cobra-memphis-e-garro-junto-da-diretoria-em-nota-apos-eliminacao-do-corinthians",
+      "title": "Gaviões cobra Memphis, Garro e diretoria do Corinthians em nota após eliminação na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540331/gavioes-cobra-memphis-garro-e-diretoria-do-corinthians-em-nota-apos-eliminacao-na-libertadores",
       "time": "17/09 · 23:31",
       "pubDate": "Thu, 17 Sep 2026 20:31:00 -0300"
     },
@@ -25,6 +73,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129708/coletiva-marcelo-paz-apos-a-eliminacao-do-corinthians-na-libertadores-2026",
       "time": "17/09 · 23:05",
       "pubDate": "Thu, 17 Sep 2026 20:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz revela como o Corinthians vai blindar Memphis: “Ele tem que focar no futebol”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-revela-como-o-corinthians-vai-blindar-memphis-ele-tem-que-focar-no-futebol]]>",
+      "time": "17/09 · 22:49",
+      "pubDate": "Thu, 17 Sep 2026 19:49:16 -0300"
     },
     {
       "source": "Meu Timao",
@@ -51,22 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 17 Sep 2026 22:06:16 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians retoma treinamentos após eliminação na Libertadores com foco no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540320/corinthians-retoma-treinamentos-apos-eliminacao-na-libertadores-com-foco-no-brasileirao",
-      "time": "17/09 · 22:04",
-      "pubDate": "Thu, 17 Sep 2026 19:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Marcelo Paz revela conversas para renovação de André Carrillo com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540318/marcelo-paz-revela-conversas-para-renovacao-de-andre-carrillo-com-o-corinthians",
-      "time": "17/09 · 21:43",
-      "pubDate": "Thu, 17 Sep 2026 18:43:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Paz evita apontar culpados por eliminação do Corinthians e promete acolher Memphis",
@@ -75,12 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 17 Sep 2026 21:40:35 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre primeira derrota para o Estudiantes no Brasil",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540229/corinthians-sofre-primeira-derrota-para-o-estudiantes-no-brasil",
-      "time": "17/09 · 21:31",
-      "pubDate": "Thu, 17 Sep 2026 18:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Histórico Corinthians x Fluminense: Retrospecto, números e os últimos Confrontos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/historico-corinthians-x-fluminense-retrospecto-numeros-e-os-ultimos-confrontos]]>",
+      "time": "17/09 · 21:23",
+      "pubDate": "Thu, 17 Sep 2026 18:23:05 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -89,14 +129,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/executivo-do-corinthians-defende-trabalho-de-diniz-nao-ha-intencao-de-troca/",
       "time": "17/09 · 21:06",
       "pubDate": "Thu, 17 Sep 2026 21:06:02 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Edilson manda recado para a torcida do Corinthians e ameniza pênalti perdido por Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540306/edilson-manda-recado-para-a-torcida-do-corinthians-e-ameniza-penalti-perdido-por-memphis",
-      "time": "17/09 · 21:02",
-      "pubDate": "Thu, 17 Sep 2026 18:02:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -147,22 +179,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 17 Sep 2026 08:44:37 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Corinthians é eliminado justamente e precisa abrir o olho no Brasileiro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-e-eliminado-justamente-e-precisa-abrir-o-olho-no-brasileiro/",
-      "time": "17/09 · 10:00",
-      "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações: Memphis perde pênalti e é vilão em eliminação do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-memphis-perde-penalti-e-e-vilao-em-eliminacao-do-corinthians/",
-      "time": "17/09 · 09:00",
-      "pubDate": "Thu, 17 Sep 2026 09:00:56 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Gabriel Paulista tem camisa puxada na área e árbitro Jesús Valenzuela descarta pênalti para o Corinthians",
@@ -177,22 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-chega-ao-jogo-do-ano-precisando-ser-maior-que-a-propria-crise]]>",
       "time": "16/09 · 14:18",
       "pubDate": "Wed, 16 Sep 2026 11:18:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians regulariza direitos de imagem atrasados do feminino antes de decisão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-regulariza-direitos-de-imagem-atrasados-do-feminino-antes-de-decisao]]>",
-      "time": "15/09 · 21:17",
-      "pubDate": "Tue, 15 Sep 2026 18:17:26 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Raio-X do Atleta: como Breno Bidon ganhou espaço como peça versátil do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/raio-x-do-atleta-como-breno-bidon-ganhou-espaco-como-peca-versatil-do-corinthians]]>",
-      "time": "15/09 · 20:49",
-      "pubDate": "Tue, 15 Sep 2026 17:49:34 -0300"
     }
   ],
   "upcoming": [],
@@ -200,22 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Corinthians tem pior sequência de jogos sofrendo gols em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540272/corinthians-tem-pior-sequencia-de-jogos-sofrendo-gols-em-2026",
+      "pubDate": "Thu, 17 Sep 2026 22:30:00 -0300",
+      "date": "18/09 · 01:30"
+    },
+    {
       "title": "VÍDEO: Coletiva Marcelo Paz após a eliminação do Corinthians na Libertadores 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129708/coletiva-marcelo-paz-apos-a-eliminacao-do-corinthians-na-libertadores-2026",
       "pubDate": "Thu, 17 Sep 2026 20:05:00 -0300",
       "date": "17/09 · 23:05"
-    },
-    {
-      "title": "VÍDEO: Fernando Diniz comenta eliminação do Corinthians na Conmebol Libertadores 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129692/fernando-diniz-comenta-eliminacao-do-corinthians-na-conmebol-libertadores-2026",
-      "pubDate": "Thu, 17 Sep 2026 01:36:39 -0300",
-      "date": "17/09 · 04:36"
-    },
-    {
-      "title": "VÍDEO: 'Agora é só fechar a boca e trabalhar'! Rodrigo Garro fala sobre eliminação da Libertadores 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129691/agora-e-so-fechar-a-boca-e-trabalhar-rodrigo-garro-fala-sobre-eliminacao-da-libertadores-2026",
-      "pubDate": "Thu, 17 Sep 2026 01:13:57 -0300",
-      "date": "17/09 · 04:13"
     }
   ]
 };
