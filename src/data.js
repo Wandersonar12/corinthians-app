@@ -1,7 +1,95 @@
-// Gerado automaticamente em 19/09/2026, 19:39:33
+// Gerado automaticamente em 19/09/2026, 23:41:44
 const LIVE_DATA = {
-  "updatedAt": "2026-09-19T19:39:33.168Z",
+  "updatedAt": "2026-09-19T23:41:44.053Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians fecha preparação para duelo contra Fluminense pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-fecha-preparacao-para-duelo-contra-fluminense-pelo-brasileirao/",
+      "time": "19/09 · 23:35",
+      "pubDate": "Sat, 19 Sep 2026 23:35:13 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece adversário na decisão do Desafio Internacional de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540445/corinthians-conhece-adversario-na-decisao-do-desafio-internacional-de-futsal",
+      "time": "19/09 · 23:32",
+      "pubDate": "Sat, 19 Sep 2026 20:32:14 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians lança copos comemorativos em homenagem à Invasão de 1976 e às Brabas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540405/corinthians-lanca-copos-comemorativos-em-homenagem-a-invasao-de-1976-e-as-brabas",
+      "time": "19/09 · 23:03",
+      "pubDate": "Sat, 19 Sep 2026 20:03:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Fluminense pelo Brasileirão: onde assistir, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-fluminense-brasileirao-20-09-2026/",
+      "time": "19/09 · 23:00",
+      "pubDate": "Sat, 19 Sep 2026 23:00:03 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Eleições MT: pré-candidato aborda suspensão de Assembleia para reforma do Estatuto do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540404/eleicoes-mt-pre-candidato-aborda-suspensao-de-assembleia-para-reforma-do-estatuto-do-corinthians",
+      "time": "19/09 · 22:00",
+      "pubDate": "Sat, 19 Sep 2026 19:00:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Neymar manda recado a Memphis após desabafo por pênalti perdido no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/santos/neymar-recado-memphis-depay-penalti-corinthians/",
+      "time": "19/09 · 21:52",
+      "pubDate": "Sat, 19 Sep 2026 21:52:10 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca evitar pior sequência da história da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540390/corinthians-busca-evitar-pior-sequencia-da-historia-da-neo-quimica-arena",
+      "time": "19/09 · 21:05",
+      "pubDate": "Sat, 19 Sep 2026 18:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence Boca Juniors em jogo cheio de expulsões e vai à final do Desafio de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540441/corinthians-vence-boca-juniors-em-jogo-cheio-de-expulsoes-e-vai-a-final-do-desafio-de-futsal",
+      "time": "19/09 · 20:53",
+      "pubDate": "Sat, 19 Sep 2026 17:53:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Iago Machado deve ganhar nova chance como titular do Corinthians contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540440/iago-machado-deve-ganhar-nova-chance-como-titular-do-corinthians-contra-o-fluminense",
+      "time": "19/09 · 20:42",
+      "pubDate": "Sat, 19 Sep 2026 17:42:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Marcelo Paz fala sobre eleições do Corinthians e comenta relação com Armando Mendonça",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540325/marcelo-paz-fala-sobre-eleicoes-do-corinthians-e-comenta-relacao-com-armando-mendonca",
+      "time": "19/09 · 20:01",
+      "pubDate": "Sat, 19 Sep 2026 17:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians prevê venda até o fim do ano e define nomes que podem movimentar o mercado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-preve-venda-ate-o-fim-do-ano-e-define-nomes-que-podem-movimentar-o-mercado]]>",
+      "time": "19/09 · 19:16",
+      "pubDate": "Sat, 19 Sep 2026 16:16:40 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,12 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 19 Sep 2026 16:02:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians atua no segundo tempo da eliminação do Brasil para a Espanha na Copa Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540422/atacante-do-corinthians-atua-em-segundo-tempo-da-eliminacao-do-brasil-para-a-espanha-na-copa-sub-20",
-      "time": "19/09 · 18:28",
-      "pubDate": "Sat, 19 Sep 2026 15:28:45 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz fica? Entenda os bastidores que pesam pela permanência ou saída do treinador no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-fica-entenda-os-bastidores-que-pesam-pela-permanencia-ou-saida-do-treinador-no-corinthians]]>",
+      "time": "19/09 · 18:56",
+      "pubDate": "Sat, 19 Sep 2026 15:56:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -27,14 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Sat, 19 Sep 2026 18:02:27 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições Meu Timão: Pré-candidato à presidência do Corinthians critica intervenção e modelo de SAF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540402/eleicoes-meu-timao-pre-candidato-a-presidencia-do-corinthians-critica-intervencao-e-modelo-de-saf",
-      "time": "19/09 · 18:01",
-      "pubDate": "Sat, 19 Sep 2026 15:01:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Diniz comanda treino tático, e Corinthians fecha preparação para pegar o Fluminense",
@@ -43,52 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 19 Sep 2026 17:58:05 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians finaliza preparação para receber o Fluminense pelo Brasileiro; veja provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540416/corinthians-finaliza-preparacao-para-receber-o-fluminense-pelo-brasileiro-veja-provavel-escalacao",
-      "time": "19/09 · 17:45",
-      "pubDate": "Sat, 19 Sep 2026 14:45:27 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Memphis pede desculpa à torcida do Corinthians por pênalti perdido: “Maior decepção da carreira”",
       "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pede-desculpa-a-torcida-do-corinthians-por-penalti-perdido-maior-decepcao-da-carreira/",
       "time": "19/09 · 17:40",
       "pubDate": "Sat, 19 Sep 2026 17:40:15 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis se pronuncia pela primeira vez após pênalti desperdiçado em eliminação do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540424/memphis-se-pronuncia-pela-primeira-vez-apos-penalti-desperdicado-em-eliminacao-do-corinthians",
-      "time": "19/09 · 17:07",
-      "pubDate": "Sat, 19 Sep 2026 14:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a enfrentar um time argentino no futsal após cinco anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540282/corinthians-volta-a-enfrentar-um-time-argentino-no-futsal-apos-cinco-anos",
-      "time": "19/09 · 17:01",
-      "pubDate": "Sat, 19 Sep 2026 14:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza trabalho tático em preparação para as semifinais do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540423/corinthians-realiza-trabalho-tatico-em-preparacao-para-as-semifinais-do-brasileirao-feminino",
-      "time": "19/09 · 16:53",
-      "pubDate": "Sat, 19 Sep 2026 13:53:10 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Associados do Corinthians pedem apuração de vitalícios que entraram com recurso contra Assembleia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540421/associados-do-corinthians-pedem-apuracao-de-vitalicios-que-entraram-com-recurso-contra-assembleia",
-      "time": "19/09 · 16:27",
-      "pubDate": "Sat, 19 Sep 2026 13:27:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -107,36 +147,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 19 Sep 2026 09:00:07 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Justiça volta a suspender Assembleia que votaria reforma do estatuto do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-volta-a-suspender-assembleia-que-votaria-reforma-do-estatuto-do-corinthians/",
-      "time": "18/09 · 21:40",
-      "pubDate": "Fri, 18 Sep 2026 21:40:12 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Raio-X do Atleta: Kaio Cesar ganha espaço e vira opção importante no ataque do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/raio-x-do-atleta-kaio-cesar-ganha-espaco-e-vira-opcao-importante-no-ataque-do-corinthians]]>",
       "time": "18/09 · 20:15",
       "pubDate": "Fri, 18 Sep 2026 17:15:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians treina de olho no Fluminense em dia de cobranças no CT",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treina-de-olho-no-fluminense-em-dia-de-cobrancas-no-ct/",
-      "time": "18/09 · 19:43",
-      "pubDate": "Fri, 18 Sep 2026 19:43:12 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta sexta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-sexta-feira-21/",
-      "time": "18/09 · 19:10",
-      "pubDate": "Fri, 18 Sep 2026 19:10:34 +0000"
     },
     {
       "source": "Bolavip",
@@ -177,22 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-vive-pior-momento-no-corinthians-apos-penalti-perdido-e-protestos-da-fiel-torcida]]>",
       "time": "17/09 · 12:50",
       "pubDate": "Thu, 17 Sep 2026 09:50:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Alex Santana se dedica aos treinamentos e aguarda por uma oportunidade no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/alex-santana-se-dedica-aos-treinamentos-e-aguarda-por-uma-oportunidade-no-corinthians]]>",
-      "time": "17/09 · 11:44",
-      "pubDate": "Thu, 17 Sep 2026 08:44:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gabriel Paulista tem camisa puxada na área e árbitro Jesús Valenzuela descarta pênalti para o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabriel-paulista-tem-camisa-puxada-na-area-e-arbitro-jesus-valenzuela-descarta-penalti-para-o-corinthians]]>",
-      "time": "17/09 · 01:17",
-      "pubDate": "Wed, 16 Sep 2026 22:17:28 -0300"
     }
   ],
   "upcoming": [],
