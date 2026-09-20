@@ -1,70 +1,126 @@
-// Gerado automaticamente em 20/09/2026, 12:40:15
+// Gerado automaticamente em 20/09/2026, 19:52:49
 const LIVE_DATA = {
-  "updatedAt": "2026-09-20T12:40:15.028Z",
+  "updatedAt": "2026-09-20T19:52:49.090Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Audax pelo fechamento da primeira fase do Paulista Feminino Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540444/corinthians-recebe-o-audax-pelo-fechamento-da-primeira-fase-do-paulista-feminino-sub-17-saiba-tudo",
-      "time": "20/09 · 12:33",
-      "pubDate": "Sun, 20 Sep 2026 09:33:00 -0300"
+      "title": "Organizadas do Corinthians protestam contra elenco antes de jogo pelo Campeonato Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540484/organizadas-do-corinthians-protestam-contra-elenco-antes-de-jogo-pelo-campeonato-brasileiro",
+      "time": "20/09 · 19:35",
+      "pubDate": "Sun, 20 Sep 2026 16:35:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Torcida do Corinthians protesta e fica de costas antes de jogo contra o Fluminense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-corinthians-protesto-jogo-fluminense/",
+      "time": "20/09 · 19:11",
+      "pubDate": "Sun, 20 Sep 2026 19:11:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Fluminense: siga o tempo real do jogo pela 28ª rodada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-fluminense-brasileirao-20-09-2026/",
+      "time": "20/09 · 18:30",
+      "pubDate": "Sun, 20 Sep 2026 18:30:41 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à partida entre Corinthians e Fluminense pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540438/saiba-onde-assistir-a-partida-entre-corinthians-e-fluminense-pelo-brasileirao",
-      "time": "20/09 · 11:31",
-      "pubDate": "Sun, 20 Sep 2026 08:31:00 -0300"
+      "title": "Corinthians detalha ausências de zagueiro e volante para duelo contra o Fluminense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540473/corinthians-detalha-ausencias-de-zagueiro-e-volante-para-duelo-contra-o-fluminense",
+      "time": "20/09 · 18:09",
+      "pubDate": "Sun, 20 Sep 2026 15:09:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians tem surpresa na zaga e novidades no meio contra o Fluminense; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-corinthians-fluminense-20-09-2026/",
+      "time": "20/09 · 18:03",
+      "pubDate": "Sun, 20 Sep 2026 18:03:40 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: provável escalação, posicionamento de Memphis e nova chance para zagueiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540448/ultimas-do-corinthians-provavel-escalacao-posicionamento-de-memphis-e-nova-chance-para-zagueiro",
-      "time": "20/09 · 10:30",
-      "pubDate": "Sun, 20 Sep 2026 07:30:00 -0300"
+      "title": "Corinthians está escalado para enfrentar o Fluminense pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540460/corinthians-esta-escalado-para-enfrentar-o-fluminense-pelo-brasileirao",
+      "time": "20/09 · 18:00",
+      "pubDate": "Sun, 20 Sep 2026 15:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Fluminense em busca de voltar a vencer no Brasileirão; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540437/corinthians-enfrenta-o-fluminense-em-busca-de-voltar-a-vencer-no-brasileirao-saiba-tudo",
-      "time": "20/09 · 03:01",
-      "pubDate": "Sun, 20 Sep 2026 00:01:00 -0300"
+      "title": "Corinthians e Fluminense se enfrentam para desempatar retrospecto histórico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540467/corinthians-e-fluminense-se-enfrentam-para-desempatar-retrospecto-historico",
+      "time": "20/09 · 17:32",
+      "pubDate": "Sun, 20 Sep 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians anuncia contratação de jovem atleta para equipe de bodyboard",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540442/corinthians-anuncia-contratacao-de-jovem-atleta-para-equipe-de-bodyboard",
-      "time": "20/09 · 01:01",
-      "pubDate": "Sat, 19 Sep 2026 22:01:00 -0300"
+      "title": "Briga pelo G4, vaga na semi da Libertadores: como chega o Fluminense contra o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540463/briga-pelo-g4-vaga-na-semi-da-libertadores-como-chega-o-fluminense-contra-o-corinthians",
+      "time": "20/09 · 16:36",
+      "pubDate": "Sun, 20 Sep 2026 13:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians perde para o São José e fica com o vice da Liga de Desenvolvimento de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540436/corinthians-perde-para-o-sao-jose-e-fica-com-o-vice-da-liga-de-desenvolvimento-de-basquete",
-      "time": "20/09 · 00:45",
-      "pubDate": "Sat, 19 Sep 2026 21:45:00 -0300"
+      "title": "Corinthians pode subir duas posições e aliviar pressão do Z4 neste domingo; veja tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540465/corinthians-pode-subir-duas-posicoes-e-aliviar-pressao-do-z4-neste-domingo-veja-tabela",
+      "time": "20/09 · 16:04",
+      "pubDate": "Sun, 20 Sep 2026 13:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcedores reprovam o novo terceiro uniforme do Corinthians; veja resultado da enquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540414/torcedores-reprovam-o-novo-terceiro-uniforme-do-corinthians-veja-resultado-da-enquete",
-      "time": "20/09 · 00:02",
-      "pubDate": "Sat, 19 Sep 2026 21:02:00 -0300"
+      "title": "Corinthians enfrenta Bahia em busca de manter invencibilidade na Neo Química Arena pelo feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540435/corinthians-enfrenta-bahia-em-busca-de-manter-invencibilidade-na-neo-quimica-arena-pelo-feminino",
+      "time": "20/09 · 15:33",
+      "pubDate": "Sun, 20 Sep 2026 12:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece adversário na decisão do Desafio Internacional de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540445/corinthians-conhece-adversario-na-decisao-do-desafio-internacional-de-futsal",
-      "time": "19/09 · 23:32",
-      "pubDate": "Sat, 19 Sep 2026 20:32:00 -0300"
+      "title": "Corinthians busca voltar a vencer no Brasileiro para não igualar maior sequência negativa desde 2006",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540433/corinthians-busca-voltar-a-vencer-no-brasileiro-para-nao-igualar-maior-sequencia-negativa-desde-2006",
+      "time": "20/09 · 14:35",
+      "pubDate": "Sun, 20 Sep 2026 11:35:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz deve promover mudanças no Corinthians para jogo contra o Fluminense",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-tende-a-ganhar-nova-chance-na-zaga-do-corinthians-que-tera-mudancas-contra-o-fluminense]]>",
+      "time": "20/09 · 12:16",
+      "pubDate": "Sun, 20 Sep 2026 09:16:24 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis reencontra torcida do Corinthians pressionado após pênalti perdido",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-reencontra-torcida-do-corinthians-pressionado-apos-penalti-perdido/",
+      "time": "20/09 · 10:00",
+      "pubDate": "Sun, 20 Sep 2026 10:00:43 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians fecha preparação para duelo contra Fluminense pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-fecha-preparacao-para-duelo-contra-fluminense-pelo-brasileirao/",
+      "time": "19/09 · 23:35",
+      "pubDate": "Sat, 19 Sep 2026 23:35:13 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Fluminense pelo Brasileirão: onde assistir, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-fluminense-brasileirao-20-09-2026/",
+      "time": "19/09 · 23:00",
+      "pubDate": "Sat, 19 Sep 2026 23:00:03 +0000"
     },
     {
       "source": "Bolavip",
@@ -77,18 +133,18 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Fernando Diniz deve promover mudanças no Corinthians para jogo contra o Fluminense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-tende-a-ganhar-nova-chance-na-zaga-do-corinthians-que-tera-mudancas-contra-o-fluminense]]>",
-      "time": "19/09 · 22:52",
-      "pubDate": "Sat, 19 Sep 2026 19:52:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Torcida saindo com dó dos jogadores mostrou o tamanho da crise no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-torcida-saindo-com-do-dos-jogadores-mostrou-o-tamanho-da-crise-no-corinthians]]>",
       "time": "19/09 · 21:53",
       "pubDate": "Sat, 19 Sep 2026 18:53:50 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Neymar manda recado a Memphis após desabafo por pênalti perdido no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/santos/neymar-recado-memphis-depay-penalti-corinthians/",
+      "time": "19/09 · 21:52",
+      "pubDate": "Sat, 19 Sep 2026 21:52:10 +0000"
     },
     {
       "source": "Bolavip",
@@ -97,6 +153,14 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-preve-venda-ate-o-fim-do-ano-e-define-nomes-que-podem-movimentar-o-mercado]]>",
       "time": "19/09 · 19:16",
       "pubDate": "Sat, 19 Sep 2026 16:16:40 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians neste sábado",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-neste-sabado-9/",
+      "time": "19/09 · 18:02",
+      "pubDate": "Sat, 19 Sep 2026 18:02:27 +0000"
     },
     {
       "source": "Bolavip",
@@ -129,70 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-vive-pior-momento-no-corinthians-apos-penalti-perdido-e-protestos-da-fiel-torcida]]>",
       "time": "17/09 · 12:50",
       "pubDate": "Thu, 17 Sep 2026 09:50:28 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
