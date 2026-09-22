@@ -1,7 +1,71 @@
-// Gerado automaticamente em 21/09/2026, 21:17:01
+// Gerado automaticamente em 22/09/2026, 00:19:49
 const LIVE_DATA = {
-  "updatedAt": "2026-09-21T21:17:01.818Z",
+  "updatedAt": "2026-09-22T00:19:49.842Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante entra no pódio da artilharia do Sub-20 do Corinthians em 2026; veja o ranking completo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540593/volante-entra-no-podio-da-artilharia-do-sub-20-do-corinthians-em-2026-veja-o-ranking-completo",
+      "time": "22/09 · 00:04",
+      "pubDate": "Mon, 21 Sep 2026 21:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado para decisão contra o Bahia pelo Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540554/corinthians-esta-escalado-para-decisao-contra-o-bahia-pelo-brasileirao-feminino",
+      "time": "21/09 · 23:32",
+      "pubDate": "Mon, 21 Sep 2026 20:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Prefeito de Nova York recebe camisa do Corinthians das mãos de Lula",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540579/prefeito-de-nova-york-recebe-camisa-do-corinthians-das-maos-de-lula",
+      "time": "21/09 · 23:02",
+      "pubDate": "Mon, 21 Sep 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Eleições Meu Timão: André Negão oficializa pré-candidatura à presidência do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540602/eleicoes-meu-timao-andre-negao-oficializa-pre-candidatura-a-presidencia-do-corinthians",
+      "time": "21/09 · 23:01",
+      "pubDate": "Mon, 21 Sep 2026 20:01:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Juventude x Corinthians: veja onde assistir e prováveis escalações do jogo pelo Brasileiro sub-17",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-brasileirao-sub17-onde-assistir/",
+      "time": "21/09 · 23:00",
+      "pubDate": "Mon, 21 Sep 2026 23:00:19 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Surfista do Corinthians celebra bicampeonato mundial e aguarda possível novo recorde",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540564/surfista-do-corinthians-celebra-bicampeonato-mundial-e-aguarda-possivel-novo-recorde",
+      "time": "21/09 · 22:29",
+      "pubDate": "Mon, 21 Sep 2026 19:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atleta do Corinthians conquista Copa do Mundo de Futsal Down e é eleito melhor jogador do torneio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540571/atleta-do-corinthians-conquista-copa-do-mundo-de-futsal-down-e-e-eleito-melhor-jogador-do-torneio",
+      "time": "21/09 · 22:00",
+      "pubDate": "Mon, 21 Sep 2026 19:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians iguala segunda pior campanha no Brasileirão na era dos pontos corridos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540513/corinthians-iguala-segunda-pior-campanha-no-brasileirao-na-era-dos-pontos-corridos",
+      "time": "21/09 · 21:36",
+      "pubDate": "Mon, 21 Sep 2026 18:36:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -19,36 +83,36 @@ const LIVE_DATA = {
       "pubDate": "Mon, 21 Sep 2026 18:03:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Quando volta? Ortopedista fala sobre a lesão de Yuri Alberto, atacante do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129769/quando-volta-ortopedista-fala-sobre-a-lesao-de-yuri-alberto-atacante-do-corinthians",
-      "time": "21/09 · 20:44",
-      "pubDate": "Mon, 21 Sep 2026 17:44:12 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Agitou o Mercado: Corinthians confirmou renovação de Memphis Depay até julho de 2028",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/agitou-o-mercado-corinthians-confirmou-renovacao-de-memphis-depay-ate-julho-de-2028]]>",
+      "time": "21/09 · 20:38",
+      "pubDate": "Mon, 21 Sep 2026 17:38:21 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians detalha conversa com organizada e analisa impacto da desorganização do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540551/zagueiro-do-corinthians-detalha-conversa-com-organizada-e-analisa-impacto-da-desorganizacao-do-clube",
-      "time": "21/09 · 20:32",
-      "pubDate": "Mon, 21 Sep 2026 17:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Iago Machado surge como alento em meio à crise do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-iago-machado-surge-como-alento-em-meio-a-crise-do-corinthians]]>",
+      "time": "21/09 · 20:37",
+      "pubDate": "Mon, 21 Sep 2026 17:37:41 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence XV de Jaú fora de casa e abre vantagem na segunda fase do Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540584/corinthians-vence-xv-de-jau-fora-de-casa-e-abre-vantagem-na-segunda-fase-do-paulista-sub-20",
-      "time": "21/09 · 19:55",
-      "pubDate": "Mon, 21 Sep 2026 16:55:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Jogadores do Corinthians têm dificuldade para absorver trabalho de Diniz em meio à crise",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jogadores-do-corinthians-tem-dificuldade-para-absorver-trabalho-de-diniz-em-meio-a-crise]]>",
+      "time": "21/09 · 20:35",
+      "pubDate": "Mon, 21 Sep 2026 17:35:25 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca manter retrospecto perfeito em semifinais do Paulista de Basquete desde reativação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540561/corinthians-busca-manter-retrospecto-perfeito-em-semifinais-do-paulista-de-basquete-desde-reativacao",
-      "time": "21/09 · 19:34",
-      "pubDate": "Mon, 21 Sep 2026 16:34:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto dá novo passo na recuperação e pode iniciar transição física durante a pausa do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-da-novo-passo-na-recuperacao-e-pode-iniciar-transicao-fisica-durante-a-pausa-do-corinthians]]>",
+      "time": "21/09 · 19:57",
+      "pubDate": "Mon, 21 Sep 2026 16:57:35 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -59,28 +123,20 @@ const LIVE_DATA = {
       "pubDate": "Mon, 21 Sep 2026 19:29:06 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diniz desabafa sobre momento no Corinthians mas enxerga evolução tática em jogo contra o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540525/diniz-desabafa-sobre-momento-no-corinthians-mas-enxerga-evolucao-tatica-em-jogo-contra-o-fluminense",
-      "time": "21/09 · 18:31",
-      "pubDate": "Mon, 21 Sep 2026 15:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians questiona gol do Fluminense e arbitragem não vê impedimento de Hulk",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-questiona-gol-do-fluminense-e-arbitragem-nao-ve-impedimento-de-hulk]]>",
+      "time": "21/09 · 17:06",
+      "pubDate": "Mon, 21 Sep 2026 14:06:40 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vira o quinto time com maior risco de rebaixamento à Série B em 2026; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540552/corinthians-vira-o-quinto-time-com-maior-risco-de-rebaixamento-a-serie-b-em-2026-veja-o-ranking",
-      "time": "21/09 · 17:39",
-      "pubDate": "Mon, 21 Sep 2026 14:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Neymar aponta 'pênalti claro' não marcado para o Corinthians em jogo contra o Fluminense",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540573/neymar-aponta-penalti-claro-nao-marcado-para-o-corinthians-em-jogo-contra-o-fluminense",
-      "time": "21/09 · 17:18",
-      "pubDate": "Mon, 21 Sep 2026 14:18:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Diniz é mantido no Corinthians com pedido do elenco, mas pressão aumenta após nova derrota",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-e-mantido-no-corinthians-com-pedido-do-elenco-mas-pressao-aumenta-apos-nova-derrota]]>",
+      "time": "21/09 · 17:02",
+      "pubDate": "Mon, 21 Sep 2026 14:02:18 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -125,14 +181,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Torcida do Corinthians reage mal a Memphis e fica em silêncio no anúncio da escalação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-reage-mal-a-memphis-e-fica-em-silencio-no-anuncio-da-escalacao]]>",
-      "time": "21/09 · 01:36",
-      "pubDate": "Sun, 20 Sep 2026 22:36:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians diminui com Gustavo Henrique, mas não consegue conter Hulk e perde para o Fluminense",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-diminui-com-gustavo-henrique-mas-nao-consegue-conter-hulk-e-perde-para-o-fluminense]]>",
       "time": "21/09 · 01:36",
@@ -141,58 +189,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians questiona gol do Fluminense e arbitragem não vê impedimento de Hulk",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-questiona-gol-do-fluminense-e-arbitragem-nao-ve-impedimento-de-hulk]]>",
-      "time": "21/09 · 01:36",
-      "pubDate": "Sun, 20 Sep 2026 22:36:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Diniz é mantido no Corinthians com pedido do elenco, mas pressão aumenta após nova derrota",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/diniz-e-mantido-no-corinthians-com-pedido-do-elenco-mas-pressao-aumenta-apos-nova-derrota]]>",
-      "time": "21/09 · 01:33",
-      "pubDate": "Sun, 20 Sep 2026 22:33:45 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Fernando Diniz revela tristeza profunda com sequência do Corinthians: &#8220;Não é incômodo, é revolta&#8221;",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/fernando-diniz-revela-tristeza-profunda-com-sequencia-do-corinthians-nao-e-incomodo-e-revolta/",
-      "time": "20/09 · 23:34",
-      "pubDate": "Sun, 20 Sep 2026 23:34:12 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Diniz erra, e erra muito. Mas futebol do Corinthians é desleixado",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-diniz-erra-e-erra-muito-mas-futebol-do-corinthians-e-desleixado]]>",
       "time": "20/09 · 21:29",
       "pubDate": "Sun, 20 Sep 2026 18:29:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz deve promover mudanças no Corinthians para jogo contra o Fluminense",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/joao-pedro-tchoca-tende-a-ganhar-nova-chance-na-zaga-do-corinthians-que-tera-mudancas-contra-o-fluminense]]>",
-      "time": "20/09 · 19:47",
-      "pubDate": "Sun, 20 Sep 2026 16:47:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Torcida saindo com dó dos jogadores mostrou o tamanho da crise no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-torcida-saindo-com-do-dos-jogadores-mostrou-o-tamanho-da-crise-no-corinthians]]>",
-      "time": "19/09 · 21:53",
-      "pubDate": "Sat, 19 Sep 2026 18:53:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians prevê venda até o fim do ano e define nomes que podem movimentar o mercado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-preve-venda-ate-o-fim-do-ano-e-define-nomes-que-podem-movimentar-o-mercado]]>",
-      "time": "19/09 · 19:16",
-      "pubDate": "Sat, 19 Sep 2026 16:16:40 -0300"
     }
   ],
   "upcoming": [],
@@ -222,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540469/saiba-onde-assistir-a-partida-entre-corinthians-e-bahia-pelo-segundo-jogo-da-semifinal-do-brasileiro",
       "pubDate": "Mon, 21 Sep 2026 08:29:00 -0300",
       "date": "21/09 · 11:29"
-    },
-    {
-      "title": "VÍDEO: Permanência do Diniz no Corinthians, análise da derrota em casa e mais: coletiva do Fernando Diniz",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129754/permanencia-do-diniz-no-corinthians-analise-da-derrota-em-casa-e-mais-coletiva-do-fernando-diniz",
-      "pubDate": "Sun, 20 Sep 2026 20:06:17 -0300",
-      "date": "20/09 · 23:06"
     }
   ]
 };
