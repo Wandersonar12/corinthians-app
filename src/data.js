@@ -1,7 +1,71 @@
-// Gerado automaticamente em 22/09/2026, 23:53:41
+// Gerado automaticamente em 23/09/2026, 13:03:43
 const LIVE_DATA = {
-  "updatedAt": "2026-09-22T23:53:41.292Z",
+  "updatedAt": "2026-09-23T13:03:43.467Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians chega à 31ª final desde reativação do futebol feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540623/corinthians-chega-a-31-final-desde-reativacao-do-futebol-feminino",
+      "time": "23/09 · 12:34",
+      "pubDate": "Wed, 23 Sep 2026 09:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Mogi em busca de empatar série na semifinal do Paulista de Basquete; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540664/corinthians-recebe-o-mogi-em-busca-de-empatar-a-serie-na-semifinal-do-paulista-de-basquete",
+      "time": "23/09 · 12:00",
+      "pubDate": "Wed, 23 Sep 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Você aprova a gestão Osmar Stabile no Corinthians? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540685/voce-aprova-a-gestao-osmar-stabile-no-corinthians-vote-na-enquete-do-meu-timao",
+      "time": "23/09 · 11:30",
+      "pubDate": "Wed, 23 Sep 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: detalhes da final, lesão explicada e milhão nos cofres",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540687/ultimas-do-corinthians-detalhes-da-final-lesao-explicada-e-milhao-nos-cofres",
+      "time": "23/09 · 10:30",
+      "pubDate": "Wed, 23 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Multa milionária pesa contra demissão de Diniz no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/multa-milionaria-pesa-contra-demissao-de-diniz-no-corinthians/",
+      "time": "23/09 · 08:00",
+      "pubDate": "Wed, 23 Sep 2026 08:00:04 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém invencibilidade na Neo Química Arena após classificação no Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540611/corinthians-mantem-invencibilidade-na-neo-quimica-arena-apos-classificacao-no-brasileiro",
+      "time": "23/09 · 01:30",
+      "pubDate": "Tue, 22 Sep 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians defende trabalho pós-Copa e projeta evolução interna na Data Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540526/tecnico-do-corinthians-defende-trabalho-pos-copa-e-projeta-evolucao-interna-na-data-fifa",
+      "time": "23/09 · 00:33",
+      "pubDate": "Tue, 22 Sep 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians promove campanha de conscientização para prevenção de cânceres ginecológicos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540686/corinthians-promove-campanha-de-conscientizacao-para-prevencao-de-canceres-ginecologicos",
+      "time": "23/09 · 00:10",
+      "pubDate": "Tue, 22 Sep 2026 21:10:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,36 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 22 Sep 2026 23:18:24 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a atrasar direitos de imagem e mantém pendências com elenco masculino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540654/corinthians-volta-a-atrasar-direitos-de-imagem-e-mantem-pendencias-com-elenco-masculino",
-      "time": "22/09 · 22:32",
-      "pubDate": "Tue, 22 Sep 2026 19:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-meia do Corinthians anuncia aposentadoria do futebol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540678/ex-meia-do-corinthians-anuncia-aposentadoria-do-futebol",
-      "time": "22/09 · 22:16",
-      "pubDate": "Tue, 22 Sep 2026 19:16:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians volta a ser titular após lesão e iguala maior minutagem no segundo semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540589/volante-do-corinthians-volta-a-ser-titular-apos-lesao-e-iguala-maior-minutagem-no-segundo-semestre",
-      "time": "22/09 · 21:32",
-      "pubDate": "Tue, 22 Sep 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians engata maior sequência de vitórias no ano após classificação à final do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540612/corinthians-engata-maior-sequencia-de-vitorias-no-ano-apos-classificacao-a-final-do-brasileirao",
-      "time": "22/09 · 21:04",
-      "pubDate": "Tue, 22 Sep 2026 18:04:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Diniz precisa repensar esquema para fazer Corinthians voltar a funcionar",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-diniz-precisa-repensar-esquema-para-fazer-corinthians-voltar-a-funcionar]]>",
+      "time": "22/09 · 22:39",
+      "pubDate": "Tue, 22 Sep 2026 19:39:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -57,30 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-seis-no-juventude-e-garante-vaga-no-mata-mata-do-brasileiro-sub-17/",
       "time": "22/09 · 20:34",
       "pubDate": "Tue, 22 Sep 2026 20:34:29 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Entenda o problema médico que tirou Yuri Alberto dos jogos do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540585/entenda-o-problema-medico-que-tirou-yuri-alberto-dos-jogos-do-corinthians",
-      "time": "22/09 · 20:30",
-      "pubDate": "Tue, 22 Sep 2026 17:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians goleia o Juventude com hat-trick de atacante e se classifica no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540667/corinthians-goleia-o-juventude-com-hat-trick-de-atacante-e-se-classifica-no-brasileiro-sub-17",
-      "time": "22/09 · 20:07",
-      "pubDate": "Tue, 22 Sep 2026 17:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily cobra respeito à trajetória do Corinthians e revela combustível do elenco após vaga na final",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540631/emily-cobra-respeito-a-trajetoria-do-corinthians-e-revela-combustivel-do-elenco-apos-vaga-na-final",
-      "time": "22/09 · 20:02",
-      "pubDate": "Tue, 22 Sep 2026 17:02:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -155,14 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 22 Sep 2026 08:52:58 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Organizada do Corinthians acompanha respaldo a Diniz e espera reação do time",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/organizada-do-corinthians-acompanha-respaldo-a-diniz-e-espera-reacao-do-time]]>",
-      "time": "22/09 · 11:33",
-      "pubDate": "Tue, 22 Sep 2026 08:33:04 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Com derrota para o Flu, Corinthians atinge pior sequência no Brasileiro desde 2006",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-brasileirao-sub17-onde-assistir/",
       "time": "21/09 · 23:00",
       "pubDate": "Mon, 21 Sep 2026 23:00:19 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Lula presenteia prefeito de NY com camisa do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/lula-presenteia-prefeito-nova-york-camisa-corinthians/",
-      "time": "21/09 · 21:09",
-      "pubDate": "Mon, 21 Sep 2026 21:09:46 +0000"
     }
   ],
   "upcoming": [],
@@ -234,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129791/corinthians-vence-o-bahia-e-vai-a-final-do-br-feminino-como-resolver-os-problemas-data-fifa",
       "pubDate": "Tue, 22 Sep 2026 14:00:00 -0300",
       "date": "22/09 · 17:00"
-    },
-    {
-      "title": "VÍDEO: Entrevista coletiva de Emily Lima | Corinthians 1x0 Bahia | Semi final (volta)",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129789/entrevista-coletiva-de-emily-lima-corinthians-1x0-bahia-semi-final-volta",
-      "pubDate": "Tue, 22 Sep 2026 12:35:14 -0300",
-      "date": "22/09 · 15:35"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: Corinthians 1x0 Bahia | Semi-final (Volta) | Campeonato Brasileiro Feminino 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129787/melhores-momentos-corinthians-1x0-bahia-semi-final-volta-campeonato-brasileiro-feminino-2026",
-      "pubDate": "Tue, 22 Sep 2026 11:55:56 -0300",
-      "date": "22/09 · 14:55"
     }
   ]
 };
