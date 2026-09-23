@@ -1,86 +1,94 @@
-// Gerado automaticamente em 23/09/2026, 13:03:43
+// Gerado automaticamente em 23/09/2026, 20:45:32
 const LIVE_DATA = {
-  "updatedAt": "2026-09-23T13:03:43.467Z",
+  "updatedAt": "2026-09-23T20:45:32.159Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians chega à 31ª final desde reativação do futebol feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540623/corinthians-chega-a-31-final-desde-reativacao-do-futebol-feminino",
-      "time": "23/09 · 12:34",
-      "pubDate": "Wed, 23 Sep 2026 09:34:00 -0300"
+      "title": "Ídolo do Corinthians compara Yuri Alberto com Pelé no sistema ofensivo do time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540704/idolo-do-corinthians-compara-yuri-alberto-com-pele-no-sistema-ofensivo-do-time",
+      "time": "23/09 · 20:32",
+      "pubDate": "Wed, 23 Sep 2026 17:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Mogi em busca de empatar série na semifinal do Paulista de Basquete; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540664/corinthians-recebe-o-mogi-em-busca-de-empatar-a-serie-na-semifinal-do-paulista-de-basquete",
+      "title": "Quarteto lesionado do Corinthians retorna aos treinamentos antes do restante do elenco; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540723/quarteto-lesionado-do-corinthians-retorna-aos-treinamentos-antes-do-restante-do-elenco-entenda",
+      "time": "23/09 · 19:57",
+      "pubDate": "Wed, 23 Sep 2026 16:57:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-zagueiro do Corinthians Sub-20 tem nova negociação frustrada e define futuro no exterior",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540722/ex-zagueiro-do-corinthians-sub-20-tem-nova-negociacao-frustrada-e-define-futuro-no-exterior",
+      "time": "23/09 · 19:39",
+      "pubDate": "Wed, 23 Sep 2026 16:39:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Câmara de São Paulo aprova restrição a propagandas de casa de apostas; Corinthians acompanha cenário",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540721/camara-de-sao-paulo-aprova-restricao-a-propagandas-de-casa-de-apostas-corinthians-acompanha-cenario",
+      "time": "23/09 · 19:35",
+      "pubDate": "Wed, 23 Sep 2026 16:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians decide final do Brasileirão Feminino como visitante pela primeira vez na história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540616/corinthians-decide-final-do-brasileirao-feminino-como-visitante-pela-primeira-vez-na-historia",
+      "time": "23/09 · 19:34",
+      "pubDate": "Wed, 23 Sep 2026 16:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia conversas para renovar contrato de atacante do Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540717/corinthians-inicia-conversas-para-renovar-contrato-de-atacante-do-sub-20",
+      "time": "23/09 · 19:11",
+      "pubDate": "Wed, 23 Sep 2026 16:11:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se prepara para maior período sem entrar em campo desde a Copa do Mundo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540671/corinthians-se-prepara-para-maior-periodo-sem-atuar-desde-a-copa-do-mundo",
+      "time": "23/09 · 18:28",
+      "pubDate": "Wed, 23 Sep 2026 15:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians exalta apoio da Fiel em vitória sobre o Bahia na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540633/tecnica-do-corinthians-exalta-apoio-da-fiel-em-vitoria-sobre-bahia-na-neo-quimica-arena",
+      "time": "23/09 · 17:39",
+      "pubDate": "Wed, 23 Sep 2026 14:39:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard está longe da meta de renovação automática e diretoria não garante permanência no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-esta-longe-da-meta-de-renovacao-automatica-e-diretoria-nao-garante-permanencia-no-corinthians]]>",
       "time": "23/09 · 12:00",
-      "pubDate": "Wed, 23 Sep 2026 09:00:00 -0300"
+      "pubDate": "Wed, 23 Sep 2026 09:00:50 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Você aprova a gestão Osmar Stabile no Corinthians? Vote na enquete do Meu Timão!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540685/voce-aprova-a-gestao-osmar-stabile-no-corinthians-vote-na-enquete-do-meu-timao",
-      "time": "23/09 · 11:30",
-      "pubDate": "Wed, 23 Sep 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: detalhes da final, lesão explicada e milhão nos cofres",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540687/ultimas-do-corinthians-detalhes-da-final-lesao-explicada-e-milhao-nos-cofres",
-      "time": "23/09 · 10:30",
-      "pubDate": "Wed, 23 Sep 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Multa milionária pesa contra demissão de Diniz no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/multa-milionaria-pesa-contra-demissao-de-diniz-no-corinthians/",
-      "time": "23/09 · 08:00",
-      "pubDate": "Wed, 23 Sep 2026 08:00:04 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém invencibilidade na Neo Química Arena após classificação no Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540611/corinthians-mantem-invencibilidade-na-neo-quimica-arena-apos-classificacao-no-brasileiro",
-      "time": "23/09 · 01:30",
-      "pubDate": "Tue, 22 Sep 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians defende trabalho pós-Copa e projeta evolução interna na Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540526/tecnico-do-corinthians-defende-trabalho-pos-copa-e-projeta-evolucao-interna-na-data-fifa",
-      "time": "23/09 · 00:33",
-      "pubDate": "Tue, 22 Sep 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians promove campanha de conscientização para prevenção de cânceres ginecológicos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540686/corinthians-promove-campanha-de-conscientizacao-para-prevencao-de-canceres-ginecologicos",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians acumula dois meses de direitos de imagem e diretoria ainda busca saída",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acumula-dois-meses-de-direitos-de-imagem-e-diretoria-ainda-busca-saida]]>",
       "time": "23/09 · 00:10",
-      "pubDate": "Tue, 22 Sep 2026 21:10:00 -0300"
+      "pubDate": "Tue, 22 Sep 2026 21:10:41 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians analisa condição do gramado e exalta energia de jogar na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540635/atacante-do-corinthians-analisa-condicao-do-gramado-e-exalta-energia-de-jogar-na-neo-quimica-arena",
-      "time": "22/09 · 23:34",
-      "pubDate": "Tue, 22 Sep 2026 20:34:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ex-Corinthians e Santos, meia Giuliano anuncia aposentadoria",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ex-corinthians-e-santos-meia-giuliano-anuncia-aposentadoria/",
-      "time": "22/09 · 23:18",
-      "pubDate": "Tue, 22 Sep 2026 23:18:24 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Entenda por que o Corinthians terá quatro dias de folga durante a Data Fifa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/entenda-por-que-o-corinthians-tera-quatro-dias-de-folga-durante-a-data-fifa]]>",
+      "time": "23/09 · 00:10",
+      "pubDate": "Tue, 22 Sep 2026 21:10:29 -0300"
     },
     {
       "source": "Bolavip",
@@ -91,52 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 22 Sep 2026 19:39:32 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz seis no Juventude e garante vaga no mata-mata do Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-seis-no-juventude-e-garante-vaga-no-mata-mata-do-brasileiro-sub-17/",
-      "time": "22/09 · 20:34",
-      "pubDate": "Tue, 22 Sep 2026 20:34:29 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians acumula dois meses de direitos de imagem e diretoria ainda busca saída",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-acumula-dois-meses-de-direitos-de-imagem-e-diretoria-ainda-busca-saida]]>",
-      "time": "22/09 · 19:16",
-      "pubDate": "Tue, 22 Sep 2026 16:16:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Entenda por que o Corinthians terá quatro dias de folga durante a Data Fifa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/entenda-por-que-o-corinthians-tera-quatro-dias-de-folga-durante-a-data-fifa]]>",
-      "time": "22/09 · 19:14",
-      "pubDate": "Tue, 22 Sep 2026 16:14:44 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Gustavo Henrique é zagueiro artilheiro e vive momento importante no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-gustavo-henrique-e-zagueiro-artilheiro-e-vive-momento-importante-no-corinthians]]>",
       "time": "22/09 · 19:13",
       "pubDate": "Tue, 22 Sep 2026 16:13:07 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians volta a atrasar direitos de imagem e amplia dívidas com elenco",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-volta-a-atrasar-direitos-de-imagem-e-amplia-dividas-com-elenco/",
-      "time": "22/09 · 18:20",
-      "pubDate": "Tue, 22 Sep 2026 18:20:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo x Corinthians: CBF define datas e horários das finais do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-corinthians-datas-horarios-final-brasileiro-feminino/",
-      "time": "22/09 · 17:45",
-      "pubDate": "Tue, 22 Sep 2026 17:45:08 +0000"
     },
     {
       "source": "Bolavip",
@@ -163,36 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Tue, 22 Sep 2026 10:11:12 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians não pode nem sequer sonhar com permanência de Matheus Pereira no elenco em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-nem-sequer-sonhar-com-permanencia-de-matheus-pereira-no-elenco-em-2027]]>",
-      "time": "22/09 · 11:52",
-      "pubDate": "Tue, 22 Sep 2026 08:52:58 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Com derrota para o Flu, Corinthians atinge pior sequência no Brasileiro desde 2006",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-seis-derrotas-seguidas-brasileirao-2006/",
-      "time": "22/09 · 10:00",
-      "pubDate": "Tue, 22 Sep 2026 10:00:17 +0000"
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Com uma a menos, Corinthians vence o Bahia e vai à final do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/siga-o-placar-ao-vivo-de-corinthians-x-bahia-pelo-brasileirao-feminino/",
-      "time": "22/09 · 02:37",
-      "pubDate": "Tue, 22 Sep 2026 02:37:43 +0000"
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Juventude x Corinthians: veja onde assistir e prováveis escalações do jogo pelo Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-brasileirao-sub17-onde-assistir/",
-      "time": "21/09 · 23:00",
-      "pubDate": "Mon, 21 Sep 2026 23:00:19 +0000"
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,40 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Miguel Moscardo completa 100 gols em seu terceiro ano na base do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540698/miguel-moscardo-completa-100-gols-em-seu-terceiro-ano-na-base-do-corinthians",
+      "pubDate": "Wed, 23 Sep 2026 11:25:00 -0300",
+      "date": "23/09 · 14:25"
+    },
+    {
       "title": "Meia-atacante da base volta a marcar um gol após jejum de sete meses",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540591/meia-atacante-da-base-volta-a-marcar-um-gol-apos-jejum-de-sete-meses",
       "pubDate": "Tue, 22 Sep 2026 19:31:00 -0300",
       "date": "22/09 · 22:31"
-    },
-    {
-      "title": "Corinthians goleia o Juventude com hat-trick de atacante e se classifica no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540667/corinthians-goleia-o-juventude-com-hat-trick-de-atacante-e-se-classifica-no-brasileiro-sub-17",
-      "pubDate": "Tue, 22 Sep 2026 17:07:00 -0300",
-      "date": "22/09 · 20:07"
-    },
-    {
-      "title": "VÍDEO: Belén Aquino comenta desempenho no Corinthians e o que esperar da final no próximo sábado",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129795/belen-aquino-comenta-desempenho-no-corinthians-e-o-que-esperar-da-final-no-proximo-sabado",
-      "pubDate": "Tue, 22 Sep 2026 16:37:00 -0300",
-      "date": "22/09 · 19:37"
-    },
-    {
-      "title": "VÍDEO: Duda Sampaio fala em zona mista sobre a classificação do Coritnhians no Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129794/duda-sampaio-fala-em-zona-mista-sobre-a-classificacao-do-coritnhians-no-campeonato-brasileiro",
-      "pubDate": "Tue, 22 Sep 2026 16:34:00 -0300",
-      "date": "22/09 · 19:34"
-    },
-    {
-      "title": "VÍDEO: Betão fala sobre o pedido do elenco pela permanência de Fernando Diniz no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129793/betao-fala-sobre-o-pedido-do-elenco-pela-permanencia-de-fernando-diniz-no-corinthians",
-      "pubDate": "Tue, 22 Sep 2026 15:44:00 -0300",
-      "date": "22/09 · 18:44"
-    },
-    {
-      "title": "VÍDEO: Corinthians vence o Bahia e vai à final do BR Feminino | Como resolver os problemas | Data FIFA",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129791/corinthians-vence-o-bahia-e-vai-a-final-do-br-feminino-como-resolver-os-problemas-data-fifa",
-      "pubDate": "Tue, 22 Sep 2026 14:00:00 -0300",
-      "date": "22/09 · 17:00"
     }
   ]
 };
