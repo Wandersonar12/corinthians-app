@@ -1,14 +1,78 @@
-// Gerado automaticamente em 24/09/2026, 00:02:56
+// Gerado automaticamente em 24/09/2026, 12:56:45
 const LIVE_DATA = {
-  "updatedAt": "2026-09-24T00:02:56.439Z",
+  "updatedAt": "2026-09-24T12:56:45.952Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Duda Sampaio fala sobre atrasos financeiros no Corinthians e revela impacto no elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540643/duda-sampaio-fala-sobre-atrasos-financeiros-no-corinthians-e-revela-impacto-no-elenco",
-      "time": "23/09 · 23:33",
-      "pubDate": "Wed, 23 Sep 2026 20:33:00 -0300"
+      "title": "Corinthians Feminino ultrapassa marca de R$ 900 mil em bilheteria na temporada 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540657/corinthians-feminino-ultrapassa-marca-de-r-900-mil-em-bilheteria-na-temporada-2026",
+      "time": "24/09 · 12:36",
+      "pubDate": "Thu, 24 Sep 2026 09:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Membros das últimas quatro gestões do Corinthians acumulam problemas no clube e na Justiça",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540714/membros-das-ultimas-quatro-gestoes-do-corinthians-acumulam-problemas-no-clube-e-na-justica",
+      "time": "24/09 · 11:30",
+      "pubDate": "Thu, 24 Sep 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ancelotti confirma dupla do Corinthians como titular da Seleção Brasileira contra a Austrália",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540750/ancelotti-confirma-dupla-do-corinthians-como-titular-da-selecao-brasileira-contra-a-australia",
+      "time": "24/09 · 11:20",
+      "pubDate": "Thu, 24 Sep 2026 08:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: retorno de quarteto, marca centenária na base e convocados na Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540739/ultimas-do-corinthians-retorno-de-quarteto-marca-centenaria-na-base-e-convocados-na-selecao",
+      "time": "24/09 · 10:30",
+      "pubDate": "Thu, 24 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Em má fase, Corinthians terá sequência de clássicos e confrontos diretos no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-sequencia-com-classicos-e-duelos-diretos-em-meio-a-fase-ruim-no-brasileiro/",
+      "time": "24/09 · 10:00",
+      "pubDate": "Thu, 24 Sep 2026 10:00:10 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians comenta emoção de primeira final com as Brabas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540628/tecnica-do-corinthians-comenta-emocao-de-primeira-final-com-as-brabas",
+      "time": "24/09 · 01:30",
+      "pubDate": "Wed, 23 Sep 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde para o Mogi e se complica na semifinal do Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540738/corinthians-perde-para-o-mogi-e-se-complica-na-semifinal-do-paulista",
+      "time": "24/09 · 01:02",
+      "pubDate": "Wed, 23 Sep 2026 22:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-zagueiro do Corinthians relembra parceria com Diniz e comenta processo de formação na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540690/ex-zagueiro-do-corinthians-relembra-parceria-com-diniz-e-comenta-processo-de-formacao-na-base",
+      "time": "24/09 · 00:31",
+      "pubDate": "Wed, 23 Sep 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece grupo e detalhes da Copinha Feminina de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540720/corinthians-conhece-grupo-e-detalhes-da-copinha-feminina-de-2026",
+      "time": "24/09 · 00:20",
+      "pubDate": "Wed, 23 Sep 2026 21:20:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -19,28 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 23 Sep 2026 23:02:08 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guilherme Arana lamenta crise vivida pelo Corinthians após jogo do Brasileirão: 'Que possa melhorar'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540703/guilherme-arana-lamenta-crise-vivida-pelo-corinthians-apos-jogo-do-brasileirao-que-possa-melhorar",
-      "time": "23/09 · 23:02",
-      "pubDate": "Wed, 23 Sep 2026 20:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições Meu Timão: Rozallah Santoro anuncia pré-candidatura à presidência do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540731/eleicoes-meu-timao-rozallah-santoro-anuncia-pre-candidatura-a-presidencia-do-corinthians",
-      "time": "23/09 · 22:29",
-      "pubDate": "Wed, 23 Sep 2026 19:29:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra melhor marca defensiva em sequência no segundo semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540615/corinthians-registra-melhor-marca-defensiva-em-sequencia-no-segundo-semestre",
-      "time": "23/09 · 21:32",
-      "pubDate": "Wed, 23 Sep 2026 18:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians deve receber R$ 10 milhões da FFU e terá uma ajuda importante no caixa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-deve-receber-r-10-milhoes-da-ffu-e-tera-uma-ajuda-importante-no-caixa]]>",
+      "time": "23/09 · 22:28",
+      "pubDate": "Wed, 23 Sep 2026 19:28:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -57,38 +105,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-e-mais-tres-dao-sequencia-a-recuperacao-no-ct-do-corinthians/",
       "time": "23/09 · 20:55",
       "pubDate": "Wed, 23 Sep 2026 20:55:16 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians trata lesão junto de seleção nacional nos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540726/volante-do-corinthians-trata-lesao-junto-de-selecao-nacional-nos-estados-unidos",
-      "time": "23/09 · 20:42",
-      "pubDate": "Wed, 23 Sep 2026 17:42:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians compara Yuri Alberto com Pelé no sistema ofensivo do time",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540704/idolo-do-corinthians-compara-yuri-alberto-com-pele-no-sistema-ofensivo-do-time",
-      "time": "23/09 · 20:32",
-      "pubDate": "Wed, 23 Sep 2026 17:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Quarteto lesionado do Corinthians retorna aos treinamentos antes do restante do elenco; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540723/quarteto-lesionado-do-corinthians-retorna-aos-treinamentos-antes-do-restante-do-elenco-entenda",
-      "time": "23/09 · 19:57",
-      "pubDate": "Wed, 23 Sep 2026 16:57:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-zagueiro do Corinthians Sub-20 tem nova negociação frustrada e define futuro no exterior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540722/ex-zagueiro-do-corinthians-sub-20-tem-nova-negociacao-frustrada-e-define-futuro-no-exterior",
-      "time": "23/09 · 19:39",
-      "pubDate": "Wed, 23 Sep 2026 16:39:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -177,22 +193,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-seis-no-juventude-e-garante-vaga-no-mata-mata-do-brasileiro-sub-17/",
       "time": "22/09 · 20:34",
       "pubDate": "Tue, 22 Sep 2026 20:34:29 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Gustavo Henrique é zagueiro artilheiro e vive momento importante no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-gustavo-henrique-e-zagueiro-artilheiro-e-vive-momento-importante-no-corinthians]]>",
-      "time": "22/09 · 19:13",
-      "pubDate": "Tue, 22 Sep 2026 16:13:07 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians volta a atrasar direitos de imagem e amplia dívidas com elenco",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-volta-a-atrasar-direitos-de-imagem-e-amplia-dividas-com-elenco/",
-      "time": "22/09 · 18:20",
-      "pubDate": "Tue, 22 Sep 2026 18:20:53 +0000"
     }
   ],
   "upcoming": [],
