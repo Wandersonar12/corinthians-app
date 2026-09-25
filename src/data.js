@@ -1,7 +1,95 @@
-// Gerado automaticamente em 25/09/2026, 00:06:34
+// Gerado automaticamente em 25/09/2026, 13:03:31
 const LIVE_DATA = {
-  "updatedAt": "2026-09-25T00:06:34.960Z",
+  "updatedAt": "2026-09-25T13:03:31.501Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians faz primeiro 'jogo da vida' diante do Mogi pela semifinal do Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540791/corinthians-faz-primeiro-jogo-da-vida-diante-do-mogi-pela-semifinal-do-paulista-de-basquete",
+      "time": "25/09 · 12:30",
+      "pubDate": "Fri, 25 Sep 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aguarda propostas oficiais por Matheuzinho após valorização na Seleção Brasileira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-propostas-oficiais-por-matheuzinho-apos-valorizacao-na-selecao-brasileira]]>",
+      "time": "25/09 · 12:23",
+      "pubDate": "Fri, 25 Sep 2026 09:23:17 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians é titular em empate da Seleção Brasileira contra a Austrália",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540814/dupla-do-corinthians-e-titular-em-empate-da-selecao-brasileira-contra-a-australia",
+      "time": "25/09 · 12:08",
+      "pubDate": "Fri, 25 Sep 2026 09:08:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o XV de Jaú em busca das oitavas de final do Paulistão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540793/corinthians-recebe-o-xv-de-jau-em-busca-das-oitavas-de-final-do-paulistao-sub-20",
+      "time": "25/09 · 11:30",
+      "pubDate": "Fri, 25 Sep 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: notificação de patrocinador, parcela antecipada e mais pendências",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540801/ultimas-do-corinthians-notificacao-de-patrocinador-parcela-antecipada-e-mais-pendencias",
+      "time": "25/09 · 10:30",
+      "pubDate": "Fri, 25 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Yuri Alberto próximo de retorno ao Corinthians; entenda o processo de recuperação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-proximo-de-retorno-ao-corinthians-entenda-o-processo-de-recuperacao/",
+      "time": "25/09 · 10:00",
+      "pubDate": "Fri, 25 Sep 2026 10:00:44 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians projeta Copinha Feminina e detalha processo de transição ao elenco Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540758/meia-do-corinthians-projeta-copinha-feminina-e-detalha-processo-de-transicao-ao-elenco-sub-20",
+      "time": "25/09 · 01:30",
+      "pubDate": "Thu, 24 Sep 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Corintiano do LivePorTi brinca que vai torcer contra jogadores do Corinthians na Seleção",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-corintiano-do-liveporti-brinca-que-vai-torcer-contra-jogadores-do-corinthians-na-selecao]]>",
+      "time": "25/09 · 01:01",
+      "pubDate": "Thu, 24 Sep 2026 22:01:18 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Arthur Sousa é destaque jogando nos Estados Unidos em 2026 e pode gerar lucro aos cofres do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/arthur-sousa-e-destaque-jogando-nos-estados-unidos-em-2026-e-pode-gerar-lucro-aos-cofres-do-corinthians]]>",
+      "time": "25/09 · 00:32",
+      "pubDate": "Thu, 24 Sep 2026 21:32:59 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Duda Sampaio exalta preparação para encarar o São Paulo e comenta sobre momento no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540642/duda-sampaio-exalta-preparacao-para-encarar-o-sao-paulo-e-comenta-sobre-momento-no-corinthians",
+      "time": "25/09 · 00:29",
+      "pubDate": "Thu, 24 Sep 2026 21:29:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir aos jogadores do Corinthians em amistoso da Seleção contra a Austrália",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540790/saiba-onde-assistir-aos-jogadores-do-corinthians-em-amistoso-da-selecao-contra-a-australia",
+      "time": "25/09 · 00:00",
+      "pubDate": "Thu, 24 Sep 2026 21:00:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,14 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540763/pioneira-do-corinthians-celebra-evolucao-do-futebol-feminino-e-relembra-tempos-no-parque-sao-jorge",
       "time": "24/09 · 23:31",
       "pubDate": "Thu, 24 Sep 2026 20:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians projeta final do Brasileirão Feminino contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540782/dupla-do-corinthians-projeta-final-do-brasileirao-feminino-contra-o-sao-paulo",
-      "time": "24/09 · 23:03",
-      "pubDate": "Thu, 24 Sep 2026 20:03:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -27,22 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 24 Sep 2026 23:00:39 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily Lima comenta sobre críticas ao seu trabalho e exalta mentalidade do elenco do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540632/emily-lima-comenta-sobre-criticas-ao-seu-trabalho-e-exalta-mentalidade-do-elenco-do-corinthians",
-      "time": "24/09 · 22:33",
-      "pubDate": "Thu, 24 Sep 2026 19:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro de Corinthians se torna novo embaixador da 7K Poker",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540779/goleiro-de-corinthians-se-torna-novo-embaixador-da-7k-poker",
-      "time": "24/09 · 22:01",
-      "pubDate": "Thu, 24 Sep 2026 19:01:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "São Paulo divulga venda de ingressos para decisão do Brasileirão Feminino contra o Corinthians",
@@ -51,52 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 24 Sep 2026 21:53:29 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians projeta duelo por vaga nas oitavas do Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540794/atacante-do-corinthians-projeta-duelo-por-vaga-nas-oitavas-do-paulista-sub-20",
-      "time": "24/09 · 21:43",
-      "pubDate": "Thu, 24 Sep 2026 18:43:25 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians aponta falhas contra o Mogi e comenta postura frente à arbitragem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540752/tecnico-do-corinthians-aponta-falhas-contra-o-mogi-e-comenta-postura-frente-a-arbitragem",
-      "time": "24/09 · 21:35",
-      "pubDate": "Thu, 24 Sep 2026 18:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ju Passero comenta expectativa pela disputa da Copinha Feminina com o Corinthians Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540761/ju-passero-comenta-expectativa-pela-disputa-da-copinha-feminina-com-o-corinthians-sub-20",
-      "time": "24/09 · 21:01",
-      "pubDate": "Thu, 24 Sep 2026 18:01:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Kaio César merece titularidade com Diniz no Corinthians mesmo com retorno de Yuri Alberto",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-kaio-cesar-merece-titularidade-com-diniz-no-corinthians-mesmo-com-retorno-de-yuri-alberto]]>",
       "time": "24/09 · 20:40",
       "pubDate": "Thu, 24 Sep 2026 17:40:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Arthur Sousa é destaque jogando nos Estados Unidos em 2026 e pode gerar lucro aos cofres do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/arthur-sousa-e-destaque-jogando-nos-estados-unidos-em-2026-e-pode-gerar-lucro-aos-cofres-do-corinthians]]>",
-      "time": "24/09 · 20:39",
-      "pubDate": "Thu, 24 Sep 2026 17:39:52 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians destaca evolução da equipe após 'choque' na primeira fase do Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540640/meio-campista-do-corinthians-destaca-evolucao-da-equipe-apos-choque-na-primeira-fase-do-brasileiro",
-      "time": "24/09 · 20:35",
-      "pubDate": "Thu, 24 Sep 2026 17:35:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -169,36 +193,24 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-jhonson-mostra-que-o-corinthians-fez-bem-em-voltar-a-apostar-na-camisa-9]]>",
       "time": "23/09 · 19:17",
       "pubDate": "Wed, 23 Sep 2026 16:17:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto mantém atividades na folga e Corinthians tem expectativa por avanço na recuperação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-mantem-atividades-na-folga-e-corinthians-tem-expectativa-por-avanco-na-recuperacao]]>",
-      "time": "23/09 · 19:02",
-      "pubDate": "Wed, 23 Sep 2026 16:02:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Yuri Alberto nunca ficou tanto tempo fora por lesão e situação pressiona DM do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-yuri-alberto-nunca-ficou-tanto-tempo-fora-por-lesao-e-situacao-pressiona-dm-do-corinthians]]>",
-      "time": "23/09 · 17:04",
-      "pubDate": "Wed, 23 Sep 2026 14:04:19 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x São Paulo: veja arbitragem da ida da final do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-x-sao-paulo-arbitragem-final-brasileirao-feminino/",
-      "time": "23/09 · 16:24",
-      "pubDate": "Wed, 23 Sep 2026 16:24:49 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Duda Sampaio exalta preparação para encarar o São Paulo e comenta sobre momento no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540642/duda-sampaio-exalta-preparacao-para-encarar-o-sao-paulo-e-comenta-sobre-momento-no-corinthians",
+      "pubDate": "Thu, 24 Sep 2026 21:29:00 -0300",
+      "date": "25/09 · 00:29"
+    },
+    {
+      "title": "Saiba onde assistir aos jogadores do Corinthians em amistoso da Seleção contra a Austrália",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540790/saiba-onde-assistir-aos-jogadores-do-corinthians-em-amistoso-da-selecao-contra-a-australia",
+      "pubDate": "Thu, 24 Sep 2026 21:00:00 -0300",
+      "date": "25/09 · 00:00"
+    },
     {
       "title": "Goleiro de Corinthians se torna novo embaixador da 7K Poker",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540779/goleiro-de-corinthians-se-torna-novo-embaixador-da-7k-poker",
