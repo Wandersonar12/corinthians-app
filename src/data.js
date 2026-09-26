@@ -1,70 +1,70 @@
-// Gerado automaticamente em 26/09/2026, 20:15:11
+// Gerado automaticamente em 26/09/2026, 23:58:23
 const LIVE_DATA = {
-  "updatedAt": "2026-09-26T20:15:11.798Z",
+  "updatedAt": "2026-09-26T23:58:23.164Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians está escalado para o primeiro jogo da final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540880/corinthians-esta-escalado-para-o-primeiro-jogo-da-final-do-brasileirao-feminino",
-      "time": "26/09 · 18:30",
-      "pubDate": "Sat, 26 Sep 2026 15:30:00 -0300"
+      "title": "Victão destaca crescimento do Corinthians apesar de queda no Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540865/victao-destaca-crescimento-do-corinthians-apesar-de-queda-no-paulista-de-basquete",
+      "time": "26/09 · 23:31",
+      "pubDate": "Sat, 26 Sep 2026 20:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians avalia temporada de superação e analisa hegemonia paulista no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540806/dupla-do-corinthians-avalia-temporada-de-superacao-e-analisa-hegemonia-paulista-no-brasileirao",
-      "time": "26/09 · 17:34",
-      "pubDate": "Sat, 26 Sep 2026 14:34:00 -0300"
+      "title": "Defensora do Corinthians volta a ser titular após mais de 40 dias",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540899/defensora-do-corinthians-volta-a-ser-titular-apos-mais-de-40-dias",
+      "time": "26/09 · 23:02",
+      "pubDate": "Sat, 26 Sep 2026 20:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians define prazo de inscrição de chapas para eleição do triênio 2027/2029; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540894/corinthians-define-prazo-de-inscricao-de-chapas-para-eleicao-do-trienio-20272029-confira",
-      "time": "26/09 · 16:46",
-      "pubDate": "Sat, 26 Sep 2026 13:46:00 -0300"
+      "title": "Centauro inaugura espaço temático do Corinthians em Itaquera com acervo histórico e homenagens",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540878/centauro-inaugura-espaco-tematico-do-corinthians-em-itaquera-com-acervo-historico-e-homenagens",
+      "time": "26/09 · 22:31",
+      "pubDate": "Sat, 26 Sep 2026 19:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians fala sobre partida no profissional e minimiza jejum na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540850/atacante-do-corinthians-fala-sobre-partida-no-profissional-e-minimiza-jejum-na-base",
-      "time": "26/09 · 16:36",
-      "pubDate": "Sat, 26 Sep 2026 13:36:00 -0300"
+      "title": "Corinthians Feminino conhece primeira derrota na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540910/corinthians-feminino-conhece-primeira-derrota-na-neo-quimica-arena",
+      "time": "26/09 · 22:26",
+      "pubDate": "Sat, 26 Sep 2026 19:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians trabalha aspectos comportamentais em segundo dia de treinos na Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540893/corinthians-trabalha-aspectos-comportamentais-em-segundo-dia-de-treinos-na-data-fifa",
-      "time": "26/09 · 16:27",
-      "pubDate": "Sat, 26 Sep 2026 13:27:00 -0300"
+      "title": "Meia do Corinthians cobra mais intensidade para o jogo de volta da final do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540912/meia-do-corinthians-cobra-mais-intensidade-para-o-jogo-de-volta-da-final-do-brasileirao-feminino",
+      "time": "26/09 · 22:20",
+      "pubDate": "Sat, 26 Sep 2026 19:20:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Desportivo Brasil e garante liderança de seu grupo no Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540891/corinthians-vence-o-desportivo-brasil-e-garante-lideranca-de-seu-grupo-no-paulistao-sub-17",
-      "time": "26/09 · 16:06",
-      "pubDate": "Sat, 26 Sep 2026 13:06:00 -0300"
+      "title": "Corinthians estabelece novo recorde de público no futebol feminino brasileiro em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540902/corinthians-estabelece-novo-recorde-de-publico-no-futebol-feminino-brasileiro-em-2026",
+      "time": "26/09 · 21:44",
+      "pubDate": "Sat, 26 Sep 2026 18:44:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante entra no pódio da artilharia após classificação do Corinthians no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540885/atacante-entra-no-podio-da-artilharia-apos-classificacao-do-corinthians-no-paulista-sub-20",
-      "time": "26/09 · 16:02",
-      "pubDate": "Sat, 26 Sep 2026 13:02:00 -0300"
+      "title": "Corinthians tropeça em casa contra o São Paulo e sai em desvantagem na final do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540903/corinthians-tropeca-em-casa-contra-o-sao-paulo-e-sai-em-desvantagem-na-final-do-brasileirao-feminino",
+      "time": "26/09 · 21:34",
+      "pubDate": "Sat, 26 Sep 2026 18:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ju Passero relembra saídas na base do Corinthians e destaca formação dos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540792/ju-passero-relembra-saidas-na-base-do-corinthians-e-destaca-formacao-dos-estados-unidos",
-      "time": "26/09 · 15:33",
-      "pubDate": "Sat, 26 Sep 2026 12:33:00 -0300"
+      "title": "Volante do Corinthians Sub-20 explica evolução ofensiva e valoriza confiança de William Batista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540849/volante-do-corinthians-sub-20-explica-evolucao-ofensiva-e-valoriza-confianca-de-william-batista",
+      "time": "26/09 · 21:33",
+      "pubDate": "Sat, 26 Sep 2026 18:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Gui Amorim celebra bom momento após gols na segunda fase do Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540881/gui-amorim-celebra-bom-momento-apos-gols-na-segunda-fase-do-paulista",
+      "pubDate": "Sat, 26 Sep 2026 17:32:00 -0300",
+      "date": "26/09 · 20:32"
+    },
     {
       "title": "Saiba onde assistir à final do Brasileiro Feminino entre Corinthians e São Paulo",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540841/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
