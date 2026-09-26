@@ -1,7 +1,63 @@
-// Gerado automaticamente em 26/09/2026, 00:12:55
+// Gerado automaticamente em 26/09/2026, 12:31:03
 const LIVE_DATA = {
-  "updatedAt": "2026-09-26T00:12:55.213Z",
+  "updatedAt": "2026-09-26T12:31:03.283Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians recebe o Desportivo Brasil para carimbar liderança do Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540840/corinthians-recebe-o-desportivo-brasil-para-carimbar-lideranca-do-paulista-sub-17",
+      "time": "26/09 · 12:00",
+      "pubDate": "Sat, 26 Sep 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à final do Brasileiro Feminino entre Corinthians e São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540841/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
+      "time": "26/09 · 11:30",
+      "pubDate": "Sat, 26 Sep 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians prevê impacto de quase meio bilhão de reais com restrição de bets; valor pode aumentar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540870/corinthians-preve-impacto-de-quase-meio-bilhao-de-reais-com-restricao-de-bets-valor-pode-aumentar",
+      "time": "26/09 · 11:00",
+      "pubDate": "Sat, 26 Sep 2026 08:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: proibição de casas apostas, renovação com patrocinadora e dupla na Seleção",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540869/ultimas-do-corinthians-proibicao-de-casas-apostas-renovacao-com-patrocinadora-e-dupla-na-selecao",
+      "time": "26/09 · 10:30",
+      "pubDate": "Sat, 26 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o São Paulo pelo jogo de ida da final do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540842/corinthians-enfrenta-o-sao-paulo-pelo-jogo-de-ida-da-final-do-brasileirao-feminino",
+      "time": "26/09 · 03:01",
+      "pubDate": "Sat, 26 Sep 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ju Passero comenta sobre primeira temporada no Corinthians Sub-20 e destaca trabalho na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540762/ju-passero-comenta-sobre-primeira-temporada-no-corinthians-sub-20-e-destaca-trabalho-na-base",
+      "time": "26/09 · 01:30",
+      "pubDate": "Fri, 25 Sep 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-promessa relembra chegada ao profissional e explica dificuldades no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540777/ex-promessa-relembra-chegada-ao-profissional-e-explica-dificuldades-no-corinthians",
+      "time": "26/09 · 00:28",
+      "pubDate": "Fri, 25 Sep 2026 21:28:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,62 +65,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540864/fiel-fazendinha-convoca-torcida-para-recepcao-ao-elenco-do-corinthians-antes-de-majestoso",
       "time": "25/09 · 23:48",
       "pubDate": "Fri, 25 Sep 2026 20:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians compara futebol de base no Brasil com modelo dos Estados Unidos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540757/volante-do-corinthians-compara-futebol-de-base-no-brasil-com-modelo-dos-estados-unidos",
-      "time": "25/09 · 23:30",
-      "pubDate": "Fri, 25 Sep 2026 20:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians desliga no quarto final diante do Mogi e é eliminado do Paulista de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540832/corinthians-desliga-no-quarto-final-diante-do-mogi-e-e-eliminado-do-paulista-de-basquete",
-      "time": "25/09 · 22:52",
-      "pubDate": "Fri, 25 Sep 2026 19:52:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ídolo do Corinthians relembra queda para rival na Libertadores com 'melhor time' que já jogou",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540776/idolo-do-corinthians-relembra-queda-para-rival-na-libertadores-com-melhor-time-que-ja-jogou",
-      "time": "25/09 · 22:31",
-      "pubDate": "Fri, 25 Sep 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Governo Federal anuncia proibição de casas de apostas no Brasil; Corinthians monitora patrocínio",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540853/governo-federal-anuncia-proibicao-de-casas-de-apostas-no-brasil-corinthians-monitora-patrocinio",
-      "time": "25/09 · 22:04",
-      "pubDate": "Fri, 25 Sep 2026 19:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Pioneira do Corinthians explica importância da formação de base e exalta hegemonia do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540764/pioneira-do-corinthians-explica-importancia-da-formacao-de-base-e-exalta-hegemonia-do-corinthians",
-      "time": "25/09 · 22:01",
-      "pubDate": "Fri, 25 Sep 2026 19:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians fala sobre hegemonia do time feminino e dificuldades vividas em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540638/meio-campista-do-corinthians-fala-sobre-hegemonia-do-time-feminino-e-dificuldades-vividas-em-2026",
-      "time": "25/09 · 21:32",
-      "pubDate": "Fri, 25 Sep 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Torcida do Corinthians liga sinal de alerta e prevê briga contra o rebaixamento no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540811/torcida-do-corinthians-liga-sinal-de-alerta-e-preve-briga-contra-o-rebaixamento-no-brasileirao",
-      "time": "25/09 · 21:05",
-      "pubDate": "Fri, 25 Sep 2026 18:05:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,28 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Saiba onde assistir à final do Brasileiro Feminino entre Corinthians e São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540841/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
+      "pubDate": "Sat, 26 Sep 2026 08:30:00 -0300",
+      "date": "26/09 · 11:30"
+    },
+    {
       "title": "Gustavo Henrique é o zagueiro brasileiro com mais participações em gols no mundo em 2026",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540813/gustavo-henrique-se-destaca-entre-todos-os-zagueiros-brasileiros-por-participacoes-em-gols-em-2026",
       "pubDate": "Fri, 25 Sep 2026 15:28:00 -0300",
       "date": "25/09 · 18:28"
-    },
-    {
-      "title": "VÍDEO: Júlia Faria cita expectativas da Copinha Feminina, mudanças no sub-20 e convocação para a Seleção",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129848/julia-faria-cita-expectativas-da-copinha-feminina-mudancas-no-sub-20-e-convocacao-para-a-selecao",
-      "pubDate": "Fri, 25 Sep 2026 11:48:00 -0300",
-      "date": "25/09 · 14:48"
-    },
-    {
-      "title": "VÍDEO: Ju Passero projeta Copinha Feminina, subida ao sub-20 e ambição de levar as meninas ao profissional",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129847/ju-passero-projeta-copinha-feminina-subida-ao-sub-20-e-ambicao-de-levar-as-meninas-ao-profissional",
-      "pubDate": "Fri, 25 Sep 2026 11:44:07 -0300",
-      "date": "25/09 · 14:44"
-    },
-    {
-      "title": "VÍDEO: Iris cita crescimento da Copinha Fem. Fala de final no sábado e projeta Libertadores do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129846/iris-cita-crescimento-da-copinha-fem-fala-de-final-no-sabado-e-projeta-libertadores-do-corinthians",
-      "pubDate": "Fri, 25 Sep 2026 11:39:06 -0300",
-      "date": "25/09 · 14:39"
     }
   ]
 };
