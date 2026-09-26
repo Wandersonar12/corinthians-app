@@ -1,70 +1,78 @@
-// Gerado automaticamente em 25/09/2026, 20:47:55
+// Gerado automaticamente em 26/09/2026, 00:12:55
 const LIVE_DATA = {
-  "updatedAt": "2026-09-25T20:47:55.012Z",
+  "updatedAt": "2026-09-26T00:12:55.213Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jece Leite destaca espaço dos jovens no basquete do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540753/jece-leite-destaca-espaco-dos-jovens-no-basquete-do-corinthians",
-      "time": "25/09 · 20:31",
-      "pubDate": "Fri, 25 Sep 2026 17:31:00 -0300"
+      "title": "Fiel Fazendinha convoca torcida para recepção ao elenco do Corinthians antes de Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540864/fiel-fazendinha-convoca-torcida-para-recepcao-ao-elenco-do-corinthians-antes-de-majestoso",
+      "time": "25/09 · 23:48",
+      "pubDate": "Fri, 25 Sep 2026 20:48:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians inicia preparação para reta final do Brasileiro em meio à Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540846/corinthians-inicia-preparacao-para-reta-final-do-brasileiro-em-meio-a-data-fifa",
-      "time": "25/09 · 20:24",
-      "pubDate": "Fri, 25 Sep 2026 17:24:43 -0300"
+      "title": "Volante do Corinthians compara futebol de base no Brasil com modelo dos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540757/volante-do-corinthians-compara-futebol-de-base-no-brasil-com-modelo-dos-estados-unidos",
+      "time": "25/09 · 23:30",
+      "pubDate": "Fri, 25 Sep 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians destaca trabalho de psicóloga em blindagem até a final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540805/dupla-do-corinthians-destaca-trabalho-de-psicologa-em-blindagem-ate-a-final-do-brasileirao-feminino",
-      "time": "25/09 · 20:08",
-      "pubDate": "Fri, 25 Sep 2026 17:08:00 -0300"
+      "title": "Corinthians desliga no quarto final diante do Mogi e é eliminado do Paulista de Basquete",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540832/corinthians-desliga-no-quarto-final-diante-do-mogi-e-e-eliminado-do-paulista-de-basquete",
+      "time": "25/09 · 22:52",
+      "pubDate": "Fri, 25 Sep 2026 19:52:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians volta a vencer o XV de Jaú e conquista a vaga às oitavas de final do Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540828/corinthians-volta-a-vencer-o-xv-de-jau-e-conquista-a-vaga-as-oitavas-de-final-do-paulista-sub-20",
-      "time": "25/09 · 19:56",
-      "pubDate": "Fri, 25 Sep 2026 16:56:07 -0300"
+      "title": "Ídolo do Corinthians relembra queda para rival na Libertadores com 'melhor time' que já jogou",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540776/idolo-do-corinthians-relembra-queda-para-rival-na-libertadores-com-melhor-time-que-ja-jogou",
+      "time": "25/09 · 22:31",
+      "pubDate": "Fri, 25 Sep 2026 19:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto ganha prazo para retornar de lesão no Corinthians; zagueiro também pode voltar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540843/yuri-alberto-ganha-prazo-para-retornar-de-lesao-no-corinthians-zagueiro-tambem-pode-voltar",
-      "time": "25/09 · 19:54",
-      "pubDate": "Fri, 25 Sep 2026 16:54:00 -0300"
+      "title": "Governo Federal anuncia proibição de casas de apostas no Brasil; Corinthians monitora patrocínio",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540853/governo-federal-anuncia-proibicao-de-casas-de-apostas-no-brasil-corinthians-monitora-patrocinio",
+      "time": "25/09 · 22:04",
+      "pubDate": "Fri, 25 Sep 2026 19:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Atacante do Corinthians destaca fator casa e projeta primeiro jogo da final do Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540839/atacante-do-corinthians-destaca-fator-casa-e-projeta-primeiro-jogo-da-final-do-brasileiro",
-      "time": "25/09 · 19:51",
-      "pubDate": "Fri, 25 Sep 2026 16:51:00 -0300"
+      "title": "Pioneira do Corinthians explica importância da formação de base e exalta hegemonia do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540764/pioneira-do-corinthians-explica-importancia-da-formacao-de-base-e-exalta-hegemonia-do-corinthians",
+      "time": "25/09 · 22:01",
+      "pubDate": "Fri, 25 Sep 2026 19:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians avalia Majestoso em final do Brasileiro Feminino em meio a retrospecto instável",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540641/meia-do-corinthians-avalia-majestoso-em-final-do-brasileiro-feminino-em-meio-a-retrospecto-instavel",
-      "time": "25/09 · 19:34",
-      "pubDate": "Fri, 25 Sep 2026 16:34:00 -0300"
+      "title": "Meio-campista do Corinthians fala sobre hegemonia do time feminino e dificuldades vividas em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540638/meio-campista-do-corinthians-fala-sobre-hegemonia-do-time-feminino-e-dificuldades-vividas-em-2026",
+      "time": "25/09 · 21:32",
+      "pubDate": "Fri, 25 Sep 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Andressa Alves destaca responsabilidade e projeta sétima final com a camisa do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540804/andressa-alves-destaca-responsabilidade-e-projeta-setima-final-com-a-camisa-do-corinthians",
-      "time": "25/09 · 19:05",
-      "pubDate": "Fri, 25 Sep 2026 16:05:00 -0300"
+      "title": "Torcida do Corinthians liga sinal de alerta e prevê briga contra o rebaixamento no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540811/torcida-do-corinthians-liga-sinal-de-alerta-e-preve-briga-contra-o-rebaixamento-no-brasileirao",
+      "time": "25/09 · 21:05",
+      "pubDate": "Fri, 25 Sep 2026 18:05:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Corinthians assina com Luiz Fernando até 2029 e base pode ser solução dos problemas financeiros",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-assina-com-luiz-fernando-ate-2029-e-base-pode-ser-solucao-dos-problemas-financeiros]]>",
+      "time": "25/09 · 17:38",
+      "pubDate": "Fri, 25 Sep 2026 14:38:33 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-descarta-qualquer-contato-por-luis-castro-e-segue-acreditando-no-trabalho-de-fernando-diniz]]>",
       "time": "24/09 · 11:57",
       "pubDate": "Thu, 24 Sep 2026 08:57:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Jhonson mostra que o Corinthians fez bem em voltar a apostar na camisa 9",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-jhonson-mostra-que-o-corinthians-fez-bem-em-voltar-a-apostar-na-camisa-9]]>",
-      "time": "23/09 · 19:17",
-      "pubDate": "Wed, 23 Sep 2026 16:17:31 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -222,18 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129846/iris-cita-crescimento-da-copinha-fem-fala-de-final-no-sabado-e-projeta-libertadores-do-corinthians",
       "pubDate": "Fri, 25 Sep 2026 11:39:06 -0300",
       "date": "25/09 · 14:39"
-    },
-    {
-      "title": "Atacante australiano cita Corinthians e Memphis após marcar golaço contra a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540817/atacante-australiano-cita-corinthians-e-memphis-apos-marcar-golaco-contra-a-selecao-brasileira",
-      "pubDate": "Fri, 25 Sep 2026 11:01:00 -0300",
-      "date": "25/09 · 14:01"
-    },
-    {
-      "title": "Duda Sampaio exalta preparação para encarar o São Paulo e comenta sobre momento no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540642/duda-sampaio-exalta-preparacao-para-encarar-o-sao-paulo-e-comenta-sobre-momento-no-corinthians",
-      "pubDate": "Thu, 24 Sep 2026 21:29:00 -0300",
-      "date": "25/09 · 00:29"
     }
   ]
 };
