@@ -1,70 +1,70 @@
-// Gerado automaticamente em 26/09/2026, 12:31:03
+// Gerado automaticamente em 26/09/2026, 20:15:11
 const LIVE_DATA = {
-  "updatedAt": "2026-09-26T12:31:03.283Z",
+  "updatedAt": "2026-09-26T20:15:11.798Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe o Desportivo Brasil para carimbar liderança do Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540840/corinthians-recebe-o-desportivo-brasil-para-carimbar-lideranca-do-paulista-sub-17",
-      "time": "26/09 · 12:00",
-      "pubDate": "Sat, 26 Sep 2026 09:00:00 -0300"
+      "title": "Corinthians está escalado para o primeiro jogo da final do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540880/corinthians-esta-escalado-para-o-primeiro-jogo-da-final-do-brasileirao-feminino",
+      "time": "26/09 · 18:30",
+      "pubDate": "Sat, 26 Sep 2026 15:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir à final do Brasileiro Feminino entre Corinthians e São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540841/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
-      "time": "26/09 · 11:30",
-      "pubDate": "Sat, 26 Sep 2026 08:30:00 -0300"
+      "title": "Dupla do Corinthians avalia temporada de superação e analisa hegemonia paulista no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540806/dupla-do-corinthians-avalia-temporada-de-superacao-e-analisa-hegemonia-paulista-no-brasileirao",
+      "time": "26/09 · 17:34",
+      "pubDate": "Sat, 26 Sep 2026 14:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians prevê impacto de quase meio bilhão de reais com restrição de bets; valor pode aumentar",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540870/corinthians-preve-impacto-de-quase-meio-bilhao-de-reais-com-restricao-de-bets-valor-pode-aumentar",
-      "time": "26/09 · 11:00",
-      "pubDate": "Sat, 26 Sep 2026 08:00:00 -0300"
+      "title": "Corinthians define prazo de inscrição de chapas para eleição do triênio 2027/2029; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540894/corinthians-define-prazo-de-inscricao-de-chapas-para-eleicao-do-trienio-20272029-confira",
+      "time": "26/09 · 16:46",
+      "pubDate": "Sat, 26 Sep 2026 13:46:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: proibição de casas apostas, renovação com patrocinadora e dupla na Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540869/ultimas-do-corinthians-proibicao-de-casas-apostas-renovacao-com-patrocinadora-e-dupla-na-selecao",
-      "time": "26/09 · 10:30",
-      "pubDate": "Sat, 26 Sep 2026 07:30:00 -0300"
+      "title": "Atacante do Corinthians fala sobre partida no profissional e minimiza jejum na base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540850/atacante-do-corinthians-fala-sobre-partida-no-profissional-e-minimiza-jejum-na-base",
+      "time": "26/09 · 16:36",
+      "pubDate": "Sat, 26 Sep 2026 13:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o São Paulo pelo jogo de ida da final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540842/corinthians-enfrenta-o-sao-paulo-pelo-jogo-de-ida-da-final-do-brasileirao-feminino",
-      "time": "26/09 · 03:01",
-      "pubDate": "Sat, 26 Sep 2026 00:01:00 -0300"
+      "title": "Corinthians trabalha aspectos comportamentais em segundo dia de treinos na Data Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540893/corinthians-trabalha-aspectos-comportamentais-em-segundo-dia-de-treinos-na-data-fifa",
+      "time": "26/09 · 16:27",
+      "pubDate": "Sat, 26 Sep 2026 13:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ju Passero comenta sobre primeira temporada no Corinthians Sub-20 e destaca trabalho na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540762/ju-passero-comenta-sobre-primeira-temporada-no-corinthians-sub-20-e-destaca-trabalho-na-base",
-      "time": "26/09 · 01:30",
-      "pubDate": "Fri, 25 Sep 2026 22:30:00 -0300"
+      "title": "Corinthians vence o Desportivo Brasil e garante liderança de seu grupo no Paulistão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540891/corinthians-vence-o-desportivo-brasil-e-garante-lideranca-de-seu-grupo-no-paulistao-sub-17",
+      "time": "26/09 · 16:06",
+      "pubDate": "Sat, 26 Sep 2026 13:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-promessa relembra chegada ao profissional e explica dificuldades no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540777/ex-promessa-relembra-chegada-ao-profissional-e-explica-dificuldades-no-corinthians",
-      "time": "26/09 · 00:28",
-      "pubDate": "Fri, 25 Sep 2026 21:28:00 -0300"
+      "title": "Atacante entra no pódio da artilharia após classificação do Corinthians no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540885/atacante-entra-no-podio-da-artilharia-apos-classificacao-do-corinthians-no-paulista-sub-20",
+      "time": "26/09 · 16:02",
+      "pubDate": "Sat, 26 Sep 2026 13:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fiel Fazendinha convoca torcida para recepção ao elenco do Corinthians antes de Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540864/fiel-fazendinha-convoca-torcida-para-recepcao-ao-elenco-do-corinthians-antes-de-majestoso",
-      "time": "25/09 · 23:48",
-      "pubDate": "Fri, 25 Sep 2026 20:48:00 -0300"
+      "title": "Ju Passero relembra saídas na base do Corinthians e destaca formação dos Estados Unidos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540792/ju-passero-relembra-saidas-na-base-do-corinthians-e-destaca-formacao-dos-estados-unidos",
+      "time": "26/09 · 15:33",
+      "pubDate": "Sat, 26 Sep 2026 12:33:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540841/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
       "pubDate": "Sat, 26 Sep 2026 08:30:00 -0300",
       "date": "26/09 · 11:30"
-    },
-    {
-      "title": "Gustavo Henrique é o zagueiro brasileiro com mais participações em gols no mundo em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540813/gustavo-henrique-se-destaca-entre-todos-os-zagueiros-brasileiros-por-participacoes-em-gols-em-2026",
-      "pubDate": "Fri, 25 Sep 2026 15:28:00 -0300",
-      "date": "25/09 · 18:28"
     }
   ]
 };
