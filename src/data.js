@@ -1,70 +1,134 @@
-// Gerado automaticamente em 26/09/2026, 23:58:23
+// Gerado automaticamente em 27/09/2026, 13:21:48
 const LIVE_DATA = {
-  "updatedAt": "2026-09-26T23:58:23.164Z",
+  "updatedAt": "2026-09-27T13:21:48.648Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Victão destaca crescimento do Corinthians apesar de queda no Paulista de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540865/victao-destaca-crescimento-do-corinthians-apesar-de-queda-no-paulista-de-basquete",
-      "time": "26/09 · 23:31",
-      "pubDate": "Sat, 26 Sep 2026 20:31:00 -0300"
+      "title": "Meio-campista do Corinthians volta a ser utilizada após mais de um mês sem ser relacionada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540909/meio-campista-do-corinthians-volta-a-ser-utilizada-apos-mais-de-um-mes-sem-ser-relacionada",
+      "time": "27/09 · 12:31",
+      "pubDate": "Sun, 27 Sep 2026 09:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Defensora do Corinthians volta a ser titular após mais de 40 dias",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540899/defensora-do-corinthians-volta-a-ser-titular-apos-mais-de-40-dias",
-      "time": "26/09 · 23:02",
-      "pubDate": "Sat, 26 Sep 2026 20:02:00 -0300"
+      "title": "Eleições Meu Timão: André Castro anuncia pré-candidatura à presidência do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540922/eleicoes-meu-timao-andre-castro-anuncia-pre-candidatura-a-presidencia-do-corinthians",
+      "time": "27/09 · 12:18",
+      "pubDate": "Sun, 27 Sep 2026 09:18:16 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Centauro inaugura espaço temático do Corinthians em Itaquera com acervo histórico e homenagens",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540878/centauro-inaugura-espaco-tematico-do-corinthians-em-itaquera-com-acervo-historico-e-homenagens",
-      "time": "26/09 · 22:31",
-      "pubDate": "Sat, 26 Sep 2026 19:31:00 -0300"
+      "title": "Freguês histórico e final dupla: Corinthians conhece o último adversário da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540921/fregues-historico-e-final-dupla-corinthians-conhece-o-ultimo-adversario-da-libertadores-feminina",
+      "time": "27/09 · 11:28",
+      "pubDate": "Sun, 27 Sep 2026 08:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians Feminino conhece primeira derrota na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540910/corinthians-feminino-conhece-primeira-derrota-na-neo-quimica-arena",
-      "time": "26/09 · 22:26",
-      "pubDate": "Sat, 26 Sep 2026 19:26:00 -0300"
+      "title": "Últimas do Corinthians: prejuízo milionário, derrota das Brabas e rotina de treinos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540920/ultimas-do-corinthians-prejuizo-milionario-derrota-das-brabas-e-rotina-de-treinos",
+      "time": "27/09 · 10:30",
+      "pubDate": "Sun, 27 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Ídolo revela sonho de voltar ao Corinthians como técnico e exalta evolução de Bidon",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/idolo-revela-sonho-de-voltar-ao-corinthians-como-tecnico-e-exalta-evolucao-de-bidon/",
+      "time": "27/09 · 10:00",
+      "pubDate": "Sun, 27 Sep 2026 10:00:16 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians cobra mais intensidade para o jogo de volta da final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540912/meia-do-corinthians-cobra-mais-intensidade-para-o-jogo-de-volta-da-final-do-brasileirao-feminino",
-      "time": "26/09 · 22:20",
-      "pubDate": "Sat, 26 Sep 2026 19:20:00 -0300"
+      "title": "Técnico do Corinthians avalia queda no Paulista e analisa impacto dos atrasos salariais no elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540867/tecnico-do-corinthians-avalia-queda-no-paulista-e-analisa-impacto-dos-atrasos-salariais-no-elenco",
+      "time": "27/09 · 01:30",
+      "pubDate": "Sat, 26 Sep 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians estabelece novo recorde de público no futebol feminino brasileiro em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540902/corinthians-estabelece-novo-recorde-de-publico-no-futebol-feminino-brasileiro-em-2026",
-      "time": "26/09 · 21:44",
-      "pubDate": "Sat, 26 Sep 2026 18:44:00 -0300"
+      "title": "Trio do Corinthians lidera ranking de minutos em campo entre convocados da Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540911/trio-do-corinthians-lidera-ranking-de-minutos-em-campo-entre-convocados-da-selecao-brasileira",
+      "time": "27/09 · 01:04",
+      "pubDate": "Sat, 26 Sep 2026 22:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tropeça em casa contra o São Paulo e sai em desvantagem na final do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540903/corinthians-tropeca-em-casa-contra-o-sao-paulo-e-sai-em-desvantagem-na-final-do-brasileirao-feminino",
-      "time": "26/09 · 21:34",
-      "pubDate": "Sat, 26 Sep 2026 18:34:00 -0300"
+      "title": "Emily Lima aponta falta de atitude do Corinthians e projeta o jogo de volta da final do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540918/emily-lima-aponta-falta-de-atitude-do-corinthians-e-projeta-o-jogo-de-volta-da-final-do-brasileirao",
+      "time": "27/09 · 00:43",
+      "pubDate": "Sat, 26 Sep 2026 21:43:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians Sub-20 explica evolução ofensiva e valoriza confiança de William Batista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540849/volante-do-corinthians-sub-20-explica-evolucao-ofensiva-e-valoriza-confianca-de-william-batista",
-      "time": "26/09 · 21:33",
-      "pubDate": "Sat, 26 Sep 2026 18:33:00 -0300"
+      "title": "Emily Lima comenta sobre desfalques do Corinthians e explica escolhas na equipe titular",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540915/emily-lima-comenta-sobre-desfalques-do-corinthians-e-explica-escolhas-na-equipe-titular",
+      "time": "27/09 · 00:37",
+      "pubDate": "Sat, 26 Sep 2026 21:37:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x São Paulo: veja fotos do jogo de ida final do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-x-sao-paulo-veja-fotos-do-jogo-de-ida-final-do-brasileirao-feminino/",
+      "time": "26/09 · 22:21",
+      "pubDate": "Sat, 26 Sep 2026 22:21:59 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians segue trabalhando para a reta final da temporada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-segue-trabalhando-para-a-reta-final-da-temporada/",
+      "time": "26/09 · 21:19",
+      "pubDate": "Sat, 26 Sep 2026 21:19:55 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "São Paulo vence o Corinthians de virada e abre vantagem na final do Brasileirão feminino",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-x-sao-paulo-ida-final-brasileirao-feminino-26-09-2026/",
+      "time": "26/09 · 19:25",
+      "pubDate": "Sat, 26 Sep 2026 19:25:59 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians e São Paulo definem escalações para ida da final do Brasileirão feminino; confira",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/escalacoes-corinthians-sao-paulo-brasileirao-feminino-final-ida/",
+      "time": "26/09 · 18:50",
+      "pubDate": "Sat, 26 Sep 2026 18:50:22 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians bate Desportivo Brasil e garante vantagem na terceira fase do Paulista Sub-17",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-desportivo-brasil-paulista-sub-17/",
+      "time": "26/09 · 18:35",
+      "pubDate": "Sat, 26 Sep 2026 18:35:35 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino tático do Corinthians deste sábado",
+      "url": "https://www.gazetaesportiva.com/futebol/veja-fotos-do-treino-tatico-do-corinthians-deste-sabado/",
+      "time": "26/09 · 17:37",
+      "pubDate": "Sat, 26 Sep 2026 17:37:31 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz comanda treino tático, e Corinthians trabalha aspectos comportamentais durante a data Fifa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treino-tatico-data-fifa-fernando-diniz/",
+      "time": "26/09 · 17:29",
+      "pubDate": "Sat, 26 Sep 2026 17:29:25 +0000"
     },
     {
       "source": "Bolavip",
@@ -129,70 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-descarta-qualquer-contato-por-luis-castro-e-segue-acreditando-no-trabalho-de-fernando-diniz]]>",
       "time": "24/09 · 11:57",
       "pubDate": "Thu, 24 Sep 2026 08:57:30 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
