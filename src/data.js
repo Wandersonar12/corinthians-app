@@ -1,70 +1,86 @@
-// Gerado automaticamente em 28/09/2026, 00:03:20
+// Gerado automaticamente em 28/09/2026, 16:07:52
 const LIVE_DATA = {
-  "updatedAt": "2026-09-28T00:03:20.296Z",
+  "updatedAt": "2026-09-28T16:07:52.283Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra maior sequência de vitórias da temporada após tropeço no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540943/corinthians-encerra-maior-sequencia-de-vitorias-da-temporada-apos-tropeco-no-majestoso",
-      "time": "27/09 · 23:37",
-      "pubDate": "Sun, 27 Sep 2026 20:37:00 -0300"
+      "title": "Justiça anula reunião que afastou Romeu Tuma Júnior do Conselho Deliberativo do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540979/justica-anula-reuniao-que-afastou-romeu-tuma-junior-do-conselho-deliberativo-do-corinthians",
+      "time": "28/09 · 15:52",
+      "pubDate": "Mon, 28 Sep 2026 12:52:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians registra primeira eliminação em semifinais do Paulista de Basquete desde a reativação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540882/corinthians-registra-primeira-eliminacao-em-semifinais-do-paulista-de-basquete-desde-a-reativacao",
-      "time": "27/09 · 22:35",
-      "pubDate": "Sun, 27 Sep 2026 19:35:00 -0300"
+      "title": "Bidon agradece ao Corinthians e revela inspiração em Bruno Guimarães na Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540968/bidon-agradece-ao-corinthians-e-revela-inspiracao-em-bruno-guimaraes-na-selecao-brasileira",
+      "time": "28/09 · 15:33",
+      "pubDate": "Mon, 28 Sep 2026 12:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Matheuzinho atribui convocação ao Corinthians e cita virada de chave com comissão de Ramón Díaz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540953/matheuzinho-atribui-convocacao-ao-corinthians-e-cita-virada-de-chave-com-comissao-de-ramon-diaz",
-      "time": "27/09 · 22:17",
-      "pubDate": "Sun, 27 Sep 2026 19:17:00 -0300"
+      "title": "Técnica do Corinthians fala sobre decisões da arbitragem e cobra controle emocional das atletas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540916/tecnica-do-corinthians-fala-sobre-decisoes-da-arbitragem-e-cobra-controle-emocional-das-atletas",
+      "time": "28/09 · 14:31",
+      "pubDate": "Mon, 28 Sep 2026 11:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gabi Zanotti encerra jejum de gols após dez jogos sem marcar pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540950/gabi-zanotti-encerra-jejum-de-gols-apos-dez-jogos-sem-marcar-pelo-corinthians",
-      "time": "27/09 · 22:03",
-      "pubDate": "Sun, 27 Sep 2026 19:03:00 -0300"
+      "title": "Corinthians tem semana com final do Brasileirão Feminino e decisões pelo futsal e categorias de base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540971/corinthians-tem-semana-com-final-do-brasileirao-feminino-e-decisoes-pelo-futsal-e-categorias-de-base",
+      "time": "28/09 · 13:31",
+      "pubDate": "Mon, 28 Sep 2026 10:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians fala sobre tempo menor de descanso para a final do Brasileirão: 'Não é justo'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540932/lateral-do-corinthians-fala-sobre-tempo-menor-de-descanso-para-a-final-do-brasileirao-nao-e-justo",
-      "time": "27/09 · 21:31",
-      "pubDate": "Sun, 27 Sep 2026 18:31:00 -0300"
+      "title": "Bidon destaca trabalho com Ancelotti e conta bastidores de convocação em concentração no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540960/bidon-destaca-trabalho-com-ancelotti-e-conta-bastidores-de-convocacao-em-concentracao-no-corinthians",
+      "time": "28/09 · 12:32",
+      "pubDate": "Mon, 28 Sep 2026 09:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Danilo relembra trabalho com Bidon na base e admite sonho de voltar a treinar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540939/danilo-relembra-trabalho-com-bidon-na-base-e-admite-sonho-de-voltar-a-treinar-o-corinthians",
-      "time": "27/09 · 20:32",
-      "pubDate": "Sun, 27 Sep 2026 17:32:00 -0300"
+      "title": "Corinthians recebe o Pato Futsal pelo jogo de ida das oitavas de final da LNF; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540957/corinthians-recebe-pato-futsal-pelo-jogo-de-ida-das-oitavas-de-final-da-lnf-saiba-tudo",
+      "time": "28/09 · 11:31",
+      "pubDate": "Mon, 28 Sep 2026 08:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: proposta para máster, novo pré-candidato e rodadas desmembradas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540959/ultimas-do-corinthians-proposta-para-master-novo-pre-candidato-e-rodadas-desmembradas",
+      "time": "28/09 · 10:30",
+      "pubDate": "Mon, 28 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Tamires mantém confiança em reação do Corinthians em jogo de volta da final do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540933/lateral-do-corinthians-confia-em-reacao-do-time-em-jogo-de-volta-da-final-do-brasileirao",
+      "time": "28/09 · 01:30",
+      "pubDate": "Sun, 27 Sep 2026 22:30:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Ramón Díaz agrada nos bastidores do Corinthians em meio à pressão sobre Diniz",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/ramon-diaz-agrada-nos-bastidores-do-corinthians-em-meio-a-pressao-sobre-diniz]]>",
-      "time": "27/09 · 19:41",
-      "pubDate": "Sun, 27 Sep 2026 16:41:33 -0300"
+      "time": "27/09 · 23:07",
+      "pubDate": "Sun, 27 Sep 2026 20:07:33 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Tamires sai em defesa de jovem zagueira após falha em derrota do Corinthians para o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540928/tamires-sai-em-defesa-de-jovem-zagueira-apos-falha-em-derrota-do-corinthians-para-o-sao-paulo",
-      "time": "27/09 · 19:33",
-      "pubDate": "Sun, 27 Sep 2026 16:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians tem razão ao reclamar do tempo menor de descanso na final",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-razao-ao-reclamar-do-tempo-menor-de-descanso-na-final]]>",
+      "time": "27/09 · 22:09",
+      "pubDate": "Sun, 27 Sep 2026 19:09:21 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-revela-bastidores-de-iago-machado-no-corinthians-e-relacao-com-diniz]]>",
       "time": "27/09 · 19:15",
       "pubDate": "Sun, 27 Sep 2026 16:15:39 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Melhores Momentos: Corinthians 1x2 São Paulo | 1º jogo da final | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129885/melhores-momentos-corinthians-1x2-sao-paulo-1-jogo-da-final-campeonato-brasileiro-2026",
-      "time": "27/09 · 19:05",
-      "pubDate": "Sun, 27 Sep 2026 16:05:24 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/arthur-sousa-e-destaque-jogando-nos-estados-unidos-em-2026-e-pode-gerar-lucro-aos-cofres-do-corinthians]]>",
       "time": "25/09 · 00:32",
       "pubDate": "Thu, 24 Sep 2026 21:32:59 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Kaio César merece titularidade com Diniz no Corinthians mesmo com retorno de Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-kaio-cesar-merece-titularidade-com-diniz-no-corinthians-mesmo-com-retorno-de-yuri-alberto]]>",
-      "time": "24/09 · 20:40",
-      "pubDate": "Thu, 24 Sep 2026 17:40:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -214,13 +214,13 @@ const LIVE_DATA = {
     {
       "title": "VÍDEO: Emily Lima comenta derrota do Corinthians na final do Brasileirão Feminino 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129882/emily-lima-comenta-derrota-do-corinthians-na-final-do-brasileirao-feminino-2026",
-      "pubDate": "Sun, 27 Sep 2026 12:16:20 -0300",
+      "pubDate": "Sun, 27 Sep 2026 12:16:00 -0300",
       "date": "27/09 · 15:16"
     },
     {
       "title": "VÍDEO: Nada definido! Tamires fala sobre derrota do Corinthians para o São Paulo na final do Brasileirão",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129881/nada-definido-tamires-fala-sobre-derrota-do-corinthians-para-o-sao-paulo-na-final-do-brasileirao",
-      "pubDate": "Sun, 27 Sep 2026 11:57:42 -0300",
+      "pubDate": "Sun, 27 Sep 2026 11:57:00 -0300",
       "date": "27/09 · 14:57"
     },
     {
