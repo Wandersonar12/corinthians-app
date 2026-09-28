@@ -1,7 +1,63 @@
-// Gerado automaticamente em 27/09/2026, 20:30:26
+// Gerado automaticamente em 28/09/2026, 00:03:20
 const LIVE_DATA = {
-  "updatedAt": "2026-09-27T20:30:26.060Z",
+  "updatedAt": "2026-09-28T00:03:20.296Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra maior sequência de vitórias da temporada após tropeço no Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540943/corinthians-encerra-maior-sequencia-de-vitorias-da-temporada-apos-tropeco-no-majestoso",
+      "time": "27/09 · 23:37",
+      "pubDate": "Sun, 27 Sep 2026 20:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra primeira eliminação em semifinais do Paulista de Basquete desde a reativação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540882/corinthians-registra-primeira-eliminacao-em-semifinais-do-paulista-de-basquete-desde-a-reativacao",
+      "time": "27/09 · 22:35",
+      "pubDate": "Sun, 27 Sep 2026 19:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Matheuzinho atribui convocação ao Corinthians e cita virada de chave com comissão de Ramón Díaz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540953/matheuzinho-atribui-convocacao-ao-corinthians-e-cita-virada-de-chave-com-comissao-de-ramon-diaz",
+      "time": "27/09 · 22:17",
+      "pubDate": "Sun, 27 Sep 2026 19:17:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti encerra jejum de gols após dez jogos sem marcar pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540950/gabi-zanotti-encerra-jejum-de-gols-apos-dez-jogos-sem-marcar-pelo-corinthians",
+      "time": "27/09 · 22:03",
+      "pubDate": "Sun, 27 Sep 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral do Corinthians fala sobre tempo menor de descanso para a final do Brasileirão: 'Não é justo'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540932/lateral-do-corinthians-fala-sobre-tempo-menor-de-descanso-para-a-final-do-brasileirao-nao-e-justo",
+      "time": "27/09 · 21:31",
+      "pubDate": "Sun, 27 Sep 2026 18:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Danilo relembra trabalho com Bidon na base e admite sonho de voltar a treinar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540939/danilo-relembra-trabalho-com-bidon-na-base-e-admite-sonho-de-voltar-a-treinar-o-corinthians",
+      "time": "27/09 · 20:32",
+      "pubDate": "Sun, 27 Sep 2026 17:32:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ramón Díaz agrada nos bastidores do Corinthians em meio à pressão sobre Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ramon-diaz-agrada-nos-bastidores-do-corinthians-em-meio-a-pressao-sobre-diniz]]>",
+      "time": "27/09 · 19:41",
+      "pubDate": "Sun, 27 Sep 2026 16:41:33 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -9,6 +65,14 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/540928/tamires-sai-em-defesa-de-jovem-zagueira-apos-falha-em-derrota-do-corinthians-para-o-sao-paulo",
       "time": "27/09 · 19:33",
       "pubDate": "Sun, 27 Sep 2026 16:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "William Batista revela bastidores de Iago Machado no Corinthians e relação com Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-revela-bastidores-de-iago-machado-no-corinthians-e-relacao-com-diniz]]>",
+      "time": "27/09 · 19:15",
+      "pubDate": "Sun, 27 Sep 2026 16:15:39 -0300"
     },
     {
       "source": "Meu Timao",
@@ -19,52 +83,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 27 Sep 2026 16:05:24 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians perde três jogos consecutivos no basquete pela primeira vez em mais de um ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540883/corinthians-perde-tres-jogos-consecutivos-no-basquete-pela-primeira-vez-em-mais-de-um-ano",
-      "time": "27/09 · 18:36",
-      "pubDate": "Sun, 27 Sep 2026 15:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians exalta amadurecimento de Gui Amorim e amplia recursos do meia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540862/tecnico-do-corinthians-exalta-amadurecimento-de-gui-amorim-e-amplia-recursos-do-meia",
-      "time": "27/09 · 17:28",
-      "pubDate": "Sun, 27 Sep 2026 14:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fernando Diniz prioriza treinos em campo reduzido para sequência da temporada do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540942/fernando-diniz-prioriza-treinos-em-campo-reduzido-para-sequencia-da-temporada-do-corinthians",
-      "time": "27/09 · 16:40",
-      "pubDate": "Sun, 27 Sep 2026 13:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians cita desgaste físico para queda no Paulista e mira Sul-Americana de basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540868/tecnico-do-corinthians-cita-desgaste-fisico-para-queda-no-paulista-e-mira-sul-americana-de-basquete",
-      "time": "27/09 · 16:35",
-      "pubDate": "Sun, 27 Sep 2026 13:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fatal Model faz proposta para ser o novo patrocinador máster do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540930/fatal-model-faz-proposta-para-ser-o-novo-patrocinador-master-do-corinthians",
-      "time": "27/09 · 15:51",
-      "pubDate": "Sun, 27 Sep 2026 12:51:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Cobrança e foco marcam bastidores da classificação do Corinthians para as oitavas do Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540923/cobranca-e-foco-marcam-bastidores-da-classificacao-do-corinthians-para-as-oitavas-do-paulista-sub-20",
-      "time": "27/09 · 15:33",
-      "pubDate": "Sun, 27 Sep 2026 12:33:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians prepara plano B após fim das bets e mira acordo pontual para camisa; Fatal Fans faz oferta",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prepara-plano-b-apos-fim-das-bets-e-mira-acordo-pontual-para-camisa-fatal-fans-faz-oferta]]>",
+      "time": "27/09 · 18:59",
+      "pubDate": "Sun, 27 Sep 2026 15:59:34 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,30 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-kaio-cesar-merece-titularidade-com-diniz-no-corinthians-mesmo-com-retorno-de-yuri-alberto]]>",
       "time": "24/09 · 20:40",
       "pubDate": "Thu, 24 Sep 2026 17:40:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Garro, Yuri Alberto e Depay juntos tem aproveitamento abaixo do esperado em 2026 pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-garro-yuri-alberto-e-depay-juntos-tem-aproveitamento-abaixo-do-esperado-em-2026-pelo-corinthians]]>",
-      "time": "24/09 · 16:57",
-      "pubDate": "Thu, 24 Sep 2026 13:57:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians deve receber R$ 10 milhões da FFU e terá uma ajuda importante no caixa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-deve-receber-r-10-milhoes-da-ffu-e-tera-uma-ajuda-importante-no-caixa]]>",
-      "time": "24/09 · 15:42",
-      "pubDate": "Thu, 24 Sep 2026 12:42:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians descarta qualquer contato por Luís Castro e segue acreditando no trabalho de Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-descarta-qualquer-contato-por-luis-castro-e-segue-acreditando-no-trabalho-de-fernando-diniz]]>",
-      "time": "24/09 · 11:57",
-      "pubDate": "Thu, 24 Sep 2026 08:57:30 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Gabi Zanotti encerra jejum de gols após dez jogos sem marcar pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540950/gabi-zanotti-encerra-jejum-de-gols-apos-dez-jogos-sem-marcar-pelo-corinthians",
+      "pubDate": "Sun, 27 Sep 2026 19:03:00 -0300",
+      "date": "27/09 · 22:03"
+    },
     {
       "title": "VÍDEO: Melhores Momentos: Corinthians 1x2 São Paulo | 1º jogo da final | Campeonato Brasileiro 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129885/melhores-momentos-corinthians-1x2-sao-paulo-1-jogo-da-final-campeonato-brasileiro-2026",
