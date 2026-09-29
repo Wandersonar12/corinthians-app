@@ -1,54 +1,94 @@
-// Gerado automaticamente em 29/09/2026, 14:24:07
+// Gerado automaticamente em 29/09/2026, 21:33:49
 const LIVE_DATA = {
-  "updatedAt": "2026-09-29T14:24:07.460Z",
+  "updatedAt": "2026-09-29T21:33:49.632Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Zé Mendes cita SAF e explica como reestruturar a parte financeira do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129908/ze-mendes-cita-saf-e-explica-como-reestruturar-a-parte-financeira-do-corinthians",
-      "time": "29/09 · 14:18",
-      "pubDate": "Tue, 29 Sep 2026 11:18:40 -0300"
+      "title": "Pivô do Corinthians analisa empate na ida contra o Pato Futsal e se mostra confiante para a volta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541029/pivo-do-corinthians-analisa-empate-na-ida-contra-o-pato-futsal-e-se-mostra-confiante-para-a-volta",
+      "time": "29/09 · 21:05",
+      "pubDate": "Tue, 29 Sep 2026 18:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Safiel no Corinthians: pré-candidato assina declaração para iniciar conversas oficiais caso eleito",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129906/safiel-no-corinthians-pre-candidato-assina-declaracao-para-iniciar-conversas-oficiais-caso-eleito",
-      "time": "29/09 · 14:18",
-      "pubDate": "Tue, 29 Sep 2026 11:18:04 -0300"
+      "title": "Corinthians conhece adversário das oitavas de final do Campeonato Paulista Sub-20; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541055/corinthians-conhece-adversario-das-oitavas-de-final-do-campeonato-paulista-sub-20-confira",
+      "time": "29/09 · 20:44",
+      "pubDate": "Tue, 29 Sep 2026 17:44:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Alex Santana destaca relação com Fernando Diniz e reforça desejo de ser útil ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541026/alex-santana-destaca-relacao-com-fernando-diniz-e-reforca-desejo-de-ser-util-ao-corinthians",
-      "time": "29/09 · 13:33",
-      "pubDate": "Tue, 29 Sep 2026 10:33:00 -0300"
+      "title": "Sem acordo por renovação, Corinthians encerra negociação com patrocinadora do time feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541048/sem-acordo-por-renovacao-corinthians-encerra-negociacao-com-patrocinadora-do-time-feminino",
+      "time": "29/09 · 20:35",
+      "pubDate": "Tue, 29 Sep 2026 17:35:12 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Dupla do Corinthians é acionada em vitória do Brasil sobre a Austrália; Hugo permanece no banco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541027/dupla-do-corinthians-e-acionada-em-vitoria-do-brasil-sobre-a-australia-hugo-permanece-no-banco",
-      "time": "29/09 · 12:23",
-      "pubDate": "Tue, 29 Sep 2026 09:23:00 -0300"
+      "title": "Ex-atacante do Corinthians defende Memphis e relembra lance no Paulista de 2001",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540997/ex-atacante-do-corinthians-defende-memphis-e-relembra-lance-no-paulista-de-2001",
+      "time": "29/09 · 20:02",
+      "pubDate": "Tue, 29 Sep 2026 17:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians chega à primeira assistência no segundo semestre e ganha posições em ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540996/meia-do-corinthians-chega-a-primeira-assistencia-no-segundo-semestre-e-movimenta-o-ranking",
-      "time": "29/09 · 11:30",
-      "pubDate": "Tue, 29 Sep 2026 08:30:00 -0300"
+      "title": "Corinthians tem retorno de volante em preparação para decisão contra o São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541053/corinthians-tem-retorno-de-volante-em-preparacao-para-decisao-contra-o-sao-paulo",
+      "time": "29/09 · 19:26",
+      "pubDate": "Tue, 29 Sep 2026 16:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: reunião de clubes, oferta à Caixa e renovação de meia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541012/ultimas-do-corinthians-reuniao-de-clubes-oferta-a-caixa-e-renovacao-de-meia",
-      "time": "29/09 · 10:30",
-      "pubDate": "Tue, 29 Sep 2026 07:30:00 -0300"
+      "title": "Saiba como adquirir os ingressos para assistir Corinthians e Atlético-GO no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541052/saiba-como-adquirir-os-ingressos-para-assistir-corinthians-e-atletico-go-no-brasileiro-sub-17",
+      "time": "29/09 · 19:15",
+      "pubDate": "Tue, 29 Sep 2026 16:15:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Eleições MT: Pré-candidato detalha planos para o Corinthians e prioriza reorganização financeira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541030/eleicoes-mt-pre-candidato-detalha-planos-para-o-corinthians-e-prioriza-reorganizacao-financeira",
+      "time": "29/09 · 19:01",
+      "pubDate": "Tue, 29 Sep 2026 16:01:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians não cumpre metas de arrecadação e tem déficit de R$ 278 milhões até julho",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-deficit-julho-2026-balancete/",
+      "time": "29/09 · 18:55",
+      "pubDate": "Tue, 29 Sep 2026 18:55:43 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Veja como está a artilharia do Corinthians na temporada após empate com o Pato na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541024/veja-como-esta-a-artilharia-do-corinthians-na-temporada-apos-empate-com-o-pato-na-lnf",
+      "time": "29/09 · 18:03",
+      "pubDate": "Tue, 29 Sep 2026 15:03:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians oficializa renovação de contrato do meia Zakaria Labyad",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-contrato-zakaria-labyad/",
+      "time": "29/09 · 15:10",
+      "pubDate": "Tue, 29 Sep 2026 15:10:36 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians envia proposta de quitação da Arena à Caixa e lucro anual médio aumentaria R$ 60 milhões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-envia-proposta-de-quitacao-da-arena-a-caixa-e-lucro-anual-medio-aumentaria-r-80-milhoes]]>",
+      "time": "29/09 · 11:47",
+      "pubDate": "Tue, 29 Sep 2026 08:47:45 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -59,20 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 29 Sep 2026 08:00:43 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Trio do Corinthians representa a Seleção Brasileira em novo amistoso nesta terça-feira; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540998/trio-do-corinthians-representa-a-selecao-brasileira-em-novo-amistoso-nesta-terca-feira-saiba-tudo",
-      "time": "29/09 · 02:00",
-      "pubDate": "Mon, 28 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians empata com o Pato pelo jogo de ida dos playoffs da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541007/corinthians-empata-com-o-pato-pelo-jogo-de-ida-dos-playoffs-da-lnf",
-      "time": "29/09 · 01:58",
-      "pubDate": "Mon, 28 Sep 2026 22:58:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Influenciadora do LiveporTi contesta falta de finalizações do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-influenciadora-do-liveporti-contesta-falta-de-finalizacoes-do-corinthians]]>",
+      "time": "29/09 · 01:48",
+      "pubDate": "Mon, 28 Sep 2026 22:48:25 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -83,20 +115,28 @@ const LIVE_DATA = {
       "pubDate": "Tue, 29 Sep 2026 01:41:00 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians treina forte no CT Dr. Joaquim Grava para a retomada da temporada",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-treina-forte-no-ct-dr-joaquim-grava-para-a-retomada-da-temporada/",
-      "time": "28/09 · 22:32",
-      "pubDate": "Mon, 28 Sep 2026 22:32:39 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu volta a ficar fora de treino do Corinthians por dores no púbis",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-volta-a-ficar-fora-de-treino-do-corinthians-por-dores-no-pubis]]>",
+      "time": "28/09 · 22:59",
+      "pubDate": "Mon, 28 Sep 2026 19:59:02 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "William Batista explica como jovens lidam com retorno ao Sub-20 do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-explica-como-jovens-lidam-com-retorno-ao-sub-20-do-corinthians]]>",
-      "time": "28/09 · 19:32",
-      "pubDate": "Mon, 28 Sep 2026 16:32:04 -0300"
+      "time": "28/09 · 22:58",
+      "pubDate": "Mon, 28 Sep 2026 19:58:05 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians treina forte no CT Dr. Joaquim Grava para a retomada da temporada",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-treina-forte-no-ct-dr-joaquim-grava-para-a-retomada-da-temporada/",
+      "time": "28/09 · 22:32",
+      "pubDate": "Mon, 28 Sep 2026 22:32:39 +0000"
     },
     {
       "source": "Bolavip",
@@ -147,58 +187,24 @@ const LIVE_DATA = {
       "pubDate": "Mon, 28 Sep 2026 12:00:16 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians não pode nem sequer sonhar em vender Breno Bidon por menos de R$ 150 milhões",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-nem-sequer-sonhar-em-vender-breno-bidon-por-menos-de-r-150-milhoes]]>",
-      "time": "28/09 · 14:01",
-      "pubDate": "Mon, 28 Sep 2026 11:01:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Renato Sanches no Corinthians não vai acontecer agora e prioridade são dívidas e atrasos com jogadores",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/renato-sanches-no-corinthians-nao-vai-acontecer-agora-e-prioridade-sao-dividas-e-atrasos-com-jogadores]]>",
-      "time": "28/09 · 12:38",
-      "pubDate": "Mon, 28 Sep 2026 09:38:02 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians tem mais derrotas em casa do que fora na temporada",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tem-mais-derrotas-em-casa-do-que-fora-na-temporada/",
       "time": "28/09 · 10:00",
       "pubDate": "Mon, 28 Sep 2026 10:00:13 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians tem razão ao reclamar do tempo menor de descanso na final",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-razao-ao-reclamar-do-tempo-menor-de-descanso-na-final]]>",
-      "time": "27/09 · 22:09",
-      "pubDate": "Sun, 27 Sep 2026 19:09:21 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Yuri Alberto em campo, Corinthians faz treino em espaço reduzido; veja como foi",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-yuri-alberto-em-campo-corinthians-faz-treino-em-espaco-reduzido-veja-como-foi/",
-      "time": "27/09 · 18:00",
-      "pubDate": "Sun, 27 Sep 2026 18:00:15 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ídolo revela sonho de voltar ao Corinthians como técnico e exalta evolução de Bidon",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/idolo-revela-sonho-de-voltar-ao-corinthians-como-tecnico-e-exalta-evolucao-de-bidon/",
-      "time": "27/09 · 10:00",
-      "pubDate": "Sun, 27 Sep 2026 10:00:16 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba como adquirir os ingressos para assistir Corinthians e Atlético-GO no Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541052/saiba-como-adquirir-os-ingressos-para-assistir-corinthians-e-atletico-go-no-brasileiro-sub-17",
+      "pubDate": "Tue, 29 Sep 2026 16:15:00 -0300",
+      "date": "29/09 · 19:15"
+    },
     {
       "title": "VÍDEO: Zé Mendes cita SAF e explica como reestruturar a parte financeira do Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129908/ze-mendes-cita-saf-e-explica-como-reestruturar-a-parte-financeira-do-corinthians",
@@ -210,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129906/safiel-no-corinthians-pre-candidato-assina-declaracao-para-iniciar-conversas-oficiais-caso-eleito",
       "pubDate": "Tue, 29 Sep 2026 11:18:04 -0300",
       "date": "29/09 · 14:18"
-    },
-    {
-      "title": "Goleiro e ala do Corinthians marcam em goleada da Seleção Brasileira Sub-20 de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541001/goleiro-e-ala-do-corinthians-marcam-em-goleada-da-selecao-brasileira-sub-20-de-futsal",
-      "pubDate": "Mon, 28 Sep 2026 19:10:00 -0300",
-      "date": "28/09 · 22:10"
     }
   ]
 };
