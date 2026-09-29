@@ -1,7 +1,87 @@
-// Gerado automaticamente em 28/09/2026, 22:40:20
+// Gerado automaticamente em 29/09/2026, 14:24:07
 const LIVE_DATA = {
-  "updatedAt": "2026-09-28T22:40:20.908Z",
+  "updatedAt": "2026-09-29T14:24:07.460Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Zé Mendes cita SAF e explica como reestruturar a parte financeira do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129908/ze-mendes-cita-saf-e-explica-como-reestruturar-a-parte-financeira-do-corinthians",
+      "time": "29/09 · 14:18",
+      "pubDate": "Tue, 29 Sep 2026 11:18:40 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Safiel no Corinthians: pré-candidato assina declaração para iniciar conversas oficiais caso eleito",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129906/safiel-no-corinthians-pre-candidato-assina-declaracao-para-iniciar-conversas-oficiais-caso-eleito",
+      "time": "29/09 · 14:18",
+      "pubDate": "Tue, 29 Sep 2026 11:18:04 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Alex Santana destaca relação com Fernando Diniz e reforça desejo de ser útil ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541026/alex-santana-destaca-relacao-com-fernando-diniz-e-reforca-desejo-de-ser-util-ao-corinthians",
+      "time": "29/09 · 13:33",
+      "pubDate": "Tue, 29 Sep 2026 10:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians é acionada em vitória do Brasil sobre a Austrália; Hugo permanece no banco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541027/dupla-do-corinthians-e-acionada-em-vitoria-do-brasil-sobre-a-australia-hugo-permanece-no-banco",
+      "time": "29/09 · 12:23",
+      "pubDate": "Tue, 29 Sep 2026 09:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians chega à primeira assistência no segundo semestre e ganha posições em ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540996/meia-do-corinthians-chega-a-primeira-assistencia-no-segundo-semestre-e-movimenta-o-ranking",
+      "time": "29/09 · 11:30",
+      "pubDate": "Tue, 29 Sep 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: reunião de clubes, oferta à Caixa e renovação de meia",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541012/ultimas-do-corinthians-reuniao-de-clubes-oferta-a-caixa-e-renovacao-de-meia",
+      "time": "29/09 · 10:30",
+      "pubDate": "Tue, 29 Sep 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Eleição do Corinthians já tem cinco pré-candidatos; veja quem são",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/eleicao-do-corinthians-ja-tem-cinco-pre-candidatos-veja-quem-sao/",
+      "time": "29/09 · 08:00",
+      "pubDate": "Tue, 29 Sep 2026 08:00:43 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians representa a Seleção Brasileira em novo amistoso nesta terça-feira; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540998/trio-do-corinthians-representa-a-selecao-brasileira-em-novo-amistoso-nesta-terca-feira-saiba-tudo",
+      "time": "29/09 · 02:00",
+      "pubDate": "Mon, 28 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians empata com o Pato pelo jogo de ida dos playoffs da LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541007/corinthians-empata-com-o-pato-pelo-jogo-de-ida-dos-playoffs-da-lnf",
+      "time": "29/09 · 01:58",
+      "pubDate": "Mon, 28 Sep 2026 22:58:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians renova contrato com Zakaria Labyad",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-contrato-com-zakaria-labyad/",
+      "time": "29/09 · 01:41",
+      "pubDate": "Tue, 29 Sep 2026 01:41:00 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -11,68 +91,36 @@ const LIVE_DATA = {
       "pubDate": "Mon, 28 Sep 2026 22:32:39 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Brabinhas do Corinthians visitam Museu Afro Brasil para conhecer história e cultura negra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540980/brabinhas-do-corinthians-visitam-museu-afro-brasil-para-conhecer-historia-e-cultura-negra",
-      "time": "28/09 · 22:32",
-      "pubDate": "Mon, 28 Sep 2026 19:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "William Batista explica como jovens lidam com retorno ao Sub-20 do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-explica-como-jovens-lidam-com-retorno-ao-sub-20-do-corinthians]]>",
+      "time": "28/09 · 19:32",
+      "pubDate": "Mon, 28 Sep 2026 16:32:04 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro e ala do Corinthians marcam em goleada da Seleção Brasileira Sub-20 de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541001/goleiro-e-ala-do-corinthians-marcam-em-goleada-da-selecao-brasileira-sub-20-de-futsal",
-      "time": "28/09 · 22:10",
-      "pubDate": "Mon, 28 Sep 2026 19:10:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hugo Souza, Breno Bidon e Matheuzinho, do Corinthians, devem ser reservas em Austrália x Brasil",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-breno-bidon-e-matheuzinho-do-corinthians-devem-ser-reservas-em-australia-x-brasil]]>",
+      "time": "28/09 · 19:31",
+      "pubDate": "Mon, 28 Sep 2026 16:31:11 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro destaca aprendizado na base do Corinthians e celebra convocação pelo Líbano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540969/zagueiro-destaca-aprendizado-na-base-do-corinthians-e-celebra-convocacao-pelo-libano",
-      "time": "28/09 · 21:33",
-      "pubDate": "Mon, 28 Sep 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta voltar a vencer jogo eliminatório no Wlamir Marques após dez meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540976/corinthians-tenta-voltar-a-vencer-jogo-eliminatorio-no-wlamir-marques-apos-dez-meses",
-      "time": "28/09 · 20:27",
-      "pubDate": "Mon, 28 Sep 2026 17:27:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Polícia identifica seis envolvidos em tumulto após queda do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540992/policia-identifica-seis-envolvidos-em-tumulto-apos-queda-do-corinthians-na-libertadores",
-      "time": "28/09 · 20:21",
-      "pubDate": "Mon, 28 Sep 2026 17:21:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se aproxima de renovação contratual com artilheiro do Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540993/corinthians-se-aproxima-de-renovacao-contratual-com-artilheiro-do-sub-20",
-      "time": "28/09 · 20:04",
-      "pubDate": "Mon, 28 Sep 2026 17:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Tamires lamenta público 'baixo' na Neo Química Arena e destaca apoio da torcida do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540929/tamires-lamenta-publico-baixo-na-neo-quimica-arena-e-destaca-apoio-da-torcida-do-corinthians",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: André Luiz pode virar a venda que o Corinthians precisa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-andre-luiz-pode-virar-a-venda-que-o-corinthians-precisa]]>",
       "time": "28/09 · 19:28",
-      "pubDate": "Mon, 28 Sep 2026 16:28:00 -0300"
+      "pubDate": "Mon, 28 Sep 2026 16:28:45 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Scout de clube inglês comenta monitoramento de André Luiz no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540987/scout-de-clube-ingles-comenta-monitoramento-de-andre-luiz-no-corinthians",
-      "time": "28/09 · 19:00",
-      "pubDate": "Mon, 28 Sep 2026 16:00:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians mantém preparação para o Internacional e terá novo dia de folga na Data Fifa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mantem-preparacao-para-o-internacional-e-tera-novo-dia-de-folga-na-data-fifa]]>",
+      "time": "28/09 · 19:07",
+      "pubDate": "Mon, 28 Sep 2026 16:07:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -125,34 +173,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Ramón Díaz agrada nos bastidores do Corinthians em meio à pressão sobre Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ramon-diaz-agrada-nos-bastidores-do-corinthians-em-meio-a-pressao-sobre-diniz]]>",
-      "time": "27/09 · 23:07",
-      "pubDate": "Sun, 27 Sep 2026 20:07:33 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Corinthians tem razão ao reclamar do tempo menor de descanso na final",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-razao-ao-reclamar-do-tempo-menor-de-descanso-na-final]]>",
       "time": "27/09 · 22:09",
       "pubDate": "Sun, 27 Sep 2026 19:09:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "William Batista revela bastidores de Iago Machado no Corinthians e relação com Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-revela-bastidores-de-iago-machado-no-corinthians-e-relacao-com-diniz]]>",
-      "time": "27/09 · 19:15",
-      "pubDate": "Sun, 27 Sep 2026 16:15:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians prepara plano B após fim das bets e mira acordo pontual para camisa; Fatal Fans faz oferta",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prepara-plano-b-apos-fim-das-bets-e-mira-acordo-pontual-para-camisa-fatal-fans-faz-oferta]]>",
-      "time": "27/09 · 18:59",
-      "pubDate": "Sun, 27 Sep 2026 15:59:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -169,30 +193,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/idolo-revela-sonho-de-voltar-ao-corinthians-como-tecnico-e-exalta-evolucao-de-bidon/",
       "time": "27/09 · 10:00",
       "pubDate": "Sun, 27 Sep 2026 10:00:16 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x São Paulo: veja fotos do jogo de ida final do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-x-sao-paulo-veja-fotos-do-jogo-de-ida-final-do-brasileirao-feminino/",
-      "time": "26/09 · 22:21",
-      "pubDate": "Sat, 26 Sep 2026 22:21:59 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians segue trabalhando para a reta final da temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-segue-trabalhando-para-a-reta-final-da-temporada/",
-      "time": "26/09 · 21:19",
-      "pubDate": "Sat, 26 Sep 2026 21:19:55 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Corinthians assina com Luiz Fernando até 2029 e base pode ser solução dos problemas financeiros",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-assina-com-luiz-fernando-ate-2029-e-base-pode-ser-solucao-dos-problemas-financeiros]]>",
-      "time": "25/09 · 17:38",
-      "pubDate": "Fri, 25 Sep 2026 14:38:33 -0300"
     }
   ],
   "upcoming": [],
@@ -200,16 +200,22 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Zé Mendes cita SAF e explica como reestruturar a parte financeira do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129908/ze-mendes-cita-saf-e-explica-como-reestruturar-a-parte-financeira-do-corinthians",
+      "pubDate": "Tue, 29 Sep 2026 11:18:40 -0300",
+      "date": "29/09 · 14:18"
+    },
+    {
+      "title": "VÍDEO: Safiel no Corinthians: pré-candidato assina declaração para iniciar conversas oficiais caso eleito",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129906/safiel-no-corinthians-pre-candidato-assina-declaracao-para-iniciar-conversas-oficiais-caso-eleito",
+      "pubDate": "Tue, 29 Sep 2026 11:18:04 -0300",
+      "date": "29/09 · 14:18"
+    },
+    {
       "title": "Goleiro e ala do Corinthians marcam em goleada da Seleção Brasileira Sub-20 de Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541001/goleiro-e-ala-do-corinthians-marcam-em-goleada-da-selecao-brasileira-sub-20-de-futsal",
       "pubDate": "Mon, 28 Sep 2026 19:10:00 -0300",
       "date": "28/09 · 22:10"
-    },
-    {
-      "title": "Gabi Zanotti encerra jejum de gols após dez jogos sem marcar pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/540950/gabi-zanotti-encerra-jejum-de-gols-apos-dez-jogos-sem-marcar-pelo-corinthians",
-      "pubDate": "Sun, 27 Sep 2026 19:03:00 -0300",
-      "date": "27/09 · 22:03"
     }
   ]
 };
