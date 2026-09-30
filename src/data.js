@@ -1,7 +1,39 @@
-// Gerado automaticamente em 29/09/2026, 21:33:49
+// Gerado automaticamente em 30/09/2026, 00:48:51
 const LIVE_DATA = {
-  "updatedAt": "2026-09-29T21:33:49.632Z",
+  "updatedAt": "2026-09-30T00:48:51.244Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians estende jejum sem vencer jogos de mata-mata no Ginásio Wlamir Marques",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541049/corinthians-estende-jejum-sem-vencer-jogos-de-mata-mata-no-ginasio-wlamir-marques",
+      "time": "30/09 · 00:01",
+      "pubDate": "Tue, 29 Sep 2026 21:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ala do Corinthians avalia empate nos playoffs da LNF e detalha transição para o futebol de campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541022/ala-do-corinthians-avalia-empate-nos-playoffs-da-lnf-e-detalha-transicao-para-o-futebol-de-campo",
+      "time": "29/09 · 23:02",
+      "pubDate": "Tue, 29 Sep 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Eleições MT: advogado de pré-candidato entra com petição para anular itens de votação no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541059/eleicoes-mt-advogado-de-pre-candidato-entra-com-peticao-para-anular-itens-de-votacao-no-corinthians",
+      "time": "29/09 · 22:54",
+      "pubDate": "Tue, 29 Sep 2026 19:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem participação confirmada na Copa M2 Sub-16",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541057/corinthians-tem-participacao-confirmada-na-copa-m2-sub-16",
+      "time": "29/09 · 21:33",
+      "pubDate": "Tue, 29 Sep 2026 18:33:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -27,6 +59,30 @@ const LIVE_DATA = {
       "pubDate": "Tue, 29 Sep 2026 17:35:12 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu volta a ficar fora de treino do Corinthians por dores no púbis",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-volta-a-ficar-fora-de-treino-do-corinthians-por-dores-no-pubis]]>",
+      "time": "29/09 · 20:10",
+      "pubDate": "Tue, 29 Sep 2026 17:10:08 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Antecipação da Esportes da Sorte para pagar salários pode gerar efeito cascata no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/antecipacao-da-esportes-da-sorte-para-pagar-salarios-pode-gerar-efeito-cascata-no-corinthians]]>",
+      "time": "29/09 · 20:07",
+      "pubDate": "Tue, 29 Sep 2026 17:07:50 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians aumenta déficit e deixa venda de jogadores ainda mais importante nos próximos meses",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aumenta-deficit-e-deixa-venda-de-jogadores-ainda-mais-importante-nos-proximos-meses]]>",
+      "time": "29/09 · 20:03",
+      "pubDate": "Tue, 29 Sep 2026 17:03:29 -0300"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Ex-atacante do Corinthians defende Memphis e relembra lance no Paulista de 2001",
@@ -35,52 +91,28 @@ const LIVE_DATA = {
       "pubDate": "Tue, 29 Sep 2026 17:02:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem retorno de volante em preparação para decisão contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541053/corinthians-tem-retorno-de-volante-em-preparacao-para-decisao-contra-o-sao-paulo",
-      "time": "29/09 · 19:26",
-      "pubDate": "Tue, 29 Sep 2026 16:26:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "William Batista explica como experiência no profissional mudou trabalho na base do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-explica-como-experiencia-no-profissional-mudou-trabalho-na-base-do-corinthians]]>",
+      "time": "29/09 · 19:05",
+      "pubDate": "Tue, 29 Sep 2026 16:05:33 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba como adquirir os ingressos para assistir Corinthians e Atlético-GO no Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541052/saiba-como-adquirir-os-ingressos-para-assistir-corinthians-e-atletico-go-no-brasileiro-sub-17",
-      "time": "29/09 · 19:15",
-      "pubDate": "Tue, 29 Sep 2026 16:15:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Félix Torres não tem nenhuma condição de jogar no Corinthians em 2027 voltando de empréstimo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-felix-torres-nao-tem-nenhuma-condicao-de-jogar-no-corinthians-em-2027-voltando-de-emprestimo]]>",
+      "time": "29/09 · 18:12",
+      "pubDate": "Tue, 29 Sep 2026 15:12:32 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições MT: Pré-candidato detalha planos para o Corinthians e prioriza reorganização financeira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541030/eleicoes-mt-pre-candidato-detalha-planos-para-o-corinthians-e-prioriza-reorganizacao-financeira",
-      "time": "29/09 · 19:01",
-      "pubDate": "Tue, 29 Sep 2026 16:01:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians não cumpre metas de arrecadação e tem déficit de R$ 278 milhões até julho",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-deficit-julho-2026-balancete/",
-      "time": "29/09 · 18:55",
-      "pubDate": "Tue, 29 Sep 2026 18:55:43 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Veja como está a artilharia do Corinthians na temporada após empate com o Pato na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541024/veja-como-esta-a-artilharia-do-corinthians-na-temporada-apos-empate-com-o-pato-na-lnf",
-      "time": "29/09 · 18:03",
-      "pubDate": "Tue, 29 Sep 2026 15:03:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians oficializa renovação de contrato do meia Zakaria Labyad",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-contrato-zakaria-labyad/",
-      "time": "29/09 · 15:10",
-      "pubDate": "Tue, 29 Sep 2026 15:10:36 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Futuro de Alex Santana segue indefinido no Corinthians e novo empréstimo não está descartado em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/futuro-de-alex-santana-segue-indefinido-no-corinthians-e-novo-emprestimo-nao-esta-descartado-em-2027]]>",
+      "time": "29/09 · 14:26",
+      "pubDate": "Tue, 29 Sep 2026 11:26:21 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-envia-proposta-de-quitacao-da-arena-a-caixa-e-lucro-anual-medio-aumentaria-r-80-milhoes]]>",
       "time": "29/09 · 11:47",
       "pubDate": "Tue, 29 Sep 2026 08:47:45 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Eleição do Corinthians já tem cinco pré-candidatos; veja quem são",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/eleicao-do-corinthians-ja-tem-cinco-pre-candidatos-veja-quem-sao/",
-      "time": "29/09 · 08:00",
-      "pubDate": "Tue, 29 Sep 2026 08:00:43 +0000"
     },
     {
       "source": "Bolavip",
@@ -109,90 +133,66 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians renova contrato com Zakaria Labyad",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-contrato-com-zakaria-labyad/",
-      "time": "29/09 · 01:41",
-      "pubDate": "Tue, 29 Sep 2026 01:41:00 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Matheus Bidu volta a ficar fora de treino do Corinthians por dores no púbis",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-volta-a-ficar-fora-de-treino-do-corinthians-por-dores-no-pubis]]>",
-      "time": "28/09 · 22:59",
-      "pubDate": "Mon, 28 Sep 2026 19:59:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "William Batista explica como jovens lidam com retorno ao Sub-20 do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-explica-como-jovens-lidam-com-retorno-ao-sub-20-do-corinthians]]>",
-      "time": "28/09 · 22:58",
-      "pubDate": "Mon, 28 Sep 2026 19:58:05 -0300"
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians treina forte no CT Dr. Joaquim Grava para a retomada da temporada",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-treina-forte-no-ct-dr-joaquim-grava-para-a-retomada-da-temporada/",
-      "time": "28/09 · 22:32",
-      "pubDate": "Mon, 28 Sep 2026 22:32:39 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo Souza, Breno Bidon e Matheuzinho, do Corinthians, devem ser reservas em Austrália x Brasil",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-breno-bidon-e-matheuzinho-do-corinthians-devem-ser-reservas-em-australia-x-brasil]]>",
-      "time": "28/09 · 19:31",
-      "pubDate": "Mon, 28 Sep 2026 16:31:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: André Luiz pode virar a venda que o Corinthians precisa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-andre-luiz-pode-virar-a-venda-que-o-corinthians-precisa]]>",
-      "time": "28/09 · 19:28",
-      "pubDate": "Mon, 28 Sep 2026 16:28:45 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians mantém preparação para o Internacional e terá novo dia de folga na Data Fifa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-mantem-preparacao-para-o-internacional-e-tera-novo-dia-de-folga-na-data-fifa]]>",
-      "time": "28/09 · 19:07",
-      "pubDate": "Mon, 28 Sep 2026 16:07:37 -0300"
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians inicia última semana livre com ajustes táticos e jogo em campo reduzido",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-inicia-ultima-semana-livre-com-ajustes-taticos-e-jogo-em-campo-reduzido/",
-      "time": "28/09 · 17:47",
-      "pubDate": "Mon, 28 Sep 2026 17:47:08 +0000"
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians nesta segunda-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-nesta-segunda-feira-17/",
-      "time": "28/09 · 17:25",
-      "pubDate": "Mon, 28 Sep 2026 17:25:02 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: André Ramalho custa R$ 10,2 milhões por ano e renovação contratual não é benéfica ao Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-andre-ramalho-custa-r-102-milhoes-por-ano-e-renovacao-contratual-nao-e-benefica-ao-corinthians]]>",
-      "time": "28/09 · 15:00",
-      "pubDate": "Mon, 28 Sep 2026 12:00:16 -0300"
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians tem mais derrotas em casa do que fora na temporada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tem-mais-derrotas-em-casa-do-que-fora-na-temporada/",
-      "time": "28/09 · 10:00",
-      "pubDate": "Mon, 28 Sep 2026 10:00:13 +0000"
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
