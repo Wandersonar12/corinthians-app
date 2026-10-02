@@ -1,78 +1,94 @@
-// Gerado automaticamente em 01/10/2026, 22:03:04
+// Gerado automaticamente em 02/10/2026, 14:12:09
 const LIVE_DATA = {
-  "updatedAt": "2026-10-01T22:03:04.573Z",
+  "updatedAt": "2026-10-02T14:12:09.629Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians lança patch comemorativo em homenagem ao ex-goleiro Tobias",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541188/corinthians-lanca-patch-comemorativo-em-homenagem-ao-ex-goleiro-tobias",
-      "time": "01/10 · 21:55",
-      "pubDate": "Thu, 01 Oct 2026 18:55:00 -0300"
+      "title": "Moscardo se aproxima de recorde histórico no Sub-17 do Corinthians; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541110/moscardo-se-aproxima-de-recorde-historico-no-sub-17-do-corinthians-saiba-qual",
+      "time": "02/10 · 13:28",
+      "pubDate": "Fri, 02 Oct 2026 10:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Caso Bidu: médico ex-Corinthians fala sobre a lesão do lateral-esquerdo do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129952/caso-bidu-medico-ex-corinthians-fala-sobre-a-lesao-do-lateral-esquerdo-do-corinthians",
-      "time": "01/10 · 21:48",
-      "pubDate": "Thu, 01 Oct 2026 18:48:03 -0300"
+      "title": "Corinthians procura patrocínios pontuais para reta final do Brasileirão; veja valor estimado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541204/corinthians-procura-patrocinios-pontuais-para-reta-final-do-brasileirao-veja-valor-estimado",
+      "time": "02/10 · 12:26",
+      "pubDate": "Fri, 02 Oct 2026 09:26:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é punido pela Conmebol por incidentes em jogo da eliminação da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541186/corinthians-e-punido-pela-conmebol-por-incidentes-em-jogo-da-eliminacao-da-libertadores",
-      "time": "01/10 · 21:39",
-      "pubDate": "Thu, 01 Oct 2026 18:39:00 -0300"
+      "title": "Atacante do Corinthians será julgada pelo STJD às vésperas de decisão do Brasileirão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541202/atacante-do-corinthians-sera-julgada-pelo-stjd-as-vesperas-de-decisao-do-brasileirao-feminino",
+      "time": "02/10 · 12:07",
+      "pubDate": "Fri, 02 Oct 2026 09:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "SAFiel abre caminho para conversas com candidatos do Corinthians e promete neutralidade nas eleições",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541128/safiel-abre-caminho-para-conversas-com-candidatos-do-corinthians-e-promete-neutralidade-nas-eleicoes",
-      "time": "01/10 · 20:36",
-      "pubDate": "Thu, 01 Oct 2026 17:36:00 -0300"
+      "title": "Últimas do Corinthians: parcela suspensa, patrocínio em xeque e conversas encerradas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541194/ultimas-do-corinthians-parcela-suspensa-patrocinio-em-xeque-e-conversas-encerradas",
+      "time": "02/10 · 10:30",
+      "pubDate": "Fri, 02 Oct 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians consegue postergar prazo para evitar rescisão após atraso em acordo com a União",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541174/corinthians-consegue-postergar-prazo-para-evitar-rescisao-apos-atraso-em-acordo-com-a-uniao",
-      "time": "01/10 · 19:48",
-      "pubDate": "Thu, 01 Oct 2026 16:48:00 -0300"
+      "title": "Centroavante chega à artilharia e goleada do Corinthians movimenta ranking no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541104/centroavante-chega-a-artilharia-e-goleada-do-corinthians-movimenta-ranking-no-sub-17",
+      "time": "02/10 · 01:30",
+      "pubDate": "Thu, 01 Oct 2026 22:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece detalhes das quartas de final do Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541175/corinthians-conhece-detalhes-das-quartas-de-final-do-campeonato-brasileiro-sub-17",
-      "time": "01/10 · 19:39",
-      "pubDate": "Thu, 01 Oct 2026 16:39:00 -0300"
+      "title": "Técnico do Sub-20 elogia Iago Machado e prega cuidado com vaidade após projeção no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541138/tecnico-do-sub-20-elogia-iago-machado-e-prega-cuidado-com-vaidade-apos-projecao-no-corinthians",
+      "time": "02/10 · 00:30",
+      "pubDate": "Thu, 01 Oct 2026 21:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lembra deles? Corinthians tem cinco jogadores revelados da base com contrato no Zenit",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541081/lembra-deles-corinthians-tem-cinco-jogadores-revelados-da-base-com-contrato-no-zenit",
-      "time": "01/10 · 19:30",
-      "pubDate": "Thu, 01 Oct 2026 16:30:00 -0300"
+      "title": "Sylvinho avalia trabalho como treinador no Corinthians e comenta sobre eventual retorno ao clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541156/sylvinho-avalia-trabalho-como-treinador-no-corinthians-e-comenta-sobre-eventual-retorno-ao-clube",
+      "time": "01/10 · 23:30",
+      "pubDate": "Thu, 01 Oct 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Justiça determina suspensão de exposição da Fatal Fans em patrocínio com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541171/justica-determina-suspensao-de-exposicao-da-fatal-fans-em-patrocinio-com-o-corinthians",
-      "time": "01/10 · 19:14",
-      "pubDate": "Thu, 01 Oct 2026 16:14:00 -0300"
+      "title": "Fiel Fazendinha organiza nova recepção ao Corinthians antes de Majestoso decisivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541191/fiel-fazendinha-organiza-nova-recepcao-ao-corinthians-antes-de-majestoso-decisivo",
+      "time": "01/10 · 23:09",
+      "pubDate": "Thu, 01 Oct 2026 20:09:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Demissão de Fernando Diniz precisa acontecer caso não some três pontos em Internacional x Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/demissao-de-fernando-diniz-precisa-acontecer-caso-nao-some-tres-pontos-em-internacional-x-corinthians]]>",
+      "time": "01/10 · 18:34",
+      "pubDate": "Thu, 01 Oct 2026 15:34:23 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Análise: Léo Maná, Gabriel Caipira e Renato treinam separado e números dificultam situação no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-leo-mana-gabriel-caipira-e-renato-treinam-separado-e-numeros-dificultam-situacao-no-corinthians]]>",
-      "time": "01/10 · 13:47",
-      "pubDate": "Thu, 01 Oct 2026 10:47:20 -0300"
+      "time": "01/10 · 17:01",
+      "pubDate": "Thu, 01 Oct 2026 14:01:51 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Yuri Alberto perde gols, mas é peça fundamental no esquema de Fernando Diniz no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-yuri-alberto-perde-gols-mas-e-peca-fundamental-no-esquema-de-fernando-diniz-no-corinthians]]>",
+      "time": "01/10 · 14:53",
+      "pubDate": "Thu, 01 Oct 2026 11:53:16 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vive-reta-final-com-um-olho-no-campo-e-outro-no-dm]]>",
       "time": "30/09 · 22:36",
       "pubDate": "Wed, 30 Sep 2026 19:36:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Vojvoda não seria um substituto ideal de Fernando Diniz em caso de demissão no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-vojvoda-nao-seria-um-substituto-ideal-de-fernando-diniz-em-caso-de-demissao-no-corinthians]]>",
-      "time": "30/09 · 20:30",
-      "pubDate": "Wed, 30 Sep 2026 17:30:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não descarta novo empréstimo de Pedro Raul em 2027 e aguarda definição sobre Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-descarta-novo-emprestimo-de-pedro-raul-em-2027-e-aguarda-definicao-sobre-yuri-alberto]]>",
-      "time": "30/09 · 15:06",
-      "pubDate": "Wed, 30 Sep 2026 12:06:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Centroavante chega à artilharia e goleada do Corinthians movimenta ranking no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541104/centroavante-chega-a-artilharia-e-goleada-do-corinthians-movimenta-ranking-no-sub-17",
+      "pubDate": "Thu, 01 Oct 2026 22:30:00 -0300",
+      "date": "02/10 · 01:30"
+    },
+    {
+      "title": "Corinthians leva sequência de 58 jogos com gols no Brasileiro Feminino para final contra o São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541141/corinthians-leva-sequencia-de-58-jogos-com-gols-no-brasileiro-feminino-para-final-contra-o-sao-paulo",
+      "pubDate": "Thu, 01 Oct 2026 19:28:00 -0300",
+      "date": "01/10 · 22:28"
+    },
+    {
       "title": "Corinthians lança patch comemorativo em homenagem ao ex-goleiro Tobias",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541188/corinthians-lanca-patch-comemorativo-em-homenagem-ao-ex-goleiro-tobias",
       "pubDate": "Thu, 01 Oct 2026 18:55:00 -0300",
@@ -216,36 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129947/gols-assistencias-e-melhores-momentos-de-yuri-alberto-no-corinthians",
       "pubDate": "Thu, 01 Oct 2026 15:17:34 -0300",
       "date": "01/10 · 18:17"
-    },
-    {
-      "title": "Últimas do Corinthians: lateral com dores, retorno de zagueiro e goleada na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541121/ultimas-do-corinthians-lateral-com-dores-retorno-de-zagueiro-e-goleada-na-base",
-      "pubDate": "Thu, 01 Oct 2026 07:30:00 -0300",
-      "date": "01/10 · 10:30"
-    },
-    {
-      "title": "Quem é mais eficiente? Veja o ranking de minutos por gol do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541079/quem-e-mais-eficiente-veja-o-ranking-de-minutos-por-gol-do-corinthians-em-2026",
-      "pubDate": "Wed, 30 Sep 2026 21:31:00 -0300",
-      "date": "01/10 · 00:31"
-    },
-    {
-      "title": "VÍDEO: Safiel cita acordo com a CAIXA e demonstra preocupação com dívida do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129935/safiel-cita-acordo-com-a-caixa-e-demonstra-preocupacao-com-divida-do-corinthians",
-      "pubDate": "Wed, 30 Sep 2026 21:08:00 -0300",
-      "date": "01/10 · 00:08"
-    },
-    {
-      "title": "VÍDEO: SAFiel explica detalhes da captação de recursos e da administração do projeto no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129933/safiel-explica-detalhes-da-captacao-de-recursos-e-da-administracao-do-projeto-no-corinthians",
-      "pubDate": "Wed, 30 Sep 2026 20:54:37 -0300",
-      "date": "30/09 · 23:54"
-    },
-    {
-      "title": "VÍDEO: SAFiel detalha relação com Stabile e afirma não ter recebido mais contatos do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129932/safiel-detalha-relacao-com-stabile-e-afirma-nao-ter-recebido-mais-contatos-do-corinthians",
-      "pubDate": "Wed, 30 Sep 2026 20:40:41 -0300",
-      "date": "30/09 · 23:40"
     }
   ]
 };
