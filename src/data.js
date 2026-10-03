@@ -1,14 +1,86 @@
-// Gerado automaticamente em 03/10/2026, 00:47:05
+// Gerado automaticamente em 03/10/2026, 12:48:12
 const LIVE_DATA = {
-  "updatedAt": "2026-10-03T00:47:05.223Z",
+  "updatedAt": "2026-10-03T12:48:12.147Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca recorde de vitórias seguidas pelo Sub-17 do Corinthians na temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541178/corinthians-busca-recorde-de-vitorias-seguidas-pelo-sub-17-do-corinthians-na-temporada",
-      "time": "03/10 · 00:34",
-      "pubDate": "Fri, 02 Oct 2026 21:34:00 -0300"
+      "title": "Corinthians visita o Pato de olho na vaga para as quartas de final da LNF; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541236/corinthians-visita-o-pato-de-olho-na-vaga-para-as-quartas-de-final-da-lnf-saiba-tudo",
+      "time": "03/10 · 12:30",
+      "pubDate": "Sat, 03 Oct 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta a Ponte Preta pelo jogo de ida da terceira fase do Paulista Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541223/corinthians-enfrenta-a-ponte-preta-pelo-jogo-de-ida-da-terceira-fase-do-paulista-sub-17-saiba-tudo",
+      "time": "03/10 · 12:00",
+      "pubDate": "Sat, 03 Oct 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians dá assistência pela disputa do terceiro lugar da Seleção Sub-17 em torneio Uefa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541264/meia-do-corinthians-da-assistencia-pela-disputa-do-terceiro-lugar-da-selecao-sub-17-em-torneio-uefa",
+      "time": "03/10 · 11:50",
+      "pubDate": "Sat, 03 Oct 2026 08:50:22 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Saiba onde assistir à final do Brasileiro Feminino entre Corinthians e São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541229/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
+      "time": "03/10 · 11:30",
+      "pubDate": "Sat, 03 Oct 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: busca por patrocínio, pronunciamento sobre Fatal Fans e Brabas preparadas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541255/ultimas-do-corinthians-busca-por-patrocinio-pronunciamento-sobre-fatal-fans-e-brabas-preparadas",
+      "time": "03/10 · 10:30",
+      "pubDate": "Sat, 03 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Em fim de contrato, Lingard vive momento de pouco prestígio no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/em-fim-de-contrato-lingard-vive-momento-de-pouco-prestigio-no-corinthians/",
+      "time": "03/10 · 10:00",
+      "pubDate": "Sat, 03 Oct 2026 10:00:26 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Crivelari x Zanotti: artilheiras de São Paulo e Corinthians medem forças na final do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/crivelari-x-zanotti-artilheiras-sao-paulo-corinthians-final-brasileiro-feminino/",
+      "time": "03/10 · 08:00",
+      "pubDate": "Sat, 03 Oct 2026 08:00:15 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o São Paulo pelo segundo jogo da final do Brasileirão Feminino; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541224/corinthians-visita-o-sao-paulo-pelo-segundo-jogo-da-final-do-brasileirao-feminino-saiba-tudo",
+      "time": "03/10 · 03:01",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Sfera pelas quartas de final do Paulistão Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541244/corinthians-visita-o-sfera-pelas-quartas-de-final-do-paulistao-feminino-sub-17",
+      "time": "03/10 · 01:30",
+      "pubDate": "Fri, 02 Oct 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians volta a representar a Seleção Brasileira em amistoso neste sábado; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541209/trio-do-corinthians-volta-a-representar-a-selecao-brasileira-em-amistoso-neste-sabado-saiba-tudo",
+      "time": "03/10 · 01:00",
+      "pubDate": "Fri, 02 Oct 2026 22:00:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -17,30 +89,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-manifesta-apos-decisao-judicial-que-suspende-patrocinio-da-fatal-fans/",
       "time": "02/10 · 23:43",
       "pubDate": "Fri, 02 Oct 2026 23:43:59 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Cássio relembra desgaste no Corinthians e explica por que decidiu deixar o clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541237/cassio-relembra-desgaste-no-corinthians-e-explica-por-que-decidiu-deixar-o-clube",
-      "time": "02/10 · 23:32",
-      "pubDate": "Fri, 02 Oct 2026 20:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se manifesta sobre suspensão de patrocínio da Fatal Fans",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541251/corinthians-se-manifesta-sobre-suspensao-de-patrocinio-da-fatal-fans",
-      "time": "02/10 · 23:15",
-      "pubDate": "Fri, 02 Oct 2026 20:15:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega ao mata-mata do Paulista Feminino Sub-17 invicto há 14 jogos na competição",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541247/corinthians-chega-ao-mata-mata-do-paulista-feminino-sub-17-invicto-ha-14-jogos-na-competicao",
-      "time": "02/10 · 23:02",
-      "pubDate": "Fri, 02 Oct 2026 20:02:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -59,44 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 02 Oct 2026 22:50:45 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians reencontra Ponte Preta no Sub-17 após quase cinco anos; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541176/corinthians-reencontra-ponte-preta-no-sub-17-apos-quase-cinco-anos-relembre",
-      "time": "02/10 · 22:35",
-      "pubDate": "Fri, 02 Oct 2026 19:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jovem zagueiro celebra apoio de companheiros em chegada ao profissional do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541240/jovem-zagueiro-celebra-apoio-de-companheiros-em-chegada-ao-profissional-do-corinthians",
-      "time": "02/10 · 21:32",
-      "pubDate": "Fri, 02 Oct 2026 18:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aposta em bom retrospecto no mata-mata da LNF para avançar às quartas de final",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541159/corinthians-aposta-em-bom-retrospecto-no-mata-mata-da-lnf-para-avancar-as-quartas-de-final",
-      "time": "02/10 · 20:35",
-      "pubDate": "Fri, 02 Oct 2026 17:35:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Arsenal quer aplicar “chapéu” na Juventus e estuda proposta superior ao Corinthians por Breno Bidon",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/arsenal-quer-aplicar-chapeu-na-juventus-e-estuda-proposta-superior-ao-corinthians-por-breno-bidon]]>",
       "time": "02/10 · 20:28",
       "pubDate": "Fri, 02 Oct 2026 17:28:17 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fica com vice-campeonato em torneio Sub-18 atuando com categoria inferior",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541232/corinthians-fica-com-vice-campeonato-em-torneio-sub-18-atuando-com-categoria-inferior",
-      "time": "02/10 · 20:19",
-      "pubDate": "Fri, 02 Oct 2026 17:19:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -147,28 +163,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 02 Oct 2026 10:00:59 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Em ano de dificuldades, São Paulo e Corinthians duelam por alívio com título no feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/em-ano-de-dificuldades-sao-paulo-e-corinthians-duelam-por-alivio-com-titulo-no-feminino/",
-      "time": "02/10 · 08:00",
-      "pubDate": "Fri, 02 Oct 2026 08:00:10 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Vídeo: LivePorTi admite que Róger Guedes faz falta no Corinthians: “Aceitaria de volta”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-admite-que-roger-guedes-faz-falta-no-corinthians-aceitaria-de-volta]]>",
       "time": "02/10 · 00:58",
       "pubDate": "Thu, 01 Oct 2026 21:58:49 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians é multado em R$ 120 mil pela Conmebol por ocorrências contra o Estudiantes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-e-multado-em-r-120-mil-pela-conmebol-por-ocorrencias-contra-o-estudiantes/",
-      "time": "01/10 · 23:29",
-      "pubDate": "Thu, 01 Oct 2026 23:29:16 +0000"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Saiba onde assistir à final do Brasileiro Feminino entre Corinthians e São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541229/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
+      "pubDate": "Sat, 03 Oct 2026 08:30:00 -0300",
+      "date": "03/10 · 11:30"
+    },
+    {
+      "title": "Goleiro do Corinthians destaca preparação para terceira fase do Campeonato Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541253/goleiro-do-corinthians-destaca-preparacao-para-terceira-fase-do-campeonato-paulista-sub-17",
+      "pubDate": "Fri, 02 Oct 2026 21:50:00 -0300",
+      "date": "03/10 · 00:50"
+    },
+    {
       "title": "VÍDEO: Gols, assistências e melhores momentos de Memphis Depay no Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129965/gols-assistencias-e-melhores-momentos-de-memphis-depay-no-corinthians",
       "pubDate": "Fri, 02 Oct 2026 15:29:03 -0300",
@@ -210,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129964/gols-assistencias-e-melhores-momentos-do-volante-andre-no-corinthians",
       "pubDate": "Fri, 02 Oct 2026 15:18:28 -0300",
       "date": "02/10 · 18:18"
-    },
-    {
-      "title": "Centroavante chega à artilharia e goleada do Corinthians movimenta ranking no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541104/centroavante-chega-a-artilharia-e-goleada-do-corinthians-movimenta-ranking-no-sub-17",
-      "pubDate": "Thu, 01 Oct 2026 22:30:00 -0300",
-      "date": "02/10 · 01:30"
     }
   ]
 };
