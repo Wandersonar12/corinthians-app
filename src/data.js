@@ -1,70 +1,78 @@
-// Gerado automaticamente em 04/10/2026, 13:31:55
+// Gerado automaticamente em 04/10/2026, 20:32:42
 const LIVE_DATA = {
-  "updatedAt": "2026-10-04T13:31:55.075Z",
+  "updatedAt": "2026-10-04T20:32:42.761Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante retorna aos gramados pelo Peru após lesão muscular no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541066/volante-retorna-aos-gramados-pelo-peru-apos-lesao-muscular-no-corinthians",
-      "time": "04/10 · 12:13",
-      "pubDate": "Sun, 04 Oct 2026 09:13:00 -0300"
+      "title": "Corinthians vê retrospecto cair no Morumbis após empate e vice-campeonato contra rival",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541300/corinthians-ve-retrospecto-cair-no-morumbis-apos-empate-e-vice-campeonato-contra-rival",
+      "time": "04/10 · 20:01",
+      "pubDate": "Sun, 04 Oct 2026 17:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Perito aponta possível cobrança indevida de quase R$ 50 milhões em multa da Caixa ao Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541272/perito-aponta-possivel-cobranca-indevida-de-quase-r-50-milhoes-em-multa-da-caixa-ao-corinthians",
-      "time": "04/10 · 11:30",
-      "pubDate": "Sun, 04 Oct 2026 08:30:00 -0300"
+      "title": "Pivô iguala ala na liderança da artilharia do Corinthians após classificação na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541302/pivo-iguala-ala-na-lideranca-da-artilharia-do-corinthians-apos-classificacao-na-lnf",
+      "time": "04/10 · 19:02",
+      "pubDate": "Sun, 04 Oct 2026 16:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vice no Brasileiro Feminino, dupla na Seleção e nova lesão de zagueira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541308/ultimas-do-corinthians-vice-no-brasileiro-feminino-dupla-na-selecao-e-nova-lesao-de-zagueira",
-      "time": "04/10 · 10:30",
-      "pubDate": "Sun, 04 Oct 2026 07:30:00 -0300"
+      "title": "Lateral do Corinthians admite ineficiência ofensiva e confia em recuperação para a Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541314/lateral-do-corinthians-admite-ineficiencia-ofensiva-e-confia-em-recuperacao-para-a-libertadores",
+      "time": "04/10 · 18:04",
+      "pubDate": "Sun, 04 Oct 2026 15:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Corinthians perde Brasileirão Feminino 2026: Emily Lima analisa derrota",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129990/corinthians-perde-brasileirao-feminino-2026-emily-lima-analisa-derrota",
-      "time": "04/10 · 02:05",
-      "pubDate": "Sat, 03 Oct 2026 23:05:00 -0300"
+      "title": "Lembra dele? Atacante revelado pelo Corinthians busca espaço em clube de Champions League",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541211/lembra-dele-atacante-revelado-pelo-corinthians-busca-espaco-em-clube-de-champions-league",
+      "time": "04/10 · 17:06",
+      "pubDate": "Sun, 04 Oct 2026 14:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Corinthians lamenta vice do Brasileirão Feminino e admite baixo aproveitamento ofensivo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541312/tecnica-do-corinthians-lamenta-vice-do-brasileirao-feminino-e-admite-baixo-aproveitamento-ofensivo",
-      "time": "04/10 · 01:22",
-      "pubDate": "Sat, 03 Oct 2026 22:22:00 -0300"
+      "title": "Emily Lima nega estar pressionada no Corinthians antes de início da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541319/emily-lima-nega-estar-pressionada-no-corinthians-antes-de-inicio-da-libertadores-feminina",
+      "time": "04/10 · 16:03",
+      "pubDate": "Sun, 04 Oct 2026 13:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Duda Sampaio desabafa após perda do título do Brasileirão Feminino 2026 pelo Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129988/duda-sampaio-desabafa-apos-perda-do-titulo-do-brasileirao-feminino-2026-pelo-corinthians",
-      "time": "04/10 · 01:06",
-      "pubDate": "Sat, 03 Oct 2026 22:06:16 -0300"
+      "title": "Ala-pivô do Corinthians revela motivos para renovar e destaca acolhimento aos atletas da base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541218/ala-pivo-do-corinthians-revela-motivos-para-renovar-e-destaca-acolhimento-aos-atletas-da-base",
+      "time": "04/10 · 15:02",
+      "pubDate": "Sun, 04 Oct 2026 12:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lingard tenta retomar espaço no Corinthians em reta final de contrato",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541266/lingard-tenta-retomar-espaco-no-corinthians-em-reta-final-de-contrato",
-      "time": "04/10 · 00:32",
-      "pubDate": "Sat, 03 Oct 2026 21:32:00 -0300"
+      "title": "Corinthians tem quatro convocadas para a Copa do Mundo Feminina Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541332/corinthians-tem-quatro-convocadas-para-a-copa-do-mundo-feminina-sub-17",
+      "time": "04/10 · 14:06",
+      "pubDate": "Sun, 04 Oct 2026 11:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Melhores momentos: São Paulo 1x1 Corinthians | 2º jogo da final | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129984/melhores-momentos-sao-paulo-1x1-corinthians-2-jogo-da-final-campeonato-brasileiro-2026",
-      "time": "04/10 · 00:27",
-      "pubDate": "Sat, 03 Oct 2026 21:27:20 -0300"
+      "title": "Corinthians define data para retorno de atletas convocados para Seleção; Carrillo é desfalque",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541331/corinthians-define-data-para-retorno-de-atletas-convocados-para-selecao-carrillo-e-desfalque",
+      "time": "04/10 · 13:54",
+      "pubDate": "Sun, 04 Oct 2026 10:54:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians já tem trio da Ponte Preta treinando, mas ainda espera fim do transfer ban",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-tem-trio-da-ponte-preta-treinando-mas-ainda-espera-fim-do-transfer-ban]]>",
+      "time": "04/10 · 12:49",
+      "pubDate": "Sun, 04 Oct 2026 09:49:02 -0300"
     },
     {
       "source": "Bolavip",
@@ -81,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/fatal-fans-se-defende-apos-suspensao-no-corinthians-e-explica-proximos-passos-na-justica]]>",
       "time": "03/10 · 23:48",
       "pubDate": "Sat, 03 Oct 2026 20:48:56 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians já tem trio da Ponte Preta treinando, mas ainda espera fim do transfer ban",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-tem-trio-da-ponte-preta-treinando-mas-ainda-espera-fim-do-transfer-ban]]>",
-      "time": "03/10 · 22:59",
-      "pubDate": "Sat, 03 Oct 2026 19:59:20 -0300"
     },
     {
       "source": "Bolavip",
@@ -228,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129982/brasileirao-feminino-2026-tamires-fala-sobre-a-perda-do-titulo-pelo-corinthians",
       "pubDate": "Sat, 03 Oct 2026 21:09:17 -0300",
       "date": "04/10 · 00:09"
-    },
-    {
-      "title": "Lateral do Corinthians participa de gol em vitória da Seleção Brasileira; meia ganha minutos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541268/lateral-do-corinthians-participa-de-gol-em-vitoria-da-selecao-brasileira-meia-ganha-minutos",
-      "pubDate": "Sat, 03 Oct 2026 13:02:00 -0300",
-      "date": "03/10 · 16:02"
-    },
-    {
-      "title": "Corinthians goleia o Sfera e larga com vantagem nas quartas de final do Paulista Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541262/corinthians-goleia-o-sfera-e-larga-com-vantagem-nas-quartas-de-final-do-paulista-feminino-sub-17",
-      "pubDate": "Sat, 03 Oct 2026 11:50:00 -0300",
-      "date": "03/10 · 14:50"
     }
   ]
 };
