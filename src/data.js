@@ -1,102 +1,110 @@
-// Gerado automaticamente em 04/10/2026, 00:10:29
+// Gerado automaticamente em 04/10/2026, 13:31:55
 const LIVE_DATA = {
-  "updatedAt": "2026-10-04T00:10:29.992Z",
+  "updatedAt": "2026-10-04T13:31:55.075Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Gabi Zanotti lamenta pênalti perdido em final e pede desculpas à torcida do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/abi-zanotti-penalti-corinthians-final-brasileirao-feminino/",
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante retorna aos gramados pelo Peru após lesão muscular no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541066/volante-retorna-aos-gramados-pelo-peru-apos-lesao-muscular-no-corinthians",
+      "time": "04/10 · 12:13",
+      "pubDate": "Sun, 04 Oct 2026 09:13:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Perito aponta possível cobrança indevida de quase R$ 50 milhões em multa da Caixa ao Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541272/perito-aponta-possivel-cobranca-indevida-de-quase-r-50-milhoes-em-multa-da-caixa-ao-corinthians",
+      "time": "04/10 · 11:30",
+      "pubDate": "Sun, 04 Oct 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: vice no Brasileiro Feminino, dupla na Seleção e nova lesão de zagueira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541308/ultimas-do-corinthians-vice-no-brasileiro-feminino-dupla-na-selecao-e-nova-lesao-de-zagueira",
+      "time": "04/10 · 10:30",
+      "pubDate": "Sun, 04 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Corinthians perde Brasileirão Feminino 2026: Emily Lima analisa derrota",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129990/corinthians-perde-brasileirao-feminino-2026-emily-lima-analisa-derrota",
+      "time": "04/10 · 02:05",
+      "pubDate": "Sat, 03 Oct 2026 23:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnica do Corinthians lamenta vice do Brasileirão Feminino e admite baixo aproveitamento ofensivo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541312/tecnica-do-corinthians-lamenta-vice-do-brasileirao-feminino-e-admite-baixo-aproveitamento-ofensivo",
+      "time": "04/10 · 01:22",
+      "pubDate": "Sat, 03 Oct 2026 22:22:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Duda Sampaio desabafa após perda do título do Brasileirão Feminino 2026 pelo Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129988/duda-sampaio-desabafa-apos-perda-do-titulo-do-brasileirao-feminino-2026-pelo-corinthians",
+      "time": "04/10 · 01:06",
+      "pubDate": "Sat, 03 Oct 2026 22:06:16 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lingard tenta retomar espaço no Corinthians em reta final de contrato",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541266/lingard-tenta-retomar-espaco-no-corinthians-em-reta-final-de-contrato",
+      "time": "04/10 · 00:32",
+      "pubDate": "Sat, 03 Oct 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Melhores momentos: São Paulo 1x1 Corinthians | 2º jogo da final | Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129984/melhores-momentos-sao-paulo-1x1-corinthians-2-jogo-da-final-campeonato-brasileiro-2026",
+      "time": "04/10 · 00:27",
+      "pubDate": "Sat, 03 Oct 2026 21:27:20 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fernando Diniz deve mudar e colocar Yuri Alberto na vaga de Kaio César como titular do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-deve-mudar-e-colocar-yuri-alberto-na-vaga-de-kaio-cesar-como-titular-do-corinthians]]>",
       "time": "03/10 · 23:49",
-      "pubDate": "Sat, 03 Oct 2026 23:49:51 +0000"
+      "pubDate": "Sat, 03 Oct 2026 20:49:11 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba como comprar ingressos como visitante para jogo do Corinthians contra o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541271/saiba-como-comprar-ingressos-como-visitante-para-jogo-do-corinthians-contra-o-internacional",
-      "time": "03/10 · 23:31",
-      "pubDate": "Sat, 03 Oct 2026 20:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Fatal Fans se defende após suspensão no Corinthians e explica próximos passos na Justiça",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/fatal-fans-se-defende-apos-suspensao-no-corinthians-e-explica-proximos-passos-na-justica]]>",
+      "time": "03/10 · 23:48",
+      "pubDate": "Sat, 03 Oct 2026 20:48:56 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians amplia sequência negativa e chega a quatro vices seguidos no futebol feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541296/corinthians-amplia-sequencia-negativa-e-chega-a-quatro-vices-seguidos-no-futebol-feminino",
-      "time": "03/10 · 23:13",
-      "pubDate": "Sat, 03 Oct 2026 20:13:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians já tem trio da Ponte Preta treinando, mas ainda espera fim do transfer ban",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-tem-trio-da-ponte-preta-treinando-mas-ainda-espera-fim-do-transfer-ban]]>",
+      "time": "03/10 · 22:59",
+      "pubDate": "Sat, 03 Oct 2026 19:59:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ala do Corinthians agradece apoio da torcida e projeta clássico pelas quartas da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541301/ala-do-corinthians-agradece-apoio-da-torcida-e-projeta-classico-pelas-quartas-da-lnf",
-      "time": "03/10 · 22:51",
-      "pubDate": "Sat, 03 Oct 2026 19:51:14 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Breno Bidon retorna da Seleção com avaliação positiva e expectativa alta no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/breno-bidon-retorna-da-selecao-com-avaliacao-positiva-e-expectativa-alta-no-corinthians]]>",
+      "time": "03/10 · 22:49",
+      "pubDate": "Sat, 03 Oct 2026 19:49:48 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians lamenta vice no Brasileirão mas pede reação na Libertadores: 'cabeça erguida'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541299/volante-do-corinthians-lamenta-vice-no-brasileirao-mas-pede-reacao-na-libertadores-cabeca-erguida",
-      "time": "03/10 · 22:44",
-      "pubDate": "Sat, 03 Oct 2026 19:44:18 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece adversário das quartas de final da Liga Nacional de Futsal; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541295/corinthians-conhece-adversario-das-quartas-de-final-da-liga-nacional-de-futsal-confira",
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Internacional x Corinthians: histórico mostra equilíbrio antes do duelo pelo Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/internacional-x-corinthians-historico-mostra-equilibrio-antes-do-duelo-pelo-brasileirao]]>",
       "time": "03/10 · 22:22",
-      "pubDate": "Sat, 03 Oct 2026 19:22:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians garante premiação milionária com o vice-campeonato do Brasileirão Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541298/corinthians-garante-premiacao-milionaria-com-o-vice-campeonato-do-brasileirao-feminino",
-      "time": "03/10 · 22:18",
-      "pubDate": "Sat, 03 Oct 2026 19:18:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Duda Sampaio lamenta vice do Corinthians, mas valoriza público recorde: &#8220;Gratificante&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/duda-sampaio-corinthians-vice-publico-recorde-brasileirao-feminino/",
-      "time": "03/10 · 22:09",
-      "pubDate": "Sat, 03 Oct 2026 22:09:38 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence o Pato Futsal fora de casa e garante vaga às quartas de final da LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541286/corinthians-vence-o-pato-futsal-fora-de-casa-e-garante-vaga-as-quartas-de-final-da-lnf",
-      "time": "03/10 · 21:51",
-      "pubDate": "Sat, 03 Oct 2026 18:51:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Goleira pega pênalti, e São Paulo quebra hegemonia do Corinthians no Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-corinthians-feminino-final-brasileirao-2026/",
-      "time": "03/10 · 21:34",
-      "pubDate": "Sat, 03 Oct 2026 21:34:05 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca empate, perde pênalti e fica com o vice do Brasileirão Feminino para o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541239/corinthians-busca-empate-perde-penalti-e-fica-com-o-vice-do-brasileirao-feminino-para-o-sao-paulo",
-      "time": "03/10 · 21:34",
-      "pubDate": "Sat, 03 Oct 2026 18:34:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo x Corinthians: veja fotos da final do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-corinthians-fotos-final-brasileirao-feminino/",
-      "time": "03/10 · 21:30",
-      "pubDate": "Sat, 03 Oct 2026 21:30:55 +0000"
+      "pubDate": "Sat, 03 Oct 2026 19:22:11 -0300"
     },
     {
       "source": "Bolavip",
@@ -105,54 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-parar-de-adiar-decisao-sobre-matheus-bidu]]>",
       "time": "03/10 · 19:56",
       "pubDate": "Sat, 03 Oct 2026 16:56:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians já tem trio da Ponte Preta treinando, mas ainda espera fim do transfer ban",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-tem-trio-da-ponte-preta-treinando-mas-ainda-espera-fim-do-transfer-ban]]>",
-      "time": "03/10 · 19:34",
-      "pubDate": "Sat, 03 Oct 2026 16:34:12 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fatal Fans se defende após suspensão no Corinthians e explica próximos passos na Justiça",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fatal-fans-se-defende-apos-suspensao-no-corinthians-e-explica-proximos-passos-na-justica]]>",
-      "time": "03/10 · 18:56",
-      "pubDate": "Sat, 03 Oct 2026 15:56:05 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo repete time, e Corinthians terá Jhonson na decisão do Brasileiro; veja escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/escalacoes-sao-paulo-corinthians-final-brasileiro-feminino-2026/",
-      "time": "03/10 · 18:32",
-      "pubDate": "Sat, 03 Oct 2026 18:32:34 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ônibus do Corinthians chega ao Morumbis para final do Brasileiro feminino sob vaias",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/onibus-do-corinthians-chega-ao-morumbis-para-final-do-brasileiro-feminino-sob-vaias/",
-      "time": "03/10 · 18:32",
-      "pubDate": "Sat, 03 Oct 2026 18:32:05 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diniz comanda treino tático, e Corinthians avança em preparação para pegar o Inter",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/treino-corinthians-diniz-internacional-brasileirao/",
-      "time": "03/10 · 18:24",
-      "pubDate": "Sat, 03 Oct 2026 18:24:24 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Paulinho, ex-Corinthians, se despede do Mirassol e deve assumir cargo no Cruzeiro",
-      "url": "https://www.gazetaesportiva.com/times/mirassol/paulinho-se-despede-do-mirassol-e-fica-proximo-de-acerto-com-o-cruzeiro/",
-      "time": "03/10 · 18:17",
-      "pubDate": "Sat, 03 Oct 2026 18:17:57 +0000"
     },
     {
       "source": "Bolavip",
@@ -171,34 +131,104 @@ const LIVE_DATA = {
       "pubDate": "Sat, 03 Oct 2026 11:47:00 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fernando Diniz deve mudar e colocar Yuri Alberto na vaga de Kaio César como titular do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fernando-diniz-deve-mudar-e-colocar-yuri-alberto-na-vaga-de-kaio-cesar-como-titular-do-corinthians]]>",
-      "time": "03/10 · 14:46",
-      "pubDate": "Sat, 03 Oct 2026 11:46:52 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Corinthians tem aproveitamento de apenas 39,6% com árbitro Felipe Fernandes de Lima",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-tem-aproveitamento-de-apenas-396-com-arbitro-felipe-fernandes-de-lima-no-apito]]>",
-      "time": "03/10 · 12:05",
-      "pubDate": "Sat, 03 Oct 2026 09:05:36 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: LivePorTi debate saída de Cássio e lembra carinho da torcida do Corinthians: “Torcida ainda ama”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-debate-saida-de-cassio-e-lembra-carinho-da-torcida-do-corinthians-torcida-ainda-ama]]>",
-      "time": "03/10 · 01:27",
-      "pubDate": "Fri, 02 Oct 2026 22:27:45 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Corinthians perde Brasileirão Feminino 2026: Emily Lima analisa derrota",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129990/corinthians-perde-brasileirao-feminino-2026-emily-lima-analisa-derrota",
+      "pubDate": "Sat, 03 Oct 2026 23:05:00 -0300",
+      "date": "04/10 · 02:05"
+    },
+    {
+      "title": "VÍDEO: Duda Sampaio desabafa após perda do título do Brasileirão Feminino 2026 pelo Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129988/duda-sampaio-desabafa-apos-perda-do-titulo-do-brasileirao-feminino-2026-pelo-corinthians",
+      "pubDate": "Sat, 03 Oct 2026 22:06:16 -0300",
+      "date": "04/10 · 01:06"
+    },
+    {
+      "title": "VÍDEO: Gabi Zanotti fala sobre o pênalti perdido pelo Corinthhians na final do Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129985/gabi-zanotti-fala-sobre-o-penalti-perdido-pelo-corinthhians-na-final-do-brasileirao-2026",
+      "pubDate": "Sat, 03 Oct 2026 21:47:44 -0300",
+      "date": "04/10 · 00:47"
+    },
+    {
+      "title": "VÍDEO: Melhores momentos: São Paulo 1x1 Corinthians | 2º jogo da final | Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129984/melhores-momentos-sao-paulo-1x1-corinthians-2-jogo-da-final-campeonato-brasileiro-2026",
+      "pubDate": "Sat, 03 Oct 2026 21:27:20 -0300",
+      "date": "04/10 · 00:27"
+    },
+    {
+      "title": "VÍDEO: Brasileirão Feminino 2026: Tamires fala sobre a perda do título pelo Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/129982/brasileirao-feminino-2026-tamires-fala-sobre-a-perda-do-titulo-pelo-corinthians",
+      "pubDate": "Sat, 03 Oct 2026 21:09:17 -0300",
+      "date": "04/10 · 00:09"
+    },
     {
       "title": "Lateral do Corinthians participa de gol em vitória da Seleção Brasileira; meia ganha minutos",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541268/lateral-do-corinthians-participa-de-gol-em-vitoria-da-selecao-brasileira-meia-ganha-minutos",
@@ -210,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541262/corinthians-goleia-o-sfera-e-larga-com-vantagem-nas-quartas-de-final-do-paulista-feminino-sub-17",
       "pubDate": "Sat, 03 Oct 2026 11:50:00 -0300",
       "date": "03/10 · 14:50"
-    },
-    {
-      "title": "Saiba onde assistir à final do Brasileiro Feminino entre Corinthians e São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541229/saiba-onde-assistir-a-final-do-brasileiro-feminino-entre-corinthians-e-sao-paulo",
-      "pubDate": "Sat, 03 Oct 2026 08:30:00 -0300",
-      "date": "03/10 · 11:30"
-    },
-    {
-      "title": "Goleiro do Corinthians destaca preparação para terceira fase do Campeonato Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541253/goleiro-do-corinthians-destaca-preparacao-para-terceira-fase-do-campeonato-paulista-sub-17",
-      "pubDate": "Fri, 02 Oct 2026 21:50:00 -0300",
-      "date": "03/10 · 00:50"
     }
   ]
 };
