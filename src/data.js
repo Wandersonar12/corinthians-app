@@ -1,30 +1,94 @@
-// Gerado automaticamente em 05/10/2026, 16:29:15
+// Gerado automaticamente em 05/10/2026, 23:24:44
 const LIVE_DATA = {
-  "updatedAt": "2026-10-05T16:29:15.986Z",
+  "updatedAt": "2026-10-05T23:24:44.093Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueira do Corinthians é cortada da Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541361/zagueira-do-corinthians-e-cortada-da-selecao-brasileira",
-      "time": "05/10 · 15:50",
-      "pubDate": "Mon, 05 Oct 2026 12:50:00 -0300"
+      "title": "Corinthians regulariza vencimentos do elenco feminino antes de viagem para Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541387/corinthians-regulariza-vencimentos-do-elenco-feminino-antes-de-viagem-para-libertadores",
+      "time": "05/10 · 23:16",
+      "pubDate": "Mon, 05 Oct 2026 20:16:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians fica sem vaga na Supercopa Feminina pela primeira vez na história; entenda chance remota",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541351/corinthians-fica-sem-vaga-na-supercopa-feminina-pela-primeira-vez-na-historia-entenda-chance-remota",
-      "time": "05/10 · 15:35",
-      "pubDate": "Mon, 05 Oct 2026 12:35:00 -0300"
+      "title": "Ética do Corinthians marca oitivas sobre contratação de empresas de segurança para Osmar Stabile",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541385/etica-do-corinthians-marca-oitivas-sobre-contratacao-de-empresas-de-seguranca-para-osmar-stabile",
+      "time": "05/10 · 22:43",
+      "pubDate": "Mon, 05 Oct 2026 19:43:12 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Trio do Corinthians é campeão do Sul-Americano Sub-20 de Futsal com a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541343/trio-do-corinthians-e-campeao-do-sul-americano-sub-20-de-futsal-com-a-selecao-brasileira",
-      "time": "05/10 · 14:31",
-      "pubDate": "Mon, 05 Oct 2026 11:31:00 -0300"
+      "title": "Ídolo do Corinthians agradece ex-atacante e destaca parceria na conquista do Brasileiro de 1990",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541371/idolo-do-corinthians-agradece-ex-atacante-e-destaca-parceria-na-conquista-do-brasileiro-de-1990",
+      "time": "05/10 · 22:31",
+      "pubDate": "Mon, 05 Oct 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians possui quatro representantes pela disputa da seleção de setembro da LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541386/corinthians-possui-quatro-representantes-pela-disputa-da-selecao-de-setembro-da-lnf",
+      "time": "05/10 · 22:20",
+      "pubDate": "Mon, 05 Oct 2026 19:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolos e ex-jogadores do Corinthians ficam sem cargos nas eleições de 2026; veja quem concorreu",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541378/idolos-e-ex-jogadores-do-corinthians-ficam-sem-cargos-nas-eleicoes-de-2026-veja-quem-concorreu",
+      "time": "05/10 · 22:00",
+      "pubDate": "Mon, 05 Oct 2026 19:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece datas das quartas da LNF contra o Magnus em busca do tricampeonato",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541384/corinthians-conhece-datas-das-quartas-da-lnf-contra-o-magnus-em-busca-do-tricampeonato",
+      "time": "05/10 · 21:53",
+      "pubDate": "Mon, 05 Oct 2026 18:53:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Ex-Corinthians, Paulinho é o novo coordenador técnico do Cruzeiro",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/ex-corinthians-paulinho-e-o-novo-coordenador-tecnico-do-cruzeiro/",
+      "time": "05/10 · 21:29",
+      "pubDate": "Mon, 05 Oct 2026 21:29:41 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zanotti admite desgaste com crise do Corinthians e espera virada de chave na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541317/zanotti-admite-desgaste-com-crise-do-corinthians-e-espera-virada-de-chave-na-libertadores",
+      "time": "05/10 · 21:28",
+      "pubDate": "Mon, 05 Oct 2026 18:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ídolo do Corinthians é anunciado como diretor de futebol de time da Série A",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541380/idolo-do-corinthians-e-anunciado-como-diretor-de-futebol-de-time-da-serie-a",
+      "time": "05/10 · 21:08",
+      "pubDate": "Mon, 05 Oct 2026 18:08:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do treino do Corinthians nesta segunda-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-segunda-feira-6/",
+      "time": "05/10 · 17:38",
+      "pubDate": "Mon, 05 Oct 2026 17:38:10 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diniz faz testes no time e Corinthians retoma preparação para encarar o Inter",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-faz-testes-no-time-e-corinthians-retoma-preparacao-para-encarar-o-inter/",
+      "time": "05/10 · 17:32",
+      "pubDate": "Mon, 05 Oct 2026 17:32:57 +0000"
     },
     {
       "source": "Gazeta Esportiva",
@@ -43,38 +107,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 05 Oct 2026 13:28:37 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians abre semana pós-Data Fifa com decisão no Beira-Rio, Dérbi e jogos em outras modalidades",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541353/corinthians-tera-semana-marcada-por-derbi-e-por-decisoes-no-futsal-basquete-e-categorias-de-base",
-      "time": "05/10 · 13:28",
-      "pubDate": "Mon, 05 Oct 2026 10:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vive último dia com Esportes da Sorte em uniformes e espaços de divulgação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541349/corinthians-vive-ultimo-dia-com-esportes-da-sorte-em-uniformes-e-espacos-de-divulgacao",
-      "time": "05/10 · 12:35",
-      "pubDate": "Mon, 05 Oct 2026 09:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral defende Emily Lima e garante foco do Corinthians na Libertadores após vice no Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541315/lateral-defende-emily-lima-e-garante-foco-do-corinthians-na-libertadores-apos-vice-no-brasileiro",
-      "time": "05/10 · 11:32",
-      "pubDate": "Mon, 05 Oct 2026 08:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: multa da Caixa, reapresentação de trio da Seleção e jovem elogiado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541341/ultimas-do-corinthians-multa-da-caixa-reapresentacao-de-trio-da-selecao-e-jovem-elogiado",
-      "time": "05/10 · 10:30",
-      "pubDate": "Mon, 05 Oct 2026 07:30:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians volta de data Fifa com semana de duelo com o Inter e Derby",
@@ -89,14 +121,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/todas-as-noticias/neto-lembra-brasileiro-de-1990-com-paulo-sergio-pelo-corinthians/",
       "time": "05/10 · 01:05",
       "pubDate": "Mon, 05 Oct 2026 01:05:55 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Emily Lima analisa fim da 'hegemonia' do Corinthians no Brasileirão e reforça confiança no elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541321/emily-lima-analisa-fim-da-hegemonia-do-corinthians-no-brasileirao-e-reforca-confianca-no-elenco",
-      "time": "05/10 · 01:01",
-      "pubDate": "Sun, 04 Oct 2026 22:01:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -139,36 +163,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 04 Oct 2026 16:10:10 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians planeja retorno de trio da Seleção Brasileira e Carrillo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-planeja-retorno-de-trio-da-selecao-brasileira-e-carrillo/",
-      "time": "04/10 · 18:58",
-      "pubDate": "Sun, 04 Oct 2026 18:58:04 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians já tem trio da Ponte Preta treinando, mas ainda espera fim do transfer ban",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ja-tem-trio-da-ponte-preta-treinando-mas-ainda-espera-fim-do-transfer-ban]]>",
       "time": "04/10 · 12:49",
       "pubDate": "Sun, 04 Oct 2026 09:49:02 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja como foi a data Fifa do trio do Corinthians com a Seleção Brasileira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/trio-corinthians-selecao-brasileira-data-fifa/",
-      "time": "04/10 · 10:00",
-      "pubDate": "Sun, 04 Oct 2026 10:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis e Gabi Zanotti: camisas 10 vivem coincidências amargas em decisões do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-gabi-zanotti-penaltis-corinthians-decisoes/",
-      "time": "04/10 · 09:00",
-      "pubDate": "Sun, 04 Oct 2026 09:00:39 +0000"
     },
     {
       "source": "Bolavip",
@@ -204,12 +204,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541318/duda-sampaio-lamenta-quarto-vice-do-corinthians-e-admite-momento-dificil-no-clube",
       "pubDate": "Sun, 04 Oct 2026 18:32:00 -0300",
       "date": "04/10 · 21:32"
-    },
-    {
-      "title": "VÍDEO: Corinthians perde Brasileirão Feminino 2026: Emily Lima analisa derrota",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129990/corinthians-perde-brasileirao-feminino-2026-emily-lima-analisa-derrota",
-      "pubDate": "Sat, 03 Oct 2026 23:05:00 -0300",
-      "date": "04/10 · 02:05"
     }
   ]
 };
