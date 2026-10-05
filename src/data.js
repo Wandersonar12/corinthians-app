@@ -1,70 +1,118 @@
-// Gerado automaticamente em 05/10/2026, 00:17:12
+// Gerado automaticamente em 05/10/2026, 16:29:15
 const LIVE_DATA = {
-  "updatedAt": "2026-10-05T00:17:12.556Z",
+  "updatedAt": "2026-10-05T16:29:15.986Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zakaria Labyad celebra renovação com o Corinthians e detalha recuperação de lesão no joelho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541338/zakaria-labyad-celebra-renovacao-com-o-corinthians-e-detalha-recuperacao-de-lesao-no-joelho",
-      "time": "05/10 · 00:02",
-      "pubDate": "Sun, 04 Oct 2026 21:02:00 -0300"
+      "title": "Zagueira do Corinthians é cortada da Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541361/zagueira-do-corinthians-e-cortada-da-selecao-brasileira",
+      "time": "05/10 · 15:50",
+      "pubDate": "Mon, 05 Oct 2026 12:50:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gabi Zanotti pede desculpas à torcida do Corinthians por pênalti perdido na final do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541316/gabi-zanotti-pede-desculpas-a-torcida-do-corinthians-por-penalti-perdido-na-final-do-brasileirao",
-      "time": "04/10 · 23:32",
-      "pubDate": "Sun, 04 Oct 2026 20:32:00 -0300"
+      "title": "Corinthians fica sem vaga na Supercopa Feminina pela primeira vez na história; entenda chance remota",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541351/corinthians-fica-sem-vaga-na-supercopa-feminina-pela-primeira-vez-na-historia-entenda-chance-remota",
+      "time": "05/10 · 15:35",
+      "pubDate": "Mon, 05 Oct 2026 12:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians Sub-17 alcança melhor sequência de vitórias em mais de dois anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541328/corinthians-sub-17-alcanca-melhor-sequencia-de-vitorias-em-mais-de-dois-anos",
-      "time": "04/10 · 23:03",
-      "pubDate": "Sun, 04 Oct 2026 20:03:00 -0300"
+      "title": "Trio do Corinthians é campeão do Sul-Americano Sub-20 de Futsal com a Seleção Brasileira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541343/trio-do-corinthians-e-campeao-do-sul-americano-sub-20-de-futsal-com-a-selecao-brasileira",
+      "time": "05/10 · 14:31",
+      "pubDate": "Mon, 05 Oct 2026 11:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Santos e Flamengo lideram returno do Brasileirão; Corinthians é o lanterna",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/santos-dispara-no-segundo-turno-e-tem-campanha-igual-a-do-flamengo/",
+      "time": "05/10 · 14:05",
+      "pubDate": "Mon, 05 Oct 2026 14:05:39 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians é o paulista com maior risco de queda no Brasileirão; veja ranking",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-sao-paulo-santos-risco-rebaixamento/",
+      "time": "05/10 · 13:28",
+      "pubDate": "Mon, 05 Oct 2026 13:28:37 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Quarteto do Corinthians se apresenta à Seleção Brasileira para amistosos contra a Argentina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541336/quarteto-do-corinthians-se-apresenta-a-selecao-brasileira-para-amistosos-contra-a-argentina",
-      "time": "04/10 · 22:34",
-      "pubDate": "Sun, 04 Oct 2026 19:34:00 -0300"
+      "title": "Corinthians abre semana pós-Data Fifa com decisão no Beira-Rio, Dérbi e jogos em outras modalidades",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541353/corinthians-tera-semana-marcada-por-derbi-e-por-decisoes-no-futsal-basquete-e-categorias-de-base",
+      "time": "05/10 · 13:28",
+      "pubDate": "Mon, 05 Oct 2026 10:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral marca pela primeira vez no ano e entra no ranking de artilheiras do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541289/lateral-marca-pela-primeira-vez-no-ano-e-entra-no-ranking-de-artilheiras-do-corinthians-em-2026",
-      "time": "04/10 · 22:29",
-      "pubDate": "Sun, 04 Oct 2026 19:29:00 -0300"
+      "title": "Corinthians vive último dia com Esportes da Sorte em uniformes e espaços de divulgação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541349/corinthians-vive-ultimo-dia-com-esportes-da-sorte-em-uniformes-e-espacos-de-divulgacao",
+      "time": "05/10 · 12:35",
+      "pubDate": "Mon, 05 Oct 2026 09:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ancelotti cita atuação de volante do Corinthians após estreia pela Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541292/ancelotti-cita-atuacao-de-volante-do-corinthians-apos-estreia-pela-selecao-brasileira",
-      "time": "04/10 · 22:01",
-      "pubDate": "Sun, 04 Oct 2026 19:01:00 -0300"
+      "title": "Lateral defende Emily Lima e garante foco do Corinthians na Libertadores após vice no Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541315/lateral-defende-emily-lima-e-garante-foco-do-corinthians-na-libertadores-apos-vice-no-brasileiro",
+      "time": "05/10 · 11:32",
+      "pubDate": "Mon, 05 Oct 2026 08:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Duda Sampaio lamenta quarto vice do Corinthians e admite momento difícil no clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541318/duda-sampaio-lamenta-quarto-vice-do-corinthians-e-admite-momento-dificil-no-clube",
-      "time": "04/10 · 21:32",
-      "pubDate": "Sun, 04 Oct 2026 18:32:00 -0300"
+      "title": "Últimas do Corinthians: multa da Caixa, reapresentação de trio da Seleção e jovem elogiado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541341/ultimas-do-corinthians-multa-da-caixa-reapresentacao-de-trio-da-selecao-e-jovem-elogiado",
+      "time": "05/10 · 10:30",
+      "pubDate": "Mon, 05 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians volta de data Fifa com semana de duelo com o Inter e Derby",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-enfrenta-inter-e-palmeiras-em-semana-decisiva/",
+      "time": "05/10 · 10:00",
+      "pubDate": "Mon, 05 Oct 2026 10:00:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Neto lembra Brasileiro de 1990 com Paulo Sérgio pelo Corinthians",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/neto-lembra-brasileiro-de-1990-com-paulo-sergio-pelo-corinthians/",
+      "time": "05/10 · 01:05",
+      "pubDate": "Mon, 05 Oct 2026 01:05:55 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians celebra chegada ao clube e destaca liderança com jovens atletas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541219/ala-do-corinthians-celebra-chegada-ao-clube-e-destaca-lideranca-com-jovens-atletas",
-      "time": "04/10 · 21:05",
-      "pubDate": "Sun, 04 Oct 2026 18:05:00 -0300"
+      "title": "Emily Lima analisa fim da 'hegemonia' do Corinthians no Brasileirão e reforça confiança no elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541321/emily-lima-analisa-fim-da-hegemonia-do-corinthians-no-brasileirao-e-reforca-confianca-no-elenco",
+      "time": "05/10 · 01:01",
+      "pubDate": "Sun, 04 Oct 2026 22:01:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Lesionado, Labyad fala sobre recuperação e renovação com o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/zakaria-labyad-recuperacao-lesao-renovacao-corinthians/",
+      "time": "05/10 · 00:32",
+      "pubDate": "Mon, 05 Oct 2026 00:32:46 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Labyad revela bastidores de recuperação e agradece confiança recebida no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/labyad-revela-bastidores-de-recuperacao-e-agradece-confianca-recebida-no-corinthians]]>",
+      "time": "04/10 · 22:49",
+      "pubDate": "Sun, 04 Oct 2026 19:49:55 -0300"
     },
     {
       "source": "Bolavip",
@@ -123,22 +171,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 04 Oct 2026 09:00:39 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Gabi Zanotti lamenta pênalti perdido em final e pede desculpas à torcida do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/abi-zanotti-penalti-corinthians-final-brasileirao-feminino/",
-      "time": "03/10 · 23:49",
-      "pubDate": "Sat, 03 Oct 2026 23:49:51 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Fatal Fans se defende após suspensão no Corinthians e explica próximos passos na Justiça",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/fatal-fans-se-defende-apos-suspensao-no-corinthians-e-explica-proximos-passos-na-justica]]>",
-      "time": "03/10 · 23:48",
-      "pubDate": "Sat, 03 Oct 2026 20:48:56 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Breno Bidon retorna da Seleção com avaliação positiva e expectativa alta no Corinthians",
@@ -155,44 +187,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 03 Oct 2026 19:22:11 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Duda Sampaio lamenta vice do Corinthians, mas valoriza público recorde: &#8220;Gratificante&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/duda-sampaio-corinthians-vice-publico-recorde-brasileirao-feminino/",
-      "time": "03/10 · 22:09",
-      "pubDate": "Sat, 03 Oct 2026 22:09:38 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Goleira pega pênalti, e São Paulo quebra hegemonia do Corinthians no Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-corinthians-feminino-final-brasileirao-2026/",
-      "time": "03/10 · 21:34",
-      "pubDate": "Sat, 03 Oct 2026 21:34:05 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo x Corinthians: veja fotos da final do Brasileirão feminino",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-corinthians-fotos-final-brasileirao-feminino/",
-      "time": "03/10 · 21:30",
-      "pubDate": "Sat, 03 Oct 2026 21:30:55 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Corinthians precisa parar de adiar decisão sobre Matheus Bidu",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-precisa-parar-de-adiar-decisao-sobre-matheus-bidu]]>",
       "time": "03/10 · 19:56",
       "pubDate": "Sat, 03 Oct 2026 16:56:09 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo repete time, e Corinthians terá Jhonson na decisão do Brasileiro; veja escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/escalacoes-sao-paulo-corinthians-final-brasileiro-feminino-2026/",
-      "time": "03/10 · 18:32",
-      "pubDate": "Sat, 03 Oct 2026 18:32:34 +0000"
     }
   ],
   "upcoming": [],
@@ -210,30 +210,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/129990/corinthians-perde-brasileirao-feminino-2026-emily-lima-analisa-derrota",
       "pubDate": "Sat, 03 Oct 2026 23:05:00 -0300",
       "date": "04/10 · 02:05"
-    },
-    {
-      "title": "VÍDEO: Duda Sampaio desabafa após perda do título do Brasileirão Feminino 2026 pelo Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129988/duda-sampaio-desabafa-apos-perda-do-titulo-do-brasileirao-feminino-2026-pelo-corinthians",
-      "pubDate": "Sat, 03 Oct 2026 22:06:16 -0300",
-      "date": "04/10 · 01:06"
-    },
-    {
-      "title": "VÍDEO: Gabi Zanotti fala sobre o pênalti perdido pelo Corinthhians na final do Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129985/gabi-zanotti-fala-sobre-o-penalti-perdido-pelo-corinthhians-na-final-do-brasileirao-2026",
-      "pubDate": "Sat, 03 Oct 2026 21:47:44 -0300",
-      "date": "04/10 · 00:47"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: São Paulo 1x1 Corinthians | 2º jogo da final | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129984/melhores-momentos-sao-paulo-1x1-corinthians-2-jogo-da-final-campeonato-brasileiro-2026",
-      "pubDate": "Sat, 03 Oct 2026 21:27:20 -0300",
-      "date": "04/10 · 00:27"
-    },
-    {
-      "title": "VÍDEO: Brasileirão Feminino 2026: Tamires fala sobre a perda do título pelo Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/129982/brasileirao-feminino-2026-tamires-fala-sobre-a-perda-do-titulo-pelo-corinthians",
-      "pubDate": "Sat, 03 Oct 2026 21:09:17 -0300",
-      "date": "04/10 · 00:09"
     }
   ]
 };
