@@ -1,102 +1,102 @@
-// Gerado automaticamente em 07/10/2026, 22:20:40
+// Gerado automaticamente em 08/10/2026, 14:59:57
 const LIVE_DATA = {
-  "updatedAt": "2026-10-07T22:20:40.171Z",
+  "updatedAt": "2026-10-08T14:59:57.078Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Internacional x Corinthians: siga os lances do jogo pelo Brasileirão em tempo real",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-corinthians-brasileirao-07-10-2026/",
-      "time": "07/10 · 22:15",
-      "pubDate": "Wed, 07 Oct 2026 22:15:55 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Patrocinador confirma permanência no uniforme do Corinthians até o fim da temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541594/patrocinadora-confirma-permanencia-no-uniforme-do-corinthians-ate-o-fim-da-temporada",
+      "time": "08/10 · 14:45",
+      "pubDate": "Thu, 08 Oct 2026 11:45:25 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians destrava valores bloqueados com a Caixa para quitar pendências salariais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541509/corinthians-destrava-valores-bloqueados-com-a-caixa-para-quitar-pendencias-salariais",
-      "time": "07/10 · 22:11",
-      "pubDate": "Wed, 07 Oct 2026 19:11:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá mudança tática e volta de Yuri Alberto contra o Inter; veja escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-escalacao-internacional-yuri-alberto/",
-      "time": "07/10 · 21:33",
-      "pubDate": "Wed, 07 Oct 2026 21:33:01 +0000"
+      "title": "Corinthians busca reverter retrospecto negativo contra o Magnus na década para avançar na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541494/corinthians-busca-reverter-retrospecto-negativo-contra-o-magnus-na-decada-para-avancar-na-lnf",
+      "time": "08/10 · 14:32",
+      "pubDate": "Thu, 08 Oct 2026 11:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians confirma escalação com duas mudanças para jogo contra o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541473/corinthians-confirma-escalacao-com-duas-mudancas-para-jogo-contra-o-internacional",
-      "time": "07/10 · 21:30",
-      "pubDate": "Wed, 07 Oct 2026 18:30:00 -0300"
+      "title": "Corinthians vê chance de rebaixamento no Brasileirão subir após derrota para o Internacional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541587/corinthians-ve-chance-de-rebaixamento-no-brasileirao-subir-apos-derrota-para-o-internacional",
+      "time": "08/10 · 13:31",
+      "pubDate": "Thu, 08 Oct 2026 10:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians faz primeiro treinamento após vice no Brasileiro de olho na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541500/corinthians-faz-primeiro-treinamento-apos-vice-no-brasileiro-de-olho-na-libertadores-feminina",
-      "time": "07/10 · 21:15",
-      "pubDate": "Wed, 07 Oct 2026 18:15:00 -0300"
+      "title": "Corinthians mantém auxiliar técnico após demitir comissão de Fernando Diniz",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541561/corinthians-mantem-auxiliar-tecnico-apos-demitir-comissao-de-fernando-diniz",
+      "time": "08/10 · 12:32",
+      "pubDate": "Thu, 08 Oct 2026 09:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Conheça o Jota.ai, o patrocinador que estará na camisa do Corinthians nesta quarta-feira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541496/conheca-o-jotaai-o-patrocinador-que-estara-na-camisa-do-corinthians-nesta-quarta-feira",
-      "time": "07/10 · 21:01",
-      "pubDate": "Wed, 07 Oct 2026 18:01:00 -0300"
+      "title": "Corinthians goleia Taubaté fora de casa e abre vantagem nas oitavas do Paulista Sub-20 de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541582/corinthians-goleia-taubate-fora-de-casa-e-abre-vantagem-nas-oitavas-do-paulista-sub-20-de-futsal",
+      "time": "08/10 · 11:37",
+      "pubDate": "Thu, 08 Oct 2026 08:37:06 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico estreante e momento delicado: como chega o Internacional para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541475/tecnico-estreante-e-momento-delicado-como-chega-o-internacional-para-enfrentar-o-corinthians",
-      "time": "07/10 · 20:31",
-      "pubDate": "Wed, 07 Oct 2026 17:31:00 -0300"
+      "title": "Fernando Diniz é demitido com o segundo pior aproveitamento entre técnicos do Corinthians na década",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541539/fernando-diniz-e-demitido-com-o-segundo-pior-aproveitamento-entre-tecnicos-do-corinthians-na-decada",
+      "time": "08/10 · 11:30",
+      "pubDate": "Thu, 08 Oct 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto prepara retorno ao Corinthians diante de uma das maiores vítimas pelo clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541438/yuri-alberto-prepara-retorno-ao-corinthians-diante-de-uma-das-maiores-vitimas-pelo-clube",
-      "time": "07/10 · 20:00",
-      "pubDate": "Wed, 07 Oct 2026 17:00:00 -0300"
+      "title": "Últimas do Corinthians: Diniz demitido, dupla antiga no radar e derrota no Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541562/ultimas-do-corinthians-diniz-demitido-dupla-antiga-no-radar-e-derrota-no-brasileiro",
+      "time": "08/10 · 10:30",
+      "pubDate": "Thu, 08 Oct 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians reencontra algoz da Copa do Brasil em momento oposto no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541442/corinthians-reencontra-algoz-da-copa-do-brasil-em-momento-oposto-no-brasileirao",
-      "time": "07/10 · 19:32",
-      "pubDate": "Wed, 07 Oct 2026 16:32:00 -0300"
+      "title": "Quem deve ser o novo treinador do Corinthians? Vote na enquete do Meu Timão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541564/quem-deve-ser-o-novo-treinador-do-corinthians-vote-na-enquete-do-meu-timao",
+      "time": "08/10 · 03:04",
+      "pubDate": "Thu, 08 Oct 2026 00:04:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians anuncia novo patrocinador máster para duelo contra o Inter; confira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-novo-patrocinador-master-jota-ai-internacional/",
-      "time": "07/10 · 19:14",
-      "pubDate": "Wed, 07 Oct 2026 19:14:45 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians tem obrigação de estar na Sul-Americana de 2027 e amenizar temporada vergonhosa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-obrigacao-de-estar-na-sul-americana-de-2027-e-amenizar-temporada-vergonhosa]]>",
+      "time": "07/10 · 20:34",
+      "pubDate": "Wed, 07 Oct 2026 17:34:48 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba quanto o Corinthians vai receber por novo patrocínio máster pontual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541489/saiba-quanto-o-corinthians-vai-receber-por-novo-patrocinio-master-pontual",
-      "time": "07/10 · 19:01",
-      "pubDate": "Wed, 07 Oct 2026 16:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Startup de inteligência artificial assume o patrocínio máster do Corinthians contra o Internacional",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/agente-de-inteligencia-artificial-assume-o-patrocinio-master-do-corinthians-contra-o-internacional]]>",
+      "time": "07/10 · 19:09",
+      "pubDate": "Wed, 07 Oct 2026 16:09:19 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians topa negociar Rodrigo Garro apenas com oferta irrecusável e acredita na recuperação em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-topa-negociar-rodrigo-garro-apenas-com-oferta-irrecusavel-e-acredita-na-recuperacao-em-2027]]>",
+      "time": "07/10 · 18:12",
+      "pubDate": "Wed, 07 Oct 2026 15:12:50 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians planeja manter Matheus Bidu em 2027 após saídas encaminhadas de Angileri e Hugo Farias",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-manter-matheus-bidu-em-2027-apos-saidas-encaminhadas-de-angileri-e-hugo-farias]]>",
-      "time": "07/10 · 14:10",
-      "pubDate": "Wed, 07 Oct 2026 11:10:11 -0300"
+      "time": "07/10 · 16:55",
+      "pubDate": "Wed, 07 Oct 2026 13:55:50 -0300"
     },
     {
       "source": "Bolavip",
@@ -109,26 +109,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians ainda tenta liberação para entrar com Esportes da Sorte diante do Inter",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-ainda-tenta-liberacao-para-entrar-com-esportes-da-sorte-diante-do-inter]]>",
-      "time": "07/10 · 11:37",
-      "pubDate": "Wed, 07 Oct 2026 08:37:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians deve mudar ataque contra o Internacional e André pode perder vaga",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deve-mudar-ataque-contra-o-internacional-e-andre-pode-perder-vaga]]>",
       "time": "07/10 · 11:37",
       "pubDate": "Wed, 07 Oct 2026 08:37:24 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Em jejum no Beira-Rio, Corinthians tenta evitar série inédita na era dos pontos corridos",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-jejum-beira-rio-sequencia-derrotas-brasileirao/",
-      "time": "07/10 · 10:00",
-      "pubDate": "Wed, 07 Oct 2026 10:00:29 +0000"
     },
     {
       "source": "Bolavip",
@@ -139,38 +123,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 06 Oct 2026 21:56:50 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Yuri Alberto projeta volta ao Corinthians e brinca sobre possível “lei do ex”",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-projeta-volta-ao-corinthians-e-brinca-sobre-possivel-lei-do-ex/",
-      "time": "06/10 · 23:56",
-      "pubDate": "Tue, 06 Oct 2026 23:56:16 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Internacional x Corinthians pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-x-corinthians-onde-assistir-brasileirao/",
-      "time": "06/10 · 23:00",
-      "pubDate": "Tue, 06 Oct 2026 23:00:37 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Flamengo x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/flamengo-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-17/",
-      "time": "06/10 · 23:00",
-      "pubDate": "Tue, 06 Oct 2026 23:00:01 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Yuri Alberto, Corinthians chega a Porto Alegre para pegar o Inter",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-yuri-alberto-corinthians-chega-a-porto-alegre-para-pegar-o-inter/",
-      "time": "06/10 · 22:17",
-      "pubDate": "Tue, 06 Oct 2026 22:17:00 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Yuri Alberto revela ansiedade antes de retorno ao Corinthians e mira ‘Lei do Ex’",
@@ -179,20 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Tue, 06 Oct 2026 18:40:46 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians tenta se salvar contra o Inter sem comprometer o Dérbi",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tenta-se-salvar-contra-o-inter-sem-comprometer-o-derbi]]>",
-      "time": "06/10 · 18:53",
-      "pubDate": "Tue, 06 Oct 2026 15:53:01 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Números justificam críticas pesadas feitas por Craque Neto aos jogadores do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-numeros-justificam-criticas-pesadas-feitas-por-craque-neto-aos-jogadores-do-corinthians]]>",
-      "time": "06/10 · 18:12",
-      "pubDate": "Tue, 06 Oct 2026 15:12:19 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,28 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Técnico estreante e momento delicado: como chega o Internacional para enfrentar o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541475/tecnico-estreante-e-momento-delicado-como-chega-o-internacional-para-enfrentar-o-corinthians",
-      "pubDate": "Wed, 07 Oct 2026 17:31:00 -0300",
-      "date": "07/10 · 20:31"
+      "title": "Corinthians goleia Taubaté fora de casa e abre vantagem nas oitavas do Paulista Sub-20 de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541582/corinthians-goleia-taubate-fora-de-casa-e-abre-vantagem-nas-oitavas-do-paulista-sub-20-de-futsal",
+      "pubDate": "Thu, 08 Oct 2026 08:37:06 -0300",
+      "date": "08/10 · 11:37"
     },
     {
-      "title": "Corinthians reencontra algoz da Copa do Brasil em momento oposto no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541442/corinthians-reencontra-algoz-da-copa-do-brasil-em-momento-oposto-no-brasileirao",
-      "pubDate": "Wed, 07 Oct 2026 16:32:00 -0300",
-      "date": "07/10 · 19:32"
+      "title": "VÍDEO: Oficial: Fernando Diniz é demitido do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130039/oficial-fernando-diniz-e-demitido-do-corinthians",
+      "pubDate": "Wed, 07 Oct 2026 23:33:00 -0300",
+      "date": "08/10 · 02:33"
     },
     {
-      "title": "Saiba onde assistir à partida entre Corinthians e Internacional pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541439/saiba-onde-assistir-a-partida-entre-corinthians-e-internacional-pelo-brasileirao",
-      "pubDate": "Wed, 07 Oct 2026 08:30:00 -0300",
-      "date": "07/10 · 11:30"
+      "title": "VÍDEO: Corinthians demite o técnico Fernando Diniz após derrota para o Internacional",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130036/corinthians-demite-o-tecnico-fernando-diniz-apos-derrota-para-o-internacional",
+      "pubDate": "Wed, 07 Oct 2026 22:59:41 -0300",
+      "date": "08/10 · 01:59"
     },
     {
-      "title": "VÍDEO: Desembarque do Corinthians em Porto Alegre para confronto com o Internacional no Brasileirão",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130016/desembarque-do-corinthians-em-porto-alegre-para-confronto-com-o-internacional-no-brasileirao",
-      "pubDate": "Tue, 06 Oct 2026 19:06:06 -0300",
-      "date": "06/10 · 22:06"
+      "title": "Zagueiro do Corinthians lamenta gols perdidos em derrota e reforça treinamentos na Data Fifa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541533/zagueiro-do-corinthians-lamenta-gols-perdidos-em-derrota-e-reforca-treinamentos-na-data-fifa",
+      "pubDate": "Wed, 07 Oct 2026 22:01:00 -0300",
+      "date": "08/10 · 01:01"
+    },
+    {
+      "title": "VÍDEO: Melhores Momentos: Internacional 2x1 Corinthians | 29ª rodada | Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130035/melhores-momentos-internacional-2x1-corinthians-29-rodada-campeonato-brasileiro-2026",
+      "pubDate": "Wed, 07 Oct 2026 21:48:12 -0300",
+      "date": "08/10 · 00:48"
+    },
+    {
+      "title": "Gol cedo e trave inimiga: torcida do Corinthians repercute sétima derrota consecutiva no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541501/gol-cedo-e-trave-inimiga-torcida-do-corinthians-repercute-setima-derrota-consecutiva-no-brasileirao",
+      "pubDate": "Wed, 07 Oct 2026 21:46:00 -0300",
+      "date": "08/10 · 00:46"
+    },
+    {
+      "title": "VÍDEO: Garro entrega gol para Internacional em duelo com Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130034/garro-entrega-gol-para-internacional-em-duelo-com-corinthians",
+      "pubDate": "Wed, 07 Oct 2026 21:40:00 -0300",
+      "date": "08/10 · 00:40"
+    },
+    {
+      "title": "VÍDEO: Memphis perde gola na cara no jogo Internacional X Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130033/memphis-perde-gola-na-cara-no-jogo-internacional-x-corinthians",
+      "pubDate": "Wed, 07 Oct 2026 21:37:00 -0300",
+      "date": "08/10 · 00:37"
     }
   ]
 };
