@@ -1,78 +1,118 @@
-// Gerado automaticamente em 08/10/2026, 14:59:57
+// Gerado automaticamente em 08/10/2026, 22:32:41
 const LIVE_DATA = {
-  "updatedAt": "2026-10-08T14:59:57.078Z",
+  "updatedAt": "2026-10-08T22:32:41.712Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Patrocinador confirma permanência no uniforme do Corinthians até o fim da temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541594/patrocinadora-confirma-permanencia-no-uniforme-do-corinthians-ate-o-fim-da-temporada",
-      "time": "08/10 · 14:45",
-      "pubDate": "Thu, 08 Oct 2026 11:45:25 -0300"
+      "title": "Plano A do Corinthians, Ramón Díaz possui suspensão ativa no STJD; entenda o caso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541620/plano-a-do-corinthians-ramon-diaz-possui-suspensao-ativa-no-stjd-entenda-o-caso",
+      "time": "08/10 · 22:15",
+      "pubDate": "Thu, 08 Oct 2026 19:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca reverter retrospecto negativo contra o Magnus na década para avançar na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541494/corinthians-busca-reverter-retrospecto-negativo-contra-o-magnus-na-decada-para-avancar-na-lnf",
-      "time": "08/10 · 14:32",
-      "pubDate": "Thu, 08 Oct 2026 11:32:00 -0300"
+      "title": "Corinthians publica renovação de contrato com artilheiro do Sub-20; saiba mais",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541623/corinthians-publica-renovacao-de-contrato-com-artilheiro-do-sub-20-saiba-mais",
+      "time": "08/10 · 22:02",
+      "pubDate": "Thu, 08 Oct 2026 19:02:16 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vê chance de rebaixamento no Brasileirão subir após derrota para o Internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541587/corinthians-ve-chance-de-rebaixamento-no-brasileirao-subir-apos-derrota-para-o-internacional",
-      "time": "08/10 · 13:31",
-      "pubDate": "Thu, 08 Oct 2026 10:31:00 -0300"
+      "title": "Volante marca contra o Internacional e se aproxima de Yuri na artilharia do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541557/volante-marca-contra-o-internacional-e-se-aproxima-de-yuri-na-artilharia-do-corinthians-em-2026",
+      "time": "08/10 · 21:32",
+      "pubDate": "Thu, 08 Oct 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians mantém auxiliar técnico após demitir comissão de Fernando Diniz",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541561/corinthians-mantem-auxiliar-tecnico-apos-demitir-comissao-de-fernando-diniz",
-      "time": "08/10 · 12:32",
-      "pubDate": "Thu, 08 Oct 2026 09:32:00 -0300"
+      "title": "Fiel aponta argentino como melhor escolha para o comando técnico do Corinthians; veja o resultado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541618/fiel-aponta-argentino-como-melhor-escolha-para-o-comando-tecnico-do-corinthians-veja-o-resultado",
+      "time": "08/10 · 21:04",
+      "pubDate": "Thu, 08 Oct 2026 18:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians goleia Taubaté fora de casa e abre vantagem nas oitavas do Paulista Sub-20 de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541582/corinthians-goleia-taubate-fora-de-casa-e-abre-vantagem-nas-oitavas-do-paulista-sub-20-de-futsal",
-      "time": "08/10 · 11:37",
-      "pubDate": "Thu, 08 Oct 2026 08:37:06 -0300"
+      "title": "Técnica do Sub-20 do Corinthians Feminino celebra bolsa para curso da Uefa",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541498/tecnica-do-sub-20-do-corinthians-feminino-celebra-bolsa-para-curso-da-uefa",
+      "time": "08/10 · 20:36",
+      "pubDate": "Thu, 08 Oct 2026 17:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fernando Diniz é demitido com o segundo pior aproveitamento entre técnicos do Corinthians na década",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541539/fernando-diniz-e-demitido-com-o-segundo-pior-aproveitamento-entre-tecnicos-do-corinthians-na-decada",
-      "time": "08/10 · 11:30",
-      "pubDate": "Thu, 08 Oct 2026 08:30:00 -0300"
+      "title": "Corinthians busca reação na estreia da Liga Sul-Americana para evitar maior jejum desde 2024",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541467/corinthians-busca-reacao-na-estreia-da-liga-sul-americana-para-evitar-maior-jejum-desde-2024",
+      "time": "08/10 · 19:30",
+      "pubDate": "Thu, 08 Oct 2026 16:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: Diniz demitido, dupla antiga no radar e derrota no Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541562/ultimas-do-corinthians-diniz-demitido-dupla-antiga-no-radar-e-derrota-no-brasileiro",
-      "time": "08/10 · 10:30",
-      "pubDate": "Thu, 08 Oct 2026 07:30:00 -0300"
+      "title": "Corinthians realiza atividade física no segundo dia de trabalho visando à Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541612/corinthians-realiza-atividade-fisica-no-segundo-dia-de-trabalho-visando-a-libertadores-feminina",
+      "time": "08/10 · 19:05",
+      "pubDate": "Thu, 08 Oct 2026 16:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Quem deve ser o novo treinador do Corinthians? Vote na enquete do Meu Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541564/quem-deve-ser-o-novo-treinador-do-corinthians-vote-na-enquete-do-meu-timao",
-      "time": "08/10 · 03:04",
-      "pubDate": "Thu, 08 Oct 2026 00:04:00 -0300"
+      "title": "Corinthians renova contrato com artilheiro do Sub-17; veja os detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541611/corinthians-renova-contrato-com-artilheiro-do-sub-17-veja-os-detalhes",
+      "time": "08/10 · 18:52",
+      "pubDate": "Thu, 08 Oct 2026 15:52:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Opinião: Corinthians tem obrigação de estar na Sul-Americana de 2027 e amenizar temporada vergonhosa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-obrigacao-de-estar-na-sul-americana-de-2027-e-amenizar-temporada-vergonhosa]]>",
-      "time": "07/10 · 20:34",
-      "pubDate": "Wed, 07 Oct 2026 17:34:48 -0300"
+      "title": "Corinthians não coloca Carlitos Tévez como opção em lista de possíveis substitutos de Fernando Diniz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-coloca-carlitos-tevez-como-opcao-em-lista-de-possiveis-substitutos-de-fernando-diniz]]>",
+      "time": "08/10 · 14:31",
+      "pubDate": "Thu, 08 Oct 2026 11:31:33 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Corinthians busca substituto de Fernando Diniz e Sylvinho tem números melhores que Ramón Díaz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-busca-substituto-de-fernando-diniz-e-sylvinho-tem-numeros-melhores-que-ramon-diaz]]>",
+      "time": "08/10 · 12:49",
+      "pubDate": "Thu, 08 Oct 2026 09:49:27 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians acerta em demissão de Diniz e demonstra amadorismo ao anunciar após a Data Fifa",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-acerta-em-demissao-de-diniz-e-demonstra-amadorismo-ao-anunciar-apos-a-data-fifa]]>",
+      "time": "08/10 · 12:02",
+      "pubDate": "Thu, 08 Oct 2026 09:02:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians perde para o Internacional e chega à sétima derrota seguida no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-perde-para-o-internacional-e-chega-a-setima-derrota-seguida-no-brasileirao]]>",
+      "time": "08/10 · 01:47",
+      "pubDate": "Wed, 07 Oct 2026 22:47:14 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians demite Fernando Diniz após derrota para o Internacional no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demite-fernando-diniz-apos-derrota-e-sequencia-de-sete-jogos-sem-vencer]]>",
+      "time": "08/10 · 01:37",
+      "pubDate": "Wed, 07 Oct 2026 22:37:04 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: LivePorTi questiona trabalho do Corinthians na Data Fifa após derrota para o Internacional",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-trabalho-do-corinthians-na-data-fifa-apos-derrota-para-o-internacional]]>",
+      "time": "08/10 · 00:58",
+      "pubDate": "Wed, 07 Oct 2026 21:58:49 -0300"
     },
     {
       "source": "Bolavip",
@@ -89,46 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-topa-negociar-rodrigo-garro-apenas-com-oferta-irrecusavel-e-acredita-na-recuperacao-em-2027]]>",
       "time": "07/10 · 18:12",
       "pubDate": "Wed, 07 Oct 2026 15:12:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians planeja manter Matheus Bidu em 2027 após saídas encaminhadas de Angileri e Hugo Farias",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-planeja-manter-matheus-bidu-em-2027-apos-saidas-encaminhadas-de-angileri-e-hugo-farias]]>",
-      "time": "07/10 · 16:55",
-      "pubDate": "Wed, 07 Oct 2026 13:55:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: André Ramalho é desfalque 100% confirmado e Iago Machado vai ganhando espaço no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-andre-ramalho-e-desfalque-100-confirmado-e-iago-machado-vai-ganhando-espaco-no-corinthians]]>",
-      "time": "07/10 · 12:28",
-      "pubDate": "Wed, 07 Oct 2026 09:28:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians deve mudar ataque contra o Internacional e André pode perder vaga",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-deve-mudar-ataque-contra-o-internacional-e-andre-pode-perder-vaga]]>",
-      "time": "07/10 · 11:37",
-      "pubDate": "Wed, 07 Oct 2026 08:37:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: LivePorTi aponta perda de confiança dos jogadores do Corinthians com diretoria",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-aponta-perda-de-confianca-dos-jogadores-do-corinthians-com-diretoria]]>",
-      "time": "07/10 · 00:56",
-      "pubDate": "Tue, 06 Oct 2026 21:56:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto revela ansiedade antes de retorno ao Corinthians e mira ‘Lei do Ex’",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-revela-ansiedade-antes-de-retorno-ao-corinthians-e-mira-lei-do-ex]]>",
-      "time": "06/10 · 21:40",
-      "pubDate": "Tue, 06 Oct 2026 18:40:46 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -202,7 +202,7 @@ const LIVE_DATA = {
     {
       "title": "Corinthians goleia Taubaté fora de casa e abre vantagem nas oitavas do Paulista Sub-20 de Futsal",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541582/corinthians-goleia-taubate-fora-de-casa-e-abre-vantagem-nas-oitavas-do-paulista-sub-20-de-futsal",
-      "pubDate": "Thu, 08 Oct 2026 08:37:06 -0300",
+      "pubDate": "Thu, 08 Oct 2026 08:37:00 -0300",
       "date": "08/10 · 11:37"
     },
     {
@@ -216,36 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130036/corinthians-demite-o-tecnico-fernando-diniz-apos-derrota-para-o-internacional",
       "pubDate": "Wed, 07 Oct 2026 22:59:41 -0300",
       "date": "08/10 · 01:59"
-    },
-    {
-      "title": "Zagueiro do Corinthians lamenta gols perdidos em derrota e reforça treinamentos na Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541533/zagueiro-do-corinthians-lamenta-gols-perdidos-em-derrota-e-reforca-treinamentos-na-data-fifa",
-      "pubDate": "Wed, 07 Oct 2026 22:01:00 -0300",
-      "date": "08/10 · 01:01"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Internacional 2x1 Corinthians | 29ª rodada | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130035/melhores-momentos-internacional-2x1-corinthians-29-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Wed, 07 Oct 2026 21:48:12 -0300",
-      "date": "08/10 · 00:48"
-    },
-    {
-      "title": "Gol cedo e trave inimiga: torcida do Corinthians repercute sétima derrota consecutiva no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541501/gol-cedo-e-trave-inimiga-torcida-do-corinthians-repercute-setima-derrota-consecutiva-no-brasileirao",
-      "pubDate": "Wed, 07 Oct 2026 21:46:00 -0300",
-      "date": "08/10 · 00:46"
-    },
-    {
-      "title": "VÍDEO: Garro entrega gol para Internacional em duelo com Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130034/garro-entrega-gol-para-internacional-em-duelo-com-corinthians",
-      "pubDate": "Wed, 07 Oct 2026 21:40:00 -0300",
-      "date": "08/10 · 00:40"
-    },
-    {
-      "title": "VÍDEO: Memphis perde gola na cara no jogo Internacional X Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130033/memphis-perde-gola-na-cara-no-jogo-internacional-x-corinthians",
-      "pubDate": "Wed, 07 Oct 2026 21:37:00 -0300",
-      "date": "08/10 · 00:37"
     }
   ]
 };
