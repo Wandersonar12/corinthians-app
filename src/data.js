@@ -1,78 +1,86 @@
-// Gerado automaticamente em 08/10/2026, 22:32:41
+// Gerado automaticamente em 09/10/2026, 14:45:07
 const LIVE_DATA = {
-  "updatedAt": "2026-10-08T22:32:41.712Z",
+  "updatedAt": "2026-10-09T14:45:07.521Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Plano A do Corinthians, Ramón Díaz possui suspensão ativa no STJD; entenda o caso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541620/plano-a-do-corinthians-ramon-diaz-possui-suspensao-ativa-no-stjd-entenda-o-caso",
-      "time": "08/10 · 22:15",
-      "pubDate": "Thu, 08 Oct 2026 19:15:00 -0300"
+      "title": "Corinthians envia documentos pedidos pelo MP-SP para a investigação da dívida da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541639/corinthians-envia-documentos-pedidos-pelo-mp-sp-para-a-investigacao-da-divida-da-neo-quimica-arena",
+      "time": "09/10 · 14:30",
+      "pubDate": "Fri, 09 Oct 2026 11:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians publica renovação de contrato com artilheiro do Sub-20; saiba mais",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541623/corinthians-publica-renovacao-de-contrato-com-artilheiro-do-sub-20-saiba-mais",
-      "time": "08/10 · 22:02",
-      "pubDate": "Thu, 08 Oct 2026 19:02:16 -0300"
+      "title": "Corinthians convoca técnico do Sub-20 para auxiliar na preparação para o Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541642/corinthians-convoca-tecnico-do-sub-20-para-auxiliar-na-preparacao-para-o-derbi",
+      "time": "09/10 · 13:57",
+      "pubDate": "Fri, 09 Oct 2026 10:57:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante marca contra o Internacional e se aproxima de Yuri na artilharia do Corinthians em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541557/volante-marca-contra-o-internacional-e-se-aproxima-de-yuri-na-artilharia-do-corinthians-em-2026",
-      "time": "08/10 · 21:32",
-      "pubDate": "Thu, 08 Oct 2026 18:32:00 -0300"
+      "title": "Corinthians encara o Jorge Guzmán pela estreia da Liga Sul-Americana de Basquete; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541601/corinthians-encara-o-jorge-guzman-pela-estreia-da-liga-sul-americana-de-basquete-saiba-tudo",
+      "time": "09/10 · 13:32",
+      "pubDate": "Fri, 09 Oct 2026 10:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fiel aponta argentino como melhor escolha para o comando técnico do Corinthians; veja o resultado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541618/fiel-aponta-argentino-como-melhor-escolha-para-o-comando-tecnico-do-corinthians-veja-o-resultado",
-      "time": "08/10 · 21:04",
-      "pubDate": "Thu, 08 Oct 2026 18:04:00 -0300"
+      "title": "Corinthians recebe o Magnus em busca de vantagem nas quartas de final da LNF; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541599/corinthians-recebe-magnus-em-busca-de-vantagem-nas-quartas-de-final-da-lnf-saiba-tudo",
+      "time": "09/10 · 12:30",
+      "pubDate": "Fri, 09 Oct 2026 09:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Sub-20 do Corinthians Feminino celebra bolsa para curso da Uefa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541498/tecnica-do-sub-20-do-corinthians-feminino-celebra-bolsa-para-curso-da-uefa",
-      "time": "08/10 · 20:36",
-      "pubDate": "Thu, 08 Oct 2026 17:36:00 -0300"
+      "title": "Saiba o que o Corinthians precisa fazer para ter novo técnico contra o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541614/saiba-o-que-o-corinthians-precisa-fazer-para-ter-novo-tecnico-contra-o-palmeiras",
+      "time": "09/10 · 12:00",
+      "pubDate": "Fri, 09 Oct 2026 09:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca reação na estreia da Liga Sul-Americana para evitar maior jejum desde 2024",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541467/corinthians-busca-reacao-na-estreia-da-liga-sul-americana-para-evitar-maior-jejum-desde-2024",
-      "time": "08/10 · 19:30",
-      "pubDate": "Thu, 08 Oct 2026 16:30:00 -0300"
+      "title": "Corinthians recebe a Portuguesa Santista nas oitavas de final do Paulistão Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541603/corinthians-recebe-a-portuguesa-santista-nas-oitavas-de-final-do-paulistao-sub-20-saiba-tudo",
+      "time": "09/10 · 11:31",
+      "pubDate": "Fri, 09 Oct 2026 08:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians realiza atividade física no segundo dia de trabalho visando à Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541612/corinthians-realiza-atividade-fisica-no-segundo-dia-de-trabalho-visando-a-libertadores-feminina",
-      "time": "08/10 · 19:05",
-      "pubDate": "Thu, 08 Oct 2026 16:05:00 -0300"
+      "title": "Últimas do Corinthians: consulta por técnico argentino, permanência de patrocínio e de auxiliar",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541625/ultimas-do-corinthians-consulta-por-tecnico-argentino-permanencia-de-patrocinio-e-de-auxiliar",
+      "time": "09/10 · 10:30",
+      "pubDate": "Fri, 09 Oct 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians renova contrato com artilheiro do Sub-17; veja os detalhes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541611/corinthians-renova-contrato-com-artilheiro-do-sub-17-veja-os-detalhes",
-      "time": "08/10 · 18:52",
-      "pubDate": "Thu, 08 Oct 2026 15:52:00 -0300"
+      "title": "Corinthians busca desempatar histórico em confrontos eliminatórios contra o Magnus no futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541481/corinthians-busca-desempatar-historico-em-confrontos-eliminatorios-contra-o-magnus-no-futsal",
+      "time": "09/10 · 01:30",
+      "pubDate": "Thu, 08 Oct 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Corinthians faz contato por Luis Zubeldía e estilo de jogo tem semelhanças com Ramon Díaz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-faz-contato-por-luis-zubeldia-e-estilo-de-jogo-tem-semelhancas-com-ramon-diaz]]>",
+      "time": "08/10 · 17:32",
+      "pubDate": "Thu, 08 Oct 2026 14:32:21 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians não coloca Carlitos Tévez como opção em lista de possíveis substitutos de Fernando Diniz",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-coloca-carlitos-tevez-como-opcao-em-lista-de-possiveis-substitutos-de-fernando-diniz]]>",
-      "time": "08/10 · 14:31",
-      "pubDate": "Thu, 08 Oct 2026 11:31:33 -0300"
+      "time": "08/10 · 16:55",
+      "pubDate": "Thu, 08 Oct 2026 13:55:06 -0300"
     },
     {
       "source": "Bolavip",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/agente-de-inteligencia-artificial-assume-o-patrocinio-master-do-corinthians-contra-o-internacional]]>",
       "time": "07/10 · 19:09",
       "pubDate": "Wed, 07 Oct 2026 16:09:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians topa negociar Rodrigo Garro apenas com oferta irrecusável e acredita na recuperação em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-topa-negociar-rodrigo-garro-apenas-com-oferta-irrecusavel-e-acredita-na-recuperacao-em-2027]]>",
-      "time": "07/10 · 18:12",
-      "pubDate": "Wed, 07 Oct 2026 15:12:50 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -198,25 +198,6 @@ const LIVE_DATA = {
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": [
-    {
-      "title": "Corinthians goleia Taubaté fora de casa e abre vantagem nas oitavas do Paulista Sub-20 de Futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541582/corinthians-goleia-taubate-fora-de-casa-e-abre-vantagem-nas-oitavas-do-paulista-sub-20-de-futsal",
-      "pubDate": "Thu, 08 Oct 2026 08:37:00 -0300",
-      "date": "08/10 · 11:37"
-    },
-    {
-      "title": "VÍDEO: Oficial: Fernando Diniz é demitido do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130039/oficial-fernando-diniz-e-demitido-do-corinthians",
-      "pubDate": "Wed, 07 Oct 2026 23:33:00 -0300",
-      "date": "08/10 · 02:33"
-    },
-    {
-      "title": "VÍDEO: Corinthians demite o técnico Fernando Diniz após derrota para o Internacional",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130036/corinthians-demite-o-tecnico-fernando-diniz-apos-derrota-para-o-internacional",
-      "pubDate": "Wed, 07 Oct 2026 22:59:41 -0300",
-      "date": "08/10 · 01:59"
-    }
-  ]
+  "highlights": []
 };
 export default LIVE_DATA;
