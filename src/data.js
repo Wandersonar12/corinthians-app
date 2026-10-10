@@ -1,7 +1,55 @@
-// Gerado automaticamente em 09/10/2026, 21:55:56
+// Gerado automaticamente em 10/10/2026, 01:21:45
 const LIVE_DATA = {
-  "updatedAt": "2026-10-09T21:55:56.242Z",
+  "updatedAt": "2026-10-10T01:21:45.512Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem Breno Bidon e Rodrigo Garro no topo do ranking de cartões amarelos em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541638/corinthians-tem-breno-bidon-e-rodrigo-garro-no-topo-do-ranking-de-cartoes-amarelos-em-2026",
+      "time": "10/10 · 01:09",
+      "pubDate": "Fri, 09 Oct 2026 22:09:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quem você escalaria para substituir Garro e Kaio César no Corinthians para o Dérbi? Vote na enquete!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541637/quem-voce-escalaria-para-substituir-garro-e-kaio-cesar-no-corinthians-para-o-derbi-vote-na-enquete",
+      "time": "10/10 · 00:05",
+      "pubDate": "Fri, 09 Oct 2026 21:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Confira as cinco jogadoras do Corinthians que ficaram fora da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541665/confira-as-cinco-jogadoras-do-corinthians-que-ficaram-fora-da-libertadores-feminina",
+      "time": "09/10 · 23:39",
+      "pubDate": "Fri, 09 Oct 2026 20:39:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece calendário do futebol brasileiro para 2027; veja datas das competições",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541689/corinthians-conhece-calendario-do-futebol-brasileiro-para-2027-veja-datas-das-competicoes",
+      "time": "09/10 · 23:06",
+      "pubDate": "Fri, 09 Oct 2026 20:06:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians troca zagueira por meia-atacante na lista da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541693/corinthians-troca-zagueira-por-meia-atacante-na-lista-da-libertadores-feminina",
+      "time": "09/10 · 22:22",
+      "pubDate": "Fri, 09 Oct 2026 19:22:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio GYM atua como titular pelo Corinthians pela primeira vez no segundo semestre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541590/trio-gym-atua-como-titular-pelo-corinthians-pela-primeira-vez-no-segundo-semestre",
+      "time": "09/10 · 22:00",
+      "pubDate": "Fri, 09 Oct 2026 19:00:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -9,6 +57,22 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-sexta-feira-22/",
       "time": "09/10 · 21:55",
       "pubDate": "Fri, 09 Oct 2026 21:55:27 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "William Batista destaca recepção do elenco e projeta Corinthians competitivo no Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541686/william-batista-destaca-recepcao-do-elenco-e-projeta-corinthians-competitivo-no-derbi",
+      "time": "09/10 · 21:54",
+      "pubDate": "Fri, 09 Oct 2026 18:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia preparação para clássico contra o Palmeiras sob comando de técnico interino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541685/corinthians-inicia-preparacao-para-classico-contra-o-palmeiras-sob-comando-de-tecnico-interino",
+      "time": "09/10 · 21:51",
+      "pubDate": "Fri, 09 Oct 2026 18:51:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -27,30 +91,6 @@ const LIVE_DATA = {
       "pubDate": "Fri, 09 Oct 2026 21:22:55 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "MP-SP cobra novas explicações do Corinthians sobre multa da Caixa por dívida da Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541678/mp-sp-cobra-novas-explicacoes-do-corinthians-sobre-multa-da-caixa-por-divida-da-arena",
-      "time": "09/10 · 21:10",
-      "pubDate": "Fri, 09 Oct 2026 18:10:33 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tenta repetir feito da última temporada diante do Magnus; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541617/corinthians-tenta-repetir-feito-da-ultima-temporada-diante-do-magnus-saiba-qual",
-      "time": "09/10 · 21:04",
-      "pubDate": "Fri, 09 Oct 2026 18:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Palmeiras defende árbitro de clássico contra o Corinthians após nota do Flamengo sobre arbitragem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541681/palmeiras-defende-arbitro-de-classico-contra-o-corinthians-apos-nota-do-flamengo-sobre-arbitragem",
-      "time": "09/10 · 20:42",
-      "pubDate": "Fri, 09 Oct 2026 17:42:19 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians terá William Batista, técnico do sub-20, como interino contra Palmeiras",
@@ -59,12 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 09 Oct 2026 20:26:56 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "José Martínez é anunciado por novo clube meses após rescisão com o Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541676/jose-martinez-e-anunciado-por-novo-clube-meses-apos-rescisao-com-o-corinthians",
-      "time": "09/10 · 20:13",
-      "pubDate": "Fri, 09 Oct 2026 17:13:46 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians faz contato por Fábio Carille no desespero após negativa de Ramón Díaz e Sylvinho",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-faz-contato-por-fabio-carille-no-desespero-apos-negativa-de-ramon-diaz-e-sylvinho]]>",
+      "time": "09/10 · 20:07",
+      "pubDate": "Fri, 09 Oct 2026 17:07:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -75,36 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 09 Oct 2026 20:05:41 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre com gramado ruim e empata sem gols com a Portuguesa Santista pelo Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541648/corinthians-sofre-com-gramado-ruim-e-empata-sem-gols-com-a-portuguesa-santista-pelo-paulista-sub-20",
-      "time": "09/10 · 19:54",
-      "pubDate": "Fri, 09 Oct 2026 16:54:07 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Gabriel Paulista defende Diniz após demissão do Corinthians: “Menos culpado”",
       "url": "https://www.gazetaesportiva.com/times/corinthians/gabriel-paulista-defende-diniz-apos-demissao-do-corinthians-menos-culpado/",
       "time": "09/10 · 19:40",
       "pubDate": "Fri, 09 Oct 2026 19:40:44 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians define técnico para comandar equipe no Dérbi pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541667/corinthians-define-tecnico-para-comandar-equipe-no-derbi-pelo-brasileirao",
-      "time": "09/10 · 19:14",
-      "pubDate": "Fri, 09 Oct 2026 16:14:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Saiba quem são as 23 jogadoras inscritas pelo Corinthians para a disputa da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541146/saiba-quem-sao-as-23-jogadoras-inscritas-pelo-corinthians-para-a-disputa-da-libertadores-feminina",
-      "time": "09/10 · 18:50",
-      "pubDate": "Fri, 09 Oct 2026 15:50:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -115,12 +131,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 09 Oct 2026 18:36:06 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Gabriel Paulista defende Fernando Diniz após demissão do Corinthians: 'São os menos culpados'",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541659/gabriel-paulista-defende-fernando-diniz-apos-demissao-do-corinthians-sao-os-menos-culpados",
-      "time": "09/10 · 17:55",
-      "pubDate": "Fri, 09 Oct 2026 14:55:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Memphis Depay vive pior ano da carreira em 2026 e críticas recebidas são merecidas no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-memphis-depay-vive-pior-ano-da-carreira-em-2026-e-criticas-recebidas-sao-merecidas-no-corinthians]]>",
+      "time": "09/10 · 18:33",
+      "pubDate": "Fri, 09 Oct 2026 15:33:44 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -133,18 +149,18 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Análise: Memphis Depay vive pior ano da carreira em 2026 e críticas recebidas são merecidas no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-memphis-depay-vive-pior-ano-da-carreira-em-2026-e-criticas-recebidas-sao-merecidas-no-corinthians]]>",
-      "time": "09/10 · 13:25",
-      "pubDate": "Fri, 09 Oct 2026 10:25:11 -0300"
+      "title": "Corinthians quer acertar com Ramón Díaz antes do Dérbi e “entrave” das negociações é o tempo de contrato",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-acertar-com-ramon-diaz-antes-do-derbi-e-entrave-das-negociacoes-e-o-tempo-de-contrato]]>",
+      "time": "09/10 · 15:32",
+      "pubDate": "Fri, 09 Oct 2026 12:32:33 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians quer acertar com Ramón Díaz antes do Dérbi e “entrave” das negociações é o tempo de contrato",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-acertar-com-ramon-diaz-antes-do-derbi-e-entrave-das-negociacoes-e-o-tempo-de-contrato]]>",
-      "time": "09/10 · 12:01",
-      "pubDate": "Fri, 09 Oct 2026 09:01:18 -0300"
+      "title": "Análise: Andreas Pereira admite gosto especial no Dérbi e vitória traria dupla felicidade ao Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-andreas-pereira-admite-gosto-especial-no-derbi-e-vitoria-traria-dupla-felicidade-ao-corinthians]]>",
+      "time": "09/10 · 14:48",
+      "pubDate": "Fri, 09 Oct 2026 11:48:12 -0300"
     },
     {
       "source": "Bolavip",
@@ -177,22 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-acerta-em-demissao-de-diniz-e-demonstra-amadorismo-ao-anunciar-apos-a-data-fifa]]>",
       "time": "08/10 · 12:02",
       "pubDate": "Thu, 08 Oct 2026 09:02:24 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians demite Fernando Diniz após derrota para o Internacional no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-demite-fernando-diniz-apos-derrota-e-sequencia-de-sete-jogos-sem-vencer]]>",
-      "time": "08/10 · 01:37",
-      "pubDate": "Wed, 07 Oct 2026 22:37:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: LivePorTi questiona trabalho do Corinthians na Data Fifa após derrota para o Internacional",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-trabalho-do-corinthians-na-data-fifa-apos-derrota-para-o-internacional]]>",
-      "time": "08/10 · 00:58",
-      "pubDate": "Wed, 07 Oct 2026 21:58:49 -0300"
     }
   ],
   "upcoming": [],
@@ -202,7 +202,7 @@ const LIVE_DATA = {
     {
       "title": "Corinthians sofre com gramado ruim e empata sem gols com a Portuguesa Santista pelo Paulista Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541648/corinthians-sofre-com-gramado-ruim-e-empata-sem-gols-com-a-portuguesa-santista-pelo-paulista-sub-20",
-      "pubDate": "Fri, 09 Oct 2026 16:54:07 -0300",
+      "pubDate": "Fri, 09 Oct 2026 16:54:00 -0300",
       "date": "09/10 · 19:54"
     }
   ]
