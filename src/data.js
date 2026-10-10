@@ -1,54 +1,110 @@
-// Gerado automaticamente em 10/10/2026, 01:21:45
+// Gerado automaticamente em 10/10/2026, 14:01:45
 const LIVE_DATA = {
-  "updatedAt": "2026-10-10T01:21:45.512Z",
+  "updatedAt": "2026-10-10T14:01:45.664Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem Breno Bidon e Rodrigo Garro no topo do ranking de cartões amarelos em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541638/corinthians-tem-breno-bidon-e-rodrigo-garro-no-topo-do-ranking-de-cartoes-amarelos-em-2026",
-      "time": "10/10 · 01:09",
-      "pubDate": "Fri, 09 Oct 2026 22:09:00 -0300"
+      "title": "Organizada do Corinthians convoca torcedores para apoiar jogadores antes de Dérbi no CT",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541722/organizada-do-corinthians-convoca-torcedores-para-apoiar-jogadores-antes-de-derbi-no-ct",
+      "time": "10/10 · 13:22",
+      "pubDate": "Sat, 10 Oct 2026 10:22:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Quem você escalaria para substituir Garro e Kaio César no Corinthians para o Dérbi? Vote na enquete!",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541637/quem-voce-escalaria-para-substituir-garro-e-kaio-cesar-no-corinthians-para-o-derbi-vote-na-enquete",
-      "time": "10/10 · 00:05",
-      "pubDate": "Fri, 09 Oct 2026 21:05:00 -0300"
+      "title": "Saiba como assistir ao trio do Corinthians em ação pela Seleção Brasileira Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541645/saiba-como-assistir-ao-trio-do-corinthians-em-acao-pela-selecao-brasileira-feminina",
+      "time": "10/10 · 13:03",
+      "pubDate": "Sat, 10 Oct 2026 10:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Confira as cinco jogadoras do Corinthians que ficaram fora da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541665/confira-as-cinco-jogadoras-do-corinthians-que-ficaram-fora-da-libertadores-feminina",
-      "time": "09/10 · 23:39",
-      "pubDate": "Fri, 09 Oct 2026 20:39:00 -0300"
+      "title": "Torcedores do Corinthians organizam manifestação no Parque São Jorge por intervenção judicial",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541718/torcedores-do-corinthians-organizam-manifestacao-no-parque-sao-jorge-por-intervencao-judicial",
+      "time": "10/10 · 12:31",
+      "pubDate": "Sat, 10 Oct 2026 09:31:34 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Emiliano Díaz lamenta acerto frustrado com o Corinthians e diz: &#8220;Um dia vou voltar&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/emiliano-diaz-lamenta-acerto-frustrado-corinthians/",
+      "time": "10/10 · 12:24",
+      "pubDate": "Sat, 10 Oct 2026 12:24:18 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Ídolo do Corinthians, Dinei ataca gestão, mas demonstra confiança para o Derby",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/dinei-defende-intervencao-corinthians-e-confia-no-derby/",
+      "time": "10/10 · 12:00",
+      "pubDate": "Sat, 10 Oct 2026 12:00:43 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece calendário do futebol brasileiro para 2027; veja datas das competições",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541689/corinthians-conhece-calendario-do-futebol-brasileiro-para-2027-veja-datas-das-competicoes",
-      "time": "09/10 · 23:06",
-      "pubDate": "Fri, 09 Oct 2026 20:06:00 -0300"
+      "title": "Corinthians recebe a Ponte Preta em busca de carimbar classificação no Paulista Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541677/corinthians-recebe-a-ponte-preta-em-busca-de-carimbar-classificacao-no-paulista-sub-17-saiba-tudo",
+      "time": "10/10 · 11:30",
+      "pubDate": "Sat, 10 Oct 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Palmeiras x Corinthians: saiba onde assistir ao clássico pela 30ª rodada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-x-corinthians-saiba-onde-assistir-ao-classico-pela-30a-rodada-do-brasileirao/",
+      "time": "10/10 · 11:00",
+      "pubDate": "Sat, 10 Oct 2026 11:00:01 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians troca zagueira por meia-atacante na lista da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541693/corinthians-troca-zagueira-por-meia-atacante-na-lista-da-libertadores-feminina",
-      "time": "09/10 · 22:22",
-      "pubDate": "Fri, 09 Oct 2026 19:22:00 -0300"
+      "title": "Últimas do Corinthians: resistência de Ramón, ex-volante anunciado por clube e sondagem por Carille",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541703/ultimas-do-corinthians-resistencia-de-ramon-ex-volante-anunciado-por-clube-e-sondagem-por-carille",
+      "time": "10/10 · 10:30",
+      "pubDate": "Sat, 10 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians chega ao terceiro Derby do ano com um técnico diferente",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-chega-ao-terceiro-derby-do-ano-com-um-tecnico-diferente/",
+      "time": "10/10 · 10:00",
+      "pubDate": "Sat, 10 Oct 2026 10:00:22 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Trio GYM atua como titular pelo Corinthians pela primeira vez no segundo semestre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541590/trio-gym-atua-como-titular-pelo-corinthians-pela-primeira-vez-no-segundo-semestre",
-      "time": "09/10 · 22:00",
-      "pubDate": "Fri, 09 Oct 2026 19:00:00 -0300"
+      "title": "Corinthians apaga no último quarto e perde para o Jorge Guzmán na estreia da Liga Sul-Americana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541701/corinthians-apaga-no-ultimo-quarto-e-perde-para-o-jorge-guzman-na-estreia-da-liga-sul-americana",
+      "time": "10/10 · 03:20",
+      "pubDate": "Sat, 10 Oct 2026 00:20:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-auxiliar explica recusa ao Corinthians e promete voltar ao clube no futuro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541704/ex-auxiliar-explica-recusa-ao-corinthians-e-promete-voltar-ao-clube-no-futuro",
+      "time": "10/10 · 02:23",
+      "pubDate": "Fri, 09 Oct 2026 23:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians empata com o Magnus pelo primeiro jogo das quartas de final da LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541696/corinthians-empata-com-o-magnus-pelo-primeiro-jogo-das-quartas-de-final-da-lnf",
+      "time": "10/10 · 01:45",
+      "pubDate": "Fri, 09 Oct 2026 22:45:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: LivePorTi questiona Corinthians por falta de planejamento após demissão de Diniz: “Não tinha um plano B?”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-corinthians-por-falta-de-planejamento-apos-demissao-de-diniz-nao-tinha-um-plano-b]]>",
+      "time": "10/10 · 01:01",
+      "pubDate": "Fri, 09 Oct 2026 22:01:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -57,22 +113,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-sexta-feira-22/",
       "time": "09/10 · 21:55",
       "pubDate": "Fri, 09 Oct 2026 21:55:27 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "William Batista destaca recepção do elenco e projeta Corinthians competitivo no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541686/william-batista-destaca-recepcao-do-elenco-e-projeta-corinthians-competitivo-no-derbi",
-      "time": "09/10 · 21:54",
-      "pubDate": "Fri, 09 Oct 2026 18:54:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia preparação para clássico contra o Palmeiras sob comando de técnico interino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541685/corinthians-inicia-preparacao-para-classico-contra-o-palmeiras-sob-comando-de-tecnico-interino",
-      "time": "09/10 · 21:51",
-      "pubDate": "Fri, 09 Oct 2026 18:51:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -107,44 +147,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 09 Oct 2026 17:07:37 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians e Portuguesa Santista empatam em ida das oitavas do Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-e-portuguesa-santista-empatam-em-ida-das-oitavas-do-paulista-sub-20/",
-      "time": "09/10 · 20:05",
-      "pubDate": "Fri, 09 Oct 2026 20:05:41 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Gabriel Paulista defende Diniz após demissão do Corinthians: “Menos culpado”",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gabriel-paulista-defende-diniz-apos-demissao-do-corinthians-menos-culpado/",
-      "time": "09/10 · 19:40",
-      "pubDate": "Fri, 09 Oct 2026 19:40:44 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians procura Fábio Carille, mas negociação é difícil",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-carille-substituto-fernando-diniz/",
-      "time": "09/10 · 18:36",
-      "pubDate": "Fri, 09 Oct 2026 18:36:06 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Análise: Memphis Depay vive pior ano da carreira em 2026 e críticas recebidas são merecidas no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-memphis-depay-vive-pior-ano-da-carreira-em-2026-e-criticas-recebidas-sao-merecidas-no-corinthians]]>",
       "time": "09/10 · 18:33",
       "pubDate": "Fri, 09 Oct 2026 15:33:44 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Há 49 anos, Corinthians obtinha o maior público da história do Morumbi; relembre em fotos",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ha-49-anos-corinthians-obtinha-o-maior-publico-da-historia-do-morumbi-relembre-em-fotos/",
-      "time": "09/10 · 16:56",
-      "pubDate": "Fri, 09 Oct 2026 16:56:32 +0000"
     },
     {
       "source": "Bolavip",
@@ -185,20 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-busca-substituto-de-fernando-diniz-e-sylvinho-tem-numeros-melhores-que-ramon-diaz]]>",
       "time": "08/10 · 12:49",
       "pubDate": "Thu, 08 Oct 2026 09:49:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians acerta em demissão de Diniz e demonstra amadorismo ao anunciar após a Data Fifa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-acerta-em-demissao-de-diniz-e-demonstra-amadorismo-ao-anunciar-apos-a-data-fifa]]>",
-      "time": "08/10 · 12:02",
-      "pubDate": "Thu, 08 Oct 2026 09:02:24 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Saiba como assistir ao trio do Corinthians em ação pela Seleção Brasileira Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541645/saiba-como-assistir-ao-trio-do-corinthians-em-acao-pela-selecao-brasileira-feminina",
+      "pubDate": "Sat, 10 Oct 2026 10:03:00 -0300",
+      "date": "10/10 · 13:03"
+    },
     {
       "title": "Corinthians sofre com gramado ruim e empata sem gols com a Portuguesa Santista pelo Paulista Sub-20",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541648/corinthians-sofre-com-gramado-ruim-e-empata-sem-gols-com-a-portuguesa-santista-pelo-paulista-sub-20",
