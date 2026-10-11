@@ -1,94 +1,110 @@
-// Gerado automaticamente em 11/10/2026, 00:34:24
+// Gerado automaticamente em 11/10/2026, 14:27:26
 const LIVE_DATA = {
-  "updatedAt": "2026-10-11T00:34:24.943Z",
+  "updatedAt": "2026-10-11T14:27:26.898Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é superado pelo Nacional e se complica na Liga Sul-Americana de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541745/corinthians-e-superado-pelo-nacional-e-se-complica-na-liga-sul-americana-de-basquete",
-      "time": "11/10 · 00:09",
-      "pubDate": "Sat, 10 Oct 2026 21:09:00 -0300"
+      "title": "Corinthians anuncia Clarence Seedorf como novo técnico até o fim de 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541775/corinthians-anuncia-clarence-seedorf-como-novo-tecnico-ate-o-fim-de-2027",
+      "time": "11/10 · 14:04",
+      "pubDate": "Sun, 11 Oct 2026 11:04:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians minimiza dificuldades financeiras no futsal e prega foco em quadra",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541742/goleiro-do-corinthians-minimiza-dificuldades-financeiras-no-futsal-e-prega-foco-em-quadra",
-      "time": "11/10 · 00:02",
-      "pubDate": "Sat, 10 Oct 2026 21:02:00 -0300"
+      "title": "Goleiro do Corinthians avalia empate do Corinthians e acredita em classificação contra o Magnus",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541740/goleiro-do-corinthians-avalia-empate-do-corinthians-e-acredita-em-classificacao-contra-o-magnus",
+      "time": "11/10 · 14:02",
+      "pubDate": "Sun, 11 Oct 2026 11:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Breno Bidon fica perto de atingir marca seleta entre jogadores do Corinthians; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541726/breno-bidon-fica-perto-de-atingir-marca-seleta-entre-jogadores-do-corinthians-saiba-qual",
-      "time": "10/10 · 23:36",
-      "pubDate": "Sat, 10 Oct 2026 20:36:00 -0300"
+      "title": "Moscardo iguala recorde no Sub-17 do Corinthians após gol sobre a Ponte Preta; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541734/moscardo-iguala-recorde-no-sub-17-do-corinthians-apos-gol-sobre-a-ponte-preta-saiba-qual",
+      "time": "11/10 · 13:35",
+      "pubDate": "Sun, 11 Oct 2026 10:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians projeta Dérbi pelo Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541749/goleiro-do-corinthians-projeta-derbi-pelo-campeonato-brasileiro",
-      "time": "10/10 · 22:49",
-      "pubDate": "Sat, 10 Oct 2026 19:49:30 -0300"
+      "title": "Torcida do Corinthians espalha provocações ao Palmeiras no Nubank Parque antes de Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541771/torcida-do-corinthians-espalha-provocacoes-ao-palmeiras-no-nubank-parque-antes-de-derbi",
+      "time": "11/10 · 13:07",
+      "pubDate": "Sun, 11 Oct 2026 10:07:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para enfrentar o Palmeiras pelo Brasileiro; veja a provável escalação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541724/corinthians-encerra-preparacao-para-enfrentar-o-palmeiras-pelo-brasileiro-veja-a-provavel-escalacao",
-      "time": "10/10 · 22:28",
-      "pubDate": "Sat, 10 Oct 2026 19:28:00 -0300"
+      "title": "Corinthians reencontra árbitro de polêmica recente em clássico e de classificação em Dérbi",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541739/corinthians-reencontra-arbitro-de-polemica-recente-em-classico-e-de-classificacao-em-derbi",
+      "time": "11/10 · 12:34",
+      "pubDate": "Sun, 11 Oct 2026 09:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians avalia empate na ida das quartas da LNF e projeta decisão fora de casa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541744/tecnico-do-corinthians-avalia-empate-na-ida-das-quartas-da-lnf-e-projeta-decisao-fora-de-casa",
-      "time": "10/10 · 21:34",
-      "pubDate": "Sat, 10 Oct 2026 18:34:00 -0300"
+      "title": "Corinthians encara o Regatas em busca de vaga na segunda fase da Liga Sul-Americana; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541758/corinthians-encara-o-regatas-em-busca-de-vaga-na-segunda-fase-da-liga-sul-americana-saiba-tudo",
+      "time": "11/10 · 12:03",
+      "pubDate": "Sun, 11 Oct 2026 09:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians é titular em vitória do Brasil; dupla de ataque entra no segundo tempo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541719/meio-campista-do-corinthians-e-titular-em-vitoria-do-brasil-dupla-de-ataque-entra-no-segundo-tempo",
-      "time": "10/10 · 21:27",
-      "pubDate": "Sat, 10 Oct 2026 18:27:08 -0300"
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541733/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-no-brasileirao",
+      "time": "11/10 · 11:30",
+      "pubDate": "Sun, 11 Oct 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians volta a ter interino contra o Palmeiras após mais de três anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541669/corinthians-volta-a-ter-interino-contra-o-palmeiras-apos-mais-de-tres-anos",
-      "time": "10/10 · 20:32",
-      "pubDate": "Sat, 10 Oct 2026 17:32:00 -0300"
+      "title": "Últimas do Corinthians: novo patrocinador máster, manifestação e recusa de técnico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541754/ultimas-do-corinthians-novo-patrocinador-master-manifestacao-e-recusa-de-tecnico",
+      "time": "11/10 · 10:30",
+      "pubDate": "Sun, 11 Oct 2026 07:30:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "William Batista ganha liberdade do Corinthians para mudar a equipe no jogo contra o Palmeiras",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-ganha-liberdade-para-mudar-o-corinthians-antes-do-derbi-contra-o-palmeiras]]>",
-      "time": "10/10 · 20:24",
-      "pubDate": "Sat, 10 Oct 2026 17:24:14 -0300"
+      "title": "Jorge Sampaoli não recusa o Corinthians, mas pedidos e dúvidas da diretoria travam negócio",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/jorge-sampaoli-nao-recusa-o-corinthians-mas-pedidos-e-duvidas-da-diretoria-travam-negocio]]>",
+      "time": "10/10 · 23:28",
+      "pubDate": "Sat, 10 Oct 2026 20:28:21 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Emiliano Díaz faz post oficial justificando recusa ao Corinthians: “Decisão mais difícil da minha carreira”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/emiliano-diaz-faz-post-oficial-justificando-recusa-ao-corinthians-decisao-mais-dificil-da-minha-carreira]]>",
+      "time": "10/10 · 23:15",
+      "pubDate": "Sat, 10 Oct 2026 20:15:59 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians vai definir futuro de Lingard e +8 jogadores após avaliação do substituto de Fernando Diniz",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vai-definir-futuro-de-lingard-e-8-jogadores-apos-avaliacao-do-substituto-de-fernando-diniz]]>",
-      "time": "10/10 · 20:20",
-      "pubDate": "Sat, 10 Oct 2026 17:20:24 -0300"
+      "time": "10/10 · 23:15",
+      "pubDate": "Sat, 10 Oct 2026 20:15:38 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians terá festa da torcida no CT antes de clássico contra o Palmeiras",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-festa-da-torcida-no-ct-antes-de-classico-contra-o-palmeiras]]>",
-      "time": "10/10 · 20:19",
-      "pubDate": "Sat, 10 Oct 2026 17:19:39 -0300"
+      "time": "10/10 · 23:14",
+      "pubDate": "Sat, 10 Oct 2026 20:14:51 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "William Batista ganha liberdade do Corinthians para mudar a equipe no jogo contra o Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/william-batista-ganha-liberdade-para-mudar-o-corinthians-antes-do-derbi-contra-o-palmeiras]]>",
+      "time": "10/10 · 23:01",
+      "pubDate": "Sat, 10 Oct 2026 20:01:26 -0300"
     },
     {
       "source": "Bolavip",
@@ -109,26 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Emiliano Díaz faz post oficial justificando recusa ao Corinthians: “Decisão mais difícil da minha carreira”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/emiliano-diaz-faz-post-oficial-justificando-recusa-ao-corinthians-decisao-mais-dificil-da-minha-carreira]]>",
-      "time": "10/10 · 14:22",
-      "pubDate": "Sat, 10 Oct 2026 11:22:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Análise: Sampaoli, Carille, Caixinha ou Vojvoda podem agregar de formas bem diferentes ao Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-sampaoli-carille-caixinha-ou-vojvoda-podem-agregar-de-formas-bem-diferentes-ao-corinthians]]>",
       "time": "10/10 · 11:38",
       "pubDate": "Sat, 10 Oct 2026 08:38:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: LivePorTi questiona Corinthians por falta de planejamento após demissão de Diniz: “Não tinha um plano B?”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-corinthians-por-falta-de-planejamento-apos-demissao-de-diniz-nao-tinha-um-plano-b]]>",
-      "time": "10/10 · 01:01",
-      "pubDate": "Fri, 09 Oct 2026 22:01:13 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,30 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Goleiro do Corinthians avalia empate do Corinthians e acredita em classificação contra o Magnus",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541740/goleiro-do-corinthians-avalia-empate-do-corinthians-e-acredita-em-classificacao-contra-o-magnus",
+      "pubDate": "Sun, 11 Oct 2026 11:02:00 -0300",
+      "date": "11/10 · 14:02"
+    },
+    {
+      "title": "Moscardo iguala recorde no Sub-17 do Corinthians após gol sobre a Ponte Preta; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541734/moscardo-iguala-recorde-no-sub-17-do-corinthians-apos-gol-sobre-a-ponte-preta-saiba-qual",
+      "pubDate": "Sun, 11 Oct 2026 10:35:00 -0300",
+      "date": "11/10 · 13:35"
+    },
+    {
+      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541733/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-no-brasileirao",
+      "pubDate": "Sun, 11 Oct 2026 08:30:00 -0300",
+      "date": "11/10 · 11:30"
+    },
+    {
+      "title": "Moscardo chega aos 20 gols e se isola na artilharia do Sub-17 do Corinthians; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541732/moscardo-chega-aos-20-gols-e-se-isola-na-artilharia-do-sub-17-do-corinthians-veja-o-ranking",
+      "pubDate": "Sat, 10 Oct 2026 21:32:00 -0300",
+      "date": "11/10 · 00:32"
+    },
+    {
       "title": "Goleiro do Corinthians minimiza dificuldades financeiras no futsal e prega foco em quadra",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541742/goleiro-do-corinthians-minimiza-dificuldades-financeiras-no-futsal-e-prega-foco-em-quadra",
       "pubDate": "Sat, 10 Oct 2026 21:02:00 -0300",
@@ -208,7 +232,7 @@ const LIVE_DATA = {
     {
       "title": "Goleiro do Corinthians projeta Dérbi pelo Campeonato Brasileiro",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541749/goleiro-do-corinthians-projeta-derbi-pelo-campeonato-brasileiro",
-      "pubDate": "Sat, 10 Oct 2026 19:49:30 -0300",
+      "pubDate": "Sat, 10 Oct 2026 19:49:00 -0300",
       "date": "10/10 · 22:49"
     },
     {
@@ -222,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130058/palmeiras-x-corinthians-provavel-escalacao-da-30-rodada-do-brasileirao-2026",
       "pubDate": "Sat, 10 Oct 2026 14:31:37 -0300",
       "date": "10/10 · 17:31"
-    },
-    {
-      "title": "Saiba como assistir ao trio do Corinthians em ação pela Seleção Brasileira Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541645/saiba-como-assistir-ao-trio-do-corinthians-em-acao-pela-selecao-brasileira-feminina",
-      "pubDate": "Sat, 10 Oct 2026 10:03:00 -0300",
-      "date": "10/10 · 13:03"
     }
   ]
 };
