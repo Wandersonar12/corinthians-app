@@ -1,78 +1,78 @@
-// Gerado automaticamente em 11/10/2026, 14:27:26
+// Gerado automaticamente em 11/10/2026, 21:08:15
 const LIVE_DATA = {
-  "updatedAt": "2026-10-11T14:27:26.898Z",
+  "updatedAt": "2026-10-11T21:08:15.970Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians anuncia Clarence Seedorf como novo técnico até o fim de 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541775/corinthians-anuncia-clarence-seedorf-como-novo-tecnico-ate-o-fim-de-2027",
-      "time": "11/10 · 14:04",
-      "pubDate": "Sun, 11 Oct 2026 11:04:00 -0300"
+      "title": "Marcelo Paz explica escolha por Seedorf e destaca liderança do novo técnico do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541818/marcelo-paz-explica-escolha-por-seedorf-e-destaca-lideranca-do-novo-tecnico-do-corinthians",
+      "time": "11/10 · 20:08",
+      "pubDate": "Sun, 11 Oct 2026 17:08:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians avalia empate do Corinthians e acredita em classificação contra o Magnus",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541740/goleiro-do-corinthians-avalia-empate-do-corinthians-e-acredita-em-classificacao-contra-o-magnus",
-      "time": "11/10 · 14:02",
-      "pubDate": "Sun, 11 Oct 2026 11:02:00 -0300"
+      "title": "Corinthians confirma time titular com duas mudanças para enfrentar o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541774/corinthians-confirma-time-titular-com-duas-mudancas-para-enfrentar-o-palmeiras",
+      "time": "11/10 · 19:31",
+      "pubDate": "Sun, 11 Oct 2026 16:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Moscardo iguala recorde no Sub-17 do Corinthians após gol sobre a Ponte Preta; saiba qual",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541734/moscardo-iguala-recorde-no-sub-17-do-corinthians-apos-gol-sobre-a-ponte-preta-saiba-qual",
-      "time": "11/10 · 13:35",
-      "pubDate": "Sun, 11 Oct 2026 10:35:00 -0300"
+      "title": "Corinthians busca voltar a vencer o Palmeiras para se aproximar de rival no retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541808/corinthians-busca-voltar-a-vencer-o-palmeiras-para-se-aproximar-de-rival-no-retrospecto",
+      "time": "11/10 · 19:02",
+      "pubDate": "Sun, 11 Oct 2026 16:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Torcida do Corinthians espalha provocações ao Palmeiras no Nubank Parque antes de Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541771/torcida-do-corinthians-espalha-provocacoes-ao-palmeiras-no-nubank-parque-antes-de-derbi",
-      "time": "11/10 · 13:07",
-      "pubDate": "Sun, 11 Oct 2026 10:07:00 -0300"
+      "title": "Torcedores do Corinthians apoiam elenco em saída do CT antes de clássico contra o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541801/torcedores-do-corinthians-apoiam-elenco-em-saida-do-ct-antes-de-classico-contra-o-palmeiras",
+      "time": "11/10 · 18:10",
+      "pubDate": "Sun, 11 Oct 2026 15:10:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians reencontra árbitro de polêmica recente em clássico e de classificação em Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541739/corinthians-reencontra-arbitro-de-polemica-recente-em-classico-e-de-classificacao-em-derbi",
-      "time": "11/10 · 12:34",
-      "pubDate": "Sun, 11 Oct 2026 09:34:00 -0300"
+      "title": "Entre esperanças e pessimismo: Fiel repercute anúncio de Seedorf no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541782/entre-esperancas-e-pessimismo-fiel-repercute-anuncio-de-seedorf-no-corinthians",
+      "time": "11/10 · 17:55",
+      "pubDate": "Sun, 11 Oct 2026 14:55:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encara o Regatas em busca de vaga na segunda fase da Liga Sul-Americana; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541758/corinthians-encara-o-regatas-em-busca-de-vaga-na-segunda-fase-da-liga-sul-americana-saiba-tudo",
-      "time": "11/10 · 12:03",
-      "pubDate": "Sun, 11 Oct 2026 09:03:00 -0300"
+      "title": "Corinthians se apoia em maior sequencia invicta no Nubank Parque para reagir no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541737/corinthians-se-apoia-em-maior-sequencia-invicta-no-nubank-parque-para-reagir-no-brasileirao",
+      "time": "11/10 · 17:33",
+      "pubDate": "Sun, 11 Oct 2026 14:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao clássico entre Corinthians e Palmeiras no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541733/saiba-onde-assistir-ao-classico-entre-corinthians-e-palmeiras-no-brasileirao",
-      "time": "11/10 · 11:30",
-      "pubDate": "Sun, 11 Oct 2026 08:30:00 -0300"
+      "title": "Seedorf manda primeira mensagem à Fiel após anúncio como novo técnico do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541804/seedorf-manda-primeira-mensagem-a-fiel-apos-anuncio-como-novo-tecnico-do-corinthians",
+      "time": "11/10 · 17:25",
+      "pubDate": "Sun, 11 Oct 2026 14:25:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: novo patrocinador máster, manifestação e recusa de técnico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541754/ultimas-do-corinthians-novo-patrocinador-master-manifestacao-e-recusa-de-tecnico",
-      "time": "11/10 · 10:30",
-      "pubDate": "Sun, 11 Oct 2026 07:30:00 -0300"
+      "title": "Ala do Corinthians destaca solidez defensiva na temporada e projeta decisão contra o Magnus na LNF",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541743/ala-do-corinthians-destaca-solidez-defensiva-na-temporada-e-projeta-decisao-contra-o-magnus-na-lnf",
+      "time": "11/10 · 17:09",
+      "pubDate": "Sun, 11 Oct 2026 14:09:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Jorge Sampaoli não recusa o Corinthians, mas pedidos e dúvidas da diretoria travam negócio",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/jorge-sampaoli-nao-recusa-o-corinthians-mas-pedidos-e-duvidas-da-diretoria-travam-negocio]]>",
-      "time": "10/10 · 23:28",
-      "pubDate": "Sat, 10 Oct 2026 20:28:21 -0300"
+      "time": "11/10 · 14:12",
+      "pubDate": "Sun, 11 Oct 2026 11:12:13 -0300"
     },
     {
       "source": "Bolavip",
@@ -228,24 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541742/goleiro-do-corinthians-minimiza-dificuldades-financeiras-no-futsal-e-prega-foco-em-quadra",
       "pubDate": "Sat, 10 Oct 2026 21:02:00 -0300",
       "date": "11/10 · 00:02"
-    },
-    {
-      "title": "Goleiro do Corinthians projeta Dérbi pelo Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541749/goleiro-do-corinthians-projeta-derbi-pelo-campeonato-brasileiro",
-      "pubDate": "Sat, 10 Oct 2026 19:49:00 -0300",
-      "date": "10/10 · 22:49"
-    },
-    {
-      "title": "Atacante do Corinthians celebra gol e desempenho da equipe após classificação no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541727/atacante-do-corinthians-celebra-gol-e-desempenho-da-equipe-apos-classificacao-no-paulista-sub-17",
-      "pubDate": "Sat, 10 Oct 2026 16:35:00 -0300",
-      "date": "10/10 · 19:35"
-    },
-    {
-      "title": "VÍDEO: Palmeiras x Corinthians: Provável escalação da 30ª rodada do Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130058/palmeiras-x-corinthians-provavel-escalacao-da-30-rodada-do-brasileirao-2026",
-      "pubDate": "Sat, 10 Oct 2026 14:31:37 -0300",
-      "date": "10/10 · 17:31"
     }
   ]
 };
