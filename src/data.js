@@ -1,7 +1,111 @@
-// Gerado automaticamente em 12/10/2026, 00:47:55
+// Gerado automaticamente em 12/10/2026, 17:04:43
 const LIVE_DATA = {
-  "updatedAt": "2026-10-12T00:47:55.733Z",
+  "updatedAt": "2026-10-12T17:04:43.656Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Torcedores do Corinthians realizam manifestação no Parque São Jorge por intervenção judicial",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541896/torcedores-do-corinthians-realizam-manifestacao-no-parque-sao-jorge-por-intervencao-judicial",
+      "time": "12/10 · 16:33",
+      "pubDate": "Mon, 12 Oct 2026 13:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Hugo Souza chega a 15 pênaltis defendidos pelo Corinthians; veja ranking histórico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541825/hugo-souza-chega-a-15-penaltis-defendidos-pelo-corinthians-veja-ranking-historico",
+      "time": "12/10 · 16:28",
+      "pubDate": "Mon, 12 Oct 2026 13:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Fiel Torcida pede intervenção judicial no Corinthians em ato de protesto no PSJ",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130089/fiel-torcida-pede-intervencao-judicial-no-corinthians-em-ato-de-protesto-no-psj",
+      "time": "12/10 · 16:18",
+      "pubDate": "Mon, 12 Oct 2026 13:18:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf desembarca no Brasil e comanda primeiro treino no Corinthians nesta quarta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-informa-chegada-seedorf-comissao-tecnica/",
+      "time": "12/10 · 16:12",
+      "pubDate": "Mon, 12 Oct 2026 16:12:36 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Seedorf terá ex-integrante da seleção de Camarões e do La Coruña como auxiliar no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541900/seedorf-tera-ex-integrante-da-selecao-de-camaroes-e-do-la-coruna-como-auxiliar-no-corinthians",
+      "time": "12/10 · 16:05",
+      "pubDate": "Mon, 12 Oct 2026 13:05:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians confirma data de chegada e apresentação de Seedorf no CT Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541897/corinthians-confirma-data-de-chegada-e-apresentacao-de-seedorf-no-ct-joaquim-grava",
+      "time": "12/10 · 15:40",
+      "pubDate": "Mon, 12 Oct 2026 12:40:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gustavo Henrique iguala Yuri Alberto e se torna artilheiro do Corinthians em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541831/gustavo-henrique-iguala-yuri-alberto-e-se-torna-artilheiro-do-corinthians-em-2026",
+      "time": "12/10 · 14:28",
+      "pubDate": "Mon, 12 Oct 2026 11:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tem semana de estreia na Libertadores Feminina e jogos decisivos nas categorias de base",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541880/corinthians-tem-semana-de-estreia-na-libertadores-feminina-e-jogos-decisivos-nas-categorias-de-base",
+      "time": "12/10 · 13:34",
+      "pubDate": "Mon, 12 Oct 2026 10:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians chega a 41% de chance de rebaixamento no Brasileirão após derrota para o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541881/corinthians-chega-a-41-por-cento-de-chance-de-rebaixamento-no-brasileirao-apos-derrota-para-o-palmeiras",
+      "time": "12/10 · 12:31",
+      "pubDate": "Mon, 12 Oct 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians atinge maior risco de rebaixamento no Brasileirão após oitava derrota seguida",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-atinge-maior-risco-de-rebaixamento-no-brasileirao-apos-oitava-derrota-seguida/",
+      "time": "12/10 · 12:29",
+      "pubDate": "Mon, 12 Oct 2026 12:29:39 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians aguarda por Seedorf em semana livre antes de encarar o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-aguarda-por-seedorf-em-semana-livre-antes-de-encarar-o-vitoria/",
+      "time": "12/10 · 10:00",
+      "pubDate": "Mon, 12 Oct 2026 10:00:47 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações do Corinthians: Hugo Souza se salva em derrota para o Palmeiras",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-hugo-souza-se-salva-em-derrota-para-o-palmeiras/",
+      "time": "12/10 · 09:00",
+      "pubDate": "Mon, 12 Oct 2026 09:00:31 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Corinthians é apático em Derby e aumenta preocupação na luta contra queda",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-e-apatico-em-derby-e-aumenta-preocupacao-na-luta-contra-queda/",
+      "time": "12/10 · 08:00",
+      "pubDate": "Mon, 12 Oct 2026 08:00:45 +0000"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
@@ -9,14 +113,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/gabriel-paulista-dispara-contra-diretoria-do-corinthians-apos-goleada-vergonhoso/",
       "time": "12/10 · 00:39",
       "pubDate": "Mon, 12 Oct 2026 00:39:28 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conta com tropeço de adversário e se salva da zona de rebaixamento mesmo com derrota",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541811/corinthians-conta-com-tropeco-de-adversario-e-se-salva-da-zona-de-rebaixamento-mesmo-com-derrota",
-      "time": "12/10 · 00:38",
-      "pubDate": "Sun, 11 Oct 2026 21:38:06 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -27,54 +123,6 @@ const LIVE_DATA = {
       "pubDate": "Mon, 12 Oct 2026 00:37:21 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Jovem atacante volta a atuar pela equipe profissional do Corinthians após quase um mês",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541827/jovem-atacante-volta-a-atuar-pela-equipe-profissional-do-corinthians-apos-quase-um-mes",
-      "time": "12/10 · 00:33",
-      "pubDate": "Sun, 11 Oct 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis Depay leva terceiro amarelo e vira novo desfalque do Corinthians no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541824/memphis-depay-leva-terceiro-amarelo-e-vira-novo-desfalque-do-corinthians-no-brasileirao",
-      "time": "12/10 · 00:19",
-      "pubDate": "Sun, 11 Oct 2026 21:19:27 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vence Regatas e aguarda conclusão do grupo para avançar na Sul-Americana de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541810/corinthians-vence-regatas-e-aguarda-conclusao-do-grupo-para-avancar-na-sul-americana-de-basquete",
-      "time": "12/10 · 00:06",
-      "pubDate": "Sun, 11 Oct 2026 21:06:48 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra maior sequência invicta no Nubank Parque em goleada pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541823/corinthians-encerra-maior-sequencia-invicta-no-nubank-parque-em-goleada-pelo-brasileirao",
-      "time": "12/10 · 00:05",
-      "pubDate": "Sun, 11 Oct 2026 21:05:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Forte desabafo de Gabriel Paulista aoós derrota do Corinthians para o Palmeiras",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130076/forte-desabafo-de-gabriel-paulista-aoos-derrota-do-corinthians-para-o-palmeiras",
-      "time": "12/10 · 00:01",
-      "pubDate": "Sun, 11 Oct 2026 21:01:38 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Fiel 'salva' goleiro e deixa elenco do Corinthians perto do zero após derrota no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541851/fiel-salva-goleiro-e-deixa-elenco-do-corinthians-perto-do-zero-apos-derrota-no-derbi",
-      "time": "11/10 · 23:47",
-      "pubDate": "Sun, 11 Oct 2026 20:47:32 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Palmeiras provoca o Corinthians após goleada no Derby: &#8220;Paternidade confirmada&#8221;",
@@ -83,44 +131,20 @@ const LIVE_DATA = {
       "pubDate": "Sun, 11 Oct 2026 23:46:34 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians chega a nove jogos sem vencer pela segunda vez no ano e repete feito de rebaixamento",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541840/corinthians-chega-a-nove-jogos-sem-vencer-pela-segunda-vez-no-ano-e-repete-feito-de-rebaixamento",
-      "time": "11/10 · 23:16",
-      "pubDate": "Sun, 11 Oct 2026 20:16:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Matheus Bidu marca gol contra bizarro e amplia pesadelo do Corinthians diante do Palmeiras",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/matheus-bidu-faz-gol-contra-bizarro-em-palmeiras-x-corinthians]]>",
+      "time": "11/10 · 22:32",
+      "pubDate": "Sun, 11 Oct 2026 19:32:28 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Palmeiras 4 x 1 Corinthians pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-palmeiras-4-x-1-corinthians-pelo-brasileirao/",
-      "time": "11/10 · 22:48",
-      "pubDate": "Sun, 11 Oct 2026 22:48:33 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Hugo Souza pede desculpas à torcida do Corinthians após goleada: &#8220;É doloroso&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/hugo-souza-pede-desculpas-a-torcida-do-corinthians-apos-goleada-e-doloroso/",
-      "time": "11/10 · 22:47",
-      "pubDate": "Sun, 11 Oct 2026 22:47:33 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras goleia, segue na cola do líder e deixa o Corinthians encostado no Z4",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-x-corinthians-30-rodada-brasileirao-11-10-2026/",
-      "time": "11/10 · 22:30",
-      "pubDate": "Sun, 11 Oct 2026 22:30:01 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras x Corinthians: veja fotos do jogo da 30ª rodada do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-x-corinthians-veja-fotos-do-jogo-da-30a-rodada-do-brasileirao/",
-      "time": "11/10 · 22:18",
-      "pubDate": "Sun, 11 Oct 2026 22:18:03 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians é goleado pelo Palmeiras, chega à oitava derrota seguida e segue ameaçado pelo Z-4",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-goleado-pelo-palmeiras-chega-a-oitava-derrota-seguida-e-segue-ameacado-pelo-z-4]]>",
+      "time": "11/10 · 22:23",
+      "pubDate": "Sun, 11 Oct 2026 19:23:07 -0300"
     },
     {
       "source": "Bolavip",
@@ -129,14 +153,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-anuncia-clarence-seedorf-como-novo-tecnico-e-define-estreia]]>",
       "time": "11/10 · 20:38",
       "pubDate": "Sun, 11 Oct 2026 17:38:38 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras tem Paulinho no banco, e Corinthians faz mudanças no meio; veja escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/escalacoes-palmeiras-corinthians-30-rodada-brasileirao-11-10-2026/",
-      "time": "11/10 · 19:36",
-      "pubDate": "Sun, 11 Oct 2026 19:36:41 +0000"
     },
     {
       "source": "Bolavip",
@@ -153,14 +169,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/jorge-sampaoli-nao-recusa-o-corinthians-mas-pedidos-e-duvidas-da-diretoria-travam-negocio]]>",
       "time": "11/10 · 15:26",
       "pubDate": "Sun, 11 Oct 2026 12:26:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vai definir futuro de Lingard e +8 jogadores após avaliação do substituto de Fernando Diniz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-vai-definir-futuro-de-lingard-e-8-jogadores-apos-avaliacao-do-substituto-de-fernando-diniz]]>",
-      "time": "10/10 · 23:15",
-      "pubDate": "Sat, 10 Oct 2026 20:15:38 -0300"
     },
     {
       "source": "Bolavip",
@@ -185,20 +193,48 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-coleciona-naos-e-ve-crise-pesar-na-busca-por-tecnico]]>",
       "time": "10/10 · 19:46",
       "pubDate": "Sat, 10 Oct 2026 16:46:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians procura Jorge Sampaoli após recusas e contratação tem pontos positivos e negativos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-procura-jorge-sampaoli-apos-recusas-e-contratacao-tem-pontos-positivos-e-negativos]]>",
-      "time": "10/10 · 17:26",
-      "pubDate": "Sat, 10 Oct 2026 14:26:15 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Fiel Torcida pede intervenção judicial no Corinthians em ato de protesto no PSJ",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130089/fiel-torcida-pede-intervencao-judicial-no-corinthians-em-ato-de-protesto-no-psj",
+      "pubDate": "Mon, 12 Oct 2026 13:18:00 -0300",
+      "date": "12/10 · 16:18"
+    },
+    {
+      "title": "Organizada do Corinthians cobra elenco e diretoria após goleada sofrida no Dérbi pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541869/organizada-do-corinthians-cobra-elenco-e-diretoria-apos-goleada-sofrida-no-derbi-pelo-brasileirao",
+      "pubDate": "Mon, 12 Oct 2026 08:17:00 -0300",
+      "date": "12/10 · 11:17"
+    },
+    {
+      "title": "Últimas do Corinthians: goleada no Dérbi, novo técnico e patrocinador máster",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541866/ultimas-do-corinthians-goleada-no-derbi-novo-tecnico-e-patrocinador-master",
+      "pubDate": "Mon, 12 Oct 2026 07:30:00 -0300",
+      "date": "12/10 · 10:30"
+    },
+    {
+      "title": "VÍDEO: Análise do vexame contra o Palmeiras e futuro do Corinthians: Coletiva WIllaim Batista",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130080/analise-do-vexame-contra-o-palmeiras-e-futuro-do-corinthians-coletiva-willaim-batista",
+      "pubDate": "Sun, 11 Oct 2026 21:50:22 -0300",
+      "date": "12/10 · 00:50"
+    },
+    {
+      "title": "VÍDEO: APÓS DERROTA PARA O PALMEIRAS, ÔNIBUS DO CORINTHIANS CHEGA COM POLICIAMENTO NO CT DR. JOAQUIM GRAVA",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130079/apos-derrota-para-o-palmeiras-onibus-do-corinthians-chega-com-policiamento-no-ct-dr-joaquim-grava",
+      "pubDate": "Sun, 11 Oct 2026 21:49:49 -0300",
+      "date": "12/10 · 00:49"
+    },
+    {
+      "title": "William Batista aponta falhas táticas do Corinthians em goleada sofrida para o Palmeiras",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541856/william-batista-aponta-falhas-taticas-do-corinthians-em-goleada-sofrida-para-o-palmeiras",
+      "pubDate": "Sun, 11 Oct 2026 21:47:00 -0300",
+      "date": "12/10 · 00:47"
+    },
     {
       "title": "Corinthians encerra maior sequência invicta no Nubank Parque em goleada pelo Brasileirão",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541823/corinthians-encerra-maior-sequencia-invicta-no-nubank-parque-em-goleada-pelo-brasileirao",
@@ -210,42 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130076/forte-desabafo-de-gabriel-paulista-aoos-derrota-do-corinthians-para-o-palmeiras",
       "pubDate": "Sun, 11 Oct 2026 21:01:38 -0300",
       "date": "12/10 · 00:01"
-    },
-    {
-      "title": "Fiel 'salva' goleiro e deixa elenco do Corinthians perto do zero após derrota no Dérbi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541851/fiel-salva-goleiro-e-deixa-elenco-do-corinthians-perto-do-zero-apos-derrota-no-derbi",
-      "pubDate": "Sun, 11 Oct 2026 20:47:32 -0300",
-      "date": "11/10 · 23:47"
-    },
-    {
-      "title": "VÍDEO: Betão e Vessoni desabafam após vexame do Corinthians para o Palmeiras",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130074/betao-e-vessoni-desabafam-apos-vexame-do-corinthians-para-o-palmeiras",
-      "pubDate": "Sun, 11 Oct 2026 20:10:00 -0300",
-      "date": "11/10 · 23:10"
-    },
-    {
-      "title": "VÍDEO: Piores momentos do Corinthians no duelo contra o Palmeiras",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130073/piores-momentos-do-corinthians-no-duelo-contra-o-palmeiras",
-      "pubDate": "Sun, 11 Oct 2026 19:54:26 -0300",
-      "date": "11/10 · 22:54"
-    },
-    {
-      "title": "Goleiro do Corinthians pede perdão pela goleada sofrida para o Palmeiras neste domingo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541839/goleiro-do-corinthians-pede-perdao-pela-goleada-sofrida-para-o-palmeiras-neste-domingo",
-      "pubDate": "Sun, 11 Oct 2026 19:46:00 -0300",
-      "date": "11/10 · 22:46"
-    },
-    {
-      "title": "Corinthians é goleado pelo Palmeiras e mantém fase negativa no Campeonato Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541805/corinthians-e-goleado-pelo-palmeiras-e-mantem-fase-negativa-no-campeonato-brasileiro",
-      "pubDate": "Sun, 11 Oct 2026 19:19:00 -0300",
-      "date": "11/10 · 22:19"
-    },
-    {
-      "title": "VÍDEO: 'É tapa na orelha!' | Organizadas vão ao CT do Corinthians antes de jogo contra o Palmeiras",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130070/e-tapa-na-orelha-organizadas-vao-ao-ct-do-corinthians-antes-de-jogo-contra-o-palmeiras",
-      "pubDate": "Sun, 11 Oct 2026 16:24:00 -0300",
-      "date": "11/10 · 19:24"
     }
   ]
 };
