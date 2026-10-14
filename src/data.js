@@ -1,62 +1,86 @@
-// Gerado automaticamente em 14/10/2026, 13:09:08
+// Gerado automaticamente em 14/10/2026, 21:02:24
 const LIVE_DATA = {
-  "updatedAt": "2026-10-14T13:09:08.333Z",
+  "updatedAt": "2026-10-14T21:02:24.421Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se manifesta após MP-SP cobrar informações sobre pagamentos do Fiel da Sorte",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541992/corinthians-se-manifesta-apos-mp-sp-cobrar-informacoes-sobre-pagamentos-do-fiel-da-sorte",
-      "time": "14/10 · 11:36",
-      "pubDate": "Wed, 14 Oct 2026 08:36:00 -0300"
+      "title": "Corinthians faz treino aberto à imprensa em primeira atividade de Seedorf",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542039/corinthians-faz-treino-aberto-a-imprensa-em-primeira-atividade-de-seedorf",
+      "time": "14/10 · 20:54",
+      "pubDate": "Wed, 14 Oct 2026 17:54:43 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Chegou! Seedorf chega no Brasil para treinar o Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130115/chegou-seedorf-chega-no-brasil-para-treinar-o-corinthians",
-      "time": "14/10 · 11:09",
-      "pubDate": "Wed, 14 Oct 2026 08:09:00 -0300"
+      "title": "Miguel Moscardo classifica o Corinthians e se isola ainda mais na artilharia do Sub-17 em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541983/miguel-moscardo-classifica-o-corinthians-e-se-isola-ainda-mais-na-artilharia-do-sub-17-em-2026",
+      "time": "14/10 · 20:30",
+      "pubDate": "Wed, 14 Oct 2026 17:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Clarence Seedorf desembarca no Brasil para iniciar trabalho no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541989/clarence-seedorf-desembarca-no-brasil-para-iniciar-trabalho-no-corinthians",
-      "time": "14/10 · 11:09",
-      "pubDate": "Wed, 14 Oct 2026 08:09:00 -0300"
+      "title": "Eleições Meu Timão: Ilmar Schiavenato registra candidatura à presidência do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542040/eleicoes-meu-timao-ilmar-schiavenato-registra-candidatura-a-presidencia-do-corinthians",
+      "time": "14/10 · 20:22",
+      "pubDate": "Wed, 14 Oct 2026 17:22:50 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: classificação no Sub-17, atritos por novo técnico e incômodo com Memphis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541978/ultimas-do-corinthians-classificacao-no-sub-17-atritos-por-novo-tecnico-e-incomodo-com-memphis",
-      "time": "14/10 · 10:30",
-      "pubDate": "Wed, 14 Oct 2026 07:30:00 -0300"
+      "title": "Seedorf demonstra confiança em reação do Corinthians e destaca experiência em momentos difíceis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542027/seedorf-demonstra-confianca-em-reacao-do-corinthians-e-destaca-experiencia-em-momentos-dificeis",
+      "time": "14/10 · 20:02",
+      "pubDate": "Wed, 14 Oct 2026 17:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra jejum de vitórias na última rodada da Sul-Americana de Basquete",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541884/corinthians-encerra-jejum-de-vitorias-na-ultima-rodada-da-sul-americana-de-basquete",
-      "time": "14/10 · 01:03",
-      "pubDate": "Tue, 13 Oct 2026 22:03:00 -0300"
+      "title": "Ex-atacante holandês revela convite de Seedorf para integrar comissão técnica no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542038/ex-atacante-holandes-revela-convite-de-seedorf-para-integrar-comissao-tecnica-no-corinthians",
+      "time": "14/10 · 20:00",
+      "pubDate": "Wed, 14 Oct 2026 17:00:26 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Rozallah Santoro cita redução de custo e afirma que 'Corinthians tem jeito'",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130108/rozallah-santoro-cita-reducao-de-custo-e-afirma-que-corinthians-tem-jeito",
-      "time": "14/10 · 00:20",
-      "pubDate": "Tue, 13 Oct 2026 21:20:26 -0300"
+      "title": "Corinthians chega ao Equador para superar fantasma da pior campanha na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541943/corinthians-chega-ao-equador-para-superar-fantasma-da-pior-campanha-na-libertadores-feminina",
+      "time": "14/10 · 19:36",
+      "pubDate": "Wed, 14 Oct 2026 16:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem maior percentual de gols de defensores da década em 2026; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541933/corinthians-tem-maior-percentual-de-gols-de-defensores-da-decada-em-2026-veja-o-ranking",
-      "time": "14/10 · 00:01",
-      "pubDate": "Tue, 13 Oct 2026 21:01:00 -0300"
+      "title": "Osmar Stabile não deve concorrer à eleição presidencial do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542031/osmar-stabile-nao-deve-concorrer-a-eleicao-presidencial-do-corinthians",
+      "time": "14/10 · 18:54",
+      "pubDate": "Wed, 14 Oct 2026 15:54:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Eleições MT: pré-candidato à presidência do Corinthians revela motivos para sua saída da Chapa 82",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541995/eleicoes-mt-pre-candidato-a-presidencia-do-corinthians-revela-motivos-para-sua-saida-da-chapa-82",
+      "time": "14/10 · 18:31",
+      "pubDate": "Wed, 14 Oct 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Osmar Stabile enfrenta resistência entre aliados para disputar reeleição no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-enfrenta-resistencia-entre-aliados-para-disputar-reeleicao-no-corinthians]]>",
+      "time": "14/10 · 12:34",
+      "pubDate": "Wed, 14 Oct 2026 09:34:15 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Seedorf tem 10 prioridades consideradas urgentes ao assumir como novo técnico do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-tem-10-prioridades-consideradas-urgentes-ao-assumir-como-novo-tecnico-do-corinthians]]>",
+      "time": "14/10 · 12:31",
+      "pubDate": "Wed, 14 Oct 2026 09:31:22 -0300"
     },
     {
       "source": "Bolavip",
@@ -65,22 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aplica-chapeu-no-fluminense-ao-fechar-com-seedorf-tecnico-era-1a-opcao-no-rj-para-2027]]>",
       "time": "13/10 · 23:20",
       "pubDate": "Tue, 13 Oct 2026 20:20:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile enfrenta resistência entre aliados para disputar reeleição no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-enfrenta-resistencia-entre-aliados-para-disputar-reeleicao-no-corinthians]]>",
-      "time": "13/10 · 23:19",
-      "pubDate": "Tue, 13 Oct 2026 20:19:06 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem retrospecto equilibrado com interinos após demissões desde 2020; veja os números",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541939/corinthians-tem-retrospecto-equilibrado-com-interinos-apos-demissoes-desde-2020-veja-os-numeros",
-      "time": "13/10 · 23:05",
-      "pubDate": "Tue, 13 Oct 2026 20:05:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,14 +121,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/leo-porto-assume-treino-do-corinthians-antes-de-seedorf-william-batista-deixa-impressoes-apos-derbi]]>",
       "time": "13/10 · 19:19",
       "pubDate": "Tue, 13 Oct 2026 16:19:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf coloca recuperação de Memphis Depay em lista de prioridades como novo treinador do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-coloca-recuperacao-de-memphis-depay-em-lista-de-prioridades-como-novo-treinador-do-corinthians]]>",
-      "time": "13/10 · 15:48",
-      "pubDate": "Tue, 13 Oct 2026 12:48:52 -0300"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,18 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Seedorf demonstra confiança em reação do Corinthians e destaca experiência em momentos difíceis",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542027/seedorf-demonstra-confianca-em-reacao-do-corinthians-e-destaca-experiencia-em-momentos-dificeis",
+      "pubDate": "Wed, 14 Oct 2026 17:02:00 -0300",
+      "date": "14/10 · 20:02"
+    },
+    {
+      "title": "Corinthians empresta goleiro, filho de conselheiro, para clube do Acre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542001/corinthians-empresta-goleiro-filho-de-conselheiro-para-clube-do-acre",
+      "pubDate": "Wed, 14 Oct 2026 14:30:00 -0300",
+      "date": "14/10 · 17:30"
+    },
+    {
       "title": "VÍDEO: Chegou! Seedorf chega no Brasil para treinar o Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130115/chegou-seedorf-chega-no-brasil-para-treinar-o-corinthians",
       "pubDate": "Wed, 14 Oct 2026 08:09:00 -0300",
@@ -234,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/541963/corinthians-vence-o-flamengo-com-gol-no-ultimo-minuto-e-classifica-a-semifinal-do-brasileiro-sub-17",
       "pubDate": "Tue, 13 Oct 2026 19:28:00 -0300",
       "date": "13/10 · 22:28"
-    },
-    {
-      "title": "Saiba como assistir ao trio do Corinthians na Seleção Brasileira contra a Argentina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541923/saiba-como-assistir-ao-trio-do-corinthians-na-selecao-brasileira-contra-a-argentina",
-      "pubDate": "Tue, 13 Oct 2026 10:02:00 -0300",
-      "date": "13/10 · 13:02"
     }
   ]
 };
