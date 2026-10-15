@@ -1,70 +1,94 @@
-// Gerado automaticamente em 15/10/2026, 00:10:27
+// Gerado automaticamente em 15/10/2026, 12:55:19
 const LIVE_DATA = {
-  "updatedAt": "2026-10-15T00:10:27.139Z",
+  "updatedAt": "2026-10-15T12:55:19.939Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Eleições MT: pré-candidato explica voto a favor das contas de 2025 e relembra dívidas no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541997/eleicoes-mt-pre-candidato-explica-voto-a-favor-das-contas-de-2025-e-relembra-dividas-no-corinthians",
-      "time": "15/10 · 00:02",
-      "pubDate": "Wed, 14 Oct 2026 21:02:00 -0300"
+      "title": "Volante do Corinthians projeta estreia diante do Colo-Colo pela Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542075/volante-do-corinthians-projeta-estreia-diante-do-colo-colo-pela-libertadores-feminina",
+      "time": "15/10 · 12:31",
+      "pubDate": "Thu, 15 Oct 2026 09:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Adversário do Corinthians coloca em dúvida participação na Libertadores Feminina; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542059/adversario-do-corinthians-coloca-em-duvida-participacao-na-libertadores-feminina-entenda",
-      "time": "14/10 · 23:41",
-      "pubDate": "Wed, 14 Oct 2026 20:41:19 -0300"
+      "title": "Zagueiro do Corinthians será julgado pelo STJD por eventos relacionados ao Dérbi e pode ser suspenso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542076/zagueiro-do-corinthians-sera-julgado-pelo-stjd-por-eventos-relacionados-ao-derbi-e-pode-ser-suspenso",
+      "time": "15/10 · 12:00",
+      "pubDate": "Thu, 15 Oct 2026 09:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: tudo sobre a luta do Corinthians pelo heptacampeonato da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541965/guia-do-meu-timao-tudo-sobre-a-luta-do-corinthians-pelo-heptacampeonato-da-libertadores-feminina",
+      "title": "Meu Timão transmite estreia do Corinthians Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542063/meu-timao-transmite-estreia-do-corinthians-libertadores-feminina-saiba-como-assistir",
+      "time": "15/10 · 11:30",
+      "pubDate": "Thu, 15 Oct 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: Seedorf apresentado, convite para comissão e lesão de volante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542065/ultimas-do-corinthians-seedorf-apresentado-convite-para-comissao-e-lesao-de-volante",
+      "time": "15/10 · 10:30",
+      "pubDate": "Thu, 15 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o Colo-Colo pela estreia da Libertadores Feminina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542061/corinthians-enfrenta-o-colo-colo-pela-estreia-da-libertadores-feminina-saiba-tudo",
+      "time": "15/10 · 03:01",
+      "pubDate": "Thu, 15 Oct 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra quebra de tabu de 11 anos após classificação no Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541982/corinthians-registra-quebra-de-tabu-de-11-anos-apos-classificacao-no-sub-17",
+      "time": "15/10 · 01:30",
+      "pubDate": "Wed, 14 Oct 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se solidariza com emissora e repudia ação após protesto de torcedores com rojões no CT",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542064/corinthians-se-solidariza-com-emissora-e-repudia-acao-apos-protesto-de-torcedores-com-rojoes-no-ct",
+      "time": "15/10 · 00:44",
+      "pubDate": "Wed, 14 Oct 2026 21:44:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Conheça o estádio que vai receber jogos do Corinthians na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542002/conheca-o-estadio-que-vai-receber-jogos-do-corinthians-na-libertadores-feminina",
+      "time": "15/10 · 00:33",
+      "pubDate": "Wed, 14 Oct 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Bastidores: Seedorf chega ao Corinthians, evita polêmicas e inicia trabalho com elenco abalado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/bastidores-seedorf-chega-ao-corinthians-evita-polemicas-e-inicia-trabalho-com-elenco-abalado]]>",
+      "time": "14/10 · 23:48",
+      "pubDate": "Wed, 14 Oct 2026 20:48:13 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Corinthians preocupa Laís Souza Lima por condição física do elenco em 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-corinthians-preocupa-lais-souza-lima-por-condicao-fisica-do-elenco-em-2026]]>",
+      "time": "14/10 · 23:39",
+      "pubDate": "Wed, 14 Oct 2026 20:39:17 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele tem lesão no menisco confirmada no Corinthians e passará por cirurgia",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-tem-lesao-no-menisco-confirmada-no-corinthians-e-passara-por-nova-avaliacao-medica]]>",
       "time": "14/10 · 23:30",
-      "pubDate": "Wed, 14 Oct 2026 20:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Seedorf detalha confiança em auxiliar e desconversa sobre modelo de jogo no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542028/seedorf-detalha-confianca-em-auxiliar-e-desconversa-sobre-modelo-de-jogo-no-corinthians",
-      "time": "14/10 · 23:01",
-      "pubDate": "Wed, 14 Oct 2026 20:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece os detalhes da semifinal do Brasileiro Sub-17; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542055/corinthians-conhece-os-detalhes-da-semifinal-do-brasileiro-sub-17-confira",
-      "time": "14/10 · 22:49",
-      "pubDate": "Wed, 14 Oct 2026 19:49:34 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians será submetido a cirurgia após lesão no joelho e deve retornar só em 2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542054/volante-do-corinthians-sera-submetido-a-cirurgia-apos-lesao-no-joelho-e-deve-retornar-so-em-2027",
-      "time": "14/10 · 22:48",
-      "pubDate": "Wed, 14 Oct 2026 19:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians promove encontro na Neo Química Arena para debater integridade e sustentabilidade",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542041/corinthians-promove-encontro-na-neo-quimica-arena-para-debater-integridade-e-sustentabilidade",
-      "time": "14/10 · 22:31",
-      "pubDate": "Wed, 14 Oct 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Seedorf no campo! Veja imagens do primeiro treino novo técnico do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130134/seedorf-no-campo-veja-imagens-do-primeiro-treino-novo-tecnico-do-corinthians",
-      "time": "14/10 · 22:09",
-      "pubDate": "Wed, 14 Oct 2026 19:09:21 -0300"
+      "pubDate": "Wed, 14 Oct 2026 20:30:49 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +97,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-seedorf-chega-ao-corinthians-com-pressao-contra-o-rebaixamento-e-futuro-incerto]]>",
       "time": "14/10 · 20:33",
       "pubDate": "Wed, 14 Oct 2026 17:33:47 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Raniele tem lesão no menisco confirmada no Corinthians e passará por nova avaliação médica",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-tem-lesao-no-menisco-confirmada-no-corinthians-e-passara-por-nova-avaliacao-medica]]>",
-      "time": "14/10 · 19:04",
-      "pubDate": "Wed, 14 Oct 2026 16:04:50 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,22 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/carlos-vinicius-william-jose-e-mais-5-centroavantes-para-o-corinthians-avaliar-no-mercado-da-bola-em-2027]]>",
       "time": "14/10 · 16:52",
       "pubDate": "Wed, 14 Oct 2026 13:52:46 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Osmar Stabile enfrenta resistência entre aliados para disputar reeleição no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-enfrenta-resistencia-entre-aliados-para-disputar-reeleicao-no-corinthians]]>",
-      "time": "14/10 · 12:34",
-      "pubDate": "Wed, 14 Oct 2026 09:34:15 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Seedorf tem 10 prioridades consideradas urgentes ao assumir como novo técnico do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-tem-10-prioridades-consideradas-urgentes-ao-assumir-como-novo-tecnico-do-corinthians]]>",
-      "time": "14/10 · 12:31",
-      "pubDate": "Wed, 14 Oct 2026 09:31:22 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Meu Timão transmite estreia do Corinthians Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542063/meu-timao-transmite-estreia-do-corinthians-libertadores-feminina-saiba-como-assistir",
+      "pubDate": "Thu, 15 Oct 2026 08:30:00 -0300",
+      "date": "15/10 · 11:30"
+    },
+    {
       "title": "VÍDEO: Seedorf no campo! Veja imagens do primeiro treino novo técnico do Corinthians",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130134/seedorf-no-campo-veja-imagens-do-primeiro-treino-novo-tecnico-do-corinthians",
       "pubDate": "Wed, 14 Oct 2026 19:09:21 -0300",
@@ -216,12 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542001/corinthians-empresta-goleiro-filho-de-conselheiro-para-clube-do-acre",
       "pubDate": "Wed, 14 Oct 2026 14:30:00 -0300",
       "date": "14/10 · 17:30"
-    },
-    {
-      "title": "VÍDEO: Chegou! Seedorf chega no Brasil para treinar o Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130115/chegou-seedorf-chega-no-brasil-para-treinar-o-corinthians",
-      "pubDate": "Wed, 14 Oct 2026 08:09:00 -0300",
-      "date": "14/10 · 11:09"
     }
   ]
 };
