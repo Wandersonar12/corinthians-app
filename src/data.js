@@ -1,78 +1,150 @@
-// Gerado automaticamente em 15/10/2026, 12:55:19
+// Gerado automaticamente em 15/10/2026, 20:36:16
 const LIVE_DATA = {
-  "updatedAt": "2026-10-15T12:55:19.939Z",
+  "updatedAt": "2026-10-15T20:36:16.527Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians projeta estreia diante do Colo-Colo pela Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542075/volante-do-corinthians-projeta-estreia-diante-do-colo-colo-pela-libertadores-feminina",
-      "time": "15/10 · 12:31",
-      "pubDate": "Thu, 15 Oct 2026 09:31:00 -0300"
+      "title": "Grupo técnico recomenda que Corinthians avalie recuperação judicial ou extrajudicial",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542093/grupo-tecnico-recomenda-que-corinthians-avalie-recuperacao-judicial-ou-extrajudicial",
+      "time": "15/10 · 20:30",
+      "pubDate": "Thu, 15 Oct 2026 17:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians será julgado pelo STJD por eventos relacionados ao Dérbi e pode ser suspenso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542076/zagueiro-do-corinthians-sera-julgado-pelo-stjd-por-eventos-relacionados-ao-derbi-e-pode-ser-suspenso",
-      "time": "15/10 · 12:00",
-      "pubDate": "Thu, 15 Oct 2026 09:00:00 -0300"
+      "title": "Atacante do Corinthians celebra gol e classificação sobre o Flamengo à semifinal do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542012/atacante-do-corinthians-celebra-gol-e-classificacao-sobre-o-flamengo-a-semifinal-do-brasileirao",
+      "time": "15/10 · 20:01",
+      "pubDate": "Thu, 15 Oct 2026 17:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meu Timão transmite estreia do Corinthians Libertadores Feminina; saiba como assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542063/meu-timao-transmite-estreia-do-corinthians-libertadores-feminina-saiba-como-assistir",
-      "time": "15/10 · 11:30",
-      "pubDate": "Thu, 15 Oct 2026 08:30:00 -0300"
+      "title": "VÍDEO: Sérgio Janikian assina candidatura e fala sobre falhas do modelo associativo atual do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130149/sergio-janikian-assina-candidatura-e-fala-sobre-falhas-do-modelo-associativo-atual-do-corinthians",
+      "time": "15/10 · 19:53",
+      "pubDate": "Thu, 15 Oct 2026 16:53:57 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: Seedorf apresentado, convite para comissão e lesão de volante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542065/ultimas-do-corinthians-seedorf-apresentado-convite-para-comissao-e-lesao-de-volante",
-      "time": "15/10 · 10:30",
-      "pubDate": "Thu, 15 Oct 2026 07:30:00 -0300"
+      "title": "Eleições Meu Timão: Sergio Janikian protocola candidatura à eleição presidencial do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542101/eleicoes-meu-timao-sergio-janikian-protocola-candidatura-a-eleicao-presidencial-do-corinthians",
+      "time": "15/10 · 19:41",
+      "pubDate": "Thu, 15 Oct 2026 16:41:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Sob pressão, Stabile não vai disputar reeleição no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/osmar-stabile-reeleicao-corinthians/",
+      "time": "15/10 · 19:20",
+      "pubDate": "Thu, 15 Oct 2026 19:20:32 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Colo-Colo pela estreia da Libertadores Feminina; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542061/corinthians-enfrenta-o-colo-colo-pela-estreia-da-libertadores-feminina-saiba-tudo",
-      "time": "15/10 · 03:01",
-      "pubDate": "Thu, 15 Oct 2026 00:01:00 -0300"
+      "title": "Seedorf deixa cargo na federação holandesa após assumir o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542097/seedorf-deixa-cargo-na-federacao-holandesa-apos-assumir-o-corinthians",
+      "time": "15/10 · 19:14",
+      "pubDate": "Thu, 15 Oct 2026 16:14:43 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians registra quebra de tabu de 11 anos após classificação no Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541982/corinthians-registra-quebra-de-tabu-de-11-anos-apos-classificacao-no-sub-17",
-      "time": "15/10 · 01:30",
-      "pubDate": "Wed, 14 Oct 2026 22:30:00 -0300"
+      "title": "VÍDEO: André Castro assina candidatura e fala sobre reestruturação no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130147/andre-castro-assina-candidatura-e-fala-sobre-reestruturacao-no-corinthians",
+      "time": "15/10 · 19:10",
+      "pubDate": "Thu, 15 Oct 2026 16:10:58 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se solidariza com emissora e repudia ação após protesto de torcedores com rojões no CT",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542064/corinthians-se-solidariza-com-emissora-e-repudia-acao-apos-protesto-de-torcedores-com-rojoes-no-ct",
-      "time": "15/10 · 00:44",
-      "pubDate": "Wed, 14 Oct 2026 21:44:00 -0300"
+      "title": "Corinthians define titulares para estreia na Libertadores Feminina contra o Colo-Colo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542072/corinthians-define-titulares-para-estreia-na-libertadores-feminina-contra-o-colo-colo",
+      "time": "15/10 · 18:55",
+      "pubDate": "Thu, 15 Oct 2026 15:55:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Conheça o estádio que vai receber jogos do Corinthians na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542002/conheca-o-estadio-que-vai-receber-jogos-do-corinthians-na-libertadores-feminina",
-      "time": "15/10 · 00:33",
-      "pubDate": "Wed, 14 Oct 2026 21:33:00 -0300"
+      "title": "Eleições Meu Timão: André Castro protocola candidatura à eleição presidencial do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542094/eleicoes-meu-timao-andre-castro-protocola-candidatura-a-eleicao-presidencial-do-corinthians",
+      "time": "15/10 · 18:51",
+      "pubDate": "Thu, 15 Oct 2026 15:51:24 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "STJD absolve zagueiro do Corinthians por suposto gesto obsceno contra o Palmeiras",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/stjd-absolve-zagueiro-do-corinthians-por-suposto-gesto-obsceno-contra-o-palmeiras/",
+      "time": "15/10 · 17:12",
+      "pubDate": "Thu, 15 Oct 2026 17:12:44 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "IA do Corinthians resolve 65% das demandas de torcedores sem intervenção humana",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/ia-do-corinthians-resolve-65-das-demandas-de-torcedores-sem-intervencao-humana/",
+      "time": "15/10 · 16:41",
+      "pubDate": "Thu, 15 Oct 2026 16:41:18 +0000"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Bastidores: Seedorf chega ao Corinthians, evita polêmicas e inicia trabalho com elenco abalado",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/bastidores-seedorf-chega-ao-corinthians-evita-polemicas-e-inicia-trabalho-com-elenco-abalado]]>",
-      "time": "14/10 · 23:48",
-      "pubDate": "Wed, 14 Oct 2026 20:48:13 -0300"
+      "time": "15/10 · 12:14",
+      "pubDate": "Thu, 15 Oct 2026 09:14:35 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Mercado da bola: Clubes ingleses seguem monitorando e estudam oferta por Yuri Alberto, do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/mercado-da-bola-clubes-ingleses-seguem-monitorando-e-estudam-oferta-por-yuri-alberto-do-corinthians]]>",
+      "time": "15/10 · 12:07",
+      "pubDate": "Thu, 15 Oct 2026 09:07:57 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf traça plano para tirar Corinthians da crise e revela prioridades",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-prioridades-corinthians-crise/",
+      "time": "15/10 · 08:00",
+      "pubDate": "Thu, 15 Oct 2026 08:00:19 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Colo-Colo pela Libertadores feminina: saiba informações e onde assistir ao jogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-colo-colo-pela-libertadores-feminina-saiba-informacoes-e-onde-assistir-ao-jogo/",
+      "time": "15/10 · 02:05",
+      "pubDate": "Thu, 15 Oct 2026 02:05:55 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Bastidores do primeiro dia de Seedorf no comando do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/bastidores-do-primeiro-dia-de-seedorf-no-comando-do-corinthians/",
+      "time": "15/10 · 01:50",
+      "pubDate": "Thu, 15 Oct 2026 01:50:00 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Seedorf chega ao Corinthians com pressão contra o rebaixamento e futuro incerto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-seedorf-chega-ao-corinthians-com-pressao-contra-o-rebaixamento-e-futuro-incerto]]>",
+      "time": "15/10 · 00:35",
+      "pubDate": "Wed, 14 Oct 2026 21:35:24 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf deve contar com panorama de William Batista sobre jovens da base do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-deve-contar-com-panorama-de-william-batista-sobre-jovens-da-base-do-corinthians]]>",
+      "time": "15/10 · 00:23",
+      "pubDate": "Wed, 14 Oct 2026 21:23:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -83,6 +155,14 @@ const LIVE_DATA = {
       "pubDate": "Wed, 14 Oct 2026 20:39:17 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Raniele passará por cirurgia no joelho no Corinthians; veja detalhes",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/raniele-cirurgia-joelho-corinthians/",
+      "time": "14/10 · 23:34",
+      "pubDate": "Wed, 14 Oct 2026 23:34:32 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Raniele tem lesão no menisco confirmada no Corinthians e passará por cirurgia",
@@ -91,12 +171,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 14 Oct 2026 20:30:49 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Seedorf chega ao Corinthians com pressão contra o rebaixamento e futuro incerto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-seedorf-chega-ao-corinthians-com-pressao-contra-o-rebaixamento-e-futuro-incerto]]>",
-      "time": "14/10 · 20:33",
-      "pubDate": "Wed, 14 Oct 2026 17:33:47 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do primeiro treino comandado por Seedorf no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/primeiro-treino-seedorf-corinthians-fotos/",
+      "time": "14/10 · 23:06",
+      "pubDate": "Wed, 14 Oct 2026 23:06:19 +0000"
     },
     {
       "source": "Bolavip",
@@ -113,86 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-promete-proteger-elenco-do-corinthians-e-ve-grupo-como-leao-ferido]]>",
       "time": "14/10 · 18:41",
       "pubDate": "Wed, 14 Oct 2026 15:41:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf descarta participação de Memphis Depay em chegada ao Corinthians: “Ele não tem relação”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-descarta-participacao-de-memphis-depay-em-chegada-ao-corinthians-ele-nao-tem-nenhuma-relacao]]>",
-      "time": "14/10 · 17:06",
-      "pubDate": "Wed, 14 Oct 2026 14:06:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Carlos Vinícius, William José e mais: 5 centroavantes para o Corinthians avaliar no mercado da bola em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/carlos-vinicius-william-jose-e-mais-5-centroavantes-para-o-corinthians-avaliar-no-mercado-da-bola-em-2027]]>",
-      "time": "14/10 · 16:52",
-      "pubDate": "Wed, 14 Oct 2026 13:52:46 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,28 +200,28 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Atacante do Corinthians celebra gol e classificação sobre o Flamengo à semifinal do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542012/atacante-do-corinthians-celebra-gol-e-classificacao-sobre-o-flamengo-a-semifinal-do-brasileirao",
+      "pubDate": "Thu, 15 Oct 2026 17:01:00 -0300",
+      "date": "15/10 · 20:01"
+    },
+    {
+      "title": "VÍDEO: Sérgio Janikian assina candidatura e fala sobre falhas do modelo associativo atual do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130149/sergio-janikian-assina-candidatura-e-fala-sobre-falhas-do-modelo-associativo-atual-do-corinthians",
+      "pubDate": "Thu, 15 Oct 2026 16:53:57 -0300",
+      "date": "15/10 · 19:53"
+    },
+    {
+      "title": "VÍDEO: André Castro assina candidatura e fala sobre reestruturação no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130147/andre-castro-assina-candidatura-e-fala-sobre-reestruturacao-no-corinthians",
+      "pubDate": "Thu, 15 Oct 2026 16:10:58 -0300",
+      "date": "15/10 · 19:10"
+    },
+    {
       "title": "Meu Timão transmite estreia do Corinthians Libertadores Feminina; saiba como assistir",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542063/meu-timao-transmite-estreia-do-corinthians-libertadores-feminina-saiba-como-assistir",
       "pubDate": "Thu, 15 Oct 2026 08:30:00 -0300",
       "date": "15/10 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Seedorf no campo! Veja imagens do primeiro treino novo técnico do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130134/seedorf-no-campo-veja-imagens-do-primeiro-treino-novo-tecnico-do-corinthians",
-      "pubDate": "Wed, 14 Oct 2026 19:09:21 -0300",
-      "date": "14/10 · 22:09"
-    },
-    {
-      "title": "Seedorf demonstra confiança em reação do Corinthians e destaca experiência em momentos difíceis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542027/seedorf-demonstra-confianca-em-reacao-do-corinthians-e-destaca-experiencia-em-momentos-dificeis",
-      "pubDate": "Wed, 14 Oct 2026 17:02:00 -0300",
-      "date": "14/10 · 20:02"
-    },
-    {
-      "title": "Corinthians empresta goleiro, filho de conselheiro, para clube do Acre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542001/corinthians-empresta-goleiro-filho-de-conselheiro-para-clube-do-acre",
-      "pubDate": "Wed, 14 Oct 2026 14:30:00 -0300",
-      "date": "14/10 · 17:30"
     }
   ]
 };
