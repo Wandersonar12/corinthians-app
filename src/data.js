@@ -1,70 +1,118 @@
-// Gerado automaticamente em 14/10/2026, 21:02:24
+// Gerado automaticamente em 15/10/2026, 00:10:27
 const LIVE_DATA = {
-  "updatedAt": "2026-10-14T21:02:24.421Z",
+  "updatedAt": "2026-10-15T00:10:27.139Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians faz treino aberto à imprensa em primeira atividade de Seedorf",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542039/corinthians-faz-treino-aberto-a-imprensa-em-primeira-atividade-de-seedorf",
-      "time": "14/10 · 20:54",
-      "pubDate": "Wed, 14 Oct 2026 17:54:43 -0300"
+      "title": "Eleições MT: pré-candidato explica voto a favor das contas de 2025 e relembra dívidas no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541997/eleicoes-mt-pre-candidato-explica-voto-a-favor-das-contas-de-2025-e-relembra-dividas-no-corinthians",
+      "time": "15/10 · 00:02",
+      "pubDate": "Wed, 14 Oct 2026 21:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Miguel Moscardo classifica o Corinthians e se isola ainda mais na artilharia do Sub-17 em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541983/miguel-moscardo-classifica-o-corinthians-e-se-isola-ainda-mais-na-artilharia-do-sub-17-em-2026",
-      "time": "14/10 · 20:30",
-      "pubDate": "Wed, 14 Oct 2026 17:30:00 -0300"
+      "title": "Adversário do Corinthians coloca em dúvida participação na Libertadores Feminina; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542059/adversario-do-corinthians-coloca-em-duvida-participacao-na-libertadores-feminina-entenda",
+      "time": "14/10 · 23:41",
+      "pubDate": "Wed, 14 Oct 2026 20:41:19 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Eleições Meu Timão: Ilmar Schiavenato registra candidatura à presidência do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542040/eleicoes-meu-timao-ilmar-schiavenato-registra-candidatura-a-presidencia-do-corinthians",
-      "time": "14/10 · 20:22",
-      "pubDate": "Wed, 14 Oct 2026 17:22:50 -0300"
+      "title": "Guia do Meu Timão: tudo sobre a luta do Corinthians pelo heptacampeonato da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541965/guia-do-meu-timao-tudo-sobre-a-luta-do-corinthians-pelo-heptacampeonato-da-libertadores-feminina",
+      "time": "14/10 · 23:30",
+      "pubDate": "Wed, 14 Oct 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Seedorf demonstra confiança em reação do Corinthians e destaca experiência em momentos difíceis",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542027/seedorf-demonstra-confianca-em-reacao-do-corinthians-e-destaca-experiencia-em-momentos-dificeis",
-      "time": "14/10 · 20:02",
-      "pubDate": "Wed, 14 Oct 2026 17:02:00 -0300"
+      "title": "Seedorf detalha confiança em auxiliar e desconversa sobre modelo de jogo no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542028/seedorf-detalha-confianca-em-auxiliar-e-desconversa-sobre-modelo-de-jogo-no-corinthians",
+      "time": "14/10 · 23:01",
+      "pubDate": "Wed, 14 Oct 2026 20:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-atacante holandês revela convite de Seedorf para integrar comissão técnica no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542038/ex-atacante-holandes-revela-convite-de-seedorf-para-integrar-comissao-tecnica-no-corinthians",
-      "time": "14/10 · 20:00",
-      "pubDate": "Wed, 14 Oct 2026 17:00:26 -0300"
+      "title": "Corinthians conhece os detalhes da semifinal do Brasileiro Sub-17; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542055/corinthians-conhece-os-detalhes-da-semifinal-do-brasileiro-sub-17-confira",
+      "time": "14/10 · 22:49",
+      "pubDate": "Wed, 14 Oct 2026 19:49:34 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians chega ao Equador para superar fantasma da pior campanha na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541943/corinthians-chega-ao-equador-para-superar-fantasma-da-pior-campanha-na-libertadores-feminina",
-      "time": "14/10 · 19:36",
-      "pubDate": "Wed, 14 Oct 2026 16:36:00 -0300"
+      "title": "Volante do Corinthians será submetido a cirurgia após lesão no joelho e deve retornar só em 2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542054/volante-do-corinthians-sera-submetido-a-cirurgia-apos-lesao-no-joelho-e-deve-retornar-so-em-2027",
+      "time": "14/10 · 22:48",
+      "pubDate": "Wed, 14 Oct 2026 19:48:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Osmar Stabile não deve concorrer à eleição presidencial do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542031/osmar-stabile-nao-deve-concorrer-a-eleicao-presidencial-do-corinthians",
-      "time": "14/10 · 18:54",
-      "pubDate": "Wed, 14 Oct 2026 15:54:00 -0300"
+      "title": "Corinthians promove encontro na Neo Química Arena para debater integridade e sustentabilidade",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542041/corinthians-promove-encontro-na-neo-quimica-arena-para-debater-integridade-e-sustentabilidade",
+      "time": "14/10 · 22:31",
+      "pubDate": "Wed, 14 Oct 2026 19:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Eleições MT: pré-candidato à presidência do Corinthians revela motivos para sua saída da Chapa 82",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541995/eleicoes-mt-pre-candidato-a-presidencia-do-corinthians-revela-motivos-para-sua-saida-da-chapa-82",
-      "time": "14/10 · 18:31",
-      "pubDate": "Wed, 14 Oct 2026 15:31:00 -0300"
+      "title": "VÍDEO: Seedorf no campo! Veja imagens do primeiro treino novo técnico do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130134/seedorf-no-campo-veja-imagens-do-primeiro-treino-novo-tecnico-do-corinthians",
+      "time": "14/10 · 22:09",
+      "pubDate": "Wed, 14 Oct 2026 19:09:21 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Seedorf chega ao Corinthians com pressão contra o rebaixamento e futuro incerto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-seedorf-chega-ao-corinthians-com-pressao-contra-o-rebaixamento-e-futuro-incerto]]>",
+      "time": "14/10 · 20:33",
+      "pubDate": "Wed, 14 Oct 2026 17:33:47 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele tem lesão no menisco confirmada no Corinthians e passará por nova avaliação médica",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-tem-lesao-no-menisco-confirmada-no-corinthians-e-passara-por-nova-avaliacao-medica]]>",
+      "time": "14/10 · 19:04",
+      "pubDate": "Wed, 14 Oct 2026 16:04:50 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians quer quitar pendências com jogadores antes de buscar soluções para derrubar transfer bans",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-quitar-pendencias-com-jogadores-antes-de-buscar-solucoes-para-derrubar-transfer-bans]]>",
+      "time": "14/10 · 19:00",
+      "pubDate": "Wed, 14 Oct 2026 16:00:21 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf promete proteger elenco do Corinthians e vê grupo como “leão ferido”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-promete-proteger-elenco-do-corinthians-e-ve-grupo-como-leao-ferido]]>",
+      "time": "14/10 · 18:41",
+      "pubDate": "Wed, 14 Oct 2026 15:41:51 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf descarta participação de Memphis Depay em chegada ao Corinthians: “Ele não tem relação”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-descarta-participacao-de-memphis-depay-em-chegada-ao-corinthians-ele-nao-tem-nenhuma-relacao]]>",
+      "time": "14/10 · 17:06",
+      "pubDate": "Wed, 14 Oct 2026 14:06:41 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Carlos Vinícius, William José e mais: 5 centroavantes para o Corinthians avaliar no mercado da bola em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/carlos-vinicius-william-jose-e-mais-5-centroavantes-para-o-corinthians-avaliar-no-mercado-da-bola-em-2027]]>",
+      "time": "14/10 · 16:52",
+      "pubDate": "Wed, 14 Oct 2026 13:52:46 -0300"
     },
     {
       "source": "Bolavip",
@@ -81,54 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-tem-10-prioridades-consideradas-urgentes-ao-assumir-como-novo-tecnico-do-corinthians]]>",
       "time": "14/10 · 12:31",
       "pubDate": "Wed, 14 Oct 2026 09:31:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aplica “chapéu” no Fluminense ao fechar com Seedorf; técnico era 1ª opção no RJ para 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aplica-chapeu-no-fluminense-ao-fechar-com-seedorf-tecnico-era-1a-opcao-no-rj-para-2027]]>",
-      "time": "13/10 · 23:20",
-      "pubDate": "Tue, 13 Oct 2026 20:20:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians tem mais sorte do que juízo e vê chances de permanência aumentarem após goleada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-tem-mais-sorte-do-que-juizo-e-ve-chances-de-permanencia-aumentarem-apos-goleada]]>",
-      "time": "13/10 · 21:56",
-      "pubDate": "Tue, 13 Oct 2026 18:56:33 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Postura de Memphis Depay causa incômodo em jogadores, comissão técnica e dirigentes do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/postura-de-memphis-depay-causa-incomodo-em-jogadores-comissao-tecnica-e-dirigentes-do-corinthians]]>",
-      "time": "13/10 · 19:26",
-      "pubDate": "Tue, 13 Oct 2026 16:26:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Exigente e disciplinador: perfil de Seedorf pode ser trunfo para recuperar o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/exigente-e-disciplinador-perfil-de-seedorf-pode-ser-trunfo-para-recuperar-o-corinthians]]>",
-      "time": "13/10 · 19:19",
-      "pubDate": "Tue, 13 Oct 2026 16:19:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Léo Porto assume treino do Corinthians antes de Seedorf; William Batista deixa impressões após Dérbi",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/leo-porto-assume-treino-do-corinthians-antes-de-seedorf-william-batista-deixa-impressoes-apos-derbi]]>",
-      "time": "13/10 · 19:19",
-      "pubDate": "Tue, 13 Oct 2026 16:19:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Punição ou rescisão de Gabriel Paulista após desabafo só vai piorar situação do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-punicao-ou-rescisao-de-gabriel-paulista-apos-desabafo-so-vai-piorar-situacao-do-corinthians]]>",
-      "time": "13/10 · 13:12",
-      "pubDate": "Tue, 13 Oct 2026 10:12:58 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Seedorf no campo! Veja imagens do primeiro treino novo técnico do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130134/seedorf-no-campo-veja-imagens-do-primeiro-treino-novo-tecnico-do-corinthians",
+      "pubDate": "Wed, 14 Oct 2026 19:09:21 -0300",
+      "date": "14/10 · 22:09"
+    },
+    {
       "title": "Seedorf demonstra confiança em reação do Corinthians e destaca experiência em momentos difíceis",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542027/seedorf-demonstra-confianca-em-reacao-do-corinthians-e-destaca-experiencia-em-momentos-dificeis",
       "pubDate": "Wed, 14 Oct 2026 17:02:00 -0300",
@@ -216,36 +222,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130115/chegou-seedorf-chega-no-brasil-para-treinar-o-corinthians",
       "pubDate": "Wed, 14 Oct 2026 08:09:00 -0300",
       "date": "14/10 · 11:09"
-    },
-    {
-      "title": "VÍDEO: Intervenção judicial: Rozallah Santoro opina sobre o assunto",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130110/intervencao-judicial-rozallah-santoro-opina-sobre-o-assunto",
-      "pubDate": "Tue, 13 Oct 2026 22:03:57 -0300",
-      "date": "14/10 · 01:03"
-    },
-    {
-      "title": "VÍDEO: Rozallah explica caso Rojas e problemas com Augusto Melo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130109/rozallah-explica-caso-rojas-e-problemas-com-augusto-melo",
-      "pubDate": "Tue, 13 Oct 2026 21:37:37 -0300",
-      "date": "14/10 · 00:37"
-    },
-    {
-      "title": "VÍDEO: Rozallah Santoro cita redução de custo e afirma que 'Corinthians tem jeito'",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130108/rozallah-santoro-cita-reducao-de-custo-e-afirma-que-corinthians-tem-jeito",
-      "pubDate": "Tue, 13 Oct 2026 21:20:26 -0300",
-      "date": "14/10 · 00:20"
-    },
-    {
-      "title": "Corinthians tem maior percentual de gols de defensores da década em 2026; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541933/corinthians-tem-maior-percentual-de-gols-de-defensores-da-decada-em-2026-veja-o-ranking",
-      "pubDate": "Tue, 13 Oct 2026 21:01:00 -0300",
-      "date": "14/10 · 00:01"
-    },
-    {
-      "title": "Corinthians vence o Flamengo com gol no último minuto e classifica à semifinal do Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/541963/corinthians-vence-o-flamengo-com-gol-no-ultimo-minuto-e-classifica-a-semifinal-do-brasileiro-sub-17",
-      "pubDate": "Tue, 13 Oct 2026 19:28:00 -0300",
-      "date": "13/10 · 22:28"
     }
   ]
 };
