@@ -1,30 +1,118 @@
-// Gerado automaticamente em 16/10/2026, 12:47:05
+// Gerado automaticamente em 16/10/2026, 20:09:41
 const LIVE_DATA = {
-  "updatedAt": "2026-10-16T12:47:05.780Z",
+  "updatedAt": "2026-10-16T20:09:41.968Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Delegação do Corinthians sofre com problemas logísticos durante disputa da Liga Sul-Americana",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542102/delegacao-do-corinthians-sofre-com-problemas-logisticos-durante-disputa-da-liga-sul-americana",
-      "time": "16/10 · 12:30",
-      "pubDate": "Fri, 16 Oct 2026 09:30:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia Portuguesa Santisa e vai às quartas do Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-portuguesa-santisa-e-vai-as-quartas-do-paulista-sub-20/",
+      "time": "16/10 · 20:01",
+      "pubDate": "Fri, 16 Oct 2026 20:01:39 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians vai cobrar evolução física de Memphis e planeja trabalho individualizado",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-memphis-depay-evolucao-fisica/",
+      "time": "16/10 · 20:01",
+      "pubDate": "Fri, 16 Oct 2026 20:01:38 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe a Portuguesa Santista em busca da classificação no Paulista Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542092/corinthians-recebe-a-portuguesa-santista-em-busca-da-classificacao-no-paulista-sub-20-saiba-tudo",
-      "time": "16/10 · 11:30",
-      "pubDate": "Fri, 16 Oct 2026 08:30:00 -0300"
+      "title": "Corinthians atropela a Portuguesa Santista e se classifica às quartas de final do Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542173/corinthians-atropela-a-portuguesa-santista-e-se-classifica-as-quartas-de-final-do-paulista-sub-20",
+      "time": "16/10 · 19:55",
+      "pubDate": "Fri, 16 Oct 2026 16:55:36 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória na Libertadores, cobrança de organizada e reforço na base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542141/ultimas-do-corinthians-vitoria-na-libertadores-cobranca-de-organizada-e-reforco-na-base",
-      "time": "16/10 · 10:30",
-      "pubDate": "Fri, 16 Oct 2026 07:30:00 -0300"
+      "title": "Ramón Díaz revela por que recusou proposta para voltar a comandar o Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542189/ramon-diaz-revela-por-que-recusou-proposta-para-voltar-a-comandar-o-corinthians",
+      "time": "16/10 · 19:46",
+      "pubDate": "Fri, 16 Oct 2026 16:46:31 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians volta a vencer na primeira rodada da Libertadores Feminina após dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542152/corinthians-volta-a-vencer-na-primeira-rodada-da-libertadores-feminina-apos-dois-anos",
+      "time": "16/10 · 19:36",
+      "pubDate": "Fri, 16 Oct 2026 16:36:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians e Caixa avançam em negociações por dívida da Arena e assinam termo de confidencialidade",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-caixa-divida-neo-quimica-arena/",
+      "time": "16/10 · 19:15",
+      "pubDate": "Fri, 16 Oct 2026 19:15:57 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians e Caixa detalham reunião em meio às negociações para quitar dívida da Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542187/corinthians-e-caixa-detalham-reuniao-em-meio-as-negociacoes-para-quitar-divida-da-neo-quimica-arena",
+      "time": "16/10 · 19:05",
+      "pubDate": "Fri, 16 Oct 2026 16:05:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians corre contra o tempo para regularizar Seedorf e tê-lo no banco contra o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-regularizar-seedorf-estreia-vitoria/",
+      "time": "16/10 · 18:45",
+      "pubDate": "Fri, 16 Oct 2026 18:45:12 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians acerta renovação de contrato com goleiro destaque na base; saiba os detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542183/corinthians-acerta-renovacao-de-contrato-com-goleiro-destaque-na-base-saiba-os-detalhes",
+      "time": "16/10 · 18:39",
+      "pubDate": "Fri, 16 Oct 2026 15:39:35 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante deve ficar fora pela maior sequência de jogos no Corinthians após nova lesão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542077/volante-deve-ficar-fora-pela-maior-sequencia-de-jogos-no-corinthians-apos-nova-lesao",
+      "time": "16/10 · 18:35",
+      "pubDate": "Fri, 16 Oct 2026 15:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia do Corinthians encerra jejuns pessoais em vitória na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542144/meia-do-corinthians-encerra-jejuns-pessoais-em-vitoria-na-libertadores-feminina",
+      "time": "16/10 · 17:32",
+      "pubDate": "Fri, 16 Oct 2026 14:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encaminha renovação com Miguel Moscardo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542176/corinthians-encaminha-renovacao-com-miguel-moscardo",
+      "time": "16/10 · 17:14",
+      "pubDate": "Fri, 16 Oct 2026 14:14:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians e Gaviões viajam a Brasília para tentar fechar acordo com a Caixa sobre Arena",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-e-gavioes-viajam-a-brasilia-para-tentar-fechar-acordo-com-a-caixa-sobre-arena/",
+      "time": "16/10 · 13:34",
+      "pubDate": "Fri, 16 Oct 2026 13:34:09 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Organizadas do Corinthians exigem afastamento de Memphis Depay e demissão de Marcelo Paz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-organizadas-do-corinthians-exigem-afastamento-de-memphis-depay-e-demissao-de-marcelo-paz]]>",
+      "time": "16/10 · 12:16",
+      "pubDate": "Fri, 16 Oct 2026 09:16:01 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,44 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 16 Oct 2026 08:00:40 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Adversário do Corinthians confirma participação na Libertadores Feminina após impasse com vistos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542145/adversario-do-corinthians-confirma-participacao-na-libertadores-feminina-apos-impasse-com-vistos",
-      "time": "16/10 · 02:17",
-      "pubDate": "Thu, 15 Oct 2026 23:17:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians celebra vitória na estreia da Libertadores e destaca preparação das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542138/atacante-do-corinthians-celebra-vitoria-na-estreia-da-libertadores-e-destaca-preparacao-das-brabas",
-      "time": "16/10 · 01:30",
-      "pubDate": "Thu, 15 Oct 2026 22:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians divulga imagens de tour especial com Basílio no Memorial do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542082/corinthians-divulga-imagens-de-tour-especial-com-basilio-no-memorial-do-clube",
-      "time": "16/10 · 01:01",
-      "pubDate": "Thu, 15 Oct 2026 22:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians desliga diretor de tecnologia",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542140/corinthians-desliga-diretor-de-tecnologia",
-      "time": "16/10 · 00:31",
-      "pubDate": "Thu, 15 Oct 2026 21:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleira do Corinthians valoriza vitória sobre o Colo-Colo e mira heptacampeonato da Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542136/goleira-do-corinthians-valoriza-vitoria-sobre-o-colo-colo-e-mira-heptacampeonato-da-libertadores",
-      "time": "16/10 · 00:31",
-      "pubDate": "Thu, 15 Oct 2026 21:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay não é mais intocável e Seedorf tem carta branca para realizar mudanças no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-nao-e-mais-intocavel-e-seedorf-tem-carta-branca-para-realizar-mudancas-no-corinthians]]>",
+      "time": "16/10 · 00:25",
+      "pubDate": "Thu, 15 Oct 2026 21:25:41 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -89,46 +145,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/torcidas-corinthians-saidas-marcelo-paz-memphis/",
       "time": "15/10 · 23:27",
       "pubDate": "Thu, 15 Oct 2026 23:27:13 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Portuguesa Santista: onde assistir, horário e detalhes do Paulista Sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-portuguesa-santista-onde-assistir-sub-20/",
-      "time": "15/10 · 23:00",
-      "pubDate": "Thu, 15 Oct 2026 23:00:37 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com novidade em campo, Seedorf comanda atividade em dois períodos no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/gabriel-paulista-volta-treino-corinthians-seedorf/",
-      "time": "15/10 · 22:35",
-      "pubDate": "Thu, 15 Oct 2026 22:35:13 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta quinta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quinta-feira-11/",
-      "time": "15/10 · 21:58",
-      "pubDate": "Thu, 15 Oct 2026 21:58:42 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians supera Colo-Colo e estreia com vitória na Libertadores feminina",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-colo-colo-e-estreia-com-vitoria-na-libertadores-feminina/",
-      "time": "15/10 · 21:57",
-      "pubDate": "Thu, 15 Oct 2026 21:57:25 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Stabile explica decisão de não disputar reeleição no Corinthians: &#8220;Clube está acima de projetos pessoais&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/osmar-stabile-reeleicao-corinthians-carta/",
-      "time": "15/10 · 21:34",
-      "pubDate": "Thu, 15 Oct 2026 21:34:00 +0000"
     },
     {
       "source": "Bolavip",
@@ -149,14 +165,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Memphis Depay não é mais intocável e Seedorf tem carta branca para realizar mudanças no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-nao-e-mais-intocavel-e-seedorf-tem-carta-branca-para-realizar-mudancas-no-corinthians]]>",
-      "time": "15/10 · 16:59",
-      "pubDate": "Thu, 15 Oct 2026 13:59:39 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Análise: Lesão de Raniele evidencia trabalho questionável feito pelo departamento médico do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-lesao-de-raniele-evidencia-trabalho-questionavel-feito-pelo-departamento-medico-do-corinthians]]>",
       "time": "15/10 · 13:12",
@@ -169,14 +177,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/mercado-da-bola-clubes-ingleses-seguem-monitorando-e-estudam-oferta-por-yuri-alberto-do-corinthians]]>",
       "time": "15/10 · 12:07",
       "pubDate": "Thu, 15 Oct 2026 09:07:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Seedorf chega ao Corinthians com pressão contra o rebaixamento e futuro incerto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-seedorf-chega-ao-corinthians-com-pressao-contra-o-rebaixamento-e-futuro-incerto]]>",
-      "time": "15/10 · 00:35",
-      "pubDate": "Wed, 14 Oct 2026 21:35:24 -0300"
     },
     {
       "source": "Bolavip",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians acerta renovação de contrato com goleiro destaque na base; saiba os detalhes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542183/corinthians-acerta-renovacao-de-contrato-com-goleiro-destaque-na-base-saiba-os-detalhes",
+      "pubDate": "Fri, 16 Oct 2026 15:39:35 -0300",
+      "date": "16/10 · 18:39"
+    },
     {
       "title": "Goleira do Corinthians valoriza vitória sobre o Colo-Colo e mira heptacampeonato da Libertadores",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542136/goleira-do-corinthians-valoriza-vitoria-sobre-o-colo-colo-e-mira-heptacampeonato-da-libertadores",
@@ -228,24 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130164/adversario-complicado-e-dificuldades-da-altitude-zona-mista-jaqueline-corinthians-2x0-colo-colo",
       "pubDate": "Thu, 15 Oct 2026 19:46:23 -0300",
       "date": "15/10 · 22:46"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Corinthians 2x0 Colo-Colo | 1ª rodada | Conmebol Libertadores Feminina 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130163/melhores-momentos-corinthians-2x0-colo-colo-1-rodada-conmebol-libertadores-feminina-2026",
-      "pubDate": "Thu, 15 Oct 2026 19:46:00 -0300",
-      "date": "15/10 · 22:46"
-    },
-    {
-      "title": "VÍDEO: Vitória na estreia e volta por cima das Brabas: Zona Mista Lelê | Corinthians 2x0 Colo-Colo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130162/vitoria-na-estreia-e-volta-por-cima-das-brabas-zona-mista-lele-corinthians-2x0-colo-colo",
-      "pubDate": "Thu, 15 Oct 2026 19:45:10 -0300",
-      "date": "15/10 · 22:45"
-    },
-    {
-      "title": "VÍDEO: Osmar Stabile estende convite a candidato a presidente, Rozallah Santoro, para compor chapa",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130151/osmar-stabile-estende-convite-a-candidato-a-preisodente-rozallah-santoro-para-compor-chapa",
-      "pubDate": "Thu, 15 Oct 2026 17:52:55 -0300",
-      "date": "15/10 · 20:52"
     }
   ]
 };
