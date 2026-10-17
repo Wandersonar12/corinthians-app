@@ -1,7 +1,47 @@
-// Gerado automaticamente em 17/10/2026, 11:48:26
+// Gerado automaticamente em 17/10/2026, 14:30:44
 const LIVE_DATA = {
-  "updatedAt": "2026-10-17T11:48:26.168Z",
+  "updatedAt": "2026-10-17T14:30:44.613Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians inicia desligamento de diretores em meio às eleições do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542247/corinthians-inicia-desligamento-de-diretores-em-meio-as-eleicoes-do-clube",
+      "time": "17/10 · 13:53",
+      "pubDate": "Sat, 17 Oct 2026 10:53:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Vic Albuquerque ultrapassa ex-jogador e se torna a 13ª maior artilheira da história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542166/vic-albuquerque-ultrapassa-ex-jogador-e-se-torna-a-13-maior-artilheira-da-historia-do-corinthians",
+      "time": "17/10 · 13:30",
+      "pubDate": "Sat, 17 Oct 2026 10:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Mogi na abertura da temporada 2026/27 do NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542180/corinthians-visita-o-mogi-na-abertura-da-temporada-202627-do-nbb-saiba-tudo",
+      "time": "17/10 · 12:30",
+      "pubDate": "Sat, 17 Oct 2026 09:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o Bragantino em busca de vantagem no Paulistão Feminino Sub-20; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542184/corinthians-visita-o-bragantino-em-busca-de-vantagem-no-paulistao-feminino-sub-20-saiba-tudo",
+      "time": "17/10 · 12:00",
+      "pubDate": "Sat, 17 Oct 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians poderia tentar um novo empréstimo de Kaio César para 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-poderia-tentar-um-novo-emprestimo-de-kaio-cesar-para-2027]]>",
+      "time": "17/10 · 11:40",
+      "pubDate": "Sat, 17 Oct 2026 08:40:47 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,14 +57,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542224/ultimas-do-corinthians-avanco-com-a-caixa-pedido-de-prisao-e-tecnico-fora-do-bid",
       "time": "17/10 · 10:30",
       "pubDate": "Sat, 17 Oct 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Vitinho reencontra &#8220;pai&#8221; Seedorf e busca recuperar espaço no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/vitinho-reencontra-seedorf-corinthians/",
-      "time": "17/10 · 08:00",
-      "pubDate": "Sat, 17 Oct 2026 08:00:50 +0000"
     },
     {
       "source": "Meu Timao",
@@ -43,92 +75,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 16 Oct 2026 21:42:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Organizados estendem faixas contra diretoria e Memphis na sede do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-corinthians-protesto-diretoria-memphis/",
-      "time": "17/10 · 00:37",
-      "pubDate": "Sat, 17 Oct 2026 00:37:27 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Guia do Meu Timão: tudo sobre a luta do Corinthians pelo título inédito no NBB 2026/2027",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542161/guia-do-meu-timao-tudo-sobre-a-luta-do-corinthians-pelo-titulo-inedito-no-nbb-20262027",
-      "time": "17/10 · 00:33",
-      "pubDate": "Fri, 16 Oct 2026 21:33:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do protesto da torcida do Corinthians no Parque São Jorge",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-protesto-da-torcida-do-corinthians-no-parque-sao-jorge/",
-      "time": "17/10 · 00:20",
-      "pubDate": "Sat, 17 Oct 2026 00:20:27 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Organizadas do Corinthians colocam faixas de protestos dentro do Parque São Jorge; veja fotos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542220/organizadas-do-corinthians-colocam-faixas-de-protestos-dentro-do-parque-sao-jorge-veja-fotos",
-      "time": "16/10 · 23:44",
-      "pubDate": "Fri, 16 Oct 2026 20:44:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "MP pede prisão preventiva de vice do Corinthians; defesa contesta acusação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/mp-pede-prisao-armando-mendonca-corinthians/",
-      "time": "16/10 · 23:38",
-      "pubDate": "Fri, 16 Oct 2026 23:38:03 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians derruba série invicta de 31 jogos do Colo-Colo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542175/corinthians-derruba-serie-invicta-de-31-jogos-do-colo-colo",
-      "time": "16/10 · 23:32",
-      "pubDate": "Fri, 16 Oct 2026 20:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Torcidas organizadas do Corinthians erguem faixas no Parque São Jorge em protesto a diretoria",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130182/torcidas-organizadas-do-corinthians-erguem-faixas-no-parque-sao-jorge-em-protesto-a-diretoria",
-      "time": "16/10 · 23:30",
-      "pubDate": "Fri, 16 Oct 2026 20:30:52 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Yuri Alberto passa mal e desfalca treino do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-passa-mal-desfalca-treino-corinthians/",
-      "time": "16/10 · 23:16",
-      "pubDate": "Fri, 16 Oct 2026 23:16:55 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Confira galeria de imagens do treino do Corinthians nesta sexta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-galeria-de-imagens-do-treino-do-corinthians-nesta-sexta-feira/",
-      "time": "16/10 · 22:45",
-      "pubDate": "Fri, 16 Oct 2026 22:45:19 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf não é regularizado a tempo e tem estreia pelo Corinthians adiada",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-nao-regularizado-corinthians-vitoria/",
-      "time": "16/10 · 22:27",
-      "pubDate": "Fri, 16 Oct 2026 22:27:41 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Sócios pedem impugnação da candidatura de Janikian à presidência do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/sergio-janikian-impugnacao-eleicao-corinthians/",
-      "time": "16/10 · 21:18",
-      "pubDate": "Fri, 16 Oct 2026 21:18:15 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Organizadas do Corinthians exigem afastamento de Memphis Depay e demissão de Marcelo Paz",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-organizadas-do-corinthians-exigem-afastamento-de-memphis-depay-e-demissao-de-marcelo-paz]]>",
+      "time": "17/10 · 00:21",
+      "pubDate": "Fri, 16 Oct 2026 21:21:57 -0300"
     },
     {
       "source": "Bolavip",
@@ -137,14 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-posicao-de-lingard-no-corinthians-deveria-ser-testado-de-meia]]>",
       "time": "16/10 · 21:15",
       "pubDate": "Fri, 16 Oct 2026 18:15:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Organizadas do Corinthians exigem afastamento de Memphis Depay e demissão de Marcelo Paz",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-organizadas-do-corinthians-exigem-afastamento-de-memphis-depay-e-demissao-de-marcelo-paz]]>",
-      "time": "16/10 · 18:34",
-      "pubDate": "Fri, 16 Oct 2026 15:34:53 -0300"
     },
     {
       "source": "Bolavip",
@@ -181,18 +125,74 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Memphis Depay não é mais intocável e Seedorf tem carta branca para realizar mudanças no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-nao-e-mais-intocavel-e-seedorf-tem-carta-branca-para-realizar-mudancas-no-corinthians]]>",
-      "time": "16/10 · 00:25",
-      "pubDate": "Thu, 15 Oct 2026 21:25:41 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Seedorf tem Charles, Allan, Carrillo ou Bidon como opções no Corinthians na vaga de Raniele",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-tem-charles-allan-carrillo-ou-bidon-como-opcoes-no-corinthians-na-vaga-de-raniele]]>",
       "time": "15/10 · 17:13",
       "pubDate": "Thu, 15 Oct 2026 14:13:44 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
