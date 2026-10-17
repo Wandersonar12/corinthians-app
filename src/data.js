@@ -1,14 +1,78 @@
-// Gerado automaticamente em 17/10/2026, 00:00:48
+// Gerado automaticamente em 17/10/2026, 11:48:26
 const LIVE_DATA = {
-  "updatedAt": "2026-10-17T00:00:48.438Z",
+  "updatedAt": "2026-10-17T11:48:26.168Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Eleições Meu Timão: Confira as 19 chapas inscritas para as 250 vagas no Conselho do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542225/eleicoes-meu-timao-confira-as-19-chapas-inscritas-para-as-250-vagas-no-conselho-do-corinthians",
+      "time": "17/10 · 11:30",
+      "pubDate": "Sat, 17 Oct 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: avanço com a Caixa, pedido de prisão e técnico fora do BID",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542224/ultimas-do-corinthians-avanco-com-a-caixa-pedido-de-prisao-e-tecnico-fora-do-bid",
+      "time": "17/10 · 10:30",
+      "pubDate": "Sat, 17 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Vitinho reencontra &#8220;pai&#8221; Seedorf e busca recuperar espaço no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/vitinho-reencontra-seedorf-corinthians/",
+      "time": "17/10 · 08:00",
+      "pubDate": "Sat, 17 Oct 2026 08:00:50 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia iguala Zanotti na vice-liderança do ranking de assistentes do Corinthians em 2026; veja a lista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542143/meia-iguala-zanotti-na-vice-lideranca-do-ranking-de-assistentes-do-corinthians-em-2026-veja-a-lista",
+      "time": "17/10 · 01:30",
+      "pubDate": "Fri, 16 Oct 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Conselho do Corinthians explica adiamento de reunião com Osmar Stabile",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542216/presidente-do-conselho-do-corinthians-explica-adiamento-de-reuniao-com-osmar-stabile",
+      "time": "17/10 · 00:42",
+      "pubDate": "Fri, 16 Oct 2026 21:42:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Organizados estendem faixas contra diretoria e Memphis na sede do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-corinthians-protesto-diretoria-memphis/",
+      "time": "17/10 · 00:37",
+      "pubDate": "Sat, 17 Oct 2026 00:37:27 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Guia do Meu Timão: tudo sobre a luta do Corinthians pelo título inédito no NBB 2026/2027",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542161/guia-do-meu-timao-tudo-sobre-a-luta-do-corinthians-pelo-titulo-inedito-no-nbb-20262027",
+      "time": "17/10 · 00:33",
+      "pubDate": "Fri, 16 Oct 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do protesto da torcida do Corinthians no Parque São Jorge",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-protesto-da-torcida-do-corinthians-no-parque-sao-jorge/",
+      "time": "17/10 · 00:20",
+      "pubDate": "Sat, 17 Oct 2026 00:20:27 +0000"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Organizadas do Corinthians colocam faixas de protestos dentro do Parque São Jorge; veja fotos",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542220/organizadas-do-corinthians-colocam-faixas-de-protestos-dentro-do-parque-sao-jorge-veja-fotos",
       "time": "16/10 · 23:44",
-      "pubDate": "Fri, 16 Oct 2026 20:44:34 -0300"
+      "pubDate": "Fri, 16 Oct 2026 20:44:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -43,52 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 16 Oct 2026 23:16:55 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians defende jogadores e diz preferir elenco com personalidade forte",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542033/tecnico-do-corinthians-defende-jogadores-e-diz-preferir-elenco-com-personalidade-forte",
-      "time": "16/10 · 23:01",
-      "pubDate": "Fri, 16 Oct 2026 20:01:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Confira galeria de imagens do treino do Corinthians nesta sexta-feira",
       "url": "https://www.gazetaesportiva.com/times/corinthians/confira-galeria-de-imagens-do-treino-do-corinthians-nesta-sexta-feira/",
       "time": "16/10 · 22:45",
       "pubDate": "Fri, 16 Oct 2026 22:45:19 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Eleição do Corinthians: Romeu Tuma Jr. fala sobre reunião com as organizadas",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130181/eleicao-do-corinthians-romeu-tuma-jr-fala-sobre-reuniao-com-as-organizadas",
-      "time": "16/10 · 22:44",
-      "pubDate": "Fri, 16 Oct 2026 19:44:38 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians realiza primeiro treino tático sob comando de Seedorf",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542206/corinthians-realiza-primeiro-treino-tatico-sob-comando-de-seedorf",
-      "time": "16/10 · 22:37",
-      "pubDate": "Fri, 16 Oct 2026 19:37:15 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto desfalca treino do Corinthians; Raniele passa por cirurgia no joelho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542205/yuri-alberto-desfalca-treino-do-corinthians-raniele-passa-por-cirurgia-no-joelho",
-      "time": "16/10 · 22:36",
-      "pubDate": "Fri, 16 Oct 2026 19:36:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encerra preparação para duelo contra o Red Bull Bragantino e terá retorno de treinadora",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542201/corinthians-encerra-preparacao-para-duelo-contra-o-red-bull-bragantino-e-tera-retorno-de-treinadora",
-      "time": "16/10 · 22:32",
-      "pubDate": "Fri, 16 Oct 2026 19:32:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -107,28 +131,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 16 Oct 2026 21:18:15 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia Portuguesa Santisa e vai às quartas do Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-portuguesa-santisa-e-vai-as-quartas-do-paulista-sub-20/",
-      "time": "16/10 · 20:01",
-      "pubDate": "Fri, 16 Oct 2026 20:01:39 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians vai cobrar evolução física de Memphis e planeja trabalho individualizado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-memphis-depay-evolucao-fisica/",
-      "time": "16/10 · 20:01",
-      "pubDate": "Fri, 16 Oct 2026 20:01:38 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians e Caixa avançam em negociações por dívida da Arena e assinam termo de confidencialidade",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-caixa-divida-neo-quimica-arena/",
-      "time": "16/10 · 19:15",
-      "pubDate": "Fri, 16 Oct 2026 19:15:57 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: LivePorTi questiona posição de Lingard no Corinthians: “Deveria ser testado de meia”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-posicao-de-lingard-no-corinthians-deveria-ser-testado-de-meia]]>",
+      "time": "16/10 · 21:15",
+      "pubDate": "Fri, 16 Oct 2026 18:15:27 -0300"
     },
     {
       "source": "Bolavip",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-tem-charles-allan-carrillo-ou-bidon-como-opcoes-no-corinthians-na-vaga-de-raniele]]>",
       "time": "15/10 · 17:13",
       "pubDate": "Thu, 15 Oct 2026 14:13:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Lesão de Raniele evidencia trabalho questionável feito pelo departamento médico do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-lesao-de-raniele-evidencia-trabalho-questionavel-feito-pelo-departamento-medico-do-corinthians]]>",
-      "time": "15/10 · 13:12",
-      "pubDate": "Thu, 15 Oct 2026 10:12:40 -0300"
     }
   ],
   "upcoming": [],
