@@ -1,7 +1,79 @@
-// Gerado automaticamente em 17/10/2026, 23:33:56
+// Gerado automaticamente em 18/10/2026, 12:13:56
 const LIVE_DATA = {
-  "updatedAt": "2026-10-17T23:33:56.950Z",
+  "updatedAt": "2026-10-18T12:13:56.038Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Provável escalação do Corinthians contra o Vitória na 31ª rodada do Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130194/provavel-escalacao-do-corinthians-contra-o-vitoria-na-31-rodada-do-campeonato-brasileiro-2026",
+      "time": "18/10 · 12:04",
+      "pubDate": "Sun, 18 Oct 2026 09:04:47 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meu Timão transmite segunda partida do Corinthians na Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542257/meu-timao-transmite-segunda-partida-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
+      "time": "18/10 · 11:30",
+      "pubDate": "Sun, 18 Oct 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians visita o São José em busca de vantagem nas oitavas do Paulistão Sub-17; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542258/corinthians-visita-o-sao-jose-em-busca-de-vantagem-nas-oitavas-do-paulistao-sub-17-saiba-tudo",
+      "time": "18/10 · 11:00",
+      "pubDate": "Sun, 18 Oct 2026 08:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: acordo com a Caixa, Seedorf na Arena e liderança na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542276/ultimas-do-corinthians-acordo-com-a-caixa-seedorf-na-arena-e-lideranca-na-libertadores-feminina",
+      "time": "18/10 · 10:30",
+      "pubDate": "Sun, 18 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians enfrenta o Caracas para encaminhar vaga nas quartas da Libertadores Feminina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542254/corinthians-enfrenta-o-caracas-para-encaminhar-vaga-nas-quartas-da-libertadores-feminina-saiba-tudo",
+      "time": "18/10 · 03:01",
+      "pubDate": "Sun, 18 Oct 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians registra segunda maior goleada do ano em classificação no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542226/corinthians-registra-segunda-maior-goleada-do-ano-em-classificacao-no-paulista-sub-20",
+      "time": "18/10 · 01:30",
+      "pubDate": "Sat, 17 Oct 2026 22:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians retorna às quartas de final do Paulista Sub-20 depois de dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542191/corinthians-retorna-as-quartas-de-final-do-paulista-sub-20-depois-de-dois-anos",
+      "time": "17/10 · 23:34",
+      "pubDate": "Sat, 17 Oct 2026 20:34:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Lingard está em lista de saídas do Corinthians e reta final em 2026 será para convencer Seedorf",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-esta-em-lista-de-saidas-do-corinthians-e-reta-final-em-2026-sera-para-convencer-seedorf]]>",
+      "time": "17/10 · 23:03",
+      "pubDate": "Sat, 17 Oct 2026 20:03:36 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf assume postura de ‘paizão’ no Corinthians, mas tem estreia adiada por problema burocrático",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-assume-postura-de-paizao-no-corinthians-mas-tem-estreia-adiada-por-problema-burocratico]]>",
+      "time": "17/10 · 23:03",
+      "pubDate": "Sat, 17 Oct 2026 20:03:14 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -11,60 +83,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 17 Oct 2026 19:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia projeta duelo contra o São José e pede concentração ao Corinthians no Paulista Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542266/meia-projeta-duelo-contra-o-sao-jose-e-pede-concentracao-ao-corinthians-no-paulista-sub-17",
-      "time": "17/10 · 22:01",
-      "pubDate": "Sat, 17 Oct 2026 19:01:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinão: Acordo com a Caixa pode ser um divisor de águas para o Corinthians, mas exige responsabilidade",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opinao-acordo-com-a-caixa-pode-ser-um-divisor-de-aguas-para-o-corinthians-mas-exige-responsabilidade]]>",
+      "time": "17/10 · 21:55",
+      "pubDate": "Sat, 17 Oct 2026 18:55:50 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante passa dos 20 gols e movimenta a artilharia do Sub-20 do Corinthians após classificação",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542190/atacante-passa-dos-20-gols-e-movimenta-a-artilharia-do-sub-20-do-corinthians-apos-classificacao",
-      "time": "17/10 · 21:36",
-      "pubDate": "Sat, 17 Oct 2026 18:36:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf abre laboratório no Corinthians e observa cinco promessas da base em treinamento tático",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-abre-laboratorio-no-corinthians-e-observa-cinco-promessas-da-base-em-treinamento-tatico]]>",
+      "time": "17/10 · 19:51",
+      "pubDate": "Sat, 17 Oct 2026 16:51:28 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre com erros no fim e é superado pelo Mogi na estreia do NBB 2026/27",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542178/corinthians-sofre-com-erros-no-fim-e-e-superado-pelo-mogi-na-estreia-do-nbb-202627",
-      "time": "17/10 · 21:01",
-      "pubDate": "Sat, 17 Oct 2026 18:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meia-atacante do Corinthians atinge marca inédita pelo clube na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542230/meia-atacante-do-corinthians-atinge-marca-inedita-pelo-clube-na-libertadores-feminina",
-      "time": "17/10 · 20:33",
-      "pubDate": "Sat, 17 Oct 2026 17:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é derrotado pelo Bragantino pela ida das quartas de final do Paulistão Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542261/corinthians-e-derrotado-pelo-bragantino-pela-ida-das-quartas-de-final-do-paulistao-feminino-sub-20",
-      "time": "17/10 · 20:08",
-      "pubDate": "Sat, 17 Oct 2026 17:08:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Seedorf visita Neo Química Arena antes de jogo do Corinthians contra o Vitória",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542260/seedorf-visita-neo-quimica-arena-antes-de-jogo-do-corinthians-contra-o-vitoria",
-      "time": "17/10 · 19:53",
-      "pubDate": "Sat, 17 Oct 2026 16:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Tuma detalha processo eleitoral do Corinthians e apresentação de estudo sobre recuperação financeira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542215/tuma-detalha-processo-eleitoral-do-corinthians-e-apresentacao-de-estudo-sobre-recuperacao-financeira",
-      "time": "17/10 · 19:32",
-      "pubDate": "Sat, 17 Oct 2026 16:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Corinthians tem “lista de dispensa” para 2027 e planeja saída de até 10 jogadores no total",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-tem-lista-de-dispensa-para-2027-e-planeja-saida-de-ate-10-jogadores-no-total]]>",
+      "time": "17/10 · 16:25",
+      "pubDate": "Sat, 17 Oct 2026 13:25:01 -0300"
     },
     {
       "source": "Bolavip",
@@ -73,14 +113,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-nao-pode-sonhar-em-aproveitar-felix-torres-em-2027-apos-fracasso-no-internacional]]>",
       "time": "17/10 · 13:41",
       "pubDate": "Sat, 17 Oct 2026 10:41:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lingard está em lista de saídas do Corinthians e reta final em 2026 será para convencer Seedorf",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/lingard-esta-em-lista-de-saidas-do-corinthians-e-reta-final-em-2026-sera-para-convencer-seedorf]]>",
-      "time": "17/10 · 12:58",
-      "pubDate": "Sat, 17 Oct 2026 09:58:32 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,38 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-posicao-de-lingard-no-corinthians-deveria-ser-testado-de-meia]]>",
       "time": "16/10 · 21:15",
       "pubDate": "Fri, 16 Oct 2026 18:15:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Juventus e Milan monitoram André, do Corinthians, e estudam oferta na próxima janela de transferências",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/juventus-e-milan-monitoram-andre-do-corinthians-e-estudam-oferta-na-proxima-janela-de-transferencias]]>",
-      "time": "16/10 · 18:30",
-      "pubDate": "Fri, 16 Oct 2026 15:30:43 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Seedorf fez muito bem em aumentar participação de psicóloga com jogadores do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-fez-muito-bem-em-aumentar-participacao-de-psicologa-com-jogadores-do-corinthians]]>",
-      "time": "16/10 · 18:27",
-      "pubDate": "Fri, 16 Oct 2026 15:27:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Prévia da partida: Corinthians x Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/previa-da-partida-corinthians-x-vitoria]]>",
-      "time": "16/10 · 15:31",
-      "pubDate": "Fri, 16 Oct 2026 12:31:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Robert Renan foi bastante infeliz em declaração e “queimou” curto histórico pelo Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-robert-renan-foi-bastante-infeliz-em-declaracao-e-queimou-curto-historico-pelo-corinthians]]>",
-      "time": "16/10 · 13:39",
-      "pubDate": "Fri, 16 Oct 2026 10:39:38 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Provável escalação do Corinthians contra o Vitória na 31ª rodada do Campeonato Brasileiro 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130194/provavel-escalacao-do-corinthians-contra-o-vitoria-na-31-rodada-do-campeonato-brasileiro-2026",
+      "pubDate": "Sun, 18 Oct 2026 09:04:47 -0300",
+      "date": "18/10 · 12:04"
+    },
+    {
+      "title": "Meu Timão transmite segunda partida do Corinthians na Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542257/meu-timao-transmite-segunda-partida-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
+      "pubDate": "Sun, 18 Oct 2026 08:30:00 -0300",
+      "date": "18/10 · 11:30"
+    },
+    {
+      "title": "Corinthians registra segunda maior goleada do ano em classificação no Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542226/corinthians-registra-segunda-maior-goleada-do-ano-em-classificacao-no-paulista-sub-20",
+      "pubDate": "Sat, 17 Oct 2026 22:30:00 -0300",
+      "date": "18/10 · 01:30"
+    },
+    {
       "title": "Ex-goleiro do Milan relembra 'personalidade forte' de Seedorf e projeta trabalho no Corinthians",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542234/ex-goleiro-do-milan-relembra-personalidade-forte-de-seedorf-e-projeta-trabalho-no-corinthians",
       "pubDate": "Sat, 17 Oct 2026 19:33:00 -0300",
@@ -210,18 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542190/atacante-passa-dos-20-gols-e-movimenta-a-artilharia-do-sub-20-do-corinthians-apos-classificacao",
       "pubDate": "Sat, 17 Oct 2026 18:36:00 -0300",
       "date": "17/10 · 21:36"
-    },
-    {
-      "title": "VÍDEO: Torcidas organizadas do Corinthians erguem faixas no Parque São Jorge em protesto a diretoria",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130182/torcidas-organizadas-do-corinthians-erguem-faixas-no-parque-sao-jorge-em-protesto-a-diretoria",
-      "pubDate": "Fri, 16 Oct 2026 20:30:52 -0300",
-      "date": "16/10 · 23:30"
-    },
-    {
-      "title": "VÍDEO: Eleição do Corinthians: Romeu Tuma Jr. fala sobre reunião com as organizadas",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130181/eleicao-do-corinthians-romeu-tuma-jr-fala-sobre-reuniao-com-as-organizadas",
-      "pubDate": "Fri, 16 Oct 2026 19:44:38 -0300",
-      "date": "16/10 · 22:44"
     }
   ]
 };
