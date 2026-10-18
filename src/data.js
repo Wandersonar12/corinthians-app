@@ -1,62 +1,86 @@
-// Gerado automaticamente em 18/10/2026, 12:13:56
+// Gerado automaticamente em 18/10/2026, 19:45:14
 const LIVE_DATA = {
-  "updatedAt": "2026-10-18T12:13:56.038Z",
+  "updatedAt": "2026-10-18T19:45:14.814Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Provável escalação do Corinthians contra o Vitória na 31ª rodada do Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130194/provavel-escalacao-do-corinthians-contra-o-vitoria-na-31-rodada-do-campeonato-brasileiro-2026",
-      "time": "18/10 · 12:04",
-      "pubDate": "Sun, 18 Oct 2026 09:04:47 -0300"
+      "title": "Torcida do Corinthians elege substituto para vaga de Raniele contra o Vitória",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542279/torcida-do-corinthians-elege-substituto-para-vaga-de-raniele-contra-o-vitoria",
+      "time": "18/10 · 19:03",
+      "pubDate": "Sun, 18 Oct 2026 16:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meu Timão transmite segunda partida do Corinthians na Libertadores Feminina; saiba como assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542257/meu-timao-transmite-segunda-partida-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
-      "time": "18/10 · 11:30",
-      "pubDate": "Sun, 18 Oct 2026 08:30:00 -0300"
+      "title": "Corinthians enfrenta uma equipe venezuelana pela segunda vez na história; relembre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542227/corinthians-enfrenta-uma-equipe-venezuelana-pela-segunda-vez-na-historia-relembre",
+      "time": "18/10 · 18:03",
+      "pubDate": "Sun, 18 Oct 2026 15:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita o São José em busca de vantagem nas oitavas do Paulistão Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542258/corinthians-visita-o-sao-jose-em-busca-de-vantagem-nas-oitavas-do-paulistao-sub-17-saiba-tudo",
-      "time": "18/10 · 11:00",
-      "pubDate": "Sun, 18 Oct 2026 08:00:00 -0300"
+      "title": "Corinthians tem três titulares em vitória na estreia da Seleção na Copa do Mundo Feminina Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542291/corinthians-tem-tres-titulares-em-vitoria-na-estreia-da-selecao-na-copa-do-mundo-feminina-sub-17",
+      "time": "18/10 · 17:05",
+      "pubDate": "Sun, 18 Oct 2026 14:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: acordo com a Caixa, Seedorf na Arena e liderança na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542276/ultimas-do-corinthians-acordo-com-a-caixa-seedorf-na-arena-e-lideranca-na-libertadores-feminina",
-      "time": "18/10 · 10:30",
-      "pubDate": "Sun, 18 Oct 2026 07:30:00 -0300"
+      "title": "Auxiliar do Corinthians volta a comandar uma partida profissional após cinco anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542229/auxiliar-do-corinthians-volta-a-comandar-uma-partida-profissional-apos-cinco-anos",
+      "time": "18/10 · 17:02",
+      "pubDate": "Sun, 18 Oct 2026 14:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta o Caracas para encaminhar vaga nas quartas da Libertadores Feminina; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542254/corinthians-enfrenta-o-caracas-para-encaminhar-vaga-nas-quartas-da-libertadores-feminina-saiba-tudo",
-      "time": "18/10 · 03:01",
-      "pubDate": "Sun, 18 Oct 2026 00:01:00 -0300"
+      "title": "Corinthians tem adversário definido para quartas de final do Paulistão Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542290/corinthians-tem-adversario-definido-para-quartas-de-final-do-paulistao-sub-20",
+      "time": "18/10 · 16:33",
+      "pubDate": "Sun, 18 Oct 2026 13:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians registra segunda maior goleada do ano em classificação no Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542226/corinthians-registra-segunda-maior-goleada-do-ano-em-classificacao-no-paulista-sub-20",
-      "time": "18/10 · 01:30",
-      "pubDate": "Sat, 17 Oct 2026 22:30:00 -0300"
+      "title": "Zagueira do Corinthians espera postura semelhante à da estreia na Libertadores contra o Caracas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542281/zagueira-do-corinthians-espera-postura-semelhante-a-da-estreia-na-libertadores-contra-o-caracas",
+      "time": "18/10 · 16:02",
+      "pubDate": "Sun, 18 Oct 2026 13:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians retorna às quartas de final do Paulista Sub-20 depois de dois anos",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542191/corinthians-retorna-as-quartas-de-final-do-paulista-sub-20-depois-de-dois-anos",
-      "time": "17/10 · 23:34",
-      "pubDate": "Sat, 17 Oct 2026 20:34:00 -0300"
+      "title": "Campeão pelo Corinthians fala sobre carreira como técnico e espera merecer uma oportunidade no Timão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542270/campeao-pelo-corinthians-fala-sobre-carreira-como-tecnico-e-espera-merecer-uma-oportunidade-no-timao",
+      "time": "18/10 · 15:01",
+      "pubDate": "Sun, 18 Oct 2026 12:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians não aproveita vantagem numérica e perde para o São José nas oitavas do Paulistão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542285/corinthians-nao-aproveita-vantagem-numerica-e-perde-para-o-sao-jose-nas-oitavas-do-paulistao-sub-17",
+      "time": "18/10 · 14:55",
+      "pubDate": "Sun, 18 Oct 2026 11:55:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians defende invencibilidade de nove partidas contra o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-invencibilidade-vitoria-brasileirao/",
+      "time": "18/10 · 10:00",
+      "pubDate": "Sun, 18 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf abre laboratório no Corinthians e observa cinco promessas da base em treinamento tático",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-abre-laboratorio-no-corinthians-e-observa-cinco-promessas-da-base-em-treinamento-tatico]]>",
+      "time": "18/10 · 00:09",
+      "pubDate": "Sat, 17 Oct 2026 21:09:59 -0300"
     },
     {
       "source": "Bolavip",
@@ -75,12 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 17 Oct 2026 20:03:14 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ex-goleiro do Milan relembra 'personalidade forte' de Seedorf e projeta trabalho no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542234/ex-goleiro-do-milan-relembra-personalidade-forte-de-seedorf-e-projeta-trabalho-no-corinthians",
-      "time": "17/10 · 22:33",
-      "pubDate": "Sat, 17 Oct 2026 19:33:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com estreia adiada, Seedorf visita arena antes de jogo entre Corinthians e Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-estreia-adiada-seedorf-visita-arena-antes-de-jogo-entre-corinthians-e-vitoria/",
+      "time": "17/10 · 22:02",
+      "pubDate": "Sat, 17 Oct 2026 22:02:40 +0000"
     },
     {
       "source": "Bolavip",
@@ -91,12 +115,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 17 Oct 2026 18:55:50 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf abre laboratório no Corinthians e observa cinco promessas da base em treinamento tático",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-abre-laboratorio-no-corinthians-e-observa-cinco-promessas-da-base-em-treinamento-tatico]]>",
-      "time": "17/10 · 19:51",
-      "pubDate": "Sat, 17 Oct 2026 16:51:28 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians treina visando confronto direto contra Vitória",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-treina-visando-confronto-direto-contra-vitoria/",
+      "time": "17/10 · 21:24",
+      "pubDate": "Sat, 17 Oct 2026 21:24:25 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians estreia com derrota para o Mogi em abertura do NBB",
+      "url": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/corinthians-estreia-com-derrota-para-o-mogi-em-abertura-do-nbb/",
+      "time": "17/10 · 21:05",
+      "pubDate": "Sat, 17 Oct 2026 21:05:05 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Yuri Alberto volta a treinar, e Corinthians faz penúltima atividade antes de enfrentar o Vitória",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-volta-treinos-corinthians-vitoria/",
+      "time": "17/10 · 17:36",
+      "pubDate": "Sat, 17 Oct 2026 17:36:12 +0000"
     },
     {
       "source": "Bolavip",
@@ -105,6 +145,14 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-tem-lista-de-dispensa-para-2027-e-planeja-saida-de-ate-10-jogadores-no-total]]>",
       "time": "17/10 · 16:25",
       "pubDate": "Sat, 17 Oct 2026 13:25:01 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians desliga diretores em meio à disputa eleitoral no clube",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-desliga-diretores-em-meio-a-disputa-eleitoral-no-clube/",
+      "time": "17/10 · 14:55",
+      "pubDate": "Sat, 17 Oct 2026 14:55:57 +0000"
     },
     {
       "source": "Bolavip",
@@ -123,76 +171,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 17 Oct 2026 08:40:47 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Vitinho reencontra &#8220;pai&#8221; Seedorf e busca recuperar espaço no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/vitinho-reencontra-seedorf-corinthians/",
+      "time": "17/10 · 08:00",
+      "pubDate": "Sat, 17 Oct 2026 08:00:50 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Organizados estendem faixas contra diretoria e Memphis na sede do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/torcida-corinthians-protesto-diretoria-memphis/",
+      "time": "17/10 · 00:37",
+      "pubDate": "Sat, 17 Oct 2026 00:37:27 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Vídeo: LivePorTi questiona posição de Lingard no Corinthians: “Deveria ser testado de meia”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/video-liveporti-questiona-posicao-de-lingard-no-corinthians-deveria-ser-testado-de-meia]]>",
       "time": "16/10 · 21:15",
       "pubDate": "Fri, 16 Oct 2026 18:15:27 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
