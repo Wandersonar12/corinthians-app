@@ -1,7 +1,71 @@
-// Gerado automaticamente em 19/10/2026, 21:47:23
+// Gerado automaticamente em 20/10/2026, 00:46:41
 const LIVE_DATA = {
-  "updatedAt": "2026-10-19T21:47:23.813Z",
+  "updatedAt": "2026-10-20T00:46:41.724Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf acompanha jogo do Corinthians das arquibancadas e faz &#8220;poropopó&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-arquibancada-corinthians-vitoria/",
+      "time": "19/10 · 23:45",
+      "pubDate": "Mon, 19 Oct 2026 23:45:26 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Seedorf acompanha jogo do Corinthians na arquibancada e faz 'poropopó' com torcida",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542378/seedorf-acompanha-jogo-do-corinthians-na-arquibancada-e-faz-poropopo-com-torcida",
+      "time": "19/10 · 23:40",
+      "pubDate": "Mon, 19 Oct 2026 20:40:10 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Adversário do Corinthians estampa patrocinador do mesmo segmento da Fatal Fans na Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542359/adversario-do-corinthians-estampa-patrocinador-do-mesmo-segmento-da-fatal-fans-na-arena",
+      "time": "19/10 · 23:07",
+      "pubDate": "Mon, 19 Oct 2026 20:07:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Vitória: siga os lances do jogo pelo Brasileirão em tempo real",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vitoria-brasileirao-19-10-2026/",
+      "time": "19/10 · 22:45",
+      "pubDate": "Mon, 19 Oct 2026 22:45:39 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com várias mudanças, Corinthians está escalado para enfrentar o Vitória; veja times",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vitoria-escalacoes-brasileirao-2026/",
+      "time": "19/10 · 22:07",
+      "pubDate": "Mon, 19 Oct 2026 22:07:36 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians está escalado com novidades para enfrentar o Vitória pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542353/corinthians-esta-escalado-com-novidades-para-enfrentar-o-vitoria-pelo-brasileirao",
+      "time": "19/10 · 22:02",
+      "pubDate": "Mon, 19 Oct 2026 19:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reforça importância da conscientização no Dia Mundial de Combate ao Câncer de Mama",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542365/corinthians-reforca-importancia-da-conscientizacao-no-dia-mundial-de-combate-ao-cancer-de-mama",
+      "time": "19/10 · 21:47",
+      "pubDate": "Mon, 19 Oct 2026 18:47:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians e Caixa se blindam contra pressão em negociação da dívida da Neo Química Arena",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-caixa-se-blindam-contra-pressao-em-negociacao-da-divida-da-neo-quimica-arena]]>",
+      "time": "19/10 · 21:40",
+      "pubDate": "Mon, 19 Oct 2026 18:40:22 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,36 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 19 Oct 2026 17:43:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Vitória para renovar invencibilidade de quase dez anos no confronto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542345/corinthians-recebe-o-vitoria-para-renovar-invencibilidade-de-quase-dez-anos-no-confronto",
-      "time": "19/10 · 20:31",
-      "pubDate": "Mon, 19 Oct 2026 17:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Movimento prepara terceiro ato em prol da intervenção judicial no Corinthians na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542360/movimento-prepara-terceiro-ato-em-prol-da-intervencao-judicial-no-corinthians-na-neo-quimica-arena",
-      "time": "19/10 · 20:07",
-      "pubDate": "Mon, 19 Oct 2026 17:07:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se aproxima de 100 gols na temporada e tem mudanças no ranking de artilheiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542307/corinthians-se-aproxima-de-100-gols-na-temporada-e-tem-mudancas-no-ranking-de-artilheiras",
-      "time": "19/10 · 20:01",
-      "pubDate": "Mon, 19 Oct 2026 17:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aposta em tabu de quase uma década contra o Vitória para se afastar do Z4 do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542297/corinthians-aposta-em-tabu-de-quase-uma-decada-contra-o-vitoria-para-se-afastar-do-z4-do-brasileirao",
-      "time": "19/10 · 19:32",
-      "pubDate": "Mon, 19 Oct 2026 16:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf define primeiro Corinthians e mantém mistério na escalação para duelo decisivo contra o Vitória",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-define-primeiro-corinthians-e-mantem-misterio-na-escalacao-para-duelo-decisivo-contra-o-vitoria]]>",
+      "time": "19/10 · 18:59",
+      "pubDate": "Mon, 19 Oct 2026 15:59:29 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -105,30 +145,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-cobra-mudanca-de-postura-e-mira-reacao-do-corinthians-no-brasileirao/",
       "time": "19/10 · 01:01",
       "pubDate": "Mon, 19 Oct 2026 01:01:17 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf fecha preparação do Corinthians para pegar o Vitória; veja time provável",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-preparacao-vitoria-brasileirao-seedorf/",
-      "time": "19/10 · 00:30",
-      "pubDate": "Mon, 19 Oct 2026 00:30:08 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians neste domingo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-neste-domingo-2/",
-      "time": "19/10 · 00:03",
-      "pubDate": "Mon, 19 Oct 2026 00:03:36 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians encerra preparação para duelo decisivo contra o Vitória pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-encerra-preparacao-para-duelo-decisivo-contra-o-vitoria-pelo-brasileirao/",
-      "time": "18/10 · 23:39",
-      "pubDate": "Sun, 18 Oct 2026 23:39:32 +0000"
     },
     {
       "source": "Bolavip",
@@ -173,26 +189,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Seedorf assume postura de ‘paizão’ no Corinthians, mas tem estreia adiada por problema burocrático",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-assume-postura-de-paizao-no-corinthians-mas-tem-estreia-adiada-por-problema-burocratico]]>",
-      "time": "17/10 · 23:03",
-      "pubDate": "Sat, 17 Oct 2026 20:03:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinão: Acordo com a Caixa pode ser um divisor de águas para o Corinthians, mas exige responsabilidade",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opinao-acordo-com-a-caixa-pode-ser-um-divisor-de-aguas-para-o-corinthians-mas-exige-responsabilidade]]>",
       "time": "17/10 · 21:55",
       "pubDate": "Sat, 17 Oct 2026 18:55:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Corinthians tem “lista de dispensa” para 2027 e planeja saída de até 10 jogadores no total",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-tem-lista-de-dispensa-para-2027-e-planeja-saida-de-ate-10-jogadores-no-total]]>",
-      "time": "17/10 · 16:25",
-      "pubDate": "Sat, 17 Oct 2026 13:25:01 -0300"
     }
   ],
   "upcoming": [],
@@ -234,18 +234,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542295/saiba-onde-assistir-ao-duelo-entre-corinthians-e-vitoria-no-brasileirao",
       "pubDate": "Mon, 19 Oct 2026 08:30:00 -0300",
       "date": "19/10 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: Corinthians 7x0 Caracas FC | 2ª Rodada | Conmebol Libertadores Feminina 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130210/melhores-momentos-corinthians-7x0-caracas-fc-2-rodada-conmebol-libertadores-feminina-2026",
-      "pubDate": "Mon, 19 Oct 2026 00:06:06 -0300",
-      "date": "19/10 · 03:06"
-    },
-    {
-      "title": "VÍDEO: Gols na goleada e busca pelo objetivo final: zona mista de Duda Sampaio",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130209/gols-na-goleada-e-busca-pelo-objetivo-final-zona-mista-de-duda-sampaio",
-      "pubDate": "Mon, 19 Oct 2026 00:05:22 -0300",
-      "date": "19/10 · 03:05"
     }
   ]
 };
