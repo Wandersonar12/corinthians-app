@@ -1,134 +1,94 @@
-// Gerado automaticamente em 20/10/2026, 13:05:21
+// Gerado automaticamente em 20/10/2026, 20:57:22
 const LIVE_DATA = {
-  "updatedAt": "2026-10-20T13:05:21.350Z",
+  "updatedAt": "2026-10-20T20:57:22.788Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Hugo Souza rebate críticas após empate do Corinthians e admite medo de rebaixamento no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542439/hugo-souza-rebate-criticas-apos-empate-do-corinthians-e-admite-medo-de-rebaixamento-no-brasileirao",
-      "time": "20/10 · 12:23",
-      "pubDate": "Tue, 20 Oct 2026 09:23:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians critica arbitragem e cobra explicações por lance com Gui Negão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reclama-de-possivel-penalti-em-gui-negao-e-cobra-cbf/",
-      "time": "20/10 · 12:02",
-      "pubDate": "Tue, 20 Oct 2026 12:02:28 +0000"
+      "title": "Yuri Alberto volta a se isolar na artilharia do Corinthians em 2026; veja o ranking",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542404/yuri-alberto-volta-a-se-isolar-na-artilharia-do-corinthians-em-2026-veja-o-ranking",
+      "time": "20/10 · 20:34",
+      "pubDate": "Tue, 20 Oct 2026 17:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Clima leve e cobrança por respeito marcam bastidores da goleada do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542399/clima-leve-e-cobranca-por-respeito-marcam-bastidores-da-goleada-do-corinthians-na-libertadores",
-      "time": "20/10 · 11:55",
-      "pubDate": "Tue, 20 Oct 2026 08:55:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Auxiliar do Corinthians analisa início com Seedorf e empate com Vitória",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/auxiliar-do-corinthians-analisa-inicio-com-seedorf-e-empate-com-vitoria/",
-      "time": "20/10 · 11:50",
-      "pubDate": "Tue, 20 Oct 2026 11:50:24 +0000"
+      "title": "Corinthians será julgado no STJD por expulsão na base e infração na final do Brasileiro Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542473/corinthians-sera-julgado-no-stjd-por-expulsao-na-base-e-infracao-na-final-do-brasileiro-feminino",
+      "time": "20/10 · 20:32",
+      "pubDate": "Tue, 20 Oct 2026 17:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians publica vídeo de possível pênalti não marcado contra o Vitória e promete cobrar CBF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542424/corinthians-publica-video-de-possivel-penalti-nao-marcado-contra-o-vitoria-e-promete-cobrar-cbf",
-      "time": "20/10 · 11:25",
-      "pubDate": "Tue, 20 Oct 2026 08:25:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Corinthians apresenta melhora, mas tropeça nas próprias pernas",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-evolucao-velhos-erros-vitoria/",
-      "time": "20/10 · 11:00",
-      "pubDate": "Tue, 20 Oct 2026 11:00:08 +0000"
+      "title": "Corinthians atrasa limpeza da Neo Química Arena; veja imagens do teto do estádio corinthiano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542461/corinthians-atrasa-limpeza-da-neo-quimica-arena-veja-imagens-do-teto-do-estadio-corinthiano",
+      "time": "20/10 · 20:30",
+      "pubDate": "Tue, 20 Oct 2026 17:30:01 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: empate no Brasileirão, gol de Filho do Terrão e nova parceria",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542422/ultimas-do-corinthians-empate-no-brasileirao-gol-de-filho-do-terrao-e-nova-parceria",
-      "time": "20/10 · 10:30",
-      "pubDate": "Tue, 20 Oct 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Empate com o Vitória aumenta risco de queda do Corinthians no Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/empate-com-vitoria-faz-risco-de-queda-do-corinthians-no-brasileiro-aumentar/",
-      "time": "20/10 · 10:00",
-      "pubDate": "Tue, 20 Oct 2026 10:00:15 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Corinthians à beira do Z4, Hugo Souza admite medo de rebaixamento",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/hugo-souza-medo-rebaixamento-corinthians/",
-      "time": "20/10 · 09:00",
-      "pubDate": "Tue, 20 Oct 2026 09:00:21 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações do Corinthians: veja quem foi bem e quem foi mal no empate com o Vitória",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/notas-corinthians-andre-yuri-alberto-vitoria/",
-      "time": "20/10 · 08:00",
-      "pubDate": "Tue, 20 Oct 2026 08:00:11 +0000"
+      "title": "Cantor se declara ao Corinthians e se emociona ao ver filho entrar em campo com goleiro na Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542455/cantor-se-declara-ao-corinthians-e-se-emociona-ao-ver-filho-entrar-em-campo-com-goleiro-na-arena",
+      "time": "20/10 · 20:03",
+      "pubDate": "Tue, 20 Oct 2026 17:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians empata com Blumenau e garante vaga na final da Talentos LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542423/corinthians-empata-com-blumenau-e-garante-vaga-na-final-da-talentos-lnf",
-      "time": "20/10 · 03:22",
-      "pubDate": "Tue, 20 Oct 2026 00:22:00 -0300"
+      "title": "Gabi Zanotti atinge melhor marca de participações em gol pelo Corinthians em um mesmo ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542343/gabi-zanotti-atinge-melhor-marca-de-participacoes-em-gol-pelo-corinthians-em-um-mesmo-ano",
+      "time": "20/10 · 19:35",
+      "pubDate": "Tue, 20 Oct 2026 16:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Chegada de Seedorf, mudanças no time titular e mais: coletiva de Léo Porto no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130226/chegada-de-seedorf-mudancas-no-time-titular-e-mais-coletiva-de-leo-porto-no-corinthians",
-      "time": "20/10 · 02:53",
-      "pubDate": "Mon, 19 Oct 2026 23:53:19 -0300"
+      "title": "Luxemburgo critica contratação de Seedorf pelo Corinthians e diz que aceitaria assumir o clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542454/luxemburgo-critica-contratacao-de-seedorf-pelo-corinthians-e-diz-que-aceitaria-assumir-o-clube",
+      "time": "20/10 · 19:02",
+      "pubDate": "Tue, 20 Oct 2026 16:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Auxiliar explica substituições no Corinthians e comenta primeiras impressões com Seedorf",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542408/auxiliar-explica-substituicoes-no-corinthians-e-comenta-primeiras-impressoes-com-seedorf",
-      "time": "20/10 · 02:50",
-      "pubDate": "Mon, 19 Oct 2026 23:50:00 -0300"
+      "title": "Auxiliar do Corinthians comenta encaixe de Memphis em esquema com três atacantes",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542417/auxiliar-do-corinthians-comenta-encaixe-de-memphis-em-esquema-com-tres-atacantes",
+      "time": "20/10 · 18:33",
+      "pubDate": "Tue, 20 Oct 2026 15:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Auxiliar detalha escolhas táticas do Corinthians e projeta evolução defensiva da equipe com Seedorf",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542407/auxiliar-detalha-escolhas-taticas-do-corinthians-e-projeta-evolucao-defensiva-da-equipe-com-seedorf",
-      "time": "20/10 · 02:46",
-      "pubDate": "Mon, 19 Oct 2026 23:46:00 -0300"
+      "title": "Corinthians conhece dias e horários de quartas de final do Paulista Sub-20; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542458/corinthians-conhece-dias-e-horarios-de-quartas-de-final-do-paulista-sub-20-confira",
+      "time": "20/10 · 18:27",
+      "pubDate": "Tue, 20 Oct 2026 15:27:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do jogo entre Corinthians e Vitória pela 31ª rodada do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-galeria-de-fotos-do-jogo-entre-corinthians-e-vitoria-pela-31a-rodada-do-brasileirao/",
-      "time": "20/10 · 02:35",
-      "pubDate": "Tue, 20 Oct 2026 02:35:30 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf entra no clima da Fiel e participa de “poropopó” antes de Corinthians x Vitória",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-entra-no-clima-da-fiel-e-participa-de-poropopo-antes-de-corinthians-x-vitoria]]>",
+      "time": "20/10 · 12:35",
+      "pubDate": "Tue, 20 Oct 2026 09:35:59 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Auxiliar lamenta falta de eficiência e vê elenco do Corinthians unido com Seedorf",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/leo-porto-evolucao-uniao-corinthians/",
-      "time": "20/10 · 02:29",
-      "pubDate": "Tue, 20 Oct 2026 02:29:35 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Jair Ventura “provoca” em entrevista pós-jogo e situação está complicada no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-jair-ventura-provoca-em-entrevista-pos-jogo-e-situacao-esta-complicada-no-corinthians]]>",
+      "time": "20/10 · 12:34",
+      "pubDate": "Tue, 20 Oct 2026 09:34:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians: pênalti polêmico em André salva empate com o Vitória e provoca revolta nas redes",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-penalti-polemico-em-andre-salva-empate-com-o-vitoria-e-provoca-revolta-nas-redes]]>",
+      "time": "20/10 · 01:05",
+      "pubDate": "Mon, 19 Oct 2026 22:05:56 -0300"
     },
     {
       "source": "Bolavip",
@@ -145,14 +105,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-caixa-se-blindam-contra-pressao-em-negociacao-da-divida-da-neo-quimica-arena]]>",
       "time": "20/10 · 00:23",
       "pubDate": "Mon, 19 Oct 2026 21:23:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf entra no clima da Fiel e participa de “poropopó” antes de Corinthians x Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-entra-no-clima-da-fiel-e-participa-de-poropopo-antes-de-corinthians-x-vitoria]]>",
-      "time": "20/10 · 00:22",
-      "pubDate": "Mon, 19 Oct 2026 21:22:55 -0300"
     },
     {
       "source": "Bolavip",
@@ -179,26 +131,104 @@ const LIVE_DATA = {
       "pubDate": "Sun, 18 Oct 2026 20:05:46 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf fora contra o Vitória: burocracia na Holanda e pendência com Diniz atrasaram inscrição no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-fora-contra-o-vitoria-burocracia-na-holanda-e-pendencia-com-diniz-atrasaram-inscricao-no-corinthians]]>",
-      "time": "18/10 · 18:40",
-      "pubDate": "Sun, 18 Oct 2026 15:40:41 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: com Raniele fora, Carrillo surge como a melhor alternativa para o meio-campo do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-com-raniele-fora-carrillo-surge-como-a-melhor-alternativa-para-o-meio-campo-do-corinthians]]>",
-      "time": "18/10 · 18:24",
-      "pubDate": "Sun, 18 Oct 2026 15:24:08 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Cantor se declara ao Corinthians e se emociona ao ver filho entrar em campo com goleiro na Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542455/cantor-se-declara-ao-corinthians-e-se-emociona-ao-ver-filho-entrar-em-campo-com-goleiro-na-arena",
+      "pubDate": "Tue, 20 Oct 2026 17:03:00 -0300",
+      "date": "20/10 · 20:03"
+    },
+    {
+      "title": "Gabi Zanotti atinge melhor marca de participações em gol pelo Corinthians em um mesmo ano",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542343/gabi-zanotti-atinge-melhor-marca-de-participacoes-em-gol-pelo-corinthians-em-um-mesmo-ano",
+      "pubDate": "Tue, 20 Oct 2026 16:35:00 -0300",
+      "date": "20/10 · 19:35"
+    },
+    {
+      "title": "Meia-atacante volta a marcar depois de 12 jogos em goleada do Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542341/meia-atacante-volta-a-marcar-depois-de-12-jogos-em-goleada-do-corinthians-na-libertadores",
+      "pubDate": "Tue, 20 Oct 2026 14:31:00 -0300",
+      "date": "20/10 · 17:31"
+    },
+    {
+      "title": "Yuri Alberto encerra jejum de três meses sem marcar gols pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542390/yuri-alberto-encerra-jejum-de-tres-meses-sem-marcar-gols-pelo-corinthians",
+      "pubDate": "Tue, 20 Oct 2026 13:29:00 -0300",
+      "date": "20/10 · 16:29"
+    },
+    {
+      "title": "Corinthians alcança segunda maior goleada do ano diante do Caracas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542310/corinthians-alcanca-segunda-maior-goleada-do-ano-diante-do-caracas",
+      "pubDate": "Tue, 20 Oct 2026 10:31:00 -0300",
+      "date": "20/10 · 13:31"
+    },
     {
       "title": "Clima leve e cobrança por respeito marcam bastidores da goleada do Corinthians na Libertadores",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542399/clima-leve-e-cobranca-por-respeito-marcam-bastidores-da-goleada-do-corinthians-na-libertadores",
@@ -216,36 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542422/ultimas-do-corinthians-empate-no-brasileirao-gol-de-filho-do-terrao-e-nova-parceria",
       "pubDate": "Tue, 20 Oct 2026 07:30:00 -0300",
       "date": "20/10 · 10:30"
-    },
-    {
-      "title": "VÍDEO: 'Eu acho que vocês estão indo além demais'! Hugo Souza se irrita ao ser questionado pelo gol sofrido",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130227/eu-acho-que-voces-estao-indo-alem-demais-hugo-souza-se-irrita-ao-ser-questionado-pelo-gol-sofrido",
-      "pubDate": "Tue, 20 Oct 2026 00:00:01 -0300",
-      "date": "20/10 · 03:00"
-    },
-    {
-      "title": "VÍDEO: Chegada de Seedorf, mudanças no time titular e mais: coletiva de Léo Porto no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130226/chegada-de-seedorf-mudancas-no-time-titular-e-mais-coletiva-de-leo-porto-no-corinthians",
-      "pubDate": "Mon, 19 Oct 2026 23:53:19 -0300",
-      "date": "20/10 · 02:53"
-    },
-    {
-      "title": "VÍDEO: Gui Negão é puxado na área e juiz não marca pênalti para o Corinthians contra o Vitória",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130221/gui-negao-e-puxado-na-area-e-juiz-nao-marca-penalti-para-o-corinthians-contra-o-vitoria",
-      "pubDate": "Mon, 19 Oct 2026 22:35:37 -0300",
-      "date": "20/10 · 01:35"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Corinthians 1x1 Vitória | 31ª rodada | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130219/melhores-momentos-corinthians-1x1-vitoria-31-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Mon, 19 Oct 2026 22:23:48 -0300",
-      "date": "20/10 · 01:23"
-    },
-    {
-      "title": "Quatro Brabas movimentam o ranking de assistentes do Corinthians após goleada sobre o Caracas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542311/quatro-brabas-movimentam-o-ranking-de-assistentes-do-corinthians-apos-goleada-sobre-o-caracas",
-      "pubDate": "Mon, 19 Oct 2026 18:01:00 -0300",
-      "date": "19/10 · 21:01"
     }
   ]
 };
