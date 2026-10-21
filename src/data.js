@@ -1,70 +1,110 @@
-// Gerado automaticamente em 21/10/2026, 00:13:17
+// Gerado automaticamente em 21/10/2026, 13:17:27
 const LIVE_DATA = {
-  "updatedAt": "2026-10-21T00:13:17.825Z",
+  "updatedAt": "2026-10-21T13:17:27.211Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Marcelo Paz não é mais executivo de futevol do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130238/marcelo-paz-nao-e-mais-executivo-de-futevol-do-corinthians",
-      "time": "20/10 · 23:55",
-      "pubDate": "Tue, 20 Oct 2026 20:55:15 -0300"
+      "title": "Corinthians defende retrospecto perfeito contra Santa Fe e busca liderança da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542482/corinthians-defende-retrospecto-perfeito-contra-santa-fe-e-busca-lideranca-da-libertadores-feminina",
+      "time": "21/10 · 13:03",
+      "pubDate": "Wed, 21 Oct 2026 10:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Marcelo Paz deixa a diretoria do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542488/marcelo-paz-deixa-a-diretoria-do-corinthians",
-      "time": "20/10 · 23:37",
-      "pubDate": "Tue, 20 Oct 2026 20:37:00 -0300"
+      "title": "Corinthians visita o Red Bull Bragantino pelo primeiro jogo da semifinal do Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542460/corinthians-visita-o-red-bull-bragantino-pelo-primeiro-jogo-da-semifinal-do-paulista-sub-17",
+      "time": "21/10 · 12:32",
+      "pubDate": "Wed, 21 Oct 2026 09:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians fecha temporada sem vencer o Vitória pela primeira vez desde 2018",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542394/corinthians-fecha-temporada-sem-vencer-o-vitoria-pela-primeira-vez-desde-2018",
-      "time": "20/10 · 23:30",
-      "pubDate": "Tue, 20 Oct 2026 20:30:00 -0300"
+      "title": "Ex-goleiro do Corinthians deve ser escolhido para assumir funções de Marcelo Paz; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542509/ex-goleiro-do-corinthians-deve-ser-escolhido-para-assumir-funcoes-de-marcelo-paz-entenda",
+      "time": "21/10 · 12:00",
+      "pubDate": "Wed, 21 Oct 2026 09:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Volante do Corinthians detalha preparação para semifinal do Brasileirão Sub-17 contra o Bragantino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542483/volante-do-corinthians-detalha-preparacao-para-semifinal-do-brasileirao-sub-17-contra-o-bragantino",
-      "time": "20/10 · 23:03",
-      "pubDate": "Tue, 20 Oct 2026 20:03:00 -0300"
+      "title": "Meu Timão transmite terceira partida do Corinthians na Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542469/meu-timao-transmite-terceira-partida-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
+      "time": "21/10 · 11:30",
+      "pubDate": "Wed, 21 Oct 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleiro sai em defesa de Gabriel Paulista após desabafo e fala sobre responsabilidade no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542441/goleiro-sai-em-defesa-de-gabriel-paulista-apos-desabafo-e-fala-sobre-responsabilidade-no-corinthians",
-      "time": "20/10 · 22:36",
-      "pubDate": "Tue, 20 Oct 2026 19:36:00 -0300"
+      "title": "[Rodrigo Vessoni] Saída de Paz do Corinthians tem fritura política, falta de autonomia e fraqueza di",
+      "url": "https://www.meutimao.com.br/coluna/rodrigo_vessoni/4256/saida-de-paz-do-corinthians-tem-fritura-politica-falta-de-autonomia-e-fraqueza-diante-dos-atrasos/",
+      "time": "21/10 · 11:15",
+      "pubDate": "Wed, 21 Oct 2026 08:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se reapresenta após empate e inicia preparação para duelo direto contra o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542481/corinthians-se-reapresenta-apos-empate-e-inicia-preparacao-para-duelo-direto-contra-o-vasco",
-      "time": "20/10 · 22:27",
-      "pubDate": "Tue, 20 Oct 2026 19:27:00 -0300"
+      "title": "Entenda os motivos da demissão de Marcelo Paz no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542501/entenda-os-motivos-da-demissao-de-marcelo-paz-no-corinthians",
+      "time": "21/10 · 11:00",
+      "pubDate": "Wed, 21 Oct 2026 08:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians não paga direitos de imagem novamente e chega a três meses em dívida com o elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542480/corinthians-nao-paga-direitos-de-imagem-novamente-e-chega-a-tres-meses-em-divida-com-o-elenco",
-      "time": "20/10 · 22:12",
-      "pubDate": "Tue, 20 Oct 2026 19:12:00 -0300"
+      "title": "Últimas do Corinthians: demissão de Paz, goleiro rebate críticas e reclamação corinthiana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542502/ultimas-do-corinthians-demissao-de-paz-goleiro-rebate-criticas-e-reclamacao-corinthiana",
+      "time": "21/10 · 10:30",
+      "pubDate": "Wed, 21 Oct 2026 07:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meio-campista do Corinthians encerra jejum de quase cinco meses em goleada pela Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542309/meio-campista-do-corinthians-encerra-jejum-de-quase-cinco-meses-em-goleada-pela-libertadores",
-      "time": "20/10 · 21:35",
-      "pubDate": "Tue, 20 Oct 2026 18:35:00 -0300"
+      "title": "Corinthians encara Independiente Santa Fe por liderança na Libertadores Feminina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542468/corinthians-encara-independiente-santa-fe-por-lideranca-na-libertadores-feminina-saiba-tudo",
+      "time": "21/10 · 03:01",
+      "pubDate": "Wed, 21 Oct 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf causa incômodo nos bastidores do Corinthians com testes em momento decisivo no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-causa-incomodo-nos-bastidores-do-corinthians-com-testes-em-momento-decisivo-do-corinthians]]>",
+      "time": "21/10 · 00:06",
+      "pubDate": "Tue, 20 Oct 2026 21:06:21 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Luxemburgo dispara críticas a Seedorf e se oferece ao Corinthians em momento delicado da temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/luxemburgo-dispara-criticas-a-seedorf-e-se-oferece-ao-corinthians-em-momento-delicado-na-temporada]]>",
+      "time": "21/10 · 00:05",
+      "pubDate": "Tue, 20 Oct 2026 21:05:17 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Marcelo Paz deixa o Corinthians após dez meses e sequência de desgastes com a diretoria",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-deixa-o-corinthians-apos-dez-meses-e-sequencia-de-desgastes-com-a-diretoria]]>",
+      "time": "21/10 · 00:04",
+      "pubDate": "Tue, 20 Oct 2026 21:04:36 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não paga nova parcela à CNRD e aumenta risco de punição; clube explica atraso",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-paga-nova-parcela-a-cnrd-e-aumenta-risco-de-punicao-clube-explica-atraso]]>",
+      "time": "20/10 · 22:15",
+      "pubDate": "Tue, 20 Oct 2026 19:15:37 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto cobra apoio da Fiel, mas Corinthians tem apenas 11,1% de aproveitamento em casa nos últimos jogos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-cobra-apoio-da-fiel-mas-corinthians-tem-apenas-111-de-aproveitamento-em-casa-nos-ultimos-jogos]]>",
+      "time": "20/10 · 22:04",
+      "pubDate": "Tue, 20 Oct 2026 19:04:55 -0300"
     },
     {
       "source": "Bolavip",
@@ -85,50 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Seedorf causa incômodo nos bastidores do Corinthians com testes em momento decisivo no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-causa-incomodo-nos-bastidores-do-corinthians-com-testes-em-momento-decisivo-do-corinthians]]>",
-      "time": "20/10 · 19:08",
-      "pubDate": "Tue, 20 Oct 2026 16:08:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Corinthians transforma cada jogo em um pesadelo e deixa sua torcida refém do medo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-transforma-cada-jogo-em-um-pesadelo-e-deixa-sua-torcida-refem-do-medo]]>",
       "time": "20/10 · 18:55",
       "pubDate": "Tue, 20 Oct 2026 15:55:25 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Jair Ventura “provoca” em entrevista pós-jogo e situação está complicada no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-jair-ventura-provoca-em-entrevista-pos-jogo-e-situacao-esta-complicada-no-corinthians]]>",
-      "time": "20/10 · 15:50",
-      "pubDate": "Tue, 20 Oct 2026 12:50:34 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf vai conversar com todo grupo e atletas individualmente após reprovar postura do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-vai-conversar-com-todo-grupo-e-atletas-individualmente-apos-reprovar-postura-do-corinthians]]>",
-      "time": "20/10 · 13:49",
-      "pubDate": "Tue, 20 Oct 2026 10:49:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians: pênalti polêmico em André salva empate com o Vitória e provoca revolta nas redes",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-penalti-polemico-em-andre-salva-empate-com-o-vitoria-e-provoca-revolta-nas-redes]]>",
-      "time": "20/10 · 01:05",
-      "pubDate": "Mon, 19 Oct 2026 22:05:56 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Torcida do Corinthians se revolta com possível pênalti não marcado em Yuri Alberto contra o Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-se-revolta-com-possivel-penalti-nao-marcado-em-yuri-alberto-contra-o-vitoria]]>",
-      "time": "19/10 · 23:52",
-      "pubDate": "Mon, 19 Oct 2026 20:52:22 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,9 +200,39 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "VÍDEO: Marcelo Paz não é mais executivo de futevol do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130238/marcelo-paz-nao-e-mais-executivo-de-futevol-do-corinthians",
-      "pubDate": "Tue, 20 Oct 2026 20:55:15 -0300",
+      "title": "Ex-goleiro do Corinthians deve ser escolhido para assumir funções de Marcelo Paz; entenda",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542509/ex-goleiro-do-corinthians-deve-ser-escolhido-para-assumir-funcoes-de-marcelo-paz-entenda",
+      "pubDate": "Wed, 21 Oct 2026 09:00:00 -0300",
+      "date": "21/10 · 12:00"
+    },
+    {
+      "title": "Meu Timão transmite terceira partida do Corinthians na Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542469/meu-timao-transmite-terceira-partida-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
+      "pubDate": "Wed, 21 Oct 2026 08:30:00 -0300",
+      "date": "21/10 · 11:30"
+    },
+    {
+      "title": "Últimas do Corinthians: demissão de Paz, goleiro rebate críticas e reclamação corinthiana",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542502/ultimas-do-corinthians-demissao-de-paz-goleiro-rebate-criticas-e-reclamacao-corinthiana",
+      "pubDate": "Wed, 21 Oct 2026 07:30:00 -0300",
+      "date": "21/10 · 10:30"
+    },
+    {
+      "title": "VÍDEO: André Castro avalia e opina sobre o projeto SAFiel no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130240/andre-castro-avalia-e-opina-sobre-o-projeto-safiel-no-corinthians",
+      "pubDate": "Tue, 20 Oct 2026 21:21:35 -0300",
+      "date": "21/10 · 00:21"
+    },
+    {
+      "title": "VÍDEO: André Castro comenta possível proposta de 1 bilhão de dólares para o Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130239/andre-castro-comenta-possivel-proposta-de-1-bilhao-de-dolares-para-o-corinthians",
+      "pubDate": "Tue, 20 Oct 2026 21:20:00 -0300",
+      "date": "21/10 · 00:20"
+    },
+    {
+      "title": "VÍDEO: Marcelo Paz não é mais executivo de futebol do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130238/marcelo-paz-nao-e-mais-executivo-de-futebol-do-corinthians",
+      "pubDate": "Tue, 20 Oct 2026 20:55:00 -0300",
       "date": "20/10 · 23:55"
     },
     {
@@ -216,36 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542309/meio-campista-do-corinthians-encerra-jejum-de-quase-cinco-meses-em-goleada-pela-libertadores",
       "pubDate": "Tue, 20 Oct 2026 18:35:00 -0300",
       "date": "20/10 · 21:35"
-    },
-    {
-      "title": "Cantor se declara ao Corinthians e se emociona ao ver filho entrar em campo com goleiro na Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542455/cantor-se-declara-ao-corinthians-e-se-emociona-ao-ver-filho-entrar-em-campo-com-goleiro-na-arena",
-      "pubDate": "Tue, 20 Oct 2026 17:03:00 -0300",
-      "date": "20/10 · 20:03"
-    },
-    {
-      "title": "Gabi Zanotti atinge melhor marca de participações em gol pelo Corinthians em um mesmo ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542343/gabi-zanotti-atinge-melhor-marca-de-participacoes-em-gol-pelo-corinthians-em-um-mesmo-ano",
-      "pubDate": "Tue, 20 Oct 2026 16:35:00 -0300",
-      "date": "20/10 · 19:35"
-    },
-    {
-      "title": "Meia-atacante volta a marcar depois de 12 jogos em goleada do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542341/meia-atacante-volta-a-marcar-depois-de-12-jogos-em-goleada-do-corinthians-na-libertadores",
-      "pubDate": "Tue, 20 Oct 2026 14:31:00 -0300",
-      "date": "20/10 · 17:31"
-    },
-    {
-      "title": "Yuri Alberto encerra jejum de três meses sem marcar gols pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542390/yuri-alberto-encerra-jejum-de-tres-meses-sem-marcar-gols-pelo-corinthians",
-      "pubDate": "Tue, 20 Oct 2026 13:29:00 -0300",
-      "date": "20/10 · 16:29"
-    },
-    {
-      "title": "Corinthians alcança segunda maior goleada do ano diante do Caracas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542310/corinthians-alcanca-segunda-maior-goleada-do-ano-diante-do-caracas",
-      "pubDate": "Tue, 20 Oct 2026 10:31:00 -0300",
-      "date": "20/10 · 13:31"
     }
   ]
 };
