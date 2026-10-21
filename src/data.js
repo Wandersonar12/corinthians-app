@@ -1,86 +1,118 @@
-// Gerado automaticamente em 20/10/2026, 20:57:22
+// Gerado automaticamente em 21/10/2026, 00:13:17
 const LIVE_DATA = {
-  "updatedAt": "2026-10-20T20:57:22.788Z",
+  "updatedAt": "2026-10-21T00:13:17.825Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Yuri Alberto volta a se isolar na artilharia do Corinthians em 2026; veja o ranking",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542404/yuri-alberto-volta-a-se-isolar-na-artilharia-do-corinthians-em-2026-veja-o-ranking",
-      "time": "20/10 · 20:34",
-      "pubDate": "Tue, 20 Oct 2026 17:34:00 -0300"
+      "title": "VÍDEO: Marcelo Paz não é mais executivo de futevol do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130238/marcelo-paz-nao-e-mais-executivo-de-futevol-do-corinthians",
+      "time": "20/10 · 23:55",
+      "pubDate": "Tue, 20 Oct 2026 20:55:15 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians será julgado no STJD por expulsão na base e infração na final do Brasileiro Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542473/corinthians-sera-julgado-no-stjd-por-expulsao-na-base-e-infracao-na-final-do-brasileiro-feminino",
-      "time": "20/10 · 20:32",
-      "pubDate": "Tue, 20 Oct 2026 17:32:00 -0300"
+      "title": "Marcelo Paz deixa a diretoria do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542488/marcelo-paz-deixa-a-diretoria-do-corinthians",
+      "time": "20/10 · 23:37",
+      "pubDate": "Tue, 20 Oct 2026 20:37:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians atrasa limpeza da Neo Química Arena; veja imagens do teto do estádio corinthiano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542461/corinthians-atrasa-limpeza-da-neo-quimica-arena-veja-imagens-do-teto-do-estadio-corinthiano",
-      "time": "20/10 · 20:30",
-      "pubDate": "Tue, 20 Oct 2026 17:30:01 -0300"
+      "title": "Corinthians fecha temporada sem vencer o Vitória pela primeira vez desde 2018",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542394/corinthians-fecha-temporada-sem-vencer-o-vitoria-pela-primeira-vez-desde-2018",
+      "time": "20/10 · 23:30",
+      "pubDate": "Tue, 20 Oct 2026 20:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Cantor se declara ao Corinthians e se emociona ao ver filho entrar em campo com goleiro na Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542455/cantor-se-declara-ao-corinthians-e-se-emociona-ao-ver-filho-entrar-em-campo-com-goleiro-na-arena",
-      "time": "20/10 · 20:03",
-      "pubDate": "Tue, 20 Oct 2026 17:03:00 -0300"
+      "title": "Volante do Corinthians detalha preparação para semifinal do Brasileirão Sub-17 contra o Bragantino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542483/volante-do-corinthians-detalha-preparacao-para-semifinal-do-brasileirao-sub-17-contra-o-bragantino",
+      "time": "20/10 · 23:03",
+      "pubDate": "Tue, 20 Oct 2026 20:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Gabi Zanotti atinge melhor marca de participações em gol pelo Corinthians em um mesmo ano",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542343/gabi-zanotti-atinge-melhor-marca-de-participacoes-em-gol-pelo-corinthians-em-um-mesmo-ano",
-      "time": "20/10 · 19:35",
-      "pubDate": "Tue, 20 Oct 2026 16:35:00 -0300"
+      "title": "Goleiro sai em defesa de Gabriel Paulista após desabafo e fala sobre responsabilidade no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542441/goleiro-sai-em-defesa-de-gabriel-paulista-apos-desabafo-e-fala-sobre-responsabilidade-no-corinthians",
+      "time": "20/10 · 22:36",
+      "pubDate": "Tue, 20 Oct 2026 19:36:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Luxemburgo critica contratação de Seedorf pelo Corinthians e diz que aceitaria assumir o clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542454/luxemburgo-critica-contratacao-de-seedorf-pelo-corinthians-e-diz-que-aceitaria-assumir-o-clube",
-      "time": "20/10 · 19:02",
-      "pubDate": "Tue, 20 Oct 2026 16:02:00 -0300"
+      "title": "Corinthians se reapresenta após empate e inicia preparação para duelo direto contra o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542481/corinthians-se-reapresenta-apos-empate-e-inicia-preparacao-para-duelo-direto-contra-o-vasco",
+      "time": "20/10 · 22:27",
+      "pubDate": "Tue, 20 Oct 2026 19:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Auxiliar do Corinthians comenta encaixe de Memphis em esquema com três atacantes",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542417/auxiliar-do-corinthians-comenta-encaixe-de-memphis-em-esquema-com-tres-atacantes",
-      "time": "20/10 · 18:33",
-      "pubDate": "Tue, 20 Oct 2026 15:33:00 -0300"
+      "title": "Corinthians não paga direitos de imagem novamente e chega a três meses em dívida com o elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542480/corinthians-nao-paga-direitos-de-imagem-novamente-e-chega-a-tres-meses-em-divida-com-o-elenco",
+      "time": "20/10 · 22:12",
+      "pubDate": "Tue, 20 Oct 2026 19:12:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece dias e horários de quartas de final do Paulista Sub-20; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542458/corinthians-conhece-dias-e-horarios-de-quartas-de-final-do-paulista-sub-20-confira",
-      "time": "20/10 · 18:27",
-      "pubDate": "Tue, 20 Oct 2026 15:27:00 -0300"
+      "title": "Meio-campista do Corinthians encerra jejum de quase cinco meses em goleada pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542309/meio-campista-do-corinthians-encerra-jejum-de-quase-cinco-meses-em-goleada-pela-libertadores",
+      "time": "20/10 · 21:35",
+      "pubDate": "Tue, 20 Oct 2026 18:35:00 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Seedorf entra no clima da Fiel e participa de “poropopó” antes de Corinthians x Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-entra-no-clima-da-fiel-e-participa-de-poropopo-antes-de-corinthians-x-vitoria]]>",
-      "time": "20/10 · 12:35",
-      "pubDate": "Tue, 20 Oct 2026 09:35:59 -0300"
+      "title": "Análise: Craque Neto tem fundamento ao criticar Memphis Depay, Rodrigo Garro e Seedorf no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-craque-neto-tem-fundamento-ao-criticar-memphis-depay-rodrigo-garro-e-seedorf-no-corinthians]]>",
+      "time": "20/10 · 19:18",
+      "pubDate": "Tue, 20 Oct 2026 16:18:10 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Breno Bidon caiu muito de produção e Seedorf precisa recuperá-lo urgentemente no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-breno-bidon-caiu-muito-de-producao-e-seedorf-precisa-recupera-lo-urgentemente-no-corinthians]]>",
+      "time": "20/10 · 19:09",
+      "pubDate": "Tue, 20 Oct 2026 16:09:57 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf causa incômodo nos bastidores do Corinthians com testes em momento decisivo no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-causa-incomodo-nos-bastidores-do-corinthians-com-testes-em-momento-decisivo-do-corinthians]]>",
+      "time": "20/10 · 19:08",
+      "pubDate": "Tue, 20 Oct 2026 16:08:07 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians transforma cada jogo em um pesadelo e deixa sua torcida refém do medo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-transforma-cada-jogo-em-um-pesadelo-e-deixa-sua-torcida-refem-do-medo]]>",
+      "time": "20/10 · 18:55",
+      "pubDate": "Tue, 20 Oct 2026 15:55:25 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Análise: Jair Ventura “provoca” em entrevista pós-jogo e situação está complicada no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-jair-ventura-provoca-em-entrevista-pos-jogo-e-situacao-esta-complicada-no-corinthians]]>",
-      "time": "20/10 · 12:34",
-      "pubDate": "Tue, 20 Oct 2026 09:34:34 -0300"
+      "time": "20/10 · 15:50",
+      "pubDate": "Tue, 20 Oct 2026 12:50:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf vai conversar com todo grupo e atletas individualmente após reprovar postura do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-vai-conversar-com-todo-grupo-e-atletas-individualmente-apos-reprovar-postura-do-corinthians]]>",
+      "time": "20/10 · 13:49",
+      "pubDate": "Tue, 20 Oct 2026 10:49:55 -0300"
     },
     {
       "source": "Bolavip",
@@ -93,42 +125,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Seedorf define primeiro Corinthians e mantém mistério na escalação para duelo decisivo contra o Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-define-primeiro-corinthians-e-mantem-misterio-na-escalacao-para-duelo-decisivo-contra-o-vitoria]]>",
-      "time": "20/10 · 00:24",
-      "pubDate": "Mon, 19 Oct 2026 21:24:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians e Caixa se blindam contra pressão em negociação da dívida da Neo Química Arena",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-caixa-se-blindam-contra-pressao-em-negociacao-da-divida-da-neo-quimica-arena]]>",
-      "time": "20/10 · 00:23",
-      "pubDate": "Mon, 19 Oct 2026 21:23:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Torcida do Corinthians se revolta com possível pênalti não marcado em Yuri Alberto contra o Vitória",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/torcida-do-corinthians-se-revolta-com-possivel-penalti-nao-marcado-em-yuri-alberto-contra-o-vitoria]]>",
       "time": "19/10 · 23:52",
       "pubDate": "Mon, 19 Oct 2026 20:52:22 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: problema com documentos tira Seedorf da beira do campo em Corinthians x Vitória",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-problema-com-documentos-tira-seedorf-da-beira-do-campo-em-corinthians-x-vitoria]]>",
-      "time": "19/10 · 22:47",
-      "pubDate": "Mon, 19 Oct 2026 19:47:42 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians traça estratégia com Seedorf e vê jogos em casa como fundamentais para reação",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-traca-estrategia-com-seedorf-e-ve-jogos-em-casa-como-fundamentais-para-reacao]]>",
-      "time": "18/10 · 23:05",
-      "pubDate": "Sun, 18 Oct 2026 20:05:46 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -200,6 +200,24 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Marcelo Paz não é mais executivo de futevol do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130238/marcelo-paz-nao-e-mais-executivo-de-futevol-do-corinthians",
+      "pubDate": "Tue, 20 Oct 2026 20:55:15 -0300",
+      "date": "20/10 · 23:55"
+    },
+    {
+      "title": "Goleiro sai em defesa de Gabriel Paulista após desabafo e fala sobre responsabilidade no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542441/goleiro-sai-em-defesa-de-gabriel-paulista-apos-desabafo-e-fala-sobre-responsabilidade-no-corinthians",
+      "pubDate": "Tue, 20 Oct 2026 19:36:00 -0300",
+      "date": "20/10 · 22:36"
+    },
+    {
+      "title": "Meio-campista do Corinthians encerra jejum de quase cinco meses em goleada pela Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542309/meio-campista-do-corinthians-encerra-jejum-de-quase-cinco-meses-em-goleada-pela-libertadores",
+      "pubDate": "Tue, 20 Oct 2026 18:35:00 -0300",
+      "date": "20/10 · 21:35"
+    },
+    {
       "title": "Cantor se declara ao Corinthians e se emociona ao ver filho entrar em campo com goleiro na Arena",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542455/cantor-se-declara-ao-corinthians-e-se-emociona-ao-ver-filho-entrar-em-campo-com-goleiro-na-arena",
       "pubDate": "Tue, 20 Oct 2026 17:03:00 -0300",
@@ -228,24 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542310/corinthians-alcanca-segunda-maior-goleada-do-ano-diante-do-caracas",
       "pubDate": "Tue, 20 Oct 2026 10:31:00 -0300",
       "date": "20/10 · 13:31"
-    },
-    {
-      "title": "Clima leve e cobrança por respeito marcam bastidores da goleada do Corinthians na Libertadores",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542399/clima-leve-e-cobranca-por-respeito-marcam-bastidores-da-goleada-do-corinthians-na-libertadores",
-      "pubDate": "Tue, 20 Oct 2026 08:55:00 -0300",
-      "date": "20/10 · 11:55"
-    },
-    {
-      "title": "Corinthians publica vídeo de possível pênalti não marcado contra o Vitória e promete cobrar CBF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542424/corinthians-publica-video-de-possivel-penalti-nao-marcado-contra-o-vitoria-e-promete-cobrar-cbf",
-      "pubDate": "Tue, 20 Oct 2026 08:25:00 -0300",
-      "date": "20/10 · 11:25"
-    },
-    {
-      "title": "Últimas do Corinthians: empate no Brasileirão, gol de Filho do Terrão e nova parceria",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542422/ultimas-do-corinthians-empate-no-brasileirao-gol-de-filho-do-terrao-e-nova-parceria",
-      "pubDate": "Tue, 20 Oct 2026 07:30:00 -0300",
-      "date": "20/10 · 10:30"
     }
   ]
 };
