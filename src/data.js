@@ -1,70 +1,110 @@
-// Gerado automaticamente em 21/10/2026, 20:58:05
+// Gerado automaticamente em 22/10/2026, 00:18:00
 const LIVE_DATA = {
-  "updatedAt": "2026-10-21T20:58:05.638Z",
+  "updatedAt": "2026-10-22T00:18:00.202Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Auxiliar do Corinthians elogia Vitinho em retorno à titularidade depois de seis meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542413/auxiliar-do-corinthians-elogia-vitinho-em-retorno-a-titularidade-depois-de-seis-meses",
+      "title": "Corinthians marca no último lance e empata contra o Bragantino pela semifinal do Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542527/corinthians-marca-no-ultimo-lance-e-empata-contra-o-bragantino-pela-semifinal-do-brasileiro-sub-17",
+      "time": "21/10 · 23:57",
+      "pubDate": "Wed, 21 Oct 2026 20:57:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueira do Corinthians marca em empate do Brasil na Copa do Mundo Feminina Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542546/zagueira-do-corinthians-marca-em-empate-do-brasil-na-copa-do-mundo-feminina-sub-17",
+      "time": "21/10 · 23:45",
+      "pubDate": "Wed, 21 Oct 2026 20:45:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Goleiro do Corinthians avalia primeiros treinos de Seedorf e projeta reação no Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542440/goleiro-do-corinthians-avalia-primeiros-treinos-de-seedorf-e-projeta-reacao-no-brasileiro",
+      "time": "21/10 · 23:32",
+      "pubDate": "Wed, 21 Oct 2026 20:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reforça compromisso com o RCE e garante regularidade após cobrança do MP",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542552/corinthians-reforca-compromisso-com-o-rce-e-garante-regularidade-apos-cobranca-do-mp",
+      "time": "21/10 · 23:11",
+      "pubDate": "Wed, 21 Oct 2026 20:11:53 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Belén Aquino volta a fazer gols e projeta Corinthians na próxima fase da CONMEBOL Libertadores",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130264/belen-aquino-volta-a-fazer-gols-e-projeta-corinthians-na-proxima-fase-da-conmebol-libertadores",
+      "time": "21/10 · 22:45",
+      "pubDate": "Wed, 21 Oct 2026 19:45:37 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Meia-atacante do Corinthians tem maior minutagem em mais de um mês após titularidade em Itaquera",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542516/meia-atacante-do-corinthians-tem-maior-minutagem-em-mais-de-um-mes-apos-titularidade-em-itaquera",
+      "time": "21/10 · 22:33",
+      "pubDate": "Wed, 21 Oct 2026 19:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Melhores momentos: Independiente Santa Fe 1x5 Corinthians | CONMEBOL Libertadores Feminina 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130263/melhores-momentos-independiente-santa-fe-1x5-corinthians-conmebol-libertadores-feminina-2026",
+      "time": "21/10 · 22:29",
+      "pubDate": "Wed, 21 Oct 2026 19:29:45 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians realiza treino tático visando duelo contra o Vasco da Gama pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542557/corinthians-realiza-treino-tatico-visando-duelo-contra-o-vasco-da-gama-pelo-brasileirao",
+      "time": "21/10 · 22:13",
+      "pubDate": "Wed, 21 Oct 2026 19:13:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf vai realizar mudanças na escalação em Vasco x Corinthians e promover volta de Memphis Depay",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-vai-realizar-mudancas-na-escalacao-em-vasco-x-corinthians-e-promover-volta-de-memphis-depay]]>",
       "time": "21/10 · 20:33",
-      "pubDate": "Wed, 21 Oct 2026 17:33:00 -0300"
+      "pubDate": "Wed, 21 Oct 2026 17:33:21 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians quita parte de dívida com a União em acordo de transação tributária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542542/corinthians-quita-parte-de-divida-com-a-uniao-em-acordo-de-transacao-tributaria",
-      "time": "21/10 · 20:08",
-      "pubDate": "Wed, 21 Oct 2026 17:08:08 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Júlio César deve assumir interinamente o cargo de Marcelo Paz até Corinthians definir substituto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/julio-cesar-deve-assumir-interinamente-o-cargo-de-marcelo-paz-ate-corinthians-definir-substituto]]>",
+      "time": "21/10 · 18:59",
+      "pubDate": "Wed, 21 Oct 2026 15:59:47 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians detalha venda de ingressos para duelo contra o Vasco em São Januário",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542541/corinthians-detalha-venda-de-ingressos-para-duelo-contra-o-vasco-em-sao-januario",
-      "time": "21/10 · 19:39",
-      "pubDate": "Wed, 21 Oct 2026 16:39:11 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Luxemburgo poderia agregar na função de transição entre base e profissional do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-luxemburgo-poderia-agregar-na-funcao-de-transicao-entre-base-e-profissional-do-corinthians]]>",
+      "time": "21/10 · 18:02",
+      "pubDate": "Wed, 21 Oct 2026 15:02:29 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians busca revanche contra o Guarani por eliminação recente no Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542361/corinthians-busca-revanche-contra-o-guarani-por-eliminacao-recente-no-sub-20",
-      "time": "21/10 · 19:30",
-      "pubDate": "Wed, 21 Oct 2026 16:30:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Luxemburgo dispara críticas a Seedorf e se oferece ao Corinthians em momento delicado da temporada",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/luxemburgo-dispara-criticas-a-seedorf-e-se-oferece-ao-corinthians-em-momento-delicado-na-temporada]]>",
+      "time": "21/10 · 15:29",
+      "pubDate": "Wed, 21 Oct 2026 12:29:11 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Artilheira desfalca o Corinthians em duelo decisivo pela Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542540/artilheira-desfalca-o-corinthians-em-duelo-decisivo-pela-libertadores-feminina",
-      "time": "21/10 · 19:19",
-      "pubDate": "Wed, 21 Oct 2026 16:19:57 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para última rodada da fase de grupos da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542530/corinthians-esta-escalado-para-ultima-rodada-da-fase-de-grupos-da-libertadores-feminina",
-      "time": "21/10 · 18:37",
-      "pubDate": "Wed, 21 Oct 2026 15:37:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lelê destaca disputa saudável com Nicole pela titularidade e elogia jovens goleiras do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542472/lele-destaca-disputa-saudavel-com-nicole-pela-titularidade-e-elogia-jovens-goleiras-do-corinthians",
-      "time": "21/10 · 18:34",
-      "pubDate": "Wed, 21 Oct 2026 15:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece adversário na final da Talentos LNF em busca de título inédito",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542537/corinthians-conhece-adversario-na-final-da-talentos-lnf-em-busca-de-titulo-inedito",
-      "time": "21/10 · 18:33",
-      "pubDate": "Wed, 21 Oct 2026 15:33:03 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Carlos Vinícius, David Terans e Icardi são opções no mercado da bola ao Corinthians para 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-carlos-vinicius-david-terans-e-icardi-sao-opcoes-no-mercado-da-bola-ao-corinthians-para-2027]]>",
+      "time": "21/10 · 13:33",
+      "pubDate": "Wed, 21 Oct 2026 10:33:59 -0300"
     },
     {
       "source": "Bolavip",
@@ -77,82 +117,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Luxemburgo dispara críticas a Seedorf e se oferece ao Corinthians em momento delicado da temporada",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/luxemburgo-dispara-criticas-a-seedorf-e-se-oferece-ao-corinthians-em-momento-delicado-na-temporada]]>",
-      "time": "21/10 · 12:27",
-      "pubDate": "Wed, 21 Oct 2026 09:27:49 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Análise: Bastidores da demissão de Marcelo Paz no Corinthians tem suposta influência de Rodrigo Garro",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-bastidores-da-demissao-de-marcelo-paz-no-corinthians-tem-suposta-influencia-de-rodrigo-garro]]>",
       "time": "21/10 · 12:07",
       "pubDate": "Wed, 21 Oct 2026 09:07:20 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ex-Corinthians, especialista em Kung-Fu e poliglota vai enfrentar o Manchester United na Youth League",
-      "url": "https://www.gazetaesportiva.com/como-1907/ex-corinthians-especialista-em-kung-fu-e-poliglota-vai-enfrentar-o-manchester-united-na-youth-league/",
-      "time": "21/10 · 10:00",
-      "pubDate": "Wed, 21 Oct 2026 10:00:56 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Pressão da torcida, elenco e Seedorf: bastidores da demissão de Paz do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/marcelo-paz-demitido-corinthians-bastidores/",
-      "time": "21/10 · 07:00",
-      "pubDate": "Wed, 21 Oct 2026 07:00:30 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians atrasa direitos de imagem do elenco pelo terceiro mês seguido",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-atraso-direitos-imagem-30-milhoes/",
-      "time": "21/10 · 00:25",
-      "pubDate": "Wed, 21 Oct 2026 00:25:55 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf causa incômodo nos bastidores do Corinthians com testes em momento decisivo no Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-causa-incomodo-nos-bastidores-do-corinthians-com-testes-em-momento-decisivo-do-corinthians]]>",
-      "time": "21/10 · 00:06",
-      "pubDate": "Tue, 20 Oct 2026 21:06:21 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Marcelo Paz não é mais executivo de futebol do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/marcelo-paz-deixa-corinthians/",
-      "time": "20/10 · 23:45",
-      "pubDate": "Tue, 20 Oct 2026 23:45:22 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians abre preparação para pegar o Vasco e terá reforço de Memphis",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-preparacao-vasco-memphis-depay/",
-      "time": "20/10 · 23:26",
-      "pubDate": "Tue, 20 Oct 2026 23:26:03 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Bragantino x Corinthians: veja onde assistir à semifinal do Brasileiro Sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/bragantino-x-corinthians-onde-assistir-brasileiro-sub-17/",
-      "time": "20/10 · 23:00",
-      "pubDate": "Tue, 20 Oct 2026 23:00:56 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ind. Santa Fe x Corinthians pela Libertadores feminina: saiba informações e onde assistir ao jogo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ind-santa-fe-x-corinthians-pela-libertadores-feminina-saiba-informacoes-e-onde-assistir-ao-jogo/",
-      "time": "20/10 · 23:00",
-      "pubDate": "Tue, 20 Oct 2026 23:00:49 +0000"
     },
     {
       "source": "Bolavip",
@@ -163,36 +131,68 @@ const LIVE_DATA = {
       "pubDate": "Tue, 20 Oct 2026 19:15:37 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto cobra apoio da Fiel, mas Corinthians tem apenas 11,1% de aproveitamento em casa nos últimos jogos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-cobra-apoio-da-fiel-mas-corinthians-tem-apenas-111-de-aproveitamento-em-casa-nos-ultimos-jogos]]>",
-      "time": "20/10 · 22:04",
-      "pubDate": "Tue, 20 Oct 2026 19:04:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Craque Neto tem fundamento ao criticar Memphis Depay, Rodrigo Garro e Seedorf no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-craque-neto-tem-fundamento-ao-criticar-memphis-depay-rodrigo-garro-e-seedorf-no-corinthians]]>",
-      "time": "20/10 · 19:18",
-      "pubDate": "Tue, 20 Oct 2026 16:18:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians transforma cada jogo em um pesadelo e deixa sua torcida refém do medo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-transforma-cada-jogo-em-um-pesadelo-e-deixa-sua-torcida-refem-do-medo]]>",
-      "time": "20/10 · 18:55",
-      "pubDate": "Tue, 20 Oct 2026 15:55:25 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians atrasa nova parcela da CNRD e pode ter transfer ban ampliado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-descumpre-acordo-cnrd-transfer-ban/",
-      "time": "20/10 · 18:20",
-      "pubDate": "Tue, 20 Oct 2026 18:20:23 +0000"
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,40 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Lelê destaca disputa saudável com Nicole pela titularidade e elogia jovens goleiras do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542472/lele-destaca-disputa-saudavel-com-nicole-pela-titularidade-e-elogia-jovens-goleiras-do-corinthians",
-      "pubDate": "Wed, 21 Oct 2026 15:34:00 -0300",
-      "date": "21/10 · 18:34"
+      "title": "Goleiro do Corinthians avalia primeiros treinos de Seedorf e projeta reação no Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542440/goleiro-do-corinthians-avalia-primeiros-treinos-de-seedorf-e-projeta-reacao-no-brasileiro",
+      "pubDate": "Wed, 21 Oct 2026 20:32:00 -0300",
+      "date": "21/10 · 23:32"
     },
     {
-      "title": "Goleira do Corinthians relembra mudança de posição e projeta campanha da Seleção no Mundial Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542521/goleira-do-corinthians-relembra-mudanca-de-posicao-e-projeta-campanha-da-selecao-no-mundial-sub-17",
-      "pubDate": "Wed, 21 Oct 2026 12:31:00 -0300",
-      "date": "21/10 · 15:31"
+      "title": "VÍDEO: Duda Sampaio fala da importância de fazer gols, momento atual do time e expectativa para o mata-mata",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130265/duda-sampaio-fala-da-importancia-de-fazer-gols-momento-atual-do-time-e-expectativa-para-o-mata-mata",
+      "pubDate": "Wed, 21 Oct 2026 19:47:00 -0300",
+      "date": "21/10 · 22:47"
     },
     {
-      "title": "Ex-goleiro do Corinthians deve ser escolhido para assumir funções de Marcelo Paz; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542509/ex-goleiro-do-corinthians-deve-ser-escolhido-para-assumir-funcoes-de-marcelo-paz-entenda",
-      "pubDate": "Wed, 21 Oct 2026 09:00:00 -0300",
-      "date": "21/10 · 12:00"
+      "title": "VÍDEO: Belén Aquino volta a fazer gols e projeta Corinthians na próxima fase da CONMEBOL Libertadores",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130264/belen-aquino-volta-a-fazer-gols-e-projeta-corinthians-na-proxima-fase-da-conmebol-libertadores",
+      "pubDate": "Wed, 21 Oct 2026 19:45:37 -0300",
+      "date": "21/10 · 22:45"
     },
     {
-      "title": "Meu Timão transmite terceira partida do Corinthians na Libertadores Feminina; saiba como assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542469/meu-timao-transmite-terceira-partida-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
-      "pubDate": "Wed, 21 Oct 2026 08:30:00 -0300",
-      "date": "21/10 · 11:30"
+      "title": "VÍDEO: Melhores momentos: Independiente Santa Fe 1x5 Corinthians | CONMEBOL Libertadores Feminina 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130263/melhores-momentos-independiente-santa-fe-1x5-corinthians-conmebol-libertadores-feminina-2026",
+      "pubDate": "Wed, 21 Oct 2026 19:29:45 -0300",
+      "date": "21/10 · 22:29"
     },
     {
-      "title": "Últimas do Corinthians: demissão de Paz, goleiro rebate críticas e reclamação corinthiana",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542502/ultimas-do-corinthians-demissao-de-paz-goleiro-rebate-criticas-e-reclamacao-corinthiana",
-      "pubDate": "Wed, 21 Oct 2026 07:30:00 -0300",
-      "date": "21/10 · 10:30"
+      "title": "VÍDEO: Vic Albuquerque comenta mudança de posição e entrosamento e projeta próxima fase da Libertadores",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130262/vic-albuquerque-comenta-mudanca-de-posicao-e-entrosamento-e-projeta-proxima-fase-da-libertadores",
+      "pubDate": "Wed, 21 Oct 2026 19:28:00 -0300",
+      "date": "21/10 · 22:28"
     },
     {
-      "title": "VÍDEO: André Castro avalia e opina sobre o projeto SAFiel no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130240/andre-castro-avalia-e-opina-sobre-o-projeto-safiel-no-corinthians",
-      "pubDate": "Tue, 20 Oct 2026 21:21:35 -0300",
-      "date": "21/10 · 00:21"
+      "title": "Corinthians goleia o Santa Fe de virada e assegura liderança do grupo na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542545/corinthians-goleia-o-santa-fe-de-virada-e-assegura-lideranca-do-grupo-na-libertadores-feminina",
+      "pubDate": "Wed, 21 Oct 2026 18:53:00 -0300",
+      "date": "21/10 · 21:53"
+    },
+    {
+      "title": "VÍDEO: Belén Aquino faz um golaço de falta pelo Corinthians contra o Santa Fé pela Conmebol Libertadores",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130260/belen-aquino-faz-um-golaco-de-falta-pelo-corinthians-contra-o-santa-fe-pela-conmebol-libertadores",
+      "pubDate": "Wed, 21 Oct 2026 18:50:20 -0300",
+      "date": "21/10 · 21:50"
+    },
+    {
+      "title": "Corinthians oficializa nova função de Julio Cesar; ex-goleiro e presidente comentam mudanças",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542550/corinthians-oficializa-nova-funcao-de-julio-cesar-ex-goleiro-e-presidente-comentam-mudancas",
+      "pubDate": "Wed, 21 Oct 2026 18:35:21 -0300",
+      "date": "21/10 · 21:35"
     }
   ]
 };
