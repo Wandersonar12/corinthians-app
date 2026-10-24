@@ -1,7 +1,71 @@
-// Gerado automaticamente em 23/10/2026, 20:42:18
+// Gerado automaticamente em 24/10/2026, 00:06:07
 const LIVE_DATA = {
-  "updatedAt": "2026-10-23T20:42:18.540Z",
+  "updatedAt": "2026-10-24T00:06:07.275Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Vasco x Corinthians: Provável escalação da 32ª rodada do Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130298/vasco-x-corinthians-provavel-escalacao-da-32-rodada-do-brasileirao-2026",
+      "time": "23/10 · 23:46",
+      "pubDate": "Fri, 23 Oct 2026 20:46:20 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca manter retrospecto positivo em quartas de Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542659/corinthians-busca-manter-retrospecto-positivo-em-quartas-de-libertadores-feminina",
+      "time": "23/10 · 23:04",
+      "pubDate": "Fri, 23 Oct 2026 20:04:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Vasco x Corinthians pelo Brasileirão: onde assistir, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/vasco-corinthians-brasileirao-24-10-2026/",
+      "time": "23/10 · 23:00",
+      "pubDate": "Fri, 23 Oct 2026 23:00:33 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians busca empate com o Guarani e deixa tudo igual nas quartas do Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-guarani-empate-quartas-paulistao-sub-20/",
+      "time": "23/10 · 22:13",
+      "pubDate": "Fri, 23 Oct 2026 22:13:43 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians empata com o Guarani e deixa decisão em aberto nas quartas do Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542693/corinthians-empata-com-o-guarani-e-deixa-decisao-em-aberto-nas-quartas-do-paulista-sub-20",
+      "time": "23/10 · 22:04",
+      "pubDate": "Fri, 23 Oct 2026 19:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta evitar maior jejum de vitórias como visitante na temporada diante do Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542672/corinthians-tenta-evitar-maior-jejum-de-vitorias-como-visitante-na-temporada-diante-do-vasco",
+      "time": "23/10 · 22:03",
+      "pubDate": "Fri, 23 Oct 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians desembarca no Rio de Janeiro com 24 relacionados para duelo contra o Vasco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542675/corinthians-desembarca-no-rio-de-janeiro-com-24-relacionados-para-duelo-contra-o-vasco",
+      "time": "23/10 · 21:55",
+      "pubDate": "Fri, 23 Oct 2026 18:55:41 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueira do Corinthians relembra frustração com lesão e diz como conquistou confiança de Emily Lima",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542662/zagueira-do-corinthians-relembra-frustracao-com-lesao-e-diz-como-conquistou-confianca-de-emily-lima",
+      "time": "23/10 · 21:06",
+      "pubDate": "Fri, 23 Oct 2026 18:06:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -19,20 +83,28 @@ const LIVE_DATA = {
       "pubDate": "Fri, 23 Oct 2026 17:05:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Carlos Vinícius no Corinthians em 2027 tem concorrência, condições e não há negociações em andamento",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/carlos-vinicius-no-corinthians-em-2027-tem-concorrencia-condicoes-e-nao-ha-negociacoes-em-andamento]]>",
+      "time": "23/10 · 19:48",
+      "pubDate": "Fri, 23 Oct 2026 16:48:30 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Matheus Bidu é testado por Seedorf no ataque do Corinthians ao lado de Yuri Alberto e Gui Negão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-matheus-bidu-e-testado-por-seedorf-no-ataque-do-corinthians-ao-lado-de-yuri-alberto-e-gui-negao]]>",
+      "time": "23/10 · 19:48",
+      "pubDate": "Fri, 23 Oct 2026 16:48:16 -0300"
+    },
+    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Escalação: com desfalques, Seedorf prepara novidades no Corinthians contra o Vasco",
       "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-testa-corinthians-desfalques-vasco-brasileirao/",
       "time": "23/10 · 19:23",
       "pubDate": "Fri, 23 Oct 2026 19:23:32 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians vira sobre o Taubaté e garante vaga nas quartas de final do Campeonato Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542682/corinthians-vira-sobre-o-taubate-e-garante-vaga-nas-quartas-de-final-do-campeonato-paulista-sub-20",
-      "time": "23/10 · 19:02",
-      "pubDate": "Fri, 23 Oct 2026 16:02:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -51,44 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 23 Oct 2026 18:29:50 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Seedorf tem nome publicado no BID e está liberado para estrear pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542631/clarence-seedorf-aparece-no-bid-e-ja-pode-fazer-sua-estreia-pelo-corinthians",
-      "time": "23/10 · 17:56",
-      "pubDate": "Fri, 23 Oct 2026 14:56:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Vitinho e André Carrillo ficam fora de viagem do Corinthians para enfrentar o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542679/vitinho-e-andre-carrillo-ficam-fora-de-viagem-do-corinthians-para-enfrentar-o-vasco",
-      "time": "23/10 · 17:51",
-      "pubDate": "Fri, 23 Oct 2026 14:51:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é condenado a pagar quase R$ 60 mil a ex-analista exposto em caso da auditoria da Nike",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542677/corinthians-e-condenado-a-pagar-quase-r-60-mil-a-ex-analista-exposto-em-caso-da-auditoria-da-nike",
-      "time": "23/10 · 16:53",
-      "pubDate": "Fri, 23 Oct 2026 13:53:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueira formada pelo Corinthians estreia na Libertadores Feminina em goleada das Brabas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542633/zagueira-formada-pelo-corinthians-estreia-na-libertadores-feminina-em-goleada-das-brabas",
-      "time": "23/10 · 16:35",
-      "pubDate": "Fri, 23 Oct 2026 13:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Escalação do Corinthians: Seedorf prepara mudanças no time titular para enfrentar o Vasco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542669/escalacao-do-corinthians-seedorf-prepara-mudancas-no-time-titular-para-enfrentar-o-vasco",
-      "time": "23/10 · 15:47",
-      "pubDate": "Fri, 23 Oct 2026 12:47:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Corinthians pode ter Ryan, Palacios, Félix Torres e mais outros emprestados voltando em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-pode-ter-ryan-palacios-felix-torres-e-mais-outros-emprestados-voltando-em-2027]]>",
+      "time": "23/10 · 15:42",
+      "pubDate": "Fri, 23 Oct 2026 12:42:17 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -101,10 +141,10 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Análise: Corinthians pode ter Ryan, Palacios, Félix Torres e mais outros emprestados voltando em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-corinthians-pode-ter-ryan-palacios-felix-torres-e-mais-outros-emprestados-voltando-em-2027]]>",
-      "time": "23/10 · 12:10",
-      "pubDate": "Fri, 23 Oct 2026 09:10:59 -0300"
+      "title": "Análise: Elenco do Corinthians pede restrição do acesso ao vestiário e comprova “atrito” com Osmar Stabile",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-elenco-do-corinthians-pede-restricao-do-acesso-ao-vestiario-e-comprova-atrito-com-osmar-stabile]]>",
+      "time": "23/10 · 13:22",
+      "pubDate": "Fri, 23 Oct 2026 10:22:35 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -121,22 +161,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/vasco-x-corinthians-saiba-onde-assistir-ao-jogo-de-ida-das-quartas-da-libertadores/",
       "time": "23/10 · 09:00",
       "pubDate": "Fri, 23 Oct 2026 09:00:12 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Justiça nega pedido de prisão preventiva de vice do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-nega-pedido-de-prisao-preventiva-de-vice-do-corinthians/",
-      "time": "23/10 · 01:51",
-      "pubDate": "Fri, 23 Oct 2026 01:51:33 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians é derrotado pelo Brasília e perde a segunda no NBB",
-      "url": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/corinthians-e-derrotado-pelo-brasilia-e-perde-a-segunda-no-nbb/",
-      "time": "23/10 · 01:20",
-      "pubDate": "Fri, 23 Oct 2026 01:20:20 +0000"
     },
     {
       "source": "Bolavip",
@@ -169,36 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/lista-de-dispensa-do-corinthians-para-2027-pode-incluir-emprestimo-ou-saida-em-definitivo-de-alex-santana]]>",
       "time": "22/10 · 13:11",
       "pubDate": "Thu, 22 Oct 2026 10:11:38 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Lesão confirmada de Memphis Depay piora ainda mais situação desesperadora do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-lesao-confirmada-de-memphis-depay-piora-ainda-mais-situacao-desesperadora-do-corinthians]]>",
-      "time": "22/10 · 11:49",
-      "pubDate": "Thu, 22 Oct 2026 08:49:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Live Por Ti critica saída de Diniz e questiona escolha por Seedorf no Corinthians: “Duvido que melhore”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/live-por-ti-critica-saida-de-diniz-e-questiona-escolha-por-seedorf-no-corinthians-duvido-que-melhore]]>",
-      "time": "21/10 · 22:02",
-      "pubDate": "Wed, 21 Oct 2026 19:02:05 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians alimenta a própria crise e coloca o futuro do elenco em risco",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-alimenta-a-propria-crise-e-coloca-o-futuro-do-elenco-em-risco]]>",
-      "time": "21/10 · 21:08",
-      "pubDate": "Wed, 21 Oct 2026 18:08:52 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "VÍDEO: Vasco x Corinthians: Provável escalação da 32ª rodada do Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130298/vasco-x-corinthians-provavel-escalacao-da-32-rodada-do-brasileirao-2026",
+      "pubDate": "Fri, 23 Oct 2026 20:46:20 -0300",
+      "date": "23/10 · 23:46"
+    },
     {
       "title": "Zagueira formada pelo Corinthians estreia na Libertadores Feminina em goleada das Brabas",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542633/zagueira-formada-pelo-corinthians-estreia-na-libertadores-feminina-em-goleada-das-brabas",
