@@ -1,7 +1,39 @@
-// Gerado automaticamente em 25/10/2026, 20:03:04
+// Gerado automaticamente em 25/10/2026, 23:38:36
 const LIVE_DATA = {
-  "updatedAt": "2026-10-25T20:03:04.628Z",
+  "updatedAt": "2026-10-25T23:38:36.860Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti analisa atuação do Corinthians contra o Del Valle e projeta semifinal da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542811/gabi-zanotti-analisa-atuacao-do-corinthians-contra-o-del-valle-e-projeta-semifinal-da-libertadores",
+      "time": "25/10 · 23:35",
+      "pubDate": "Sun, 25 Oct 2026 20:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Técnico do Corinthians destaca união do elenco em meio à luta contra o rebaixamento no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542776/tecnico-do-corinthians-destaca-uniao-do-elenco-e-explica-trabalho-para-motivar-jogadores",
+      "time": "25/10 · 22:32",
+      "pubDate": "Sun, 25 Oct 2026 19:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians ultrapassa marca de 100 gols na temporada com goleada na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542808/corinthians-ultrapassa-marca-de-100-gols-na-temporada-com-goleada-na-libertadores-feminina",
+      "time": "25/10 · 21:28",
+      "pubDate": "Sun, 25 Oct 2026 18:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Osmar Stabile diz trabalhar 'dia e noite' para buscar recursos e comenta crise do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542782/osmar-stabile-diz-trabalhar-dia-e-noite-para-buscar-recursos-e-comenta-crise-do-corinthians",
+      "time": "25/10 · 20:31",
+      "pubDate": "Sun, 25 Oct 2026 17:31:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -32,39 +64,39 @@ const LIVE_DATA = {
       "title": "Corinthians passa por susto durante voo de volta do Rio de Janeiro",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542827/corinthians-passa-por-susto-durante-voo-de-volta-do-rio-de-janeiro",
       "time": "25/10 · 18:23",
-      "pubDate": "Sun, 25 Oct 2026 15:23:43 -0300"
+      "pubDate": "Sun, 25 Oct 2026 15:23:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians lidera artilharia da Libertadores Feminina após goleada sobre o Del Valle",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542799/dupla-do-corinthians-lidera-artilharia-da-libertadores-feminina-apos-goleada-sobre-o-del-valle",
-      "time": "25/10 · 18:03",
-      "pubDate": "Sun, 25 Oct 2026 15:03:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem Júlio César como alternativa interna no departamento, mas Stabile concentra decisões",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-julio-cesar-como-alternativa-interna-no-departamento-mas-stabile-concentra-decisoes]]>",
+      "time": "25/10 · 17:30",
+      "pubDate": "Sun, 25 Oct 2026 14:30:21 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians conhece dias e horários das quartas de final do Paulista de Futsal; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542825/corinthians-conhece-dias-e-horarios-das-quartas-de-final-do-paulista-de-futsal-confira",
-      "time": "25/10 · 17:43",
-      "pubDate": "Sun, 25 Oct 2026 14:43:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Seedorf falha na leitura do elenco e não percebe o que o momento do Corinthians exige",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-falha-na-leitura-do-elenco-e-nao-percebe-o-que-o-momento-do-corinthians-exige]]>",
+      "time": "25/10 · 16:03",
+      "pubDate": "Sun, 25 Oct 2026 13:03:19 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians estuda mandar final do Campeonato Brasileiro Sub-17 na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542823/corinthians-estuda-mandar-final-do-campeonato-brasileiro-sub-17-na-neo-quimica-arena",
-      "time": "25/10 · 17:32",
-      "pubDate": "Sun, 25 Oct 2026 14:32:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians sofre virada do Vasco nos minutos finais e volta à zona de rebaixamento do Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofre-virada-do-vasco-nos-minutos-finais-e-volta-a-zona-de-rebaixamento-do-brasileirao]]>",
+      "time": "25/10 · 15:14",
+      "pubDate": "Sun, 25 Oct 2026 12:14:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians fica pessimista sobre presença de Memphis em duelo decisivo contra o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542821/corinthians-fica-pessimista-sobre-presenca-de-memphis-em-duelo-decisivo-contra-o-mirassol",
-      "time": "25/10 · 16:53",
-      "pubDate": "Sun, 25 Oct 2026 13:53:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem prazo para quitar parte dos atrasados e Stabile nega problemas com jogadores",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-prazo-para-quitar-parte-dos-atrasados-e-stabile-nega-problemas-com-jogadores]]>",
+      "time": "25/10 · 15:10",
+      "pubDate": "Sun, 25 Oct 2026 12:10:33 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -117,7 +149,7 @@ const LIVE_DATA = {
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Seedorf lamenta derrota em estreia, mas vê Corinthians com condições de rea��ão: &#8220;Não acabou aqui&#8221;",
+      "title": "Seedorf lamenta derrota em estreia, mas vê Corinthians com condições de reação: &#8220;Não acabou aqui&#8221;",
       "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-lamenta-derrota-em-estreia-mas-ve-corinthians-com-condicoes-de-reacao-nao-acabou-aqui/",
       "time": "25/10 · 00:30",
       "pubDate": "Sun, 25 Oct 2026 00:30:38 +0000"
@@ -129,22 +161,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vasco-3-x-2-corinthians-pelo-brasileirao/",
       "time": "25/10 · 00:28",
       "pubDate": "Sun, 25 Oct 2026 00:28:06 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians sofre virada do Vasco nos minutos finais e volta à zona de rebaixamento do Brasileirão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-sofre-virada-do-vasco-nos-minutos-finais-e-volta-a-zona-de-rebaixamento-do-brasileirao]]>",
-      "time": "24/10 · 23:44",
-      "pubDate": "Sat, 24 Oct 2026 20:44:27 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Lista de saídas do Corinthians para 2027 pode incluir venda definitiva ou empréstimo de Dieguinho",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/linda-de-saidas-do-corinthians-para-2027-pode-incluir-venda-definitiva-ou-emprestimo-de-dieguinho]]>",
-      "time": "24/10 · 23:00",
-      "pubDate": "Sat, 24 Oct 2026 20:00:42 -0300"
     },
     {
       "source": "Bolavip",
@@ -177,28 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-memphis-depay-indicou-zakaria-labyad-kurzawa-dele-alli-e-hakim-ziyech-ao-corinthians]]>",
       "time": "24/10 · 16:16",
       "pubDate": "Sat, 24 Oct 2026 13:16:13 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "CBF divulga áudio oficial do VAR entre Corinthians x Vitória e “esquece” de incluir lance com Gui Negão",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cbf-divulga-audio-oficial-do-var-entre-corinthians-x-vitoria-e-esquece-de-incluir-lance-com-gui-negao]]>",
-      "time": "24/10 · 13:24",
-      "pubDate": "Sat, 24 Oct 2026 10:24:56 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Rodrigo Garro coleciona polêmicas em 2026 e deveria estar no banco de reservas no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-rodrigo-garro-coleciona-polemicas-em-2026-e-deveria-estar-no-banco-de-reservas-no-corinthians]]>",
-      "time": "24/10 · 12:30",
-      "pubDate": "Sat, 24 Oct 2026 09:30:22 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians ultrapassa marca de 100 gols na temporada com goleada na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542808/corinthians-ultrapassa-marca-de-100-gols-na-temporada-com-goleada-na-libertadores-feminina",
+      "pubDate": "Sun, 25 Oct 2026 18:28:00 -0300",
+      "date": "25/10 · 21:28"
+    },
     {
       "title": "Dupla do Corinthians lidera artilharia da Libertadores Feminina após goleada sobre o Del Valle",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/542799/dupla-do-corinthians-lidera-artilharia-da-libertadores-feminina-apos-goleada-sobre-o-del-valle",
@@ -234,12 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130327/duda-fala-sobre-fase-artilheira-na-libertadores-e-projeta-jogo-corinthians-x-santa-fe-na-semi-final",
       "pubDate": "Sat, 24 Oct 2026 23:24:03 -0300",
       "date": "25/10 · 02:24"
-    },
-    {
-      "title": "VÍDEO: Coletiva do técnico Seedorf pós-derrota do Corinthians contra o Vasco no Rio de Janeiro",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130324/coletiva-do-tecnico-seedorf-pos-derrota-do-corinthians-contra-o-vasco-no-rio-de-janeiro",
-      "pubDate": "Sat, 24 Oct 2026 22:24:00 -0300",
-      "date": "25/10 · 01:24"
     }
   ]
 };
