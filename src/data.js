@@ -1,70 +1,134 @@
-// Gerado automaticamente em 25/10/2026, 12:48:33
+// Gerado automaticamente em 25/10/2026, 20:03:04
 const LIVE_DATA = {
-  "updatedAt": "2026-10-25T12:48:33.791Z",
+  "updatedAt": "2026-10-25T20:03:04.628Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians admite contato de clube paranaense e não descarta saída do futsal",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542813/ala-do-corinthians-admite-contato-de-clube-paranaense-e-nao-descarta-saida-do-futsal",
-      "time": "25/10 · 12:35",
-      "pubDate": "Sun, 25 Oct 2026 09:35:00 -0300"
+      "title": "Emily Lima atualiza situação de zagueira e avalia classificação do Corinthians na Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542815/emily-lima-atualiza-situacao-de-zagueira-e-avalia-classificacao-do-corinthians-na-libertadores",
+      "time": "25/10 · 19:38",
+      "pubDate": "Sun, 25 Oct 2026 16:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians atinge quarta maior sequência sem vitórias de sua história; veja retrospecto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542766/corinthians-atinge-quarta-maior-sequencia-sem-vitorias-de-sua-historia-veja-retrospecto",
-      "time": "25/10 · 11:31",
-      "pubDate": "Sun, 25 Oct 2026 08:31:00 -0300"
+      "title": "Corinthians chega à sétima classificação em quartas de final da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542789/corinthians-chega-a-setima-classificacao-em-quartas-de-final-da-libertadores-feminina",
+      "time": "25/10 · 19:03",
+      "pubDate": "Sun, 25 Oct 2026 16:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: derrota no Brasileirão e classificações no Sub-17 e na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542797/ultimas-do-corinthians-derrota-no-brasileirao-e-classificacoes-no-sub-17-e-na-libertadores-feminina",
-      "time": "25/10 · 10:30",
-      "pubDate": "Sun, 25 Oct 2026 07:30:00 -0300"
+      "title": "Corinthians atinge pior campanha na história dos pontos corridos após 32 rodadas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542770/corinthians-atinge-pior-campanha-na-historia-dos-pontos-corridos-apos-32-rodadas",
+      "time": "25/10 · 18:40",
+      "pubDate": "Sun, 25 Oct 2026 15:40:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece adversário das semifinais do Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542795/corinthians-conhece-adversario-das-semifinais-do-paulista-feminino-sub-20",
-      "time": "25/10 · 02:37",
-      "pubDate": "Sat, 24 Oct 2026 23:37:00 -0300"
+      "title": "Corinthians passa por susto durante voo de volta do Rio de Janeiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542827/corinthians-passa-por-susto-durante-voo-de-volta-do-rio-de-janeiro",
+      "time": "25/10 · 18:23",
+      "pubDate": "Sun, 25 Oct 2026 15:23:43 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Gabi Zanotti fala sobre conversa no intervalo e comenta Corinthians contra o Santa Fé na semi",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130330/gabi-zanotti-fala-sobre-conversa-no-intervalo-e-comenta-corinthians-contra-o-santa-fe-na-semi",
-      "time": "25/10 · 02:34",
-      "pubDate": "Sat, 24 Oct 2026 23:34:56 -0300"
+      "title": "Dupla do Corinthians lidera artilharia da Libertadores Feminina após goleada sobre o Del Valle",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542799/dupla-do-corinthians-lidera-artilharia-da-libertadores-feminina-apos-goleada-sobre-o-del-valle",
+      "time": "25/10 · 18:03",
+      "pubDate": "Sun, 25 Oct 2026 15:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Melhores Momentos: Corinthians 5x0 Ind. Del Valle| Quartas de Final | Libertadores Feminina 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130329/melhores-momentos-corinthians-5x0-ind-del-valle-quartas-de-final-libertadores-feminina-2026",
-      "time": "25/10 · 02:29",
-      "pubDate": "Sat, 24 Oct 2026 23:29:59 -0300"
+      "title": "Corinthians conhece dias e horários das quartas de final do Paulista de Futsal; confira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542825/corinthians-conhece-dias-e-horarios-das-quartas-de-final-do-paulista-de-futsal-confira",
+      "time": "25/10 · 17:43",
+      "pubDate": "Sun, 25 Oct 2026 14:43:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Artilheira do Corinthians na Libertadores Feminina analisa a goleada sobre o Independiente Del Valle",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542792/artilheira-do-corinthians-na-libertadores-feminina-analisa-a-goleada-sobre-o-independiente-del-valle",
-      "time": "25/10 · 02:27",
-      "pubDate": "Sat, 24 Oct 2026 23:27:00 -0300"
+      "title": "Corinthians estuda mandar final do Campeonato Brasileiro Sub-17 na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542823/corinthians-estuda-mandar-final-do-campeonato-brasileiro-sub-17-na-neo-quimica-arena",
+      "time": "25/10 · 17:32",
+      "pubDate": "Sun, 25 Oct 2026 14:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Duda fala sobre fase artilheira na Libertadores e projeta jogo Corinthians x Santa Fé na semi-final",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130327/duda-fala-sobre-fase-artilheira-na-libertadores-e-projeta-jogo-corinthians-x-santa-fe-na-semi-final",
-      "time": "25/10 · 02:24",
-      "pubDate": "Sat, 24 Oct 2026 23:24:03 -0300"
+      "title": "Corinthians fica pessimista sobre presença de Memphis em duelo decisivo contra o Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542821/corinthians-fica-pessimista-sobre-presenca-de-memphis-em-duelo-decisivo-contra-o-mirassol",
+      "time": "25/10 · 16:53",
+      "pubDate": "Sun, 25 Oct 2026 13:53:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Corinthians expõe velhos problemas, sofre virada e amplia crise na estreia de Seedorf",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-expoe-velhos-problemas-sofre-virada-e-amplia-crise-na-estreia-de-seedorf/",
+      "time": "25/10 · 10:00",
+      "pubDate": "Sun, 25 Oct 2026 10:00:03 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf atualiza situação de Gabriel Paulista e prevê retorno de Memphis ao Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-atualiza-situacao-de-gabriel-paulista-e-preve-retorno-de-memphis-ao-corinthians/",
+      "time": "25/10 · 09:00",
+      "pubDate": "Sun, 25 Oct 2026 09:00:39 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações: Corinthians tem lampejos de Yuri e Angileri, mas vê Hugo falhar e Dieguinho mal em derrota",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-corinthians-tem-lampejos-de-yuri-e-angileri-mas-ve-hugo-falhar-e-dieguinho-mal-em-derrota/",
+      "time": "25/10 · 08:00",
+      "pubDate": "Sun, 25 Oct 2026 08:00:21 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Stabile diz que não há culpados por má fase do Corinthians: &#8220;A culpada é a bola&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/osmar-stabile-diz-que-nao-ha-culpados-por-ma-fase-do-corinthians-a-culpada-e-a-bola/",
+      "time": "25/10 · 01:50",
+      "pubDate": "Sun, 25 Oct 2026 01:50:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Lingard recebe amarelo e desfalca o Corinthians diante do Mirassol",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/lingard-recebe-amarelo-e-desfalca-o-corinthians-diante-do-mirassol/",
+      "time": "25/10 · 00:49",
+      "pubDate": "Sun, 25 Oct 2026 00:49:47 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do duelo entre Vasco e Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-duelo-entre-vasco-e-corinthians-pelo-brasileirao/",
+      "time": "25/10 · 00:38",
+      "pubDate": "Sun, 25 Oct 2026 00:38:30 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf lamenta derrota em estreia, mas vê Corinthians com condições de rea��ão: &#8220;Não acabou aqui&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-lamenta-derrota-em-estreia-mas-ve-corinthians-com-condicoes-de-reacao-nao-acabou-aqui/",
+      "time": "25/10 · 00:30",
+      "pubDate": "Sun, 25 Oct 2026 00:30:38 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Melhores momentos: Vasco 3 x 2 Corinthians pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vasco-3-x-2-corinthians-pelo-brasileirao/",
+      "time": "25/10 · 00:28",
+      "pubDate": "Sun, 25 Oct 2026 00:28:06 +0000"
     },
     {
       "source": "Bolavip",
@@ -129,76 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-rodrigo-garro-coleciona-polemicas-em-2026-e-deveria-estar-no-banco-de-reservas-no-corinthians]]>",
       "time": "24/10 · 12:30",
       "pubDate": "Sat, 24 Oct 2026 09:30:22 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Dupla do Corinthians lidera artilharia da Libertadores Feminina após goleada sobre o Del Valle",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542799/dupla-do-corinthians-lidera-artilharia-da-libertadores-feminina-apos-goleada-sobre-o-del-valle",
+      "pubDate": "Sun, 25 Oct 2026 15:03:00 -0300",
+      "date": "25/10 · 18:03"
+    },
     {
       "title": "VÍDEO: Vic fala sobre briga pela artilharia junto com a Duda e cita mudança de postura no segundo tempo",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130332/vic-fala-sobre-briga-pela-artilharia-junto-com-a-duda-e-cita-mudanca-de-postura-no-segundo-tempo",
@@ -218,8 +224,8 @@ const LIVE_DATA = {
       "date": "25/10 · 02:29"
     },
     {
-      "title": "Artilheira do Corinthians na Libertadores Feminina analisa a goleada sobre o Independiente Del Valle",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542792/artilheira-do-corinthians-na-libertadores-feminina-analisa-a-goleada-sobre-o-independiente-del-valle",
+      "title": "Duda Sampaio analisa goleada do Corinthians sobre o Del Valle na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542792/duda-sampaio-analisa-goleada-do-corinthians-sobre-o-del-valle-na-libertadores-feminina",
       "pubDate": "Sat, 24 Oct 2026 23:27:00 -0300",
       "date": "25/10 · 02:27"
     },
@@ -234,18 +240,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130324/coletiva-do-tecnico-seedorf-pos-derrota-do-corinthians-contra-o-vasco-no-rio-de-janeiro",
       "pubDate": "Sat, 24 Oct 2026 22:24:00 -0300",
       "date": "25/10 · 01:24"
-    },
-    {
-      "title": "VÍDEO: Coletiva do presidente Osmar Stabile pós-derrota do Corinthians contra o Vasco no Rio de Janeiro",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130323/coletiva-do-presidente-osmar-stabile-pos-derrota-do-corinthians-contra-o-vasco-no-rio-de-janeiro",
-      "pubDate": "Sat, 24 Oct 2026 21:59:00 -0300",
-      "date": "25/10 · 00:59"
-    },
-    {
-      "title": "VÍDEO: Melhores Momentos: Vasco 3x2 Corinthians | 32ª rodada | Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130322/melhores-momentos-vasco-3x2-corinthians-32-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Sat, 24 Oct 2026 20:44:46 -0300",
-      "date": "24/10 · 23:44"
     }
   ]
 };
