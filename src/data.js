@@ -1,62 +1,102 @@
-// Gerado automaticamente em 28/10/2026, 00:47:37
+// Gerado automaticamente em 28/10/2026, 14:34:37
 const LIVE_DATA = {
-  "updatedAt": "2026-10-28T00:47:37.900Z",
+  "updatedAt": "2026-10-28T14:34:37.895Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians lidera estatísticas de todo o elenco em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542864/zagueiro-do-corinthians-lidera-estatisticas-de-todo-o-elenco-em-2026",
-      "time": "28/10 · 00:35",
-      "pubDate": "Tue, 27 Oct 2026 21:35:00 -0300"
+      "title": "Andressa Alves espera jogo 'diferente' em semifinal do Corinthians na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542970/andressa-alves-espera-jogo-diferente-em-semifinal-do-corinthians-na-libertadores-feminina",
+      "time": "28/10 · 14:29",
+      "pubDate": "Wed, 28 Oct 2026 11:29:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians busca manter retrospecto positivo em semifinais para avançar na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542862/corinthians-busca-manter-retrospecto-positivo-em-semifinais-para-avancar-na-libertadores-feminina",
-      "time": "27/10 · 23:31",
-      "pubDate": "Tue, 27 Oct 2026 20:31:00 -0300"
+      "title": "Corinthians pode garantir premiação milionária com vaga na final da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542905/corinthians-pode-garantir-premiacao-milionaria-com-vaga-na-final-da-libertadores-feminina",
+      "time": "28/10 · 13:31",
+      "pubDate": "Wed, 28 Oct 2026 10:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-meia do Corinthians avalia má fase e chance de rebaixamento no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542869/ex-meia-do-corinthians-avalia-ma-fase-e-chance-de-rebaixamento-no-brasileirao",
-      "time": "27/10 · 23:01",
-      "pubDate": "Tue, 27 Oct 2026 20:01:00 -0300"
+      "title": "Saiba como comprar ingressos para a final do Corinthians pelo Brasileiro Sub-17 na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542969/saiba-como-comprar-ingressos-para-a-final-do-corinthians-pelo-brasileiro-sub-17-na-neo-quimica-arena",
+      "time": "28/10 · 13:07",
+      "pubDate": "Wed, 28 Oct 2026 10:07:54 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conhece datas e horários de Majestoso pelo Paulista Sub-17; confira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542942/corinthians-conhece-datas-e-horarios-de-majestoso-pelo-paulista-sub-17-confira",
-      "time": "27/10 · 22:51",
-      "pubDate": "Tue, 27 Oct 2026 19:51:48 -0300"
+      "title": "Artilheiro do futsal do Corinthians é anunciado como reforço de time paranaense",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542911/artilheiro-do-futsal-do-corinthians-e-anunciado-como-reforco-de-time-paranaense",
+      "time": "28/10 · 12:27",
+      "pubDate": "Wed, 28 Oct 2026 09:27:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnica do Corinthians celebra conclusão de curso da Uefa após bolsa inédita da Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542948/tecnica-do-corinthians-celebra-conclusao-de-curso-da-uefa-apos-bolsa-inedita-da-fifa",
-      "time": "27/10 · 22:29",
-      "pubDate": "Tue, 27 Oct 2026 19:29:00 -0300"
+      "title": "Meu Timão transmite o Corinthians na semifinal da Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542933/meu-timao-transmite-o-corinthians-na-semifinal-da-libertadores-feminina-saiba-como-assistir",
+      "time": "28/10 · 11:30",
+      "pubDate": "Wed, 28 Oct 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Meia do Corinthians celebra classificação no Paulista Sub-17 e projeta final do Brasileiro na Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542940/meia-do-corinthians-celebra-classificacao-no-paulista-sub-17-e-projeta-final-do-brasileiro-na-arena",
-      "time": "27/10 · 22:05",
-      "pubDate": "Tue, 27 Oct 2026 19:05:00 -0300"
+      "title": "Últimas do Corinthians: avaliação por Luxemburgo, lesão de meia e risco de rebaixamento",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542951/ultimas-do-corinthians-avaliacao-por-luxemburgo-lesao-de-meia-e-risco-de-rebaixamento",
+      "time": "28/10 · 10:30",
+      "pubDate": "Wed, 28 Oct 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Treinos intensos e lesões provocam debate interno no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intensidade-treinos-lesoes/",
+      "time": "28/10 · 08:00",
+      "pubDate": "Wed, 28 Oct 2026 08:00:07 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians encerra jejum de quatro anos contra o Franca e evita pior início no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542891/corinthians-encerra-jejum-de-quatro-anos-contra-o-franca-e-evita-pior-inicio-no-nbb",
-      "time": "27/10 · 21:28",
-      "pubDate": "Tue, 27 Oct 2026 18:28:00 -0300"
+      "title": "Corinthians enfrenta Santa Fe em busca da sétima final da Libertadores Feminina; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542923/corinthians-enfrenta-santa-fe-em-busca-da-setima-final-da-libertadores-feminina-saiba-tudo",
+      "time": "28/10 · 03:01",
+      "pubDate": "Wed, 28 Oct 2026 00:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians lamenta morte de goleiro de 14 anos do São José",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542952/corinthians-lamenta-morte-de-goleiro-de-14-anos-do-sao-jose",
+      "time": "28/10 · 01:35",
+      "pubDate": "Tue, 27 Oct 2026 22:35:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "São Paulo x Corinthians: veja preços e como comprar ingressos para o clássico na Vila Belmiro",
+      "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-corinthians-ingressos-classico-vila-belmiro/",
+      "time": "27/10 · 22:57",
+      "pubDate": "Tue, 27 Oct 2026 22:57:53 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Gustavo Rustom detona Osmar Stábile e diz que presidente trata torcedor do Corinthians como otário",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-gustavo-rustom-detona-osmar-stabile-e-diz-que-presidente-trata-torcedor-do-corinthians-como-otario]]>",
+      "time": "27/10 · 22:45",
+      "pubDate": "Tue, 27 Oct 2026 19:45:52 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem treino aberto marcado por orientações de Seedorf e desfalques antes do Mirassol",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-treino-aberto-marcado-por-orientacoes-de-seedorf-e-desfalques-antes-do-mirassol]]>",
+      "time": "27/10 · 21:49",
+      "pubDate": "Tue, 27 Oct 2026 18:49:30 -0300"
     },
     {
       "source": "Bolavip",
@@ -67,20 +107,36 @@ const LIVE_DATA = {
       "pubDate": "Tue, 27 Oct 2026 18:14:21 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Executivo da base do Corinthians fala sobre o fim de polêmicas envolvendo joias do clube em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542901/executivo-da-base-do-corinthians-fala-sobre-o-fim-de-polemicas-envolvendo-joias-do-clube-em-2026",
-      "time": "27/10 · 21:02",
-      "pubDate": "Tue, 27 Oct 2026 18:02:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians pode fazer novas mudanças contra o Mirassol e Seedorf segue em busca da formação ideal",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-fazer-novas-mudancas-contra-o-mirassol-e-seedorf-segue-em-busca-da-formacao-ideal]]>",
       "time": "27/10 · 20:50",
       "pubDate": "Tue, 27 Oct 2026 17:50:17 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Quarteto retorna, mas Memphis não vai a campo em treino do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/quarteto-retorna-mas-memphis-nao-vai-a-campo-em-treino-do-corinthians/",
+      "time": "27/10 · 19:56",
+      "pubDate": "Tue, 27 Oct 2026 19:56:04 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja as fotos do treino do Corinthians desta terça-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-as-fotos-do-treino-do-corinthians-desta-terca-feira-5/",
+      "time": "27/10 · 19:42",
+      "pubDate": "Tue, 27 Oct 2026 19:42:05 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians confirma pequenas fraturas nas costelas de Jesse Lingard",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/jesse-lingard-fratura-costelas-corinthians/",
+      "time": "27/10 · 18:44",
+      "pubDate": "Tue, 27 Oct 2026 18:44:21 +0000"
     },
     {
       "source": "Bolavip",
@@ -99,6 +155,14 @@ const LIVE_DATA = {
       "pubDate": "Tue, 27 Oct 2026 13:54:35 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians tem 66% de chance de queda para a Série B; confira probabilidades",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-risco-rebaixamento-brasileirao-2027/",
+      "time": "27/10 · 16:12",
+      "pubDate": "Tue, 27 Oct 2026 16:12:13 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Desconfiança de dirigentes e insatisfação do elenco com salários atrasados são revelados no Corinthians",
@@ -115,84 +179,20 @@ const LIVE_DATA = {
       "pubDate": "Tue, 27 Oct 2026 10:42:19 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Gustavo Rustom diz que só a Fiel pode salvar o Corinthians do rebaixamento",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-gustavo-rustom-diz-que-so-a-fiel-pode-salvar-o-corinthians-do-rebaixamento]]>",
-      "time": "27/10 · 00:03",
-      "pubDate": "Mon, 26 Oct 2026 21:03:14 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aguarda nova reunião para avançar em acordo com a Caixa",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-nova-reuniao-para-avancar-em-acordo-com-a-caixa]]>",
-      "time": "26/10 · 23:35",
-      "pubDate": "Mon, 26 Oct 2026 20:35:17 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com Corinthians no Z4, veja tabela dos rivais na briga contra o rebaixamento",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-como-escapar-rebaixamento-brasileirao/",
+      "time": "27/10 · 09:00",
+      "pubDate": "Tue, 27 Oct 2026 09:00:38 +0000"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
+      "title": "Corinthians bate Franca e vence a primeira no NBB",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-franca-e-vence-a-primeira-no-nbb/",
+      "time": "27/10 · 02:45",
+      "pubDate": "Tue, 27 Oct 2026 02:45:05 +0000"
     }
   ],
   "upcoming": [],
@@ -200,16 +200,22 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Meu Timão transmite o Corinthians na semifinal da Libertadores Feminina; saiba como assistir",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542933/meu-timao-transmite-o-corinthians-na-semifinal-da-libertadores-feminina-saiba-como-assistir",
+      "pubDate": "Wed, 28 Oct 2026 08:30:00 -0300",
+      "date": "28/10 · 11:30"
+    },
+    {
+      "title": "Corinthians lamenta morte de goleiro de 14 anos do São José",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542952/corinthians-lamenta-morte-de-goleiro-de-14-anos-do-sao-jose",
+      "pubDate": "Tue, 27 Oct 2026 22:35:00 -0300",
+      "date": "28/10 · 01:35"
+    },
+    {
       "title": "VÍDEO: Treino aberto do Corinthians antes de partida decisiva contra o Mirassol",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130375/treino-aberto-do-corinthians-antes-de-partida-decisiva-contra-o-mirassol",
       "pubDate": "Tue, 27 Oct 2026 17:01:06 -0300",
       "date": "27/10 · 20:01"
-    },
-    {
-      "title": "Goleiro do Corinthians lamenta eliminação na LNF e prega foco no Campeonato Paulista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542865/goleiro-do-corinthians-lamenta-eliminacao-na-lnf-e-prega-foco-no-paulista",
-      "pubDate": "Tue, 27 Oct 2026 10:34:00 -0300",
-      "date": "27/10 · 13:34"
     }
   ]
 };
