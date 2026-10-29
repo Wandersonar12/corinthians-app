@@ -1,86 +1,182 @@
-// Gerado automaticamente em 28/10/2026, 21:56:23
+// Gerado automaticamente em 29/10/2026, 01:20:46
 const LIVE_DATA = {
-  "updatedAt": "2026-10-28T21:56:23.112Z",
+  "updatedAt": "2026-10-29T01:20:46.427Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vence o Santa Fe de virada e vai à sétima final da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542945/corinthians-vence-o-santa-fe-de-virada-e-vai-a-setima-final-da-libertadores-feminina",
-      "time": "28/10 · 21:51",
-      "pubDate": "Wed, 28 Oct 2026 18:51:02 -0300"
+      "title": "VÍDEO: Preparação para a final e dificuldade na semifinal: zona mista Erika | Corinthians 2x1 Ind. Santa Fe",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130409/preparacao-para-a-final-e-dificuldade-na-semifinal-zona-mista-erika-corinthians-2x1-ind-santa-fe",
+      "time": "29/10 · 01:09",
+      "pubDate": "Wed, 28 Oct 2026 22:09:35 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians supera número de derrotas de toda a campanha do rebaixamento em 2007",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542965/corinthians-supera-numero-de-derrotas-de-toda-a-campanha-do-rebaixamento-em-2007",
-      "time": "28/10 · 21:31",
-      "pubDate": "Wed, 28 Oct 2026 18:31:00 -0300"
+      "title": "VÍDEO: André Ramalho detalha reunião do elenco do Corinthians em momento de crise",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130407/andre-ramalho-detalha-reuniao-do-elenco-do-corinthians-em-momento-de-crise",
+      "time": "29/10 · 01:08",
+      "pubDate": "Wed, 28 Oct 2026 22:08:15 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Goleira do Corinthians brilha nos penais e ajuda Brasil a avançar às quartas da Copa do Mundo Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542988/goleira-do-corinthians-brilha-nos-penais-e-ajuda-brasil-a-avancar-as-quartas-da-copa-do-mundo-sub-17",
-      "time": "28/10 · 21:07",
-      "pubDate": "Wed, 28 Oct 2026 18:07:14 -0300"
+      "title": "Técnica do Corinthians aponta diferença entre jogos contra Santa Fe e projeta final da Libertadores",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543020/tecnica-do-corinthians-aponta-diferenca-entre-jogos-contra-santa-fe-e-projeta-final-da-libertadores",
+      "time": "29/10 · 00:51",
+      "pubDate": "Wed, 28 Oct 2026 21:51:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Quem é o principal desfalque do Corinthians neste momento? Vote na enquete do Meu Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542960/quem-e-o-principal-desfalque-do-corinthians-neste-momento-vote-na-enquete-do-meu-timao",
+      "title": "VÍDEO: Adaptações na defesa e final em mente: Zona mista Thaís Ferreira | Corinthians 2x1 Ind. Santa Fe",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130404/adaptacoes-na-defesa-e-final-em-mente-zona-mista-thais-ferreira-corinthians-2x1-ind-santa-fe",
+      "time": "29/10 · 00:42",
+      "pubDate": "Wed, 28 Oct 2026 21:42:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Inter toma virada do Fluminense, e Corinthians pode sair do Z4 do Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/internacional/fluminense-vence-internacional-virada-lucho-acosta-brasileirao/",
+      "time": "29/10 · 00:41",
+      "pubDate": "Thu, 29 Oct 2026 00:41:09 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Veja como ficou a artilharia do Corinthians após classificação no Campeonato Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542943/veja-como-ficou-a-artilharia-do-corinthians-apos-classificacao-no-campeonato-paulista-sub-17",
+      "time": "29/10 · 00:31",
+      "pubDate": "Wed, 28 Oct 2026 21:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians renova contrato com atacante artilheiro do Sub-16",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543012/corinthians-renova-contrato-com-atacante-artilheiro-do-sub-16",
+      "time": "29/10 · 00:04",
+      "pubDate": "Wed, 28 Oct 2026 21:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians comenta relação com a diretoria e reunião do elenco por reação no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543008/dupla-do-corinthians-comenta-relacao-com-a-diretoria-e-reuniao-do-elenco-por-reacao-no-brasileirao",
+      "time": "28/10 · 23:56",
+      "pubDate": "Wed, 28 Oct 2026 20:56:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians reencontra São Paulo em mata-mata do Paulista Sub-17 após dois anos",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542961/corinthians-reencontra-sao-paulo-em-mata-mata-do-paulista-sub-17-apos-dois-anos",
+      "time": "28/10 · 23:34",
+      "pubDate": "Wed, 28 Oct 2026 20:34:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians nesta quarta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-nesta-quarta-feira-12/",
+      "time": "28/10 · 23:22",
+      "pubDate": "Wed, 28 Oct 2026 23:22:21 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians intensifica preparação para enfrentar o Mirassol",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intensifica-preparacao-para-enfrentar-o-mirassol/",
+      "time": "28/10 · 23:19",
+      "pubDate": "Wed, 28 Oct 2026 23:19:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Guarani: saiba onde assistir ao jogo pelo Paulistão sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-guarani-saiba-onde-assistir-ao-jogo-pelo-paulistao-sub-20/",
+      "time": "28/10 · 23:00",
+      "pubDate": "Wed, 28 Oct 2026 23:00:04 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Julio Cesar banca Seedorf, critica vazamentos e prevê reação do Corinthians no Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/julio-cesar-banca-seedorf-critica-vazamentos-e-ve-reacao-do-corinthians-no-brasileirao/",
+      "time": "28/10 · 22:10",
+      "pubDate": "Wed, 28 Oct 2026 22:10:29 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "De virada, Corinthians vence Santa Fe e vai à final da Libertadores Feminina",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vira-santa-fe-final-libertadores-feminina-2026/",
+      "time": "28/10 · 22:01",
+      "pubDate": "Wed, 28 Oct 2026 22:01:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Hugo e André Ramalho negam crise interna e reforçam união do elenco do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/hugo-e-andre-ramalho-negam-crise-interna-e-reforcam-uniao-do-elenco-do-corinthians/",
+      "time": "28/10 · 21:49",
+      "pubDate": "Wed, 28 Oct 2026 21:49:59 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Live Por Ti compara campanhas do Corinthians em 2024 e 2026 e aponta contraste: “Agora está caindo”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-live-por-ti-compara-campanhas-do-corinthians-em-2024-e-2026-e-aponta-contraste-agora-esta-caindo]]>",
+      "time": "28/10 · 21:28",
+      "pubDate": "Wed, 28 Oct 2026 18:28:06 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem resposta positiva dos jogadores ao trabalho de Seedorf mesmo em meio à crise",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-resposta-positiva-dos-jogadores-ao-trabalho-de-seedorf-mesmo-em-meio-a-crise]]>",
       "time": "28/10 · 20:31",
-      "pubDate": "Wed, 28 Oct 2026 17:31:00 -0300"
+      "pubDate": "Wed, 28 Oct 2026 17:31:15 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians celebra classificação no Paulista e projeta decisão do Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542977/zagueiro-do-corinthians-celebra-classificacao-no-paulista-e-projeta-decisao-do-brasileiro-sub-17",
-      "time": "28/10 · 20:02",
-      "pubDate": "Wed, 28 Oct 2026 17:02:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Opinião: Corinthians demonstra mais medo do que a própria torcida e aumenta temor pelo rebaixamento",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-demonstra-mais-medo-do-que-a-propria-torcida-e-aumenta-temor-pelo-rebaixamento]]>",
+      "time": "28/10 · 19:11",
+      "pubDate": "Wed, 28 Oct 2026 16:11:20 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians pode não ter chance de sair do Z4 mesmo se vencer duelo direto no Brasileirão; entenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542967/corinthians-pode-nao-ter-chance-de-sair-do-z4-mesmo-se-vencer-duelo-direto-no-brasileirao-entenda",
-      "time": "28/10 · 19:34",
-      "pubDate": "Wed, 28 Oct 2026 16:34:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Elenco tem reunião revelada na casa de Gustavo Henrique às vésperas de Corinthians x Mirassol",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-elenco-tem-reuniao-revelada-na-casa-de-gustavo-henrique-as-vesperas-de-corinthians-x-mirassol]]>",
+      "time": "28/10 · 18:11",
+      "pubDate": "Wed, 28 Oct 2026 15:11:04 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Escalação do Corinthians para semifinal da Libertadores ganha arte especial feita por crianças",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542985/escalacao-do-corinthians-para-semifinal-da-libertadores-ganha-arte-especial-feita-por-criancas",
-      "time": "28/10 · 19:28",
-      "pubDate": "Wed, 28 Oct 2026 16:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians é denunciado pelo STJD por ocorrências em derrota para o Vasco da Gama",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542984/corinthians-e-denunciado-pelo-stjd-por-ocorrencias-em-derrota-para-o-vasco-da-gama",
-      "time": "28/10 · 19:05",
-      "pubDate": "Wed, 28 Oct 2026 16:05:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Comissão do Corinthians converte processo contra Stabile para rito de destituição",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/comissao-do-corinthians-converte-processo-contra-stabile-para-rito-de-destituicao/",
+      "time": "28/10 · 17:12",
+      "pubDate": "Wed, 28 Oct 2026 17:12:28 +0000"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Análise: Seedorf pode ser demitido do Corinthians com jejum e Luxemburgo surge como substituto imediato",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-seedorf-pode-ser-demitido-do-corinthians-com-jejum-e-luxemburgo-surge-como-substituto-imediato]]>",
-      "time": "28/10 · 14:19",
-      "pubDate": "Wed, 28 Oct 2026 11:19:14 -0300"
+      "time": "28/10 · 16:54",
+      "pubDate": "Wed, 28 Oct 2026 13:54:25 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Corinthians tem treino aberto marcado por orientações de Seedorf e desfalques antes do Mirassol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-treino-aberto-marcado-por-orientacoes-de-seedorf-e-desfalques-antes-do-mirassol]]>",
-      "time": "28/10 · 14:13",
-      "pubDate": "Wed, 28 Oct 2026 11:13:14 -0300"
+      "title": "Corinthians aguarda chegada de propostas oficiais por Matheuzinho após convocações na Seleção Brasileira",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-chegada-de-propostas-oficiais-por-matheuzinho-apos-convocacoes-na-selecao-brasileira]]>",
+      "time": "28/10 · 15:20",
+      "pubDate": "Wed, 28 Oct 2026 12:20:06 -0300"
     },
     {
       "source": "Bolavip",
@@ -97,102 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-toma-decisao-correta-ao-optar-pela-nao-renovacao-contratual-com-jesse-lingard]]>",
       "time": "28/10 · 14:13",
       "pubDate": "Wed, 28 Oct 2026 11:13:02 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vídeo: Gustavo Rustom detona Osmar Stábile e diz que presidente trata torcedor do Corinthians como otário",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/video-gustavo-rustom-detona-osmar-stabile-e-diz-que-presidente-trata-torcedor-do-corinthians-como-otario]]>",
-      "time": "28/10 · 12:29",
-      "pubDate": "Wed, 28 Oct 2026 09:29:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians confirma fraturas nas costelas de Lingard e atacante terá cuidados especiais no CT",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-confirma-fraturas-nas-costelas-de-lingard-e-atacante-tera-cuidados-especiais-no-ct]]>",
-      "time": "27/10 · 21:14",
-      "pubDate": "Tue, 27 Oct 2026 18:14:21 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians pode fazer novas mudanças contra o Mirassol e Seedorf segue em busca da formação ideal",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-pode-fazer-novas-mudancas-contra-o-mirassol-e-seedorf-segue-em-busca-da-formacao-ideal]]>",
-      "time": "27/10 · 20:50",
-      "pubDate": "Tue, 27 Oct 2026 17:50:17 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Depay, Júlio César, Osmar Stabile e Garro, do Corinthians, são humilhados por Craque Neto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-depay-julio-cesar-osmar-stabile-e-garro-do-corinthians-sao-humilhados-por-craque-neto]]>",
-      "time": "27/10 · 18:17",
-      "pubDate": "Tue, 27 Oct 2026 15:17:53 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,28 +200,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Goleira do Corinthians brilha nos penais e ajuda Brasil a avançar às quartas da Copa do Mundo Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542988/goleira-do-corinthians-brilha-nos-penais-e-ajuda-brasil-a-avancar-as-quartas-da-copa-do-mundo-sub-17",
-      "pubDate": "Wed, 28 Oct 2026 18:07:14 -0300",
-      "date": "28/10 · 21:07"
+      "title": "VÍDEO: Júlio César fala dos salários atrasados e afirma compromisso do elenco",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130410/julio-cesar-fala-dos-salarios-atrasados-e-afirma-compromisso-do-elenco",
+      "pubDate": "Wed, 28 Oct 2026 22:09:39 -0300",
+      "date": "29/10 · 01:09"
     },
     {
-      "title": "Quem é o principal desfalque do Corinthians neste momento? Vote na enquete do Meu Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542960/quem-e-o-principal-desfalque-do-corinthians-neste-momento-vote-na-enquete-do-meu-timao",
-      "pubDate": "Wed, 28 Oct 2026 17:31:00 -0300",
-      "date": "28/10 · 20:31"
+      "title": "VÍDEO: Preparação para a final e dificuldade na semifinal: zona mista Erika | Corinthians 2x1 Ind. Santa Fe",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130409/preparacao-para-a-final-e-dificuldade-na-semifinal-zona-mista-erika-corinthians-2x1-ind-santa-fe",
+      "pubDate": "Wed, 28 Oct 2026 22:09:35 -0300",
+      "date": "29/10 · 01:09"
     },
     {
-      "title": "Meu Timão transmite o Corinthians na semifinal da Libertadores Feminina; saiba como assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542933/meu-timao-transmite-o-corinthians-na-semifinal-da-libertadores-feminina-saiba-como-assistir",
-      "pubDate": "Wed, 28 Oct 2026 08:30:00 -0300",
-      "date": "28/10 · 11:30"
+      "title": "VÍDEO: 2007 x 2026: Júlio César explica diferenças entre elencos",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130408/2007-x-2026-julio-cesar-explica-diferencas-entre-elencos",
+      "pubDate": "Wed, 28 Oct 2026 22:08:55 -0300",
+      "date": "29/10 · 01:08"
     },
     {
-      "title": "Corinthians lamenta morte de goleiro de 14 anos do São José",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/542952/corinthians-lamenta-morte-de-goleiro-de-14-anos-do-sao-jose",
-      "pubDate": "Tue, 27 Oct 2026 22:35:00 -0300",
-      "date": "28/10 · 01:35"
+      "title": "VÍDEO: André Ramalho detalha reunião do elenco do Corinthians em momento de crise",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130407/andre-ramalho-detalha-reuniao-do-elenco-do-corinthians-em-momento-de-crise",
+      "pubDate": "Wed, 28 Oct 2026 22:08:15 -0300",
+      "date": "29/10 · 01:08"
+    },
+    {
+      "title": "VÍDEO: André Ramalho fala de Stabile, desmente notícias e diz que grupo está unido",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130406/andre-ramalho-fala-de-stabile-desmente-noticias-e-diz-que-grupo-esta-unido",
+      "pubDate": "Wed, 28 Oct 2026 22:07:08 -0300",
+      "date": "29/10 · 01:07"
+    },
+    {
+      "title": "VÍDEO: Adaptações na defesa e final em mente: Zona mista Thaís Ferreira | Corinthians 2x1 Ind. Santa Fe",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130404/adaptacoes-na-defesa-e-final-em-mente-zona-mista-thais-ferreira-corinthians-2x1-ind-santa-fe",
+      "pubDate": "Wed, 28 Oct 2026 21:42:00 -0300",
+      "date": "29/10 · 00:42"
+    },
+    {
+      "title": "VÍDEO: Preparação para mais uam final e dificuldades: Zona mista Lelê | Corinthians 2x1 Ind. Santa Fe",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130402/preparacao-para-mais-uam-final-e-dificuldades-zona-mista-lele-corinthians-2x1-ind-santa-fe",
+      "pubDate": "Wed, 28 Oct 2026 20:05:09 -0300",
+      "date": "28/10 · 23:05"
+    },
+    {
+      "title": "VÍDEO: Gol decisivo e classificaç��o a final: Zona mista Letícia Monteiro | Corinthians 2x1 Ind. Santa Fe",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130401/gol-decisivo-e-classificacao-a-final-zona-mista-leticia-monteiro-corinthians-2x1-ind-santa-fe",
+      "pubDate": "Wed, 28 Oct 2026 20:04:00 -0300",
+      "date": "28/10 · 23:04"
     }
   ]
 };
