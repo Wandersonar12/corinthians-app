@@ -1,110 +1,86 @@
-// Gerado automaticamente em 29/10/2026, 22:03:42
+// Gerado automaticamente em 30/10/2026, 14:37:53
 const LIVE_DATA = {
-  "updatedAt": "2026-10-29T22:03:42.724Z",
+  "updatedAt": "2026-10-30T14:37:53.127Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Esportes da Sorte pede rescisão contratual, mas Corinthians contesta",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-rescisao-esportes-da-sorte-patrocinio/",
-      "time": "29/10 · 21:55",
-      "pubDate": "Thu, 29 Oct 2026 21:55:27 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Seedorf explica nova função de Matheus Bidu e planejamento de dupla de ataque no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543079/seedorf-explica-nova-funcao-de-matheus-bidu-e-planejamento-de-dupla-de-ataque-no-corinthians",
+      "time": "30/10 · 14:35",
+      "pubDate": "Fri, 30 Oct 2026 11:35:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians registra primeiro contrato profissional de zagueiro do Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543097/corinthians-registra-primeiro-contrato-profissional-de-zagueiro-do-sub-20",
-      "time": "29/10 · 21:55",
-      "pubDate": "Thu, 29 Oct 2026 18:55:22 -0300"
+      "title": "Corinthians reencontra árbitro de derrota para o Mirassol no primeiro turno do Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543124/corinthians-reencontra-arbitro-de-derrota-para-o-mirassol-no-primeiro-turno-do-brasileirao",
+      "time": "30/10 · 13:33",
+      "pubDate": "Fri, 30 Oct 2026 10:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vai discutir renovações de jogadores com candidatos à presidência, diz executivo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543037/corinthians-vai-discutir-renovacoes-de-jogadores-com-candidatos-a-presidencia-diz-executivo",
-      "time": "29/10 · 21:36",
-      "pubDate": "Thu, 29 Oct 2026 18:36:00 -0300"
+      "title": "Corinthians conhece detalhes de mais dois jogos do Brasileirão; veja datas e transmissões",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543127/corinthians-conhece-detalhes-de-mais-dois-jogos-do-brasileirao-veja-datas-e-transmissoes",
+      "time": "30/10 · 12:48",
+      "pubDate": "Fri, 30 Oct 2026 09:48:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Corinthians treina na Neo Química Arena para enfrentar o Mirassol pelo Brasileirão 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130433/corinthians-treina-na-neo-quimica-arena-para-enfrentar-o-mirassol-pelo-brasileirao-2026",
-      "time": "29/10 · 21:01",
-      "pubDate": "Thu, 29 Oct 2026 18:01:19 -0300"
+      "title": "Corinthians avança em negociação com ticketeira e prevê dinheiro para quitar dívidas com elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543122/corinthians-avanca-em-negociacao-com-ticketeira-e-preve-dinheiro-para-quitar-dividas-com-elenco",
+      "time": "30/10 · 12:48",
+      "pubDate": "Fri, 30 Oct 2026 09:48:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é finalista pela 32ª vez desde a reativação do futebol feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543013/corinthians-e-finalista-pela-32-vez-desde-a-reativacao-do-futebol-feminino",
-      "time": "29/10 · 20:31",
-      "pubDate": "Thu, 29 Oct 2026 17:31:00 -0300"
+      "title": "Corinthians visita o Santo André pelo primeiro jogo das quartas de final do Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543110/corinthians-visita-o-santo-andre-pelo-primeiro-jogo-das-quartas-de-final-do-paulista-de-futsal",
+      "time": "30/10 · 12:32",
+      "pubDate": "Fri, 30 Oct 2026 09:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Esportes da Sorte notifica Corinthians e sinaliza intenção de rescindir contrato",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543089/esportes-da-sorte-notifica-corinthians-e-sinaliza-intencao-de-rescindir-contrato",
-      "time": "29/10 · 20:16",
-      "pubDate": "Thu, 29 Oct 2026 17:16:29 -0300"
+      "title": "Corinthians publica bastidores de classificação à final da Libertadores Feminina; assista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543116/corinthians-publica-bastidores-de-classificacao-a-final-da-libertadores-feminina",
+      "time": "30/10 · 11:31",
+      "pubDate": "Fri, 30 Oct 2026 08:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Rodrigo Garro quebra silêncio e fala sobre 'problemas' de relacionamento no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130431/rodrigo-garro-quebra-silencio-e-fala-sobre-problemas-de-relacionamento-no-corinthians",
-      "time": "29/10 · 20:07",
-      "pubDate": "Thu, 29 Oct 2026 17:07:08 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Escalação do Corinthians: Seedorf prepara mudança para enfrentar o Mirassol",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-provavel-escalacao-mirassol-brasileirao/",
-      "time": "29/10 · 19:53",
-      "pubDate": "Thu, 29 Oct 2026 19:53:22 +0000"
+      "title": "Saiba onde assistir à partida entre Corinthians e Mirassol pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543095/saiba-onde-assistir-a-partida-entre-corinthians-e-mirassol-pelo-brasileirao",
+      "time": "30/10 · 11:30",
+      "pubDate": "Fri, 30 Oct 2026 08:30:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Entenda por que o Corinthians aceitou liberar André para Seleção em meio à reta final do Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543086/entenda-por-que-o-corinthians-aceitou-liberar-andre-para-selecao-em-meio-a-reta-final-do-brasileirao",
-      "time": "29/10 · 19:52",
-      "pubDate": "Thu, 29 Oct 2026 16:52:48 -0300"
+      "title": "Últimas do Corinthians: volante convocado, notificação de patrocinadora e ações com organizadas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543112/ultimas-do-corinthians-volante-convocado-notificacao-de-patrocinadora-e-acoes-com-organizadas",
+      "time": "30/10 · 10:30",
+      "pubDate": "Fri, 30 Oct 2026 07:30:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Hugo Souza sai em defesa de Memphis após questionamento sobre situação no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543031/hugo-souza-sai-em-defesa-de-memphis-apos-questionamento-sobre-situacao-no-corinthians",
-      "time": "29/10 · 19:28",
-      "pubDate": "Thu, 29 Oct 2026 16:28:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Análise: Seedorf minimiza risco de demissão e nem pensa nas chances de rebaixamento no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-seedorf-minimiza-risco-de-demissao-e-nem-pensa-nas-chances-de-rebaixamento-no-corinthians]]>",
+      "time": "29/10 · 21:23",
+      "pubDate": "Thu, 29 Oct 2026 18:23:22 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf adota cautela, mas projeta volta de Memphis ao Corinthians no Majestoso",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-memphis-retorno-classico-sao-paulo/",
-      "time": "29/10 · 18:30",
-      "pubDate": "Thu, 29 Oct 2026 18:30:11 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Garro desconversa sobre desgaste no Corinthians e é defendido por Gustavo Henrique",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-garro-rebate-rumores-bastidores/",
-      "time": "29/10 · 18:07",
-      "pubDate": "Thu, 29 Oct 2026 18:07:12 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Justiça rejeita denúncia do MP contra presidente do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-rejeita-denuncia-osmar-stabile-corinthians-seguranca/",
-      "time": "29/10 · 16:34",
-      "pubDate": "Thu, 29 Oct 2026 16:34:06 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf tenta proibir pergunta, mas Rodrigo Garro desabafa sobre problemas internos no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-tenta-proibir-pergunta-mas-rodrigo-garro-desabafa-sobre-problemas-internos-no-corinthians]]>",
+      "time": "29/10 · 18:48",
+      "pubDate": "Thu, 29 Oct 2026 15:48:16 -0300"
     },
     {
       "source": "Bolavip",
@@ -113,30 +89,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-presidente-da-gavioes-da-fiel-intimida-arbitragem-com-aviso-antes-de-corinthians-x-mirassol]]>",
       "time": "29/10 · 13:55",
       "pubDate": "Thu, 29 Oct 2026 10:55:11 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "André Ramalho revela conversa do elenco com presidente do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/andre-ramalho-revela-conversa-do-elenco-com-presidente-do-corinthians/",
-      "time": "29/10 · 11:01",
-      "pubDate": "Thu, 29 Oct 2026 11:01:15 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians tem retrospecto em casa contra o Mirassol como trunfo para findar jejum",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tem-retrospecto-em-casa-contra-o-mirassol-como-trunfo-para-findar-jejum/",
-      "time": "29/10 · 10:00",
-      "pubDate": "Thu, 29 Oct 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Mirassol: saiba onde assistir ao jogo pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-mirassol-saiba-onde-assistir-ao-jogo-pelo-brasileirao/",
-      "time": "29/10 · 09:00",
-      "pubDate": "Thu, 29 Oct 2026 09:00:36 +0000"
     },
     {
       "source": "Bolavip",
@@ -177,28 +129,42 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-elenco-tem-reuniao-revelada-na-casa-de-gustavo-henrique-as-vesperas-de-corinthians-x-mirassol]]>",
       "time": "28/10 · 18:11",
       "pubDate": "Wed, 28 Oct 2026 15:11:04 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians aguarda chegada de propostas oficiais por Matheuzinho após convocações na Seleção Brasileira",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-aguarda-chegada-de-propostas-oficiais-por-matheuzinho-apos-convocacoes-na-selecao-brasileira]]>",
-      "time": "28/10 · 15:20",
-      "pubDate": "Wed, 28 Oct 2026 12:20:06 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Opinião: Corinthians toma decisão correta ao optar pela não renovação contratual com Jesse Lingard",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-corinthians-toma-decisao-correta-ao-optar-pela-nao-renovacao-contratual-com-jesse-lingard]]>",
-      "time": "28/10 · 14:13",
-      "pubDate": "Wed, 28 Oct 2026 11:13:02 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians publica bastidores de classificação à final da Libertadores Feminina; assista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543116/corinthians-publica-bastidores-de-classificacao-a-final-da-libertadores-feminina",
+      "pubDate": "Fri, 30 Oct 2026 08:31:00 -0300",
+      "date": "30/10 · 11:31"
+    },
+    {
+      "title": "Saiba onde assistir à partida entre Corinthians e Mirassol pelo Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543095/saiba-onde-assistir-a-partida-entre-corinthians-e-mirassol-pelo-brasileirao",
+      "pubDate": "Fri, 30 Oct 2026 08:30:00 -0300",
+      "date": "30/10 · 11:30"
+    },
+    {
+      "title": "Letícia Monteiro encerra jejum de 19 jogos sem gol e celebra classificação do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543014/leticia-monteiro-encerra-jejum-de-19-jogos-sem-gol-e-celebra-classificacao-do-corinthians",
+      "pubDate": "Thu, 29 Oct 2026 21:35:00 -0300",
+      "date": "30/10 · 00:35"
+    },
+    {
+      "title": "VÍDEO: Ilmar opina sobre SAFiel e comenta possíveis problemas com o Conselho do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130437/ilmar-opina-sobre-safiel-e-comenta-possiveis-problemas-com-o-conselho-do-corinthians",
+      "pubDate": "Thu, 29 Oct 2026 21:17:22 -0300",
+      "date": "30/10 · 00:17"
+    },
+    {
+      "title": "VÍDEO: Ilmar explica pilares para resolver crise financeira no Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130436/ilmar-explica-pilares-para-resolver-crise-financeira-no-corinthians",
+      "pubDate": "Thu, 29 Oct 2026 20:45:12 -0300",
+      "date": "29/10 · 23:45"
+    },
     {
       "title": "VÍDEO: Corinthians treina na Neo Química Arena para enfrentar o Mirassol pelo Brasileirão 2026",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130433/corinthians-treina-na-neo-quimica-arena-para-enfrentar-o-mirassol-pelo-brasileirao-2026",
@@ -210,30 +176,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130431/rodrigo-garro-quebra-silencio-e-fala-sobre-problemas-de-relacionamento-no-corinthians",
       "pubDate": "Thu, 29 Oct 2026 17:07:08 -0300",
       "date": "29/10 · 20:07"
-    },
-    {
-      "title": "VÍDEO: Gustavo Henrique fala de reunião com elenco e Seedorf sinaliza retorno de Memphis Depay",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130427/gustavo-henrique-fala-de-reuniao-com-elenco-e-seedorf-sinaliza-retorno-de-memphis-depay",
-      "pubDate": "Thu, 29 Oct 2026 16:18:03 -0300",
-      "date": "29/10 · 19:18"
-    },
-    {
-      "title": "VÍDEO: Seedorf defende elenco e afirma que elenco está pronto para sair da crise",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130424/seedorf-defende-elenco-e-afirma-que-elenco-esta-pronto-para-sair-da-crise",
-      "pubDate": "Thu, 29 Oct 2026 15:57:07 -0300",
-      "date": "29/10 · 18:57"
-    },
-    {
-      "title": "Gi Fernandes marca pela primeira vez na temporada e encerra jejum de gols pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543003/gi-fernandes-encerra-jejum-de-gols-pelo-corinthians-e-marca-pela-primeira-vez-na-temporada",
-      "pubDate": "Thu, 29 Oct 2026 09:33:00 -0300",
-      "date": "29/10 · 12:33"
-    },
-    {
-      "title": "Corinthians goleia Indaiatuba fora de casa e abre vantagem nas quartas do Paulista de Futsal Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543027/corinthians-goleia-indaiatuba-fora-de-casa-e-abre-vantagem-nas-quartas-do-paulista-de-futsal-sub-20",
-      "pubDate": "Wed, 28 Oct 2026 22:22:00 -0300",
-      "date": "29/10 · 01:22"
     }
   ]
 };
