@@ -1,134 +1,86 @@
-// Gerado automaticamente em 31/10/2026, 13:56:42
+// Gerado automaticamente em 31/10/2026, 20:43:39
 const LIVE_DATA = {
-  "updatedAt": "2026-10-31T13:56:42.957Z",
+  "updatedAt": "2026-10-31T20:43:39.095Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf exalta Garro e confiança do Corinthians: “Era importante vencer”",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-exalta-garro-e-confianca-do-corinthians-era-importante-vencer/",
-      "time": "31/10 · 13:43",
-      "pubDate": "Sat, 31 Oct 2026 13:43:37 +0000"
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians mantém aproveitamento perfeito diante do Mirassol na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543183/corinthians-mantem-aproveitamento-perfeito-diante-do-mirassol-na-neo-quimica-arena",
+      "time": "31/10 · 20:29",
+      "pubDate": "Sat, 31 Oct 2026 17:29:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Corinthians 2 x 0 Mirassol pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-corinthians-2-x-0-mirassol-pelo-brasileirao/",
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se classifica para a semifinal do Paulistão Feminino Sub-17 com dois golaços de falta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543258/corinthians-se-classifica-para-a-semifinal-do-paulistao-feminino-sub-17-com-dois-golacos-de-falta",
+      "time": "31/10 · 20:14",
+      "pubDate": "Sat, 31 Oct 2026 17:14:29 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians supera Palmeiras em Dérbi de viradas e sai na frente na semi do Paulista Feminino Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543257/corinthians-supera-palmeiras-em-derbi-de-viradas-e-sai-na-frente-na-semi-do-paulista-feminino-sub-20",
+      "time": "31/10 · 20:14",
+      "pubDate": "Sat, 31 Oct 2026 17:14:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Dupla do Corinthians critica modelo de disputa da Libertadores e relembra problemas financeiros",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543239/dupla-do-corinthians-critica-modelo-de-disputa-da-libertadores-e-relembra-problemas-financeiros",
+      "time": "31/10 · 19:33",
+      "pubDate": "Sat, 31 Oct 2026 16:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Seedorf exalta dupla de jovens meio-campistas do Corinthians e desconversa sobre desfalque de André",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543205/seedorf-exalta-dupla-de-jovens-meio-campistas-do-corinthians-e-desconversa-sobre-desfalque-de-andre",
+      "time": "31/10 · 18:31",
+      "pubDate": "Sat, 31 Oct 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians fica sem sofrer gol pela primeira vez em mais de dois meses; relembre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543219/corinthians-fica-sem-sofrer-gol-pela-primeira-vez-em-mais-de-dois-meses-relembre",
+      "time": "31/10 · 17:30",
+      "pubDate": "Sat, 31 Oct 2026 14:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians leva ampla vantagem sobre o Cruzeiro em confrontos eliminatórios; veja retrospecto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543143/corinthians-leva-ampla-vantagem-sobre-o-cruzeiro-em-confrontos-eliminatorios-veja-retrospecto",
+      "time": "31/10 · 16:34",
+      "pubDate": "Sat, 31 Oct 2026 13:34:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians vence o Cruzeiro com tranquilidade e abre vantagem na final do Brasileiro Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543132/corinthians-vence-o-cruzeiro-com-tranquilidade-e-abre-vantagem-na-final-do-brasileiro-sub-17",
+      "time": "31/10 · 15:55",
+      "pubDate": "Sat, 31 Oct 2026 12:55:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians faz anúncio da contratação de Lionel Messi como novo reforço após site oficial ser hackeado",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-faz-anuncio-da-contratacao-de-lionel-messi-como-novo-reforco-apos-site-oficial-ser-hackeado]]>",
       "time": "31/10 · 13:38",
-      "pubDate": "Sat, 31 Oct 2026 13:38:56 +0000"
+      "pubDate": "Sat, 31 Oct 2026 10:38:02 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Candidato à presidência do Corinthians explica mudanças na chapa e avalia reunião com Stabile",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543129/candidato-a-presidencia-do-corinthians-explica-mudancas-na-chapa-e-avalia-reuniao-com-stabile",
-      "time": "31/10 · 13:33",
-      "pubDate": "Sat, 31 Oct 2026 10:33:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Site do Corinthians é hackeado e tem falso anúncio de Messi publicado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/site-corinthians-ataque-hacker-falso-anuncio-messi-2027/",
-      "time": "31/10 · 13:10",
-      "pubDate": "Sat, 31 Oct 2026 13:10:39 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem site hackeado com direito a 'anúncio' de Lionel Messi",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543242/corinthians-tem-site-hackeado-com-direito-a-anuncio-de-lionel-messi",
-      "time": "31/10 · 12:41",
-      "pubDate": "Sat, 31 Oct 2026 09:41:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Sfera em busca de vaga nas semifinais do Paulistão Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543158/corinthians-recebe-o-sfera-em-busca-de-vaga-nas-semifinais-do-paulistao-feminino-sub-17",
-      "time": "31/10 · 12:31",
-      "pubDate": "Sat, 31 Oct 2026 09:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians encara primeiro Dérbi nas semifinais do Paulistão Feminino Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543155/corinthians-encara-primeiro-derbi-nas-semifinais-do-paulistao-feminino-sub-20-saiba-tudo",
-      "time": "31/10 · 12:00",
-      "pubDate": "Sat, 31 Oct 2026 09:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Meu Timão transmite de graça a final do Corinthians na Libertadores Feminina; saiba como assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543159/meu-timao-transmite-de-graca-a-final-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
-      "time": "31/10 · 11:30",
-      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Seedorf acerta e regasta confiança do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/evolucao-do-corinthians-anima-apos-vitoria-sobre-mirassol/",
-      "time": "31/10 · 11:00",
-      "pubDate": "Sat, 31 Oct 2026 11:00:35 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vitória no Brasileiro, dinheiro para quitar dívidas e possível rescisão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543218/ultimas-do-corinthians-vitoria-no-brasileiro-dinheiro-para-quitar-dividas-e-possivel-rescisao",
-      "time": "31/10 · 10:30",
-      "pubDate": "Sat, 31 Oct 2026 07:30:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf indica substituto de Matheuzinho no Corinthians contra o São Paulo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-indica-substituto-de-matheuzinho-no-corinthians/",
-      "time": "31/10 · 10:00",
-      "pubDate": "Sat, 31 Oct 2026 10:00:40 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Cruzeiro desafia hegemonia do Corinthians na final da Libertadores feminina",
-      "url": "https://www.gazetaesportiva.com/futebol-feminino/cruzeiro-desafia-hegemonia-do-corinthians-na-final-da-libertadores-feminina/",
-      "time": "31/10 · 10:00",
-      "pubDate": "Sat, 31 Oct 2026 10:00:10 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações: Garro volta a brilhar e comanda vitória do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-brilha-em-vitoria-do-corinthians-sobre-mirassol/",
-      "time": "31/10 · 09:00",
-      "pubDate": "Sat, 31 Oct 2026 09:00:13 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Cruzeiro pela final do Campeonato Brasileiro Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543156/corinthians-recebe-o-cruzeiro-pela-final-do-campeonato-brasileiro-sub-17-saiba-tudo",
-      "time": "31/10 · 05:30",
-      "pubDate": "Sat, 31 Oct 2026 02:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições MT: Sérgio Janikian tem candidatura rejeitada na disputa pela presidência do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543173/eleicoes-mt-sergio-janikian-tem-candidatura-rejeitada-na-disputa-pela-presidencia-do-corinthians",
-      "time": "31/10 · 03:27",
-      "pubDate": "Sat, 31 Oct 2026 00:27:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do jogo entre Corinthians e Mirassol pela 33ª rodada do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-galeria-de-fotos-do-jogo-entre-corinthians-e-mirassol-pela-33a-rodada-do-brasileirao/",
-      "time": "31/10 · 02:27",
-      "pubDate": "Sat, 31 Oct 2026 02:27:30 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Félix Torres, vinculado ao Corinthians, é afastado no Internacional e negocia para jogar na LDU em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/felix-torres-vinculado-ao-corinthians-e-afastado-no-internacional-e-negocia-para-jogar-na-ldu-em-2027]]>",
+      "time": "31/10 · 12:21",
+      "pubDate": "Sat, 31 Oct 2026 09:21:17 -0300"
     },
     {
       "source": "Bolavip",
@@ -179,26 +131,86 @@ const LIVE_DATA = {
       "pubDate": "Thu, 29 Oct 2026 15:48:16 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Análise: Presidente da Gaviões da Fiel intimida arbitragem com aviso antes de Corinthians x Mirassol",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/analise-presidente-da-gavioes-da-fiel-intimida-arbitragem-com-aviso-antes-de-corinthians-x-mirassol]]>",
-      "time": "29/10 · 13:55",
-      "pubDate": "Thu, 29 Oct 2026 10:55:11 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians terá futuro de nove jogadores discutido com candidatos à presidência antes das eleições",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tera-futuro-de-nove-jogadores-discutido-com-candidatos-a-presidencia-antes-das-eleicoes]]>",
-      "time": "28/10 · 23:00",
-      "pubDate": "Wed, 28 Oct 2026 20:00:21 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians se classifica para a semifinal do Paulistão Feminino Sub-17 com dois golaços de falta",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543258/corinthians-se-classifica-para-a-semifinal-do-paulistao-feminino-sub-17-com-dois-golacos-de-falta",
+      "pubDate": "Sat, 31 Oct 2026 17:14:29 -0300",
+      "date": "31/10 · 20:14"
+    },
+    {
+      "title": "Corinthians fica sem sofrer gol pela primeira vez em mais de dois meses; relembre",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543219/corinthians-fica-sem-sofrer-gol-pela-primeira-vez-em-mais-de-dois-meses-relembre",
+      "pubDate": "Sat, 31 Oct 2026 14:30:00 -0300",
+      "date": "31/10 · 17:30"
+    },
     {
       "title": "Meu Timão transmite de graça a final do Corinthians na Libertadores Feminina; saiba como assistir",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/543159/meu-timao-transmite-de-graca-a-final-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
@@ -234,18 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130467/tem-mais-5-finais-pela-frente-bidu-fala-sobre-situacao-critica-do-corinthians-na-reta-final",
       "pubDate": "Fri, 30 Oct 2026 23:05:31 -0300",
       "date": "31/10 · 02:05"
-    },
-    {
-      "title": "VÍDEO: Melhores momentos: Corinthians 2X0 Mirassol| 33ª Rodada| Campeonato Brasileiro 2026",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130463/melhores-momentos-corinthians-2x0-mirassol-33-rodada-campeonato-brasileiro-2026",
-      "pubDate": "Fri, 30 Oct 2026 22:51:00 -0300",
-      "date": "31/10 · 01:51"
-    },
-    {
-      "title": "Laterais decisivos e golaço: torcida do Corinthians repercute vitória sobre o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543166/laterais-decisivos-e-golaco-torcida-do-corinthians-repercute-vitoria-sobre-o-mirassol",
-      "pubDate": "Fri, 30 Oct 2026 22:15:00 -0300",
-      "date": "31/10 · 01:15"
     }
   ]
 };
