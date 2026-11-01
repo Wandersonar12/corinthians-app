@@ -1,22 +1,94 @@
-// Gerado automaticamente em 01/11/2026, 14:33:57
+// Gerado automaticamente em 01/11/2026, 21:24:48
 const LIVE_DATA = {
-  "updatedAt": "2026-11-01T14:33:57.841Z",
+  "updatedAt": "2026-11-01T21:24:48.942Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral emprestado pelo Corinthians completa 20 jogos sem entrar em campo no Equador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543260/lateral-emprestado-pelo-corinthians-completa-20-jogos-sem-entrar-em-campo-no-equador",
-      "time": "01/11 · 14:32",
-      "pubDate": "Sun, 01 Nov 2026 11:32:00 -0300"
+      "title": "Técnico do Corinthians elogia Lucca Caramico e confirma o atleta na final do Brasileirão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543307/tecnico-do-corinthians-elogia-lucca-caramico-e-confirma-o-atleta-na-final-do-brasileirao-sub-17",
+      "time": "01/11 · 21:01",
+      "pubDate": "Sun, 01 Nov 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians ultrapassa Internacional e reduz as chances de rebaixamento no Brasileirão em 35%",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543264/corinthians-ultrapassa-internacional-e-reduz-as-chances-de-rebaixamento-no-brasileirao-em-35-por-cento",
-      "time": "01/11 · 13:31",
-      "pubDate": "Sun, 01 Nov 2026 10:31:00 -0300"
+      "title": "Lateral do Corinthians celebra gol decisivo e destaca superação física na reta final do Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543222/lateral-do-corinthians-celebra-gol-decisivo-e-destaca-superacao-fisica-na-reta-final-do-brasileiro",
+      "time": "01/11 · 20:28",
+      "pubDate": "Sun, 01 Nov 2026 17:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Trio do Corinthians é titular em classificação do Brasil à semifinal da Copa do Mundo Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543321/trio-do-corinthians-e-titular-em-classificacao-do-brasil-a-semifinal-da-copa-do-mundo-sub-17",
+      "time": "01/11 · 20:25",
+      "pubDate": "Sun, 01 Nov 2026 17:25:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Jovem volante revela conselhos de Seedorf e destaca adaptação a novo esquema do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543226/jovem-volante-revela-conselhos-de-seedorf-e-destaca-adaptacao-a-novo-esquema-do-corinthians",
+      "time": "01/11 · 19:31",
+      "pubDate": "Sun, 01 Nov 2026 16:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Gabi Zanotti ultrapassa marca de 100 gols com a camisa do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543271/gabi-zanotti-ultrapassa-marca-de-100-gols-com-a-camisa-do-corinthians",
+      "time": "01/11 · 19:03",
+      "pubDate": "Sun, 01 Nov 2026 16:03:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se reapresenta com foco no Majestoso; Memphis se aproxima de retorno",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-preparacao-classico-sao-paulo-memphis-depay/",
+      "time": "01/11 · 19:00",
+      "pubDate": "Sun, 01 Nov 2026 19:00:02 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians valoriza gol marcado e comenta disputa por titularidade com Seedorf",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543223/atacante-do-corinthians-valoriza-gol-marcado-e-comenta-disputa-por-titularidade-com-seedorf",
+      "time": "01/11 · 18:31",
+      "pubDate": "Sun, 01 Nov 2026 15:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians neste domingo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-neste-domingo-3/",
+      "time": "01/11 · 18:30",
+      "pubDate": "Sun, 01 Nov 2026 18:30:13 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zanotti critica postura do Corinthians na final da Libertadores e cita temporada 'atípica'",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543277/zanotti-critica-postura-do-corinthians-na-final-da-libertadores-e-cita-temporada-atipica",
+      "time": "01/11 · 18:04",
+      "pubDate": "Sun, 01 Nov 2026 15:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians se reapresenta após vitória e inicia preparação para clássico contra o São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543314/corinthians-se-reapresenta-apos-vitoria-e-inicia-preparacao-para-classico-contra-o-sao-paulo",
+      "time": "01/11 · 18:02",
+      "pubDate": "Sun, 01 Nov 2026 15:02:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf desabafa sobre situação real de Rodrigo Garro no Corinthians: “Está treinando bem faz tempo”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-desabafa-sobre-situacao-real-de-rodrigo-garro-no-corinthians-esta-treinando-bem-faz-tempo]]>",
+      "time": "01/11 · 14:14",
+      "pubDate": "Sun, 01 Nov 2026 11:14:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -25,38 +97,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/vice-campeao-corinthians-fatura-milhoes-com-campanha-na-libertadores-feminina/",
       "time": "01/11 · 13:14",
       "pubDate": "Sun, 01 Nov 2026 13:14:12 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Diretora evita cravar futuro de Emily Lima no Corinthians após vice da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543302/diretora-evita-cravar-futuro-de-emily-lima-no-corinthians-apos-vice-da-libertadores-feminina",
-      "time": "01/11 · 12:23",
-      "pubDate": "Sun, 01 Nov 2026 09:23:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "União do elenco e seriedade: Veja os bastidores da vitória do Corinthians sobre o Mirassol",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543289/uniao-do-elenco-e-seriedade-veja-os-bastidores-da-vitoria-do-corinthians-sobre-o-mirassol",
-      "time": "01/11 · 12:00",
-      "pubDate": "Sun, 01 Nov 2026 09:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Matheus Bidu acredita em virada de chave do Corinthians após vitória sobre o Mirassol no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543221/matheus-bidu-acredita-em-virada-de-chave-do-corinthians-apos-vitoria-sobre-o-mirassol-no-brasileirao",
-      "time": "01/11 · 11:30",
-      "pubDate": "Sun, 01 Nov 2026 08:30:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: vantagem no Sub-17, vice da Libertadores Feminina e candidato impugnado",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543278/ultimas-do-corinthians-vantagem-no-sub-17-vice-da-libertadores-feminina-e-candidato-impugnado",
-      "time": "01/11 · 10:30",
-      "pubDate": "Sun, 01 Nov 2026 07:30:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -73,22 +113,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/veja-o-que-o-corinthians-precisa-para-sair-do-z4-na-proxima-rodada-do-brasileirao/",
       "time": "01/11 · 10:00",
       "pubDate": "Sun, 01 Nov 2026 10:00:47 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Clima de despedida marca noite de Emily Lima após vice do Corinthians na Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543288/clima-de-despedida-marca-noite-de-emily-lima-apos-vice-do-corinthians-na-libertadores-feminina",
-      "time": "01/11 · 03:31",
-      "pubDate": "Sun, 01 Nov 2026 00:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "VÍDEO: Tamires diz não entender o que acontece com o Corinthians após derrota na final da Libertadores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130492/tamires-diz-nao-entender-o-que-acontece-com-o-corinthians-apos-derrota-na-final-da-libertadores",
-      "time": "01/11 · 03:28",
-      "pubDate": "Sun, 01 Nov 2026 00:28:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -123,36 +147,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 31 Oct 2026 20:05:32 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Vitória sobre o Mirassol reduz risco de queda do Corinthians; veja números",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reduz-risco-rebaixamento-42-7-ufmg-brasileirao-2026/",
-      "time": "31/10 · 22:55",
-      "pubDate": "Sat, 31 Oct 2026 22:55:15 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf desabafa sobre situação real de Rodrigo Garro no Corinthians: “Está treinando bem faz tempo”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-desabafa-sobre-situacao-real-de-rodrigo-garro-no-corinthians-esta-treinando-bem-faz-tempo]]>",
-      "time": "31/10 · 17:52",
-      "pubDate": "Sat, 31 Oct 2026 14:52:59 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Opinião: Seedorf acertou em cheio ao mudar posição de Matheus Bidu e merece elogios no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-acertou-em-cheio-ao-mudar-posicao-de-matheus-bidu-e-merece-elogios-no-corinthians]]>",
       "time": "31/10 · 16:00",
       "pubDate": "Sat, 31 Oct 2026 13:00:58 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz três no Cruzeiro e abre vantagem na final do Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-tres-no-cruzeiro-e-abre-vantagem-na-final-do-brasileiro-sub-17/",
-      "time": "31/10 · 15:55",
-      "pubDate": "Sat, 31 Oct 2026 15:55:38 +0000"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,30 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Lateral do Corinthians celebra gol decisivo e destaca superação física na reta final do Brasileiro",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543222/lateral-do-corinthians-celebra-gol-decisivo-e-destaca-superacao-fisica-na-reta-final-do-brasileiro",
+      "pubDate": "Sun, 01 Nov 2026 17:28:00 -0300",
+      "date": "01/11 · 20:28"
+    },
+    {
+      "title": "Gabi Zanotti ultrapassa marca de 100 gols com a camisa do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543271/gabi-zanotti-ultrapassa-marca-de-100-gols-com-a-camisa-do-corinthians",
+      "pubDate": "Sun, 01 Nov 2026 16:03:00 -0300",
+      "date": "01/11 · 19:03"
+    },
+    {
+      "title": "Atacante do Corinthians valoriza gol marcado e comenta disputa por titularidade com Seedorf",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543223/atacante-do-corinthians-valoriza-gol-marcado-e-comenta-disputa-por-titularidade-com-seedorf",
+      "pubDate": "Sun, 01 Nov 2026 15:31:00 -0300",
+      "date": "01/11 · 18:31"
+    },
+    {
+      "title": "Matheus Bidu ultrapassa Fagner e entra no top-10 laterais com mais gols da história do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543227/matheus-bidu-ultrapassa-fagner-e-entra-no-top-10-laterais-com-mais-gols-da-historia-do-corinthians",
+      "pubDate": "Sun, 01 Nov 2026 14:31:00 -0300",
+      "date": "01/11 · 17:31"
+    },
+    {
       "title": "VÍDEO: Tamires diz não entender o que acontece com o Corinthians após derrota na final da Libertadores",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130492/tamires-diz-nao-entender-o-que-acontece-com-o-corinthians-apos-derrota-na-final-da-libertadores",
       "pubDate": "Sun, 01 Nov 2026 00:28:00 -0300",
@@ -222,12 +246,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130489/melhores-momentos-corinthians-4x4-cruzeiro-final-conmebol-libertadores-2026",
       "pubDate": "Sun, 01 Nov 2026 00:16:23 -0300",
       "date": "01/11 · 03:16"
-    },
-    {
-      "title": "Corinthians se classifica para a semifinal do Paulistão Feminino Sub-17 com dois golaços de falta",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543258/corinthians-se-classifica-para-a-semifinal-do-paulistao-feminino-sub-17-com-dois-golacos-de-falta",
-      "pubDate": "Sat, 31 Oct 2026 17:14:00 -0300",
-      "date": "31/10 · 20:14"
     }
   ]
 };
