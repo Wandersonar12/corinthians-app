@@ -1,30 +1,126 @@
-// Gerado automaticamente em 01/11/2026, 00:30:51
+// Gerado automaticamente em 01/11/2026, 14:33:57
 const LIVE_DATA = {
-  "updatedAt": "2026-11-01T00:30:51.999Z",
+  "updatedAt": "2026-11-01T14:33:57.841Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians fala sobre mudanças nas laterais e projeta substituição no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543204/tecnico-do-corinthians-fala-sobre-mudancas-nas-laterais-e-projeta-substituicao-no-majestoso",
-      "time": "01/11 · 00:01",
-      "pubDate": "Sat, 31 Oct 2026 21:01:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Cruzeiro: veja o placar ao vivo da final da Libertadores feminina",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-cruzeiro-final-libertadores-feminina-2026/",
-      "time": "31/10 · 23:50",
-      "pubDate": "Sat, 31 Oct 2026 23:50:21 +0000"
+      "title": "Lateral emprestado pelo Corinthians completa 20 jogos sem entrar em campo no Equador",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543260/lateral-emprestado-pelo-corinthians-completa-20-jogos-sem-entrar-em-campo-no-equador",
+      "time": "01/11 · 14:32",
+      "pubDate": "Sun, 01 Nov 2026 11:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Eleições Meu Timão: Ilmar Schiavenato relembra trajetória no Corinthians e detalha atuação política",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543128/eleicoes-meu-timao-ilmar-schiavenato-relembra-trajetoria-no-corinthians-e-detalha-atuacao-politica",
-      "time": "31/10 · 23:34",
-      "pubDate": "Sat, 31 Oct 2026 20:34:00 -0300"
+      "title": "Corinthians ultrapassa Internacional e reduz as chances de rebaixamento no Brasileirão em 35%",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543264/corinthians-ultrapassa-internacional-e-reduz-as-chances-de-rebaixamento-no-brasileirao-em-35-por-cento",
+      "time": "01/11 · 13:31",
+      "pubDate": "Sun, 01 Nov 2026 10:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Vice-campeão, Corinthians fatura milhões com campanha na Libertadores Feminina",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/vice-campeao-corinthians-fatura-milhoes-com-campanha-na-libertadores-feminina/",
+      "time": "01/11 · 13:14",
+      "pubDate": "Sun, 01 Nov 2026 13:14:12 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Diretora evita cravar futuro de Emily Lima no Corinthians após vice da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543302/diretora-evita-cravar-futuro-de-emily-lima-no-corinthians-apos-vice-da-libertadores-feminina",
+      "time": "01/11 · 12:23",
+      "pubDate": "Sun, 01 Nov 2026 09:23:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "União do elenco e seriedade: Veja os bastidores da vitória do Corinthians sobre o Mirassol",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543289/uniao-do-elenco-e-seriedade-veja-os-bastidores-da-vitoria-do-corinthians-sobre-o-mirassol",
+      "time": "01/11 · 12:00",
+      "pubDate": "Sun, 01 Nov 2026 09:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Matheus Bidu acredita em virada de chave do Corinthians após vitória sobre o Mirassol no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543221/matheus-bidu-acredita-em-virada-de-chave-do-corinthians-apos-vitoria-sobre-o-mirassol-no-brasileirao",
+      "time": "01/11 · 11:30",
+      "pubDate": "Sun, 01 Nov 2026 08:30:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Últimas do Corinthians: vantagem no Sub-17, vice da Libertadores Feminina e candidato impugnado",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543278/ultimas-do-corinthians-vantagem-no-sub-17-vice-da-libertadores-feminina-e-candidato-impugnado",
+      "time": "01/11 · 10:30",
+      "pubDate": "Sun, 01 Nov 2026 07:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Motivação a mais? Como o São Paulo encara o clássico com o Corinthians no Z4",
+      "url": "https://www.gazetaesportiva.com/times/sao-paulo/chance-de-afundar-rival-pesa-como-o-sao-paulo-encara-classico-contra-o-corinthians/",
+      "time": "01/11 · 10:00",
+      "pubDate": "Sun, 01 Nov 2026 10:00:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians terá novembro com clássico e decisões pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-o-que-o-corinthians-precisa-para-sair-do-z4-na-proxima-rodada-do-brasileirao/",
+      "time": "01/11 · 10:00",
+      "pubDate": "Sun, 01 Nov 2026 10:00:47 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Clima de despedida marca noite de Emily Lima após vice do Corinthians na Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543288/clima-de-despedida-marca-noite-de-emily-lima-apos-vice-do-corinthians-na-libertadores-feminina",
+      "time": "01/11 · 03:31",
+      "pubDate": "Sun, 01 Nov 2026 00:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Tamires diz não entender o que acontece com o Corinthians após derrota na final da Libertadores",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130492/tamires-diz-nao-entender-o-que-acontece-com-o-corinthians-apos-derrota-na-final-da-libertadores",
+      "time": "01/11 · 03:28",
+      "pubDate": "Sun, 01 Nov 2026 00:28:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Zanotti lamenta vice do Corinthians na Libertadores feminina: &#8220;Noite para ser esquecida&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/zanotti-lamenta-vice-do-corinthians-na-libertadores-feminina-noite-para-ser-esquecida/",
+      "time": "01/11 · 02:44",
+      "pubDate": "Sun, 01 Nov 2026 02:44:54 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians perde do Cruzeiro nos pênaltis e fica com vice da Libertadores feminina",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-cruzeiro-final-libertadores-feminina-2026/",
+      "time": "01/11 · 02:12",
+      "pubDate": "Sun, 01 Nov 2026 02:12:21 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja as fotos de Corinthians x Cruzeiro pela final da Libertadores feminina",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/veja-as-fotos-de-corinthians-x-cruzeiro-pela-final-da-libertadores-feminina/",
+      "time": "01/11 · 00:47",
+      "pubDate": "Sun, 01 Nov 2026 00:47:47 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Félix Torres, vinculado ao Corinthians, é afastado no Internacional e negocia para jogar na LDU em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/felix-torres-vinculado-ao-corinthians-e-afastado-no-internacional-e-negocia-para-jogar-na-ldu-em-2027]]>",
+      "time": "31/10 · 23:05",
+      "pubDate": "Sat, 31 Oct 2026 20:05:32 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -33,54 +129,6 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reduz-risco-rebaixamento-42-7-ufmg-brasileirao-2026/",
       "time": "31/10 · 22:55",
       "pubDate": "Sat, 31 Oct 2026 22:55:15 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians terá empresa de fast-food como patrocinadora pontual na final da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543262/corinthians-tera-empresa-de-fast-food-como-patrocinadora-pontual-na-final-da-libertadores-feminina",
-      "time": "31/10 · 22:40",
-      "pubDate": "Sat, 31 Oct 2026 19:40:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians está escalado para a grande decisão da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543253/corinthians-esta-escalado-para-a-grande-decisao-da-libertadores-feminina",
-      "time": "31/10 · 22:38",
-      "pubDate": "Sat, 31 Oct 2026 19:38:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César celebra fim de sequência negativa no Corinthians e valoriza união do elenco",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543224/kaio-cesar-celebra-fim-de-sequencia-negativa-no-corinthians-e-valoriza-uniao-do-elenco",
-      "time": "31/10 · 22:31",
-      "pubDate": "Sat, 31 Oct 2026 19:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral e atacante se aproximam do pódio da artilharia do Corinthians em 2026; veja lista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543202/lateral-e-atacante-se-aproximam-do-podio-da-artilharia-do-corinthians-em-2026-veja-lista",
-      "time": "31/10 · 21:33",
-      "pubDate": "Sat, 31 Oct 2026 18:33:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante destaca vitória do Corinthians e emoção da primeira convocação para a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543225/volante-destaca-vitoria-do-corinthians-e-emocao-da-primeira-convocacao-para-a-selecao-brasileira",
-      "time": "31/10 · 21:02",
-      "pubDate": "Sat, 31 Oct 2026 18:02:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians mantém aproveitamento perfeito diante do Mirassol na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543183/corinthians-mantem-aproveitamento-perfeito-diante-do-mirassol-na-neo-quimica-arena",
-      "time": "31/10 · 20:29",
-      "pubDate": "Sat, 31 Oct 2026 17:29:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -107,60 +155,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 31 Oct 2026 15:55:38 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf exalta Garro e confiança do Corinthians: “Era importante vencer”",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-exalta-garro-e-confianca-do-corinthians-era-importante-vencer/",
-      "time": "31/10 · 13:43",
-      "pubDate": "Sat, 31 Oct 2026 13:43:37 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Corinthians 2 x 0 Mirassol pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-corinthians-2-x-0-mirassol-pelo-brasileirao/",
-      "time": "31/10 · 13:38",
-      "pubDate": "Sat, 31 Oct 2026 13:38:56 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Corinthians faz anúncio da contratação de Lionel Messi como novo reforço após site oficial ser hackeado",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-faz-anuncio-da-contratacao-de-lionel-messi-como-novo-reforco-apos-site-oficial-ser-hackeado]]>",
       "time": "31/10 · 13:38",
       "pubDate": "Sat, 31 Oct 2026 10:38:02 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Site do Corinthians é hackeado e tem falso anúncio de Messi publicado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/site-corinthians-ataque-hacker-falso-anuncio-messi-2027/",
-      "time": "31/10 · 13:10",
-      "pubDate": "Sat, 31 Oct 2026 13:10:39 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Félix Torres, vinculado ao Corinthians, é afastado no Internacional e negocia para jogar na LDU em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/felix-torres-vinculado-ao-corinthians-e-afastado-no-internacional-e-negocia-para-jogar-na-ldu-em-2027]]>",
-      "time": "31/10 · 12:21",
-      "pubDate": "Sat, 31 Oct 2026 09:21:17 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Seedorf acerta e regasta confiança do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/evolucao-do-corinthians-anima-apos-vitoria-sobre-mirassol/",
-      "time": "31/10 · 11:00",
-      "pubDate": "Sat, 31 Oct 2026 11:00:35 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf indica substituto de Matheuzinho no Corinthians contra o São Paulo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-indica-substituto-de-matheuzinho-no-corinthians/",
-      "time": "31/10 · 10:00",
-      "pubDate": "Sat, 31 Oct 2026 10:00:40 +0000"
     },
     {
       "source": "Bolavip",
@@ -200,40 +200,34 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Tamires diz não entender o que acontece com o Corinthians após derrota na final da Libertadores",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130492/tamires-diz-nao-entender-o-que-acontece-com-o-corinthians-apos-derrota-na-final-da-libertadores",
+      "pubDate": "Sun, 01 Nov 2026 00:28:00 -0300",
+      "date": "01/11 · 03:28"
+    },
+    {
+      "title": "VÍDEO: Após final da Libertadores, Gabi Zanotti comenta que situações internas afetaram a temporada",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130491/apos-final-da-libertadores-gabi-zanotti-comenta-que-situacoes-internas-afetaram-a-temporada",
+      "pubDate": "Sun, 01 Nov 2026 00:25:00 -0300",
+      "date": "01/11 · 03:25"
+    },
+    {
+      "title": "VÍDEO: Disputa de pênaltis: Corinthians 4x5 Cruzeiro | Final | CONMEBOL Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130490/disputa-de-penaltis-corinthians-4x5-cruzeiro-final-conmebol-libertadores-2026",
+      "pubDate": "Sun, 01 Nov 2026 00:20:17 -0300",
+      "date": "01/11 · 03:20"
+    },
+    {
+      "title": "VÍDEO: Melhores momentos: Corinthians 4x4 Cruzeiro | Final | CONMEBOL Libertadores 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130489/melhores-momentos-corinthians-4x4-cruzeiro-final-conmebol-libertadores-2026",
+      "pubDate": "Sun, 01 Nov 2026 00:16:23 -0300",
+      "date": "01/11 · 03:16"
+    },
+    {
       "title": "Corinthians se classifica para a semifinal do Paulistão Feminino Sub-17 com dois golaços de falta",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/543258/corinthians-se-classifica-para-a-semifinal-do-paulistao-feminino-sub-17-com-dois-golacos-de-falta",
       "pubDate": "Sat, 31 Oct 2026 17:14:00 -0300",
       "date": "31/10 · 20:14"
-    },
-    {
-      "title": "Corinthians fica sem sofrer gol pela primeira vez em mais de dois meses; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543219/corinthians-fica-sem-sofrer-gol-pela-primeira-vez-em-mais-de-dois-meses-relembre",
-      "pubDate": "Sat, 31 Oct 2026 14:30:00 -0300",
-      "date": "31/10 · 17:30"
-    },
-    {
-      "title": "Meu Timão transmite de graça a final do Corinthians na Libertadores Feminina; saiba como assistir",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543159/meu-timao-transmite-de-graca-a-final-do-corinthians-na-libertadores-feminina-saiba-como-assistir",
-      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0300",
-      "date": "31/10 · 11:30"
-    },
-    {
-      "title": "VÍDEO: Coletiva do técnico Seedorf pós-vitória do Corinthians contra o Mirassol na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130473/coletiva-do-tecnico-seedorf-pos-vitoria-do-corinthians-contra-o-mirassol-na-neo-quimica-arena",
-      "pubDate": "Fri, 30 Oct 2026 23:54:28 -0300",
-      "date": "31/10 · 02:54"
-    },
-    {
-      "title": "VÍDEO: André revela bastidores da convocação e conta sentimento após vitória do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130472/andre-revela-bastidores-da-convocacao-e-conta-sentimento-apos-vitoria-do-corinthians",
-      "pubDate": "Fri, 30 Oct 2026 23:49:12 -0300",
-      "date": "31/10 · 02:49"
-    },
-    {
-      "title": "VÍDEO: Kaio César revela pedido do Seedorf no ataque e comemora gol em vitória do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130471/kaio-cesar-revela-pedido-do-seedorf-no-ataque-e-comemora-gol-em-vitoria-do-corinthians",
-      "pubDate": "Fri, 30 Oct 2026 23:48:23 -0300",
-      "date": "31/10 · 02:48"
     }
   ]
 };
