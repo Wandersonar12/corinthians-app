@@ -1,70 +1,70 @@
-// Gerado automaticamente em 02/11/2026, 17:29:43
+// Gerado automaticamente em 03/11/2026, 00:05:43
 const LIVE_DATA = {
-  "updatedAt": "2026-11-02T17:29:43.544Z",
+  "updatedAt": "2026-11-03T00:05:43.683Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians revela diagnóstico de hérnia inguinal e confirma cirurgia após a temporada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543365/lateral-do-corinthians-revela-diagnostico-de-hernia-inguinal-e-confirma-cirurgia-apos-a-temporada",
-      "time": "02/11 · 17:19",
-      "pubDate": "Mon, 02 Nov 2026 14:19:09 -0300"
+      "title": "Matheus Bidu analisa reta final da temporada do Corinthians e projeta Majestoso",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543362/matheus-bidu-analisa-reta-final-da-temporada-do-corinthians-e-projeta-majestoso",
+      "time": "02/11 · 23:02",
+      "pubDate": "Mon, 02 Nov 2026 20:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians tem entrave com a Conmebol para regularização de licença de Seedorf",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543358/corinthians-tem-entrave-com-a-conmebol-para-regularizacao-de-licenca-de-seedorf",
-      "time": "02/11 · 17:07",
-      "pubDate": "Mon, 02 Nov 2026 14:07:21 -0300"
+      "title": "Corinthians envia dois representantes para audiência no STF sobre a Medida Provisória das bets",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543380/corinthians-envia-dois-representantes-para-audiencia-no-stf-sobre-a-medida-provisoria-das-bets",
+      "time": "02/11 · 22:56",
+      "pubDate": "Mon, 02 Nov 2026 19:56:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lucas Splichal celebra estreia na Neo Química Arena e realização de sonho pelo Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543298/lucas-splichal-celebra-estreia-na-neo-quimica-arena-e-realizacao-de-sonho-pelo-corinthians",
-      "time": "02/11 · 16:34",
-      "pubDate": "Mon, 02 Nov 2026 13:34:00 -0300"
+      "title": "Corinthians encerra invencibilidade em finais de Libertadores e chega a dez vices desde reativação",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543335/corinthians-encerra-invencibilidade-em-finais-de-libertadores-e-chega-a-dez-vices-desde-reativacao",
+      "time": "02/11 · 22:05",
+      "pubDate": "Mon, 02 Nov 2026 19:05:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Bidu afirma e detalha cirurgia no fim da temporada do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130513/bidu-afirma-e-detalha-cirurgia-no-fim-da-temporada-do-corinthians",
-      "time": "02/11 · 16:13",
-      "pubDate": "Mon, 02 Nov 2026 13:13:14 -0300"
+      "title": "Corinthians prepara envio de novos documentos à CBF para tentar homologar licença de Seedorf",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543376/corinthians-prepara-envio-de-novos-documentos-a-cbf-para-tentar-homologar-licenca-de-seedorf",
+      "time": "02/11 · 21:56",
+      "pubDate": "Mon, 02 Nov 2026 18:56:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians terá semana de folga após vice-campeonato da Libertadores Feminina",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543346/corinthians-tera-semana-de-folga-apos-vice-campeonato-da-libertadores-feminina",
-      "time": "02/11 · 16:03",
-      "pubDate": "Mon, 02 Nov 2026 13:03:00 -0300"
+      "title": "Veja como ficou o ranking de assistentes do Corinthians após vice da Libertadores Feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543333/veja-como-ficou-o-ranking-de-assistentes-do-corinthians-apos-vice-da-libertadores-feminina",
+      "time": "02/11 · 21:01",
+      "pubDate": "Mon, 02 Nov 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians pode reduzir orçamento no futebol feminino para 2027 em meio à crise financeira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543304/corinthians-pode-reduzir-orcamento-no-futebol-feminino-para-2027-em-meio-a-crise-financeira",
-      "time": "02/11 · 15:33",
-      "pubDate": "Mon, 02 Nov 2026 12:33:00 -0300"
+      "title": "Gerente de basquete do Corinthians visita instalações de franquia da NBA",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543327/gerente-de-basquete-do-corinthians-visita-instalacoes-de-franquia-da-nba",
+      "time": "02/11 · 20:00",
+      "pubDate": "Mon, 02 Nov 2026 17:00:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Promoção da Nike tem camisa casual do Corinthians a partir de R$ 79,99",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543343/promocao-da-nike-tem-camisa-casual-do-corinthians-a-partir-de-r-7999",
-      "time": "02/11 · 15:05",
-      "pubDate": "Mon, 02 Nov 2026 12:05:00 -0300"
+      "title": "Matheus Bidu comenta nova função com Seedorf e celebra marca histórica pelo Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543359/matheus-bidu-comenta-nova-funcao-com-seedorf-e-celebra-marca-historica-pelo-corinthians",
+      "time": "02/11 · 19:33",
+      "pubDate": "Mon, 02 Nov 2026 16:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro do profissional se coloca à disposição do Corinthians para final do Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543342/zagueiro-do-profissional-se-coloca-a-disposicao-do-corinthians-para-final-do-brasileiro-sub-17",
-      "time": "02/11 · 14:58",
-      "pubDate": "Mon, 02 Nov 2026 11:58:00 -0300"
+      "title": "Técnico do Corinthians projeta decisão do Brasileirão Sub-17 e aponta pontos a corrigir na equipe",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543309/tecnico-do-corinthians-projeta-decisao-do-brasileirao-sub-17-e-aponta-pontos-a-corrigir-na-equipe",
+      "time": "02/11 · 19:03",
+      "pubDate": "Mon, 02 Nov 2026 16:03:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -228,12 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/543299/goleiro-do-corinthians-agradece-apoio-apos-falha-e-prega-cautela-na-decisao-do-brasileirao-sub-17",
       "pubDate": "Sun, 01 Nov 2026 22:30:00 -0300",
       "date": "02/11 · 01:30"
-    },
-    {
-      "title": "Lateral do Corinthians celebra gol decisivo e destaca superação física na reta final do Brasileiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543222/lateral-do-corinthians-celebra-gol-decisivo-e-destaca-superacao-fisica-na-reta-final-do-brasileiro",
-      "pubDate": "Sun, 01 Nov 2026 17:28:00 -0300",
-      "date": "01/11 · 20:28"
     }
   ]
 };
