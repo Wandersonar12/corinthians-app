@@ -1,134 +1,86 @@
-// Gerado automaticamente em 04/11/2026, 15:49:24
+// Gerado automaticamente em 04/11/2026, 22:56:29
 const LIVE_DATA = {
-  "updatedAt": "2026-11-04T15:49:24.537Z",
+  "updatedAt": "2026-11-04T22:56:29.088Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Coordenador da base do Corinthians deixa o clube após conquista do Brasileirão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543504/coordenador-da-base-do-corinthians-deixa-o-clube-apos-conquista-do-brasileirao-sub-17",
-      "time": "04/11 · 15:40",
-      "pubDate": "Wed, 04 Nov 2026 12:40:00 -0300"
+      "title": "Corinthians busca fechar temporada invicta diante do São Paulo pela primeira vez desde 2017",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543496/corinthians-busca-fechar-temporada-invicta-diante-do-sao-paulo-pela-primeira-vez-desde-2017",
+      "time": "04/11 · 22:32",
+      "pubDate": "Wed, 04 Nov 2026 19:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se apoia em invencibilidade de Seedorf em clássicos na carreira para vencer o Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543398/corinthians-se-apoia-em-invencibilidade-de-seedorf-em-classicos-na-carreira-para-vencer-o-majestoso",
-      "time": "04/11 · 15:30",
-      "pubDate": "Wed, 04 Nov 2026 12:30:00 -0300"
+      "title": "Campeão olímpico ministra palestra no Teatro do Corinthians para atletas e funcionários",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543519/campeao-olimpico-ministra-palestra-no-teatro-do-corinthians-para-atletas-e-funcionarios",
+      "time": "04/11 · 22:01",
+      "pubDate": "Wed, 04 Nov 2026 19:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians reencontra arbitragem de Raphael Claus em clássico pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543490/corinthians-reencontra-arbitragem-de-raphael-claus-em-classico-pelo-brasileirao",
-      "time": "04/11 · 14:33",
-      "pubDate": "Wed, 04 Nov 2026 11:33:00 -0300"
+      "title": "Atacantes do Corinthians falam sobre luta pela recuperação do Corinthians no Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543440/atacantes-do-corinthians-falam-sobre-luta-pela-recuperacao-do-corinthians-no-brasileirao-2026",
+      "time": "04/11 · 21:01",
+      "pubDate": "Wed, 04 Nov 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians não vence o São Paulo atuando como visitante no Brasileirão há 16 anos; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543397/corinthians-nao-vence-o-sao-paulo-atuando-como-visitante-no-brasileirao-ha-16-anos-relembre",
-      "time": "04/11 · 13:30",
-      "pubDate": "Wed, 04 Nov 2026 10:30:00 -0300"
+      "title": "Corinthians pode deixar a zona de rebaixamento em caso de vitória sobre o São Paulo; veja a tabela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543494/corinthians-pode-deixar-a-zona-de-rebaixamento-em-caso-de-vitoria-sobre-o-sao-paulo-veja-a-tabela",
+      "time": "04/11 · 20:34",
+      "pubDate": "Wed, 04 Nov 2026 17:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians conquista vaga na decisão da Supercopa Sub-17 contra o Athletico-PR",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543474/corinthians-conquista-vaga-na-decisao-da-supercopa-sub-17-contra-o-athletico-pr",
-      "time": "04/11 · 12:31",
-      "pubDate": "Wed, 04 Nov 2026 09:31:00 -0300"
+      "title": "Trio do Corinthians é titular em eliminação do Brasil na Copa do Mundo Feminina Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543510/trio-do-corinthians-e-titular-em-eliminacao-do-brasil-na-copa-do-mundo-feminina-sub-17",
+      "time": "04/11 · 19:51",
+      "pubDate": "Wed, 04 Nov 2026 16:51:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: É campeão! Jogadores do Corinthians erguem a taça do Brasileirão Sub-17",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130562/e-campeao-jogadores-do-corinthians-erguem-a-taca-do-brasileirao-sub-17",
-      "time": "04/11 · 12:00",
-      "pubDate": "Wed, 04 Nov 2026 09:00:09 -0300"
+      "title": "Técnico do Corinthians explica ajustes no clube e destaca qualidade do elenco",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543442/tecnico-do-corinthians-explica-ajustes-no-clube-e-destaca-qualidade-do-elenco",
+      "time": "04/11 · 19:33",
+      "pubDate": "Wed, 04 Nov 2026 16:33:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "STJD julga Corinthians por atrasos e atacante do Mirassol após cotovelada em André Ramalho",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543488/stjd-julga-corinthians-por-atrasos-e-atacante-do-mirassol-por-cotovelada-em-andre-ramalho",
-      "time": "04/11 · 11:46",
-      "pubDate": "Wed, 04 Nov 2026 08:46:44 -0300"
+      "title": "Corinthians reencontra Dorival Júnior e busca desempatar retrospecto contra o técnico",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543417/corinthians-reencontra-dorival-junior-e-busca-desempatar-retrospecto-contra-o-tecnico",
+      "time": "04/11 · 18:32",
+      "pubDate": "Wed, 04 Nov 2026 15:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Saiba onde assistir ao clássico entre Corinthians e São Paulo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543430/saiba-onde-assistir-ao-classico-entre-corinthians-e-sao-paulo-pelo-brasileirao",
-      "time": "04/11 · 11:31",
-      "pubDate": "Wed, 04 Nov 2026 08:31:00 -0300"
+      "title": "Corinthians entra para o Majestoso com seis desfalques e oito pendurados",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543493/corinthians-entra-para-o-majestoso-com-seis-desfalques-e-oito-pendurados",
+      "time": "04/11 · 17:31",
+      "pubDate": "Wed, 04 Nov 2026 14:31:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf evita cálculos contra o rebaixamento no Brasileiro e quer Corinthians focado &#8220;jogo a jogo&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-calculos-corinthians-brasileirao/",
-      "time": "04/11 · 10:00",
-      "pubDate": "Wed, 04 Nov 2026 10:00:38 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior é isento de culpa após aproveitamento não melhorar com demissão anunciada no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-e-isento-de-culpa-apos-aproveitamento-nao-melhorar-com-demissao-anunciada-no-corinthians]]>",
+      "time": "04/11 · 14:23",
+      "pubDate": "Wed, 04 Nov 2026 11:23:06 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Dorival revê Corinthians e tenta melhorar retrospecto do São Paulo em clássicos no ano",
-      "url": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-reve-corinthians-e-tenta-melhorar-retrospecto-do-sao-paulo-em-classicos-no-ano/",
-      "time": "04/11 · 09:00",
-      "pubDate": "Wed, 04 Nov 2026 09:00:43 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians perde do Cruzeiro, mas fica com título inédito do Brasileiro sub-17",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-do-cruzeiro-mas-fica-com-titulo-inedito-do-brasileiro-sub-17/",
-      "time": "04/11 · 02:28",
-      "pubDate": "Wed, 04 Nov 2026 02:28:44 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta terça-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-terca-feira-26/",
-      "time": "04/11 · 00:13",
-      "pubDate": "Wed, 04 Nov 2026 00:13:06 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo x Corinthians pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-corinthians-campeonato-brasileiro-04-11-2026/",
-      "time": "03/11 · 23:00",
-      "pubDate": "Tue, 03 Nov 2026 23:00:46 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis fala sobre má fase no Corinthians e faz autocrítica",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/memphis-fala-sobre-ma-fase-no-corinthians-e-faz-autocritica/",
-      "time": "03/11 · 22:37",
-      "pubDate": "Tue, 03 Nov 2026 22:37:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf blinda elenco do Corinthians: &#8216;A gente não quer falar do passado&#8217;",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-blinda-elenco-do-corinthians-a-gente-nao-quer-falar-do-passado/",
-      "time": "03/11 · 22:34",
-      "pubDate": "Tue, 03 Nov 2026 22:34:59 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Escalação: Seedorf pode ter até dois reforços no Corinthians para o Majestoso",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-lingard-corinthians-classico-sao-paulo/",
-      "time": "03/11 · 21:40",
-      "pubDate": "Tue, 03 Nov 2026 21:40:47 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf é duramente criticado em rede nacional após chamar jornalistas de hóspedes no CT do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-e-duramente-criticado-em-rede-nacional-apos-chamar-jornalistas-de-hospedes-no-ct-do-corinthians]]>",
+      "time": "04/11 · 13:23",
+      "pubDate": "Wed, 04 Nov 2026 10:23:10 -0300"
     },
     {
       "source": "Bolavip",
@@ -173,32 +125,86 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Félix Torres, vinculado ao Corinthians, é afastado no Internacional e negocia para jogar na LDU em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/felix-torres-vinculado-ao-corinthians-e-afastado-no-internacional-e-negocia-para-jogar-na-ldu-em-2027]]>",
-      "time": "31/10 · 23:05",
-      "pubDate": "Sat, 31 Oct 2026 20:05:32 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Opinião: Seedorf acertou em cheio ao mudar posição de Matheus Bidu e merece elogios no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/opiniao-seedorf-acertou-em-cheio-ao-mudar-posicao-de-matheus-bidu-e-merece-elogios-no-corinthians]]>",
       "time": "31/10 · 16:00",
       "pubDate": "Sat, 31 Oct 2026 13:00:58 -0300"
     },
     {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians faz anúncio da contratação de Lionel Messi como novo reforço após site oficial ser hackeado",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-faz-anuncio-da-contratacao-de-lionel-messi-como-novo-reforco-apos-site-oficial-ser-hackeado]]>",
-      "time": "31/10 · 13:38",
-      "pubDate": "Sat, 31 Oct 2026 10:38:02 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians anuncia saída de preparador de goleiras elogiado por Lelê",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543508/corinthians-anuncia-saida-de-preparador-de-goleiras-elogiado-por-lele",
+      "pubDate": "Wed, 04 Nov 2026 13:47:00 -0300",
+      "date": "04/11 · 16:47"
+    },
     {
       "title": "VÍDEO: É campeão! Jogadores do Corinthians erguem a taça do Brasileirão Sub-17",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130562/e-campeao-jogadores-do-corinthians-erguem-a-taca-do-brasileirao-sub-17",
@@ -222,24 +228,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130554/a-fiel-e-fd-desembarque-do-corinthians-em-santos-com-elenco-no-meio-da-torcida",
       "pubDate": "Tue, 03 Nov 2026 23:23:18 -0300",
       "date": "04/11 · 02:23"
-    },
-    {
-      "title": "VÍDEO: Último treino aberto do Corinthians antes do Majestoso",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130543/ultimo-treino-aberto-do-corinthians-antes-do-majestoso",
-      "pubDate": "Tue, 03 Nov 2026 17:48:46 -0300",
-      "date": "03/11 · 20:48"
-    },
-    {
-      "title": "VÍDEO: Yuri Alberto e Memphis comentam como é trabalhar com Seedorf no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130541/yuri-alberto-e-memphis-comentam-como-e-trabalhar-com-seedorf-no-corinthians",
-      "pubDate": "Tue, 03 Nov 2026 17:13:09 -0300",
-      "date": "03/11 · 20:13"
-    },
-    {
-      "title": "VÍDEO: Memphis Depay é sincero e comenta como pode melhorar no Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130535/memphis-depay-e-sincero-e-comenta-como-pode-melhorar-no-corinthians",
-      "pubDate": "Tue, 03 Nov 2026 15:53:10 -0300",
-      "date": "03/11 · 18:53"
     }
   ]
 };
