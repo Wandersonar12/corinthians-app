@@ -1,70 +1,150 @@
-// Gerado automaticamente em 05/11/2026, 15:51:15
+// Gerado automaticamente em 05/11/2026, 22:57:28
 const LIVE_DATA = {
-  "updatedAt": "2026-11-05T15:51:15.550Z",
+  "updatedAt": "2026-11-05T22:57:28.013Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians explica substituições no Majestoso e atualiza o quadro de saúde de Garro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543577/tecnico-do-corinthians-explica-substituicoes-no-majestoso-e-atualiza-o-quadro-de-saude-de-garro",
-      "time": "05/11 · 15:28",
-      "pubDate": "Thu, 05 Nov 2026 12:28:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se reapresenta e abre preparação para duelo contra o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-preparacao-botafogo-desfalques-brasileirao/",
+      "time": "05/11 · 22:29",
+      "pubDate": "Thu, 05 Nov 2026 22:29:23 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Árbitro cita 'deboche' de meio-campista do Corinthians ao justificar expulsão contra o São Paulo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543602/arbitro-cita-deboche-de-meio-campista-do-corinthians-ao-justificar-expulsao-contra-o-sao-paulo",
-      "time": "05/11 · 15:20",
-      "pubDate": "Thu, 05 Nov 2026 12:20:00 -0300"
+      "title": "Corinthians volta a empatar sem gols após quase três meses; veja retrospecto em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543560/corinthians-volta-a-empatar-sem-gols-apos-quase-tres-meses-veja-retrospecto-em-2026",
+      "time": "05/11 · 22:28",
+      "pubDate": "Thu, 05 Nov 2026 19:28:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Lateral do Corinthians destaca raça no Majestoso e aponta piora no gramado da Vila Belmiro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543590/lateral-do-corinthians-destaca-raca-no-majestoso-e-aponta-piora-no-gramado-da-vila-belmiro",
-      "time": "05/11 · 15:05",
-      "pubDate": "Thu, 05 Nov 2026 12:05:00 -0300"
+      "title": "Especialista detalha lesão de Rodrigo Garro e projeta tempo de recuperação do meia no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543635/especialista-detalha-lesao-de-rodrigo-garro-e-projeta-tempo-de-recuperacao-do-meia-no-corinthians",
+      "time": "05/11 · 22:26",
+      "pubDate": "Thu, 05 Nov 2026 19:26:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians consulta CBF após corte de Danilo e define situação de André",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-consulta-cbf-situacao-danilo-botafogo-andre/",
+      "time": "05/11 · 21:57",
+      "pubDate": "Thu, 05 Nov 2026 21:57:28 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians quebra hiato de dez anos e volta a vencer um torneio de base organizado pela CBF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543518/corinthians-quebra-hiato-de-dez-anos-e-volta-a-vencer-um-torneio-de-base-organizado-pela-cbf",
-      "time": "05/11 · 14:01",
-      "pubDate": "Thu, 05 Nov 2026 11:01:00 -0300"
+      "title": "Corinthians se reapresenta após empate no Majestoso e inicia preparação para enfrentar o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543631/corinthians-se-reapresenta-apos-empate-no-majestoso-e-inicia-preparacao-para-enfrentar-o-botafogo",
+      "time": "05/11 · 21:34",
+      "pubDate": "Thu, 05 Nov 2026 18:34:56 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Zagueiro volta a jogar após mais de um mês em empate do Corinthians no Majestoso",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543542/zagueiro-volta-a-jogar-apos-mais-de-um-mes-em-empate-do-corinthians-no-majestoso",
-      "time": "05/11 · 13:02",
-      "pubDate": "Thu, 05 Nov 2026 10:02:00 -0300"
+      "title": "Técnico comenta situação física de Memphis e não descarta atacante como reserva no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543576/tecnico-comenta-situacao-fisica-de-memphis-e-nao-descarta-atacante-como-reserva-no-corinthians",
+      "time": "05/11 · 21:32",
+      "pubDate": "Thu, 05 Nov 2026 18:32:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians irá reavaliar a convocação de André Luiz à Seleção para evitar desfalque no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543579/corinthians-ira-reavaliar-a-convocacao-de-andre-luiz-a-selecao-para-evitar-desfalque-no-brasileirao",
-      "time": "05/11 · 12:01",
-      "pubDate": "Thu, 05 Nov 2026 09:01:00 -0300"
+      "title": "Corinthians conclui restauração de monumentos em homenagem a torcedores históricos do clube",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543626/corinthians-conclui-restauracao-de-monumentos-em-homenagem-a-torcedores-historicos-do-clube",
+      "time": "05/11 · 21:02",
+      "pubDate": "Thu, 05 Nov 2026 18:02:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Árbitro relata deboche e explica expulsões de jogadores do Corinthians no clássico",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/claus-explica-expulsoes-yuri-alberto-matheus-pereira-corinthians/",
+      "time": "05/11 · 20:45",
+      "pubDate": "Thu, 05 Nov 2026 20:45:56 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe Santo André com retorno de ala e busca vaga na semifinal do Paulista; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543516/corinthians-recebe-santo-andre-com-retorno-de-ala-e-busca-vaga-na-semifinal-do-paulista-saiba-tudo",
-      "time": "05/11 · 11:30",
-      "pubDate": "Thu, 05 Nov 2026 08:30:00 -0300"
+      "title": "Angileri comenta parceria com Bidu e fala sobre melhora no Corinthians com a chegada de Seedorf",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543592/angileri-comenta-parceria-com-bidu-e-fala-sobre-melhora-no-corinthians-com-a-chegada-de-seedorf",
+      "time": "05/11 · 20:31",
+      "pubDate": "Thu, 05 Nov 2026 17:31:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: empate no Majestoso, retorno de ala e saída de coordenador da base",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543573/ultimas-do-corinthians-empate-no-majestoso-retorno-de-ala-e-saida-de-coordenador-da-base",
-      "time": "05/11 · 10:30",
-      "pubDate": "Thu, 05 Nov 2026 07:30:00 -0300"
+      "title": "Seedorf defende Yuri Alberto após empate do Corinthians no Brasileiro e comenta expulsão do atacante",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543578/seedorf-defende-yuri-alberto-apos-empate-do-corinthians-no-brasileiro-e-comenta-expulsao-do-atacante",
+      "time": "05/11 · 19:35",
+      "pubDate": "Thu, 05 Nov 2026 16:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece adversário e detalhes da semifinal do Campeonato Paulista Sub-20 de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543624/corinthians-conhece-adversario-e-detalhes-da-semifinal-do-campeonato-paulista-sub-20-de-futsal",
+      "time": "05/11 · 19:25",
+      "pubDate": "Thu, 05 Nov 2026 16:25:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians confirma estiramento no joelho de Rodrigo Garro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-confirma-estiramento-no-joelho-de-rodrigo-garro/",
+      "time": "05/11 · 18:29",
+      "pubDate": "Thu, 05 Nov 2026 18:29:34 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf mostra confiança na recuperação do Corinthians: &#8220;Nas nossas mãos&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-mostra-confianca-na-recuperacao-do-corinthians-nas-nossas-maos/",
+      "time": "05/11 · 18:23",
+      "pubDate": "Thu, 05 Nov 2026 18:23:57 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Pedro Raul completa 30 anos; relembre seu gol na vitória do Corinthians sobre o Santo André",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/pedro-raul-completa-30-anos-relembre-seu-gol-na-vitoria-do-corinthians-sobre-o-santo-andre/",
+      "time": "05/11 · 16:40",
+      "pubDate": "Thu, 05 Nov 2026 16:40:31 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André Rizek não alivia e humilha Memphis Depay, do Corinthians, em post oficial: “É jogar com um a menos”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-rizek-nao-alivia-e-humilha-memphis-depay-do-corinthians-em-post-oficial-e-jogar-com-um-a-menos]]>",
+      "time": "05/11 · 14:49",
+      "pubDate": "Thu, 05 Nov 2026 11:49:58 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians estuda enviar proposta à CBF que atinge diretamente convocação feita por Carlo Ancelotti",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-enviar-proposta-a-cbf-que-atinge-diretamente-convocacao-feita-por-carlo-ancelotti]]>",
+      "time": "05/11 · 14:06",
+      "pubDate": "Thu, 05 Nov 2026 11:06:14 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Yuri Alberto é expulso e desfalca Corinthians na reta final",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-e-expulso-contra-o-sao-paulo-e-desfalca-o-corinthians-na-reta-final-decisiva-do-brasileirao]]>",
+      "time": "05/11 · 13:37",
+      "pubDate": "Thu, 05 Nov 2026 10:37:39 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf vai na contramão ao defender Memphis Depay e André Carrillo no Corinthians: “Foi importante”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-vai-na-contramao-ao-defender-memphis-depay-e-andre-carrillo-no-corinthians-foi-importante]]>",
+      "time": "05/11 · 11:45",
+      "pubDate": "Thu, 05 Nov 2026 08:45:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -83,52 +163,20 @@ const LIVE_DATA = {
       "pubDate": "Thu, 05 Nov 2026 09:00:53 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações: Angileri salva o Corinthians e Yuri Alberto é vilão no clássico",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/notas-corinthians-angileri-yuri-alberto-classico/",
-      "time": "05/11 · 08:00",
-      "pubDate": "Thu, 05 Nov 2026 08:00:52 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians tem gol anulado, perde Yuri Alberto expulso e empata com São Paulo no Brasileirão",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-tem-gol-anulado-perde-yuri-alberto-expulso-e-empata-com-sao-paulo-no-brasileirao]]>",
+      "time": "05/11 · 02:29",
+      "pubDate": "Wed, 04 Nov 2026 23:29:44 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf exalta espírito do Corinthians e aposta em recuperação de Memphis",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-exalta-corinthians-previsao-memphis-depay/",
-      "time": "05/11 · 03:54",
-      "pubDate": "Thu, 05 Nov 2026 03:54:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Herói do Corinthians, Angileri valoriza empate no clássico e avisa: &#8220;Vamos lutar até o final&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/angileri-valoriza-empate-recado-corinthians-z4/",
-      "time": "05/11 · 02:52",
-      "pubDate": "Thu, 05 Nov 2026 02:52:55 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja os melhores momentos de São Paulo 0 x 0 Corinthians pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-os-melhores-momentos-de-sao-paulo-0-x-0-corinthians-pelo-brasileirao/",
-      "time": "05/11 · 02:43",
-      "pubDate": "Thu, 05 Nov 2026 02:43:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians perde Yuri Alberto e mais dois por suspensão para duelo contra o Botafogo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-desfalques-botafogo-suspensoes-yuri-alberto/",
-      "time": "05/11 · 02:38",
-      "pubDate": "Thu, 05 Nov 2026 02:38:50 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo e Corinthians empatam clássico com chances perdidas, gol anulado e expulsão",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-corinthians-empate-sem-gols-brasileirao/",
-      "time": "05/11 · 02:30",
-      "pubDate": "Thu, 05 Nov 2026 02:30:26 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Dorival Júnior é isento de culpa após aproveitamento não melhorar com demissão anunciada no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-e-isento-de-culpa-apos-aproveitamento-nao-melhorar-com-demissao-anunciada-no-corinthians]]>",
+      "time": "05/11 · 00:34",
+      "pubDate": "Wed, 04 Nov 2026 21:34:43 -0300"
     },
     {
       "source": "Bolavip",
@@ -145,60 +193,18 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-liga-alerta-com-raphael-claus-como-arbitro-principal-e-daiane-muniz-no-var-do-majestoso]]>",
       "time": "04/11 · 20:49",
       "pubDate": "Wed, 04 Nov 2026 17:49:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Dorival Júnior é isento de culpa após aproveitamento não melhorar com demissão anunciada no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/dorival-junior-e-isento-de-culpa-apos-aproveitamento-nao-melhorar-com-demissao-anunciada-no-corinthians]]>",
-      "time": "04/11 · 17:59",
-      "pubDate": "Wed, 04 Nov 2026 14:59:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf é duramente criticado em rede nacional após chamar jornalistas de hóspedes no CT do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-e-duramente-criticado-em-rede-nacional-apos-chamar-jornalistas-de-hospedes-no-ct-do-corinthians]]>",
-      "time": "04/11 · 13:23",
-      "pubDate": "Wed, 04 Nov 2026 10:23:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Yuri Alberto se rende ao talento de atacante do Corinthians: “Gosto muito de dividir o campo com ele”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-se-rende-ao-talento-de-atacante-do-corinthians-gosto-muito-de-dividir-o-campo-com-ele]]>",
-      "time": "03/11 · 18:27",
-      "pubDate": "Tue, 03 Nov 2026 15:27:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Memphis Depay participou do treino e presença no Majestoso é provável como reserva do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-participou-do-treino-e-presenca-no-majestoso-e-provavel-como-reserva-do-corinthians]]>",
-      "time": "03/11 · 16:45",
-      "pubDate": "Tue, 03 Nov 2026 13:45:44 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Petros ‘crava’ pressão maior ao Corinthians antes do Majestoso: “Vai ter que dar um jeito de ganhar”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/petros-crava-pressao-maior-ao-corinthians-antes-do-majestoso-vai-ter-que-dar-um-jeito-de-ganhar]]>",
-      "time": "03/11 · 12:37",
-      "pubDate": "Tue, 03 Nov 2026 09:37:08 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Conmebol não aceita licença de treinador de Seedorf, mas treinador segue podendo treinar Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/conmebol-nao-aceita-licenca-de-treinador-de-seedorf-mas-treinador-segue-podendo-treinar-corinthians]]>",
-      "time": "02/11 · 23:57",
-      "pubDate": "Mon, 02 Nov 2026 20:57:32 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Corinthians volta a empatar sem gols após quase três meses; veja retrospecto em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543560/corinthians-volta-a-empatar-sem-gols-apos-quase-tres-meses-veja-retrospecto-em-2026",
+      "pubDate": "Thu, 05 Nov 2026 19:28:00 -0300",
+      "date": "05/11 · 22:28"
+    },
     {
       "title": "VÍDEO: Coletiva do técnico Seedorf após empate do Corinthians contra o São Paulo na Vila Belmiro",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130574/coletiva-do-tecnico-seedorf-apos-empate-do-corinthians-contra-o-sao-paulo-na-vila-belmiro",
@@ -210,18 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130573/angileri-comenta-lance-que-evitou-derrota-do-corinthians-contra-o-sao-paulo",
       "pubDate": "Thu, 05 Nov 2026 00:57:05 -0300",
       "date": "05/11 · 03:57"
-    },
-    {
-      "title": "VÍDEO: Vessoni desabafa após o empate do Corinthians contra o São Paulo",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130571/vessoni-desabafa-apos-o-empate-do-corinthians-contra-o-sao-paulo",
-      "pubDate": "Thu, 05 Nov 2026 00:32:54 -0300",
-      "date": "05/11 · 03:32"
-    },
-    {
-      "title": "Memphis volta ao estádio em que marcou pela última vez e busca encerrar seca de gols no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543522/memphis-volta-ao-estadio-em-que-marcou-pela-ultima-vez-e-busca-encerrar-seca-de-gols-no-corinthians",
-      "pubDate": "Wed, 04 Nov 2026 19:59:00 -0300",
-      "date": "04/11 · 22:59"
     }
   ]
 };
