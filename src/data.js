@@ -1,78 +1,94 @@
-// Gerado automaticamente em 07/11/2026, 14:27:01
+// Gerado automaticamente em 07/11/2026, 21:07:39
 const LIVE_DATA = {
-  "updatedAt": "2026-11-07T14:27:01.796Z",
+  "updatedAt": "2026-11-07T21:07:39.556Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Apreensão e festa marcam bastidores do Corinthians na conquista do Campeonato Brasileiro Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543699/apreensao-e-festa-marcam-bastidores-do-corinthians-na-conquista-do-campeonato-brasileiro-sub-17",
-      "time": "07/11 · 14:01",
-      "pubDate": "Sat, 07 Nov 2026 11:01:00 -0300"
+      "title": "Corinthians perde duas vezes seguidas pela primeira vez em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543720/corinthians-perde-duas-vezes-seguidas-pela-primeira-vez-em-2026",
+      "time": "07/11 · 21:01",
+      "pubDate": "Sat, 07 Nov 2026 18:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians vê chance de rebaixamento no Brasileirão ultrapassar os 50% após a 34ª rodada",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543711/corinthians-ve-chance-de-rebaixamento-no-brasileirao-ultrapassar-os-50-por-cento-apos-a-34-rodada",
-      "time": "07/11 · 13:33",
-      "pubDate": "Sat, 07 Nov 2026 10:33:00 -0300"
+      "title": "Corinthians marca nos acréscimos e empata com a Ferroviária na semifinal do Paulista Feminino Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543728/corinthians-marca-nos-acrescimos-e-empata-com-a-ferroviaria-na-semifinal-do-paulista-feminino-sub-17",
+      "time": "07/11 · 20:02",
+      "pubDate": "Sat, 07 Nov 2026 17:02:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians visita a Ferroviária pelas semifinais do Paulistão Feminino Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543681/corinthians-visita-a-ferroviaria-pelas-semifinais-do-paulistao-feminino-sub-17-saiba-tudo",
-      "time": "07/11 · 12:30",
-      "pubDate": "Sat, 07 Nov 2026 09:30:00 -0300"
+      "title": "Derrota no Paulistão Sub-17 amplia sequência negativa do Corinthians contra o São Paulo; veja qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543721/derrota-no-paulistao-sub-17-amplia-sequencia-negativa-do-corinthians-contra-o-sao-paulo-veja-qual",
+      "time": "07/11 · 19:03",
+      "pubDate": "Sat, 07 Nov 2026 16:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians recebe São Paulo em busca de vantagem nas quartas do Paulista Sub-17; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543688/corinthians-recebe-sao-paulo-em-busca-de-vantagem-nas-quartas-do-paulista-sub-17-saiba-tudo",
-      "time": "07/11 · 11:30",
-      "pubDate": "Sat, 07 Nov 2026 08:30:00 -0300"
+      "title": "Fixo do Corinthians comemora classificação à semifinal do Paulista de Futsal e projeta título",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543647/fixo-do-corinthians-comemora-classificacao-a-semifinal-do-paulista-de-futsal-e-projeta-titulo",
+      "time": "07/11 · 18:01",
+      "pubDate": "Sat, 07 Nov 2026 15:01:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Últimas do Corinthians: jogo-treino, rejeição da Conmebol e cobrança do MP-SP",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543698/ultimas-do-corinthians-jogo-treino-rejeicao-da-conmebol-e-cobranca-do-mp-sp",
-      "time": "07/11 · 10:30",
-      "pubDate": "Sat, 07 Nov 2026 07:30:00 -0300"
+      "title": "Corinthians sonda treinadora do Colo-Colo para assumir comando da equipe feminina",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543724/corinthians-sonda-treinadora-do-colo-colo-para-assumir-comando-da-equipe-feminina",
+      "time": "07/11 · 17:13",
+      "pubDate": "Sat, 07 Nov 2026 14:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Eleições MT: Comissão Eleitoral do Corinthians aceita candidatura de Sergio Janikian à presidência",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543701/eleicoes-mt-comissao-eleitoral-do-corinthians-aceita-candidatura-de-sergio-janikian-a-presidencia",
-      "time": "07/11 · 03:12",
-      "pubDate": "Sat, 07 Nov 2026 00:12:00 -0300"
+      "title": "Corinthians tem trio titular na conquista do quarto lugar da Copa do Mundo Feminina Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543723/corinthians-tem-trio-titular-na-conquista-do-quarto-lugar-da-copa-do-mundo-feminina-sub-17",
+      "time": "07/11 · 17:06",
+      "pubDate": "Sat, 07 Nov 2026 14:06:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Campeão mundial pelo Corinthians irá disputar Copa do Mundo de Futebol Amador",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543671/campeao-mundial-pelo-corinthians-ira-disputar-copa-do-mundo-de-futebol-amador",
-      "time": "07/11 · 01:31",
-      "pubDate": "Fri, 06 Nov 2026 22:31:00 -0300"
+      "title": "Goleiro do Corinthians integra nova comissão da LNF ao lado de outros atletas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543717/goleiro-do-corinthians-integra-nova-comissao-da-lnf-ao-lado-de-outros-atletas",
+      "time": "07/11 · 16:03",
+      "pubDate": "Sat, 07 Nov 2026 13:03:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians é superado pela Unifacisa e sofre terceira derrota em quatro jogos no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543697/corinthians-e-superado-pela-unifacisa-e-sofre-terceira-derrota-em-quatro-jogos-no-nbb",
-      "time": "07/11 · 01:17",
-      "pubDate": "Fri, 06 Nov 2026 22:17:00 -0300"
+      "title": "Corinthians sofre com falhas defensivas e larga atrás nas quartas de final do Paulistão Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543713/corinthians-sofre-com-falhas-defensivas-e-larga-atras-nas-quartas-de-final-do-paulistao-sub-17",
+      "time": "07/11 · 14:52",
+      "pubDate": "Sat, 07 Nov 2026 11:52:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Situação de Memphis Depay é pior do que esperavam no Corinthians e não deve substituir Yuri Alberto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/situacao-de-memphis-depay-e-pior-do-que-esperavam-no-corinthians-e-nao-deve-substituir-yuri-alberto]]>",
+      "time": "07/11 · 12:34",
+      "pubDate": "Sat, 07 Nov 2026 09:34:21 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Xavi anuncia lista de 25 convocados na Seleção da Holanda novamente sem Memphis Depay, do Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/xavi-anuncia-lista-de-25-convocados-na-selecao-da-holanda-novamente-sem-memphis-depay-do-corinthians]]>",
-      "time": "06/11 · 20:36",
-      "pubDate": "Fri, 06 Nov 2026 17:36:15 -0300"
+      "time": "07/11 · 01:40",
+      "pubDate": "Fri, 06 Nov 2026 22:40:42 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vídeo: Live Por Ti cobra comprometimento dos jogadores do Corinthians: “Vão correr, vão lutar”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/live-por-ti-cobra-comprometimento-dos-jogadores-do-corinthians-vao-correr-vao-lutar]]>",
+      "time": "07/11 · 00:33",
+      "pubDate": "Fri, 06 Nov 2026 21:33:03 -0300"
     },
     {
       "source": "Bolavip",
@@ -101,14 +117,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Yuri Alberto é expulso e desfalca Corinthians na reta final",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/yuri-alberto-e-expulso-contra-o-sao-paulo-e-desfalca-o-corinthians-na-reta-final-decisiva-do-brasileirao]]>",
-      "time": "05/11 · 18:44",
-      "pubDate": "Thu, 05 Nov 2026 15:44:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Corinthians estuda enviar proposta à CBF que atinge diretamente convocação feita por Carlo Ancelotti",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-enviar-proposta-a-cbf-que-atinge-diretamente-convocacao-feita-por-carlo-ancelotti]]>",
       "time": "05/11 · 18:37",
@@ -121,14 +129,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-rizek-nao-alivia-e-humilha-memphis-depay-do-corinthians-em-post-oficial-e-jogar-com-um-a-menos]]>",
       "time": "05/11 · 14:49",
       "pubDate": "Thu, 05 Nov 2026 11:49:58 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf vai na contramão ao defender Memphis Depay e André Carrillo no Corinthians: “Foi importante”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-vai-na-contramao-ao-defender-memphis-depay-e-andre-carrillo-no-corinthians-foi-importante]]>",
-      "time": "05/11 · 11:45",
-      "pubDate": "Thu, 05 Nov 2026 08:45:34 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -199,6 +199,12 @@ const LIVE_DATA = {
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Goleiro do Corinthians integra nova comissão da LNF ao lado de outros atletas",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543717/goleiro-do-corinthians-integra-nova-comissao-da-lnf-ao-lado-de-outros-atletas",
+      "pubDate": "Sat, 07 Nov 2026 13:03:00 -0300",
+      "date": "07/11 · 16:03"
+    },
     {
       "title": "Corinthians publica vídeo de evento sobre desenvolvimento esportivo em parceria com o CBC",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/543682/corinthians-publica-video-de-evento-sobre-desenvolvimento-esportivo-em-parceria-com-o-cbc",
