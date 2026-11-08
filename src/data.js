@@ -1,12 +1,36 @@
-// Gerado automaticamente em 07/11/2026, 21:07:39
+// Gerado automaticamente em 08/11/2026, 00:56:56
 const LIVE_DATA = {
-  "updatedAt": "2026-11-07T21:07:39.556Z",
+  "updatedAt": "2026-11-08T00:56:56.265Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians perde duas vezes seguidas pela primeira vez em 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543720/corinthians-perde-duas-vezes-seguidas-pela-primeira-vez-em-2026",
+      "title": "Corinthians mantém tabu diante da Ferroviária no Sub-17 após empate em semifinal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543727/corinthians-mantem-tabu-diante-da-ferroviaria-no-sub-17-apos-empate-em-semifinal",
+      "time": "08/11 · 00:04",
+      "pubDate": "Sat, 07 Nov 2026 21:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro do Corinthians acompanha gols de filho e goleada do Sub-11 no Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543742/zagueiro-do-corinthians-acompanha-gols-de-filho-e-goleada-do-sub-11-no-paulista",
+      "time": "07/11 · 23:02",
+      "pubDate": "Sat, 07 Nov 2026 20:02:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Zagueiro revelado pelo Corinthians garante permanência na Série A",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543740/zagueiro-revelado-pelo-corinthians-garante-permanencia-na-serie-a",
+      "time": "07/11 · 22:04",
+      "pubDate": "Sat, 07 Nov 2026 19:04:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians perde duas vezes seguidas no Sub-17 pela primeira vez em 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543720/corinthians-perde-duas-vezes-seguidas-no-sub-17-pela-primeira-vez-em-2026",
       "time": "07/11 · 21:01",
       "pubDate": "Sat, 07 Nov 2026 18:01:00 -0300"
     },
@@ -27,12 +51,28 @@ const LIVE_DATA = {
       "pubDate": "Sat, 07 Nov 2026 16:03:00 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "São Paulo elimina Palmeiras no sub-15 e vence Corinthians no sub-17 pelo Paulista",
+      "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-elimina-palmeiras-no-sub-15-e-vence-corinthians-no-sub-17-pelo-paulista/",
+      "time": "07/11 · 18:51",
+      "pubDate": "Sat, 07 Nov 2026 18:51:43 +0000"
+    },
+    {
       "source": "Meu Timao",
       "color": "#1a7a3a",
       "title": "Fixo do Corinthians comemora classificação à semifinal do Paulista de Futsal e projeta título",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/543647/fixo-do-corinthians-comemora-classificacao-a-semifinal-do-paulista-de-futsal-e-projeta-titulo",
       "time": "07/11 · 18:01",
       "pubDate": "Sat, 07 Nov 2026 15:01:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Murillo ‘crava’ permanência do Corinthians na Série A do Brasileirão em 2027: “Não cai, nunca”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/murillo-crava-permanencia-do-corinthians-na-serie-a-do-brasileirao-em-2027-nao-cai-nunca]]>",
+      "time": "07/11 · 17:55",
+      "pubDate": "Sat, 07 Nov 2026 14:55:37 -0300"
     },
     {
       "source": "Meu Timao",
@@ -43,36 +83,44 @@ const LIVE_DATA = {
       "pubDate": "Sat, 07 Nov 2026 14:13:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians tem trio titular na conquista do quarto lugar da Copa do Mundo Feminina Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543723/corinthians-tem-trio-titular-na-conquista-do-quarto-lugar-da-copa-do-mundo-feminina-sub-17",
-      "time": "07/11 · 17:06",
-      "pubDate": "Sat, 07 Nov 2026 14:06:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf pode amargar ausência de Lingard, Garro, Raniele e + 6 jogadores em Corinthians x Botafogo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-pode-amargar-ausencia-de-lingard-garro-raniele-e-7-jogadores-em-corinthians-x-botafogo]]>",
+      "time": "07/11 · 15:52",
+      "pubDate": "Sat, 07 Nov 2026 12:52:54 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Goleiro do Corinthians integra nova comissão da LNF ao lado de outros atletas",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543717/goleiro-do-corinthians-integra-nova-comissao-da-lnf-ao-lado-de-outros-atletas",
-      "time": "07/11 · 16:03",
-      "pubDate": "Sat, 07 Nov 2026 13:03:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Comissão Eleitoral do Corinthians reconsidera decisão e libera candidatura de Janikian",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-libera-candidatura-sergio-janikian/",
+      "time": "07/11 · 15:17",
+      "pubDate": "Sat, 07 Nov 2026 15:17:17 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians sofre com falhas defensivas e larga atrás nas quartas de final do Paulistão Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543713/corinthians-sofre-com-falhas-defensivas-e-larga-atras-nas-quartas-de-final-do-paulistao-sub-17",
-      "time": "07/11 · 14:52",
-      "pubDate": "Sat, 07 Nov 2026 11:52:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians treina forte e faz jogo-treino contra a Portuguesa; veja os gols",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treina-forte-e-faz-jogo-treino-contra-a-portuguesa-veja-os-gols/",
+      "time": "07/11 · 14:46",
+      "pubDate": "Sat, 07 Nov 2026 14:46:55 +0000"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Situação de Memphis Depay é pior do que esperavam no Corinthians e não deve substituir Yuri Alberto",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/situacao-de-memphis-depay-e-pior-do-que-esperavam-no-corinthians-e-nao-deve-substituir-yuri-alberto]]>",
-      "time": "07/11 · 12:34",
-      "pubDate": "Sat, 07 Nov 2026 09:34:21 -0300"
+      "time": "07/11 · 14:39",
+      "pubDate": "Sat, 07 Nov 2026 11:39:26 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf estuda opções para suprir desfalques do Corinthians contra o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-estuda-opcoes-para-suprir-desfalques-do-corinthians-contra-o-botafogo/",
+      "time": "07/11 · 10:00",
+      "pubDate": "Sat, 07 Nov 2026 10:00:29 +0000"
     },
     {
       "source": "Bolavip",
@@ -91,12 +139,36 @@ const LIVE_DATA = {
       "pubDate": "Fri, 06 Nov 2026 21:33:03 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians presenteia Romarinho em jogo-treino contra Portuguesa",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-presenteia-romarinho-em-jogo-treino-contra-portuguesa/",
+      "time": "06/11 · 19:12",
+      "pubDate": "Fri, 06 Nov 2026 19:12:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do jogo-treino entre Corinthians e Portuguesa nesta sexta-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-jogo-treino-entre-corinthians-e-portuguesa-nesta-sexta-feira/",
+      "time": "06/11 · 18:37",
+      "pubDate": "Fri, 06 Nov 2026 18:37:11 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Gabigol responde sobre foto com camisa do Corinthians e desmente negociações: “Não tinha interesse”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/gabigol-responde-sobre-foto-com-camisa-do-corinthians-e-desmente-negociacoes-nunca-falou-com-ninguem]]>",
       "time": "06/11 · 18:35",
       "pubDate": "Fri, 06 Nov 2026 15:35:43 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz jogo-treino contra Portuguesa em meio à preparação para pegar o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-jogo-treino-contra-portuguesa-em-meio-a-preparacao-para-pegar-o-botafogo/",
+      "time": "06/11 · 18:32",
+      "pubDate": "Fri, 06 Nov 2026 18:32:20 +0000"
     },
     {
       "source": "Bolavip",
@@ -107,98 +179,32 @@ const LIVE_DATA = {
       "pubDate": "Fri, 06 Nov 2026 14:16:19 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians supera 50% de risco de rebaixamento; veja probabilidades",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/risco-rebaixamento-corinthians-sao-paulo-mirassol/",
+      "time": "06/11 · 13:38",
+      "pubDate": "Fri, 06 Nov 2026 13:38:48 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Garro tem estiramento no ligamento colateral medial detectado e liga alerta para recuperação no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/garro-tem-estiramento-no-ligamento-colateral-medial-detectado-e-liga-alerta-para-recuperacao-no-corinthians]]>",
       "time": "05/11 · 20:54",
       "pubDate": "Thu, 05 Nov 2026 17:54:53 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians estuda enviar proposta à CBF que atinge diretamente convocação feita por Carlo Ancelotti",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-enviar-proposta-a-cbf-que-atinge-diretamente-convocacao-feita-por-carlo-ancelotti]]>",
-      "time": "05/11 · 18:37",
-      "pubDate": "Thu, 05 Nov 2026 15:37:23 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "André Rizek não alivia e humilha Memphis Depay, do Corinthians, em post oficial: “É jogar com um a menos”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-rizek-nao-alivia-e-humilha-memphis-depay-do-corinthians-em-post-oficial-e-jogar-com-um-a-menos]]>",
-      "time": "05/11 · 14:49",
-      "pubDate": "Thu, 05 Nov 2026 11:49:58 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
   "highlights": [
+    {
+      "title": "Zagueiro do Corinthians acompanha gols de filho e goleada do Sub-11 no Paulista",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543742/zagueiro-do-corinthians-acompanha-gols-de-filho-e-goleada-do-sub-11-no-paulista",
+      "pubDate": "Sat, 07 Nov 2026 20:02:00 -0300",
+      "date": "07/11 · 23:02"
+    },
     {
       "title": "Goleiro do Corinthians integra nova comissão da LNF ao lado de outros atletas",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/543717/goleiro-do-corinthians-integra-nova-comissao-da-lnf-ao-lado-de-outros-atletas",
