@@ -1,7 +1,39 @@
-// Gerado automaticamente em 08/11/2026, 21:24:13
+// Gerado automaticamente em 09/11/2026, 01:15:34
 const LIVE_DATA = {
-  "updatedAt": "2026-11-08T21:24:13.979Z",
+  "updatedAt": "2026-11-09T01:15:34.241Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca atingir feito inédito na temporada no Sub-20; saiba qual",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543759/corinthians-busca-atingir-feito-inedito-na-temporada-no-sub-20-saiba-qual",
+      "time": "09/11 · 01:01",
+      "pubDate": "Sun, 08 Nov 2026 22:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Comissão técnica da base do Corinthians detalha integração dos jovens com o time profissional",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543736/comissao-tecnica-da-base-do-corinthians-detalha-integracao-dos-jovens-com-o-time-profissional",
+      "time": "09/11 · 00:00",
+      "pubDate": "Sun, 08 Nov 2026 21:00:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians busca chegar à decisão do Paulista Feminino Sub-20 pela primeira vez na história",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543762/corinthians-busca-chegar-a-decisao-do-paulista-feminino-sub-20-pela-primeira-vez-na-historia",
+      "time": "08/11 · 23:01",
+      "pubDate": "Sun, 08 Nov 2026 20:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante sobe posições na artilharia do Corinthians Sub-17 após marcar contra o São Paulo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543719/atacante-sobe-posicoes-na-artilharia-do-corinthians-sub-17-apos-marcar-contra-o-sao-paulo",
+      "time": "08/11 · 22:07",
+      "pubDate": "Sun, 08 Nov 2026 19:07:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -35,44 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 08 Nov 2026 15:06:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Sub-20 feminino do Corinthians comenta aprendizados em curso da Uefa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543749/tecnica-do-sub-20-feminino-do-corinthians-comenta-aprendizados-em-curso-da-uefa",
-      "time": "08/11 · 17:04",
-      "pubDate": "Sun, 08 Nov 2026 14:04:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Dupla do Corinthians visita paddock da Fórmula 1 e atacante manifesta torcida para piloto holandês",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543756/dupla-do-corinthians-visita-paddock-da-formula-1-e-atacante-manifesta-torcida-para-piloto-holandes",
-      "time": "08/11 · 16:03",
-      "pubDate": "Sun, 08 Nov 2026 13:03:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitória do NYCFC em D.C.",
       "url": "https://www.gazetaesportiva.com/todas-as-noticias/ex-corinthians-talles-magno-decide-no-fim-apos-contra-ataque-e-garante-vitoria-do-nycfc-em-d-c/",
       "time": "08/11 · 15:56",
       "pubDate": "Sun, 08 Nov 2026 15:56:28 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante do Corinthians chega a Singapura para amistosos com a Seleção Brasileira",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543757/volante-do-corinthians-chega-a-singapura-para-amistosos-com-a-selecao-brasileira",
-      "time": "08/11 · 15:09",
-      "pubDate": "Sun, 08 Nov 2026 12:09:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians volta a atrasar parcelas de acordo com a PGFN e acumula dívida de R$ 26,1 milhões",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543753/corinthians-volta-a-atrasar-parcelas-de-acordo-com-a-pgfn-e-acumula-divida-de-r-261-milhoes",
-      "time": "08/11 · 14:51",
-      "pubDate": "Sun, 08 Nov 2026 11:51:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
