@@ -1,22 +1,94 @@
-// Gerado automaticamente em 09/11/2026, 17:52:20
+// Gerado automaticamente em 10/11/2026, 00:54:17
 const LIVE_DATA = {
-  "updatedAt": "2026-11-09T17:52:20.630Z",
+  "updatedAt": "2026-11-10T00:54:17.501Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Técnico do Corinthians Sub-17 destaca mentalidade e versatilidade de Lucca Caramico",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543737/tecnico-do-corinthians-sub-17-destaca-mentalidade-e-versatilidade-de-lucca-caramico",
-      "time": "09/11 · 17:34",
-      "pubDate": "Mon, 09 Nov 2026 14:34:00 -0300"
+      "title": "Corinthians supera susto no fim e vence Basquete Cearense fora de casa pelo NBB",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543806/corinthians-supera-susto-no-fim-e-vence-basquete-cearense-fora-de-casa-pelo-nbb",
+      "time": "10/11 · 00:28",
+      "pubDate": "Mon, 09 Nov 2026 21:28:57 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "VÍDEO: Conheça a maior joia da base do Corinthians atualmente",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130613/conheca-a-maior-joia-da-base-do-corinthians-atualmente",
-      "time": "09/11 · 17:05",
-      "pubDate": "Mon, 09 Nov 2026 14:05:25 -0300"
+      "title": "Corinthians encerra sequência positiva na Fazendinha em derrota na semifinal do Paulista Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543781/corinthians-encerra-sequencia-positiva-na-fazendinha-em-derrota-na-semifinal-do-paulista-sub-20",
+      "time": "09/11 · 23:33",
+      "pubDate": "Mon, 09 Nov 2026 20:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Volante revelado pelo Corinthians busca afirmação em terceiro empréstimo desde transferência ao PSG",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543799/volante-revelado-pelo-corinthians-busca-afirmacao-em-terceiro-emprestimo-desde-transferencia-ao-psg",
+      "time": "09/11 · 22:31",
+      "pubDate": "Mon, 09 Nov 2026 19:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Ex-atacante do Corinthians marca gol decisivo em última rodada da MLS",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543795/ex-atacante-do-corinthians-marca-gol-decisivo-em-ultima-rodada-da-mls",
+      "time": "09/11 · 22:28",
+      "pubDate": "Mon, 09 Nov 2026 19:28:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians conhece detalhes da semifinal do Campeonato Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543817/corinthians-conhece-detalhes-da-semifinal-do-campeonato-paulista-de-futsal",
+      "time": "09/11 · 21:53",
+      "pubDate": "Mon, 09 Nov 2026 18:53:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians retoma treinos e intensifica preparação para duelo contra o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-retoma-treinos-e-intensifica-preparacao-para-duelo-contra-o-botafogo/",
+      "time": "09/11 · 21:46",
+      "pubDate": "Mon, 09 Nov 2026 21:46:52 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Auxiliar do Corinthians destaca planejamento para superar desfalques no Paulista Sub-17",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543738/auxiliar-do-corinthians-destaca-planejamento-para-superar-desfalques-no-paulista-sub-17",
+      "time": "09/11 · 21:35",
+      "pubDate": "Mon, 09 Nov 2026 18:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians retoma atividades com treino em dois períodos visando duelo com o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543811/corinthians-retoma-atividades-com-treino-em-dois-periodos-visando-duelo-com-o-botafogo",
+      "time": "09/11 · 21:15",
+      "pubDate": "Mon, 09 Nov 2026 18:15:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Confira as fotos do treino do Corinthians desta segunda-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-do-treino-do-corinthians-desta-segunda-feira-3/",
+      "time": "09/11 · 21:11",
+      "pubDate": "Mon, 09 Nov 2026 21:11:33 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Quem você escolheria para ser o novo presidente do Corinthians? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543798/quem-voce-escolheria-para-ser-o-novo-presidente-do-corinthians-vote-na-enquete-do-meu-timao",
+      "time": "09/11 · 21:11",
+      "pubDate": "Mon, 09 Nov 2026 18:11:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se reapresenta no CT Dr. Joaquim Grava",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-se-reapresenta-no-ct-dr-joaquim-grava/",
+      "time": "09/11 · 20:36",
+      "pubDate": "Mon, 09 Nov 2026 20:36:37 +0000"
     },
     {
       "source": "Gazeta Esportiva",
@@ -27,60 +99,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 09 Nov 2026 16:50:33 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se apoia em invencibilidade contra o Palmeiras para chegar à final do Paulistão Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543761/corinthians-se-apoia-em-invencibilidade-contra-o-palmeiras-para-chegar-a-final-do-paulistao-sub-20",
-      "time": "09/11 · 16:33",
-      "pubDate": "Mon, 09 Nov 2026 13:33:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Yuri Alberto pega dois jogos de suspensão e vira desfalque no Corinthians",
       "url": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-e-suspenso-por-dois-jogos-e-desfalca-o-corinthians/",
       "time": "09/11 · 15:32",
       "pubDate": "Mon, 09 Nov 2026 15:32:47 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Treinador do Corinthians Futsal publica nota de repúdio após episódio de racismo na LNF",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543772/treinador-do-corinthians-futsal-publica-nota-de-repudio-apos-episodio-de-racismo-na-lnf",
-      "time": "09/11 · 15:31",
-      "pubDate": "Mon, 09 Nov 2026 12:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Yuri Alberto é suspenso pelo STJD e desfalca o Corinthians por duas partidas; volante é advertido",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543782/yuri-alberto-e-suspenso-pelo-stjd-e-desfalca-o-corinthians-por-duas-partidas-volante-e-advertido",
-      "time": "09/11 · 14:34",
-      "pubDate": "Mon, 09 Nov 2026 11:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians terá semana decisiva nas categorias de base e no futsal; confira a agenda",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543778/corinthians-tera-semana-decisiva-nas-categorias-de-base-e-no-futsal-confira-a-agenda",
-      "time": "09/11 · 14:25",
-      "pubDate": "Mon, 09 Nov 2026 11:25:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Xavi explica ausência de atacante do Corinthians na convocação para a Data Fifa de novembro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543780/xavi-explica-ausencia-de-atacante-do-corinthians-na-convocacao-para-a-data-fifa-de-novembro",
-      "time": "09/11 · 13:15",
-      "pubDate": "Mon, 09 Nov 2026 10:15:21 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians recebe o Palmeiras de olho em vaga na final do Paulistão Feminino Sub-20; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543760/corinthians-recebe-o-palmeiras-de-olho-em-vaga-na-final-do-paulistao-feminino-sub-20-saiba-tudo",
-      "time": "09/11 · 12:31",
-      "pubDate": "Mon, 09 Nov 2026 09:31:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -107,22 +131,6 @@ const LIVE_DATA = {
       "pubDate": "Sun, 08 Nov 2026 15:56:28 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Seedorf, Corinthians volta a ter sequência sem sofrer gols após três meses",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-seedorf-corinthians-volta-a-ter-sequencia-sem-sofrer-gols-apos-tres-meses/",
-      "time": "08/11 · 10:00",
-      "pubDate": "Sun, 08 Nov 2026 10:00:06 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "São Paulo elimina Palmeiras no sub-15 e vence Corinthians no sub-17 pelo Paulista",
-      "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-elimina-palmeiras-no-sub-15-e-vence-corinthians-no-sub-17-pelo-paulista/",
-      "time": "07/11 · 18:51",
-      "pubDate": "Sat, 07 Nov 2026 18:51:43 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Murillo ‘crava’ permanência do Corinthians na Série A do Brasileirão em 2027: “Não cai, nunca”",
@@ -137,14 +145,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-pode-amargar-ausencia-de-lingard-garro-raniele-e-7-jogadores-em-corinthians-x-botafogo]]>",
       "time": "07/11 · 15:52",
       "pubDate": "Sat, 07 Nov 2026 12:52:54 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Comissão Eleitoral do Corinthians reconsidera decisão e libera candidatura de Janikian",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-libera-candidatura-sergio-janikian/",
-      "time": "07/11 · 15:17",
-      "pubDate": "Sat, 07 Nov 2026 15:17:17 +0000"
     },
     {
       "source": "Bolavip",
@@ -200,6 +200,12 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "Ex-atacante do Corinthians marca gol decisivo em última rodada da MLS",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543795/ex-atacante-do-corinthians-marca-gol-decisivo-em-ultima-rodada-da-mls",
+      "pubDate": "Mon, 09 Nov 2026 19:28:00 -0300",
+      "date": "09/11 · 22:28"
+    },
+    {
       "title": "VÍDEO: Conheça a maior joia da base do Corinthians atualmente",
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130613/conheca-a-maior-joia-da-base-do-corinthians-atualmente",
       "pubDate": "Mon, 09 Nov 2026 14:05:25 -0300",
@@ -210,18 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/videos-do-corinthians/130612/reforcos-para-seedorf-tecnico-do-sub-17-fala-sobre-jovens-da-base-no-profissional",
       "pubDate": "Mon, 09 Nov 2026 13:21:41 -0300",
       "date": "09/11 · 16:21"
-    },
-    {
-      "title": "Ex-meia aponta falta de planejamento como principal fator por mau momento do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543741/ex-meia-aponta-falta-de-planejamento-como-principal-fator-por-mau-momento-do-corinthians",
-      "pubDate": "Sun, 08 Nov 2026 18:04:00 -0300",
-      "date": "08/11 · 21:04"
-    },
-    {
-      "title": "VÍDEO: Campeões Brasileiros Sub-17 e promessa da base: exclusiva de Guilherme Nascimento e Gabriel Amaral",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130605/campeoes-brasileiros-sub-17-e-promessa-da-base-exclusiva-de-guilherme-nascimento-e-gabriel-amaral",
-      "pubDate": "Sun, 08 Nov 2026 10:08:17 -0300",
-      "date": "08/11 · 13:08"
     }
   ]
 };
