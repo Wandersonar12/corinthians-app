@@ -1,7 +1,39 @@
-// Gerado automaticamente em 14/11/2026, 21:42:53
+// Gerado automaticamente em 15/11/2026, 01:22:17
 const LIVE_DATA = {
-  "updatedAt": "2026-11-14T21:42:53.761Z",
+  "updatedAt": "2026-11-15T01:22:17.376Z",
   "news": [
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians supera Liga São Caetano e abre vantagem na semifinal do Campeonato Paulista de Futsal",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/543986/corinthians-supera-liga-sao-caetano-e-abre-vantagem-na-semifinal-do-campeonato-paulista-de-futsal",
+      "time": "15/11 · 00:51",
+      "pubDate": "Sat, 14 Nov 2026 21:51:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Lateral busca aproveitar reta final do ano para voltar a jogar pelo Corinthians após nove meses",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544000/lateral-busca-aproveitar-reta-final-do-ano-para-voltar-a-jogar-pelo-corinthians-apos-nove-meses",
+      "time": "15/11 · 00:33",
+      "pubDate": "Sat, 14 Nov 2026 21:33:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Neto cogita se candidatar à presidência do Corinthians em 2029 e projeta gestão revolucionária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544052/neto-cogita-se-candidatar-a-presidencia-do-corinthians-em-2029-e-projeta-gestao-revolucionaria",
+      "time": "14/11 · 23:31",
+      "pubDate": "Sat, 14 Nov 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians tenta embalar em casa na reta final para se afastar do rebaixamento no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544053/corinthians-tenta-embalar-em-casa-na-reta-final-para-se-afastar-do-rebaixamento-no-brasileirao",
+      "time": "14/11 · 22:29",
+      "pubDate": "Sat, 14 Nov 2026 19:29:00 -0300"
+    },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
@@ -17,14 +49,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/544069/corinthians-domina-o-osasco-do-inicio-ao-fim-e-conquista-a-terceira-vitoria-no-nbb",
       "time": "14/11 · 20:55",
       "pubDate": "Sat, 14 Nov 2026 17:55:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians bate Osasco e volta a vencer no NBB",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-osasco-e-volta-a-vencer-no-nbb/",
-      "time": "14/11 · 20:47",
-      "pubDate": "Sat, 14 Nov 2026 20:47:27 +0000"
     },
     {
       "source": "Meu Timao",
@@ -43,60 +67,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 14 Nov 2026 17:33:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnica do Corinthians busca terceiro título do Campeonato Paulista Feminino Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544061/tecnica-do-corinthians-busca-terceiro-titulo-do-campeonato-paulista-feminino-sub-20",
-      "time": "14/11 · 19:34",
-      "pubDate": "Sat, 14 Nov 2026 16:34:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians eterniza trajetória de Deives com homenagem na Calçada da Fama do clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544063/corinthians-eterniza-trajetoria-de-deives-com-homenagem-na-calcada-da-fama-do-clube",
-      "time": "14/11 · 18:26",
-      "pubDate": "Sat, 14 Nov 2026 15:26:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Matheuzinho é homenageado por marca de 150 jogos pelo Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-e-homenageado-por-marca-de-150-jogos-pelo-corinthians/",
-      "time": "14/11 · 18:22",
-      "pubDate": "Sat, 14 Nov 2026 18:22:24 +0000"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Betinho nega falta de concentração do Corinthians e exalta defesa do Pinheiros após derrota no NBB",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544015/betinho-nega-falta-de-concentracao-do-corinthians-e-exalta-defesa-do-pinheiros-apos-derrota-no-nbb",
-      "time": "14/11 · 17:35",
-      "pubDate": "Sat, 14 Nov 2026 14:35:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Lateral é homenageado pelo Corinthians após atingir marca de 150 jogos pelo clube",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544056/lateral-e-homenageado-pelo-corinthians-apos-atingir-marca-de-150-jogos-pelo-clube",
-      "time": "14/11 · 16:31",
-      "pubDate": "Sat, 14 Nov 2026 13:31:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians precisa pagar R$ 131 milhões em dívidas de curto prazo; veja riscos",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-dividas-r-131-milhoes-punicoes-crise-financeira/",
-      "time": "14/11 · 07:00",
-      "pubDate": "Sat, 14 Nov 2026 07:00:06 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Mesa Redonda promove debate com candidatos à presidência do Corinthians",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/mesa-redonda-promove-debate-com-candidatos-a-presidencia-do-corinthians/",
-      "time": "13/11 · 22:00",
-      "pubDate": "Fri, 13 Nov 2026 22:00:40 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Cruzeiro faz contato e aguarda fim do Brasileirão para avançar pelo lateral Matheuzinho, do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/cruzeiro-faz-contato-e-aguarda-fim-do-brasileirao-para-avancar-pelo-lateral-matheuzinho-do-corinthians]]>",
+      "time": "14/11 · 16:58",
+      "pubDate": "Sat, 14 Nov 2026 13:58:17 -0300"
     },
     {
       "source": "Bolavip",
@@ -117,14 +93,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Cruzeiro faz contato e aguarda fim do Brasileirão para avançar pelo lateral Matheuzinho, do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/cruzeiro-faz-contato-e-aguarda-fim-do-brasileirao-para-avancar-pelo-lateral-matheuzinho-do-corinthians]]>",
-      "time": "13/11 · 19:58",
-      "pubDate": "Fri, 13 Nov 2026 16:58:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "SAF no Corinthians é aprovada por possível substituto de Stabile: “A solução exige algo mais drástico”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/saf-no-corinthians-e-aprovada-por-possivel-substituto-de-stabile-a-solucao-exige-algo-mais-drastico]]>",
       "time": "13/11 · 19:57",
@@ -139,36 +107,12 @@ const LIVE_DATA = {
       "pubDate": "Fri, 13 Nov 2026 16:56:57 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com três de Fabiano, Palmeiras supera Santos e pega o Corinthians na final do Paulistão sub-20",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/com-tres-de-fabiano-palmeiras-supera-santos-e-pega-o-corinthians-na-final-do-paulistao-sub-20/",
-      "time": "13/11 · 19:56",
-      "pubDate": "Fri, 13 Nov 2026 19:56:13 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Sabrina Sato acredita na permanência do Corinthians na Série A e faz desabafo: “Eu já sofri tanto”",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/sabrina-sato-acredita-na-permanencia-do-corinthians-na-serie-a-e-faz-desabafo-eu-ja-sofri-tanto]]>",
       "time": "13/11 · 19:55",
       "pubDate": "Fri, 13 Nov 2026 16:55:31 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Garro avança em recuperação e volta a correr no gramado em treino do Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-volta-ao-gramado-treino-corinthians-botafogo/",
-      "time": "13/11 · 18:58",
-      "pubDate": "Fri, 13 Nov 2026 18:58:20 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta sexta-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-sexta-feira-24/",
-      "time": "13/11 · 18:30",
-      "pubDate": "Fri, 13 Nov 2026 18:30:58 +0000"
     },
     {
       "source": "Bolavip",
@@ -179,20 +123,76 @@ const LIVE_DATA = {
       "pubDate": "Fri, 13 Nov 2026 14:30:11 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Há 56 anos, nascia Mirandinha; relembre em fotos a carreira do ex-atacante do Corinthians",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/ha-56-anos-nascia-mirandinha-relembre-em-fotos-a-carreira-do-ex-atacante-do-corinthians/",
-      "time": "13/11 · 11:01",
-      "pubDate": "Fri, 13 Nov 2026 11:01:37 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Elenco do Corinthians organiza churrasco no CT e gera incômodo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/elenco-corinthians-organiza-churrasco-ct]]>",
       "time": "13/11 · 01:15",
       "pubDate": "Thu, 12 Nov 2026 22:15:27 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
+      "time": "27/05 · 00:00",
+      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
+      "time": "26/05 · 23:00",
+      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
+      "time": "26/05 · 22:26",
+      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
+      "time": "26/05 · 17:45",
+      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
+      "time": "26/05 · 10:00",
+      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
+      "time": "26/05 · 09:00",
+      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
+      "time": "26/05 · 02:04",
+      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -216,12 +216,6 @@ const LIVE_DATA = {
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/544039/seedorf-explica-virada-de-chave-e-revela-por-que-aceitou-o-corinthians-em-momento-delicado",
       "pubDate": "Fri, 13 Nov 2026 18:53:00 -0300",
       "date": "13/11 · 21:53"
-    },
-    {
-      "title": "VÍDEO: Advogado do Corinthians relata tentativa de diálogo com o Ministério Público para evitar intervenção",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130682/advogado-do-corinthians-relata-tentativa-de-dialogo-com-o-ministerio-publico-para-evitar-intervencao",
-      "pubDate": "Fri, 13 Nov 2026 17:21:02 -0300",
-      "date": "13/11 · 20:21"
     }
   ]
 };
