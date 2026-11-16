@@ -1,78 +1,142 @@
-// Gerado automaticamente em 15/11/2026, 22:09:12
+// Gerado automaticamente em 16/11/2026, 17:32:33
 const LIVE_DATA = {
-  "updatedAt": "2026-11-15T22:09:12.776Z",
+  "updatedAt": "2026-11-16T17:32:33.592Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Ferroviária critica postura de técnica do Corinthians após confusão na final do Paulista Sub-20",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544104/ferroviaria-critica-postura-de-tecnica-do-corinthians-apos-confusao-na-final-do-paulista-sub-20",
-      "time": "15/11 · 21:26",
-      "pubDate": "Sun, 15 Nov 2026 18:26:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Raniele minimiza atrasos e prioriza reação do Corinthians no Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/raniele-minimiza-atrasos-e-prioriza-reacao-do-corinthians-no-brasileiro/",
+      "time": "16/11 · 17:27",
+      "pubDate": "Mon, 16 Nov 2026 17:27:31 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Fixo do Corinthians celebra gol em jogada ensaiada e aponta trunfo tático na vitória pelo Paulista",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544081/fixo-do-corinthians-celebra-gol-em-jogada-ensaiada-e-aponta-trunfo-tatico-na-vitoria-pelo-paulista",
-      "time": "15/11 · 20:35",
-      "pubDate": "Sun, 15 Nov 2026 17:35:00 -0300"
+      "title": "Saiba como comprar ingressos como visitante para jogo do Corinthians contra o Atlético-MG",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544121/saiba-como-comprar-ingressos-como-visitante-para-jogo-do-corinthians-contra-o-atletico-mg",
+      "time": "16/11 · 16:34",
+      "pubDate": "Mon, 16 Nov 2026 13:34:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians sofre virada da Ferroviária e está eliminado do Campeonato Paulista Feminino Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544096/corinthians-sofre-virada-da-ferroviaria-e-esta-eliminado-do-campeonato-paulista-feminino-sub-17",
-      "time": "15/11 · 20:01",
-      "pubDate": "Sun, 15 Nov 2026 17:01:00 -0300"
+      "title": "Gerente do Corinthians repudia decisão do STJD em manter suspensão de Yuri Alberto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544136/gerente-do-corinthians-repudia-decisao-do-stjd-em-manter-suspensao-de-yuri-alberto",
+      "time": "16/11 · 16:15",
+      "pubDate": "Mon, 16 Nov 2026 13:15:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ex-atacante do Corinthians revela ainda acompanhar o clube e sua melhor lembrança no Timão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544070/ex-atacante-do-corinthians-revela-ainda-acompanhar-o-clube-e-sua-melhor-lembranca-no-timao",
-      "time": "15/11 · 19:31",
-      "pubDate": "Sun, 15 Nov 2026 16:31:00 -0300"
+      "title": "Lateral do Corinthians se pronuncia após agressão na final do Paulista e condena ataques à rival",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544134/lateral-do-corinthians-se-pronuncia-apos-agressao-na-final-do-paulista-e-condena-ataques-a-rival",
+      "time": "16/11 · 16:09",
+      "pubDate": "Mon, 16 Nov 2026 13:09:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Garro volta a treinar com elenco do Corinthians e pode reforçar equipe contra o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/garro-volta-treinar-corinthians-botafogo/",
+      "time": "16/11 · 15:53",
+      "pubDate": "Mon, 16 Nov 2026 15:53:37 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Ala do Corinthians desabafa sobre imbróglio com Azuriz e aguarda fim do ano para definir futuro",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544079/ala-do-corinthians-desabafa-sobre-imbroglio-com-azuriz-e-aguarda-fim-do-ano-para-definir-futuro",
-      "time": "15/11 · 18:34",
-      "pubDate": "Sun, 15 Nov 2026 15:34:00 -0300"
+      "title": "VÍDEO: Memphis, Raniele e mais: veja como foi o treino do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130712/memphis-raniele-e-mais-veja-como-foi-o-treino-do-corinthians",
+      "time": "16/11 · 15:45",
+      "pubDate": "Mon, 16 Nov 2026 12:45:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians repudia agressões na final do Paulista Sub-20 e promete medidas contra a Ferroviária",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544097/corinthians-repudia-agressoes-na-final-do-paulista-sub-20-e-promete-medidas-contra-a-ferroviaria",
-      "time": "15/11 · 17:49",
-      "pubDate": "Sun, 15 Nov 2026 14:49:00 -0300"
+      "title": "Corinthians firma acordo com site de leilões para vender camisas utilizadas em campo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544129/corinthians-firma-acordo-com-site-de-leiloes-para-vender-camisas-utilizadas-em-campo",
+      "time": "16/11 · 15:31",
+      "pubDate": "Mon, 16 Nov 2026 12:31:31 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians retoma preparação para enfrentar o Botafogo após pausa da Data Fifa",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544094/corinthians-retoma-preparacao-para-enfrentar-o-botafogo-apos-pausa-da-data-fifa",
-      "time": "15/11 · 17:23",
-      "pubDate": "Sun, 15 Nov 2026 14:23:00 -0300"
+      "title": "Atacante do Corinthians irá defender o Uruguai na última Data Fifa de 2026",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544127/atacante-do-corinthians-ira-defender-o-uruguai-na-ultima-data-fifa-de-2026",
+      "time": "16/11 · 15:13",
+      "pubDate": "Mon, 16 Nov 2026 12:13:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians enfrenta concorrência de rivais estaduais por defensora do Palmeiras",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544089/corinthians-enfrenta-concorrencia-de-rivais-estaduais-por-defensora-do-palmeiras",
-      "time": "15/11 · 17:01",
-      "pubDate": "Sun, 15 Nov 2026 14:01:00 -0300"
+      "title": "Corinthians conta com presença de Garro em treino aberto à imprensa no CT Joaquim Grava",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544117/corinthians-conta-com-presenca-de-garro-em-parte-de-treino-aberto-a-imprensa-no-ct-joaquim-grava",
+      "time": "16/11 · 14:36",
+      "pubDate": "Mon, 16 Nov 2026 11:36:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "STJD rejeita recurso do Corinthians e mantém suspensão de Yuri Alberto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544119/stjd-rejeita-recurso-do-corinthians-e-mantem-suspensao-de-yuri-alberto",
+      "time": "16/11 · 13:47",
+      "pubDate": "Mon, 16 Nov 2026 10:47:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Janikian promete &#8220;combater o sistema&#8221; e defende modelo associativo no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/sergio-janikian-entrevista-corinthians-ruptura-corrupcao/",
+      "time": "16/11 · 07:00",
+      "pubDate": "Mon, 16 Nov 2026 07:00:37 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Candidatos à presidência do Corinthians debatem e apresentam propostas no Mesa Redonda",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/candidatos-a-presidencia-do-corinthians-debatem-e-apresentam-propostas-no-mesa-redonda/",
+      "time": "16/11 · 02:29",
+      "pubDate": "Mon, 16 Nov 2026 02:29:47 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Carrillo negocia com o Alianza Lima e deve deixar o Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/carrillo-alianza-lima-corinthians-saida]]>",
+      "time": "15/11 · 21:20",
+      "pubDate": "Sun, 15 Nov 2026 18:20:01 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians segue preparação para enfrentar o Botafogo",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-segue-preparacao-para-enfrentar-o-botafogo/",
+      "time": "15/11 · 19:50",
+      "pubDate": "Sun, 15 Nov 2026 19:50:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Jogadoras de Corinthians e Ferroviária trocam socos em final do Paulista Feminino sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/jogadoras-de-corinthians-e-ferroviaria-trocam-socos-em-final-do-paulista-feminino-sub-20/",
+      "time": "15/11 · 17:59",
+      "pubDate": "Sun, 15 Nov 2026 17:59:30 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians realiza treino técnico e tático antes de enfrentar o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-realiza-treino-tecnico-e-tatico-antes-de-enfrentar-o-botafogo/",
+      "time": "15/11 · 17:25",
+      "pubDate": "Sun, 15 Nov 2026 17:25:41 +0000"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Seedorf trata Corinthians x Botafogo como decisão e cobra equilíbrio na luta contra o rebaixamento",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-trata-corinthians-x-botafogo-como-decisao-e-cobra-equilibrio-na-luta-contra-o-rebaixamento]]>",
-      "time": "15/11 · 14:54",
-      "pubDate": "Sun, 15 Nov 2026 11:54:31 -0300"
+      "time": "15/11 · 16:36",
+      "pubDate": "Sun, 15 Nov 2026 13:36:57 -0300"
     },
     {
       "source": "Bolavip",
@@ -83,20 +147,20 @@ const LIVE_DATA = {
       "pubDate": "Sun, 15 Nov 2026 09:00:42 -0300"
     },
     {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "André estreia como titular da Seleção; veja números do volante do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/andre-estreia-como-titular-da-selecao-veja-numeros-do-volante-do-corinthians/",
+      "time": "15/11 · 10:00",
+      "pubDate": "Sun, 15 Nov 2026 10:00:30 +0000"
+    },
+    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Seedorf comanda treinamentos na Data Fifa e vai mudar escalação inicial em Corinthians x Botafogo",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-comanda-treinamentos-na-data-fifa-e-vai-mudar-escalacao-inicial-em-corinthians-x-botafogo]]>",
       "time": "13/11 · 19:58",
       "pubDate": "Fri, 13 Nov 2026 16:58:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians quer resolver transfer bans e está interessado na contratação de Marcos Paulo, do Juventude",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-quer-resolver-transfer-bans-e-esta-interessado-na-contratacao-de-marcos-paulo-do-juventude]]>",
-      "time": "13/11 · 19:58",
-      "pubDate": "Fri, 13 Nov 2026 16:58:39 -0300"
     },
     {
       "source": "Bolavip",
@@ -129,70 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-prepara-contrato-profissional-e-vai-assinar-com-miguel-moscardo-multa-e-de-r-625-milhoes]]>",
       "time": "13/11 · 17:30",
       "pubDate": "Fri, 13 Nov 2026 14:30:11 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Allan aponta foco do Corinthians para buscar melhor campanha da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/allan-aponta-foco-do-corinthians-para-buscar-melhor-campanha-da-libertadores/",
-      "time": "27/05 · 00:00",
-      "pubDate": "Wed, 27 May 2026 00:00:28 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense pela Libertadores: onde assistir ao vivo, estatísticas e prováveis escalações",
-      "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-platense-libertadores-27-05-26/",
-      "time": "26/05 · 23:00",
-      "pubDate": "Tue, 26 May 2026 23:00:00 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz treino tático e fecha preparação para pegar o Platense; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-treino-tatico-e-fecha-preparacao-para-pegar-o-platense-veja-provavel-escalacao/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de enfrentar o Platense",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-platense/",
-      "time": "26/05 · 22:26",
-      "pubDate": "Tue, 26 May 2026 22:26:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Diretor do Corinthians atualiza situação de Memphis e abre o jogo sobre Yuri Alberto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-atualiza-situacao-de-memphis-e-abre-o-jogo-sobre-yuri-alberto/",
-      "time": "26/05 · 17:45",
-      "pubDate": "Tue, 26 May 2026 17:45:53 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Memphis pode fazer último jogo na Arena, e Corinthians corre contra o tempo por renovação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/memphis-pode-fazer-ultimo-jogo-na-arena-e-corinthians-corre-contra-o-tempo-por-renovacao/",
-      "time": "26/05 · 10:00",
-      "pubDate": "Tue, 26 May 2026 10:00:49 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Platense: veja onde assistir ao duelo pela última rodada da Libertadores",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-platense-veja-onde-assistir-ao-duelo-pela-ultima-rodada-da-libertadores/",
-      "time": "26/05 · 09:00",
-      "pubDate": "Tue, 26 May 2026 09:00:32 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians goleia o Mixto e assume a ponta do Brasileiro feminino",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-o-mixto-e-assume-a-ponta-do-brasileiro-feminino/",
-      "time": "26/05 · 02:04",
-      "pubDate": "Tue, 26 May 2026 02:04:37 +0000"
     }
   ],
   "upcoming": [],
@@ -200,16 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
+      "title": "VÍDEO: Memphis, Raniele e mais: veja como foi o treino do Corinthians",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130712/memphis-raniele-e-mais-veja-como-foi-o-treino-do-corinthians",
+      "pubDate": "Mon, 16 Nov 2026 12:45:00 -0300",
+      "date": "16/11 · 15:45"
+    },
+    {
       "title": "Fixo do Corinthians celebra gol em jogada ensaiada e aponta trunfo tático na vitória pelo Paulista",
       "url": "https://www.meutimao.com.br/noticias-do-corinthians/544081/fixo-do-corinthians-celebra-gol-em-jogada-ensaiada-e-aponta-trunfo-tatico-na-vitoria-pelo-paulista",
       "pubDate": "Sun, 15 Nov 2026 17:35:00 -0300",
       "date": "15/11 · 20:35"
-    },
-    {
-      "title": "Corinthians finaliza semana de treinos para enfrentar o Bragantino com vídeo e foco defensivo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544067/corinthians-finaliza-semana-de-treinos-para-enfrentar-o-bragantino-com-video-e-foco-defensivo",
-      "pubDate": "Sat, 14 Nov 2026 17:39:00 -0300",
-      "date": "14/11 · 20:39"
     }
   ]
 };
