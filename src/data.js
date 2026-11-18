@@ -1,14 +1,118 @@
-// Gerado automaticamente em 17/11/2026, 17:07:55
+// Gerado automaticamente em 18/11/2026, 00:04:51
 const LIVE_DATA = {
-  "updatedAt": "2026-11-17T17:07:55.022Z",
+  "updatedAt": "2026-11-18T00:04:51.617Z",
   "news": [
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Jogadora do Corinthians desabafa sobre briga contra a Ferroviária e atualiza estado de saúde",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544224/jogadora-do-corinthians-desabafa-sobre-briga-contra-a-ferroviaria-e-atualiza-estado-de-saude",
-      "time": "17/11 · 16:23",
-      "pubDate": "Tue, 17 Nov 2026 13:23:13 -0300"
+      "title": "Corinthians busca encerrar jejum de vitórias sobre o Botafogo no Brasileirão",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544126/corinthians-busca-encerrar-jejum-de-vitorias-sobre-o-botafogo-no-brasileirao",
+      "time": "17/11 · 23:31",
+      "pubDate": "Tue, 17 Nov 2026 20:31:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians define escalação para duelo de ida do play-in do Paulistão Feminino",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544226/corinthians-define-escalacao-para-duelo-de-ida-do-play-in-do-paulistao-feminino",
+      "time": "17/11 · 23:12",
+      "pubDate": "Tue, 17 Nov 2026 20:12:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Botafogo pelo Brasileirão: onde assistir, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-mirassol-brasileirao-18-11-2026/",
+      "time": "17/11 · 23:00",
+      "pubDate": "Tue, 17 Nov 2026 23:00:18 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Presidente do Corinthians revela impacto de meio bilhão com fim das bets e detalha pedido de tutela",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544265/presidente-do-corinthians-revela-impacto-de-meio-bilhao-com-fim-das-bets-e-detalha-pedido-de-tutela",
+      "time": "17/11 · 22:42",
+      "pubDate": "Tue, 17 Nov 2026 19:42:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Coletiva do técnico Seedorf antes do confronto do Corinthians contra o Botafogo na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130768/coletiva-do-tecnico-seedorf-antes-do-confronto-do-corinthians-contra-o-botafogo-na-neo-quimica-arena",
+      "time": "17/11 · 22:39",
+      "pubDate": "Tue, 17 Nov 2026 19:39:29 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Raniele defende Memphis e revela incômodo com 'mentiras inventadas' no Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544140/raniele-defende-memphis-e-revela-incomodo-com-mentiras-inventadas-no-corinthians",
+      "time": "17/11 · 22:34",
+      "pubDate": "Tue, 17 Nov 2026 19:34:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do treino do Corinthians nesta terça-feira",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-nesta-terca-feira-12/",
+      "time": "17/11 · 22:22",
+      "pubDate": "Tue, 17 Nov 2026 22:22:48 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians encerra preparação para decisão contra o Botafogo pelo Brasileirão; veja o provável time",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544227/corinthians-encerra-preparacao-para-decisao-contra-o-botafogo-pelo-brasileirao-veja-o-provavel-time",
+      "time": "17/11 · 22:08",
+      "pubDate": "Tue, 17 Nov 2026 19:08:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Botafogo terá defesa reforçada para enfrentar o Corinthians; veja relacionados",
+      "url": "https://www.gazetaesportiva.com/times/botafogo/botafogo-tera-defesa-reforcada-para-enfrentar-o-corinthians-veja-relacionados/",
+      "time": "17/11 · 21:38",
+      "pubDate": "Tue, 17 Nov 2026 21:38:49 +0000"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Seedorf destaca evolução tática do Corinthians e prega flexibilidade contra o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544231/seedorf-destaca-evolucao-tatica-do-corinthians-e-prega-flexibilidade-contra-o-botafogo",
+      "time": "17/11 · 21:35",
+      "pubDate": "Tue, 17 Nov 2026 18:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "VÍDEO: Corinthians x Botafogo: Provável escalação da 35ª rodada do Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130766/corinthians-x-botafogo-provavel-escalacao-da-35-rodada-do-brasileirao-2026",
+      "time": "17/11 · 21:24",
+      "pubDate": "Tue, 17 Nov 2026 18:24:50 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Sem Garro, Corinthians treina na Neo Química e fecha preparação para enfrentar o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/sem-garro-corinthians-treina-na-neo-quimica-e-fecha-preparacao-para-enfrentar-o-botafogo/",
+      "time": "17/11 · 19:50",
+      "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf destaca importância de um Corinthians sem dependência individual",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-destaca-importancia-de-um-corinthians-sem-dependencia-individual/",
+      "time": "17/11 · 19:37",
+      "pubDate": "Tue, 17 Nov 2026 19:37:22 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-confirma-desfalque-de-garro-para-corinthians-x-botafogo/",
+      "time": "17/11 · 18:10",
+      "pubDate": "Tue, 17 Nov 2026 18:10:33 +0000"
     },
     {
       "source": "Gazeta Esportiva",
@@ -19,14 +123,6 @@ const LIVE_DATA = {
       "pubDate": "Tue, 17 Nov 2026 16:09:14 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições MT: veja todas as respostas de Rozallah Santoro no debate para presidente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544208/eleicoes-mt-veja-todas-as-respostas-de-rozallah-santoro-no-debate-para-presidente-do-corinthians",
-      "time": "17/11 · 15:59",
-      "pubDate": "Tue, 17 Nov 2026 12:59:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Há 91 anos, Santos vencia o Corinthians e conquistava o Paulistão pela primeira vez; relembre em fotos",
@@ -35,108 +131,52 @@ const LIVE_DATA = {
       "pubDate": "Tue, 17 Nov 2026 15:46:18 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições MT: veja todas as respostas de Sergio Janikian no debate para presidente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544213/eleicoes-mt-veja-todas-as-respostas-de-sergio-janikian-no-debate-para-presidente-do-corinthians",
-      "time": "17/11 · 15:28",
-      "pubDate": "Tue, 17 Nov 2026 12:28:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Stabile consulta candidatos à presidência do Corinthians sobre futuro de Kaio César",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544215/corinthians-consulta-candidatos-a-presidencia-sobre-permanencia-definitiva-de-kaio-cesar",
-      "time": "17/11 · 15:04",
-      "pubDate": "Tue, 17 Nov 2026 12:04:03 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições MT: veja todas as respostas de André Castro no debate para presidente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544214/eleicoes-mt-veja-todas-as-respostas-de-andre-castro-no-debate-para-presidente-do-corinthians",
-      "time": "17/11 · 15:01",
-      "pubDate": "Tue, 17 Nov 2026 12:01:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Volante cobra resposta do Corinthians após Data Fifa e detalha primeiros trabalhos com Seedorf",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544139/volante-cobra-resposta-do-corinthians-apos-data-fifa-e-detalha-primeiros-trabalhos-com-seedorf",
-      "time": "17/11 · 14:32",
-      "pubDate": "Tue, 17 Nov 2026 11:32:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians protocola pedido de tutela cautelar de olho em processo de Recuperação Judicial",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544212/corinthians-protocola-pedido-de-tutela-cautelar-de-olho-em-processo-de-recuperacao-judicial",
-      "time": "17/11 · 14:22",
-      "pubDate": "Tue, 17 Nov 2026 11:22:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Eleições MT: veja todas as respostas de Zé Mendes no debate para presidente do Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544206/eleicoes-mt-veja-todas-as-respostas-de-ze-mendes-no-debate-para-presidente-do-corinthians",
-      "time": "17/11 · 13:32",
-      "pubDate": "Tue, 17 Nov 2026 10:32:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Botafogo: saiba onde assistir ao jogo pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-botafogo-saiba-onde-assistir-ao-jogo-pelo-brasileirao/",
-      "time": "17/11 · 09:00",
-      "pubDate": "Tue, 17 Nov 2026 09:00:17 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ilmar Schiavenato projeta novo Corinthians em seis meses e revitalização do Parque São Jorge",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-ilmar-schiavenato-plano-financeiro-parque-sao-jorge/",
-      "time": "17/11 · 07:00",
-      "pubDate": "Tue, 17 Nov 2026 07:00:24 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Palmeiras: FPF define detalhes da final do Campeonato Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/campeonatos/paulista/corinthians-x-palmeiras-fpf-define-detalhes-da-final-do-campeonato-paulista-sub-20/",
-      "time": "16/11 · 23:14",
-      "pubDate": "Mon, 16 Nov 2026 23:14:25 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Bragantino x Corinthians: veja onde assistir ao jogo de ida do play-in do Paulistão F",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/bragantino-x-corinthians-veja-onde-assistir-ao-jogo-de-ida-do-play-in-do-paulistao-f/",
-      "time": "16/11 · 23:00",
-      "pubDate": "Mon, 16 Nov 2026 23:00:47 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Confira as fotos do treino do Corinthians desta segunda-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-do-treino-do-corinthians-desta-segunda-feira-4/",
-      "time": "16/11 · 18:59",
-      "pubDate": "Mon, 16 Nov 2026 18:59:23 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Raniele comenta ambiente conturbado e real incômodo no Corinthians",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/raniele-comenta-ambiente-conturbado-e-real-incomodo-no-corinthians/",
-      "time": "16/11 · 18:44",
-      "pubDate": "Mon, 16 Nov 2026 18:44:57 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians vai usar inteligência artificial para encontrar talentos",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-parceria-inteligencia-artificial-base]]>",
+      "time": "17/11 · 15:07",
+      "pubDate": "Tue, 17 Nov 2026 12:07:43 -0300"
     },
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "André ganha moral internacional após estreia pela Seleção Brasileira e deve sair do Corinthians em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/andre-ganha-moral-internacional-apos-estreia-pela-selecao-brasileira-e-deve-sair-do-corinthians-em-2027]]>",
-      "time": "16/11 · 17:55",
-      "pubDate": "Mon, 16 Nov 2026 14:55:24 -0300"
+      "title": "Assessoria de Memphis Depay pede que Marcelinho Carioca “pegue leve” com críticas no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/assessoria-de-memphis-depay-pede-que-marcelinho-carioca-pegue-leve-com-criticas-no-corinthians]]>",
+      "time": "17/11 · 14:18",
+      "pubDate": "Tue, 17 Nov 2026 11:18:08 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf aprova, e Corinthians avalia novo contrato para Fabrizio Angileri até 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-aprova-e-corinthians-estuda-assinar-contrato-em-2027-pela-renovacao-do-lateral-fabrizio-angileri]]>",
+      "time": "17/11 · 13:56",
+      "pubDate": "Tue, 17 Nov 2026 10:56:49 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "André, do Corinthians, deixa ótima impressão em amistosos do Brasil; veja como ele foi",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/selecao-brasileira-goleia-singapura-por-7-a-0-e-ancelotti-faz-novo-teste-com-andre-do-corinthians]]>",
+      "time": "17/11 · 13:55",
+      "pubDate": "Tue, 17 Nov 2026 10:55:19 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Raniele descarta qualquer atrito dos jogadores com Memphis Depay no Corinthians: “Ninguém tem nada”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/raniele-descarta-qualquer-atrito-dos-jogadores-com-memphis-depay-no-corinthians-ninguem-tem-nada]]>",
+      "time": "17/11 · 13:40",
+      "pubDate": "Tue, 17 Nov 2026 10:40:34 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Memphis Depay será titular em Corinthians x Botafogo, crava Neto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/memphis-depay-sera-titular-em-corinthians-x-botafogo-crava-neto]]>",
+      "time": "17/11 · 02:05",
+      "pubDate": "Mon, 16 Nov 2026 23:05:45 -0300"
     },
     {
       "source": "Bolavip",
@@ -153,46 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-participa-de-treino-inicial-e-tem-evolucao-positiva-as-vesperas-de-corinthians-x-botafogo]]>",
       "time": "16/11 · 16:26",
       "pubDate": "Mon, 16 Nov 2026 13:26:55 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "STJD não alivia após recurso do Corinthians e mantém suspensão de dois jogos aplicada em Yuri Alberto",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/stjd-nao-alivia-apos-recurso-do-corinthians-e-mantem-suspensao-de-dois-jogos-aplicada-em-yuri-alberto]]>",
-      "time": "16/11 · 15:05",
-      "pubDate": "Mon, 16 Nov 2026 12:05:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians publica nota oficial lamentando falecimento de Dino Sani; ex-jogador estava com 94 anos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-publica-nota-oficial-lamentando-falecimento-de-dino-sani-ex-jogador-estava-com-94-anos]]>",
-      "time": "16/11 · 13:22",
-      "pubDate": "Mon, 16 Nov 2026 10:22:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Craque Neto revela chance de disputar eleições para presidente do Corinthians em 2029: “Não vou roubar”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/craque-neto-revela-chance-de-disputar-eleicoes-para-presidente-do-corinthians-em-2029-nao-vou-roubar]]>",
-      "time": "16/11 · 12:44",
-      "pubDate": "Mon, 16 Nov 2026 09:44:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Carrillo negocia com o Alianza Lima e deve deixar o Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/carrillo-alianza-lima-corinthians-saida]]>",
-      "time": "15/11 · 21:20",
-      "pubDate": "Sun, 15 Nov 2026 18:20:01 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf trata Corinthians x Botafogo como decisão e cobra equilíbrio na luta contra o rebaixamento",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-trata-corinthians-x-botafogo-como-decisao-e-cobra-equilibrio-na-luta-contra-o-rebaixamento]]>",
-      "time": "15/11 · 16:36",
-      "pubDate": "Sun, 15 Nov 2026 13:36:57 -0300"
     }
   ],
   "upcoming": [],
@@ -200,52 +200,16 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Corinthians enfrenta o Paulistano para manter bom momento no NBB; saiba tudo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544157/corinthians-enfrenta-o-paulistano-para-manter-bom-momento-no-nbb-saiba-tudo",
-      "pubDate": "Tue, 17 Nov 2026 09:32:00 -0300",
-      "date": "17/11 · 12:32"
+      "title": "VÍDEO: Coletiva do técnico Seedorf antes do confronto do Corinthians contra o Botafogo na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130768/coletiva-do-tecnico-seedorf-antes-do-confronto-do-corinthians-contra-o-botafogo-na-neo-quimica-arena",
+      "pubDate": "Tue, 17 Nov 2026 19:39:29 -0300",
+      "date": "17/11 · 22:39"
     },
     {
-      "title": "Volante do Corinthians sai do banco no final do segundo tempo em goleada da Seleção",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544204/volante-do-corinthians-sai-do-banco-no-final-do-segundo-tempo-em-goleada-da-selecao",
-      "pubDate": "Tue, 17 Nov 2026 09:19:53 -0300",
-      "date": "17/11 · 12:19"
-    },
-    {
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Bragantino pela ida do play-in do Paulista Feminino",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544162/saiba-onde-assistir-ao-duelo-entre-corinthians-e-bragantino-pela-ida-do-play-in-do-paulista-feminino",
-      "pubDate": "Tue, 17 Nov 2026 08:31:00 -0300",
-      "date": "17/11 · 11:31"
-    },
-    {
-      "title": "VÍDEO: Zé Mendes fala na zona mista após debate para a presidência do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130746/ze-mendes-fala-na-zona-mista-apos-debate-para-a-presidencia-do-corinthians",
-      "pubDate": "Mon, 16 Nov 2026 23:27:07 -0300",
-      "date": "17/11 · 02:27"
-    },
-    {
-      "title": "VÍDEO: André Castro fala na zona mista após debate para a presidência do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130745/andre-castro-fala-na-zona-mista-apos-debate-para-a-presidencia-do-corinthians",
-      "pubDate": "Mon, 16 Nov 2026 23:19:00 -0300",
-      "date": "17/11 · 02:19"
-    },
-    {
-      "title": "VÍDEO: Ilmar Schiavenato fala na zona mista após debate para a presidência do Corinthians",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130744/ilmar-schiavenato-fala-na-zona-mista-apos-debate-para-a-presidencia-do-corinthians",
-      "pubDate": "Mon, 16 Nov 2026 23:19:00 -0300",
-      "date": "17/11 · 02:19"
-    },
-    {
-      "title": "VÍDEO: Considerações finais: candidatos à presidência do Corinthians realizam suas conclusões",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130739/consideracoes-finais-candidatos-a-presidencia-do-corinthians-realizam-suas-conclusoes",
-      "pubDate": "Mon, 16 Nov 2026 22:14:00 -0300",
-      "date": "17/11 · 01:14"
-    },
-    {
-      "title": "VÍDEO: Perguntas do chat: candidatos à presidência do Corinthians respondem perguntas dos torcedores",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130736/perguntas-do-chat-candidatos-a-presidencia-do-corinthians-respondem-perguntas-dos-torcedores",
-      "pubDate": "Mon, 16 Nov 2026 22:07:00 -0300",
-      "date": "17/11 · 01:07"
+      "title": "VÍDEO: Corinthians x Botafogo: Provável escalação da 35ª rodada do Brasileirão 2026",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130766/corinthians-x-botafogo-provavel-escalacao-da-35-rodada-do-brasileirao-2026",
+      "pubDate": "Tue, 17 Nov 2026 18:24:50 -0300",
+      "date": "17/11 · 21:24"
     }
   ]
 };
