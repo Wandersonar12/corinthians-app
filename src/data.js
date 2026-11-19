@@ -1,102 +1,214 @@
-// Gerado automaticamente em 18/11/2026, 23:38:32
+// Gerado automaticamente em 19/11/2026, 16:52:06
 const LIVE_DATA = {
-  "updatedAt": "2026-11-18T23:38:32.061Z",
+  "updatedAt": "2026-11-19T16:52:06.992Z",
   "news": [
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Kaio César brilha com três gols e tira o Corinthians do Z-4",
+      "url": "https://www.tudotimao.com.br/noticia/231853/kaio-cesar-brilha-com-tres-gols-e-tira-o-corinthians-do-z-4",
+      "time": "19/11 · 16:38",
+      "pubDate": "Thu, 19 Nov 2026 13:38:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians respira aliviado após goleada e diminui risco para 19%",
+      "url": "https://www.tudotimao.com.br/noticia/231859/corinthians-respira-aliviado-apos-goleada-e-diminui-risco-para-19",
+      "time": "19/11 · 16:37",
+      "pubDate": "Thu, 19 Nov 2026 13:37:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Corinthians engata primeira sequência de vitórias no NBB e busca melhor momento desde agosto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544270/corinthians-engata-primeira-sequencia-de-vitorias-no-nbb-e-busca-melhor-momento-desde-agosto",
+      "time": "19/11 · 16:32",
+      "pubDate": "Thu, 19 Nov 2026 13:32:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Tribunal marca 'megajulgamento' para os eventos ocorridos entre Corinthians e Ferroviária",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544417/tribunal-marca-megajulgamento-para-os-eventos-ocorridos-entre-corinthians-e-ferroviaria",
+      "time": "19/11 · 15:35",
+      "pubDate": "Thu, 19 Nov 2026 12:35:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante do Corinthians revela desejo de permanecer no clube e exalta primeiro hat-trick da carreira",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544397/atacante-do-corinthians-revela-desejo-de-permanecer-no-clube-e-exalta-primeiro-hat-trick-da-carreira",
+      "time": "19/11 · 15:33",
+      "pubDate": "Thu, 19 Nov 2026 12:33:00 -0300"
+    },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians terá Memphis como titular contra o Botafogo; veja escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-escalacao-memphis-titular-botafogo-brasileirao/",
-      "time": "18/11 · 23:35",
-      "pubDate": "Wed, 18 Nov 2026 23:35:52 +0000"
+      "title": "Seedorf diz que Corinthians não pode relaxar e revela surpresa com Memphis",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-diz-que-corinthians-nao-pode-relaxar-e-revela-surpresa-com-memphis/",
+      "time": "19/11 · 14:57",
+      "pubDate": "Thu, 19 Nov 2026 14:57:48 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians se apoia em retrospecto na Arena contra o Botafogo para se recuperar no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544286/corinthians-se-apoia-em-retrospecto-na-arena-contra-o-botafogo-para-se-recuperar-no-brasileirao",
-      "time": "18/11 · 22:31",
-      "pubDate": "Wed, 18 Nov 2026 19:31:00 -0300"
+      "title": "Advogado explica se Recuperação Judicial poderia suspender transfer bans do Corinthians",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544405/advogado-explica-se-recuperacao-judicial-poderia-suspender-transfer-bans-do-corinthians",
+      "time": "19/11 · 14:30",
+      "pubDate": "Thu, 19 Nov 2026 11:30:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians reduz risco de rebaixamento em 30% após goleada sobre o Botafogo",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reduz-risco-de-rebaixamento-em-30-apos-goleada-sobre-o-botafogo/",
+      "time": "19/11 · 14:27",
+      "pubDate": "Thu, 19 Nov 2026 14:27:14 +0000"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians presenteia atletas da base com camisa de 2024 por participação em Copas do Mundo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544312/corinthians-presenteia-atletas-da-base-com-camisa-de-2024-por-participacao-em-copas-do-mundo",
-      "time": "18/11 · 21:54",
-      "pubDate": "Wed, 18 Nov 2026 18:54:00 -0300"
+      "title": "Corinthians conhece adversário da final do Paulistão de Futsal Sub-20",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544407/corinthians-conhece-adversario-da-final-do-paulistao-de-futsal-sub-20",
+      "time": "19/11 · 13:38",
+      "pubDate": "Thu, 19 Nov 2026 10:38:00 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Seedorf nega proibição da palavra 'erro' e explica filosofia adotada no Corinthians",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544235/seedorf-nega-proibicao-da-palavra-erro-e-explica-filosofia-adotada-no-corinthians",
-      "time": "18/11 · 21:33",
-      "pubDate": "Wed, 18 Nov 2026 18:33:00 -0300"
+      "title": "VÍDEO: Coletiva do técnico Seedorf pós-vitória do Corinthians contra o Botafogo na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130809/coletiva-do-tecnico-seedorf-pos-vitoria-do-corinthians-contra-o-botafogo-na-neo-quimica-arena",
+      "time": "19/11 · 13:32",
+      "pubDate": "Thu, 19 Nov 2026 10:32:55 -0300"
     },
     {
       "source": "Meu Timao",
       "color": "#1a7a3a",
-      "title": "Corinthians detalha objetos proibidos de entrar na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544311/corinthians-detalha-objetos-proibidos-de-entrar-na-neo-quimica-arena",
-      "time": "18/11 · 21:00",
-      "pubDate": "Wed, 18 Nov 2026 18:00:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians se solidariza com jornalista diagnosticado com leucemia; veja a postagem",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544309/corinthians-se-solidariza-com-jornalista-diagnosticado-com-leucemia-veja-a-postagem",
-      "time": "18/11 · 20:48",
-      "pubDate": "Wed, 18 Nov 2026 17:48:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians aciona Justiça e cobra explicações de ex-diretor sobre acusações de cambismo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544308/corinthians-aciona-justica-e-cobra-explicacoes-de-ex-diretor-sobre-acusacoes-de-cambismo",
-      "time": "18/11 · 20:39",
-      "pubDate": "Wed, 18 Nov 2026 17:39:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Momento ruim e reencontros: como chega o Botafogo para enfrentar o Corinthians no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544287/momento-ruim-e-reencontros-como-chega-o-botafogo-para-enfrentar-o-corinthians-no-brasileirao",
-      "time": "18/11 · 20:31",
-      "pubDate": "Wed, 18 Nov 2026 17:31:00 -0300"
-    },
-    {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians defende treinos na Neo Química Arena e elogia jogadores pouco utilizados",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544240/tecnico-do-corinthians-defende-treinos-na-neo-quimica-arena-e-elogia-jogadores-pouco-utilizados",
-      "time": "18/11 · 20:01",
-      "pubDate": "Wed, 18 Nov 2026 17:01:00 -0300"
+      "title": "Quem você escolheria para ser o novo presidente do Corinthians? Vote na enquete do Meu Timão!",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544340/quem-voce-escolheria-para-ser-o-novo-presidente-do-corinthians-vote-na-enquete-do-meu-timao",
+      "time": "19/11 · 13:31",
+      "pubDate": "Thu, 19 Nov 2026 10:31:00 -0300"
     },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
-      "title": "Corinthians renova com joia da base antes do prazo necessário",
-      "url": "https://www.tudotimao.com.br/noticia/231802/corinthians-renova-com-joia-da-base-antes-do-prazo-necessario",
-      "time": "18/11 · 18:35",
-      "pubDate": "Wed, 18 Nov 2026 15:35:00 -0300"
+      "title": "Kaio César brilha e Corinthians desbanca Botafogo com 4 a 0",
+      "url": "https://www.tudotimao.com.br/noticia/231848/kaio-cesar-brilha-e-corinthians-desbanca-botafogo-com-4-a-0",
+      "time": "19/11 · 13:01",
+      "pubDate": "Thu, 19 Nov 2026 10:01:00 -0300"
+    },
+    {
+      "source": "Meu Timao",
+      "color": "#1a7a3a",
+      "title": "Atacante marca três vezes e ganha posições na lista de artilheiros do Corinthians na temporada",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544345/atacante-marca-tres-vezes-e-ganha-posicoes-na-lista-de-artilheiros-do-corinthians-na-temporada",
+      "time": "19/11 · 12:31",
+      "pubDate": "Thu, 19 Nov 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Análise: Seedorf surpreende e vê apostas funcionarem em goleada do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-acertos-goleada-corinthians-botafogo/",
+      "time": "19/11 · 09:00",
+      "pubDate": "Thu, 19 Nov 2026 09:00:42 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atuações: Kaio César e Memphis lideram Corinthians em goleada",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/notas-corinthians-kaio-memphis-goleada-botafogo/",
+      "time": "19/11 · 08:00",
+      "pubDate": "Thu, 19 Nov 2026 08:00:56 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Bastidores: como papo com Seedorf impulsionou Kaio César no Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-conversa-kaio-cesar-corinthians-botafogo/",
+      "time": "19/11 · 07:00",
+      "pubDate": "Thu, 19 Nov 2026 07:00:02 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf admite surpresa com Memphis após goleada do Corinthians: &#8220;Melhor do que eu esperava&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-exalta-memphis-evolucao-corinthians-botafogo/",
+      "time": "19/11 · 04:19",
+      "pubDate": "Thu, 19 Nov 2026 04:19:23 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Melhores momentos: Corinthians 4 x 0 Botafogo (Brasileirão)",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-corinthians-4-x-0-botafogo-brasileirao/",
+      "time": "19/11 · 03:17",
+      "pubDate": "Thu, 19 Nov 2026 03:17:52 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Kaio César celebra 1º hat-trick da carreira pelo Corinthians e exalta Seedorf",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-celebra-primeiro-hat-trick-carreira-corinthians/",
+      "time": "19/11 · 02:59",
+      "pubDate": "Thu, 19 Nov 2026 02:59:54 +0000"
     },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
-      "title": "Corinthians x Botafogo: onde assistir, escalações e arbitragem",
-      "url": "https://www.tudotimao.com.br/noticia/231797/corinthians-x-botafogo-onde-assistir-escalacoes-e-arbitragem",
-      "time": "18/11 · 15:44",
-      "pubDate": "Wed, 18 Nov 2026 12:44:00 -0300"
+      "title": "Olho na tabela: Confira a colocação do Corinthians no final da rodada",
+      "url": "https://www.tudotimao.com.br/noticia/231824/olho-na-tabela-confira-a-colocacao-do-corinthians-no-final-da-rodada",
+      "time": "19/11 · 02:34",
+      "pubDate": "Wed, 18 Nov 2026 23:34:00 -0300"
     },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
-      "title": "Com Garro lesionado, Corinthians aposta em Memphis para duelo contra Botafogo",
-      "url": "https://www.tudotimao.com.br/noticia/231796/com-garro-lesionado-corinthians-aposta-em-memphis-para-duelo-contra-botafogo",
-      "time": "18/11 · 15:34",
-      "pubDate": "Wed, 18 Nov 2026 12:34:00 -0300"
+      "title": "Corinthians x Botafogo: melhores momentos",
+      "url": "https://www.tudotimao.com.br/noticia/231823/corinthians-x-botafogo-melhores-momentos",
+      "time": "19/11 · 02:29",
+      "pubDate": "Wed, 18 Nov 2026 23:29:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Fim de jogo: Corinthians goleia o Botafogo e tem alívio na tabela do Brasileirão",
+      "url": "https://www.tudotimao.com.br/noticia/231822/fim-de-jogo-corinthians-goleia-o-botafogo-e-tem-alivio-na-tabela-do-brasileirao",
+      "time": "19/11 · 02:26",
+      "pubDate": "Wed, 18 Nov 2026 23:26:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Gol do Corinthians: Kaio César faz o primeiro hat-trick da sua carreira e garante goleada do Timão",
+      "url": "https://www.tudotimao.com.br/noticia/231820/gol-do-corinthians-kaio-cesar-faz-o-primeiro-hat-trick-da-sua-carreira-e-garante-goleada-do-timao",
+      "time": "19/11 · 02:11",
+      "pubDate": "Wed, 18 Nov 2026 23:11:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Gol do Corinthians: Kaio César faz seu segundo gol e fecha o caixão",
+      "url": "https://www.tudotimao.com.br/noticia/231819/gol-do-corinthians-kaio-cesar-faz-seu-segundo-gol-e-fecha-o-caixao",
+      "time": "19/11 · 01:59",
+      "pubDate": "Wed, 18 Nov 2026 22:59:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ex-Corinthians é presa em operação contra lavagem de dinheiro e tráfico de drogas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ex-corinthians-e-presa-em-fortaleza-por-organizacao-criminosa-lavagem-de-dinheiro-e-trafico-de-drogas]]>",
+      "time": "18/11 · 20:02",
+      "pubDate": "Wed, 18 Nov 2026 17:02:51 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf faz novo teste com Lingard como centroavante em último treino antes de Corinthians x Botafogo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-faz-novo-teste-com-lingard-como-centroavante-em-ultimo-treino-antes-de-corinthians-x-botafogo]]>",
+      "time": "18/11 · 18:31",
+      "pubDate": "Wed, 18 Nov 2026 15:31:13 -0300"
     },
     {
       "source": "Bolavip",
@@ -107,68 +219,12 @@ const LIVE_DATA = {
       "pubDate": "Wed, 18 Nov 2026 12:15:07 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Polícia Federal mira ex-patrocinadora do Corinthians em operação bilionária",
-      "url": "https://www.tudotimao.com.br/noticia/231795/policia-federal-mira-ex-patrocinadora-do-corinthians-em-operacao-bilionaria",
-      "time": "18/11 · 15:13",
-      "pubDate": "Wed, 18 Nov 2026 12:13:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians inicia venda de ingressos para final do Paulista Sub-20 contra o Palmeiras",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-inicia-venda-de-ingressos-para-final-do-paulista-sub-20-contra-o-palmeiras/",
-      "time": "18/11 · 14:37",
-      "pubDate": "Wed, 18 Nov 2026 14:37:05 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Esportes da Sorte, patrocinadora do Corinthians, tem R$ 2,3 bilhões bloqueados em investigação da PF",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/esportes-da-sorte-patrocinadora-do-corinthians-tem-r-23-bilhoes-bloqueados-em-investigacao-da-pf]]>",
       "time": "18/11 · 14:35",
       "pubDate": "Wed, 18 Nov 2026 11:35:04 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians prepara acordo de R$ 630 milhões com a Caixa e coloca decisão nas mãos de cinco candidatos",
-      "url": "https://www.tudotimao.com.br/noticia/231794/corinthians-prepara-acordo-de-r-630-milhoes-com-a-caixa-e-coloca-decisao-nas-maos-de-cinco-candidatos",
-      "time": "18/11 · 14:34",
-      "pubDate": "Wed, 18 Nov 2026 11:34:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians recorre à Justiça por dívida de R$ 2,8 bilhões e pode entrar em recuperação judicial",
-      "url": "https://www.tudotimao.com.br/noticia/231793/corinthians-recorre-a-justica-por-divida-de-r-2-8-bilhoes-e-pode-entrar-em-recuperacao-judicial",
-      "time": "18/11 · 14:34",
-      "pubDate": "Wed, 18 Nov 2026 11:34:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians prepara contrato de R$ 636 milhões para joia de apenas 16 anos",
-      "url": "https://www.tudotimao.com.br/noticia/231792/corinthians-prepara-contrato-de-r-636-milhoes-para-joia-de-apenas-16-anos",
-      "time": "18/11 · 14:14",
-      "pubDate": "Wed, 18 Nov 2026 11:14:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Gabi Morais, ex-jogadora do Corinthians, é presa em operação contra tráfico em Fortaleza",
-      "url": "https://www.tudotimao.com.br/noticia/231791/gabi-morais-ex-jogadora-do-corinthians-e-presa-em-operacao-contra-trafico-em-fortaleza",
-      "time": "18/11 · 14:14",
-      "pubDate": "Wed, 18 Nov 2026 11:14:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Goleiros de Palmeiras, Corinthians e Santos aparecem entre os 100 mais valiosos do mundo",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/goleiros-de-palmeiras-corinthians-e-santos-aparecem-entre-os-100-mais-valiosos-do-mundo/",
-      "time": "18/11 · 13:41",
-      "pubDate": "Wed, 18 Nov 2026 13:41:55 +0000"
     },
     {
       "source": "Bolavip",
@@ -185,62 +241,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/osmar-stabile-lamenta-impacto-de-r-500-milhoes-ao-corinthians-apos-proibicao-das-bets-no-brasil]]>",
       "time": "18/11 · 12:38",
       "pubDate": "Wed, 18 Nov 2026 09:38:09 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Ex-Corinthians, Gabi Morais é presa sob suspeita de lavar dinheiro para o Comando Vermelho",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ex-corinthians-gabi-morais-e-presa-sob-suspeita-de-lavar-dinheiro-para-o-comando-vermelho/",
-      "time": "18/11 · 12:22",
-      "pubDate": "Wed, 18 Nov 2026 12:22:34 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz último treino na Neo Química Arena antes de enfrentar o Botafogo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-faz-ultimo-treino-na-neo-quimica-arena-antes-de-enfrentar-o-botafogo/",
-      "time": "18/11 · 11:10",
-      "pubDate": "Wed, 18 Nov 2026 11:10:07 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Botafogo coloca Seedorf e Tite frente a frente em reencontro com ex-clubes",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-botafogo-coloca-seedorf-e-tite-frente-a-frente-em-reencontro-com-ex-clubes/",
-      "time": "18/11 · 10:00",
-      "pubDate": "Wed, 18 Nov 2026 10:00:54 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians perde para o Bragantino e se complica no play-in do Paulistão F",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-perde-para-o-bragantino-e-se-complica-no-play-in-do-paulistao-f/",
-      "time": "18/11 · 02:01",
-      "pubDate": "Wed, 18 Nov 2026 02:01:25 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja as fotos de Bragantino x Corinthians pelo jogo de ida do play-in do Paulistão F",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-as-fotos-de-bragantino-x-corinthians-pelo-jogo-de-ida-do-play-in-do-paulistao-f/",
-      "time": "18/11 · 01:45",
-      "pubDate": "Wed, 18 Nov 2026 01:45:38 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians vai usar inteligência artificial para encontrar talentos",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-parceria-inteligencia-artificial-base]]>",
-      "time": "17/11 · 18:51",
-      "pubDate": "Tue, 17 Nov 2026 15:51:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Rodrigo Garro tem situação oficial atualizada nos bastidores e será desfalque em Corinthians x Botafogo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-tem-situacao-oficial-atualizada-nos-bastidores-e-sera-desfalque-em-corinthians-x-botafogo]]>",
-      "time": "17/11 · 18:50",
-      "pubDate": "Tue, 17 Nov 2026 15:50:10 -0300"
     }
   ],
   "upcoming": [],
@@ -248,28 +248,52 @@ const LIVE_DATA = {
   "standings": [],
   "highlights": [
     {
-      "title": "Momento ruim e reencontros: como chega o Botafogo para enfrentar o Corinthians no Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544287/momento-ruim-e-reencontros-como-chega-o-botafogo-para-enfrentar-o-corinthians-no-brasileirao",
-      "pubDate": "Wed, 18 Nov 2026 17:31:00 -0300",
-      "date": "18/11 · 20:31"
+      "title": "Corinthians engata primeira sequência de vitórias no NBB e busca melhor momento desde agosto",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544270/corinthians-engata-primeira-sequencia-de-vitorias-no-nbb-e-busca-melhor-momento-desde-agosto",
+      "pubDate": "Thu, 19 Nov 2026 13:32:00 -0300",
+      "date": "19/11 · 16:32"
     },
     {
-      "title": "Seedorf destaca defesa do Corinthians que busca terceiro jogo seguido sem sofrer gols",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544233/seedorf-destaca-defesa-do-corinthians-que-busca-terceiro-jogo-seguido-sem-sofrer-gols",
-      "pubDate": "Wed, 18 Nov 2026 16:32:00 -0300",
-      "date": "18/11 · 19:32"
+      "title": "VÍDEO: Coletiva do técnico Seedorf pós-vitória do Corinthians contra o Botafogo na Neo Química Arena",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130809/coletiva-do-tecnico-seedorf-pos-vitoria-do-corinthians-contra-o-botafogo-na-neo-quimica-arena",
+      "pubDate": "Thu, 19 Nov 2026 10:32:55 -0300",
+      "date": "19/11 · 13:32"
     },
     {
-      "title": "Goleiro do Corinthians aparece entre os 100 goleiros mais valiosos do mundo em ranking internacional",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544293/goleiro-do-corinthians-aparece-entre-os-100-goleiros-mais-valiosos-do-mundo-em-ranking-internacional",
-      "pubDate": "Wed, 18 Nov 2026 14:05:00 -0300",
-      "date": "18/11 · 17:05"
+      "title": "Corinthians enfrenta o Pato Basquete para continuar bom momento no NBB; saiba tudo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544305/corinthians-enfrenta-o-pato-basquete-para-continuar-bom-momento-no-nbb-saiba-tudo",
+      "pubDate": "Thu, 19 Nov 2026 08:30:00 -0300",
+      "date": "19/11 · 11:30"
     },
     {
-      "title": "Saiba onde assistir ao duelo entre Corinthians e Botafogo pelo Brasileirão",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544256/saiba-onde-assistir-ao-duelo-entre-corinthians-e-botafogo-pelo-brasileirao",
-      "pubDate": "Wed, 18 Nov 2026 08:30:00 -0300",
-      "date": "18/11 · 11:30"
+      "title": "Últimas do Corinthians: goleada no Brasileiro, ingressos do Sub-20 e questionamentos de ex-diretor",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544375/ultimas-do-corinthians-goleada-no-brasileiro-ingressos-do-sub-20-e-questionamentos-de-ex-diretor",
+      "pubDate": "Thu, 19 Nov 2026 07:30:00 -0300",
+      "date": "19/11 · 10:30"
+    },
+    {
+      "title": "Kaio César beira nota dez em goleada do Corinthians sobre o Botafogo; veja as avaliações da torcida",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544377/kaio-cesar-beira-nota-dez-em-goleada-do-corinthians-sobre-o-botafogo-veja-as-avaliacoes-da-torcida",
+      "pubDate": "Thu, 19 Nov 2026 01:24:00 -0300",
+      "date": "19/11 · 04:24"
+    },
+    {
+      "title": "Seedorf elogia atuação de Memphis em goleada do Corinthians sobre o Botafogo",
+      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544374/seedorf-elogia-atuacao-de-memphis-em-goleada-do-corinthians-sobre-o-botafogo",
+      "pubDate": "Thu, 19 Nov 2026 01:12:00 -0300",
+      "date": "19/11 · 04:12"
+    },
+    {
+      "title": "VÍDEO: Hat-trick e vitória primordial: Zona mista Kaio César após Corinthians 4x0 Botafogo",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130800/hat-trick-e-vitoria-primordial-zona-mista-kaio-cesar-apos-corinthians-4x0-botafogo",
+      "pubDate": "Thu, 19 Nov 2026 01:05:18 -0300",
+      "date": "19/11 · 04:05"
+    },
+    {
+      "title": "VÍDEO: Dificuldades no ano e momento da carreira: Zona mista Memphis Depay | Corinthians 4x0 Botafogo",
+      "url": "https://www.meutimao.com.br/videos-do-corinthians/130799/dificuldades-no-ano-e-momento-da-carreira-zona-mista-memphis-depay-corinthians-4x0-botafogo",
+      "pubDate": "Thu, 19 Nov 2026 00:57:00 -0300",
+      "date": "19/11 · 03:57"
     }
   ]
 };
