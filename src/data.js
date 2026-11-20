@@ -1,54 +1,78 @@
-// Gerado automaticamente em 19/11/2026, 23:56:46
+// Gerado automaticamente em 20/11/2026, 16:27:14
 const LIVE_DATA = {
-  "updatedAt": "2026-11-19T23:56:46.399Z",
+  "updatedAt": "2026-11-20T16:27:14.736Z",
   "news": [
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Zagueiro do Corinthians exalta união da Seleção Brasileira em busca do título do Mundial Sub-17",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544434/zagueiro-do-corinthians-exalta-uniao-da-selecao-brasileira-em-busca-do-titulo-do-mundial-sub-17",
-      "time": "19/11 · 23:19",
-      "pubDate": "Thu, 19 Nov 2026 20:19:51 -0300"
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians respira aliviado pós goleada e aposta tudo contra o Atlético",
+      "url": "https://www.tudotimao.com.br/noticia/231896/corinthians-respira-aliviado-pos-goleada-e-aposta-tudo-contra-o-atletico",
+      "time": "20/11 · 16:21",
+      "pubDate": "Fri, 20 Nov 2026 13:21:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Técnico do Corinthians comenta uso de três atacantes e defende própria filosofia de jogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544395/tecnico-do-corinthians-comenta-uso-de-tres-atacantes-e-defende-propria-filosofia-de-jogo",
-      "time": "19/11 · 23:04",
-      "pubDate": "Thu, 19 Nov 2026 20:04:00 -0300"
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Vitória sobre o Botafogo muda cenário do Corinthians contra o Z-4",
+      "url": "https://www.tudotimao.com.br/noticia/231892/vitoria-sobre-o-botafogo-muda-cenario-do-corinthians-contra-o-z-4",
+      "time": "20/11 · 16:18",
+      "pubDate": "Fri, 20 Nov 2026 13:18:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians registra quatro gols e hat-trick em uma mesma partida após mais de um ano; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544336/corinthians-registra-quatro-gols-e-hat-trick-em-uma-mesma-partida-apos-mais-de-um-ano-relembre",
-      "time": "19/11 · 22:31",
-      "pubDate": "Thu, 19 Nov 2026 19:31:00 -0300"
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Atrasos na ajuda de custo escancara crise alarmante do Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/231899/atrasos-na-ajuda-de-custo-escancara-crise-alarmante-do-corinthians",
+      "time": "20/11 · 16:15",
+      "pubDate": "Fri, 20 Nov 2026 13:15:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Atacante do Corinthians valoriza trabalho de Seedorf e retoma confiança para reta final de 2026",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544398/atacante-do-corinthians-valoriza-trabalho-de-seedorf-e-retoma-confianca-para-reta-final-de-2026",
-      "time": "19/11 · 22:04",
-      "pubDate": "Thu, 19 Nov 2026 19:04:00 -0300"
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians lança plataforma de combate ao racismo no Mês da Consciência Negra",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-lanca-plataforma-de-combate-ao-racismo-no-mes-da-consciencia-negra/",
+      "time": "20/11 · 14:39",
+      "pubDate": "Fri, 20 Nov 2026 14:39:08 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Kaio César se torna o sexto jogador a marcar um hat-trick pelo Corinthians na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544338/kaio-cesar-se-torna-o-sexto-jogador-a-marcar-um-hat-trick-pelo-corinthians-na-neo-quimica-arena",
-      "time": "19/11 · 21:29",
-      "pubDate": "Thu, 19 Nov 2026 18:29:00 -0300"
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Se destacou! Alex Santana volta ao Corinthians após mais de seis meses afastado",
+      "url": "https://www.tudotimao.com.br/noticia/231890/se-destacou-alex-santana-volta-ao-corinthians-apos-mais-de-seis-meses-afastado",
+      "time": "20/11 · 12:24",
+      "pubDate": "Fri, 20 Nov 2026 09:24:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Elenco campeão do Sub-17 do Corinthians dá volta olímpica antes de goleada na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544428/elenco-campeao-do-sub-17-do-corinthians-da-volta-olimpica-antes-de-goleada-na-neo-quimica-arena",
-      "time": "19/11 · 21:15",
-      "pubDate": "Thu, 19 Nov 2026 18:15:00 -0300"
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Kaio ganha força para ficar no Corinthians, mas valor preocupa diretoria",
+      "url": "https://www.tudotimao.com.br/noticia/231889/kaio-ganha-forca-para-ficar-no-corinthians-mas-valor-preocupa-diretoria",
+      "time": "20/11 · 12:23",
+      "pubDate": "Fri, 20 Nov 2026 09:23:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Tchoca volta a ganhar sequência no Corinthians e busca espaço com Seedorf",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/tchoca-volta-a-ganhar-sequencia-no-corinthians-e-busca-espaco-com-seedorf/",
+      "time": "20/11 · 10:00",
+      "pubDate": "Fri, 20 Nov 2026 10:00:51 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "João Pedro Tchoca brilha em retorno aos titulares no Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/231884/joao-pedro-tchoca-brilha-em-retorno-aos-titulares-no-corinthians",
+      "time": "20/11 · 01:33",
+      "pubDate": "Thu, 19 Nov 2026 22:33:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians respira na tabela após goleada histórica e programa pós-vitória ultrapassa 1 milhão de visualizações",
+      "url": "https://www.tudotimao.com.br/noticia/231882/corinthians-respira-na-tabela-apos-goleada-historica-e-programa-pos-vitoria-ultrapassa-1-milhao-de-visualizacoes",
+      "time": "20/11 · 00:53",
+      "pubDate": "Thu, 19 Nov 2026 21:53:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -59,20 +83,44 @@ const LIVE_DATA = {
       "pubDate": "Thu, 19 Nov 2026 21:04:21 +0000"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Memphis volta a participar de gol do Corinthians após quase três meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544357/memphis-volta-a-participar-de-gol-do-corinthians-apos-quase-tres-meses",
-      "time": "19/11 · 21:04",
-      "pubDate": "Thu, 19 Nov 2026 18:04:00 -0300"
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians respira aliviado após vitória e agora mira estabilidade na Série A",
+      "url": "https://www.tudotimao.com.br/noticia/231879/corinthians-respira-aliviado-apos-vitoria-e-agora-mira-estabilidade-na-serie-a",
+      "time": "19/11 · 20:53",
+      "pubDate": "Thu, 19 Nov 2026 17:53:00 -0300"
     },
     {
-      "source": "Meu Timao",
-      "color": "#1a7a3a",
-      "title": "Corinthians inicia preparação para enfrentar o Atlético-MG com retorno de volante",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544430/corinthians-inicia-preparacao-para-enfrentar-o-atletico-mg-com-retorno-de-volante",
-      "time": "19/11 · 20:57",
-      "pubDate": "Thu, 19 Nov 2026 17:57:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Hugo Souza, do Corinthians, será pai de duas meninas",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-souza-duas-filhas-gravidez]]>",
+      "time": "19/11 · 18:37",
+      "pubDate": "Thu, 19 Nov 2026 15:37:50 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Kaio César confirma que quer permanecer no Corinthians em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-confirma-que-quer-permanecer-no-corinthians-em-2027]]>",
+      "time": "19/11 · 17:54",
+      "pubDate": "Thu, 19 Nov 2026 14:54:35 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Valencia, da Espanha, está interessado por Yuri Alberto, do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/valencia-da-espanha-esta-interessado-por-yuri-alberto-do-corinthians]]>",
+      "time": "19/11 · 17:54",
+      "pubDate": "Thu, 19 Nov 2026 14:54:03 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Allan é dúvida no Corinthians após tendinite no tendão de Aquiles",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/allan-e-duvida-no-corinthians-apos-tendinite-no-tendao-de-aquiles]]>",
+      "time": "19/11 · 17:18",
+      "pubDate": "Thu, 19 Nov 2026 14:18:56 -0300"
     },
     {
       "source": "Bolavip",
@@ -117,14 +165,6 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
-      "title": "Kaio César confirma que quer permanecer no Corinthians em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-confirma-que-quer-permanecer-no-corinthians-em-2027]]>",
-      "time": "19/11 · 13:00",
-      "pubDate": "Thu, 19 Nov 2026 10:00:19 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
       "title": "Tite desconversa ao falar do Corinthians após goleada de 4 a 0",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/tite-desconversa-ao-falar-do-corinthians-apos-goleada-de-4-a-0]]>",
       "time": "19/11 · 12:24",
@@ -153,100 +193,11 @@ const LIVE_DATA = {
       "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-conversa-kaio-cesar-corinthians-botafogo/",
       "time": "19/11 · 07:00",
       "pubDate": "Thu, 19 Nov 2026 07:00:02 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf admite surpresa com Memphis após goleada do Corinthians: &#8220;Melhor do que eu esperava&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-exalta-memphis-evolucao-corinthians-botafogo/",
-      "time": "19/11 · 04:19",
-      "pubDate": "Thu, 19 Nov 2026 04:19:23 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Melhores momentos: Corinthians 4 x 0 Botafogo (Brasileirão)",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-corinthians-4-x-0-botafogo-brasileirao/",
-      "time": "19/11 · 03:17",
-      "pubDate": "Thu, 19 Nov 2026 03:17:52 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Após hat-trick, Kaio César abre o jogo sobre momento especial e papel de Seedorf no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/apos-hat-trick-kaio-cesar-abre-o-jogo-sobre-momento-especial-e-papel-de-seedorf-no-corinthians]]>",
-      "time": "19/11 · 02:58",
-      "pubDate": "Wed, 18 Nov 2026 23:58:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians goleia o Botafogo e sai da zona de rebaixamento",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-goleia-o-botafogo-e-sai-da-zona-de-rebaixamento]]>",
-      "time": "19/11 · 02:23",
-      "pubDate": "Wed, 18 Nov 2026 23:23:35 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Ex-Corinthians é presa em operação contra lavagem de dinheiro e tráfico de drogas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/ex-corinthians-e-presa-em-fortaleza-por-organizacao-criminosa-lavagem-de-dinheiro-e-trafico-de-drogas]]>",
-      "time": "18/11 · 20:02",
-      "pubDate": "Wed, 18 Nov 2026 17:02:51 -0300"
     }
   ],
   "upcoming": [],
   "results": [],
   "standings": [],
-  "highlights": [
-    {
-      "title": "Corinthians registra quatro gols e hat-trick em uma mesma partida após mais de um ano; relembre",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544336/corinthians-registra-quatro-gols-e-hat-trick-em-uma-mesma-partida-apos-mais-de-um-ano-relembre",
-      "pubDate": "Thu, 19 Nov 2026 19:31:00 -0300",
-      "date": "19/11 · 22:31"
-    },
-    {
-      "title": "Elenco campeão do Sub-17 do Corinthians dá volta olímpica antes de goleada na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544428/elenco-campeao-do-sub-17-do-corinthians-da-volta-olimpica-antes-de-goleada-na-neo-quimica-arena",
-      "pubDate": "Thu, 19 Nov 2026 18:15:00 -0300",
-      "date": "19/11 · 21:15"
-    },
-    {
-      "title": "Memphis volta a participar de gol do Corinthians após quase três meses",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544357/memphis-volta-a-participar-de-gol-do-corinthians-apos-quase-tres-meses",
-      "pubDate": "Thu, 19 Nov 2026 18:04:00 -0300",
-      "date": "19/11 · 21:04"
-    },
-    {
-      "title": "Corinthians registra melhor sequência sem sofrer gols na temporada desde abril",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544361/corinthians-registra-melhor-sequencia-sem-sofrer-gols-na-temporada-desde-abril",
-      "pubDate": "Thu, 19 Nov 2026 16:35:00 -0300",
-      "date": "19/11 · 19:35"
-    },
-    {
-      "title": "Corinthians bate recorde de visualizações em canal oficial após goleada sobre o Botafogo",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544421/corinthians-bate-recorde-de-visualizacoes-em-canal-oficial-apos-goleada-sobre-o-botafogo",
-      "pubDate": "Thu, 19 Nov 2026 16:15:00 -0300",
-      "date": "19/11 · 19:15"
-    },
-    {
-      "title": "Seedorf fala sobre evolução do trabalho no Corinthians e vê goleada como incentivo para a reta final",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544393/seedorf-fala-sobre-evolucao-do-trabalho-no-corinthians-e-ve-goleada-como-incentivo-para-a-reta-final",
-      "pubDate": "Thu, 19 Nov 2026 16:01:00 -0300",
-      "date": "19/11 · 19:01"
-    },
-    {
-      "title": "Corinthians engata primeira sequência de vitórias no NBB e busca melhor momento desde agosto",
-      "url": "https://www.meutimao.com.br/noticias-do-corinthians/544270/corinthians-engata-primeira-sequencia-de-vitorias-no-nbb-e-busca-melhor-momento-desde-agosto",
-      "pubDate": "Thu, 19 Nov 2026 13:32:00 -0300",
-      "date": "19/11 · 16:32"
-    },
-    {
-      "title": "VÍDEO: Coletiva do técnico Seedorf pós-vitória do Corinthians contra o Botafogo na Neo Química Arena",
-      "url": "https://www.meutimao.com.br/videos-do-corinthians/130809/coletiva-do-tecnico-seedorf-pos-vitoria-do-corinthians-contra-o-botafogo-na-neo-quimica-arena",
-      "pubDate": "Thu, 19 Nov 2026 10:32:55 -0300",
-      "date": "19/11 · 13:32"
-    }
-  ]
+  "highlights": []
 };
 export default LIVE_DATA;
