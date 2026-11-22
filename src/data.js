@@ -1,7 +1,63 @@
-// Gerado automaticamente em 22/11/2026, 15:43:54
+// Gerado automaticamente em 22/11/2026, 22:52:45
 const LIVE_DATA = {
-  "updatedAt": "2026-11-22T15:43:54.269Z",
+  "updatedAt": "2026-11-22T22:52:45.446Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf, Julio César e Stabile acompanham Corinthians x Palmeiras pelo Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-julio-cesar-e-stabile-acompanham-corinthians-x-palmeiras-pelo-paulista-sub-20/",
+      "time": "22/11 · 21:16",
+      "pubDate": "Sun, 22 Nov 2026 21:16:32 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Palmeiras vira sobre o Corinthians e abre vantagem na final do Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/campeonatos/paulista/corinthians-x-palmeiras-paulista-sub-20-final-ida-22-11-2026/",
+      "time": "22/11 · 20:59",
+      "pubDate": "Sun, 22 Nov 2026 20:59:27 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians se despede do Paulistão e busca redenção na Copa Paulista",
+      "url": "https://www.tudotimao.com.br/noticia/231940/corinthians-se-despede-do-paulistao-e-busca-redencao-na-copa-paulista",
+      "time": "22/11 · 19:16",
+      "pubDate": "Sun, 22 Nov 2026 16:16:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians trabalha posse de bola e intensifica preparação para encarar o Atlético-MG",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-trabalha-posse-de-bola-e-intensifica-preparacao-para-encarar-o-atletico-mg/",
+      "time": "22/11 · 18:56",
+      "pubDate": "Sun, 22 Nov 2026 18:56:04 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Giuliano revela bastidores conturbados de Vitor Pereira no Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/231934/giuliano-revela-bastidores-conturbados-de-vitor-pereira-no-corinthians",
+      "time": "22/11 · 16:51",
+      "pubDate": "Sun, 22 Nov 2026 13:51:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Decepcionou muito! Corinthians decide não renovar contrato de lateral",
+      "url": "https://www.tudotimao.com.br/noticia/231931/decepcionou-muito-corinthians-decide-nao-renovar-contrato-de-lateral",
+      "time": "22/11 · 16:47",
+      "pubDate": "Sun, 22 Nov 2026 13:47:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians perde do Bragantino nos pênaltis e cai no Paulistão feminino",
+      "url": "https://www.gazetaesportiva.com/red-bull-bragantino/bragantino-elimina-corinthians-nos-penaltis-e-avanca-a-semifinal-do-paulistao-feminino/",
+      "time": "22/11 · 16:19",
+      "pubDate": "Sun, 22 Nov 2026 16:19:28 +0000"
+    },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
@@ -43,6 +99,22 @@ const LIVE_DATA = {
       "pubDate": "Sun, 22 Nov 2026 14:34:12 +0000"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians, Botafogo, Grêmio e Novorizontino querem Crystopher, do CRB",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-botafogo-gremio-e-novorizontino-querem-crystopher-do-crb]]>",
+      "time": "22/11 · 13:00",
+      "pubDate": "Sun, 22 Nov 2026 10:00:48 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians confirma estiramento do ligamento colateral medial do joelho de Gabriel Paulista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-confirma-estiramento-do-ligamento-colateral-medial-do-joelho-de-gabriel-paulista]]>",
+      "time": "22/11 · 12:12",
+      "pubDate": "Sun, 22 Nov 2026 09:12:57 -0300"
+    },
+    {
       "source": "Tudo Timao",
       "color": "#c8a84b",
       "title": "Corinthians é surpreendido por nova lesão e perde jogador importante até 2027",
@@ -75,76 +147,12 @@ const LIVE_DATA = {
       "pubDate": "Sun, 22 Nov 2026 07:00:24 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians x Bragantino: veja onde assistir ao jogo de ida do play-in do Paulistão F",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-bragantino-veja-onde-assistir-ao-jogo-de-ida-do-play-in-do-paulistao-f/",
-      "time": "21/11 · 23:00",
-      "pubDate": "Sat, 21 Nov 2026 23:00:30 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians confirma estiramento do ligamento colateral medial do joelho de Gabriel Paulista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-confirma-estiramento-do-ligamento-colateral-medial-do-joelho-de-gabriel-paulista]]>",
-      "time": "21/11 · 21:57",
-      "pubDate": "Sat, 21 Nov 2026 18:57:15 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Supostos novos uniformes do Corinthians de 2027 vazam na internet",
-      "url": "https://www.tudotimao.com.br/noticia/231926/supostos-novos-uniformes-do-corinthians-de-2027-vazam-na-internet",
-      "time": "21/11 · 21:47",
-      "pubDate": "Sat, 21 Nov 2026 18:47:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Reunião de pré-mediação pode ser a chave para Corinthians reverter crise financeira",
-      "url": "https://www.tudotimao.com.br/noticia/231924/reuniao-de-pre-mediacao-pode-ser-a-chave-para-corinthians-reverter-crise-financeira",
-      "time": "21/11 · 21:20",
-      "pubDate": "Sat, 21 Nov 2026 18:20:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians, Botafogo, Grêmio e Novorizontino querem Crystopher, do CRB",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-botafogo-gremio-e-novorizontino-querem-crystopher-do-crb]]>",
-      "time": "21/11 · 19:50",
-      "pubDate": "Sat, 21 Nov 2026 16:50:42 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Desfalques dificultam o planejamento do Corinthians antes de decisão",
-      "url": "https://www.tudotimao.com.br/noticia/231922/desfalques-dificultam-o-planejamento-do-corinthians-antes-de-decisao",
-      "time": "21/11 · 19:44",
-      "pubDate": "Sat, 21 Nov 2026 16:44:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Giuliano revela bastidores quentes sobre Vítor Pereira no Corinthians",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/giuliano-revela-bastidores-quentes-sobre-vitor-pereira-no-corinthians]]>",
       "time": "21/11 · 17:25",
       "pubDate": "Sat, 21 Nov 2026 14:25:37 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Gabriel Paulista sofre lesão no joelho e volta a ser desfalque no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treino-atletico-mg-gabriel-paulista-lesao/",
-      "time": "21/11 · 17:08",
-      "pubDate": "Sat, 21 Nov 2026 17:08:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja fotos do treino do Corinthians deste sábado",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-deste-sabado-20/",
-      "time": "21/11 · 17:06",
-      "pubDate": "Sat, 21 Nov 2026 17:06:12 +0000"
     },
     {
       "source": "Bolavip",
@@ -185,14 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-henrique-relembra-momentos-de-tensao-e-pressao-no-corinthians]]>",
       "time": "21/11 · 12:26",
       "pubDate": "Sat, 21 Nov 2026 09:26:52 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Protagonista no Corinthians, Kaio César vive temporada mais artilheira da carreira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/protagonista-no-corinthians-kaio-cesar-vive-temporada-mais-artilheira-da-carreira/",
-      "time": "21/11 · 10:00",
-      "pubDate": "Sat, 21 Nov 2026 10:00:54 +0000"
     }
   ],
   "upcoming": [],
