@@ -1,7 +1,95 @@
-// Gerado automaticamente em 21/11/2026, 22:29:29
+// Gerado automaticamente em 22/11/2026, 15:43:54
 const LIVE_DATA = {
-  "updatedAt": "2026-11-21T22:29:29.389Z",
+  "updatedAt": "2026-11-22T15:43:54.269Z",
   "news": [
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Atlético-MG perde Sul-Americana e Corinthians terá adversário pressionado na Arena MRV",
+      "url": "https://www.tudotimao.com.br/noticia/231935/atletico-mg-perde-sul-americana-e-corinthians-tera-adversario-pressionado-na-arena-mrv",
+      "time": "22/11 · 15:00",
+      "pubDate": "Sun, 22 Nov 2026 12:00:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians se prepara para confronto contra o Atlético-MG",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-prepara-para-confronto-contra-o-atletico-mg/",
+      "time": "22/11 · 14:46",
+      "pubDate": "Sun, 22 Nov 2026 14:46:53 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians bate o martelo e define primeira saída para 2027",
+      "url": "https://www.tudotimao.com.br/noticia/231932/corinthians-bate-o-martelo-e-define-primeira-saida-para-2027",
+      "time": "22/11 · 14:43",
+      "pubDate": "Sun, 22 Nov 2026 11:43:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Fluminense mira Raniele para 2027 e Corinthians pode receber proposta milionária",
+      "url": "https://www.tudotimao.com.br/noticia/231933/fluminense-mira-raniele-para-2027-e-corinthians-pode-receber-proposta-milionaria",
+      "time": "22/11 · 14:40",
+      "pubDate": "Sun, 22 Nov 2026 11:40:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Há 11 anos, Corinthians atropelou o São Paulo por 6 a 1 pelo Brasileirão: relembre em fotos os gols",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fotos-os-seis-gols-do-corinthians/",
+      "time": "22/11 · 14:34",
+      "pubDate": "Sun, 22 Nov 2026 14:34:12 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians é surpreendido por nova lesão e perde jogador importante até 2027",
+      "url": "https://www.tudotimao.com.br/noticia/231928/corinthians-e-surpreendido-por-nova-lesao-e-perde-jogador-importante-ate-2027",
+      "time": "22/11 · 11:34",
+      "pubDate": "Sun, 22 Nov 2026 08:34:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians passa três jogos sem sofrer gols e Seedorf revela força do novo sistema",
+      "url": "https://www.tudotimao.com.br/noticia/231927/corinthians-passa-tres-jogos-sem-sofrer-gols-e-seedorf-revela-forca-do-novo-sistema",
+      "time": "22/11 · 11:32",
+      "pubDate": "Sun, 22 Nov 2026 08:32:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf comanda melhor sequência do Corinthians no Brasileiro desde agosto",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-comanda-melhor-sequencia-do-corinthians-no-brasileiro-desde-agosto/",
+      "time": "22/11 · 10:00",
+      "pubDate": "Sun, 22 Nov 2026 10:00:43 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Palmeiras: saiba onde assistir ao jogo de ida da final do Paulista sub-20",
+      "url": "https://www.gazetaesportiva.com/campeonatos/paulista/corinthians-x-palmeiras-saiba-onde-assistir-ao-jogo-de-ida-da-final-do-paulista-sub-20/",
+      "time": "22/11 · 07:00",
+      "pubDate": "Sun, 22 Nov 2026 07:00:24 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Bragantino: veja onde assistir ao jogo de ida do play-in do Paulistão F",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-bragantino-veja-onde-assistir-ao-jogo-de-ida-do-play-in-do-paulistao-f/",
+      "time": "21/11 · 23:00",
+      "pubDate": "Sat, 21 Nov 2026 23:00:30 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians confirma estiramento do ligamento colateral medial do joelho de Gabriel Paulista",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-confirma-estiramento-do-ligamento-colateral-medial-do-joelho-de-gabriel-paulista]]>",
+      "time": "21/11 · 21:57",
+      "pubDate": "Sat, 21 Nov 2026 18:57:15 -0300"
+    },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
@@ -19,6 +107,14 @@ const LIVE_DATA = {
       "pubDate": "Sat, 21 Nov 2026 18:20:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians, Botafogo, Grêmio e Novorizontino querem Crystopher, do CRB",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-botafogo-gremio-e-novorizontino-querem-crystopher-do-crb]]>",
+      "time": "21/11 · 19:50",
+      "pubDate": "Sat, 21 Nov 2026 16:50:42 -0300"
+    },
+    {
       "source": "Tudo Timao",
       "color": "#c8a84b",
       "title": "Desfalques dificultam o planejamento do Corinthians antes de decisão",
@@ -27,12 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 21 Nov 2026 16:44:00 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Hat-trick histórico de Kaio César no Corinthians acende esperança da torcida",
-      "url": "https://www.tudotimao.com.br/noticia/231917/hat-trick-historico-de-kaio-cesar-no-corinthians-acende-esperanca-da-torcida",
-      "time": "21/11 · 17:15",
-      "pubDate": "Sat, 21 Nov 2026 14:15:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Giuliano revela bastidores quentes sobre Vítor Pereira no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/giuliano-revela-bastidores-quentes-sobre-vitor-pereira-no-corinthians]]>",
+      "time": "21/11 · 17:25",
+      "pubDate": "Sat, 21 Nov 2026 14:25:37 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -91,108 +187,12 @@ const LIVE_DATA = {
       "pubDate": "Sat, 21 Nov 2026 09:26:52 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians anuncia reforço de 18 anos, mas transfer ban impede registro",
-      "url": "https://www.tudotimao.com.br/noticia/231913/corinthians-anuncia-reforco-de-18-anos-mas-transfer-ban-impede-registro",
-      "time": "21/11 · 11:41",
-      "pubDate": "Sat, 21 Nov 2026 08:41:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Hugo completa 287 dias sem jogar pelo Corinthians e futuro no clube fica ameaçado",
-      "url": "https://www.tudotimao.com.br/noticia/231915/hugo-completa-287-dias-sem-jogar-pelo-corinthians-e-futuro-no-clube-fica-ameacado",
-      "time": "21/11 · 11:38",
-      "pubDate": "Sat, 21 Nov 2026 08:38:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Seedorf faz Corinthians disparar em ranking e números impressionam no Brasileirão",
-      "url": "https://www.tudotimao.com.br/noticia/231914/seedorf-faz-corinthians-disparar-em-ranking-e-numeros-impressionam-no-brasileirao",
-      "time": "21/11 · 10:19",
-      "pubDate": "Sat, 21 Nov 2026 07:19:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Protagonista no Corinthians, Kaio César vive temporada mais artilheira da carreira",
       "url": "https://www.gazetaesportiva.com/times/corinthians/protagonista-no-corinthians-kaio-cesar-vive-temporada-mais-artilheira-da-carreira/",
       "time": "21/11 · 10:00",
       "pubDate": "Sat, 21 Nov 2026 10:00:54 +0000"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Allan força ausência contra o Botafogo e deve deixar o Corinthians em 2027",
-      "url": "https://www.tudotimao.com.br/noticia/231909/allan-forca-ausencia-contra-o-botafogo-e-deve-deixar-o-corinthians-em-2027",
-      "time": "20/11 · 23:06",
-      "pubDate": "Fri, 20 Nov 2026 20:06:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf planeja apenas uma mudança na escalação em Atlético-MG x Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-planeja-apenas-uma-mudanca-na-escalacao-em-atletico-mg-x-corinthians]]>",
-      "time": "20/11 · 18:58",
-      "pubDate": "Fri, 20 Nov 2026 15:58:51 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Compra de Kaio César custa ao Corinthians quase o mesmo que De Bruyne",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/compra-de-kaio-cesar-custa-ao-corinthians-quase-o-mesmo-que-de-bruyne]]>",
-      "time": "20/11 · 17:24",
-      "pubDate": "Fri, 20 Nov 2026 14:24:50 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians lança plataforma de combate ao racismo no dia da Consciência Negra",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-lanca-plataforma-de-combate-ao-racismo-no-mes-da-consciencia-negra/",
-      "time": "20/11 · 14:39",
-      "pubDate": "Fri, 20 Nov 2026 14:39:08 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf faz pedidos na Data Fifa e situação de Memphis Depay muda no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-faz-pedidos-na-data-fifa-e-situacao-de-memphis-depay-muda-no-corinthians]]>",
-      "time": "20/11 · 14:03",
-      "pubDate": "Fri, 20 Nov 2026 11:03:50 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Tchoca volta a ganhar sequência no Corinthians e busca espaço com Seedorf",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/tchoca-volta-a-ganhar-sequencia-no-corinthians-e-busca-espaco-com-seedorf/",
-      "time": "20/11 · 10:00",
-      "pubDate": "Fri, 20 Nov 2026 10:00:51 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com André de volta, Corinthians abre preparação para encarar o Atlético-MG",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-andre-de-volta-corinthians-abre-preparacao-para-encarar-o-atletico-mg/",
-      "time": "19/11 · 21:04",
-      "pubDate": "Thu, 19 Nov 2026 21:04:21 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf diz que Corinthians não pode relaxar e revela surpresa com Memphis",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-diz-que-corinthians-nao-pode-relaxar-e-revela-surpresa-com-memphis/",
-      "time": "19/11 · 14:57",
-      "pubDate": "Thu, 19 Nov 2026 14:57:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians reduz risco de rebaixamento em 30% após goleada sobre o Botafogo",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reduz-risco-de-rebaixamento-em-30-apos-goleada-sobre-o-botafogo/",
-      "time": "19/11 · 14:27",
-      "pubDate": "Thu, 19 Nov 2026 14:27:14 +0000"
     }
   ],
   "upcoming": [],
