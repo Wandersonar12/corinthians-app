@@ -1,7 +1,103 @@
-// Gerado automaticamente em 24/11/2026, 05:37:39
+// Gerado automaticamente em 24/11/2026, 19:08:00
 const LIVE_DATA = {
-  "updatedAt": "2026-11-24T05:37:39.378Z",
+  "updatedAt": "2026-11-24T19:08:00.974Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians encerra preparação para encarar o Atlético-MG; veja provável escalação",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-finaliza-preparacao-atletico-mg-brasileirao/",
+      "time": "24/11 · 18:54",
+      "pubDate": "Tue, 24 Nov 2026 18:54:11 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja fotos do último treino do Corinthians antes de encarar o Atlético-MG",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-encarar-o-atletico-mg/",
+      "time": "24/11 · 18:26",
+      "pubDate": "Tue, 24 Nov 2026 18:26:23 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Crise financeira no Corinthians coloca futuro em risco",
+      "url": "https://www.tudotimao.com.br/noticia/231987/crise-financeira-no-corinthians-coloca-futuro-em-risco",
+      "time": "24/11 · 17:47",
+      "pubDate": "Tue, 24 Nov 2026 14:47:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Torcida do Corinthians se une em protesto por intervenção",
+      "url": "https://www.tudotimao.com.br/noticia/231986/torcida-do-corinthians-se-une-em-protesto-por-intervencao",
+      "time": "24/11 · 17:45",
+      "pubDate": "Tue, 24 Nov 2026 14:45:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Retorno de Garro dá esperança ao Corinthians contra o Galo",
+      "url": "https://www.tudotimao.com.br/noticia/231990/retorno-de-garro-da-esperanca-ao-corinthians-contra-o-galo",
+      "time": "24/11 · 17:44",
+      "pubDate": "Tue, 24 Nov 2026 14:44:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians pede suspensão de cobrança e pode perder proteção",
+      "url": "https://www.tudotimao.com.br/noticia/231982/corinthians-pede-suspensao-de-cobranca-e-pode-perder-protecao",
+      "time": "24/11 · 17:44",
+      "pubDate": "Tue, 24 Nov 2026 14:44:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Renasceu com Seedorf: Vitinho se destaca e Corinthians pode renovar",
+      "url": "https://www.tudotimao.com.br/noticia/231976/renasceu-com-seedorf-vitinho-se-destaca-e-corinthians-pode-renovar",
+      "time": "24/11 · 14:50",
+      "pubDate": "Tue, 24 Nov 2026 11:50:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Dívida de 2.8 BI pode gerar Intervenção e troca de comando no Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/231977/divida-de-2-8-bi-pode-gerar-intervencao-e-troca-de-comando-no-corinthians",
+      "time": "24/11 · 14:45",
+      "pubDate": "Tue, 24 Nov 2026 11:45:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "MP leva pedido de intervenção judicial no Corinthians à Justiça",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/mp-leva-pedido-de-intervencao-judicial-no-corinthians-a-justica/",
+      "time": "24/11 · 13:45",
+      "pubDate": "Tue, 24 Nov 2026 13:45:33 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians mira reencontro com a vitória fora de casa em reta final",
+      "url": "https://www.tudotimao.com.br/noticia/231979/corinthians-mira-reencontro-com-a-vitoria-fora-de-casa-em-reta-final",
+      "time": "24/11 · 12:31",
+      "pubDate": "Tue, 24 Nov 2026 09:31:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atlético-MG x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atletico-mg-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileirao/",
+      "time": "24/11 · 09:00",
+      "pubDate": "Tue, 24 Nov 2026 09:00:09 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Zé Mendes quer CEO no Corinthians e apoia SAFiel: &#8220;Assino no primeiro dia&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/ze-mendes-ceo-saf-choque-de-gestao-corinthians/",
+      "time": "24/11 · 07:00",
+      "pubDate": "Tue, 24 Nov 2026 07:00:23 +0000"
+    },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
@@ -9,22 +105,6 @@ const LIVE_DATA = {
       "url": "https://www.tudotimao.com.br/noticia/231967/jo-ve-seedorf-como-o-salvador-do-corinthians-e-aposta-na-recuperacao",
       "time": "24/11 · 01:42",
       "pubDate": "Mon, 23 Nov 2026 22:42:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians se reúne com credores para renegociar dívida de quase R$3 bilhões",
-      "url": "https://www.tudotimao.com.br/noticia/231965/corinthians-se-reune-com-credores-para-renegociar-divida-de-quase-r-3-bilhoes",
-      "time": "24/11 · 01:03",
-      "pubDate": "Mon, 23 Nov 2026 22:03:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Rodrigo Garro se reapresenta e pode ser o trunfo do Corinthians",
-      "url": "https://www.tudotimao.com.br/noticia/231958/rodrigo-garro-se-reapresenta-e-pode-ser-o-trunfo-do-corinthians",
-      "time": "24/11 · 00:08",
-      "pubDate": "Mon, 23 Nov 2026 21:08:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -35,36 +115,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 23 Nov 2026 23:38:04 +0000"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Presidente do Cuiabá detona Corinthians e rival",
-      "url": "https://www.tudotimao.com.br/noticia/231963/presidente-do-cuiaba-detona-corinthians-e-rival",
-      "time": "23/11 · 23:17",
-      "pubDate": "Mon, 23 Nov 2026 20:17:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Gestação dupla gera polêmica: Hugo Souza, do Corinthians, entre ex-noiva e nova companheira",
-      "url": "https://www.tudotimao.com.br/noticia/231961/gestacao-dupla-gera-polemica-hugo-souza-do-corinthians-entre-ex-noiva-e-nova-companheira",
-      "time": "23/11 · 22:01",
-      "pubDate": "Mon, 23 Nov 2026 19:01:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians intensifica preparação para a reta final do Brasileirão",
       "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-intensifica-preparacao-para-a-reta-final-do-brasileirao/",
       "time": "23/11 · 20:53",
       "pubDate": "Mon, 23 Nov 2026 20:53:35 +0000"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Vitinho afirma que quer ficar no Corinthians em meio à crise financeira",
-      "url": "https://www.tudotimao.com.br/noticia/231960/vitinho-afirma-que-quer-ficar-no-corinthians-em-meio-a-crise-financeira",
-      "time": "23/11 · 20:18",
-      "pubDate": "Mon, 23 Nov 2026 17:18:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -75,68 +131,12 @@ const LIVE_DATA = {
       "pubDate": "Mon, 23 Nov 2026 19:02:53 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta segunda-feira",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-segunda-feira-7/",
-      "time": "23/11 · 18:49",
-      "pubDate": "Mon, 23 Nov 2026 18:49:19 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Vitinho elogia trabalho de Seedorf e evita falar de renovação com o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/vitinho-elogia-trabalho-de-seedorf-e-evita-falar-de-renovacao-com-o-corinthians/",
-      "time": "23/11 · 17:29",
-      "pubDate": "Mon, 23 Nov 2026 17:29:48 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com possível reforço, Corinthians faz penúltimo treino com foco no Atlético-MG",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-possivel-reforco-corinthians-faz-penultimo-treino-com-foco-no-atletico-mg/",
-      "time": "23/11 · 16:40",
-      "pubDate": "Mon, 23 Nov 2026 16:40:30 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Seedorf conquista elenco do Corinthians e recebe elogios",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-conquista-elenco-do-corinthians-e-recebe-elogios]]>",
       "time": "23/11 · 16:31",
       "pubDate": "Mon, 23 Nov 2026 13:31:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians enfrenta dois jogos importantes antes da eleição",
-      "url": "https://www.tudotimao.com.br/noticia/231948/corinthians-enfrenta-dois-jogos-importantes-antes-da-eleicao",
-      "time": "23/11 · 15:42",
-      "pubDate": "Mon, 23 Nov 2026 12:42:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians goleia, mas atraso salarial aumenta crise no elenco",
-      "url": "https://www.tudotimao.com.br/noticia/231950/corinthians-goleia-mas-atraso-salarial-aumenta-crise-no-elenco",
-      "time": "23/11 · 15:38",
-      "pubDate": "Mon, 23 Nov 2026 12:38:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians terá semana decisiva para encaminhar permanência na Série A",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-semana-decisiva-permanencia-serie-a/",
-      "time": "23/11 · 10:00",
-      "pubDate": "Mon, 23 Nov 2026 10:00:46 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf, Julio César e Stabile acompanham Corinthians x Palmeiras pelo Paulista sub-20",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-julio-cesar-e-stabile-acompanham-corinthians-x-palmeiras-pelo-paulista-sub-20/",
-      "time": "22/11 · 21:16",
-      "pubDate": "Sun, 22 Nov 2026 21:16:32 +0000"
     },
     {
       "source": "Bolavip",
