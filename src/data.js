@@ -1,7 +1,71 @@
-// Gerado automaticamente em 25/11/2026, 04:38:51
+// Gerado automaticamente em 25/11/2026, 18:13:45
 const LIVE_DATA = {
-  "updatedAt": "2026-11-25T04:38:51.718Z",
+  "updatedAt": "2026-11-25T18:13:45.040Z",
   "news": [
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians nega afastamento de Allan e explica ausência contra o Atlético-MG",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-nega-afastamento-de-allan-e-explica-ausencia-contra-o-atletico-mg/",
+      "time": "25/11 · 16:55",
+      "pubDate": "Wed, 25 Nov 2026 16:55:01 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians precisa vencer o Atlético-MG para fugir do rebaixamento",
+      "url": "https://www.tudotimao.com.br/noticia/232025/corinthians-precisa-vencer-o-atletico-mg-para-fugir-do-rebaixamento",
+      "time": "25/11 · 16:50",
+      "pubDate": "Wed, 25 Nov 2026 13:50:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Palmeiras anuncia ingressos gratuitos para final do Paulista sub-20 contra o Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-ingressos-gratuitos-para-final-do-paulista-sub-20-contra-o-corinthians/",
+      "time": "25/11 · 12:58",
+      "pubDate": "Wed, 25 Nov 2026 12:58:53 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Duelo crucial! Corinthians pode deixar o Z4 contra o Atlético-MG",
+      "url": "https://www.tudotimao.com.br/noticia/232019/duelo-crucial-corinthians-pode-deixar-o-z4-contra-o-atletico-mg",
+      "time": "25/11 · 12:58",
+      "pubDate": "Wed, 25 Nov 2026 09:58:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Atlético Mineiro x Corinthians: onde assistir e provável escalação",
+      "url": "https://www.tudotimao.com.br/noticia/232018/atletico-mineiro-x-corinthians-onde-assistir-e-provavel-escalacao",
+      "time": "25/11 · 12:48",
+      "pubDate": "Wed, 25 Nov 2026 09:48:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Vai virar SAF? Candidato aposta em SAF para mudar o Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/232017/vai-virar-saf-candidato-aposta-em-saf-para-mudar-o-corinthians",
+      "time": "25/11 · 12:36",
+      "pubDate": "Wed, 25 Nov 2026 09:36:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians e Santos estreiam na Copinha Feminina; veja onde assistir e horários",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-sao-paulo/corinthians-e-santos-estreiam-na-copinha-feminina-veja-onde-assistir-e-horarios/",
+      "time": "25/11 · 11:00",
+      "pubDate": "Wed, 25 Nov 2026 11:00:54 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians busca quebrar tabu na Arena MRV para se afastar do Z4 contra o Atlético-MG",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/retrospecto-atletico-mg-corinthians-arena-mrv/",
+      "time": "25/11 · 10:00",
+      "pubDate": "Wed, 25 Nov 2026 10:00:20 +0000"
+    },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
@@ -59,44 +123,12 @@ const LIVE_DATA = {
       "pubDate": "Tue, 24 Nov 2026 23:00:47 +0000"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians faz último treino antes de jogo contra o Atlético-MG em BH",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-faz-ultimo-treino-antes-de-jogo-contra-o-atletico-mg-em-bh/",
-      "time": "24/11 · 22:41",
-      "pubDate": "Tue, 24 Nov 2026 22:41:39 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Justiça não concede pedido de intervenção no Corinthians e pede esclarecimentos ao MP",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-pedido-intervencao-judicial-corinthians/",
-      "time": "24/11 · 22:34",
-      "pubDate": "Tue, 24 Nov 2026 22:34:15 +0000"
-    },
-    {
       "source": "Tudo Timao",
       "color": "#c8a84b",
       "title": "Intervenção no Corinthians: juíza questiona MP sobre irregularidades",
       "url": "https://www.tudotimao.com.br/noticia/232006/intervencao-no-corinthians-juiza-questiona-mp-sobre-irregularidades",
       "time": "24/11 · 22:05",
       "pubDate": "Tue, 24 Nov 2026 19:05:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf prega foco no Corinthians para escapar do rebaixamento: &#8220;Está nas nossas mãos&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-corinthians-foco-atletico-mg-luta-contra-rebaixamento/",
-      "time": "24/11 · 20:19",
-      "pubDate": "Tue, 24 Nov 2026 20:19:18 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf confirma volta de Garro e destaca que Corinthians depende só de si",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-confirma-volta-de-garro-e-destaca-que-corinthians-depende-so-de-si/",
-      "time": "24/11 · 19:59",
-      "pubDate": "Tue, 24 Nov 2026 19:59:23 +0000"
     },
     {
       "source": "Bolavip",
@@ -113,38 +145,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-publica-nota-oficial-apos-pedido-de-intervencao-judicial-do-mp]]>",
       "time": "24/11 · 18:31",
       "pubDate": "Tue, 24 Nov 2026 15:31:30 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Crise financeira no Corinthians coloca futuro em risco",
-      "url": "https://www.tudotimao.com.br/noticia/231987/crise-financeira-no-corinthians-coloca-futuro-em-risco",
-      "time": "24/11 · 17:47",
-      "pubDate": "Tue, 24 Nov 2026 14:47:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Torcida do Corinthians se une em protesto por intervenção",
-      "url": "https://www.tudotimao.com.br/noticia/231986/torcida-do-corinthians-se-une-em-protesto-por-intervencao",
-      "time": "24/11 · 17:45",
-      "pubDate": "Tue, 24 Nov 2026 14:45:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Retorno de Garro dá esperança ao Corinthians contra o Galo",
-      "url": "https://www.tudotimao.com.br/noticia/231990/retorno-de-garro-da-esperanca-ao-corinthians-contra-o-galo",
-      "time": "24/11 · 17:44",
-      "pubDate": "Tue, 24 Nov 2026 14:44:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians pede suspensão de cobrança e pode perder proteção",
-      "url": "https://www.tudotimao.com.br/noticia/231982/corinthians-pede-suspensao-de-cobranca-e-pode-perder-protecao",
-      "time": "24/11 · 17:44",
-      "pubDate": "Tue, 24 Nov 2026 14:44:00 -0300"
     },
     {
       "source": "Bolavip",
