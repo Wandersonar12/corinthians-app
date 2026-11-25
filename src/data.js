@@ -1,22 +1,118 @@
-// Gerado automaticamente em 24/11/2026, 19:08:00
+// Gerado automaticamente em 25/11/2026, 04:38:51
 const LIVE_DATA = {
-  "updatedAt": "2026-11-24T19:08:00.974Z",
+  "updatedAt": "2026-11-25T04:38:51.718Z",
   "news": [
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians encerra preparação para encarar o Atlético-MG; veja provável escalação",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-finaliza-preparacao-atletico-mg-brasileirao/",
-      "time": "24/11 · 18:54",
-      "pubDate": "Tue, 24 Nov 2026 18:54:11 +0000"
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Pressão em BH: Corinthians busca respiro contra Atlético-MG",
+      "url": "https://www.tudotimao.com.br/noticia/232013/pressao-em-bh-corinthians-busca-respiro-contra-atletico-mg",
+      "time": "25/11 · 01:28",
+      "pubDate": "Tue, 24 Nov 2026 22:28:00 -0300"
     },
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Veja fotos do último treino do Corinthians antes de encarar o Atlético-MG",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-encarar-o-atletico-mg/",
-      "time": "24/11 · 18:26",
-      "pubDate": "Tue, 24 Nov 2026 18:26:23 +0000"
+      "title": "Com Garro, Corinthians chega a BH para duelo decisivo contra o Atlético-MG",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/com-garro-corinthians-chega-a-bh-para-duelo-decisivo-contra-o-atletico-mg/",
+      "time": "25/11 · 01:25",
+      "pubDate": "Wed, 25 Nov 2026 01:25:04 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians inicia reformulação no elenco feminino",
+      "url": "https://www.tudotimao.com.br/noticia/232014/corinthians-inicia-reformulacao-no-elenco-feminino",
+      "time": "25/11 · 01:11",
+      "pubDate": "Tue, 24 Nov 2026 22:11:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Vitinho destaca leveza e comunicação de Seedorf como chave do Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/232009/vitinho-destaca-leveza-e-comunicacao-de-seedorf-como-chave-do-corinthians",
+      "time": "25/11 · 01:09",
+      "pubDate": "Tue, 24 Nov 2026 22:09:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians inicia modernização dos telões da Neo Química Arena",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-inicia-modernizacao-dos-teloes-da-neo-quimica-arena/",
+      "time": "25/11 · 00:33",
+      "pubDate": "Wed, 25 Nov 2026 00:33:35 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Copinha 2027: veja os grupos de Corinthians, Palmeiras, São Paulo e Santos",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-sao-paulo/copinha-2027-veja-os-grupos-de-corinthians-palmeiras-sao-paulo-e-santos/",
+      "time": "24/11 · 23:08",
+      "pubDate": "Tue, 24 Nov 2026 23:08:03 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atlético-MG x Corinthians pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atletico-mg-x-corinthians-brasileirao-rodada-36/",
+      "time": "24/11 · 23:00",
+      "pubDate": "Tue, 24 Nov 2026 23:00:47 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians faz último treino antes de jogo contra o Atlético-MG em BH",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-faz-ultimo-treino-antes-de-jogo-contra-o-atletico-mg-em-bh/",
+      "time": "24/11 · 22:41",
+      "pubDate": "Tue, 24 Nov 2026 22:41:39 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Justiça não concede pedido de intervenção no Corinthians e pede esclarecimentos ao MP",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/justica-pedido-intervencao-judicial-corinthians/",
+      "time": "24/11 · 22:34",
+      "pubDate": "Tue, 24 Nov 2026 22:34:15 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Intervenção no Corinthians: juíza questiona MP sobre irregularidades",
+      "url": "https://www.tudotimao.com.br/noticia/232006/intervencao-no-corinthians-juiza-questiona-mp-sobre-irregularidades",
+      "time": "24/11 · 22:05",
+      "pubDate": "Tue, 24 Nov 2026 19:05:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf prega foco no Corinthians para escapar do rebaixamento: &#8220;Está nas nossas mãos&#8221;",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-corinthians-foco-atletico-mg-luta-contra-rebaixamento/",
+      "time": "24/11 · 20:19",
+      "pubDate": "Tue, 24 Nov 2026 20:19:18 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf confirma volta de Garro e destaca que Corinthians depende só de si",
+      "url": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-confirma-volta-de-garro-e-destaca-que-corinthians-depende-so-de-si/",
+      "time": "24/11 · 19:59",
+      "pubDate": "Tue, 24 Nov 2026 19:59:23 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Rodrigo Garro é confirmado por Seedorf em Atlético-MG x Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-e-confirmado-por-seedorf-em-atletico-mg-x-corinthians]]>",
+      "time": "24/11 · 18:40",
+      "pubDate": "Tue, 24 Nov 2026 15:40:07 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians publica nota oficial após pedido de intervenção judicial do MP",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-publica-nota-oficial-apos-pedido-de-intervencao-judicial-do-mp]]>",
+      "time": "24/11 · 18:31",
+      "pubDate": "Tue, 24 Nov 2026 15:31:30 -0300"
     },
     {
       "source": "Tudo Timao",
@@ -51,84 +147,44 @@ const LIVE_DATA = {
       "pubDate": "Tue, 24 Nov 2026 14:44:00 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Renasceu com Seedorf: Vitinho se destaca e Corinthians pode renovar",
-      "url": "https://www.tudotimao.com.br/noticia/231976/renasceu-com-seedorf-vitinho-se-destaca-e-corinthians-pode-renovar",
-      "time": "24/11 · 14:50",
-      "pubDate": "Tue, 24 Nov 2026 11:50:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vitinho, do Corinthians, revela onde quer jogar em 2027: “Será um prazer”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vitinho-do-corinthians-revela-onde-quer-jogar-em-2027-sera-um-prazer]]>",
+      "time": "24/11 · 14:23",
+      "pubDate": "Tue, 24 Nov 2026 11:23:11 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Dívida de 2.8 BI pode gerar Intervenção e troca de comando no Corinthians",
-      "url": "https://www.tudotimao.com.br/noticia/231977/divida-de-2-8-bi-pode-gerar-intervencao-e-troca-de-comando-no-corinthians",
-      "time": "24/11 · 14:45",
-      "pubDate": "Tue, 24 Nov 2026 11:45:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Gabigol elogia gramado do estádio do Corinthians: “Tapete”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabigol-elogia-gramado-do-estadio-do-corinthians-tapete]]>",
+      "time": "24/11 · 13:43",
+      "pubDate": "Tue, 24 Nov 2026 10:43:10 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "MP leva pedido de intervenção judicial no Corinthians à Justiça",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/mp-leva-pedido-de-intervencao-judicial-no-corinthians-a-justica/",
-      "time": "24/11 · 13:45",
-      "pubDate": "Tue, 24 Nov 2026 13:45:33 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians é humilhado por Cristiano Dresch, presidente do Cuiabá",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-humilhado-por-cristiano-dresch-presidente-do-cuiaba]]>",
+      "time": "24/11 · 12:58",
+      "pubDate": "Tue, 24 Nov 2026 09:58:03 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians mira reencontro com a vitória fora de casa em reta final",
-      "url": "https://www.tudotimao.com.br/noticia/231979/corinthians-mira-reencontro-com-a-vitoria-fora-de-casa-em-reta-final",
-      "time": "24/11 · 12:31",
-      "pubDate": "Tue, 24 Nov 2026 09:31:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Vagner Mancini abre o jogo sobre contratação de Kaio César, do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/vagner-mancini-abre-o-jogo-sobre-contratacao-de-kaio-cesar-do-corinthians]]>",
+      "time": "24/11 · 12:20",
+      "pubDate": "Tue, 24 Nov 2026 09:20:54 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atlético-MG x Corinthians: prováveis escalações e onde assistir ao jogo pelo Brasileirão",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atletico-mg-x-corinthians-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileirao/",
-      "time": "24/11 · 09:00",
-      "pubDate": "Tue, 24 Nov 2026 09:00:09 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Zé Mendes quer CEO no Corinthians e apoia SAFiel: &#8220;Assino no primeiro dia&#8221;",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/ze-mendes-ceo-saf-choque-de-gestao-corinthians/",
-      "time": "24/11 · 07:00",
-      "pubDate": "Tue, 24 Nov 2026 07:00:23 +0000"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Jô vê Seedorf como o \"salvador\" do Corinthians e aposta na recuperação",
-      "url": "https://www.tudotimao.com.br/noticia/231967/jo-ve-seedorf-como-o-salvador-do-corinthians-e-aposta-na-recuperacao",
-      "time": "24/11 · 01:42",
-      "pubDate": "Mon, 23 Nov 2026 22:42:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Parceiro de Santos e Corinthians: conheça app de IA que revela talentos no futebol",
-      "url": "https://www.gazetaesportiva.com/futebol/futebol-internacional/parceiro-de-santos-e-corinthians-app-de-inteligencia-artificial-para-revelar-talentos-chega-a-europa/",
-      "time": "23/11 · 23:38",
-      "pubDate": "Mon, 23 Nov 2026 23:38:04 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians intensifica preparação para a reta final do Brasileirão",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-intensifica-preparacao-para-a-reta-final-do-brasileirao/",
-      "time": "23/11 · 20:53",
-      "pubDate": "Mon, 23 Nov 2026 20:53:35 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Tchoca exalta mentalidade de Seedorf e comenta busca por espaço no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/tchoca-exalta-mentalidade-de-seedorf-e-comenta-busca-por-espaco-no-corinthians/",
-      "time": "23/11 · 19:02",
-      "pubDate": "Mon, 23 Nov 2026 19:02:53 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians estuda contratar centroavante de 35 anos sem gastar nenhum centavo",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-contratar-centroavante-de-35-anos-sem-gastar-nenhum-centavo]]>",
+      "time": "24/11 · 11:52",
+      "pubDate": "Tue, 24 Nov 2026 08:52:20 -0300"
     },
     {
       "source": "Bolavip",
@@ -137,62 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-conquista-elenco-do-corinthians-e-recebe-elogios]]>",
       "time": "23/11 · 16:31",
       "pubDate": "Mon, 23 Nov 2026 13:31:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians, Botafogo, Grêmio e Novorizontino querem Crystopher, do CRB",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-botafogo-gremio-e-novorizontino-querem-crystopher-do-crb]]>",
-      "time": "22/11 · 13:00",
-      "pubDate": "Sun, 22 Nov 2026 10:00:48 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians confirma estiramento do ligamento colateral medial do joelho de Gabriel Paulista",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-confirma-estiramento-do-ligamento-colateral-medial-do-joelho-de-gabriel-paulista]]>",
-      "time": "22/11 · 12:12",
-      "pubDate": "Sun, 22 Nov 2026 09:12:57 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Giuliano revela bastidores quentes sobre Vítor Pereira no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/giuliano-revela-bastidores-quentes-sobre-vitor-pereira-no-corinthians]]>",
-      "time": "21/11 · 17:25",
-      "pubDate": "Sat, 21 Nov 2026 14:25:37 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians convoca Roger Guedes e +239 para renegociar dívidas",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-convoca-roger-guedes-e-239-para-renegociar-dividas]]>",
-      "time": "21/11 · 14:25",
-      "pubDate": "Sat, 21 Nov 2026 11:25:09 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Demissão de Tite após goleada do Corinthians está descartada no Botafogo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/demissao-de-tite-apos-goleada-do-corinthians-esta-descartada-no-botafogo]]>",
-      "time": "21/11 · 14:13",
-      "pubDate": "Sat, 21 Nov 2026 11:13:50 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Hugo perde espaço com Seedorf, não joga há 9 meses e vai sair do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/hugo-perde-espaco-com-seedorf-nao-joga-ha-9-meses-e-vai-sair-do-corinthians]]>",
-      "time": "21/11 · 14:12",
-      "pubDate": "Sat, 21 Nov 2026 11:12:28 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Pedro Henrique relembra momentos de tensão e pressão no Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/pedro-henrique-relembra-momentos-de-tensao-e-pressao-no-corinthians]]>",
-      "time": "21/11 · 12:26",
-      "pubDate": "Sat, 21 Nov 2026 09:26:52 -0300"
     }
   ],
   "upcoming": [],
