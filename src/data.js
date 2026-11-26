@@ -1,14 +1,142 @@
-// Gerado automaticamente em 25/11/2026, 18:13:45
+// Gerado automaticamente em 26/11/2026, 03:49:12
 const LIVE_DATA = {
-  "updatedAt": "2026-11-25T18:13:45.040Z",
+  "updatedAt": "2026-11-26T03:49:12.814Z",
   "news": [
     {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
-      "title": "Corinthians nega afastamento de Allan e explica ausência contra o Atlético-MG",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-nega-afastamento-de-allan-e-explica-ausencia-contra-o-atletico-mg/",
-      "time": "25/11 · 16:55",
-      "pubDate": "Wed, 25 Nov 2026 16:55:01 +0000"
+      "title": "Empate entre Corinthians e Atlético-MG define permanência do Vitória na Série A",
+      "url": "https://www.gazetaesportiva.com/times/vitoria/empate-entre-corinthians-e-atletico-mg-define-permanencia-do-vitoria-na-serie-a/",
+      "time": "26/11 · 02:30",
+      "pubDate": "Thu, 26 Nov 2026 02:30:42 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Seedorf explica substituições e valoriza empate do Corinthians com o Atlético-MG",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-explica-substituicoes-valoriza-empate-corinthians/",
+      "time": "26/11 · 02:14",
+      "pubDate": "Thu, 26 Nov 2026 02:14:35 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Atlético-MG 1 x 1 Corinthians: assista aos melhores momentos do jogo pelo Brasileiro",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/atletico-mg-1-x-1-corinthians-assista-aos-melhores-momentos-do-jogo-pelo-brasileiro/",
+      "time": "26/11 · 01:27",
+      "pubDate": "Thu, 26 Nov 2026 01:27:12 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Cuello lamenta empate do Atlético-MG com o Corinthians e afirma: “Merecíamos a vitória”",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/cuello-lamenta-empate-do-atletico-mg-com-o-corinthians-e-afirma-mereciamos-a-vitoria/",
+      "time": "26/11 · 01:25",
+      "pubDate": "Thu, 26 Nov 2026 01:25:27 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Atlético-MG x Corinthians: melhores momentos",
+      "url": "https://www.tudotimao.com.br/noticia/232046/atletico-mg-x-corinthians-melhores-momentos",
+      "time": "26/11 · 01:22",
+      "pubDate": "Wed, 25 Nov 2026 22:22:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Fim de jogo: Corinthians abre o placar, mas sofre empate no final contra o Atlético-MG",
+      "url": "https://www.tudotimao.com.br/noticia/232045/fim-de-jogo-corinthians-abre-o-placar-mas-sofre-empate-no-final-contra-o-atletico-mg",
+      "time": "26/11 · 01:19",
+      "pubDate": "Wed, 25 Nov 2026 22:19:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Kaio César lamenta vacilo do Corinthians e projeta &#8220;final&#8221; contra o Grêmio",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-corinthians-gremio-final-brasileirao/",
+      "time": "26/11 · 01:18",
+      "pubDate": "Thu, 26 Nov 2026 01:18:50 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com um a mais, Corinthians cede empate ao Atlético-MG no fim, mas deixa o Z4",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-empate-atletico-mg-deixa-z4-brasileirao/",
+      "time": "26/11 · 01:07",
+      "pubDate": "Thu, 26 Nov 2026 01:07:12 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Gol do Corinthians: Kaio César abre o placar na Arena MRV",
+      "url": "https://www.tudotimao.com.br/noticia/232042/gol-do-corinthians-kaio-cesar-abre-o-placar-na-arena-mrv",
+      "time": "26/11 · 00:43",
+      "pubDate": "Wed, 25 Nov 2026 21:43:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Veja galeria de fotos do jogo entre Atlético-MG e Corinthians pela 36ª rodada do Brasileirão",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-galeria-de-fotos-do-jogo-entre-atletico-mg-e-corinthians-pela-36a-rodada-do-brasileirao/",
+      "time": "26/11 · 00:05",
+      "pubDate": "Thu, 26 Nov 2026 00:05:48 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians terá mudança no meio e novidades no banco contra o Atlético-MG; veja escalações",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/escalacoes-atletico-mg-x-corinthians-brasileirao-25-11-2026/",
+      "time": "25/11 · 22:08",
+      "pubDate": "Wed, 25 Nov 2026 22:08:52 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Escalados: Confira a equipe que vai a campo pelo Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/232033/escalados-confira-a-equipe-que-vai-a-campo-pelo-corinthians",
+      "time": "25/11 · 22:03",
+      "pubDate": "Wed, 25 Nov 2026 19:03:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians goleia e inicia Copinha Feminina com goleada de 6 a 0",
+      "url": "https://www.tudotimao.com.br/noticia/232032/corinthians-goleia-e-inicia-copinha-feminina-com-goleada-de-6-a-0",
+      "time": "25/11 · 21:41",
+      "pubDate": "Wed, 25 Nov 2026 18:41:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians desafia histórico negativo e busca primeira vitória na Arena MRV",
+      "url": "https://www.tudotimao.com.br/noticia/232031/corinthians-desafia-historico-negativo-e-busca-primeira-vitoria-na-arena-mrv",
+      "time": "25/11 · 21:20",
+      "pubDate": "Wed, 25 Nov 2026 18:20:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Pressão aumenta: Memphis Depay cobra clareza da diretoria do Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/232030/pressao-aumenta-memphis-depay-cobra-clareza-da-diretoria-do-corinthians",
+      "time": "25/11 · 20:51",
+      "pubDate": "Wed, 25 Nov 2026 17:51:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians nega afastamento em nota oficial e segue contando com Allan",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/allan-e-afastado-por-seedorf-nao-joga-mais-e-vai-sair-do-corinthians]]>",
+      "time": "25/11 · 17:38",
+      "pubDate": "Wed, 25 Nov 2026 14:38:54 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians não recebeu nenhuma proposta do Fluminense por Raniele",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-recebeu-nenhuma-proposta-do-fluminense-por-raniele]]>",
+      "time": "25/11 · 17:27",
+      "pubDate": "Wed, 25 Nov 2026 14:27:31 -0300"
     },
     {
       "source": "Tudo Timao",
@@ -19,116 +147,44 @@ const LIVE_DATA = {
       "pubDate": "Wed, 25 Nov 2026 13:50:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Palmeiras anuncia ingressos gratuitos para final do Paulista sub-20 contra o Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-ingressos-gratuitos-para-final-do-paulista-sub-20-contra-o-corinthians/",
-      "time": "25/11 · 12:58",
-      "pubDate": "Wed, 25 Nov 2026 12:58:53 +0000"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Depay, Garro e Yuri Alberto vão pedir rescisão no Corinthians, diz Neto",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/depay-garro-e-yuri-alberto-vao-pedir-rescisao-no-corinthians-diz-neto]]>",
+      "time": "25/11 · 15:15",
+      "pubDate": "Wed, 25 Nov 2026 12:15:04 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Duelo crucial! Corinthians pode deixar o Z4 contra o Atlético-MG",
-      "url": "https://www.tudotimao.com.br/noticia/232019/duelo-crucial-corinthians-pode-deixar-o-z4-contra-o-atletico-mg",
-      "time": "25/11 · 12:58",
-      "pubDate": "Wed, 25 Nov 2026 09:58:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Renato Augusto recebe contato e pode voltar ao Corinthians em 2027",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/renato-augusto-recebe-contato-e-pode-voltar-ao-corinthians-em-2027]]>",
+      "time": "25/11 · 15:05",
+      "pubDate": "Wed, 25 Nov 2026 12:05:48 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Atlético Mineiro x Corinthians: onde assistir e provável escalação",
-      "url": "https://www.tudotimao.com.br/noticia/232018/atletico-mineiro-x-corinthians-onde-assistir-e-provavel-escalacao",
-      "time": "25/11 · 12:48",
-      "pubDate": "Wed, 25 Nov 2026 09:48:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Frenkie De Jong admite torcida pela permanência do Corinthians na Série A",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/frenkie-de-jong-admite-torcida-pela-permanencia-do-corinthians-na-serie-a]]>",
+      "time": "25/11 · 13:35",
+      "pubDate": "Wed, 25 Nov 2026 10:35:20 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Vai virar SAF? Candidato aposta em SAF para mudar o Corinthians",
-      "url": "https://www.tudotimao.com.br/noticia/232017/vai-virar-saf-candidato-aposta-em-saf-para-mudar-o-corinthians",
-      "time": "25/11 · 12:36",
-      "pubDate": "Wed, 25 Nov 2026 09:36:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Bruno Spindel recebe contato e não descarta trabalhar no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/bruno-spindel-recebe-contato-e-nao-descarta-trabalhar-no-corinthians]]>",
+      "time": "25/11 · 12:52",
+      "pubDate": "Wed, 25 Nov 2026 09:52:49 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians e Santos estreiam na Copinha Feminina; veja onde assistir e horários",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-sao-paulo/corinthians-e-santos-estreiam-na-copinha-feminina-veja-onde-assistir-e-horarios/",
-      "time": "25/11 · 11:00",
-      "pubDate": "Wed, 25 Nov 2026 11:00:54 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians busca quebrar tabu na Arena MRV para se afastar do Z4 contra o Atlético-MG",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/retrospecto-atletico-mg-corinthians-arena-mrv/",
-      "time": "25/11 · 10:00",
-      "pubDate": "Wed, 25 Nov 2026 10:00:20 +0000"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Pressão em BH: Corinthians busca respiro contra Atlético-MG",
-      "url": "https://www.tudotimao.com.br/noticia/232013/pressao-em-bh-corinthians-busca-respiro-contra-atletico-mg",
-      "time": "25/11 · 01:28",
-      "pubDate": "Tue, 24 Nov 2026 22:28:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Com Garro, Corinthians chega a BH para duelo decisivo contra o Atlético-MG",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/com-garro-corinthians-chega-a-bh-para-duelo-decisivo-contra-o-atletico-mg/",
-      "time": "25/11 · 01:25",
-      "pubDate": "Wed, 25 Nov 2026 01:25:04 +0000"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians inicia reformulação no elenco feminino",
-      "url": "https://www.tudotimao.com.br/noticia/232014/corinthians-inicia-reformulacao-no-elenco-feminino",
-      "time": "25/11 · 01:11",
-      "pubDate": "Tue, 24 Nov 2026 22:11:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Vitinho destaca leveza e comunicação de Seedorf como chave do Corinthians",
-      "url": "https://www.tudotimao.com.br/noticia/232009/vitinho-destaca-leveza-e-comunicacao-de-seedorf-como-chave-do-corinthians",
-      "time": "25/11 · 01:09",
-      "pubDate": "Tue, 24 Nov 2026 22:09:00 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians inicia modernização dos telões da Neo Química Arena",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-inicia-modernizacao-dos-teloes-da-neo-quimica-arena/",
-      "time": "25/11 · 00:33",
-      "pubDate": "Wed, 25 Nov 2026 00:33:35 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Copinha 2027: veja os grupos de Corinthians, Palmeiras, São Paulo e Santos",
-      "url": "https://www.gazetaesportiva.com/campeonatos/copa-sao-paulo/copinha-2027-veja-os-grupos-de-corinthians-palmeiras-sao-paulo-e-santos/",
-      "time": "24/11 · 23:08",
-      "pubDate": "Tue, 24 Nov 2026 23:08:03 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atlético-MG x Corinthians pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atletico-mg-x-corinthians-brasileirao-rodada-36/",
-      "time": "24/11 · 23:00",
-      "pubDate": "Tue, 24 Nov 2026 23:00:47 +0000"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Intervenção no Corinthians: juíza questiona MP sobre irregularidades",
-      "url": "https://www.tudotimao.com.br/noticia/232006/intervencao-no-corinthians-juiza-questiona-mp-sobre-irregularidades",
-      "time": "24/11 · 22:05",
-      "pubDate": "Tue, 24 Nov 2026 19:05:00 -0300"
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Corinthians publica nota oficial após pedido de intervenção judicial do MP",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-publica-nota-oficial-apos-pedido-de-intervencao-judicial-do-mp]]>",
+      "time": "25/11 · 12:16",
+      "pubDate": "Wed, 25 Nov 2026 09:16:35 -0300"
     },
     {
       "source": "Bolavip",
@@ -137,62 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/rodrigo-garro-e-confirmado-por-seedorf-em-atletico-mg-x-corinthians]]>",
       "time": "24/11 · 18:40",
       "pubDate": "Tue, 24 Nov 2026 15:40:07 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians publica nota oficial após pedido de intervenção judicial do MP",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-publica-nota-oficial-apos-pedido-de-intervencao-judicial-do-mp]]>",
-      "time": "24/11 · 18:31",
-      "pubDate": "Tue, 24 Nov 2026 15:31:30 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vitinho, do Corinthians, revela onde quer jogar em 2027: “Será um prazer”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/vitinho-do-corinthians-revela-onde-quer-jogar-em-2027-sera-um-prazer]]>",
-      "time": "24/11 · 14:23",
-      "pubDate": "Tue, 24 Nov 2026 11:23:11 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Gabigol elogia gramado do estádio do Corinthians: “Tapete”",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/gabigol-elogia-gramado-do-estadio-do-corinthians-tapete]]>",
-      "time": "24/11 · 13:43",
-      "pubDate": "Tue, 24 Nov 2026 10:43:10 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians é humilhado por Cristiano Dresch, presidente do Cuiabá",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-humilhado-por-cristiano-dresch-presidente-do-cuiaba]]>",
-      "time": "24/11 · 12:58",
-      "pubDate": "Tue, 24 Nov 2026 09:58:03 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Vagner Mancini abre o jogo sobre contratação de Kaio César, do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/vagner-mancini-abre-o-jogo-sobre-contratacao-de-kaio-cesar-do-corinthians]]>",
-      "time": "24/11 · 12:20",
-      "pubDate": "Tue, 24 Nov 2026 09:20:54 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians estuda contratar centroavante de 35 anos sem gastar nenhum centavo",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-estuda-contratar-centroavante-de-35-anos-sem-gastar-nenhum-centavo]]>",
-      "time": "24/11 · 11:52",
-      "pubDate": "Tue, 24 Nov 2026 08:52:20 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Seedorf conquista elenco do Corinthians e recebe elogios",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-conquista-elenco-do-corinthians-e-recebe-elogios]]>",
-      "time": "23/11 · 16:31",
-      "pubDate": "Mon, 23 Nov 2026 13:31:00 -0300"
     }
   ],
   "upcoming": [],
