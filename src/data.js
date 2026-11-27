@@ -1,7 +1,71 @@
-// Gerado automaticamente em 27/11/2026, 01:11:38
+// Gerado automaticamente em 27/11/2026, 17:41:16
 const LIVE_DATA = {
-  "updatedAt": "2026-11-27T01:11:38.912Z",
+  "updatedAt": "2026-11-27T17:41:16.386Z",
   "news": [
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Crise do Corinthians vai parar nas telas em projeto de filme",
+      "url": "https://www.tudotimao.com.br/noticia/232118/crise-do-corinthians-vai-parar-nas-telas-em-projeto-de-filme",
+      "time": "27/11 · 13:27",
+      "pubDate": "Fri, 27 Nov 2026 10:27:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Debandada? Corinthians acumula atrasos e jogadores podem deixar o time",
+      "url": "https://www.tudotimao.com.br/noticia/232120/debandada-corinthians-acumula-atrasos-e-jogadores-podem-deixar-o-time",
+      "time": "27/11 · 13:25",
+      "pubDate": "Fri, 27 Nov 2026 10:25:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Justiça pode limitar poderes do novo presidente do Corinthians",
+      "url": "https://www.tudotimao.com.br/noticia/232121/justica-pode-limitar-poderes-do-novo-presidente-do-corinthians",
+      "time": "27/11 · 13:22",
+      "pubDate": "Fri, 27 Nov 2026 10:22:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Janikian propõe reestruturação financeira drástica e novo Corinthians até 2029",
+      "url": "https://www.tudotimao.com.br/noticia/232119/janikian-propoe-reestruturacao-financeira-drastica-e-novo-corinthians-ate-2029",
+      "time": "27/11 · 12:19",
+      "pubDate": "Fri, 27 Nov 2026 09:19:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians pode garantir permanência na Série A neste domingo; veja contas",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-escapar-rebaixamento-brasileirao-domingo/",
+      "time": "27/11 · 08:00",
+      "pubDate": "Fri, 27 Nov 2026 08:00:03 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "André Castro mantém proposta de aporte financeiro no Corinthians, mas não promete valores",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/andre-castro-aporte-us-1-bilhao-plano-corinthians/",
+      "time": "27/11 · 07:00",
+      "pubDate": "Fri, 27 Nov 2026 07:00:20 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Justiça rejeita pedido de intervenção judicial e afastamento do presidente do Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intervencao-judicial-eleicoes/",
+      "time": "27/11 · 04:13",
+      "pubDate": "Fri, 27 Nov 2026 04:13:43 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Carpini vê gols do São Paulo como &#8220;bizarros&#8221; e projeta duelo contra Corinthians",
+      "url": "https://www.gazetaesportiva.com/times/remo-pa/carpini-ve-gols-do-sao-paulo-como-bizarros-e-projeta-duelo-contra-corinthians/",
+      "time": "27/11 · 03:05",
+      "pubDate": "Fri, 27 Nov 2026 03:05:04 +0000"
+    },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
@@ -51,14 +115,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Nov 2026 21:09:43 +0000"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians vive momentos decisivos em busca de nova chance na Sul-Americana",
-      "url": "https://www.tudotimao.com.br/noticia/232092/corinthians-vive-momentos-decisivos-em-busca-de-nova-chance-na-sul-americana",
-      "time": "26/11 · 20:38",
-      "pubDate": "Thu, 26 Nov 2026 17:38:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Torcida do Corinthians esgota ingressos para duelo decisivo contra o Grêmio",
@@ -69,18 +125,18 @@ const LIVE_DATA = {
     {
       "source": "Bolavip",
       "color": "#0055A5",
+      "title": "Corinthians vai receber R$ 15,7 milhões após Cacá cumprir metas no Vitória",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-caca-vitoria]]>",
+      "time": "26/11 · 18:28",
+      "pubDate": "Thu, 26 Nov 2026 15:28:43 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
       "title": "Seedorf é culpado pelo empate em Atlético-MG x Corinthians, diz Villani",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-e-culpado-pelo-empate-em-atletico-mg-x-corinthians-diz-villani]]>",
       "time": "26/11 · 17:39",
       "pubDate": "Thu, 26 Nov 2026 14:39:22 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Seedorf eleva rendimento do Corinthians, mas ainda luta contra o Z4",
-      "url": "https://www.tudotimao.com.br/noticia/232080/seedorf-eleva-rendimento-do-corinthians-mas-ainda-luta-contra-o-z4",
-      "time": "26/11 · 17:08",
-      "pubDate": "Thu, 26 Nov 2026 14:08:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -107,22 +163,6 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Nov 2026 11:07:31 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Retorno de ídolo? Ex-Corinthians pode assumir cargo na diretoria",
-      "url": "https://www.tudotimao.com.br/noticia/232075/retorno-de-idolo-ex-corinthians-pode-assumir-cargo-na-diretoria",
-      "time": "26/11 · 13:47",
-      "pubDate": "Thu, 26 Nov 2026 10:47:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians pode garantir permanência se vencer o Grêmio",
-      "url": "https://www.tudotimao.com.br/noticia/232071/corinthians-pode-garantir-permanencia-se-vencer-o-gremio",
-      "time": "26/11 · 13:47",
-      "pubDate": "Thu, 26 Nov 2026 10:47:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Chance de rebaixamento reduz para 24,9% após empate do Corinthians",
@@ -147,52 +187,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Nov 2026 09:27:36 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Análise: Corinthians deixa escapar dois pontos preciosos na luta contra o Z4",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-empate-atletico-mg-resultado-justo-analise/",
-      "time": "26/11 · 10:00",
-      "pubDate": "Thu, 26 Nov 2026 10:00:38 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians reduz risco de queda após empate com o Atlético-MG; veja chances",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reduz-risco-rebaixamento-brasileirao-ufmg/",
-      "time": "26/11 · 09:00",
-      "pubDate": "Thu, 26 Nov 2026 09:00:08 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atuações do Corinthians: Kaio César brilha em BH e Memphis é discreto",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-notas-corinthians-empate-atletico-mg/",
-      "time": "26/11 · 08:00",
-      "pubDate": "Thu, 26 Nov 2026 08:00:19 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Rozallah propõe concessão da Arena e separação entre futebol e clube social no Corinthians",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/rozallah-concessao-arena-ceo-corinthians-eleicao/",
-      "time": "26/11 · 07:00",
-      "pubDate": "Thu, 26 Nov 2026 07:00:13 +0000"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Kaio César admite frustração após empate do Corinthians, mas comemora bom momento",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-admite-frustracao-empate-corinthians]]>",
       "time": "26/11 · 07:00",
       "pubDate": "Thu, 26 Nov 2026 04:00:00 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Marcelo Paz não descarta voltar ao Corinthians com novo presidente",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-nao-descarta-voltar-ao-corinthians-com-novo-presidente]]>",
-      "time": "25/11 · 19:03",
-      "pubDate": "Wed, 25 Nov 2026 16:03:15 -0300"
     }
   ],
   "upcoming": [],
