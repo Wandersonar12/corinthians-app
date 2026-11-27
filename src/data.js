@@ -1,7 +1,79 @@
-// Gerado automaticamente em 26/11/2026, 17:55:44
+// Gerado automaticamente em 27/11/2026, 01:11:38
 const LIVE_DATA = {
-  "updatedAt": "2026-11-26T17:55:44.523Z",
+  "updatedAt": "2026-11-27T01:11:38.912Z",
   "news": [
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "De saída: Zagueiro é vendido pelo Corinthians por mais de R$10 milhões",
+      "url": "https://www.tudotimao.com.br/noticia/232099/de-saida-zagueiro-e-vendido-pelo-corinthians-por-mais-de-r-10-milhoes",
+      "time": "27/11 · 00:12",
+      "pubDate": "Thu, 26 Nov 2026 21:12:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Ex-comissão técnica de Fernando Diniz cobra R$ 2,4 milhões do Corinthians na justiça",
+      "url": "https://www.tudotimao.com.br/noticia/232098/ex-comissao-tecnica-de-fernando-diniz-cobra-r-2-4-milhoes-do-corinthians-na-justica",
+      "time": "26/11 · 23:20",
+      "pubDate": "Thu, 26 Nov 2026 20:20:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians aposta em Lucas Macorin para resgatar protagonismo no futebol feminino",
+      "url": "https://www.tudotimao.com.br/noticia/232097/corinthians-aposta-em-lucas-macorin-para-resgatar-protagonismo-no-futebol-feminino",
+      "time": "26/11 · 22:48",
+      "pubDate": "Thu, 26 Nov 2026 19:48:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Atacante do Corinthians é absolvido no STJD e jogará final da Supercopa Sub-17",
+      "url": "https://www.tudotimao.com.br/noticia/232096/atacante-do-corinthians-e-absolvido-no-stjd-e-jogara-final-da-supercopa-sub-17",
+      "time": "26/11 · 22:07",
+      "pubDate": "Thu, 26 Nov 2026 19:07:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians volta aos treinos e terá reforços para duelo contra o Grêmio",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reforcos-yuri-alberto-carrillo-gremio/",
+      "time": "26/11 · 21:49",
+      "pubDate": "Thu, 26 Nov 2026 21:49:05 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians anuncia Lucas Macorin como novo técnico da equipe feminina",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-anuncia-lucas-macorin-tecnico-feminino/",
+      "time": "26/11 · 21:09",
+      "pubDate": "Thu, 26 Nov 2026 21:09:43 +0000"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians vive momentos decisivos em busca de nova chance na Sul-Americana",
+      "url": "https://www.tudotimao.com.br/noticia/232092/corinthians-vive-momentos-decisivos-em-busca-de-nova-chance-na-sul-americana",
+      "time": "26/11 · 20:38",
+      "pubDate": "Thu, 26 Nov 2026 17:38:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Torcida do Corinthians esgota ingressos para duelo decisivo contra o Grêmio",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-ingressos-esgotados-gremio-brasileirao/",
+      "time": "26/11 · 19:34",
+      "pubDate": "Thu, 26 Nov 2026 19:34:38 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf é culpado pelo empate em Atlético-MG x Corinthians, diz Villani",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-e-culpado-pelo-empate-em-atletico-mg-x-corinthians-diz-villani]]>",
+      "time": "26/11 · 17:39",
+      "pubDate": "Thu, 26 Nov 2026 14:39:22 -0300"
+    },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
@@ -9,6 +81,14 @@ const LIVE_DATA = {
       "url": "https://www.tudotimao.com.br/noticia/232080/seedorf-eleva-rendimento-do-corinthians-mas-ainda-luta-contra-o-z4",
       "time": "26/11 · 17:08",
       "pubDate": "Thu, 26 Nov 2026 14:08:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Seedorf descarta afastamento de Allan e expõe situação no Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-descarta-afastamento-de-allan-e-expoe-situacao-no-corinthians]]>",
+      "time": "26/11 · 15:05",
+      "pubDate": "Thu, 26 Nov 2026 12:05:50 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -41,22 +121,6 @@ const LIVE_DATA = {
       "url": "https://www.tudotimao.com.br/noticia/232071/corinthians-pode-garantir-permanencia-se-vencer-o-gremio",
       "time": "26/11 · 13:47",
       "pubDate": "Thu, 26 Nov 2026 10:47:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians desperdiça vantagem e terá decisão contra o Grêmio no domingo",
-      "url": "https://www.tudotimao.com.br/noticia/232068/corinthians-desperdica-vantagem-e-tera-decisao-contra-o-gremio-no-domingo",
-      "time": "26/11 · 13:47",
-      "pubDate": "Thu, 26 Nov 2026 10:47:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Santoro propõe reestruturação financeira e visa redução de R$ 800 milhões na dívida do Corinthians",
-      "url": "https://www.tudotimao.com.br/noticia/232066/santoro-propoe-reestruturacao-financeira-e-visa-reducao-de-r-800-milhoes-na-divida-do-corinthians",
-      "time": "26/11 · 13:45",
-      "pubDate": "Thu, 26 Nov 2026 10:45:00 -0300"
     },
     {
       "source": "Bolavip",
@@ -123,76 +187,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Nov 2026 04:00:00 -0300"
     },
     {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Empate entre Corinthians e Atlético-MG define permanência do Vitória na Série A",
-      "url": "https://www.gazetaesportiva.com/times/vitoria/empate-entre-corinthians-e-atletico-mg-define-permanencia-do-vitoria-na-serie-a/",
-      "time": "26/11 · 02:30",
-      "pubDate": "Thu, 26 Nov 2026 02:30:42 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf explica substituições e valoriza empate do Corinthians com o Atlético-MG",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-explica-substituicoes-valoriza-empate-corinthians/",
-      "time": "26/11 · 02:14",
-      "pubDate": "Thu, 26 Nov 2026 02:14:35 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Atlético-MG 1 x 1 Corinthians: assista aos melhores momentos do jogo pelo Brasileiro",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/atletico-mg-1-x-1-corinthians-assista-aos-melhores-momentos-do-jogo-pelo-brasileiro/",
-      "time": "26/11 · 01:27",
-      "pubDate": "Thu, 26 Nov 2026 01:27:12 +0000"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Atlético-MG x Corinthians: melhores momentos",
-      "url": "https://www.tudotimao.com.br/noticia/232046/atletico-mg-x-corinthians-melhores-momentos",
-      "time": "26/11 · 01:22",
-      "pubDate": "Wed, 25 Nov 2026 22:22:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Fim de jogo: Corinthians abre o placar, mas sofre empate no final contra o Atlético-MG",
-      "url": "https://www.tudotimao.com.br/noticia/232045/fim-de-jogo-corinthians-abre-o-placar-mas-sofre-empate-no-final-contra-o-atletico-mg",
-      "time": "26/11 · 01:19",
-      "pubDate": "Wed, 25 Nov 2026 22:19:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Gol do Corinthians: Kaio César abre o placar na Arena MRV",
-      "url": "https://www.tudotimao.com.br/noticia/232042/gol-do-corinthians-kaio-cesar-abre-o-placar-na-arena-mrv",
-      "time": "26/11 · 00:43",
-      "pubDate": "Wed, 25 Nov 2026 21:43:00 -0300"
-    },
-    {
       "source": "Bolavip",
       "color": "#0055A5",
       "title": "Marcelo Paz não descarta voltar ao Corinthians com novo presidente",
       "url": "<![CDATA[https://br.bolavip.com/corinthians/marcelo-paz-nao-descarta-voltar-ao-corinthians-com-novo-presidente]]>",
       "time": "25/11 · 19:03",
       "pubDate": "Wed, 25 Nov 2026 16:03:15 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians não recebeu nenhuma proposta do Fluminense por Raniele",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-nao-recebeu-nenhuma-proposta-do-fluminense-por-raniele]]>",
-      "time": "25/11 · 17:27",
-      "pubDate": "Wed, 25 Nov 2026 14:27:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Renato Augusto recebe contato e pode voltar ao Corinthians em 2027",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/renato-augusto-recebe-contato-e-pode-voltar-ao-corinthians-em-2027]]>",
-      "time": "25/11 · 15:05",
-      "pubDate": "Wed, 25 Nov 2026 12:05:48 -0300"
     }
   ],
   "upcoming": [],
