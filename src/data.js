@@ -1,7 +1,71 @@
-// Gerado automaticamente em 27/11/2026, 17:41:16
+// Gerado automaticamente em 28/11/2026, 00:44:24
 const LIVE_DATA = {
-  "updatedAt": "2026-11-27T17:41:16.386Z",
+  "updatedAt": "2026-11-28T00:44:24.691Z",
   "news": [
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Multa por atraso adiciona pressão ao Corinthians após empate",
+      "url": "https://www.tudotimao.com.br/noticia/232136/multa-por-atraso-adiciona-pressao-ao-corinthians-apos-empate",
+      "time": "28/11 · 00:32",
+      "pubDate": "Fri, 27 Nov 2026 21:32:00 -0300"
+    },
+    {
+      "source": "Tudo Timao",
+      "color": "#c8a84b",
+      "title": "Corinthians celebra rejeição de intervenção judicial e garante manutenção dos pagamentos",
+      "url": "https://www.tudotimao.com.br/noticia/232134/corinthians-celebra-rejeicao-de-intervencao-judicial-e-garante-manutencao-dos-pagamentos",
+      "time": "27/11 · 23:36",
+      "pubDate": "Fri, 27 Nov 2026 20:36:00 -0300"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Grêmio: veja onde assistir ao jogo pelo Brasileirão",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-gremio-onde-assistir-brasileirao-37-rodada/",
+      "time": "27/11 · 23:00",
+      "pubDate": "Fri, 27 Nov 2026 23:00:28 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Corinthians x Atlético-MG: saiba onde assistir ao duelo pela Copinha Feminina",
+      "url": "https://www.gazetaesportiva.com/campeonatos/copa-sao-paulo/corinthians-atletico-mg-onde-assistir-copinha-feminina/",
+      "time": "27/11 · 23:00",
+      "pubDate": "Fri, 27 Nov 2026 23:00:01 +0000"
+    },
+    {
+      "source": "Gazeta Esportiva",
+      "color": "#E5820A",
+      "title": "Com titulares poupados, Corinthians avança na preparação para encarar o Grêmio",
+      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-adota-cautela-com-titulares-em-preparacao-para-duelo-com-o-gremio/",
+      "time": "27/11 · 18:34",
+      "pubDate": "Fri, 27 Nov 2026 18:34:24 +0000"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Comissão técnica de Fernando Diniz cobra R$ 2,4 milhões do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/comissao-tecnica-de-fernando-diniz-cobra-r-24-milhoes-do-corinthians]]>",
+      "time": "27/11 · 16:33",
+      "pubDate": "Fri, 27 Nov 2026 13:33:39 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Ex-Corinthians, Fagner será dispensado pelo Cruzeiro ao final de 2026",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/ex-corinthians-fagner-sera-dispensado-pelo-cruzeiro-ao-final-de-2026]]>",
+      "time": "27/11 · 14:42",
+      "pubDate": "Fri, 27 Nov 2026 11:42:10 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Insatisfação do elenco com Stabile aumentou nos bastidores do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-elenco-salarios-osmar-stabile]]>",
+      "time": "27/11 · 13:58",
+      "pubDate": "Fri, 27 Nov 2026 10:58:34 -0300"
+    },
     {
       "source": "Tudo Timao",
       "color": "#c8a84b",
@@ -27,12 +91,28 @@ const LIVE_DATA = {
       "pubDate": "Fri, 27 Nov 2026 10:22:00 -0300"
     },
     {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Thiago Carpini manda recado antes de Remo x Corinthians: “Não é problema nosso”",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-remo-thiago-carpini]]>",
+      "time": "27/11 · 13:09",
+      "pubDate": "Fri, 27 Nov 2026 10:09:14 -0300"
+    },
+    {
       "source": "Tudo Timao",
       "color": "#c8a84b",
       "title": "Janikian propõe reestruturação financeira drástica e novo Corinthians até 2029",
       "url": "https://www.tudotimao.com.br/noticia/232119/janikian-propoe-reestruturacao-financeira-drastica-e-novo-corinthians-ate-2029",
       "time": "27/11 · 12:19",
       "pubDate": "Fri, 27 Nov 2026 09:19:00 -0300"
+    },
+    {
+      "source": "Bolavip",
+      "color": "#0055A5",
+      "title": "Renovação de contrato está descartada e Carrillo vai sair do Corinthians",
+      "url": "<![CDATA[https://br.bolavip.com/corinthians/renovacao-de-contrato-esta-descartada-e-carrillo-vai-sair-do-corinthians]]>",
+      "time": "27/11 · 11:54",
+      "pubDate": "Fri, 27 Nov 2026 08:54:22 -0300"
     },
     {
       "source": "Gazeta Esportiva",
@@ -83,44 +163,12 @@ const LIVE_DATA = {
       "pubDate": "Thu, 26 Nov 2026 20:20:00 -0300"
     },
     {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Corinthians aposta em Lucas Macorin para resgatar protagonismo no futebol feminino",
-      "url": "https://www.tudotimao.com.br/noticia/232097/corinthians-aposta-em-lucas-macorin-para-resgatar-protagonismo-no-futebol-feminino",
-      "time": "26/11 · 22:48",
-      "pubDate": "Thu, 26 Nov 2026 19:48:00 -0300"
-    },
-    {
-      "source": "Tudo Timao",
-      "color": "#c8a84b",
-      "title": "Atacante do Corinthians é absolvido no STJD e jogará final da Supercopa Sub-17",
-      "url": "https://www.tudotimao.com.br/noticia/232096/atacante-do-corinthians-e-absolvido-no-stjd-e-jogara-final-da-supercopa-sub-17",
-      "time": "26/11 · 22:07",
-      "pubDate": "Thu, 26 Nov 2026 19:07:00 -0300"
-    },
-    {
       "source": "Gazeta Esportiva",
       "color": "#E5820A",
       "title": "Corinthians volta aos treinos e terá reforços para duelo contra o Grêmio",
       "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reforcos-yuri-alberto-carrillo-gremio/",
       "time": "26/11 · 21:49",
       "pubDate": "Thu, 26 Nov 2026 21:49:05 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Corinthians anuncia Lucas Macorin como novo técnico da equipe feminina",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-anuncia-lucas-macorin-tecnico-feminino/",
-      "time": "26/11 · 21:09",
-      "pubDate": "Thu, 26 Nov 2026 21:09:43 +0000"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Torcida do Corinthians esgota ingressos para duelo decisivo contra o Grêmio",
-      "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-ingressos-esgotados-gremio-brasileirao/",
-      "time": "26/11 · 19:34",
-      "pubDate": "Thu, 26 Nov 2026 19:34:38 +0000"
     },
     {
       "source": "Bolavip",
@@ -145,54 +193,6 @@ const LIVE_DATA = {
       "url": "<![CDATA[https://br.bolavip.com/corinthians/seedorf-descarta-afastamento-de-allan-e-expoe-situacao-no-corinthians]]>",
       "time": "26/11 · 15:05",
       "pubDate": "Thu, 26 Nov 2026 12:05:50 -0300"
-    },
-    {
-      "source": "Gazeta Esportiva",
-      "color": "#E5820A",
-      "title": "Seedorf valoriza ponto conquistado pelo Corinthians apesar de empate no fim",
-      "url": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-valoriza-ponto-conquistado-pelo-corinthians-apesar-de-empate-no-fim/",
-      "time": "26/11 · 14:52",
-      "pubDate": "Thu, 26 Nov 2026 14:52:14 +0000"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians na Sul-Americana de 2027 garante R$ 400 mil para Seedorf",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-na-sul-americana-de-2027-garante-r-400-mil-para-seedorf]]>",
-      "time": "26/11 · 14:07",
-      "pubDate": "Thu, 26 Nov 2026 11:07:31 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Chance de rebaixamento reduz para 24,9% após empate do Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/chance-de-rebaixamento-reduz-para-249-apos-empate-do-corinthians]]>",
-      "time": "26/11 · 13:23",
-      "pubDate": "Thu, 26 Nov 2026 10:23:29 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Corinthians é denunciado pelo STJD após súmula entregue por Wilton Pereira Sampaio",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/corinthians-e-denunciado-pelo-stjd-apos-sumula-entregue-por-wilton-pereira-sampaio]]>",
-      "time": "26/11 · 12:44",
-      "pubDate": "Thu, 26 Nov 2026 09:44:16 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Eduardo Domínguez desabafa após empate entre Atlético-MG e Corinthians",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/eduardo-dominguez-desabafa-apos-empate-entre-atletico-mg-e-corinthians]]>",
-      "time": "26/11 · 12:27",
-      "pubDate": "Thu, 26 Nov 2026 09:27:36 -0300"
-    },
-    {
-      "source": "Bolavip",
-      "color": "#0055A5",
-      "title": "Kaio César admite frustração após empate do Corinthians, mas comemora bom momento",
-      "url": "<![CDATA[https://br.bolavip.com/corinthians/kaio-cesar-admite-frustracao-empate-corinthians]]>",
-      "time": "26/11 · 07:00",
-      "pubDate": "Thu, 26 Nov 2026 04:00:00 -0300"
     }
   ],
   "upcoming": [],
